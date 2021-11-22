@@ -23,7 +23,7 @@ import re, os, sys, time
 #     for line in filedata:
 #         if line != '\n':
 #             out_file.write(line)
-#
+#print(" -- finished removing newlines --")
 # ####-------------------------------------------------####
 # #                  Remove Brackets - START
 # ####-------------------------------------------------####
@@ -48,7 +48,7 @@ import re, os, sys, time
 #         else:
 #             #print("Did not find [")                                                     # TODO: remove this debug line
 #             out_file.write(line)
-#
+#print(" -- finished removing brackets --")
 # ####-------------------------------------------------####
 # #                  Fix Double Kana - START
 # ####-------------------------------------------------####
@@ -124,7 +124,7 @@ with open('sentences_different.txt', 'r', encoding="utf8") as in_file:
         # debug lines
         grammar_check_line_1 = grammar_line_being_read + TWO_SENTENCE_SPACING_WITH_KANA
         grammar_check_line_2 = grammar_line_being_read + TWO_SENTENCE_SPACING_MISSING_KANA
-    print(" -- finished --")
+    print(" -- finished fixing kana --")
 # # ---------- SAVE FILE ----------
 with open('sentences_different.txt', 'w', encoding="utf8") as out_file:
     for line in filedata:
