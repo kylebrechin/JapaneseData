@@ -1,0 +1,552 @@
+[
+    {
+        "kana": "a",
+        "character": "ア",
+        "romanization": "a"
+    },
+    {
+        "kana": "i",
+        "character": "イ",
+        "romanization": "i"
+    },
+    {
+        "kana": "u",
+        "character": "ウ",
+        "romanization": "u"
+    },
+    {
+        "kana": "e",
+        "character": "エ",
+        "romanization": "e"
+    },
+    {
+        "kana": "o",
+        "character": "オ",
+        "romanization": "o"
+    },
+    {
+        "kana": "ka",
+        "character": "カ",
+        "romanization": "ka"
+    },
+    {
+        "kana": "ki",
+        "character": "キ",
+        "romanization": "ki"
+    },
+    {
+        "kana": "ku",
+        "character": "ク",
+        "romanization": "ku"
+    },
+    {
+        "kana": "ke",
+        "character": "ケ",
+        "romanization": "ke"
+    },
+    {
+        "kana": "ko",
+        "character": "コ",
+        "romanization": "ko"
+    },
+    {
+        "kana": "sa",
+        "character": "サ",
+        "romanization": "sa"
+    },
+    {
+        "kana": "si",
+        "character": "シ",
+        "romanization": "shi"
+    },
+    {
+        "kana": "su",
+        "character": "ス",
+        "romanization": "su"
+    },
+    {
+        "kana": "se",
+        "character": "セ",
+        "romanization": "se"
+    },
+    {
+        "kana": "so",
+        "character": "ソ",
+        "romanization": "so"
+    },
+    {
+        "kana": "ta",
+        "character": "タ",
+        "romanization": "ta"
+    },
+    {
+        "kana": "ti",
+        "character": "チ",
+        "romanization": "chi"
+    },
+    {
+        "kana": "tu",
+        "character": "ツ",
+        "romanization": "tsu"
+    },
+    {
+        "kana": "te",
+        "character": "テ",
+        "romanization": "te"
+    },
+    {
+        "kana": "to",
+        "character": "ト",
+        "romanization": "to"
+    },
+    {
+        "kana": "na",
+        "character": "ナ",
+        "romanization": "na"
+    },
+    {
+        "kana": "ni",
+        "character": "ニ",
+        "romanization": "ni"
+    },
+    {
+        "kana": "nu",
+        "character": "ヌ",
+        "romanization": "nu"
+    },
+    {
+        "kana": "ne",
+        "character": "ネ",
+        "romanization": "ne"
+    },
+    {
+        "kana": "no",
+        "character": "ノ",
+        "romanization": "no"
+    },
+    {
+        "kana": "ha",
+        "character": "ハ",
+        "romanization": "ha"
+    },
+    {
+        "kana": "hi",
+        "character": "ヒ",
+        "romanization": "hi"
+    },
+    {
+        "kana": "hu",
+        "character": "フ",
+        "romanization": "fu"
+    },
+    {
+        "kana": "he",
+        "character": "ヘ",
+        "romanization": "he"
+    },
+    {
+        "kana": "ho",
+        "character": "ホ",
+        "romanization": "ho"
+    },
+    {
+        "kana": "ma",
+        "character": "マ",
+        "romanization": "ma"
+    },
+    {
+        "kana": "mi",
+        "character": "ミ",
+        "romanization": "mi"
+    },
+    {
+        "kana": "mu",
+        "character": "ム",
+        "romanization": "mu"
+    },
+    {
+        "kana": "me",
+        "character": "メ",
+        "romanization": "me"
+    },
+    {
+        "kana": "mo",
+        "character": "モ",
+        "romanization": "mo"
+    },
+    {
+        "kana": "ya",
+        "character": "ヤ",
+        "romanization": "ya"
+    },
+    {
+        "kana": "yu",
+        "character": "ユ",
+        "romanization": "yu"
+    },
+    {
+        "kana": "yo",
+        "character": "ヨ",
+        "romanization": "yo"
+    },
+    {
+        "kana": "ra",
+        "character": "ラ",
+        "romanization": "ra"
+    },
+    {
+        "kana": "ri",
+        "character": "リ",
+        "romanization": "ri"
+    },
+    {
+        "kana": "ru",
+        "character": "ル",
+        "romanization": "ru"
+    },
+    {
+        "kana": "re",
+        "character": "レ",
+        "romanization": "re"
+    },
+    {
+        "kana": "ro",
+        "character": "ロ",
+        "romanization": "ro"
+    },
+    {
+        "kana": "wa",
+        "character": "ワ",
+        "romanization": "wa"
+    },
+    {
+      "kana": "wi",
+      "character": "ヰ",
+      "romanization": "wi"
+    },
+    {
+        "kana": "we",
+        "character": "ヱ",
+        "romanization": "we"
+    },
+    {
+        "kana": "wo",
+        "character": "ヲ",
+        "romanization": "wo"
+    },
+    {
+        "kana": "n",
+        "character": "ン",
+        "romanization": "n"
+    },
+    {
+        "kana": "ga",
+        "character": "ガ",
+        "romanization": "ga"
+    },
+    {
+        "kana": "gi",
+        "character": "ギ",
+        "romanization": "gi"
+    },
+    {
+        "kana": "gu",
+        "character": "グ",
+        "romanization": "gu"
+    },
+    {
+        "kana": "ge",
+        "character": "ゲ",
+        "romanization": "ge"
+    },
+    {
+        "kana": "go",
+        "character": "ゴ",
+        "romanization": "go"
+    },
+    {
+        "kana": "za",
+        "character": "ザ",
+        "romanization": "za"
+    },
+    {
+        "kana": "zi",
+        "character": "ジ",
+        "romanization": "ji"
+    },
+    {
+        "kana": "zu",
+        "character": "ズ",
+        "romanization": "zu"
+    },
+    {
+        "kana": "ze",
+        "character": "ゼ",
+        "romanization": "ze"
+    },
+    {
+        "kana": "zo",
+        "character": "ゾ",
+        "romanization": "zo"
+    },
+    {
+        "kana": "da",
+        "character": "ダ",
+        "romanization": "da"
+    },
+    {
+        "kana": "di",
+        "character": "ヂ",
+        "romanization": "ji"
+    },
+    {
+        "kana": "du",
+        "character": "ヅ",
+        "romanization": "zu"
+    },
+    {
+        "kana": "de",
+        "character": "デ",
+        "romanization": "de"
+    },
+    {
+        "kana": "do",
+        "character": "ド",
+        "romanization": "do"
+    },
+    {
+        "kana": "ba",
+        "character": "バ",
+        "romanization": "ba"
+    },
+    {
+        "kana": "bi",
+        "character": "ビ",
+        "romanization": "bi"
+    },
+    {
+        "kana": "bu",
+        "character": "ブ",
+        "romanization": "bu"
+    },
+    {
+        "kana": "be",
+        "character": "ベ",
+        "romanization": "be"
+    },
+    {
+        "kana": "bo",
+        "character": "ボ",
+        "romanization": "bo"
+    },
+    {
+        "kana": "pa",
+        "character": "パ",
+        "romanization": "pa"
+    },
+    {
+        "kana": "pi",
+        "character": "ピ",
+        "romanization": "pi"
+    },
+    {
+        "kana": "pu",
+        "character": "プ",
+        "romanization": "pu"
+    },
+    {
+        "kana": "pe",
+        "character": "ペ",
+        "romanization": "pe"
+    },
+    {
+        "kana": "po",
+        "character": "ポ",
+        "romanization": "po"
+    },
+    {
+        "kana": "vu",
+        "character": "ヴ",
+        "romanization": "vu"
+    },
+    {
+        "kana": "kya",
+        "character": "キャ",
+        "romanization": "kya"
+    },
+    {
+        "kana": "kyu",
+        "character": "キュ",
+        "romanization": "kyu"
+    },
+    {
+        "kana": "kyo",
+        "character": "キョ",
+        "romanization": "kyo"
+    },
+    {
+        "kana": "sya",
+        "character": "シャ",
+        "romanization": "sha"
+    },
+    {
+        "kana": "syu",
+        "character": "シュ",
+        "romanization": "shu"
+    },
+    {
+        "kana": "syo",
+        "character": "ショ",
+        "romanization": "sho"
+    },
+    {
+        "kana": "cya",
+        "character": "チャ",
+        "romanization": "cha"
+    },
+    {
+        "kana": "cyu",
+        "character": "チュ",
+        "romanization": "chu"
+    },
+    {
+        "kana": "cyo",
+        "character": "チョ",
+        "romanization": "cho"
+    },
+    {
+        "kana": "nya",
+        "character": "ニャ",
+        "romanization": "nya"
+    },
+    {
+        "kana": "nyu",
+        "character": "ニュ",
+        "romanization": "nyu"
+    },
+    {
+        "kana": "nyo",
+        "character": "ニョ",
+        "romanization": "nyo"
+    },
+    {
+        "kana": "hya",
+        "character": "ヒャ",
+        "romanization": "hya"
+    },
+    {
+        "kana": "hyu",
+        "character": "ヒュ",
+        "romanization": "hyu"
+    },
+    {
+        "kana": "hyo",
+        "character": "ヒョ",
+        "romanization": "hyo"
+    },
+    {
+        "kana": "mya",
+        "character": "ミャ",
+        "romanization": "mya"
+    },
+    {
+        "kana": "myu",
+        "character": "ミュ",
+        "romanization": "myu"
+    },
+    {
+        "kana": "myo",
+        "character": "ミョ",
+        "romanization": "myo"
+    },
+    {
+        "kana": "rya",
+        "character": "リャ",
+        "romanization": "rya"
+    },
+    {
+        "kana": "ryu",
+        "character": "リュ",
+        "romanization": "ryu"
+    },
+    {
+        "kana": "ryo",
+        "character": "リョ",
+        "romanization": "ryo"
+    },
+    {
+        "kana": "gya",
+        "character": "ギャ",
+        "romanization": "gya"
+    },
+    {
+        "kana": "gyu",
+        "character": "ギュ",
+        "romanization": "gyu"
+    },
+    {
+        "kana": "gyo",
+        "character": "ギョ",
+        "romanization": "gyo"
+    },
+    {
+        "kana": "zya",
+        "character": "ジャ",
+        "romanization": "ja"
+    },
+    {
+        "kana": "zyu",
+        "character": "ジュ",
+        "romanization": "ju"
+    },
+    {
+        "kana": "zyo",
+        "character": "ジョ",
+        "romanization": "jo"
+    },
+    {
+        "kana": "dya",
+        "character": "ヂャ",
+        "romanization": "ja"
+    },
+    {
+        "kana": "dyu",
+        "character": "ヂュ",
+        "romanization": "ju"
+    },
+    {
+        "kana": "dyo",
+        "character": "ヂョ",
+        "romanization": "jo"
+    },
+    {
+        "kana": "bya",
+        "character": "ビャ",
+        "romanization": "bya"
+    },
+    {
+        "kana": "byu",
+        "character": "ビュ",
+        "romanization": "byu"
+    },
+    {
+        "kana": "byo",
+        "character": "ヒョ",
+        "romanization": "byo"
+    },
+    {
+        "kana": "pya",
+        "character": "ピャ",
+        "romanization": "pya"
+    },
+    {
+        "kana": "pyu",
+        "character": "ピュ",
+        "romanization": "pyu"
+    },
+    {
+        "kana": "pyo",
+        "character": "ピョ",
+        "romanization": "pyo"
+    }
+]
