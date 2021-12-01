@@ -1,5 +1,12 @@
 # JapaneseData
 
+### Data/hiragana.json
+Hiragana
+- https://raw.githubusercontent.com/kylebrechin/JapaneseData/main/Data/hiragana.json?token=AEOX5M3MVZAW4FDEW6IEJ7TBU5CDI
+
+### Data/katakana.json
+Katakana
+- https://raw.githubusercontent.com/kylebrechin/JapaneseData/main/Data/katakana.json?token=AEOX5MYNRBEXOR2GKHERAZDBU5CGQ
 
 ### core_1000.csv
 
