@@ -90,7 +90,7 @@ with open('sentences_different.txt', 'r', encoding="utf8") as in_file:
         # if not, kana missing
         if filedata[grammar_line_being_read].strip() not in TYPES_OF_GRAMMAR:
             #print(f"----> Grammar:\t\t\t{filedata[grammar_line_being_read]}", end='')
-            # insert kana
+            # write the kana into that point of the file
             filedata.insert(kana_insert_point, filedata[current_line_being_read])
         # print debug info
         print(f"\n\nProcessing from line {current_line_being_read+1}")
@@ -124,7 +124,9 @@ with open('sentences_different.txt', 'r', encoding="utf8") as in_file:
         # debug lines
         grammar_check_line_1 = grammar_line_being_read + TWO_SENTENCE_SPACING_WITH_KANA
         grammar_check_line_2 = grammar_line_being_read + TWO_SENTENCE_SPACING_MISSING_KANA
+
     print(" -- finished fixing kana --")
+
 # # ---------- SAVE FILE ----------
 with open('sentences_different.txt', 'w', encoding="utf8") as out_file:
     for line in filedata:
