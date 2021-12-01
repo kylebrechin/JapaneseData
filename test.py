@@ -9,11 +9,17 @@ import csv
 
 
 
+#############################################
+# 4. Read json from URL
+#############################################
+import urllib.request, json
+hiragana_url = "https://raw.githubusercontent.com/kylebrechin/JapaneseData/main/Data/hiragana.json"
 
+with urllib.request.urlopen(hiragana_url) as in_url:
+    hiragana_data = json.loads(in_url.read().decode())
 
-
-
-
+for kana in hiragana_data[:10]:
+    print(kana["character"])
 
 
 
