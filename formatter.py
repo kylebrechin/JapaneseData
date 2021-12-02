@@ -2,7 +2,7 @@
 #     COMPLETED PROGRAM
 #########################################
 # IMPORT
-import re, os, sys, time
+# import re, os, sys, time
 #
 # ####-------------------------------------------------####
 # #                  Remove Newlines - START
@@ -23,19 +23,16 @@ import re, os, sys, time
 #     for line in filedata:
 #         if line != '\n':
 #             out_file.write(line)
-#print(" -- finished removing newlines --")
-# ####-------------------------------------------------####
-# #                  Remove Brackets - START
-# ####-------------------------------------------------####
+# print(" -- finished removing newlines --")
+# # ####-------------------------------------------------####
+# # #                  Remove Brackets - START
+# # ####-------------------------------------------------####
 # with open('sentences_different.txt', 'r', encoding="utf8") as in_file:
 #     filedata = in_file.readlines()
 #
 # with open('sentences_different.txt', 'w', encoding="utf8") as out_file:
 #     for line in filedata:
 #         if '[' in line:
-#             #print("Found a [")                                                          # TODO: remove this debug line
-#             #print(f"Searching: {repr(line)}")                                           # TODO: remove this debug line
-#
 #             # find the index of the left and right bracket
 #             left_index = line.index(' [')
 #             right_index = line.index(']')
@@ -46,9 +43,10 @@ import re, os, sys, time
 #             out_file.write(line_kanji)
 #             out_file.write(line_kana)
 #         else:
-#             #print("Did not find [")                                                     # TODO: remove this debug line
 #             out_file.write(line)
-#print(" -- finished removing brackets --")
+#
+# print(" -- finished removing brackets --")
+
 # ####-------------------------------------------------####
 # #                  Fix Double Kana - START
 # ####-------------------------------------------------####
@@ -59,76 +57,95 @@ import re, os, sys, time
 TYPES_OF_GRAMMAR = ["Adjective", "Adjectival Noun", "Adverb", 'Noun', "Interrogative", "Verbal Noun",
                      "Verb", "Interjection", "Phrase", "Pronoun"]
 # used to set current_line_being_read if one sentence
-LINE_ONE_SENTENCE_SPACING = 7
+ONE_S_SPACING = 8               # 7
 # used to set current_line_being_read if two sentences
-LINE_TWO_SENTENCE_SPACING = 10
+TWO_S_SPACING = 11              # 10
 # used in checking from GRAMMAR line if next has single sentences, with or without a corrected kana
-ONE_SENTENCE_SPACING_MISSING_KANA = 6
-ONE_SENTENCE_SPACING_WITH_KANA = 7
+ONE_S_NO_KANA = 7       # 6
+ONE_S_WITH_KANA = 8     # 7
 # used in checking from GRAMMAR line if next has double sentences, with or without a corrected kana
-TWO_SENTENCE_SPACING_MISSING_KANA = 9
-TWO_SENTENCE_SPACING_WITH_KANA = 10
+TWO_S_NO_KANA = 10      # 9
+TWO_S_WITH_KANA = 11    # 10
 # ^ these two no longer used
 
-# +1 to find line in Sublime
-# -1 to find line from Sublime
-current_line_being_read = 0                             # this like should have the kanji ( DEFAULT - 0)
-kana_insert_point = current_line_being_read + 1
-kana_line_being_read =  current_line_being_read + 1     # this like should have the kana
-grammar_line_being_read = current_line_being_read + 3   #  this line should have the grammar
+# +1 to find line in Sublime from here
+# -1 to find line from Sublime from here
+current_line = 0                            # this like should have the kanji ( DEFAULT - 0)
+kana_insert_idx = current_line + 1          # where to insert the kana
+kana_line = current_line + 1                # this like should have the kana
+grammar_line = current_line + 3             #  this line should have the grammar
+sentence_insert_idx = grammar_line + 1
 
 # debug lines
-grammar_check_line_1 = grammar_line_being_read + TWO_SENTENCE_SPACING_WITH_KANA
-grammar_check_line_2 = grammar_line_being_read + TWO_SENTENCE_SPACING_MISSING_KANA
+grammar_check_line_1 = grammar_line + TWO_S_NO_KANA
+grammar_check_line_2 = grammar_line + TWO_S_WITH_KANA
 
 
 with open('sentences_different.txt', 'r', encoding="utf8") as in_file:
     filedata = in_file.readlines()
+    last = False
+    while current_line < len(filedata):
 
-    while current_line_being_read < len(filedata):
-        # for current line position check if grammar is set up right
-        # if not, kana missing
-        if filedata[grammar_line_being_read].strip() not in TYPES_OF_GRAMMAR:
-            #print(f"----> Grammar:\t\t\t{filedata[grammar_line_being_read]}", end='')
-            # write the kana into that point of the file
-            filedata.insert(kana_insert_point, filedata[current_line_being_read])
         # print debug info
-        print(f"\n\nProcessing from line {current_line_being_read+1}")
-        print(f"Kanji:\t\t\t{filedata[current_line_being_read]}"
-              f"Kana:\t\t\t{filedata[kana_line_being_read]}"
-              f"Grammar:\t\t{filedata[grammar_line_being_read]}",end='')
-        print(f"kanji_line {current_line_being_read+1}\tkana_line {kana_line_being_read+1}\tgrammar_line {grammar_line_being_read+1}\t\t"
-              f"grammar_check_line_1 {grammar_check_line_1}\t\tgrammar_check_line_2 {grammar_check_line_2}")
-        #time.sleep(.1)     # so I can read it as it scrolls
+        try:
+            print(f"Current Line\t{current_line + 1}\nKanji\t\t\t{filedata[current_line].strip():<7}\n"
+                  f"Kana\t\t\t{filedata[kana_line].strip():<10}\nGrammar\t\t\t{filedata[grammar_line].strip():<15}\n"
+                  f"Sent. Insert\t{sentence_insert_idx + 1:<16}\nkanji_line\t\t{current_line + 1:<8}\n"
+                  f"kana_line\t\t{kana_line + 1:<8}\ngrammar_line\t{grammar_line + 1:<16}\n"
+                  f"check_1\t\t\t{grammar_check_line_1:<8}\ncheck_2\t\t\t{grammar_check_line_2:<8}\n")
+
+        except:
+            sentence_insert_idx = grammar_line + 1
+
+        # Check if a kana comes after a kanji, if not: there is no kana, so insert one
+        #try:
+        if filedata[grammar_line].strip()  in TYPES_OF_GRAMMAR:
+            print("kana is correct")
+            # write the kana into the file
+        else:
+            print("kana is NOT correct")
+            filedata.insert(kana_insert_idx, filedata[current_line])
+        input("")
+        #except IndexError:
+            #print("IndexError::No more lines to read")
+
+
         ####-------------------------------------------------####
-        #        Check if one or two sentence - START
+        #        Check if one or two sentence
         ####-------------------------------------------------####
         try:    # TODO: search single sentence instead, essential swap the if/else
-            if filedata[(grammar_line_being_read + ONE_SENTENCE_SPACING_MISSING_KANA)].strip() not in TYPES_OF_GRAMMAR and \
-                    filedata[(grammar_line_being_read + ONE_SENTENCE_SPACING_WITH_KANA)].strip() not in TYPES_OF_GRAMMAR:
-                print("Should be two sentence")
-                current_line_being_read += LINE_TWO_SENTENCE_SPACING
+            if filedata[(grammar_line + ONE_S_NO_KANA)].strip() not in TYPES_OF_GRAMMAR and \
+                    filedata[(grammar_line + ONE_S_WITH_KANA)].strip() not in TYPES_OF_GRAMMAR:
+                #print("Should be two sentence -- inserting count")
+                filedata.insert(sentence_insert_idx, "2\n")
+                current_line += TWO_S_SPACING
             else:
-                    print("Should be one sentence")
-                    current_line_being_read += LINE_ONE_SENTENCE_SPACING
+                #print("Should be one sentence -- inserting count")
+                filedata.insert(sentence_insert_idx, "1\n")
+                current_line += ONE_S_SPACING
         except IndexError: # do the last!
-            current_line_being_read += LINE_ONE_SENTENCE_SPACING
+            print("IndexError::EOF - Should be one sentence")
+            last = True
+            print(f'Count insert: {sentence_insert_idx + 1}')
+            filedata.insert(sentence_insert_idx, "1\n")
+            current_line += ONE_S_SPACING
 
         ####-------------------------------------------------####
         #                   Update Counters
         ####-------------------------------------------------####
         print("Updating all counting variables")
-        kana_insert_point = current_line_being_read + 1
-        kana_line_being_read = current_line_being_read + 1  # this like should have the kana
-        grammar_line_being_read = current_line_being_read + 3  # this line should have the grammar
+        kana_insert_idx = current_line + 1
+        kana_line = current_line + 1  # this like should have the kana
+        grammar_line = current_line + 3  # this line should have the grammar
+        sentence_insert_idx = grammar_line + 1
         # debug lines
-        grammar_check_line_1 = grammar_line_being_read + TWO_SENTENCE_SPACING_WITH_KANA
-        grammar_check_line_2 = grammar_line_being_read + TWO_SENTENCE_SPACING_MISSING_KANA
+        grammar_check_line_1 = grammar_line + TWO_S_NO_KANA
+        grammar_check_line_2 = grammar_line + TWO_S_WITH_KANA
 
     print(" -- finished fixing kana --")
 
 # # ---------- SAVE FILE ----------
-with open('sentences_different.txt', 'w', encoding="utf8") as out_file:
+with open('sentences_numbered.txt', 'w', encoding="utf8") as out_file:
     for line in filedata:
         out_file.write(line)
 
