@@ -54,7 +54,7 @@
 ##############
 #             Initialize Variables
 ##############
-TYPES_OF_GRAMMAR = ["Adjective", "Adjectival Noun", "Adverb", 'Noun', "Interrogative", "Verbal Noun",
+TYPES_OF_GRAMMAR = ["Adjective", "Adjectival Noun", "Adverb", "Noun", "Interrogative", "Verbal Noun",
                      "Verb", "Interjection", "Phrase", "Pronoun"]
 # used to set current_line_being_read if one sentence
 ONE_S_SPACING = 8               # 7
@@ -80,20 +80,25 @@ sentence_insert_idx = grammar_line + 1
 grammar_check_line_1 = grammar_line + TWO_S_NO_KANA
 grammar_check_line_2 = grammar_line + TWO_S_WITH_KANA
 
+def DebugLines():
+    print("{0:>27}{1:>10}".format("Line", "Content"))
+    print("{0:<23}{1:<7}{2}".format("Cur. Line - Kanji", (current_line + 1), (filedata[current_line].strip())))
+    print("{0:<23}{1:<7}{2}".format("Kana", (kana_line + 1), (filedata[kana_line].strip())))
+    print("{0:<23}{1:<7}{2}".format("Grammar", (grammar_line + 1), (filedata[grammar_line].strip())))
+    print("{0:<23}{1:<7}".format("Sentence Insert", (sentence_insert_idx + 1)))
+    print("{0:<23}{1:<7}{2}".format("Grammar Checks", (grammar_check_line_1), (grammar_check_line_2)))
+    for idx, item in enumerate(filedata[current_line:current_line + 20]):
+        print(f"{idx + 1}:\t{item}", end='')
+
 
 with open('sentences_different.txt', 'r', encoding="utf8") as in_file:
     filedata = in_file.readlines()
     last = False
     while current_line < len(filedata):
 
-        # print debug info
+        # *** DEBUG INFO ***
         try:
-            print(f"Current Line\t{current_line + 1}\nKanji\t\t\t{filedata[current_line].strip():<7}\n"
-                  f"Kana\t\t\t{filedata[kana_line].strip():<10}\nGrammar\t\t\t{filedata[grammar_line].strip():<15}\n"
-                  f"Sent. Insert\t{sentence_insert_idx + 1:<16}\nkanji_line\t\t{current_line + 1:<8}\n"
-                  f"kana_line\t\t{kana_line + 1:<8}\ngrammar_line\t{grammar_line + 1:<16}\n"
-                  f"check_1\t\t\t{grammar_check_line_1:<8}\ncheck_2\t\t\t{grammar_check_line_2:<8}\n")
-
+            DebugLines()
         except:
             sentence_insert_idx = grammar_line + 1
 
@@ -103,8 +108,10 @@ with open('sentences_different.txt', 'r', encoding="utf8") as in_file:
             print("kana is correct")
             # write the kana into the file
         else:
-            print("kana is NOT correct")
+            print("\nkana is NOT correct")
+            print("-- inserting kana --\n")
             filedata.insert(kana_insert_idx, filedata[current_line])
+            DebugLines()
         input("")
         #except IndexError:
             #print("IndexError::No more lines to read")
@@ -133,7 +140,6 @@ with open('sentences_different.txt', 'r', encoding="utf8") as in_file:
         ####-------------------------------------------------####
         #                   Update Counters
         ####-------------------------------------------------####
-        print("Updating all counting variables")
         kana_insert_idx = current_line + 1
         kana_line = current_line + 1  # this like should have the kana
         grammar_line = current_line + 3  # this line should have the grammar
