@@ -1,0 +1,862 @@
+<!DOCTYPE html><html lang="en" id="main"><head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<script type="text/javascript" src="https://bam-cell.nr-data.net/1/3448ab299a?a=534651&amp;v=1212.e95d35c&amp;to=IV1XQkZZVF1VQU0BBRFaW1lVRFxCH1oMAQEa&amp;rst=1135&amp;ck=1&amp;ref=https://www.wanikani.com/dashboard&amp;qt=4&amp;ap=289&amp;be=492&amp;fe=1134&amp;dc=632&amp;perf=%7B%22timing%22:%7B%22of%22:1639888352991,%22n%22:0,%22f%22:0,%22dn%22:0,%22dne%22:0,%22c%22:0,%22ce%22:0,%22rq%22:1,%22rp%22:393,%22rpe%22:529,%22dl%22:491,%22di%22:530,%22ds%22:633,%22de%22:666,%22dc%22:1134,%22l%22:1134,%22le%22:1135%7D,%22navigation%22:%7B%7D%7D&amp;fcp=750&amp;jsonp=NREUM.setToken"></script><script src="https://js-agent.newrelic.com/nr-1212.min.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam-cell.nr-data.net","errorBeacon":"bam-cell.nr-data.net","licenseKey":"3448ab299a","applicationID":"534651","transactionName":"IV1XQkZZVF1VQU0BBRFaW1lVRFxCH1oMAQEa","queueTime":4,"applicationTime":289,"agent":""}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).init={ajax:{deny_list:["bam-cell.nr-data.net"]}};(window.NREUM||(NREUM={})).loader_config={licenseKey:"3448ab299a",applicationID:"534651"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var i=e[n]={exports:{}};t[n][0].call(i.exports,function(e){var i=t[n][1][e];return r(i||e)},i,i.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i<n.length;i++)r(n[i]);return r}({1:[function(t,e,n){function r(){}function i(t,e,n,r){return function(){return s.recordSupportability("API/"+e+"/called"),o(t+e,[u.now()].concat(c(arguments)),n?null:this,r),n?void 0:this}}var o=t("handle"),a=t(10),c=t(11),f=t("ee").get("tracer"),u=t("loader"),s=t(4),d=NREUM;"undefined"==typeof window.newrelic&&(newrelic=d);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",v=l+"ixn-";a(p,function(t,e){d[e]=i(l,e,!0,"api")}),d.addPageAction=i(l,"addPageAction",!0),d.setCurrentRouteName=i(l,"routeName",!0),e.exports=newrelic,d.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(t,e){var n={},r=this,i="function"==typeof e;return o(v+"tracer",[u.now(),t,n],r),function(){if(f.emit((i?"":"no-")+"fn-start",[u.now(),r,i],n),i)try{return e.apply(this,arguments)}catch(t){throw f.emit("fn-err",[arguments,this,t],n),t}finally{f.emit("fn-end",[u.now()],n)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){m[e]=i(v,e)}),newrelic.noticeError=function(t,e){"string"==typeof t&&(t=new Error(t)),s.recordSupportability("API/noticeError/called"),o("err",[t,u.now(),!1,e])}},{}],2:[function(t,e,n){function r(t){if(NREUM.init){for(var e=NREUM.init,n=t.split("."),r=0;r<n.length-1;r++)if(e=e[n[r]],"object"!=typeof e)return;return e=e[n[n.length-1]]}}e.exports={getConfiguration:r}},{}],3:[function(t,e,n){var r=!1;try{var i=Object.defineProperty({},"passive",{get:function(){r=!0}});window.addEventListener("testPassive",null,i),window.removeEventListener("testPassive",null,i)}catch(o){}e.exports=function(t){return r?{passive:!0,capture:!!t}:!!t}},{}],4:[function(t,e,n){function r(t,e){var n=[a,t,{name:t},e];return o("storeMetric",n,null,"api"),n}function i(t,e){var n=[c,t,{name:t},e];return o("storeEventMetrics",n,null,"api"),n}var o=t("handle"),a="sm",c="cm";e.exports={constants:{SUPPORTABILITY_METRIC:a,CUSTOM_METRIC:c},recordSupportability:r,recordCustom:i}},{}],5:[function(t,e,n){function r(){return c.exists&&performance.now?Math.round(performance.now()):(o=Math.max((new Date).getTime(),o))-a}function i(){return o}var o=(new Date).getTime(),a=o,c=t(12);e.exports=r,e.exports.offset=a,e.exports.getLastTimestamp=i},{}],6:[function(t,e,n){function r(t){return!(!t||!t.protocol||"file:"===t.protocol)}e.exports=r},{}],7:[function(t,e,n){function r(t,e){var n=t.getEntries();n.forEach(function(t){"first-paint"===t.name?p("timing",["fp",Math.floor(t.startTime)]):"first-contentful-paint"===t.name&&p("timing",["fcp",Math.floor(t.startTime)])})}function i(t,e){var n=t.getEntries();if(n.length>0){var r=n[n.length-1];if(f&&f<r.startTime)return;p("lcp",[r])}}function o(t){t.getEntries().forEach(function(t){t.hadRecentInput||p("cls",[t])})}function a(t){if(t instanceof g&&!y){var e=Math.round(t.timeStamp),n={type:t.type};e<=l.now()?n.fid=l.now()-e:e>l.offset&&e<=Date.now()?(e-=l.offset,n.fid=l.now()-e):e=l.now(),y=!0,p("timing",["fi",e,n])}}function c(t){"hidden"===t&&(f=l.now(),p("pageHide",[f]))}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var f,u,s,d,p=t("handle"),l=t("loader"),v=t(9),m=t(3),g=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){u=new PerformanceObserver(r);try{u.observe({entryTypes:["paint"]})}catch(h){}s=new PerformanceObserver(i);try{s.observe({entryTypes:["largest-contentful-paint"]})}catch(h){}d=new PerformanceObserver(o);try{d.observe({type:"layout-shift",buffered:!0})}catch(h){}}if("addEventListener"in document){var y=!1,w=["click","keydown","mousedown","pointerdown","touchstart"];w.forEach(function(t){document.addEventListener(t,a,m(!1))})}v(c)}},{}],8:[function(t,e,n){function r(t,e){if(!i)return!1;if(t!==i)return!1;if(!e)return!0;if(!o)return!1;for(var n=o.split("."),r=e.split("."),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var c=navigator.userAgent,f=c.match(a);f&&c.indexOf("Chrome")===-1&&c.indexOf("Chromium")===-1&&(i="Safari",o=f[1])}e.exports={agent:i,version:o,match:r}},{}],9:[function(t,e,n){function r(t){function e(){t(c&&document[c]?document[c]:document[o]?"hidden":"visible")}"addEventListener"in document&&a&&document.addEventListener(a,e,i(!1))}var i=t(3);e.exports=r;var o,a,c;"undefined"!=typeof document.hidden?(o="hidden",a="visibilitychange",c="visibilityState"):"undefined"!=typeof document.msHidden?(o="msHidden",a="msvisibilitychange"):"undefined"!=typeof document.webkitHidden&&(o="webkitHidden",a="webkitvisibilitychange",c="webkitVisibilityState")},{}],10:[function(t,e,n){function r(t,e){var n=[],r="",o=0;for(r in t)i.call(t,r)&&(n[o]=e(r,t[r]),o+=1);return n}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],11:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,i=n-e||0,o=Array(i<0?0:i);++r<i;)o[r]=t[e+r];return o}e.exports=r},{}],12:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(t,e,n){function r(){}function i(t){function e(t){return t&&t instanceof r?t:t?u(t,f,a):a()}function n(n,r,i,o,a){if(a!==!1&&(a=!0),!l.aborted||o){t&&a&&t(n,r,i);for(var c=e(i),f=m(n),u=f.length,s=0;s<u;s++)f[s].apply(c,r);var p=d[w[n]];return p&&p.push([b,n,r,c]),c}}function o(t,e){y[t]=m(t).concat(e)}function v(t,e){var n=y[t];if(n)for(var r=0;r<n.length;r++)n[r]===e&&n.splice(r,1)}function m(t){return y[t]||[]}function g(t){return p[t]=p[t]||i(n)}function h(t,e){l.aborted||s(t,function(t,n){e=e||"feature",w[n]=e,e in d||(d[e]=[])})}var y={},w={},b={on:o,addEventListener:o,removeEventListener:v,emit:n,get:g,listeners:m,context:e,buffer:h,abort:c,aborted:!1};return b}function o(t){return u(t,f,a)}function a(){return new r}function c(){(d.api||d.feature)&&(l.aborted=!0,d=l.backlog={})}var f="nr@context",u=t("gos"),s=t(10),d={},p={},l=e.exports=i();e.exports.getOrSetContext=o,l.backlog=d},{}],gos:[function(t,e,n){function r(t,e,n){if(i.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return t[e]=r,r}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){i.buffer([t],r),i.emit(t,e,n)}var i=t("ee").get("handle");e.exports=r,r.ee=i},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,o,function(){return i++})}var i=1,o="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!T++){var t=P.info=NREUM.info,e=g.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();f(O,function(e,n){t[e]||(t[e]=n)});var n=a();c("mark",["onload",n+P.offset],null,"api"),c("timing",["load",n]);var r=g.createElement("script");0===t.agent.indexOf("http://")||0===t.agent.indexOf("https://")?r.src=t.agent:r.src=v+"://"+t.agent,e.parentNode.insertBefore(r,e)}}function i(){"complete"===g.readyState&&o()}function o(){c("mark",["domContent",a()+P.offset],null,"api")}var a=t(5),c=t("handle"),f=t(10),u=t("ee"),s=t(8),d=t(6),p=t(2),l=t(3),v=p.getConfiguration("ssl")===!1?"http":"https",m=window,g=m.document,h="addEventListener",y="attachEvent",w=m.XMLHttpRequest,b=w&&w.prototype,E=!d(m.location);NREUM.o={ST:setTimeout,SI:m.setImmediate,CT:clearTimeout,XHR:w,REQ:m.Request,EV:m.Event,PR:m.Promise,MO:m.MutationObserver};var x=""+location,O={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1212.min.js"},M=w&&b&&b[h]&&!/CriOS/.test(navigator.userAgent),P=e.exports={offset:a.getLastTimestamp(),now:a,origin:x,features:{},xhrWrappable:M,userAgent:s,disabled:E};if(!E){t(1),t(7),g[h]?(g[h]("DOMContentLoaded",o,l(!1)),m[h]("load",r,l(!1))):(g[y]("onreadystatechange",i),m[y]("onload",r)),c("mark",["firstbyte",a.getLastTimestamp()],null,"api");var T=0}},{}],"wrap-function":[function(t,e,n){function r(t,e){function n(e,n,r,f,u){function nrWrapper(){var o,a,s,p;try{a=this,o=d(arguments),s="function"==typeof r?r(o,a):r||{}}catch(l){i([l,"",[o,a,f],s],t)}c(n+"start",[o,a,f],s,u);try{return p=e.apply(a,o)}catch(v){throw c(n+"err",[o,a,v],s,u),v}finally{c(n+"end",[o,a,p],s,u)}}return a(e)?e:(n||(n=""),nrWrapper[p]=e,o(e,nrWrapper,t),nrWrapper)}function r(t,e,r,i,o){r||(r="");var c,f,u,s="-"===r.charAt(0);for(u=0;u<e.length;u++)f=e[u],c=t[f],a(c)||(t[f]=n(c,s?f+r:r,i,f,o))}function c(n,r,o,a){if(!v||e){var c=v;v=!0;try{t.emit(n,r,o,e,a)}catch(f){i([f,n,r,o],t)}v=c}}return t||(t=s),n.inPlace=r,n.flag=p,n}function i(t,e){e||(e=s);try{e.emit("internal-error",t)}catch(n){}}function o(t,e,n){if(Object.defineProperty&&Object.keys)try{var r=Object.keys(t);return r.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(o){i([o],n)}for(var a in t)l.call(t,a)&&(e[a]=t[a]);return e}function a(t){return!(t&&t instanceof Function&&t.apply&&!t[p])}function c(t,e){var n=e(t);return n[p]=t,o(t,n,s),n}function f(t,e,n){var r=t[e];t[e]=c(r,n)}function u(){for(var t=arguments.length,e=new Array(t),n=0;n<t;++n)e[n]=arguments[n];return e}var s=t("ee"),d=t(11),p="nr@original",l=Object.prototype.hasOwnProperty,v=!1;e.exports=r,e.exports.wrapFunction=c,e.exports.wrapInPlace=f,e.exports.argsToArray=u},{}]},{},["loader"]);</script>
+  <title>WaniKani / Dashboard</title>
+  <link rel="stylesheet" media="screen" href="https://assets.wanikani.com/assets/default-v2/application-6d912fbb5aa1973185f780283d157c2ccec06ba30da4bb77d83b832a25b1ecc6.css">
+  <link rel="stylesheet" media="screen" href="https://assets.wanikani.com/assets/application-071eb84d1045613ca4d9dff39e4da923c0596f279325cf9186df39977e18af26.css">
+  <link rel="stylesheet" media="screen" href="https://assets.wanikani.com/packs/css/application-7e4ee722.css">
+  <script src="https://assets.wanikani.com/assets/default-v2/application-10c028e4c3b6e20fe0900c02f9fc5cf4fb794dc35ce2f4e9f290d008a354bb63.js" crossorigin="anonymous"></script>
+  <script src="https://assets.wanikani.com/assets/application-03404b194cec3b7beb3a487e89b9fd445c4a1e972461dfadf29a698cfaf7a0e5.js" crossorigin="anonymous" defer="defer"></script>
+  <script src="https://js.stripe.com/v3/"></script>
+  
+  <meta name="application-name" content="WaniKani">
+  <meta name="author" content="tofugu.com">
+  <meta name="description" content="WaniKani is a Japanese radicals, kanji, and vocabulary learning web app that uses mnemonics and SRS to make kanji learning simple.">
+  <meta name="keywords" content="japanese kanji, japanese language, japanese learning, kanji, radicals, kanji radicals, japanese vocabulary, vocabulary, srs, spaced repetition, mnemonics, memory tricks, web app">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="google" value="notranslate">
+  <!-- Open Graph data -->
+  <meta content="Learn Japanese kanji the effective way!" property="og:description">
+  <meta content="https://assets.wanikani.com/assets/social-media-image-ca55bf39c15200daf802dc76f0e42e32d1c9a6c46d19319849ffe67edfe52a3a.jpg" property="og:image">
+  <meta content="en_US" property="og:locale">
+  <meta content="WaniKani" property="og:site_name">
+  <meta content="WaniKani, a kanji learning application by Tofugu" property="og:title">
+  <meta content="website" property="og:type">
+  <meta content="https://wanikani.com/" property="og:url">
+  <meta content="https://www.tofugu.com" property="og:see_also">
+  <!-- Twitter Card data -->
+  <meta content="summary_large_image" name="twitter:card">
+  <meta content="@tofugu" name="twitter:creator">
+  <meta content="Learn Japanese kanji the effective way!" name="twitter:description">
+  <meta content="https://assets.wanikani.com/assets/social-media-image-ca55bf39c15200daf802dc76f0e42e32d1c9a6c46d19319849ffe67edfe52a3a.jpg" name="twitter:image">
+  <meta content="@wanikaniapp" name="twitter:site">
+  <meta content="WaniKani, a kanji learning application by Tofugu" name="twitter:title">
+  <meta name="csrf-param" content="authenticity_token">
+<meta name="csrf-token" content="v/Hsl8hw5uBPTqVXSDe1WTH/7ZZy7nHB9YohC3I6j+qjv1DYCb/V6GqtEq85EUqcWDHu/HKP51PYFIsOoB8Cbg==">
+  <link rel="shortcut icon" type="image/x-icon" href="https://assets.wanikani.com/assets/favicon-d302b05cb464e25c4af85dc54cece3e711f6dead1b75dedeec8487416e002e64.ico">
+  <link rel="shortcut icon" type="image/png" href="https://assets.wanikani.com/assets/v03/wanikani-icon-196x-be8c1d71f8d8f786fa06d9bdfc685e790c24dc4b143f4a6962e0c7d93b4d5343.png" sizes="196x196">
+  <link rel="shortcut icon" type="image/png" href="https://assets.wanikani.com/assets/v03/wanikani-icon-128x-24286608194b57572df6b5c94ddd1791cb9bd1ebe2e7c9e8dbda3d8c5f80db7c.png" sizes="128x128">
+  <link rel="apple-touch-icon" type="image/png" href="https://assets.wanikani.com/assets/v03/wanikani-icon-128x-24286608194b57572df6b5c94ddd1791cb9bd1ebe2e7c9e8dbda3d8c5f80db7c.png" sizes="128x128">
+  <link rel="apple-touch-icon-precomposed" type="image/png" href="https://assets.wanikani.com/assets/v03/wanikani-icon-128x-24286608194b57572df6b5c94ddd1791cb9bd1ebe2e7c9e8dbda3d8c5f80db7c.png" sizes="128x128">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin=""> 
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&amp;family=Noto+Sans+SC:wght@400;700&amp;display=swap" rel="stylesheet"> 
+ 
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" type="text/css">
+  <link href="https://fonts.googleapis.com/css?family=Ubuntu:300,700,300italic,700italic" rel="stylesheet" type="text/css">
+  <link href="opensearch.xml" rel="search" title="WaniKani" type="application/opensearchdescription+xml">
+  <script src="https://assets.wanikani.com/packs/js/application-9cc72caf018b93c769ec.js"></script>
+  
+<link type="text/css" rel="stylesheet" href="blob:https://www.wanikani.com/92ea0308-4318-4fd3-a1ef-550c7c054ebe"><link type="text/css" rel="stylesheet" href="blob:https://www.wanikani.com/e21a0797-f40d-4d0f-8b17-1291e2c03e5e"><link type="text/css" rel="stylesheet" href="blob:https://www.wanikani.com/705f292e-d223-4b61-9965-1e45eac99d36"><link type="text/css" rel="stylesheet" href="blob:https://www.wanikani.com/e7db0b19-6373-4443-978d-ac5fc5311abb"><link type="text/css" rel="stylesheet" href="blob:https://www.wanikani.com/dcb18e69-a09c-4b02-acb4-d8f265bb1b8b"><link type="text/css" rel="stylesheet" href="blob:https://www.wanikani.com/2015c5b7-9b07-4528-a4e3-6434bcb250d6"><link type="text/css" rel="stylesheet" href="blob:https://www.wanikani.com/ee8e5897-23f8-47bc-ad47-71d7761bd2c7"><link type="text/css" rel="stylesheet" href="blob:https://www.wanikani.com/bc47bc87-6422-4669-9742-95be5c183bca"><link type="text/css" rel="stylesheet" href="blob:https://www.wanikani.com/d23a6874-529a-43d5-a594-17eb4d863d90"><link type="text/css" rel="stylesheet" href="blob:https://www.wanikani.com/5b40c571-caf5-45fc-86df-191da0b31b2c"><link type="text/css" rel="stylesheet" href="blob:https://www.wanikani.com/ab6318fb-644e-4d8f-acc5-231aa9ffec77"><link type="text/css" rel="stylesheet" href="blob:https://www.wanikani.com/407514e7-1e21-4934-864e-a6062d843347"><link type="text/css" rel="stylesheet" href="blob:https://www.wanikani.com/69632459-adcb-4109-93d3-9389f294bf6d"><link type="text/css" rel="stylesheet" href="blob:https://www.wanikani.com/0eeacb05-be57-4de0-8bd3-2a113eaca32e"><link type="text/css" rel="stylesheet" href="blob:https://www.wanikani.com/72eb76b4-ace6-445b-9eb4-577366f04a77"><link type="text/css" rel="stylesheet" href="blob:https://www.wanikani.com/f4719e3c-e17d-4871-8764-bf921401a261"><link type="text/css" rel="stylesheet" href="blob:https://www.wanikani.com/958cc197-b12c-4c0d-bea6-84c07387eb77"><link type="text/css" rel="stylesheet" href="blob:https://www.wanikani.com/772e6ddf-3518-4dc8-815a-0d13f1b026f7"><link type="text/css" rel="stylesheet" href="blob:https://www.wanikani.com/3c0d1eb4-3d34-4761-9467-25bd45debeb4"><link type="text/css" rel="stylesheet" href="blob:https://www.wanikani.com/e01b8565-91f9-41df-87e1-a9a4cea7d378"><link type="text/css" rel="stylesheet" href="blob:https://www.wanikani.com/0160c55a-3cec-4a9c-bd64-f6c48f4a2e55"><link type="text/css" rel="stylesheet" href="blob:https://www.wanikani.com/1ca65ca0-4c8c-4eef-b7b9-bee5fb4fa1c5"><link type="text/css" rel="stylesheet" href="blob:https://www.wanikani.com/21a196a7-3652-4cac-b71b-16c00f7e9744"></head>
+<body style="overflow: hidden; height: 100%; margin-top: 0; box-sizing: border-box; padding-top: 65px">
+
+<div class="footer-adjustment">
+  <header class="global-header">
+  <div class="container">
+    <div class="logo">
+      <a class="logo__link" href="index.html">
+        <h1>WaniKani</h1>
+</a>    </div>
+    <nav class="navigation" role="navigation">
+        <ul class="navigation-shortcuts hidden">
+          <li class="navigation-shortcut navigation-shortcut--lessons" data-count="26">
+            <a href="lesson.html">
+              <span>26</span> Lessons
+</a>          </li>
+          <li class="navigation-shortcut navigation-shortcut--reviews" data-count="0">
+            <a href="review.html">
+              <span>0</span> Reviews
+</a>          </li>
+</ul>      <button id="search__trigger__mobile" tabindex="0" class="box-content flex items-stretch p-0 transition duration-200 bg-transparent border-2 border-transparent border-solid rounded-full lg:hidden xl:hidden hover:border-transparent-1 w-7 h-7 focus:outline-none focus:border-transparent-3" data-expanded="false" aria-expanded="false" aria-controls="search-form" type="button" aria-label="Search">
+        <span lang="en" class="self-center flex-1 pb-px pr-px text-center cursor-pointer fa fa-search"></span>
+      </button>
+      <button class="border-0 navigation__toggle" data-navigation-toggle="" data-expanded="false" aria-expanded="true" aria-controls="sitemap" type="button" aria-label="Menu">
+        <span class="navigation__toggle-lines"></span>
+      </button>
+      <ul id="sitemap" class="sitemap" data-navigation-content="" data-expanded="false">
+          <li class="sitemap__section">
+            <button class="sitemap__section-header" data-navigation-section-toggle="" data-expanded="false" aria-expanded="false" type="button" aria-controls="sitemap__levels" tabindex="0">
+              <span lang="ja">レベル</span>
+              <span lang="en" class="font-sans">Levels</span>
+            </button>
+            <div id="#sitemap__levels" class="sitemap__expandable-chunk sitemap__expandable-chunk--levels" data-navigation-section-content="" data-expanded="false">
+              <div class="sitemap__grouped-pages">
+    <h3 class="sitemap__group-header"><span lang="ja">快</span> PLEASANT</h3>
+    <ol class="sitemap__pages sitemap__pages--levels">
+        <li class="sitemap__page sitemap__page--current-level">
+          <a href="level/1.html">01</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/2.html">02</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/3.html">03</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/4.html">04</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/5.html">05</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/6.html">06</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/7.html">07</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/8.html">08</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/9.html">09</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/10.html">10</a>
+        </li>
+    </ol>
+    <h3 class="sitemap__group-header"><span lang="ja">苦</span> PAINFUL</h3>
+    <ol class="sitemap__pages sitemap__pages--levels">
+        <li class="sitemap__page">
+          <a href="level/11.html">11</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/12.html">12</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/13.html">13</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/14.html">14</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/15.html">15</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/16.html">16</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/17.html">17</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/18.html">18</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/19.html">19</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/20.html">20</a>
+        </li>
+    </ol>
+    <h3 class="sitemap__group-header"><span lang="ja">死</span> DEATH</h3>
+    <ol class="sitemap__pages sitemap__pages--levels">
+        <li class="sitemap__page">
+          <a href="level/21.html">21</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/22.html">22</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/23.html">23</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/24.html">24</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/25.html">25</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/26.html">26</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/27.html">27</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/28.html">28</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/29.html">29</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/30.html">30</a>
+        </li>
+    </ol>
+    <h3 class="sitemap__group-header"><span lang="ja">地獄</span> HELL</h3>
+    <ol class="sitemap__pages sitemap__pages--levels">
+        <li class="sitemap__page">
+          <a href="level/31.html">31</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/32.html">32</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/33.html">33</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/34.html">34</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/35.html">35</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/36.html">36</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/37.html">37</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/38.html">38</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/39.html">39</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/40.html">40</a>
+        </li>
+    </ol>
+    <h3 class="sitemap__group-header"><span lang="ja">天国</span> PARADISE</h3>
+    <ol class="sitemap__pages sitemap__pages--levels">
+        <li class="sitemap__page">
+          <a href="level/41.html">41</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/42.html">42</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/43.html">43</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/44.html">44</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/45.html">45</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/46.html">46</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/47.html">47</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/48.html">48</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/49.html">49</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/50.html">50</a>
+        </li>
+    </ol>
+    <h3 class="sitemap__group-header"><span lang="ja">現実</span> REALITY</h3>
+    <ol class="sitemap__pages sitemap__pages--levels">
+        <li class="sitemap__page">
+          <a href="level/51.html">51</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/52.html">52</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/53.html">53</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/54.html">54</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/55.html">55</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/56.html">56</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/57.html">57</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/58.html">58</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/59.html">59</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/60.html">60</a>
+        </li>
+    </ol>
+</div>
+
+            </div>
+          </li>
+          <li class="sitemap__section">
+            <button class="sitemap__section-header sitemap__section-header--radicals" data-navigation-section-toggle="" data-expanded="false" aria-expanded="false" aria-controls="sitemap__radicals" type="button" tabindex="0">
+              <span lang="ja">部首</span>
+              <span lang="en" class="font-sans">Radicals</span>
+            </button>
+            <div id="#sitemap__radicals" class="sitemap__expandable-chunk sitemap__expandable-chunk--radicals" data-navigation-section-content="" data-expanded="false">
+              <ul class="sitemap__pages sitemap__pages--radical">
+    <li class="sitemap__page sitemap__page--subject">
+      <a href="radicals%EF%B9%96difficulty=pleasant.html">
+        <span lang="ja">快</span> Pleasant
+        <span class="sitemap__page-subtitle">Levels 01-10</span>
+</a>    </li>
+    <li class="sitemap__page sitemap__page--subject">
+      <a href="radicals%EF%B9%96difficulty=painful.html">
+        <span lang="ja">苦</span> Painful
+        <span class="sitemap__page-subtitle">Levels 11-20</span>
+</a>    </li>
+    <li class="sitemap__page sitemap__page--subject">
+      <a href="radicals%EF%B9%96difficulty=death.html">
+        <span lang="ja">死</span> Death
+        <span class="sitemap__page-subtitle">Levels 21-30</span>
+</a>    </li>
+    <li class="sitemap__page sitemap__page--subject">
+      <a href="radicals%EF%B9%96difficulty=hell.html">
+        <span lang="ja">地獄</span> Hell
+        <span class="sitemap__page-subtitle">Levels 31-40</span>
+</a>    </li>
+    <li class="sitemap__page sitemap__page--subject">
+      <a href="radicals%EF%B9%96difficulty=paradise.html">
+        <span lang="ja">天国</span> Paradise
+        <span class="sitemap__page-subtitle">Levels 41-50</span>
+</a>    </li>
+    <li class="sitemap__page sitemap__page--subject">
+      <a href="radicals%EF%B9%96difficulty=reality.html">
+        <span lang="ja">現実</span> Reality
+        <span class="sitemap__page-subtitle">Levels 51-60</span>
+</a>    </li>
+</ul>
+
+            </div>
+          </li>
+          <li class="sitemap__section">
+            <button class="sitemap__section-header sitemap__section-header--kanji" data-navigation-section-toggle="" data-expanded="false" aria-expanded="false" aria-controls="sitemap__kanji" type="button" tabindex="0">
+              <span lang="ja">漢字</span>
+              <span lang="en" class="font-sans">Kanji</span>
+            </button>
+            <div id="#sitemap__kanji" class="sitemap__expandable-chunk sitemap__expandable-chunk--kanji" data-navigation-section-content="" data-expanded="false">
+              <ul class="sitemap__pages sitemap__pages--kanji">
+    <li class="sitemap__page sitemap__page--subject">
+      <a href="kanji%EF%B9%96difficulty=pleasant.html">
+        <span lang="ja">快</span> Pleasant
+        <span class="sitemap__page-subtitle">Levels 01-10</span>
+</a>    </li>
+    <li class="sitemap__page sitemap__page--subject">
+      <a href="kanji%EF%B9%96difficulty=painful.html">
+        <span lang="ja">苦</span> Painful
+        <span class="sitemap__page-subtitle">Levels 11-20</span>
+</a>    </li>
+    <li class="sitemap__page sitemap__page--subject">
+      <a href="kanji%EF%B9%96difficulty=death.html">
+        <span lang="ja">死</span> Death
+        <span class="sitemap__page-subtitle">Levels 21-30</span>
+</a>    </li>
+    <li class="sitemap__page sitemap__page--subject">
+      <a href="kanji%EF%B9%96difficulty=hell.html">
+        <span lang="ja">地獄</span> Hell
+        <span class="sitemap__page-subtitle">Levels 31-40</span>
+</a>    </li>
+    <li class="sitemap__page sitemap__page--subject">
+      <a href="kanji%EF%B9%96difficulty=paradise.html">
+        <span lang="ja">天国</span> Paradise
+        <span class="sitemap__page-subtitle">Levels 41-50</span>
+</a>    </li>
+    <li class="sitemap__page sitemap__page--subject">
+      <a href="kanji%EF%B9%96difficulty=reality.html">
+        <span lang="ja">現実</span> Reality
+        <span class="sitemap__page-subtitle">Levels 51-60</span>
+</a>    </li>
+</ul>
+
+            </div>
+          </li>
+          <li class="sitemap__section">
+            <button class="sitemap__section-header sitemap__section-header--vocabulary" data-navigation-section-toggle="" data-expanded="false" aria-expanded="false" aria-controls="sitemap__vocabulary" type="button" tabindex="0">
+              <span lang="ja">単語</span>
+              <span lang="en" class="font-sans">Vocabulary</span>
+            </button>
+            <div id="#sitemap__vocabulary" class="sitemap__expandable-chunk sitemap__expandable-chunk--vocabulary" data-navigation-section-content="" data-expanded="false">
+              <ul class="sitemap__pages sitemap__pages--vocabulary">
+    <li class="sitemap__page sitemap__page--subject">
+      <a href="vocabulary%EF%B9%96difficulty=pleasant.html">
+        <span lang="ja">快</span> Pleasant
+        <span class="sitemap__page-subtitle">Levels 01-10</span>
+</a>    </li>
+    <li class="sitemap__page sitemap__page--subject">
+      <a href="vocabulary%EF%B9%96difficulty=painful.html">
+        <span lang="ja">苦</span> Painful
+        <span class="sitemap__page-subtitle">Levels 11-20</span>
+</a>    </li>
+    <li class="sitemap__page sitemap__page--subject">
+      <a href="vocabulary%EF%B9%96difficulty=death.html">
+        <span lang="ja">死</span> Death
+        <span class="sitemap__page-subtitle">Levels 21-30</span>
+</a>    </li>
+    <li class="sitemap__page sitemap__page--subject">
+      <a href="vocabulary%EF%B9%96difficulty=hell.html">
+        <span lang="ja">地獄</span> Hell
+        <span class="sitemap__page-subtitle">Levels 31-40</span>
+</a>    </li>
+    <li class="sitemap__page sitemap__page--subject">
+      <a href="vocabulary%EF%B9%96difficulty=paradise.html">
+        <span lang="ja">天国</span> Paradise
+        <span class="sitemap__page-subtitle">Levels 41-50</span>
+</a>    </li>
+    <li class="sitemap__page sitemap__page--subject">
+      <a href="vocabulary%EF%B9%96difficulty=reality.html">
+        <span lang="ja">現実</span> Reality
+        <span class="sitemap__page-subtitle">Levels 51-60</span>
+</a>    </li>
+</ul>
+
+            </div>
+          </li>
+        <li class="sitemap__section sitemap--divider">
+          <button class="sitemap__section-header sitemap__section-header--help" data-navigation-section-toggle="" data-expanded="false" aria-expanded="false" type="button" aria-controls="sitemap__levels" tabindex="0">
+            <span lang="ja">ヘルプ</span>
+            <span lang="en" class="font-sans">Help</span>
+          </button>
+          <div id="#sitemap__help" class="sitemap__expandable-chunk" data-navigation-section-content="" data-expanded="false">
+            <ul class="sitemap__pages">
+              <li class="sitemap__page sitemap__page--subject">
+                <a href="https://www.wanikani.com/faq">Knowledge Guide</a>
+              </li>
+                <li class="sitemap__page sitemap__page--subject">
+                  <a href="contact.html">Contact Us</a>
+                </li>
+              <li class="sitemap__page sitemap__page--subject">
+                <button name="button" type="button" class="button--chat" onclick="FrontChat('show')">Chat with Us</button>
+              </li>
+            </ul>
+          </div>
+        </li>
+        <li class="sitemap__section">
+          <button id="search__trigger" tabindex="0" class="box-content items-stretch hidden p-0 text-base transition duration-200 bg-transparent border-2 border-transparent border-solid rounded-full lg:flex lg:visible hover:border-transparent-1 w-7 h-7 focus:outline-none focus:border-transparent-3" data-expanded="false" aria-expanded="false" aria-controls="search-form" type="button">
+            <span lang="en" class="self-center flex-1 pb-px pr-px fonta-sans text-center cursor-pointer fa fa-search"></span>
+          </button>
+        </li>
+          <li class="sitemap__section">
+            <button class="sitemap__section-header sitemap__section-header--account" data-navigation-section-toggle="" data-expanded="false" aria-expanded="false" aria-controls="sitemap__account" type="button" tabindex="0">
+              <div class="sitemap__avatar user-avatar-default" style=""></div>
+              <span class="font-sans" lang="en">Account</span>
+            </button>
+            <div id="#sitemap__account" class="sitemap__expandable-chunk sitemap__expandable-chunk--account" data-navigation-section-content="" data-expanded="false">
+                <ul class="sitemap__pages">
+                  <li class="user-summary">
+                    <div class="flag">
+                      <div class="flag__asset">
+                        <div class="user-summary__avatar user-avatar-default" role="img" aria-label="Your avatar" alt="Your avatar" style=""></div>
+                      </div>
+                      <div class="flag__item">
+                        <p class="user-summary__username">maertsoi</p>
+                        <ul class="user-summary__attributes">
+                          <li class="font-sans user-summary__attribute">
+                            <a title="View level 1" href="level/1.html">Level 1</a>
+                          </li>
+                          <li class="font-sans user-summary__attribute">
+                            <a title="View subscriptions" href="account/subscription.html">
+                              Free
+</a>                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="sitemap__page">
+                    <a href="users/maertsoi.html">Profile</a>
+                  </li>
+                  <li class="sitemap__section sitemap__section--subsection">
+                    <h3 class="sitemap__section-header sitemap__section-header--subsection">Settings</h3>
+                    <ul class="sitemap__pages">
+                      <li class="sitemap__page">
+                        <a href="settings/app.html">App</a>
+                      </li>
+                      <li class="sitemap__page">
+                        <a href="settings/account.html">Account</a>
+                      </li>
+                        <li class="sitemap__page">
+                          <a href="settings/personal_access_tokens.html">API Tokens</a>
+                        </li>
+                      <li class="sitemap__page">
+                        <a href="settings/profile.html">Profile</a>
+                      </li>
+                      <li class="sitemap__page">
+                        <a href="settings/danger_zone.html">Danger Zone</a>
+                      </li>
+                    </ul>
+                  </li>
+                    <li class="sitemap__page">
+                      <a href="account/subscription.html">Subscription</a>
+                    </li>
+                  <li class="sitemap__page">
+                    <a rel="nofollow" data-method="delete" href="https://www.wanikani.com/logout">Sign Out</a>
+                  </li>
+                  <li class="sitemap__page sitemap__page--community">
+                    <a href="https://www.wanikani.com/community">Community</a>
+                  </li>
+                </ul>
+            </div>
+          </li>
+      </ul>
+    </nav>
+  </div>
+</header>
+
+
+  
+
+  
+
+  
+
+  
+
+  <div id="search">
+  <div class="container">
+    <div class="row">
+      <div class="span12 search-form hidden">
+        <form action="search.html" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="✓">
+          <fieldset class="flex">
+            <span class="search-symbol"><i class="fa fa-search"></i></span>
+            <input type="text" name="query" id="query" class="search-query flex-auto" placeholder="Search radicals, kanji, and vocabulary by characters, meaning, or reading">
+            <button name="button" type="submit" class="flex-initial rounded bg-gray-500 text-white font-bold border-0 px-3 py-1">
+              Search
+</button>          </fieldset>
+</form>      </div>
+    </div>
+  </div>
+</div>
+
+
+  
+<div class="dashboard">
+  <div class="container">
+    <div class="row">
+      <div class="span12">
+                  <div data-react-class="Modal/ModalIntro" data-react-props="{&quot;username&quot;:&quot;maertsoi&quot;,&quot;kanjiCount&quot;:&quot;2,074&quot;,&quot;vocabularyCount&quot;:&quot;6,501&quot;,&quot;level1RadicalCount&quot;:26,&quot;startLink&quot;:&quot;/lesson/start&quot;,&quot;dataMethod&quot;:&quot;put&quot;}" data-hydrate="t" data-react-cache-id="Modal/ModalIntro-0"><div id="new-user-interstitial" class="noSwipe screen-overlay-with-box screen-overlay-with-box-enter-done"><div data-focus-guard="true" tabindex="0" style="width: 1px; height: 0px; padding: 0px; overflow: hidden; position: fixed; top: 1px; left: 1px;"></div><div data-focus-guard="true" tabindex="1" style="width: 1px; height: 0px; padding: 0px; overflow: hidden; position: fixed; top: 1px; left: 1px;"></div><div data-focus-lock-disabled="false"><div id="new_user_new_user_interstitials--intro" class="screen-overlay--background" role="dialog" aria-labelledby="dialogTitle" aria-describedby="dialog1Desc"><button class="icon-close fa fa-times" title="Close Modal" type="button" aria-label="Close"></button><div class="content"><div class="picture"><img src="https://assets.wanikani.com/packs/media/components/Modal/Images/intro-5534d49072e88750ee1e8a2100e055d0.png" alt=""></div><div class="text"><div class="body-text"><h1 id="dialogTitle">Welcome!</h1><p>Praise to the Crabigator, maertsoi. Your coming has been foretold.</p><p>Working your way up to 2,074 kanji and 6,501 vocabulary won’t happen overnight, though. Your first step is to complete the first 26 radicals in your “Lessons” pile. Use the mnemonics and try finishing them all in one go.</p><p id="dialogDescription">What exactly are radicals and how will they help you in learning those thousands of kanji and vocabulary? <a href="https://knowledge.wanikani.com/getting-started/first-lessons/#learning-the-lessons" target="_blank" rel="noreferrer noopener">Find out over here!</a></p><div class="cta"><ul class="btn-set"><li class="dominant"><a href="https://www.wanikani.com/lesson/start" title="Start lesson session" data-method="put">Start Radicals <i class="fa fa-arrow-right"></i></a></li></ul></div></div></div></div></div></div><div data-focus-guard="true" tabindex="0" style="width: 1px; height: 0px; padding: 0px; overflow: hidden; position: fixed; top: 1px; left: 1px;"></div></div></div>
+
+        
+        
+        
+        <section class="newbie">
+  <h3>Need Help, maertsoi? <span class="pull-right show-toggle"><i class="fa fa-chevron-down"></i></span></h3>
+  <div style="display: none;">
+    <hr>
+    <p>
+      If you get stuck, <a href="https://www.wanikani.com/guide">check out the Getting Started guide</a> or <a href="contact.html">send us an email</a>! Complete Level 1 to rid yourself of this banner.
+    </p>
+  </div>
+</section>
+
+        
+
+
+
+        <div class="progress-and-forecast">
+          <section class="lessons-and-reviews">
+            <ul>
+              <li>
+                <a class="lessons-and-reviews__button lessons-and-reviews__lessons-button lessons-and-reviews__lessons-button--25" href="lesson.html">
+                  Lessons <span>26</span>
+</a>              </li>
+              <li>
+                <a class="lessons-and-reviews__button lessons-and-reviews__reviews-button lessons-and-reviews__reviews-button--0" href="review.html">
+                  Reviews <span>0</span>
+</a>              </li>
+            </ul>
+          </section>
+          <section class="dashboard-progress">
+            <div data-react-class="Progress/Progress" data-react-props="{&quot;data&quot;:[{&quot;type&quot;:&quot;Radical&quot;,&quot;characters&quot;:&quot;一&quot;,&quot;lessonPosition&quot;:0,&quot;characterImage&quot;:null,&quot;documentUrl&quot;:&quot;/radicals/ground&quot;,&quot;srsStage&quot;:0,&quot;unlockedAt&quot;:&quot;2021-12-15T06:53:36Z&quot;,&quot;startedAt&quot;:null,&quot;passedAt&quot;:null,&quot;burnedAt&quot;:null,&quot;resurrectedAt&quot;:null,&quot;availableAt&quot;:null,&quot;lastReviewedAt&quot;:null,&quot;updatedAt&quot;:&quot;2021-12-15T06:53:36Z&quot;},{&quot;type&quot;:&quot;Radical&quot;,&quot;characters&quot;:&quot;ハ&quot;,&quot;lessonPosition&quot;:1,&quot;characterImage&quot;:null,&quot;documentUrl&quot;:&quot;/radicals/fins&quot;,&quot;srsStage&quot;:0,&quot;unlockedAt&quot;:&quot;2021-12-15T06:53:36Z&quot;,&quot;startedAt&quot;:null,&quot;passedAt&quot;:null,&quot;burnedAt&quot;:null,&quot;resurrectedAt&quot;:null,&quot;availableAt&quot;:null,&quot;lastReviewedAt&quot;:null,&quot;updatedAt&quot;:&quot;2021-12-15T06:53:36Z&quot;},{&quot;type&quot;:&quot;Radical&quot;,&quot;characters&quot;:&quot;丶&quot;,&quot;lessonPosition&quot;:2,&quot;characterImage&quot;:null,&quot;documentUrl&quot;:&quot;/radicals/drop&quot;,&quot;srsStage&quot;:0,&quot;unlockedAt&quot;:&quot;2021-12-15T06:53:37Z&quot;,&quot;startedAt&quot;:null,&quot;passedAt&quot;:null,&quot;burnedAt&quot;:null,&quot;resurrectedAt&quot;:null,&quot;availableAt&quot;:null,&quot;lastReviewedAt&quot;:null,&quot;updatedAt&quot;:&quot;2021-12-15T06:53:37Z&quot;},{&quot;type&quot;:&quot;Radical&quot;,&quot;characters&quot;:&quot;丿&quot;,&quot;lessonPosition&quot;:3,&quot;characterImage&quot;:null,&quot;documentUrl&quot;:&quot;/radicals/slide&quot;,&quot;srsStage&quot;:0,&quot;unlockedAt&quot;:&quot;2021-12-15T06:53:36Z&quot;,&quot;startedAt&quot;:null,&quot;passedAt&quot;:null,&quot;burnedAt&quot;:null,&quot;resurrectedAt&quot;:null,&quot;availableAt&quot;:null,&quot;lastReviewedAt&quot;:null,&quot;updatedAt&quot;:&quot;2021-12-15T06:53:36Z&quot;},{&quot;type&quot;:&quot;Radical&quot;,&quot;characters&quot;:&quot;亅&quot;,&quot;lessonPosition&quot;:4,&quot;characterImage&quot;:null,&quot;documentUrl&quot;:&quot;/radicals/barb&quot;,&quot;srsStage&quot;:0,&quot;unlockedAt&quot;:&quot;2021-12-15T06:53:36Z&quot;,&quot;startedAt&quot;:null,&quot;passedAt&quot;:null,&quot;burnedAt&quot;:null,&quot;resurrectedAt&quot;:null,&quot;availableAt&quot;:null,&quot;lastReviewedAt&quot;:null,&quot;updatedAt&quot;:&quot;2021-12-15T06:53:36Z&quot;},{&quot;type&quot;:&quot;Radical&quot;,&quot;characters&quot;:&quot;二&quot;,&quot;lessonPosition&quot;:5,&quot;characterImage&quot;:null,&quot;documentUrl&quot;:&quot;/radicals/two&quot;,&quot;srsStage&quot;:0,&quot;unlockedAt&quot;:&quot;2021-12-15T06:53:36Z&quot;,&quot;startedAt&quot;:null,&quot;passedAt&quot;:null,&quot;burnedAt&quot;:null,&quot;resurrectedAt&quot;:null,&quot;availableAt&quot;:null,&quot;lastReviewedAt&quot;:null,&quot;updatedAt&quot;:&quot;2021-12-15T06:53:36Z&quot;},{&quot;type&quot;:&quot;Radical&quot;,&quot;characters&quot;:&quot;亠&quot;,&quot;lessonPosition&quot;:6,&quot;characterImage&quot;:null,&quot;documentUrl&quot;:&quot;/radicals/lid&quot;,&quot;srsStage&quot;:0,&quot;unlockedAt&quot;:&quot;2021-12-15T06:53:36Z&quot;,&quot;startedAt&quot;:null,&quot;passedAt&quot;:null,&quot;burnedAt&quot;:null,&quot;resurrectedAt&quot;:null,&quot;availableAt&quot;:null,&quot;lastReviewedAt&quot;:null,&quot;updatedAt&quot;:&quot;2021-12-15T06:53:36Z&quot;},{&quot;type&quot;:&quot;Radical&quot;,&quot;characters&quot;:&quot;大&quot;,&quot;lessonPosition&quot;:7,&quot;characterImage&quot;:null,&quot;documentUrl&quot;:&quot;/radicals/big&quot;,&quot;srsStage&quot;:0,&quot;unlockedAt&quot;:&quot;2021-12-15T06:53:36Z&quot;,&quot;startedAt&quot;:null,&quot;passedAt&quot;:null,&quot;burnedAt&quot;:null,&quot;resurrectedAt&quot;:null,&quot;availableAt&quot;:null,&quot;lastReviewedAt&quot;:null,&quot;updatedAt&quot;:&quot;2021-12-15T06:53:36Z&quot;},{&quot;type&quot;:&quot;Radical&quot;,&quot;characters&quot;:&quot;人&quot;,&quot;lessonPosition&quot;:8,&quot;characterImage&quot;:null,&quot;documentUrl&quot;:&quot;/radicals/person&quot;,&quot;srsStage&quot;:0,&quot;unlockedAt&quot;:&quot;2021-12-15T06:53:36Z&quot;,&quot;startedAt&quot;:null,&quot;passedAt&quot;:null,&quot;burnedAt&quot;:null,&quot;resurrectedAt&quot;:null,&quot;availableAt&quot;:null,&quot;lastReviewedAt&quot;:null,&quot;updatedAt&quot;:&quot;2021-12-15T06:53:36Z&quot;},{&quot;type&quot;:&quot;Radical&quot;,&quot;characters&quot;:&quot;入&quot;,&quot;lessonPosition&quot;:9,&quot;characterImage&quot;:null,&quot;documentUrl&quot;:&quot;/radicals/enter&quot;,&quot;srsStage&quot;:0,&quot;unlockedAt&quot;:&quot;2021-12-15T06:53:36Z&quot;,&quot;startedAt&quot;:null,&quot;passedAt&quot;:null,&quot;burnedAt&quot;:null,&quot;resurrectedAt&quot;:null,&quot;availableAt&quot;:null,&quot;lastReviewedAt&quot;:null,&quot;updatedAt&quot;:&quot;2021-12-15T06:53:36Z&quot;},{&quot;type&quot;:&quot;Radical&quot;,&quot;characters&quot;:&quot;力&quot;,&quot;lessonPosition&quot;:10,&quot;characterImage&quot;:null,&quot;documentUrl&quot;:&quot;/radicals/power&quot;,&quot;srsStage&quot;:0,&quot;unlockedAt&quot;:&quot;2021-12-15T06:53:36Z&quot;,&quot;startedAt&quot;:null,&quot;passedAt&quot;:null,&quot;burnedAt&quot;:null,&quot;resurrectedAt&quot;:null,&quot;availableAt&quot;:null,&quot;lastReviewedAt&quot;:null,&quot;updatedAt&quot;:&quot;2021-12-15T06:53:36Z&quot;},{&quot;type&quot;:&quot;Radical&quot;,&quot;characters&quot;:&quot;勹&quot;,&quot;lessonPosition&quot;:11,&quot;characterImage&quot;:null,&quot;documentUrl&quot;:&quot;/radicals/prison&quot;,&quot;srsStage&quot;:0,&quot;unlockedAt&quot;:&quot;2021-12-15T06:53:36Z&quot;,&quot;startedAt&quot;:null,&quot;passedAt&quot;:null,&quot;burnedAt&quot;:null,&quot;resurrectedAt&quot;:null,&quot;availableAt&quot;:null,&quot;lastReviewedAt&quot;:null,&quot;updatedAt&quot;:&quot;2021-12-15T06:53:36Z&quot;},{&quot;type&quot;:&quot;Radical&quot;,&quot;characters&quot;:&quot;口&quot;,&quot;lessonPosition&quot;:12,&quot;characterImage&quot;:null,&quot;documentUrl&quot;:&quot;/radicals/mouth&quot;,&quot;srsStage&quot;:0,&quot;unlockedAt&quot;:&quot;2021-12-15T06:53:37Z&quot;,&quot;startedAt&quot;:null,&quot;passedAt&quot;:null,&quot;burnedAt&quot;:null,&quot;resurrectedAt&quot;:null,&quot;availableAt&quot;:null,&quot;lastReviewedAt&quot;:null,&quot;updatedAt&quot;:&quot;2021-12-15T06:53:37Z&quot;},{&quot;type&quot;:&quot;Radical&quot;,&quot;characters&quot;:&quot;女&quot;,&quot;lessonPosition&quot;:13,&quot;characterImage&quot;:null,&quot;documentUrl&quot;:&quot;/radicals/woman&quot;,&quot;srsStage&quot;:0,&quot;unlockedAt&quot;:&quot;2021-12-15T06:53:36Z&quot;,&quot;startedAt&quot;:null,&quot;passedAt&quot;:null,&quot;burnedAt&quot;:null,&quot;resurrectedAt&quot;:null,&quot;availableAt&quot;:null,&quot;lastReviewedAt&quot;:null,&quot;updatedAt&quot;:&quot;2021-12-15T06:53:36Z&quot;},{&quot;type&quot;:&quot;Radical&quot;,&quot;characters&quot;:&quot;七&quot;,&quot;lessonPosition&quot;:14,&quot;characterImage&quot;:null,&quot;documentUrl&quot;:&quot;/radicals/seven&quot;,&quot;srsStage&quot;:0,&quot;unlockedAt&quot;:&quot;2021-12-15T06:53:37Z&quot;,&quot;startedAt&quot;:null,&quot;passedAt&quot;:null,&quot;burnedAt&quot;:null,&quot;resurrectedAt&quot;:null,&quot;availableAt&quot;:null,&quot;lastReviewedAt&quot;:null,&quot;updatedAt&quot;:&quot;2021-12-15T06:53:37Z&quot;},{&quot;type&quot;:&quot;Radical&quot;,&quot;characters&quot;:&quot;十&quot;,&quot;lessonPosition&quot;:15,&quot;characterImage&quot;:null,&quot;documentUrl&quot;:&quot;/radicals/cross&quot;,&quot;srsStage&quot;:0,&quot;unlockedAt&quot;:&quot;2021-12-15T06:53:36Z&quot;,&quot;startedAt&quot;:null,&quot;passedAt&quot;:null,&quot;burnedAt&quot;:null,&quot;resurrectedAt&quot;:null,&quot;availableAt&quot;:null,&quot;lastReviewedAt&quot;:null,&quot;updatedAt&quot;:&quot;2021-12-15T06:53:36Z&quot;},{&quot;type&quot;:&quot;Radical&quot;,&quot;characters&quot;:&quot;山&quot;,&quot;lessonPosition&quot;:16,&quot;characterImage&quot;:null,&quot;documentUrl&quot;:&quot;/radicals/mountain&quot;,&quot;srsStage&quot;:0,&quot;unlockedAt&quot;:&quot;2021-12-15T06:53:36Z&quot;,&quot;startedAt&quot;:null,&quot;passedAt&quot;:null,&quot;burnedAt&quot;:null,&quot;resurrectedAt&quot;:null,&quot;availableAt&quot;:null,&quot;lastReviewedAt&quot;:null,&quot;updatedAt&quot;:&quot;2021-12-15T06:53:36Z&quot;},{&quot;type&quot;:&quot;Radical&quot;,&quot;characters&quot;:&quot;川&quot;,&quot;lessonPosition&quot;:17,&quot;characterImage&quot;:null,&quot;documentUrl&quot;:&quot;/radicals/river&quot;,&quot;srsStage&quot;:0,&quot;unlockedAt&quot;:&quot;2021-12-15T06:53:36Z&quot;,&quot;startedAt&quot;:null,&quot;passedAt&quot;:null,&quot;burnedAt&quot;:null,&quot;resurrectedAt&quot;:null,&quot;availableAt&quot;:null,&quot;lastReviewedAt&quot;:null,&quot;updatedAt&quot;:&quot;2021-12-15T06:53:36Z&quot;},{&quot;type&quot;:&quot;Radical&quot;,&quot;characters&quot;:&quot;木&quot;,&quot;lessonPosition&quot;:18,&quot;characterImage&quot;:null,&quot;documentUrl&quot;:&quot;/radicals/tree&quot;,&quot;srsStage&quot;:0,&quot;unlockedAt&quot;:&quot;2021-12-15T06:53:36Z&quot;,&quot;startedAt&quot;:null,&quot;passedAt&quot;:null,&quot;burnedAt&quot;:null,&quot;resurrectedAt&quot;:null,&quot;availableAt&quot;:null,&quot;lastReviewedAt&quot;:null,&quot;updatedAt&quot;:&quot;2021-12-15T06:53:36Z&quot;},{&quot;type&quot;:&quot;Radical&quot;,&quot;characters&quot;:&quot;工&quot;,&quot;lessonPosition&quot;:19,&quot;characterImage&quot;:null,&quot;documentUrl&quot;:&quot;/radicals/construction&quot;,&quot;srsStage&quot;:0,&quot;unlockedAt&quot;:&quot;2021-12-15T06:53:36Z&quot;,&quot;startedAt&quot;:null,&quot;passedAt&quot;:null,&quot;burnedAt&quot;:null,&quot;resurrectedAt&quot;:null,&quot;availableAt&quot;:null,&quot;lastReviewedAt&quot;:null,&quot;updatedAt&quot;:&quot;2021-12-15T06:53:36Z&quot;},{&quot;type&quot;:&quot;Radical&quot;,&quot;characters&quot;:&quot;九&quot;,&quot;lessonPosition&quot;:20,&quot;characterImage&quot;:null,&quot;documentUrl&quot;:&quot;/radicals/nine&quot;,&quot;srsStage&quot;:0,&quot;unlockedAt&quot;:&quot;2021-12-15T06:53:36Z&quot;,&quot;startedAt&quot;:null,&quot;passedAt&quot;:null,&quot;burnedAt&quot;:null,&quot;resurrectedAt&quot;:null,&quot;availableAt&quot;:null,&quot;lastReviewedAt&quot;:null,&quot;updatedAt&quot;:&quot;2021-12-15T06:53:36Z&quot;},{&quot;type&quot;:&quot;Radical&quot;,&quot;characters&quot;:null,&quot;lessonPosition&quot;:21,&quot;characterImage&quot;:&quot;https://files.wanikani.com/641rv5xqq99qkewjp98yz0xifx1q&quot;,&quot;documentUrl&quot;:&quot;/radicals/leaf&quot;,&quot;srsStage&quot;:0,&quot;unlockedAt&quot;:&quot;2021-12-15T06:53:37Z&quot;,&quot;startedAt&quot;:null,&quot;passedAt&quot;:null,&quot;burnedAt&quot;:null,&quot;resurrectedAt&quot;:null,&quot;availableAt&quot;:null,&quot;lastReviewedAt&quot;:null,&quot;updatedAt&quot;:&quot;2021-12-15T06:53:37Z&quot;},{&quot;type&quot;:&quot;Radical&quot;,&quot;characters&quot;:null,&quot;lessonPosition&quot;:22,&quot;characterImage&quot;:&quot;https://files.wanikani.com/fof7lmajjr3j706cye0ksasc5xt4&quot;,&quot;documentUrl&quot;:&quot;/radicals/gun&quot;,&quot;srsStage&quot;:0,&quot;unlockedAt&quot;:&quot;2021-12-15T06:53:36Z&quot;,&quot;startedAt&quot;:null,&quot;passedAt&quot;:null,&quot;burnedAt&quot;:null,&quot;resurrectedAt&quot;:null,&quot;availableAt&quot;:null,&quot;lastReviewedAt&quot;:null,&quot;updatedAt&quot;:&quot;2021-12-15T06:53:36Z&quot;},{&quot;type&quot;:&quot;Radical&quot;,&quot;characters&quot;:&quot;日&quot;,&quot;lessonPosition&quot;:23,&quot;characterImage&quot;:null,&quot;documentUrl&quot;:&quot;/radicals/sun&quot;,&quot;srsStage&quot;:0,&quot;unlockedAt&quot;:&quot;2021-12-15T06:53:36Z&quot;,&quot;startedAt&quot;:null,&quot;passedAt&quot;:null,&quot;burnedAt&quot;:null,&quot;resurrectedAt&quot;:null,&quot;availableAt&quot;:null,&quot;lastReviewedAt&quot;:null,&quot;updatedAt&quot;:&quot;2021-12-15T06:53:36Z&quot;},{&quot;type&quot;:&quot;Radical&quot;,&quot;characters&quot;:&quot;ト&quot;,&quot;lessonPosition&quot;:24,&quot;characterImage&quot;:null,&quot;documentUrl&quot;:&quot;/radicals/toe&quot;,&quot;srsStage&quot;:0,&quot;unlockedAt&quot;:&quot;2021-12-15T06:53:36Z&quot;,&quot;startedAt&quot;:null,&quot;passedAt&quot;:null,&quot;burnedAt&quot;:null,&quot;resurrectedAt&quot;:null,&quot;availableAt&quot;:null,&quot;lastReviewedAt&quot;:null,&quot;updatedAt&quot;:&quot;2021-12-15T06:53:37Z&quot;},{&quot;type&quot;:&quot;Radical&quot;,&quot;characters&quot;:null,&quot;lessonPosition&quot;:25,&quot;characterImage&quot;:&quot;https://files.wanikani.com/y8u5qj0ign90dx9di9bi78gk3pnu&quot;,&quot;documentUrl&quot;:&quot;/radicals/stick&quot;,&quot;srsStage&quot;:0,&quot;unlockedAt&quot;:&quot;2021-12-15T06:53:37Z&quot;,&quot;startedAt&quot;:null,&quot;passedAt&quot;:null,&quot;burnedAt&quot;:null,&quot;resurrectedAt&quot;:null,&quot;availableAt&quot;:null,&quot;lastReviewedAt&quot;:null,&quot;updatedAt&quot;:&quot;2021-12-15T06:53:37Z&quot;},{&quot;type&quot;:&quot;Kanji&quot;,&quot;characters&quot;:&quot;一&quot;,&quot;lessonPosition&quot;:26,&quot;characterImage&quot;:null,&quot;documentUrl&quot;:&quot;/kanji/%E4%B8%80&quot;,&quot;srsStage&quot;:0,&quot;unlockedAt&quot;:null,&quot;startedAt&quot;:null,&quot;passedAt&quot;:null,&quot;burnedAt&quot;:null,&quot;resurrectedAt&quot;:null,&quot;availableAt&quot;:null,&quot;lastReviewedAt&quot;:null,&quot;updatedAt&quot;:&quot;2021-12-15T06:53:36Z&quot;},{&quot;type&quot;:&quot;Kanji&quot;,&quot;characters&quot;:&quot;二&quot;,&quot;lessonPosition&quot;:27,&quot;characterImage&quot;:null,&quot;documentUrl&quot;:&quot;/kanji/%E4%BA%8C&quot;,&quot;srsStage&quot;:0,&quot;unlockedAt&quot;:null,&quot;startedAt&quot;:null,&quot;passedAt&quot;:null,&quot;burnedAt&quot;:null,&quot;resurrectedAt&quot;:null,&quot;availableAt&quot;:null,&quot;lastReviewedAt&quot;:null,&quot;updatedAt&quot;:&quot;2021-12-15T06:53:36Z&quot;},{&quot;type&quot;:&quot;Kanji&quot;,&quot;characters&quot;:&quot;九&quot;,&quot;lessonPosition&quot;:28,&quot;characterImage&quot;:null,&quot;documentUrl&quot;:&quot;/kanji/%E4%B9%9D&quot;,&quot;srsStage&quot;:0,&quot;unlockedAt&quot;:null,&quot;startedAt&quot;:null,&quot;passedAt&quot;:null,&quot;burnedAt&quot;:null,&quot;resurrectedAt&quot;:null,&quot;availableAt&quot;:null,&quot;lastReviewedAt&quot;:null,&quot;updatedAt&quot;:&quot;2021-12-15T06:53:36Z&quot;},{&quot;type&quot;:&quot;Kanji&quot;,&quot;characters&quot;:&quot;七&quot;,&quot;lessonPosition&quot;:29,&quot;characterImage&quot;:null,&quot;documentUrl&quot;:&quot;/kanji/%E4%B8%83&quot;,&quot;srsStage&quot;:0,&quot;unlockedAt&quot;:null,&quot;startedAt&quot;:null,&quot;passedAt&quot;:null,&quot;burnedAt&quot;:null,&quot;resurrectedAt&quot;:null,&quot;availableAt&quot;:null,&quot;lastReviewedAt&quot;:null,&quot;updatedAt&quot;:&quot;2021-12-15T06:53:36Z&quot;},{&quot;type&quot;:&quot;Kanji&quot;,&quot;characters&quot;:&quot;人&quot;,&quot;lessonPosition&quot;:30,&quot;characterImage&quot;:null,&quot;documentUrl&quot;:&quot;/kanji/%E4%BA%BA&quot;,&quot;srsStage&quot;:0,&quot;unlockedAt&quot;:null,&quot;startedAt&quot;:null,&quot;passedAt&quot;:null,&quot;burnedAt&quot;:null,&quot;resurrectedAt&quot;:null,&quot;availableAt&quot;:null,&quot;lastReviewedAt&quot;:null,&quot;updatedAt&quot;:&quot;2021-12-15T06:53:36Z&quot;},{&quot;type&quot;:&quot;Kanji&quot;,&quot;characters&quot;:&quot;入&quot;,&quot;lessonPosition&quot;:31,&quot;characterImage&quot;:null,&quot;documentUrl&quot;:&quot;/kanji/%E5%85%A5&quot;,&quot;srsStage&quot;:0,&quot;unlockedAt&quot;:null,&quot;startedAt&quot;:null,&quot;passedAt&quot;:null,&quot;burnedAt&quot;:null,&quot;resurrectedAt&quot;:null,&quot;availableAt&quot;:null,&quot;lastReviewedAt&quot;:null,&quot;updatedAt&quot;:&quot;2021-12-15T06:53:36Z&quot;},{&quot;type&quot;:&quot;Kanji&quot;,&quot;characters&quot;:&quot;八&quot;,&quot;lessonPosition&quot;:32,&quot;characterImage&quot;:null,&quot;documentUrl&quot;:&quot;/kanji/%E5%85%AB&quot;,&quot;srsStage&quot;:0,&quot;unlockedAt&quot;:null,&quot;startedAt&quot;:null,&quot;passedAt&quot;:null,&quot;burnedAt&quot;:null,&quot;resurrectedAt&quot;:null,&quot;availableAt&quot;:null,&quot;lastReviewedAt&quot;:null,&quot;updatedAt&quot;:&quot;2021-12-15T06:53:36Z&quot;},{&quot;type&quot;:&quot;Kanji&quot;,&quot;characters&quot;:&quot;力&quot;,&quot;lessonPosition&quot;:33,&quot;characterImage&quot;:null,&quot;documentUrl&quot;:&quot;/kanji/%E5%8A%9B&quot;,&quot;srsStage&quot;:0,&quot;unlockedAt&quot;:null,&quot;startedAt&quot;:null,&quot;passedAt&quot;:null,&quot;burnedAt&quot;:null,&quot;resurrectedAt&quot;:null,&quot;availableAt&quot;:null,&quot;lastReviewedAt&quot;:null,&quot;updatedAt&quot;:&quot;2021-12-15T06:53:36Z&quot;},{&quot;type&quot;:&quot;Kanji&quot;,&quot;characters&quot;:&quot;十&quot;,&quot;lessonPosition&quot;:34,&quot;characterImage&quot;:null,&quot;documentUrl&quot;:&quot;/kanji/%E5%8D%81&quot;,&quot;srsStage&quot;:0,&quot;unlockedAt&quot;:null,&quot;startedAt&quot;:null,&quot;passedAt&quot;:null,&quot;burnedAt&quot;:null,&quot;resurrectedAt&quot;:null,&quot;availableAt&quot;:null,&quot;lastReviewedAt&quot;:null,&quot;updatedAt&quot;:&quot;2021-12-15T06:53:36Z&quot;},{&quot;type&quot;:&quot;Kanji&quot;,&quot;characters&quot;:&quot;三&quot;,&quot;lessonPosition&quot;:35,&quot;characterImage&quot;:null,&quot;documentUrl&quot;:&quot;/kanji/%E4%B8%89&quot;,&quot;srsStage&quot;:0,&quot;unlockedAt&quot;:null,&quot;startedAt&quot;:null,&quot;passedAt&quot;:null,&quot;burnedAt&quot;:null,&quot;resurrectedAt&quot;:null,&quot;availableAt&quot;:null,&quot;lastReviewedAt&quot;:null,&quot;updatedAt&quot;:&quot;2021-12-15T06:53:36Z&quot;},{&quot;type&quot;:&quot;Kanji&quot;,&quot;characters&quot;:&quot;上&quot;,&quot;lessonPosition&quot;:36,&quot;characterImage&quot;:null,&quot;documentUrl&quot;:&quot;/kanji/%E4%B8%8A&quot;,&quot;srsStage&quot;:0,&quot;unlockedAt&quot;:null,&quot;startedAt&quot;:null,&quot;passedAt&quot;:null,&quot;burnedAt&quot;:null,&quot;resurrectedAt&quot;:null,&quot;availableAt&quot;:null,&quot;lastReviewedAt&quot;:null,&quot;updatedAt&quot;:&quot;2021-12-15T06:53:36Z&quot;},{&quot;type&quot;:&quot;Kanji&quot;,&quot;characters&quot;:&quot;下&quot;,&quot;lessonPosition&quot;:37,&quot;characterImage&quot;:null,&quot;documentUrl&quot;:&quot;/kanji/%E4%B8%8B&quot;,&quot;srsStage&quot;:0,&quot;unlockedAt&quot;:null,&quot;startedAt&quot;:null,&quot;passedAt&quot;:null,&quot;burnedAt&quot;:null,&quot;resurrectedAt&quot;:null,&quot;availableAt&quot;:null,&quot;lastReviewedAt&quot;:null,&quot;updatedAt&quot;:&quot;2021-12-15T06:53:36Z&quot;},{&quot;type&quot;:&quot;Kanji&quot;,&quot;characters&quot;:&quot;工&quot;,&quot;lessonPosition&quot;:38,&quot;characterImage&quot;:null,&quot;documentUrl&quot;:&quot;/kanji/%E5%B7%A5&quot;,&quot;srsStage&quot;:0,&quot;unlockedAt&quot;:null,&quot;startedAt&quot;:null,&quot;passedAt&quot;:null,&quot;burnedAt&quot;:null,&quot;resurrectedAt&quot;:null,&quot;availableAt&quot;:null,&quot;lastReviewedAt&quot;:null,&quot;updatedAt&quot;:&quot;2021-12-15T06:53:36Z&quot;},{&quot;type&quot;:&quot;Kanji&quot;,&quot;characters&quot;:&quot;口&quot;,&quot;lessonPosition&quot;:39,&quot;characterImage&quot;:null,&quot;documentUrl&quot;:&quot;/kanji/%E5%8F%A3&quot;,&quot;srsStage&quot;:0,&quot;unlockedAt&quot;:null,&quot;startedAt&quot;:null,&quot;passedAt&quot;:null,&quot;burnedAt&quot;:null,&quot;resurrectedAt&quot;:null,&quot;availableAt&quot;:null,&quot;lastReviewedAt&quot;:null,&quot;updatedAt&quot;:&quot;2021-12-15T06:53:36Z&quot;},{&quot;type&quot;:&quot;Kanji&quot;,&quot;characters&quot;:&quot;大&quot;,&quot;lessonPosition&quot;:40,&quot;characterImage&quot;:null,&quot;documentUrl&quot;:&quot;/kanji/%E5%A4%A7&quot;,&quot;srsStage&quot;:0,&quot;unlockedAt&quot;:null,&quot;startedAt&quot;:null,&quot;passedAt&quot;:null,&quot;burnedAt&quot;:null,&quot;resurrectedAt&quot;:null,&quot;availableAt&quot;:null,&quot;lastReviewedAt&quot;:null,&quot;updatedAt&quot;:&quot;2021-12-15T06:53:36Z&quot;},{&quot;type&quot;:&quot;Kanji&quot;,&quot;characters&quot;:&quot;女&quot;,&quot;lessonPosition&quot;:41,&quot;characterImage&quot;:null,&quot;documentUrl&quot;:&quot;/kanji/%E5%A5%B3&quot;,&quot;srsStage&quot;:0,&quot;unlockedAt&quot;:null,&quot;startedAt&quot;:null,&quot;passedAt&quot;:null,&quot;burnedAt&quot;:null,&quot;resurrectedAt&quot;:null,&quot;availableAt&quot;:null,&quot;lastReviewedAt&quot;:null,&quot;updatedAt&quot;:&quot;2021-12-15T06:53:36Z&quot;},{&quot;type&quot;:&quot;Kanji&quot;,&quot;characters&quot;:&quot;山&quot;,&quot;lessonPosition&quot;:42,&quot;characterImage&quot;:null,&quot;documentUrl&quot;:&quot;/kanji/%E5%B1%B1&quot;,&quot;srsStage&quot;:0,&quot;unlockedAt&quot;:null,&quot;startedAt&quot;:null,&quot;passedAt&quot;:null,&quot;burnedAt&quot;:null,&quot;resurrectedAt&quot;:null,&quot;availableAt&quot;:null,&quot;lastReviewedAt&quot;:null,&quot;updatedAt&quot;:&quot;2021-12-15T06:53:36Z&quot;},{&quot;type&quot;:&quot;Kanji&quot;,&quot;characters&quot;:&quot;川&quot;,&quot;lessonPosition&quot;:43,&quot;characterImage&quot;:null,&quot;documentUrl&quot;:&quot;/kanji/%E5%B7%9D&quot;,&quot;srsStage&quot;:0,&quot;unlockedAt&quot;:null,&quot;startedAt&quot;:null,&quot;passedAt&quot;:null,&quot;burnedAt&quot;:null,&quot;resurrectedAt&quot;:null,&quot;availableAt&quot;:null,&quot;lastReviewedAt&quot;:null,&quot;updatedAt&quot;:&quot;2021-12-15T06:53:36Z&quot;}],&quot;currentLevel&quot;:1,&quot;username&quot;:&quot;maertsoi&quot;}" data-react-cache-id="Progress/Progress-0"><div class="progress-component"><h1 class="text-xl leading-normal font-medium text-dark-gray m-0">Level 1 Progress</h1><div class="-mx-6 mb-3 p-3 relative" title="To get to Level 2, you need to pass 17 of the 18 kanji in Level 1. To pass a kanji, do your lessons and reviews when they’re available. With each correct answer, you’ll notice the bar under each radical and kanji fill up. Fill them all the way up to get them to passing."><div class="progress-bar w-full h-9 boxshadow-inset relative bg-gray-300"><div class="progress-bar__progress bg-pink-gradient left-0 inline-block" style="width: 0%; min-width: 0px;"></div><div class="progress-bar__label font-sans absolute" style="display: inline-block; padding-left: 10px;">0 of 17 <span class="progress-bar__extra-label">kanji passed</span></div></div></div><div class="rounded bg-white p-3 -mx-3 mt-3"><h2 class="border-gray-100 border-solid border-0 border-b text-sm text-black text-left leading-none tracking-normal font-bold mt-0 pb-2 mb-2">Radicals</h2><div class="progress-entries"><div class="progress-entry relative rounded-tr rounded-tl" title="Unlocked and waiting for you in your lessons, maertsoi. We await your click with bated breath."><a href="radicals/ground.html" class="radical-icon" lang="ja"><div>一</div></a><div class="progress-entry__pips w-full flex flex-row"><div class="h-1 w-1/5 rounded-l mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 rounded-r bg-gray-300"></div></div></div><div class="progress-entry relative rounded-tr rounded-tl" title="Unlocked and waiting for you in your lessons, maertsoi. We await your click with bated breath."><a href="radicals/fins.html" class="radical-icon" lang="ja"><div>ハ</div></a><div class="progress-entry__pips w-full flex flex-row"><div class="h-1 w-1/5 rounded-l mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 rounded-r bg-gray-300"></div></div></div><div class="progress-entry relative rounded-tr rounded-tl" title="Unlocked and waiting for you in your lessons, maertsoi. We await your click with bated breath."><a href="radicals/drop.html" class="radical-icon" lang="ja"><div>丶</div></a><div class="progress-entry__pips w-full flex flex-row"><div class="h-1 w-1/5 rounded-l mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 rounded-r bg-gray-300"></div></div></div><div class="progress-entry relative rounded-tr rounded-tl" title="Unlocked and waiting for you in your lessons, maertsoi. We await your click with bated breath."><a href="radicals/slide.html" class="radical-icon" lang="ja"><div>丿</div></a><div class="progress-entry__pips w-full flex flex-row"><div class="h-1 w-1/5 rounded-l mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 rounded-r bg-gray-300"></div></div></div><div class="progress-entry relative rounded-tr rounded-tl" title="Unlocked and waiting for you in your lessons, maertsoi. We await your click with bated breath."><a href="radicals/barb.html" class="radical-icon" lang="ja"><div>亅</div></a><div class="progress-entry__pips w-full flex flex-row"><div class="h-1 w-1/5 rounded-l mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 rounded-r bg-gray-300"></div></div></div><div class="progress-entry relative rounded-tr rounded-tl" title="Unlocked and waiting for you in your lessons, maertsoi. We await your click with bated breath."><a href="radicals/two.html" class="radical-icon" lang="ja"><div>二</div></a><div class="progress-entry__pips w-full flex flex-row"><div class="h-1 w-1/5 rounded-l mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 rounded-r bg-gray-300"></div></div></div><div class="progress-entry relative rounded-tr rounded-tl" title="Unlocked and waiting for you in your lessons, maertsoi. We await your click with bated breath."><a href="radicals/lid.html" class="radical-icon" lang="ja"><div>亠</div></a><div class="progress-entry__pips w-full flex flex-row"><div class="h-1 w-1/5 rounded-l mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 rounded-r bg-gray-300"></div></div></div><div class="progress-entry relative rounded-tr rounded-tl" title="Unlocked and waiting for you in your lessons, maertsoi. We await your click with bated breath."><a href="radicals/big.html" class="radical-icon" lang="ja"><div>大</div></a><div class="progress-entry__pips w-full flex flex-row"><div class="h-1 w-1/5 rounded-l mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 rounded-r bg-gray-300"></div></div></div><div class="progress-entry relative rounded-tr rounded-tl" title="Unlocked and waiting for you in your lessons, maertsoi. We await your click with bated breath."><a href="radicals/person.html" class="radical-icon" lang="ja"><div>人</div></a><div class="progress-entry__pips w-full flex flex-row"><div class="h-1 w-1/5 rounded-l mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 rounded-r bg-gray-300"></div></div></div><div class="progress-entry relative rounded-tr rounded-tl" title="Unlocked and waiting for you in your lessons, maertsoi. We await your click with bated breath."><a href="radicals/enter.html" class="radical-icon" lang="ja"><div>入</div></a><div class="progress-entry__pips w-full flex flex-row"><div class="h-1 w-1/5 rounded-l mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 rounded-r bg-gray-300"></div></div></div><div class="progress-entry relative rounded-tr rounded-tl" title="Unlocked and waiting for you in your lessons, maertsoi. We await your click with bated breath."><a href="radicals/power.html" class="radical-icon" lang="ja"><div>力</div></a><div class="progress-entry__pips w-full flex flex-row"><div class="h-1 w-1/5 rounded-l mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 rounded-r bg-gray-300"></div></div></div><div class="progress-entry relative rounded-tr rounded-tl" title="Unlocked and waiting for you in your lessons, maertsoi. We await your click with bated breath."><a href="radicals/prison.html" class="radical-icon" lang="ja"><div>勹</div></a><div class="progress-entry__pips w-full flex flex-row"><div class="h-1 w-1/5 rounded-l mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 rounded-r bg-gray-300"></div></div></div><div class="progress-entry relative rounded-tr rounded-tl" title="Unlocked and waiting for you in your lessons, maertsoi. We await your click with bated breath."><a href="radicals/mouth.html" class="radical-icon" lang="ja"><div>口</div></a><div class="progress-entry__pips w-full flex flex-row"><div class="h-1 w-1/5 rounded-l mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 rounded-r bg-gray-300"></div></div></div><div class="progress-entry relative rounded-tr rounded-tl" title="Unlocked and waiting for you in your lessons, maertsoi. We await your click with bated breath."><a href="radicals/woman.html" class="radical-icon" lang="ja"><div>女</div></a><div class="progress-entry__pips w-full flex flex-row"><div class="h-1 w-1/5 rounded-l mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 rounded-r bg-gray-300"></div></div></div><div class="progress-entry relative rounded-tr rounded-tl" title="Unlocked and waiting for you in your lessons, maertsoi. We await your click with bated breath."><a href="radicals/seven.html" class="radical-icon" lang="ja"><div>七</div></a><div class="progress-entry__pips w-full flex flex-row"><div class="h-1 w-1/5 rounded-l mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 rounded-r bg-gray-300"></div></div></div><div class="progress-entry relative rounded-tr rounded-tl" title="Unlocked and waiting for you in your lessons, maertsoi. We await your click with bated breath."><a href="radicals/cross.html" class="radical-icon" lang="ja"><div>十</div></a><div class="progress-entry__pips w-full flex flex-row"><div class="h-1 w-1/5 rounded-l mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 rounded-r bg-gray-300"></div></div></div><div class="progress-entry relative rounded-tr rounded-tl" title="Unlocked and waiting for you in your lessons, maertsoi. We await your click with bated breath."><a href="radicals/mountain.html" class="radical-icon" lang="ja"><div>山</div></a><div class="progress-entry__pips w-full flex flex-row"><div class="h-1 w-1/5 rounded-l mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 rounded-r bg-gray-300"></div></div></div><div class="progress-entry relative rounded-tr rounded-tl" title="Unlocked and waiting for you in your lessons, maertsoi. We await your click with bated breath."><a href="radicals/river.html" class="radical-icon" lang="ja"><div>川</div></a><div class="progress-entry__pips w-full flex flex-row"><div class="h-1 w-1/5 rounded-l mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 rounded-r bg-gray-300"></div></div></div><div class="progress-entry relative rounded-tr rounded-tl" title="Unlocked and waiting for you in your lessons, maertsoi. We await your click with bated breath."><a href="radicals/tree.html" class="radical-icon" lang="ja"><div>木</div></a><div class="progress-entry__pips w-full flex flex-row"><div class="h-1 w-1/5 rounded-l mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 rounded-r bg-gray-300"></div></div></div><div class="progress-entry relative rounded-tr rounded-tl" title="Unlocked and waiting for you in your lessons, maertsoi. We await your click with bated breath."><a href="radicals/construction.html" class="radical-icon" lang="ja"><div>工</div></a><div class="progress-entry__pips w-full flex flex-row"><div class="h-1 w-1/5 rounded-l mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 rounded-r bg-gray-300"></div></div></div><div class="progress-entry relative rounded-tr rounded-tl" title="Unlocked and waiting for you in your lessons, maertsoi. We await your click with bated breath."><a href="radicals/nine.html" class="radical-icon" lang="ja"><div>九</div></a><div class="progress-entry__pips w-full flex flex-row"><div class="h-1 w-1/5 rounded-l mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 rounded-r bg-gray-300"></div></div></div><div class="progress-entry relative rounded-tr rounded-tl" title="Unlocked and waiting for you in your lessons, maertsoi. We await your click with bated breath."><a href="radicals/leaf.html" class="radical-icon" lang="ja"><div><img src="https://files.wanikani.com/641rv5xqq99qkewjp98yz0xifx1q" alt=""></div></a><div class="progress-entry__pips w-full flex flex-row"><div class="h-1 w-1/5 rounded-l mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 rounded-r bg-gray-300"></div></div></div><div class="progress-entry relative rounded-tr rounded-tl" title="Unlocked and waiting for you in your lessons, maertsoi. We await your click with bated breath."><a href="radicals/gun.html" class="radical-icon" lang="ja"><div><img src="https://files.wanikani.com/fof7lmajjr3j706cye0ksasc5xt4" alt=""></div></a><div class="progress-entry__pips w-full flex flex-row"><div class="h-1 w-1/5 rounded-l mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 rounded-r bg-gray-300"></div></div></div><div class="progress-entry relative rounded-tr rounded-tl" title="Unlocked and waiting for you in your lessons, maertsoi. We await your click with bated breath."><a href="radicals/sun.html" class="radical-icon" lang="ja"><div>日</div></a><div class="progress-entry__pips w-full flex flex-row"><div class="h-1 w-1/5 rounded-l mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 rounded-r bg-gray-300"></div></div></div><div class="progress-entry relative rounded-tr rounded-tl" title="Unlocked and waiting for you in your lessons, maertsoi. We await your click with bated breath."><a href="radicals/toe.html" class="radical-icon" lang="ja"><div>ト</div></a><div class="progress-entry__pips w-full flex flex-row"><div class="h-1 w-1/5 rounded-l mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 rounded-r bg-gray-300"></div></div></div><div class="progress-entry relative rounded-tr rounded-tl" title="Unlocked and waiting for you in your lessons, maertsoi. We await your click with bated breath."><a href="radicals/stick.html" class="radical-icon" lang="ja"><div><img src="https://files.wanikani.com/y8u5qj0ign90dx9di9bi78gk3pnu" alt=""></div></a><div class="progress-entry__pips w-full flex flex-row"><div class="h-1 w-1/5 rounded-l mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 rounded-r bg-gray-300"></div></div></div></div></div><div class="rounded bg-white p-3 -mx-3 mt-3"><h2 class="border-gray-100 border-solid border-0 border-b text-sm text-black text-left leading-none tracking-normal font-bold mt-0 pb-2 mb-2">Kanji</h2><div class="progress-entries"><div class="progress-entry relative rounded-tr rounded-tl" title="Locked! But a little turtle tells me if you work on the radicals that make up this kanji good things will probably happen."><a href="kanji/%E4%B8%80.html" class="kanji-icon kanji-icon--locked" lang="ja"><div>一</div></a><div class="progress-entry__pips w-full flex flex-row"><div class="h-1 w-1/5 rounded-l mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 rounded-r bg-gray-300"></div></div></div><div class="progress-entry relative rounded-tr rounded-tl" title="Locked! But a little turtle tells me if you work on the radicals that make up this kanji good things will probably happen."><a href="kanji/%E4%BA%8C.html" class="kanji-icon kanji-icon--locked" lang="ja"><div>二</div></a><div class="progress-entry__pips w-full flex flex-row"><div class="h-1 w-1/5 rounded-l mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 rounded-r bg-gray-300"></div></div></div><div class="progress-entry relative rounded-tr rounded-tl" title="Locked! But a little turtle tells me if you work on the radicals that make up this kanji good things will probably happen."><a href="kanji/%E4%B9%9D.html" class="kanji-icon kanji-icon--locked" lang="ja"><div>九</div></a><div class="progress-entry__pips w-full flex flex-row"><div class="h-1 w-1/5 rounded-l mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 rounded-r bg-gray-300"></div></div></div><div class="progress-entry relative rounded-tr rounded-tl" title="Locked! But a little turtle tells me if you work on the radicals that make up this kanji good things will probably happen."><a href="kanji/%E4%B8%83.html" class="kanji-icon kanji-icon--locked" lang="ja"><div>七</div></a><div class="progress-entry__pips w-full flex flex-row"><div class="h-1 w-1/5 rounded-l mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 rounded-r bg-gray-300"></div></div></div><div class="progress-entry relative rounded-tr rounded-tl" title="Locked! But a little turtle tells me if you work on the radicals that make up this kanji good things will probably happen."><a href="kanji/%E4%BA%BA.html" class="kanji-icon kanji-icon--locked" lang="ja"><div>人</div></a><div class="progress-entry__pips w-full flex flex-row"><div class="h-1 w-1/5 rounded-l mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 rounded-r bg-gray-300"></div></div></div><div class="progress-entry relative rounded-tr rounded-tl" title="Locked! But a little turtle tells me if you work on the radicals that make up this kanji good things will probably happen."><a href="kanji/%E5%85%A5.html" class="kanji-icon kanji-icon--locked" lang="ja"><div>入</div></a><div class="progress-entry__pips w-full flex flex-row"><div class="h-1 w-1/5 rounded-l mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 rounded-r bg-gray-300"></div></div></div><div class="progress-entry relative rounded-tr rounded-tl" title="Locked! But a little turtle tells me if you work on the radicals that make up this kanji good things will probably happen."><a href="kanji/%E5%85%AB.html" class="kanji-icon kanji-icon--locked" lang="ja"><div>八</div></a><div class="progress-entry__pips w-full flex flex-row"><div class="h-1 w-1/5 rounded-l mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 rounded-r bg-gray-300"></div></div></div><div class="progress-entry relative rounded-tr rounded-tl" title="Locked! But a little turtle tells me if you work on the radicals that make up this kanji good things will probably happen."><a href="kanji/%E5%8A%9B.html" class="kanji-icon kanji-icon--locked" lang="ja"><div>力</div></a><div class="progress-entry__pips w-full flex flex-row"><div class="h-1 w-1/5 rounded-l mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 rounded-r bg-gray-300"></div></div></div><div class="progress-entry relative rounded-tr rounded-tl" title="Locked! But a little turtle tells me if you work on the radicals that make up this kanji good things will probably happen."><a href="kanji/%E5%8D%81.html" class="kanji-icon kanji-icon--locked" lang="ja"><div>十</div></a><div class="progress-entry__pips w-full flex flex-row"><div class="h-1 w-1/5 rounded-l mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 rounded-r bg-gray-300"></div></div></div><div class="progress-entry relative rounded-tr rounded-tl" title="Locked! But a little turtle tells me if you work on the radicals that make up this kanji good things will probably happen."><a href="kanji/%E4%B8%89.html" class="kanji-icon kanji-icon--locked" lang="ja"><div>三</div></a><div class="progress-entry__pips w-full flex flex-row"><div class="h-1 w-1/5 rounded-l mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 rounded-r bg-gray-300"></div></div></div><div class="progress-entry relative rounded-tr rounded-tl" title="Locked! But a little turtle tells me if you work on the radicals that make up this kanji good things will probably happen."><a href="kanji/%E4%B8%8A.html" class="kanji-icon kanji-icon--locked" lang="ja"><div>上</div></a><div class="progress-entry__pips w-full flex flex-row"><div class="h-1 w-1/5 rounded-l mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 rounded-r bg-gray-300"></div></div></div><div class="progress-entry relative rounded-tr rounded-tl" title="Locked! But a little turtle tells me if you work on the radicals that make up this kanji good things will probably happen."><a href="kanji/%E4%B8%8B.html" class="kanji-icon kanji-icon--locked" lang="ja"><div>下</div></a><div class="progress-entry__pips w-full flex flex-row"><div class="h-1 w-1/5 rounded-l mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 rounded-r bg-gray-300"></div></div></div><div class="progress-entry relative rounded-tr rounded-tl" title="Locked! But a little turtle tells me if you work on the radicals that make up this kanji good things will probably happen."><a href="kanji/%E5%B7%A5.html" class="kanji-icon kanji-icon--locked" lang="ja"><div>工</div></a><div class="progress-entry__pips w-full flex flex-row"><div class="h-1 w-1/5 rounded-l mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 rounded-r bg-gray-300"></div></div></div><div class="progress-entry relative rounded-tr rounded-tl" title="Locked! But a little turtle tells me if you work on the radicals that make up this kanji good things will probably happen."><a href="kanji/%E5%8F%A3.html" class="kanji-icon kanji-icon--locked" lang="ja"><div>口</div></a><div class="progress-entry__pips w-full flex flex-row"><div class="h-1 w-1/5 rounded-l mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 rounded-r bg-gray-300"></div></div></div><div class="progress-entry relative rounded-tr rounded-tl" title="Locked! But a little turtle tells me if you work on the radicals that make up this kanji good things will probably happen."><a href="kanji/%E5%A4%A7.html" class="kanji-icon kanji-icon--locked" lang="ja"><div>大</div></a><div class="progress-entry__pips w-full flex flex-row"><div class="h-1 w-1/5 rounded-l mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 rounded-r bg-gray-300"></div></div></div><div class="progress-entry relative rounded-tr rounded-tl" title="Locked! But a little turtle tells me if you work on the radicals that make up this kanji good things will probably happen."><a href="kanji/%E5%A5%B3.html" class="kanji-icon kanji-icon--locked" lang="ja"><div>女</div></a><div class="progress-entry__pips w-full flex flex-row"><div class="h-1 w-1/5 rounded-l mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 rounded-r bg-gray-300"></div></div></div><div class="progress-entry relative rounded-tr rounded-tl" title="Locked! But a little turtle tells me if you work on the radicals that make up this kanji good things will probably happen."><a href="kanji/%E5%B1%B1.html" class="kanji-icon kanji-icon--locked" lang="ja"><div>山</div></a><div class="progress-entry__pips w-full flex flex-row"><div class="h-1 w-1/5 rounded-l mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 rounded-r bg-gray-300"></div></div></div><div class="progress-entry relative rounded-tr rounded-tl" title="Locked! But a little turtle tells me if you work on the radicals that make up this kanji good things will probably happen."><a href="kanji/%E5%B7%9D.html" class="kanji-icon kanji-icon--locked" lang="ja"><div>川</div></a><div class="progress-entry__pips w-full flex flex-row"><div class="h-1 w-1/5 rounded-l mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 mr-px bg-gray-300"></div><div class="h-1 w-1/5 rounded-r bg-gray-300"></div></div></div></div></div></div></div>
+          </section>
+          <section data-react-class="ReviewForecast/ReviewForecast" data-react-props="{&quot;forecast&quot;:{},&quot;subjectCount&quot;:9138,&quot;startedCount&quot;:0,&quot;burnedCount&quot;:0,&quot;isOnVacation&quot;:false,&quot;nextAvailableAtAfterForecast&quot;:null,&quot;reviewCount&quot;:0,&quot;lessonCount&quot;:26}" data-react-cache-id="ReviewForecast/ReviewForecast-0" class="forecast flex flex-col"><h1 class="flex-none text-xl font-medium leading-normal text-dark-gray mt-0 mx-0 mb-3">Review Forecast</h1><div class="rounded p-3 -mx-3 -mb-3 flex-grow flex flex-col justify-center bg-white text-center"><div class="review-forecast__empty-image review-forecast__empty-image--new-user"></div><p class="flex-none text-sm mx-5">Whoa there! Without finishing some lessons, we can’t forecast anything — get to ‘em!</p></div></section>
+        </div>
+
+          <section class="srs-progress mb-30">
+            <ul>
+              <li id="apprentice" rel="popover-srs" title="" data-content="<ul><li>Radicals<span>0</span></li><li>Kanji<span>0</span></li><li>Vocabulary<span>0</span></li></ul>" data-original-title="<div class='srs-logo apprentice'></div>">
+                <span>0</span>
+                Apprentice
+              </li><li id="guru" rel="popover-srs" title="" data-content="<ul><li>Radicals<span>0</span></li><li>Kanji<span>0</span></li><li>Vocabulary<span>0</span></li></ul>" data-original-title="<div class='srs-logo guru'></div>">
+                <span>0</span>
+                Guru
+              </li><li id="master" rel="popover-srs" title="" data-content="<ul><li>Radicals<span>0</span></li><li>Kanji<span>0</span></li><li>Vocabulary<span>0</span></li></ul>" data-original-title="<div class='srs-logo master'></div>">
+                <span>0</span>
+                Master
+              </li><li id="enlightened" rel="popover-srs" title="" data-content="<ul><li>Radicals<span>0</span></li><li>Kanji<span>0</span></li><li>Vocabulary<span>0</span></li></ul>" data-original-title="<div class='srs-logo enlightened'></div>">
+                <span>0</span>
+                Enlightened
+              </li><li id="burned" rel="popover-srs" title="" data-content="<ul><li>Radicals<span>0</span></li><li>Kanji<span>0</span></li><li>Vocabulary<span>0</span></li></ul>" data-original-title="<div class='srs-logo burned'></div>">
+                <span>0</span>
+                Burned
+              </li>
+            </ul>
+          </section>
+
+        <div class="row">
+          <div class="span4">
+            <section class="recent-unlocks kotoba-table-list dashboard-sub-section">
+              <h3 class="small-caps">New Unlocks In The Last 30 Days</h3>
+                <table>
+                  <tbody>
+                    <tr class="radical-8761"><td><a href="radicals/stick.html"><span lang="ja"><img class="radical-image" alt="stick" src="https://files.wanikani.com/v8r6j16h72svvo7cmbkqh10ap3pa"></span><span class="pull-right"><time class="relative_date" datetime="2021-12-15T06:53:37Z">Dec 14</time></span></a></td></tr><tr class="radical-8763"><td><a href="radicals/leaf.html"><span lang="ja"><img class="radical-image" alt="leaf" src="https://files.wanikani.com/u66p2iwt0orpz1fl8ap49a4yk4hd"></span><span class="pull-right"><time class="relative_date" datetime="2021-12-15T06:53:37Z">Dec 14</time></span></a></td></tr><tr class="radical-3"><td><a href="radicals/drop.html"><span lang="ja">丶</span><span class="pull-right"><time class="relative_date" datetime="2021-12-15T06:53:37Z">Dec 14</time></span></a></td></tr><tr class="radical-16"><td><a href="radicals/mouth.html"><span lang="ja">口</span><span class="pull-right"><time class="relative_date" datetime="2021-12-15T06:53:37Z">Dec 14</time></span></a></td></tr><tr class="radical-4"><td><a href="radicals/seven.html"><span lang="ja">七</span><span class="pull-right"><time class="relative_date" datetime="2021-12-15T06:53:37Z">Dec 14</time></span></a></td></tr><tr class="radical-10"><td><a href="radicals/toe.html"><span lang="ja">ト</span><span class="pull-right"><time class="relative_date" datetime="2021-12-15T06:53:36Z">Dec 14</time></span></a></td></tr><tr class="radical-7"><td><a href="radicals/two.html"><span lang="ja">二</span><span class="pull-right"><time class="relative_date" datetime="2021-12-15T06:53:36Z">Dec 14</time></span></a></td></tr><tr class="radical-20"><td><a href="radicals/mountain.html"><span lang="ja">山</span><span class="pull-right"><time class="relative_date" datetime="2021-12-15T06:53:36Z">Dec 14</time></span></a></td></tr><tr class="radical-22"><td><a href="radicals/sun.html"><span lang="ja">日</span><span class="pull-right"><time class="relative_date" datetime="2021-12-15T06:53:36Z">Dec 14</time></span></a></td></tr><tr class="radical-14"><td><a href="radicals/prison.html"><span lang="ja">勹</span><span class="pull-right"><time class="relative_date" datetime="2021-12-15T06:53:36Z">Dec 14</time></span></a></td></tr>
+                  </tbody>
+                </table>
+              <div class="see-more">
+                <a class="small-caps" href="recent-unlocks.html">See More Unlocks...</a>
+              </div>
+            </section>
+          </div><!-- span4 -->
+            <div class="span4">
+              <section class="low-percentage kotoba-table-list dashboard-sub-section">
+                <h3 class="small-caps">Critical Condition Items</h3>
+                  <table>
+                    <tbody>
+                      <tr class="none-available"><td><div><i class="fa fa-ok"></i></div>Turtles are healthy.</td></tr>
+                    </tbody>
+                  </table>
+                <div class="see-more">
+                  <a class="small-caps" href="critical-items.html">See More Critical Items...</a>
+                </div>
+              </section>
+            </div><!-- span4 -->
+            <div class="span4">
+              <section class="recent-retired kotoba-table-list dashboard-sub-section">
+                <h3 class="small-caps">Burned Items In The Last 30 Days</h3>
+                  <table>
+                    <tbody>
+                      <tr class="none-available"><td><div><i class="fa fa-ok"></i></div>Turtles are safe... for now.</td></tr>
+                    </tbody>
+                  </table>
+                <div class="see-more">
+                  <a class="small-caps" href="burned-items.html">See More Burned Items...</a>
+                </div>
+              </section>
+            </div><!-- span4 -->
+        </div><!-- row -->
+
+        <div class="row">
+          <div class="span12">
+            <section class="forum-topics-list dashboard-sub-section">
+              <h3 class="small-caps invert">
+                <div class="heading-symbol"><i class="fa fa-comments"></i></div>
+                Recent Community Topics
+              </h3>
+              <table>
+                <tbody>    <tr>
+      <td class="description">
+        <a class="topic-title" href="https://community.wanikani.com/t/advent-of-code-2021/54606">Advent of Code 2021</a><br>
+          @ <a href="https://community.wanikani.com/c/campfire">Campfire</a>
+      </td>
+      <td>
+        <a href="https://community.wanikani.com/t/advent-of-code-2021/54606/511"><time class="timeago" datetime="2021-12-19T04:18:49Z">14 minutes ago</time></a>
+        <br>by <a href="https://community.wanikani.com/u/maykeye">maykeye</a>
+      </td>
+    </tr>
+      <tr>
+        <td colspan="2">
+          <hr>
+        </td>
+      </tr>
+    <tr>
+      <td class="description">
+        <a class="topic-title" href="https://community.wanikani.com/t/rollem-game-6/52778">:game_die: Roll'em Game 6 :game_die:</a><br>
+          @ <a href="https://community.wanikani.com/c/campfire">Campfire</a>
+      </td>
+      <td>
+        <a href="https://community.wanikani.com/t/rollem-game-6/52778/8620"><time class="timeago" datetime="2021-12-19T04:17:37Z">15 minutes ago</time></a>
+        <br>by <a href="https://community.wanikani.com/u/2OC3aOdKgwSGlxfz">2OC3aOdKgwSGlxfz</a>
+      </td>
+    </tr>
+      <tr>
+        <td colspan="2">
+          <hr>
+        </td>
+      </tr>
+    <tr>
+      <td class="description">
+        <a class="topic-title" href="https://community.wanikani.com/t/the-red-froglord-tavern-frog-time-%F0%9F%90%B8/54747">The Red Froglord Tavern - Frog Time 🐸</a><br>
+          @ <a href="https://community.wanikani.com/c/campfire">Campfire</a>
+      </td>
+      <td>
+        <a href="https://community.wanikani.com/t/the-red-froglord-tavern-frog-time-%F0%9F%90%B8/54747/208"><time class="timeago" datetime="2021-12-19T04:14:49Z">18 minutes ago</time></a>
+        <br>by <a href="https://community.wanikani.com/u/Safarigirl">Safarigirl</a>
+      </td>
+    </tr>
+      <tr>
+        <td colspan="2">
+          <hr>
+        </td>
+      </tr>
+    <tr>
+      <td class="description">
+        <a class="topic-title" href="https://community.wanikani.com/t/books-manga-jlpt-n3/54762">Books/ Manga JLPT N3</a><br>
+          @ <a href="https://community.wanikani.com/c/japanese-language/reading">Reading</a>
+      </td>
+      <td>
+        <a href="https://community.wanikani.com/t/books-manga-jlpt-n3/54762/7"><time class="timeago" datetime="2021-12-19T04:05:59Z">27 minutes ago</time></a>
+        <br>by <a href="https://community.wanikani.com/u/Shandapanda">Shandapanda</a>
+      </td>
+    </tr>
+      <tr>
+        <td colspan="2">
+          <hr>
+        </td>
+      </tr>
+    <tr>
+      <td class="description">
+        <a class="topic-title" href="https://community.wanikani.com/t/introducing-natively-a-free-community-book-sharing-site-with-over-900-popular-books-graded-by-difficulty/51419">Introducing Natively - A free community book sharing site with over 900 popular books graded by difficulty</a><br>
+          @ <a href="https://community.wanikani.com/c/japanese-language/resources">Resources</a>
+      </td>
+      <td>
+        <a href="https://community.wanikani.com/t/introducing-natively-a-free-community-book-sharing-site-with-over-900-popular-books-graded-by-difficulty/51419/701"><time class="timeago" datetime="2021-12-19T04:01:33Z">31 minutes ago</time></a>
+        <br>by <a href="https://community.wanikani.com/u/sweetbeems">sweetbeems</a>
+      </td>
+    </tr>
+</tbody>
+              </table>
+              <div class="see-more">
+                <a class="small-caps" href="https://community.wanikani.com">Visit The Community Center...</a>
+              </div>
+            </section><!-- forum-topics-list -->
+          </div><!-- span6 -->
+        </div><!-- row -->
+      </div><!-- span12 -->
+    </div><!-- row -->
+  </div><!-- container -->
+</div><!-- dashboard -->
+
+
+
+  <div class="footer-push"></div>
+</div>
+<footer>
+  <div class="container">
+    <div class="row">
+      <div class="span12">
+        <ul>
+          <li>
+            <a href="about.html">About</a>
+          </li><li>
+            <a href="https://www.wanikani.com/api/v2">API</a>
+          </li><li>
+            <a href="https://www.wanikani.com/faq">Help</a>
+          </li><li>
+            <a target="_blank" href="terms.html">Terms</a>
+          </li><li>
+            <a target="_blank" href="privacy.html">Privacy</a>
+          </li><li>
+            <a href="contact.html">Contact</a>
+          </li><li>
+            Copyright © Tofugu LLC, <span lang="ja">よ</span>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<!-- Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-1960021-27"></script>
+<script>
+  function checkForUserScripts() {
+    var userScripts = {
+      'wkof': 'WaniKani Open Framework',
+      'dpp': 'WaniKani Dashboard Progress Plus',
+      'wklightning': 'WaniKani Lightning Mode',
+      'reorder': 'Wanikani Reorder Ultimate 2',
+      'scriptLog': 'Wanikani Override',
+      'diagram': 'WaniKani Stroke Order',
+      'wkgoldburn': 'Wanikani Golden Burn',
+      'doublecheck': 'Wanikani Double-Check',
+      'similarKanjiContainer': 'WaniKani Similar kanji'
+    };
+
+    function scriptExists(property) {
+      return typeof window[property] !== 'undefined';
+    }
+
+    return Object.keys(userScripts).some(function(script){
+      return scriptExists(script)
+    });
+  }
+
+  var options = {
+    'custom_map': {
+      'dimension2': 'Userscripts Installed',
+      'dimension3': 'Current Level',
+      'dimension4': 'Subscription Status',
+      'dimension5': 'Maximum Level'
+    }
+  };
+
+    options['user_id'] = '306214';
+    options['Current Level'] = 1;
+    options['Maximum Level'] = 2;
+      options['Subscription Status'] = 'free';
+
+  if (checkForUserScripts()) {
+    options['Userscripts Installed'] = 'installed';
+  }
+
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-1960021-27', options);
+
+  
+</script>
+
+<script type="text/javascript">
+  $(document).ready(function() {
+    InfoTip.tooltip();
+      getGravatar('c27e6b046c9acba450c5c0d8208322ad');
+  });
+</script>
+
+  <script type="text/javascript">
+    $(document).ready(function() {
+      // Variables
+      var srsCounts = {"requested_information":{"apprentice":{"radicals":0,"kanji":0,"vocabulary":0,"total":0},"guru":{"radicals":0,"kanji":0,"vocabulary":0,"total":0},"master":{"radicals":0,"kanji":0,"vocabulary":0,"total":0},"enlighten":{"radicals":0,"kanji":0,"vocabulary":0,"total":0},"burned":{"radicals":0,"kanji":0,"vocabulary":0,"total":0}}};
+
+      // Fills in SRS counts
+      Counts.fillInSrsCount(srsCounts.requested_information);
+
+      // Replace dates with fuzzy dates
+      DateTime.activateFuzzyDate();
+      DateTime.activateRelativeDate();
+
+      // SRS popover
+      InfoTip.popoverSrs();
+
+      // Manually refresh data at the top of each hour
+      // Dashboard.autoreload();
+
+      // Message Status
+      Dashboard.messageStatus();
+
+      $.get('https://www.wanikani.com/recent-topics', function() {
+        DateTime.activateFuzzyDate();
+      });
+    });
+  </script>
+
+
+
+<script src="https://chat-assets.frontapp.com/v1/chat.bundle.js"></script><div id="front-chat-container"><div id="front-chat-holder"></div></div><script type="text/javascript" async="" src="https://chat-assets.frontapp.com/v1/app.bundle.js?v=9f9da98"></script>
+<script>
+  window.FrontChat && window.FrontChat('init', {
+    chatId: 'c532927ea41813134eb816f1c64dfd46',
+    useDefaultLauncher: false,
+      email: 'kyle.brechin@gmail.com',
+      userHash: 'e340f4d19a9db0f288ee8e009b6053e717e5fabbd2cc91e55745df34676b9da5',
+  });
+</script>
+
+<script>
+  window.FrontChat && window.FrontChat('onUnreadChange', function(unread) {
+    if (unread.unread_count > 0) {
+      FrontChat('show');
+    }
+  });
+</script>
+
+
+
+<iframe name="__privateStripeMetricsController8020" frameborder="0" allowtransparency="true" scrolling="no" allow="payment *" src="https://js.stripe.com/v3/m-outer-f7902241893e7a497417843cb15dc858.html#url=https%3A%2F%2Fwww.wanikani.com%2Fdashboard&amp;title=WaniKani%20%2F%20Dashboard&amp;referrer=https%3A%2F%2Fwww.wanikani.com%2Flesson&amp;muid=8ae62746-3731-4def-9b6a-8407a4f9b7bf3d82e5&amp;sid=656669f2-f303-45f7-b897-6bd7c500390ecbeadc&amp;version=6&amp;preview=false" aria-hidden="true" tabindex="-1" style="border: none !important; margin: 0px !important; padding: 0px !important; width: 1px !important; min-width: 100% !important; overflow: hidden !important; display: block !important; visibility: hidden !important; position: fixed !important; height: 1px !important; pointer-events: none !important;"></iframe></body></html><!-- html -->

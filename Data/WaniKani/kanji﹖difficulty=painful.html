@@ -1,0 +1,4957 @@
+<!DOCTYPE html><html lang="en" id="main"><head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<script type="text/javascript" src="https://bam-cell.nr-data.net/1/3448ab299a?a=534651&amp;v=1212.e95d35c&amp;to=IV1XQkZZVF1VQU0OBQxYUEUbX1ZVVUs%3D&amp;rst=1957&amp;ck=1&amp;ref=https://www.wanikani.com/kanji&amp;qt=5&amp;ap=93&amp;be=221&amp;fe=1955&amp;dc=1090&amp;perf=%7B%22timing%22:%7B%22of%22:1639888202990,%22n%22:0,%22f%22:0,%22dn%22:0,%22dne%22:0,%22c%22:0,%22ce%22:0,%22rq%22:0,%22rp%22:196,%22rpe%22:307,%22dl%22:220,%22di%22:354,%22ds%22:1090,%22de%22:1095,%22dc%22:1955,%22l%22:1955,%22le%22:1955%7D,%22navigation%22:%7B%7D%7D&amp;fcp=1122&amp;jsonp=NREUM.setToken"></script><script src="https://js-agent.newrelic.com/nr-1212.min.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam-cell.nr-data.net","errorBeacon":"bam-cell.nr-data.net","licenseKey":"3448ab299a","applicationID":"534651","transactionName":"IV1XQkZZVF1VQU0OBQxYUEUbX1ZVVUs=","queueTime":5,"applicationTime":93,"agent":""}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).init={ajax:{deny_list:["bam-cell.nr-data.net"]}};(window.NREUM||(NREUM={})).loader_config={licenseKey:"3448ab299a",applicationID:"534651"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var i=e[n]={exports:{}};t[n][0].call(i.exports,function(e){var i=t[n][1][e];return r(i||e)},i,i.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i<n.length;i++)r(n[i]);return r}({1:[function(t,e,n){function r(){}function i(t,e,n,r){return function(){return s.recordSupportability("API/"+e+"/called"),o(t+e,[u.now()].concat(c(arguments)),n?null:this,r),n?void 0:this}}var o=t("handle"),a=t(10),c=t(11),f=t("ee").get("tracer"),u=t("loader"),s=t(4),d=NREUM;"undefined"==typeof window.newrelic&&(newrelic=d);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",v=l+"ixn-";a(p,function(t,e){d[e]=i(l,e,!0,"api")}),d.addPageAction=i(l,"addPageAction",!0),d.setCurrentRouteName=i(l,"routeName",!0),e.exports=newrelic,d.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(t,e){var n={},r=this,i="function"==typeof e;return o(v+"tracer",[u.now(),t,n],r),function(){if(f.emit((i?"":"no-")+"fn-start",[u.now(),r,i],n),i)try{return e.apply(this,arguments)}catch(t){throw f.emit("fn-err",[arguments,this,t],n),t}finally{f.emit("fn-end",[u.now()],n)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){m[e]=i(v,e)}),newrelic.noticeError=function(t,e){"string"==typeof t&&(t=new Error(t)),s.recordSupportability("API/noticeError/called"),o("err",[t,u.now(),!1,e])}},{}],2:[function(t,e,n){function r(t){if(NREUM.init){for(var e=NREUM.init,n=t.split("."),r=0;r<n.length-1;r++)if(e=e[n[r]],"object"!=typeof e)return;return e=e[n[n.length-1]]}}e.exports={getConfiguration:r}},{}],3:[function(t,e,n){var r=!1;try{var i=Object.defineProperty({},"passive",{get:function(){r=!0}});window.addEventListener("testPassive",null,i),window.removeEventListener("testPassive",null,i)}catch(o){}e.exports=function(t){return r?{passive:!0,capture:!!t}:!!t}},{}],4:[function(t,e,n){function r(t,e){var n=[a,t,{name:t},e];return o("storeMetric",n,null,"api"),n}function i(t,e){var n=[c,t,{name:t},e];return o("storeEventMetrics",n,null,"api"),n}var o=t("handle"),a="sm",c="cm";e.exports={constants:{SUPPORTABILITY_METRIC:a,CUSTOM_METRIC:c},recordSupportability:r,recordCustom:i}},{}],5:[function(t,e,n){function r(){return c.exists&&performance.now?Math.round(performance.now()):(o=Math.max((new Date).getTime(),o))-a}function i(){return o}var o=(new Date).getTime(),a=o,c=t(12);e.exports=r,e.exports.offset=a,e.exports.getLastTimestamp=i},{}],6:[function(t,e,n){function r(t){return!(!t||!t.protocol||"file:"===t.protocol)}e.exports=r},{}],7:[function(t,e,n){function r(t,e){var n=t.getEntries();n.forEach(function(t){"first-paint"===t.name?p("timing",["fp",Math.floor(t.startTime)]):"first-contentful-paint"===t.name&&p("timing",["fcp",Math.floor(t.startTime)])})}function i(t,e){var n=t.getEntries();if(n.length>0){var r=n[n.length-1];if(f&&f<r.startTime)return;p("lcp",[r])}}function o(t){t.getEntries().forEach(function(t){t.hadRecentInput||p("cls",[t])})}function a(t){if(t instanceof g&&!y){var e=Math.round(t.timeStamp),n={type:t.type};e<=l.now()?n.fid=l.now()-e:e>l.offset&&e<=Date.now()?(e-=l.offset,n.fid=l.now()-e):e=l.now(),y=!0,p("timing",["fi",e,n])}}function c(t){"hidden"===t&&(f=l.now(),p("pageHide",[f]))}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var f,u,s,d,p=t("handle"),l=t("loader"),v=t(9),m=t(3),g=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){u=new PerformanceObserver(r);try{u.observe({entryTypes:["paint"]})}catch(h){}s=new PerformanceObserver(i);try{s.observe({entryTypes:["largest-contentful-paint"]})}catch(h){}d=new PerformanceObserver(o);try{d.observe({type:"layout-shift",buffered:!0})}catch(h){}}if("addEventListener"in document){var y=!1,w=["click","keydown","mousedown","pointerdown","touchstart"];w.forEach(function(t){document.addEventListener(t,a,m(!1))})}v(c)}},{}],8:[function(t,e,n){function r(t,e){if(!i)return!1;if(t!==i)return!1;if(!e)return!0;if(!o)return!1;for(var n=o.split("."),r=e.split("."),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var c=navigator.userAgent,f=c.match(a);f&&c.indexOf("Chrome")===-1&&c.indexOf("Chromium")===-1&&(i="Safari",o=f[1])}e.exports={agent:i,version:o,match:r}},{}],9:[function(t,e,n){function r(t){function e(){t(c&&document[c]?document[c]:document[o]?"hidden":"visible")}"addEventListener"in document&&a&&document.addEventListener(a,e,i(!1))}var i=t(3);e.exports=r;var o,a,c;"undefined"!=typeof document.hidden?(o="hidden",a="visibilitychange",c="visibilityState"):"undefined"!=typeof document.msHidden?(o="msHidden",a="msvisibilitychange"):"undefined"!=typeof document.webkitHidden&&(o="webkitHidden",a="webkitvisibilitychange",c="webkitVisibilityState")},{}],10:[function(t,e,n){function r(t,e){var n=[],r="",o=0;for(r in t)i.call(t,r)&&(n[o]=e(r,t[r]),o+=1);return n}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],11:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,i=n-e||0,o=Array(i<0?0:i);++r<i;)o[r]=t[e+r];return o}e.exports=r},{}],12:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(t,e,n){function r(){}function i(t){function e(t){return t&&t instanceof r?t:t?u(t,f,a):a()}function n(n,r,i,o,a){if(a!==!1&&(a=!0),!l.aborted||o){t&&a&&t(n,r,i);for(var c=e(i),f=m(n),u=f.length,s=0;s<u;s++)f[s].apply(c,r);var p=d[w[n]];return p&&p.push([b,n,r,c]),c}}function o(t,e){y[t]=m(t).concat(e)}function v(t,e){var n=y[t];if(n)for(var r=0;r<n.length;r++)n[r]===e&&n.splice(r,1)}function m(t){return y[t]||[]}function g(t){return p[t]=p[t]||i(n)}function h(t,e){l.aborted||s(t,function(t,n){e=e||"feature",w[n]=e,e in d||(d[e]=[])})}var y={},w={},b={on:o,addEventListener:o,removeEventListener:v,emit:n,get:g,listeners:m,context:e,buffer:h,abort:c,aborted:!1};return b}function o(t){return u(t,f,a)}function a(){return new r}function c(){(d.api||d.feature)&&(l.aborted=!0,d=l.backlog={})}var f="nr@context",u=t("gos"),s=t(10),d={},p={},l=e.exports=i();e.exports.getOrSetContext=o,l.backlog=d},{}],gos:[function(t,e,n){function r(t,e,n){if(i.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return t[e]=r,r}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){i.buffer([t],r),i.emit(t,e,n)}var i=t("ee").get("handle");e.exports=r,r.ee=i},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,o,function(){return i++})}var i=1,o="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!T++){var t=P.info=NREUM.info,e=g.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();f(O,function(e,n){t[e]||(t[e]=n)});var n=a();c("mark",["onload",n+P.offset],null,"api"),c("timing",["load",n]);var r=g.createElement("script");0===t.agent.indexOf("http://")||0===t.agent.indexOf("https://")?r.src=t.agent:r.src=v+"://"+t.agent,e.parentNode.insertBefore(r,e)}}function i(){"complete"===g.readyState&&o()}function o(){c("mark",["domContent",a()+P.offset],null,"api")}var a=t(5),c=t("handle"),f=t(10),u=t("ee"),s=t(8),d=t(6),p=t(2),l=t(3),v=p.getConfiguration("ssl")===!1?"http":"https",m=window,g=m.document,h="addEventListener",y="attachEvent",w=m.XMLHttpRequest,b=w&&w.prototype,E=!d(m.location);NREUM.o={ST:setTimeout,SI:m.setImmediate,CT:clearTimeout,XHR:w,REQ:m.Request,EV:m.Event,PR:m.Promise,MO:m.MutationObserver};var x=""+location,O={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1212.min.js"},M=w&&b&&b[h]&&!/CriOS/.test(navigator.userAgent),P=e.exports={offset:a.getLastTimestamp(),now:a,origin:x,features:{},xhrWrappable:M,userAgent:s,disabled:E};if(!E){t(1),t(7),g[h]?(g[h]("DOMContentLoaded",o,l(!1)),m[h]("load",r,l(!1))):(g[y]("onreadystatechange",i),m[y]("onload",r)),c("mark",["firstbyte",a.getLastTimestamp()],null,"api");var T=0}},{}],"wrap-function":[function(t,e,n){function r(t,e){function n(e,n,r,f,u){function nrWrapper(){var o,a,s,p;try{a=this,o=d(arguments),s="function"==typeof r?r(o,a):r||{}}catch(l){i([l,"",[o,a,f],s],t)}c(n+"start",[o,a,f],s,u);try{return p=e.apply(a,o)}catch(v){throw c(n+"err",[o,a,v],s,u),v}finally{c(n+"end",[o,a,p],s,u)}}return a(e)?e:(n||(n=""),nrWrapper[p]=e,o(e,nrWrapper,t),nrWrapper)}function r(t,e,r,i,o){r||(r="");var c,f,u,s="-"===r.charAt(0);for(u=0;u<e.length;u++)f=e[u],c=t[f],a(c)||(t[f]=n(c,s?f+r:r,i,f,o))}function c(n,r,o,a){if(!v||e){var c=v;v=!0;try{t.emit(n,r,o,e,a)}catch(f){i([f,n,r,o],t)}v=c}}return t||(t=s),n.inPlace=r,n.flag=p,n}function i(t,e){e||(e=s);try{e.emit("internal-error",t)}catch(n){}}function o(t,e,n){if(Object.defineProperty&&Object.keys)try{var r=Object.keys(t);return r.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(o){i([o],n)}for(var a in t)l.call(t,a)&&(e[a]=t[a]);return e}function a(t){return!(t&&t instanceof Function&&t.apply&&!t[p])}function c(t,e){var n=e(t);return n[p]=t,o(t,n,s),n}function f(t,e,n){var r=t[e];t[e]=c(r,n)}function u(){for(var t=arguments.length,e=new Array(t),n=0;n<t;++n)e[n]=arguments[n];return e}var s=t("ee"),d=t(11),p="nr@original",l=Object.prototype.hasOwnProperty,v=!1;e.exports=r,e.exports.wrapFunction=c,e.exports.wrapInPlace=f,e.exports.argsToArray=u},{}]},{},["loader"]);</script>
+  <title>WaniKani / Kanji</title>
+  <link rel="stylesheet" media="screen" href="https://assets.wanikani.com/assets/default-v2/application-6d912fbb5aa1973185f780283d157c2ccec06ba30da4bb77d83b832a25b1ecc6.css">
+  <link rel="stylesheet" media="screen" href="https://assets.wanikani.com/assets/application-071eb84d1045613ca4d9dff39e4da923c0596f279325cf9186df39977e18af26.css">
+  <link rel="stylesheet" media="screen" href="https://assets.wanikani.com/packs/css/application-7e4ee722.css">
+  <script src="https://assets.wanikani.com/assets/default-v2/application-10c028e4c3b6e20fe0900c02f9fc5cf4fb794dc35ce2f4e9f290d008a354bb63.js" crossorigin="anonymous"></script>
+  <script src="https://assets.wanikani.com/assets/application-03404b194cec3b7beb3a487e89b9fd445c4a1e972461dfadf29a698cfaf7a0e5.js" crossorigin="anonymous" defer="defer"></script>
+  <script src="https://js.stripe.com/v3/"></script>
+  
+  <meta name="application-name" content="WaniKani">
+  <meta name="author" content="tofugu.com">
+  <meta name="description" content="WaniKani is a Japanese radicals, kanji, and vocabulary learning web app that uses mnemonics and SRS to make kanji learning simple.">
+  <meta name="keywords" content="japanese kanji, japanese language, japanese learning, kanji, radicals, kanji radicals, japanese vocabulary, vocabulary, srs, spaced repetition, mnemonics, memory tricks, web app">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="google" value="notranslate">
+  <!-- Open Graph data -->
+  <meta content="Learn Japanese kanji the effective way!" property="og:description">
+  <meta content="https://assets.wanikani.com/assets/social-media-image-ca55bf39c15200daf802dc76f0e42e32d1c9a6c46d19319849ffe67edfe52a3a.jpg" property="og:image">
+  <meta content="en_US" property="og:locale">
+  <meta content="WaniKani" property="og:site_name">
+  <meta content="WaniKani, a kanji learning application by Tofugu" property="og:title">
+  <meta content="website" property="og:type">
+  <meta content="https://wanikani.com/" property="og:url">
+  <meta content="https://www.tofugu.com" property="og:see_also">
+  <!-- Twitter Card data -->
+  <meta content="summary_large_image" name="twitter:card">
+  <meta content="@tofugu" name="twitter:creator">
+  <meta content="Learn Japanese kanji the effective way!" name="twitter:description">
+  <meta content="https://assets.wanikani.com/assets/social-media-image-ca55bf39c15200daf802dc76f0e42e32d1c9a6c46d19319849ffe67edfe52a3a.jpg" name="twitter:image">
+  <meta content="@wanikaniapp" name="twitter:site">
+  <meta content="WaniKani, a kanji learning application by Tofugu" name="twitter:title">
+  <meta name="csrf-param" content="authenticity_token">
+<meta name="csrf-token" content="T/OFxlKWD+Xt0RR9k87EKXxZq169WA5SPulfbhkedCZTvTmJk1k87cgyo4Xi6DvsFZeoNL05mMATd/Vryzv5og==">
+  <link rel="shortcut icon" type="image/x-icon" href="https://assets.wanikani.com/assets/favicon-d302b05cb464e25c4af85dc54cece3e711f6dead1b75dedeec8487416e002e64.ico">
+  <link rel="shortcut icon" type="image/png" href="https://assets.wanikani.com/assets/v03/wanikani-icon-196x-be8c1d71f8d8f786fa06d9bdfc685e790c24dc4b143f4a6962e0c7d93b4d5343.png" sizes="196x196">
+  <link rel="shortcut icon" type="image/png" href="https://assets.wanikani.com/assets/v03/wanikani-icon-128x-24286608194b57572df6b5c94ddd1791cb9bd1ebe2e7c9e8dbda3d8c5f80db7c.png" sizes="128x128">
+  <link rel="apple-touch-icon" type="image/png" href="https://assets.wanikani.com/assets/v03/wanikani-icon-128x-24286608194b57572df6b5c94ddd1791cb9bd1ebe2e7c9e8dbda3d8c5f80db7c.png" sizes="128x128">
+  <link rel="apple-touch-icon-precomposed" type="image/png" href="https://assets.wanikani.com/assets/v03/wanikani-icon-128x-24286608194b57572df6b5c94ddd1791cb9bd1ebe2e7c9e8dbda3d8c5f80db7c.png" sizes="128x128">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin=""> 
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&amp;family=Noto+Sans+SC:wght@400;700&amp;display=swap" rel="stylesheet"> 
+ 
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" type="text/css">
+  <link href="https://fonts.googleapis.com/css?family=Ubuntu:300,700,300italic,700italic" rel="stylesheet" type="text/css">
+  <link href="opensearch.xml" rel="search" title="WaniKani" type="application/opensearchdescription+xml">
+  <script src="https://assets.wanikani.com/packs/js/application-9cc72caf018b93c769ec.js"></script>
+  
+<link type="text/css" rel="stylesheet" href="blob:https://www.wanikani.com/2c821d2b-9c1b-4f03-9fe5-4e86a5b66941"><link type="text/css" rel="stylesheet" href="blob:https://www.wanikani.com/c34059e2-30c6-47b4-8a51-f2af02d5dff0"><link type="text/css" rel="stylesheet" href="blob:https://www.wanikani.com/cbc8da1a-c28a-487f-8b31-dd254ee5cdf0"><link type="text/css" rel="stylesheet" href="blob:https://www.wanikani.com/08248fac-462e-45af-96ec-12f0b5090061"><link type="text/css" rel="stylesheet" href="blob:https://www.wanikani.com/bd98396f-0e02-4dfd-bbb0-a60e5e60e81a"><link type="text/css" rel="stylesheet" href="blob:https://www.wanikani.com/b219bc6d-90b9-430a-9694-5a94ba98f351"><link type="text/css" rel="stylesheet" href="blob:https://www.wanikani.com/1a757d96-08d6-413f-829a-8147e787a4f7"><link type="text/css" rel="stylesheet" href="blob:https://www.wanikani.com/c855f4ac-dace-4052-aeac-fa016f2196aa"><link type="text/css" rel="stylesheet" href="blob:https://www.wanikani.com/2e772f7e-4441-4dd5-9093-0a1a30f5b84f"><link type="text/css" rel="stylesheet" href="blob:https://www.wanikani.com/4fa8a93b-3183-4251-9a90-683739ac1db7"><link type="text/css" rel="stylesheet" href="blob:https://www.wanikani.com/b9be7624-3fca-4631-8475-ad93fdb8f972"><link type="text/css" rel="stylesheet" href="blob:https://www.wanikani.com/e2c81835-c05c-48ae-bb57-65bca268b9d4"><link type="text/css" rel="stylesheet" href="blob:https://www.wanikani.com/eada8fe6-ca22-49bd-9d36-97be93c731ac"><link type="text/css" rel="stylesheet" href="blob:https://www.wanikani.com/b13920dd-3b00-44cd-86fc-687a18f1f7b0"><link type="text/css" rel="stylesheet" href="blob:https://www.wanikani.com/20a102a4-3b12-4a3f-b1b3-c4df159be61e"><link type="text/css" rel="stylesheet" href="blob:https://www.wanikani.com/161f7222-6a35-44f1-9706-3364ac9b07ca"><link type="text/css" rel="stylesheet" href="blob:https://www.wanikani.com/a4d99c5e-70dd-45b4-8e8b-747fcbae0a5a"><link type="text/css" rel="stylesheet" href="blob:https://www.wanikani.com/a9142bd2-c005-49ff-82a2-106346dcdf84"><link type="text/css" rel="stylesheet" href="blob:https://www.wanikani.com/b2ff0abb-1ae3-41f1-8f2d-bd5d5a6b7022"><link type="text/css" rel="stylesheet" href="blob:https://www.wanikani.com/45f823ef-33ab-4609-98fd-6d64f69ed24a"><link type="text/css" rel="stylesheet" href="blob:https://www.wanikani.com/72d48860-256f-49dd-8153-ceff9e39c0ea"><link type="text/css" rel="stylesheet" href="blob:https://www.wanikani.com/1054df9f-4ddc-4da3-87c6-3b1af16e87ab"><link type="text/css" rel="stylesheet" href="blob:https://www.wanikani.com/037c79d6-fe6e-414b-87ee-623841bb4f12"></head>
+<body>
+
+<div class="footer-adjustment">
+  <header class="global-header">
+  <div class="container">
+    <div class="logo">
+      <a class="logo__link" href="index.html">
+        <h1>WaniKani</h1>
+</a>    </div>
+    <nav class="navigation" role="navigation">
+        <ul class="navigation-shortcuts">
+          <li class="navigation-shortcut navigation-shortcut--lessons" data-count="26">
+            <a href="lesson.html">
+              <span>26</span> Lessons
+</a>          </li>
+          <li class="navigation-shortcut navigation-shortcut--reviews" data-count="0">
+            <a href="review.html">
+              <span>0</span> Reviews
+</a>          </li>
+</ul>      <button id="search__trigger__mobile" tabindex="0" class="box-content flex items-stretch p-0 transition duration-200 bg-transparent border-2 border-transparent border-solid rounded-full lg:hidden xl:hidden hover:border-transparent-1 w-7 h-7 focus:outline-none focus:border-transparent-3" data-expanded="false" aria-expanded="false" aria-controls="search-form" type="button" aria-label="Search">
+        <span lang="en" class="self-center flex-1 pb-px pr-px text-center cursor-pointer fa fa-search"></span>
+      </button>
+      <button class="border-0 navigation__toggle" data-navigation-toggle="" data-expanded="false" aria-expanded="true" aria-controls="sitemap" type="button" aria-label="Menu">
+        <span class="navigation__toggle-lines"></span>
+      </button>
+      <ul id="sitemap" class="sitemap" data-navigation-content="" data-expanded="false">
+          <li class="sitemap__section">
+            <button class="sitemap__section-header" data-navigation-section-toggle="" data-expanded="false" aria-expanded="false" type="button" aria-controls="sitemap__levels" tabindex="0">
+              <span lang="ja">レベル</span>
+              <span lang="en" class="font-sans">Levels</span>
+            </button>
+            <div id="#sitemap__levels" class="sitemap__expandable-chunk sitemap__expandable-chunk--levels" data-navigation-section-content="" data-expanded="false">
+              <div class="sitemap__grouped-pages">
+    <h3 class="sitemap__group-header"><span lang="ja">快</span> PLEASANT</h3>
+    <ol class="sitemap__pages sitemap__pages--levels">
+        <li class="sitemap__page sitemap__page--current-level">
+          <a href="level/1.html">01</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/2.html">02</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/3.html">03</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/4.html">04</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/5.html">05</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/6.html">06</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/7.html">07</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/8.html">08</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/9.html">09</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/10.html">10</a>
+        </li>
+    </ol>
+    <h3 class="sitemap__group-header"><span lang="ja">苦</span> PAINFUL</h3>
+    <ol class="sitemap__pages sitemap__pages--levels">
+        <li class="sitemap__page">
+          <a href="level/11.html">11</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/12.html">12</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/13.html">13</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/14.html">14</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/15.html">15</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/16.html">16</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/17.html">17</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/18.html">18</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/19.html">19</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/20.html">20</a>
+        </li>
+    </ol>
+    <h3 class="sitemap__group-header"><span lang="ja">死</span> DEATH</h3>
+    <ol class="sitemap__pages sitemap__pages--levels">
+        <li class="sitemap__page">
+          <a href="level/21.html">21</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/22.html">22</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/23.html">23</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/24.html">24</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/25.html">25</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/26.html">26</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/27.html">27</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/28.html">28</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/29.html">29</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/30.html">30</a>
+        </li>
+    </ol>
+    <h3 class="sitemap__group-header"><span lang="ja">地獄</span> HELL</h3>
+    <ol class="sitemap__pages sitemap__pages--levels">
+        <li class="sitemap__page">
+          <a href="level/31.html">31</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/32.html">32</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/33.html">33</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/34.html">34</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/35.html">35</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/36.html">36</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/37.html">37</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/38.html">38</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/39.html">39</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/40.html">40</a>
+        </li>
+    </ol>
+    <h3 class="sitemap__group-header"><span lang="ja">天国</span> PARADISE</h3>
+    <ol class="sitemap__pages sitemap__pages--levels">
+        <li class="sitemap__page">
+          <a href="level/41.html">41</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/42.html">42</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/43.html">43</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/44.html">44</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/45.html">45</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/46.html">46</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/47.html">47</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/48.html">48</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/49.html">49</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/50.html">50</a>
+        </li>
+    </ol>
+    <h3 class="sitemap__group-header"><span lang="ja">現実</span> REALITY</h3>
+    <ol class="sitemap__pages sitemap__pages--levels">
+        <li class="sitemap__page">
+          <a href="level/51.html">51</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/52.html">52</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/53.html">53</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/54.html">54</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/55.html">55</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/56.html">56</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/57.html">57</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/58.html">58</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/59.html">59</a>
+        </li>
+        <li class="sitemap__page">
+          <a href="level/60.html">60</a>
+        </li>
+    </ol>
+</div>
+
+            </div>
+          </li>
+          <li class="sitemap__section">
+            <button class="sitemap__section-header sitemap__section-header--radicals" data-navigation-section-toggle="" data-expanded="false" aria-expanded="false" aria-controls="sitemap__radicals" type="button" tabindex="0">
+              <span lang="ja">部首</span>
+              <span lang="en" class="font-sans">Radicals</span>
+            </button>
+            <div id="#sitemap__radicals" class="sitemap__expandable-chunk sitemap__expandable-chunk--radicals" data-navigation-section-content="" data-expanded="false">
+              <ul class="sitemap__pages sitemap__pages--radical">
+    <li class="sitemap__page sitemap__page--subject">
+      <a href="radicals%EF%B9%96difficulty=pleasant.html">
+        <span lang="ja">快</span> Pleasant
+        <span class="sitemap__page-subtitle">Levels 01-10</span>
+</a>    </li>
+    <li class="sitemap__page sitemap__page--subject">
+      <a href="radicals%EF%B9%96difficulty=painful.html">
+        <span lang="ja">苦</span> Painful
+        <span class="sitemap__page-subtitle">Levels 11-20</span>
+</a>    </li>
+    <li class="sitemap__page sitemap__page--subject">
+      <a href="radicals%EF%B9%96difficulty=death.html">
+        <span lang="ja">死</span> Death
+        <span class="sitemap__page-subtitle">Levels 21-30</span>
+</a>    </li>
+    <li class="sitemap__page sitemap__page--subject">
+      <a href="radicals%EF%B9%96difficulty=hell.html">
+        <span lang="ja">地獄</span> Hell
+        <span class="sitemap__page-subtitle">Levels 31-40</span>
+</a>    </li>
+    <li class="sitemap__page sitemap__page--subject">
+      <a href="radicals%EF%B9%96difficulty=paradise.html">
+        <span lang="ja">天国</span> Paradise
+        <span class="sitemap__page-subtitle">Levels 41-50</span>
+</a>    </li>
+    <li class="sitemap__page sitemap__page--subject">
+      <a href="radicals%EF%B9%96difficulty=reality.html">
+        <span lang="ja">現実</span> Reality
+        <span class="sitemap__page-subtitle">Levels 51-60</span>
+</a>    </li>
+</ul>
+
+            </div>
+          </li>
+          <li class="sitemap__section">
+            <button class="sitemap__section-header sitemap__section-header--kanji" data-navigation-section-toggle="" data-expanded="false" aria-expanded="false" aria-controls="sitemap__kanji" type="button" tabindex="0">
+              <span lang="ja">漢字</span>
+              <span lang="en" class="font-sans">Kanji</span>
+            </button>
+            <div id="#sitemap__kanji" class="sitemap__expandable-chunk sitemap__expandable-chunk--kanji" data-navigation-section-content="" data-expanded="false">
+              <ul class="sitemap__pages sitemap__pages--kanji">
+    <li class="sitemap__page sitemap__page--subject">
+      <a href="kanji%EF%B9%96difficulty=pleasant.html">
+        <span lang="ja">快</span> Pleasant
+        <span class="sitemap__page-subtitle">Levels 01-10</span>
+</a>    </li>
+    <li class="sitemap__page sitemap__page--subject">
+      <a href="kanji%EF%B9%96difficulty=painful.html">
+        <span lang="ja">苦</span> Painful
+        <span class="sitemap__page-subtitle">Levels 11-20</span>
+</a>    </li>
+    <li class="sitemap__page sitemap__page--subject">
+      <a href="kanji%EF%B9%96difficulty=death.html">
+        <span lang="ja">死</span> Death
+        <span class="sitemap__page-subtitle">Levels 21-30</span>
+</a>    </li>
+    <li class="sitemap__page sitemap__page--subject">
+      <a href="kanji%EF%B9%96difficulty=hell.html">
+        <span lang="ja">地獄</span> Hell
+        <span class="sitemap__page-subtitle">Levels 31-40</span>
+</a>    </li>
+    <li class="sitemap__page sitemap__page--subject">
+      <a href="kanji%EF%B9%96difficulty=paradise.html">
+        <span lang="ja">天国</span> Paradise
+        <span class="sitemap__page-subtitle">Levels 41-50</span>
+</a>    </li>
+    <li class="sitemap__page sitemap__page--subject">
+      <a href="kanji%EF%B9%96difficulty=reality.html">
+        <span lang="ja">現実</span> Reality
+        <span class="sitemap__page-subtitle">Levels 51-60</span>
+</a>    </li>
+</ul>
+
+            </div>
+          </li>
+          <li class="sitemap__section">
+            <button class="sitemap__section-header sitemap__section-header--vocabulary" data-navigation-section-toggle="" data-expanded="false" aria-expanded="false" aria-controls="sitemap__vocabulary" type="button" tabindex="0">
+              <span lang="ja">単語</span>
+              <span lang="en" class="font-sans">Vocabulary</span>
+            </button>
+            <div id="#sitemap__vocabulary" class="sitemap__expandable-chunk sitemap__expandable-chunk--vocabulary" data-navigation-section-content="" data-expanded="false">
+              <ul class="sitemap__pages sitemap__pages--vocabulary">
+    <li class="sitemap__page sitemap__page--subject">
+      <a href="vocabulary%EF%B9%96difficulty=pleasant.html">
+        <span lang="ja">快</span> Pleasant
+        <span class="sitemap__page-subtitle">Levels 01-10</span>
+</a>    </li>
+    <li class="sitemap__page sitemap__page--subject">
+      <a href="vocabulary%EF%B9%96difficulty=painful.html">
+        <span lang="ja">苦</span> Painful
+        <span class="sitemap__page-subtitle">Levels 11-20</span>
+</a>    </li>
+    <li class="sitemap__page sitemap__page--subject">
+      <a href="vocabulary%EF%B9%96difficulty=death.html">
+        <span lang="ja">死</span> Death
+        <span class="sitemap__page-subtitle">Levels 21-30</span>
+</a>    </li>
+    <li class="sitemap__page sitemap__page--subject">
+      <a href="vocabulary%EF%B9%96difficulty=hell.html">
+        <span lang="ja">地獄</span> Hell
+        <span class="sitemap__page-subtitle">Levels 31-40</span>
+</a>    </li>
+    <li class="sitemap__page sitemap__page--subject">
+      <a href="vocabulary%EF%B9%96difficulty=paradise.html">
+        <span lang="ja">天国</span> Paradise
+        <span class="sitemap__page-subtitle">Levels 41-50</span>
+</a>    </li>
+    <li class="sitemap__page sitemap__page--subject">
+      <a href="vocabulary%EF%B9%96difficulty=reality.html">
+        <span lang="ja">現実</span> Reality
+        <span class="sitemap__page-subtitle">Levels 51-60</span>
+</a>    </li>
+</ul>
+
+            </div>
+          </li>
+        <li class="sitemap__section sitemap--divider">
+          <button class="sitemap__section-header sitemap__section-header--help" data-navigation-section-toggle="" data-expanded="false" aria-expanded="false" type="button" aria-controls="sitemap__levels" tabindex="0">
+            <span lang="ja">ヘルプ</span>
+            <span lang="en" class="font-sans">Help</span>
+          </button>
+          <div id="#sitemap__help" class="sitemap__expandable-chunk" data-navigation-section-content="" data-expanded="false">
+            <ul class="sitemap__pages">
+              <li class="sitemap__page sitemap__page--subject">
+                <a href="https://www.wanikani.com/faq">Knowledge Guide</a>
+              </li>
+                <li class="sitemap__page sitemap__page--subject">
+                  <a href="contact.html">Contact Us</a>
+                </li>
+              <li class="sitemap__page sitemap__page--subject">
+                <button name="button" type="button" class="button--chat" onclick="FrontChat('show')">Chat with Us</button>
+              </li>
+            </ul>
+          </div>
+        </li>
+        <li class="sitemap__section">
+          <button id="search__trigger" tabindex="0" class="box-content items-stretch hidden p-0 text-base transition duration-200 bg-transparent border-2 border-transparent border-solid rounded-full lg:flex lg:visible hover:border-transparent-1 w-7 h-7 focus:outline-none focus:border-transparent-3" data-expanded="false" aria-expanded="false" aria-controls="search-form" type="button">
+            <span lang="en" class="self-center flex-1 pb-px pr-px fonta-sans text-center cursor-pointer fa fa-search"></span>
+          </button>
+        </li>
+          <li class="sitemap__section">
+            <button class="sitemap__section-header sitemap__section-header--account" data-navigation-section-toggle="" data-expanded="false" aria-expanded="false" aria-controls="sitemap__account" type="button" tabindex="0">
+              <div class="sitemap__avatar user-avatar-default" style=""></div>
+              <span class="font-sans" lang="en">Account</span>
+            </button>
+            <div id="#sitemap__account" class="sitemap__expandable-chunk sitemap__expandable-chunk--account" data-navigation-section-content="" data-expanded="false">
+                <ul class="sitemap__pages">
+                  <li class="user-summary">
+                    <div class="flag">
+                      <div class="flag__asset">
+                        <div class="user-summary__avatar user-avatar-default" role="img" aria-label="Your avatar" alt="Your avatar" style=""></div>
+                      </div>
+                      <div class="flag__item">
+                        <p class="user-summary__username">maertsoi</p>
+                        <ul class="user-summary__attributes">
+                          <li class="font-sans user-summary__attribute">
+                            <a title="View level 1" href="level/1.html">Level 1</a>
+                          </li>
+                          <li class="font-sans user-summary__attribute">
+                            <a title="View subscriptions" href="account/subscription.html">
+                              Free
+</a>                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="sitemap__page">
+                    <a href="users/maertsoi.html">Profile</a>
+                  </li>
+                  <li class="sitemap__section sitemap__section--subsection">
+                    <h3 class="sitemap__section-header sitemap__section-header--subsection">Settings</h3>
+                    <ul class="sitemap__pages">
+                      <li class="sitemap__page">
+                        <a href="settings/app.html">App</a>
+                      </li>
+                      <li class="sitemap__page">
+                        <a href="settings/account.html">Account</a>
+                      </li>
+                        <li class="sitemap__page">
+                          <a href="settings/personal_access_tokens.html">API Tokens</a>
+                        </li>
+                      <li class="sitemap__page">
+                        <a href="settings/profile.html">Profile</a>
+                      </li>
+                      <li class="sitemap__page">
+                        <a href="settings/danger_zone.html">Danger Zone</a>
+                      </li>
+                    </ul>
+                  </li>
+                    <li class="sitemap__page">
+                      <a href="account/subscription.html">Subscription</a>
+                    </li>
+                  <li class="sitemap__page">
+                    <a rel="nofollow" data-method="delete" href="https://www.wanikani.com/logout">Sign Out</a>
+                  </li>
+                  <li class="sitemap__page sitemap__page--community">
+                    <a href="https://www.wanikani.com/community">Community</a>
+                  </li>
+                </ul>
+            </div>
+          </li>
+      </ul>
+    </nav>
+  </div>
+</header>
+
+
+  
+
+  
+
+  
+
+  
+
+  <div id="search">
+  <div class="container">
+    <div class="row">
+      <div class="span12 search-form hidden">
+        <form action="search.html" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="✓">
+          <fieldset class="flex">
+            <span class="search-symbol"><i class="fa fa-search"></i></span>
+            <input type="text" name="query" id="query" class="search-query flex-auto" placeholder="Search radicals, kanji, and vocabulary by characters, meaning, or reading">
+            <button name="button" type="submit" class="flex-initial rounded bg-gray-500 text-white font-bold border-0 px-3 py-1">
+              Search
+</button>          </fieldset>
+</form>      </div>
+    </div>
+  </div>
+</div>
+
+
+  
+<div class="container">
+  <div class="row">
+    <div class="span12">
+        <header>
+  <h1>
+    Kanji
+    <small>LEVELS 11–20</small>
+  </h1>
+</header>
+
+        <aside class="additional-info level-list legend">
+  <h3><i class="fa fa-sitemap"></i> Legend</h3>
+  <ul>
+    <li title="Unlocked within the last five days.">
+      <div><span lang="ja" class="recently-unlocked-item">新</span></div>
+      New
+    </li><li title="Unavailable for lessons or reviews. Level up and/or pass items to unlock more items.">
+      <div><span lang="ja" class="locked-item kanji">錠</span></div>
+      Locked
+    </li><li title="Available in lessons or reviews.">
+      <div><span lang="ja" class="kanji">現</span></div>
+      Active
+    </li><li title="Committed to memory and no longer in reviews.">
+      <div><span lang="ja" class="burned">焦</span></div>
+      Burned
+    </li>
+  </ul>
+</aside>
+
+        <div class="page-list">
+  <ul>
+    <li class="page-list-header"><span>Levels <i class="fa fa-chevron-right"></i></span></li><li><a href="#level-11">11</a></li><li><a href="#level-12">12</a></li><li><a href="#level-13">13</a></li><li><a href="#level-14">14</a></li><li><a href="#level-15">15</a></li><li><a href="#level-16">16</a></li><li><a href="#level-17">17</a></li><li><a href="#level-18">18</a></li><li><a href="#level-19">19</a></li><li><a href="#level-20">20</a></li>
+  </ul>
+</div>
+        <section id="level-11">
+          <header>
+      <h2>Level 11</h2>
+</header>
+
+            <div class="progress"><div class="bar" style="width: 60px;" title="0 out of 38 subjects unlocked"><span><b>0</b> / 38</span></div></div>
+
+
+              <ul class="single-character-grid">
+    <li class="kanji-806 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%8A%9F.html">
+    <span class="character" lang="ja">
+        功
+    </span>
+    <ul>
+      <li lang="ja">
+          こう
+      </li>
+      <li>Achievement</li>
+    </ul>
+</a></li><li class="kanji-780 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E6%88%90.html">
+    <span class="character" lang="ja">
+        成
+    </span>
+    <ul>
+      <li lang="ja">
+          せい
+      </li>
+      <li>Become</li>
+    </ul>
+</a></li><li class="kanji-790 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%B2%B8.html">
+    <span class="character" lang="ja">
+        岸
+    </span>
+    <ul>
+      <li lang="ja">
+          がん
+      </li>
+      <li>Coast</li>
+    </ul>
+</a></li><li class="kanji-804 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E7%AB%B6.html">
+    <span class="character" lang="ja">
+        競
+    </span>
+    <ul>
+      <li lang="ja">
+          きょう
+      </li>
+      <li>Compete</li>
+    </ul>
+</a></li><li class="kanji-775 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E4%BA%89.html">
+    <span class="character" lang="ja">
+        争
+    </span>
+    <ul>
+      <li lang="ja">
+          そう
+      </li>
+      <li>Conflict</li>
+    </ul>
+</a></li><li class="kanji-808 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E4%BE%BF.html">
+    <span class="character" lang="ja">
+        便
+    </span>
+    <ul>
+      <li lang="ja">
+          べん
+      </li>
+      <li>Convenience</li>
+    </ul>
+</a></li><li class="kanji-781 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E8%80%81.html">
+    <span class="character" lang="ja">
+        老
+    </span>
+    <ul>
+      <li lang="ja">
+          ろう
+      </li>
+      <li>Elderly</li>
+    </ul>
+</a></li><li class="kanji-789 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%91%BD.html">
+    <span class="character" lang="ja">
+        命
+    </span>
+    <ul>
+      <li lang="ja">
+          めい
+      </li>
+      <li>Fate</li>
+    </ul>
+</a></li><li class="kanji-797 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E6%8C%87.html">
+    <span class="character" lang="ja">
+        指
+    </span>
+    <ul>
+      <li lang="ja">
+          し
+      </li>
+      <li>Finger</li>
+    </ul>
+</a></li><li class="kanji-784 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%88%9D.html">
+    <span class="character" lang="ja">
+        初
+    </span>
+    <ul>
+      <li lang="ja">
+          しょ
+      </li>
+      <li>First</li>
+    </ul>
+</a></li><li class="kanji-812 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%91%B3.html">
+    <span class="character" lang="ja">
+        味
+    </span>
+    <ul>
+      <li lang="ja">
+          み
+      </li>
+      <li>Flavor</li>
+    </ul>
+</a></li><li class="kanji-802 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E8%BF%BD.html">
+    <span class="character" lang="ja">
+        追
+    </span>
+    <ul>
+      <li lang="ja">
+          お
+      </li>
+      <li>Follow</li>
+    </ul>
+</a></li><li class="kanji-799 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E7%A5%9E.html">
+    <span class="character" lang="ja">
+        神
+    </span>
+    <ul>
+      <li lang="ja">
+          しん
+      </li>
+      <li>God</li>
+    </ul>
+</a></li><li class="kanji-805 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E8%89%AF.html">
+    <span class="character" lang="ja">
+        良
+    </span>
+    <ul>
+      <li lang="ja">
+          りょう
+      </li>
+      <li>Good</li>
+    </ul>
+</a></li><li class="kanji-811 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E6%84%8F.html">
+    <span class="character" lang="ja">
+        意
+    </span>
+    <ul>
+      <li lang="ja">
+          い
+      </li>
+      <li>Idea</li>
+    </ul>
+</a></li><li class="kanji-788 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%8A%B4.html">
+    <span class="character" lang="ja">
+        労
+    </span>
+    <ul>
+      <li lang="ja">
+          ろう
+      </li>
+      <li>Labor</li>
+    </ul>
+</a></li><li class="kanji-801 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E7%B4%9A.html">
+    <span class="character" lang="ja">
+        級
+    </span>
+    <ul>
+      <li lang="ja">
+          きゅう
+      </li>
+      <li>Level</li>
+    </ul>
+</a></li><li class="kanji-779 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%A5%BD.html">
+    <span class="character" lang="ja">
+        好
+    </span>
+    <ul>
+      <li lang="ja">
+          こう
+      </li>
+      <li>Like</li>
+    </ul>
+</a></li><li class="kanji-792 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E6%98%94.html">
+    <span class="character" lang="ja">
+        昔
+    </span>
+    <ul>
+      <li lang="ja">
+          むかし
+      </li>
+      <li>Long Ago</li>
+    </ul>
+</a></li><li class="kanji-783 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E4%BD%8E.html">
+    <span class="character" lang="ja">
+        低
+    </span>
+    <ul>
+      <li lang="ja">
+          てい
+      </li>
+      <li>Low</li>
+    </ul>
+</a></li><li class="kanji-795 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E8%82%B2.html">
+    <span class="character" lang="ja">
+        育
+    </span>
+    <ul>
+      <li lang="ja">
+          いく
+      </li>
+      <li>Nurture</li>
+    </ul>
+</a></li><li class="kanji-810 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E4%BB%A4.html">
+    <span class="character" lang="ja">
+        令
+    </span>
+    <ul>
+      <li lang="ja">
+          れい
+      </li>
+      <li>Orders</li>
+    </ul>
+</a></li><li class="kanji-796 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E6%8B%BE.html">
+    <span class="character" lang="ja">
+        拾
+    </span>
+    <ul>
+      <li lang="ja">
+          ひろ
+      </li>
+      <li>Pick Up</li>
+    </ul>
+</a></li><li class="kanji-794 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E6%B3%A8.html">
+    <span class="character" lang="ja">
+        注
+    </span>
+    <ul>
+      <li lang="ja">
+          ちゅう
+      </li>
+      <li>Pour</li>
+    </ul>
+</a></li><li class="kanji-786 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%88%A9.html">
+    <span class="character" lang="ja">
+        利
+    </span>
+    <ul>
+      <li lang="ja">
+          り
+      </li>
+      <li>Profit</li>
+    </ul>
+</a></li><li class="kanji-782 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E4%BD%8D.html">
+    <span class="character" lang="ja">
+        位
+    </span>
+    <ul>
+      <li lang="ja">
+          い
+      </li>
+      <li>Rank</li>
+    </ul>
+</a></li><li class="kanji-776 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E4%BB%B2.html">
+    <span class="character" lang="ja">
+        仲
+    </span>
+    <ul>
+      <li lang="ja">
+          なか
+      </li>
+      <li>Relationship</li>
+    </ul>
+</a></li><li class="kanji-791 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E6%94%BE.html">
+    <span class="character" lang="ja">
+        放
+    </span>
+    <ul>
+      <li lang="ja">
+          ほう
+      </li>
+      <li>Release</li>
+    </ul>
+</a></li><li class="kanji-800 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E7%A7%92.html">
+    <span class="character" lang="ja">
+        秒
+    </span>
+    <ul>
+      <li lang="ja">
+          びょう
+      </li>
+      <li>Second</li>
+    </ul>
+</a></li><li class="kanji-785 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%88%A5.html">
+    <span class="character" lang="ja">
+        別
+    </span>
+    <ul>
+      <li lang="ja">
+          べつ
+      </li>
+      <li>Separate</li>
+    </ul>
+</a></li><li class="kanji-807 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E7%89%B9.html">
+    <span class="character" lang="ja">
+        特
+    </span>
+    <ul>
+      <li lang="ja">
+          とく
+      </li>
+      <li>Special</li>
+    </ul>
+</a></li><li class="kanji-778 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%85%B1.html">
+    <span class="character" lang="ja">
+        共
+    </span>
+    <ul>
+      <li lang="ja">
+          きょう
+      </li>
+      <li>Together</li>
+    </ul>
+</a></li><li class="kanji-787 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%8A%AA.html">
+    <span class="character" lang="ja">
+        努
+    </span>
+    <ul>
+      <li lang="ja">
+          ど
+      </li>
+      <li>Toil</li>
+    </ul>
+</a></li><li class="kanji-777 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E4%BC%9D.html">
+    <span class="character" lang="ja">
+        伝
+    </span>
+    <ul>
+      <li lang="ja">
+          でん
+      </li>
+      <li>Transmit</li>
+    </ul>
+</a></li><li class="kanji-803 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E6%88%A6.html">
+    <span class="character" lang="ja">
+        戦
+    </span>
+    <ul>
+      <li lang="ja">
+          せん
+      </li>
+      <li>War</li>
+    </ul>
+</a></li><li class="kanji-793 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E6%B3%A2.html">
+    <span class="character" lang="ja">
+        波
+    </span>
+    <ul>
+      <li lang="ja">
+          は
+      </li>
+      <li>Wave</li>
+    </ul>
+</a></li><li class="kanji-798 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E6%B4%8B.html">
+    <span class="character" lang="ja">
+        洋
+    </span>
+    <ul>
+      <li lang="ja">
+          よう
+      </li>
+      <li>Western Style</li>
+    </ul>
+</a></li><li class="kanji-809 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%83%8D.html">
+    <span class="character" lang="ja">
+        働
+    </span>
+    <ul>
+      <li lang="ja">
+          どう
+      </li>
+      <li>Work</li>
+    </ul>
+</a></li>
+  </ul>
+
+</section>        <section id="level-12">
+          <header>
+      <h2>Level 12</h2>
+</header>
+
+            <div class="progress"><div class="bar" style="width: 60px;" title="0 out of 39 subjects unlocked"><span><b>0</b> / 39</span></div></div>
+
+
+              <ul class="single-character-grid">
+    <li class="kanji-829 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E6%82%AA.html">
+    <span class="character" lang="ja">
+        悪
+    </span>
+    <ul>
+      <li lang="ja">
+          あく
+      </li>
+      <li>Bad</li>
+    </ul>
+</a></li><li class="kanji-815 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E6%81%AF.html">
+    <span class="character" lang="ja">
+        息
+    </span>
+    <ul>
+      <li lang="ja">
+          そく
+      </li>
+      <li>Breath</li>
+    </ul>
+</a></li><li class="kanji-824 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E7%AB%A0.html">
+    <span class="character" lang="ja">
+        章
+    </span>
+    <ul>
+      <li lang="ja">
+          しょう
+      </li>
+      <li>Chapter</li>
+    </ul>
+</a></li><li class="kanji-845 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E7%99%BB.html">
+    <span class="character" lang="ja">
+        登
+    </span>
+    <ul>
+      <li lang="ja">
+          とう
+      </li>
+      <li>Climb</li>
+    </ul>
+</a></li><li class="kanji-836 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%AF%92.html">
+    <span class="character" lang="ja">
+        寒
+    </span>
+    <ul>
+      <li lang="ja">
+          さむ
+      </li>
+      <li>Cold</li>
+    </ul>
+</a></li><li class="kanji-831 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E6%B7%B1.html">
+    <span class="character" lang="ja">
+        深
+    </span>
+    <ul>
+      <li lang="ja">
+          しん
+      </li>
+      <li>Deep</li>
+    </ul>
+</a></li><li class="kanji-820 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%80%8D.html">
+    <span class="character" lang="ja">
+        倍
+    </span>
+    <ul>
+      <li lang="ja">
+          ばい
+      </li>
+      <li>Double</li>
+    </ul>
+</a></li><li class="kanji-813 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%8B%89.html">
+    <span class="character" lang="ja">
+        勉
+    </span>
+    <ul>
+      <li lang="ja">
+          べん
+      </li>
+      <li>Exertion</li>
+    </ul>
+</a></li><li class="kanji-819 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E6%B6%88.html">
+    <span class="character" lang="ja">
+        消
+    </span>
+    <ul>
+      <li lang="ja">
+          しょう
+      </li>
+      <li>Extinguish</li>
+    </ul>
+</a></li><li class="kanji-823 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E7%A5%AD.html">
+    <span class="character" lang="ja">
+        祭
+    </span>
+    <ul>
+      <li lang="ja">
+          さい
+      </li>
+      <li>Festival</li>
+    </ul>
+</a></li><li class="kanji-848 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E9%87%8E.html">
+    <span class="character" lang="ja">
+        野
+    </span>
+    <ul>
+      <li lang="ja">
+          や
+      </li>
+      <li>Field</li>
+    </ul>
+</a></li><li class="kanji-835 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E9%9A%8E.html">
+    <span class="character" lang="ja">
+        階
+    </span>
+    <ul>
+      <li lang="ja">
+          かい
+      </li>
+      <li>Floor</li>
+    </ul>
+</a></li><li class="kanji-814 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%BA%AD.html">
+    <span class="character" lang="ja">
+        庭
+    </span>
+    <ul>
+      <li lang="ja">
+          てい
+      </li>
+      <li>Garden</li>
+    </ul>
+</a></li><li class="kanji-843 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E6%B8%AF.html">
+    <span class="character" lang="ja">
+        港
+    </span>
+    <ul>
+      <li lang="ja">
+          こう
+      </li>
+      <li>Harbor</li>
+    </ul>
+</a></li><li class="kanji-838 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E6%9A%91.html">
+    <span class="character" lang="ja">
+        暑
+    </span>
+    <ul>
+      <li lang="ja">
+          あつ
+      </li>
+      <li>Hot</li>
+    </ul>
+</a></li><li class="kanji-844 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E6%B9%AF.html">
+    <span class="character" lang="ja">
+        湯
+    </span>
+    <ul>
+      <li lang="ja">
+          ゆ
+      </li>
+      <li>Hot Water</li>
+    </ul>
+</a></li><li class="kanji-1890 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%83%95.html">
+    <span class="character" lang="ja">
+        僕
+    </span>
+    <ul>
+      <li lang="ja">
+          ぼく
+      </li>
+      <li>I</li>
+    </ul>
+</a></li><li class="kanji-822 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%B3%B6.html">
+    <span class="character" lang="ja">
+        島
+    </span>
+    <ul>
+      <li lang="ja">
+          しま
+      </li>
+      <li>Island</li>
+    </ul>
+</a></li><li class="kanji-833 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E7%AB%A5.html">
+    <span class="character" lang="ja">
+        童
+    </span>
+    <ul>
+      <li lang="ja">
+          どう
+      </li>
+      <li>Juvenile</li>
+    </ul>
+</a></li><li class="kanji-821 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%93%A1.html">
+    <span class="character" lang="ja">
+        員
+    </span>
+    <ul>
+      <li lang="ja">
+          いん
+      </li>
+      <li>Member</li>
+    </ul>
+</a></li><li class="kanji-828 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%95%86.html">
+    <span class="character" lang="ja">
+        商
+    </span>
+    <ul>
+      <li lang="ja">
+          しょう
+      </li>
+      <li>Merchandise</li>
+    </ul>
+</a></li><li class="kanji-826 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E9%83%BD.html">
+    <span class="character" lang="ja">
+        都
+    </span>
+    <ul>
+      <li lang="ja">
+          と
+      </li>
+      <li>Metropolis</li>
+    </ul>
+</a></li><li class="kanji-827 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%8B%95.html">
+    <span class="character" lang="ja">
+        動
+    </span>
+    <ul>
+      <li lang="ja">
+          どう
+      </li>
+      <li>Move</li>
+    </ul>
+</a></li><li class="kanji-825 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E7%AC%AC.html">
+    <span class="character" lang="ja">
+        第
+    </span>
+    <ul>
+      <li lang="ja">
+          だい
+      </li>
+      <li>Ordinal Nu...</li>
+    </ul>
+</a></li><li class="kanji-839 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E6%9C%9F.html">
+    <span class="character" lang="ja">
+        期
+    </span>
+    <ul>
+      <li lang="ja">
+          き
+      </li>
+      <li>Period Of ...</li>
+    </ul>
+</a></li><li class="kanji-840 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E6%A4%8D.html">
+    <span class="character" lang="ja">
+        植
+    </span>
+    <ul>
+      <li lang="ja">
+          しょく
+      </li>
+      <li>Plant</li>
+    </ul>
+</a></li><li class="kanji-817 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E6%A0%B9.html">
+    <span class="character" lang="ja">
+        根
+    </span>
+    <ul>
+      <li lang="ja">
+          こん
+      </li>
+      <li>Root</li>
+    </ul>
+</a></li><li class="kanji-847 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E7%9F%AD.html">
+    <span class="character" lang="ja">
+        短
+    </span>
+    <ul>
+      <li lang="ja">
+          たん
+      </li>
+      <li>Short</li>
+    </ul>
+</a></li><li class="kanji-832 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E7%90%83.html">
+    <span class="character" lang="ja">
+        球
+    </span>
+    <ul>
+      <li lang="ja">
+          きゅう
+      </li>
+      <li>Sphere</li>
+    </ul>
+</a></li><li class="kanji-849 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E6%B3%89.html">
+    <span class="character" lang="ja">
+        泉
+    </span>
+    <ul>
+      <li lang="ja">
+          せん
+      </li>
+      <li>Spring</li>
+    </ul>
+</a></li><li class="kanji-818 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E6%B5%81.html">
+    <span class="character" lang="ja">
+        流
+    </span>
+    <ul>
+      <li lang="ja">
+          りゅう
+      </li>
+      <li>Stream</li>
+    </ul>
+</a></li><li class="kanji-852 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%90%88.html">
+    <span class="character" lang="ja">
+        合
+    </span>
+    <ul>
+      <li lang="ja">
+          ごう
+      </li>
+      <li>Suit</li>
+    </ul>
+</a></li><li class="kanji-834 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E9%99%BD.html">
+    <span class="character" lang="ja">
+        陽
+    </span>
+    <ul>
+      <li lang="ja">
+          よう
+      </li>
+      <li>Sunshine</li>
+    </ul>
+</a></li><li class="kanji-841 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E6%AD%AF.html">
+    <span class="character" lang="ja">
+        歯
+    </span>
+    <ul>
+      <li lang="ja">
+          は
+      </li>
+      <li>Tooth</li>
+    </ul>
+</a></li><li class="kanji-830 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E6%97%8F.html">
+    <span class="character" lang="ja">
+        族
+    </span>
+    <ul>
+      <li lang="ja">
+          ぞく
+      </li>
+      <li>Tribe</li>
+    </ul>
+</a></li><li class="kanji-816 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E6%97%85.html">
+    <span class="character" lang="ja">
+        旅
+    </span>
+    <ul>
+      <li lang="ja">
+          りょ
+      </li>
+      <li>Trip</li>
+    </ul>
+</a></li><li class="kanji-726 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%BE%85.html">
+    <span class="character" lang="ja">
+        待
+    </span>
+    <ul>
+      <li lang="ja">
+          たい
+      </li>
+      <li>Wait</li>
+    </ul>
+</a></li><li class="kanji-842 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E6%B8%A9.html">
+    <span class="character" lang="ja">
+        温
+    </span>
+    <ul>
+      <li lang="ja">
+          おん
+      </li>
+      <li>Warm</li>
+    </ul>
+</a></li><li class="kanji-846 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E7%9D%80.html">
+    <span class="character" lang="ja">
+        着
+    </span>
+    <ul>
+      <li lang="ja">
+          ちゃく
+      </li>
+      <li>Wear</li>
+    </ul>
+</a></li>
+  </ul>
+
+</section>        <section id="level-13">
+          <header>
+      <h2>Level 13</h2>
+</header>
+
+            <div class="progress"><div class="bar" style="width: 60px;" title="0 out of 37 subjects unlocked"><span><b>0</b> / 37</span></div></div>
+
+
+              <ul class="single-character-grid">
+    <li class="kanji-895 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E7%9A%86.html">
+    <span class="character" lang="ja">
+        皆
+    </span>
+    <ul>
+      <li lang="ja">
+          みな
+      </li>
+      <li>All</li>
+    </ul>
+</a></li><li class="kanji-892 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E8%AC%9D.html">
+    <span class="character" lang="ja">
+        謝
+    </span>
+    <ul>
+      <li lang="ja">
+          しゃ
+      </li>
+      <li>Apologize</li>
+    </ul>
+</a></li><li class="kanji-863 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E6%95%B4.html">
+    <span class="character" lang="ja">
+        整
+    </span>
+    <ul>
+      <li lang="ja">
+          せい
+      </li>
+      <li>Arrange</li>
+    </ul>
+</a></li><li class="kanji-866 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E6%A9%8B.html">
+    <span class="character" lang="ja">
+        橋
+    </span>
+    <ul>
+      <li lang="ja">
+          はし
+      </li>
+      <li>Bridge</li>
+    </ul>
+</a></li><li class="kanji-886 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E9%81%B8.html">
+    <span class="character" lang="ja">
+        選
+    </span>
+    <ul>
+      <li lang="ja">
+          せん
+      </li>
+      <li>Choose</li>
+    </ul>
+</a></li><li class="kanji-861 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E6%83%B3.html">
+    <span class="character" lang="ja">
+        想
+    </span>
+    <ul>
+      <li lang="ja">
+          そう
+      </li>
+      <li>Concept</li>
+    </ul>
+</a></li><li class="kanji-876 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%99%A8.html">
+    <span class="character" lang="ja">
+        器
+    </span>
+    <ul>
+      <li lang="ja">
+          き
+      </li>
+      <li>Container</li>
+    </ul>
+</a></li><li class="kanji-864 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E6%9A%97.html">
+    <span class="character" lang="ja">
+        暗
+    </span>
+    <ul>
+      <li lang="ja">
+          あん
+      </li>
+      <li>Dark</li>
+    </ul>
+</a></li><li class="kanji-894 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E7%96%91.html">
+    <span class="character" lang="ja">
+        疑
+    </span>
+    <ul>
+      <li lang="ja">
+          ぎ
+      </li>
+      <li>Doubt</li>
+    </ul>
+</a></li><li class="kanji-878 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E6%96%99.html">
+    <span class="character" lang="ja">
+        料
+    </span>
+    <ul>
+      <li lang="ja">
+          りょう
+      </li>
+      <li>Fee</li>
+    </ul>
+</a></li><li class="kanji-891 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E6%83%85.html">
+    <span class="character" lang="ja">
+        情
+    </span>
+    <ul>
+      <li lang="ja">
+          じょう
+      </li>
+      <li>Feeling</li>
+    </ul>
+</a></li><li class="kanji-862 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E6%84%9F.html">
+    <span class="character" lang="ja">
+        感
+    </span>
+    <ul>
+      <li lang="ja">
+          かん
+      </li>
+      <li>Feeling</li>
+    </ul>
+</a></li><li class="kanji-865 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E6%A7%98.html">
+    <span class="character" lang="ja">
+        様
+    </span>
+    <ul>
+      <li lang="ja">
+          さま
+      </li>
+      <li>Formal Nam...</li>
+    </ul>
+</a></li><li class="kanji-889 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E9%A4%8A.html">
+    <span class="character" lang="ja">
+        養
+    </span>
+    <ul>
+      <li lang="ja">
+          よう
+      </li>
+      <li>Foster</li>
+    </ul>
+</a></li><li class="kanji-868 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E7%B7%91.html">
+    <span class="character" lang="ja">
+        緑
+    </span>
+    <ul>
+      <li lang="ja">
+          みどり
+      </li>
+      <li>Green</li>
+    </ul>
+</a></li><li class="kanji-882 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E7%86%B1.html">
+    <span class="character" lang="ja">
+        熱
+    </span>
+    <ul>
+      <li lang="ja">
+          ねつ
+      </li>
+      <li>Heat</li>
+    </ul>
+</a></li><li class="kanji-875 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%84%84.html">
+    <span class="character" lang="ja">
+        億
+    </span>
+    <ul>
+      <li lang="ja">
+          おく
+      </li>
+      <li>Hundred Mi...</li>
+    </ul>
+</a></li><li class="kanji-880 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E6%AE%BA.html">
+    <span class="character" lang="ja">
+        殺
+    </span>
+    <ul>
+      <li lang="ja">
+          さつ
+      </li>
+      <li>Kill</li>
+    </ul>
+</a></li><li class="kanji-860 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%AE%BF.html">
+    <span class="character" lang="ja">
+        宿
+    </span>
+    <ul>
+      <li lang="ja">
+          しゅく
+      </li>
+      <li>Lodge</li>
+    </ul>
+</a></li><li class="kanji-867 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E7%A6%8F.html">
+    <span class="character" lang="ja">
+        福
+    </span>
+    <ul>
+      <li lang="ja">
+          ふく
+      </li>
+      <li>Luck</li>
+    </ul>
+</a></li><li class="kanji-887 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E9%8F%A1.html">
+    <span class="character" lang="ja">
+        鏡
+    </span>
+    <ul>
+      <li lang="ja">
+          かがみ
+      </li>
+      <li>Mirror</li>
+    </ul>
+</a></li><li class="kanji-881 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E7%84%B6.html">
+    <span class="character" lang="ja">
+        然
+    </span>
+    <ul>
+      <li lang="ja">
+          ぜん
+      </li>
+      <li>Nature</li>
+    </ul>
+</a></li><li class="kanji-870 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E8%A9%A9.html">
+    <span class="character" lang="ja">
+        詩
+    </span>
+    <ul>
+      <li lang="ja">
+          し
+      </li>
+      <li>Poem</li>
+    </ul>
+</a></li><li class="kanji-869 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E7%B7%B4.html">
+    <span class="character" lang="ja">
+        練
+    </span>
+    <ul>
+      <li lang="ja">
+          れん
+      </li>
+      <li>Practice</li>
+    </ul>
+</a></li><li class="kanji-884 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E8%B3%9E.html">
+    <span class="character" lang="ja">
+        賞
+    </span>
+    <ul>
+      <li lang="ja">
+          しょう
+      </li>
+      <li>Prize</li>
+    </ul>
+</a></li><li class="kanji-859 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%95%8F.html">
+    <span class="character" lang="ja">
+        問
+    </span>
+    <ul>
+      <li lang="ja">
+          もん
+      </li>
+      <li>Problem</li>
+    </ul>
+</a></li><li class="kanji-873 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E9%A4%A8.html">
+    <span class="character" lang="ja">
+        館
+    </span>
+    <ul>
+      <li lang="ja">
+          かん
+      </li>
+      <li>Public Bui...</li>
+    </ul>
+</a></li><li class="kanji-893 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E6%98%A0.html">
+    <span class="character" lang="ja">
+        映
+    </span>
+    <ul>
+      <li lang="ja">
+          えい
+      </li>
+      <li>Reflect</li>
+    </ul>
+</a></li><li class="kanji-888 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E9%A1%98.html">
+    <span class="character" lang="ja">
+        願
+    </span>
+    <ul>
+      <li lang="ja">
+          がん
+      </li>
+      <li>Request</li>
+    </ul>
+</a></li><li class="kanji-877 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%A3%AB.html">
+    <span class="character" lang="ja">
+        士
+    </span>
+    <ul>
+      <li lang="ja">
+          し
+      </li>
+      <li>Samurai</li>
+    </ul>
+</a></li><li class="kanji-883 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E8%AA%B2.html">
+    <span class="character" lang="ja">
+        課
+    </span>
+    <ul>
+      <li lang="ja">
+          か
+      </li>
+      <li>Section</li>
+    </ul>
+</a></li><li class="kanji-879 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E6%A8%99.html">
+    <span class="character" lang="ja">
+        標
+    </span>
+    <ul>
+      <li lang="ja">
+          ひょう
+      </li>
+      <li>Signpost</li>
+    </ul>
+</a></li><li class="kanji-871 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E9%8A%80.html">
+    <span class="character" lang="ja">
+        銀
+    </span>
+    <ul>
+      <li lang="ja">
+          ぎん
+      </li>
+      <li>Silver</li>
+    </ul>
+</a></li><li class="kanji-874 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E9%A7%85.html">
+    <span class="character" lang="ja">
+        駅
+    </span>
+    <ul>
+      <li lang="ja">
+          えき
+      </li>
+      <li>Station</li>
+    </ul>
+</a></li><li class="kanji-890 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%83%8F.html">
+    <span class="character" lang="ja">
+        像
+    </span>
+    <ul>
+      <li lang="ja">
+          ぞう
+      </li>
+      <li>Statue</li>
+    </ul>
+</a></li><li class="kanji-872 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E9%A1%8C.html">
+    <span class="character" lang="ja">
+        題
+    </span>
+    <ul>
+      <li lang="ja">
+          だい
+      </li>
+      <li>Topic</li>
+    </ul>
+</a></li><li class="kanji-885 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E8%BC%AA.html">
+    <span class="character" lang="ja">
+        輪
+    </span>
+    <ul>
+      <li lang="ja">
+          りん
+      </li>
+      <li>Wheel</li>
+    </ul>
+</a></li>
+  </ul>
+
+</section>        <section id="level-14">
+          <header>
+      <h2>Level 14</h2>
+</header>
+
+            <div class="progress"><div class="bar" style="width: 60px;" title="0 out of 32 subjects unlocked"><span><b>0</b> / 32</span></div></div>
+
+
+              <ul class="single-character-grid">
+    <li class="kanji-921 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E8%83%BD.html">
+    <span class="character" lang="ja">
+        能
+    </span>
+    <ul>
+      <li lang="ja">
+          のう
+      </li>
+      <li>Ability</li>
+    </ul>
+</a></li><li class="kanji-916 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E8%8A%B8.html">
+    <span class="character" lang="ja">
+        芸
+    </span>
+    <ul>
+      <li lang="ja">
+          げい
+      </li>
+      <li>Acting</li>
+    </ul>
+</a></li><li class="kanji-922 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E8%A1%93.html">
+    <span class="character" lang="ja">
+        術
+    </span>
+    <ul>
+      <li lang="ja">
+          じゅつ
+      </li>
+      <li>Art</li>
+    </ul>
+</a></li><li class="kanji-926 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E9%9B%B0.html">
+    <span class="character" lang="ja">
+        雰
+    </span>
+    <ul>
+      <li lang="ja">
+          ふん
+      </li>
+      <li>Atmosphere</li>
+    </ul>
+</a></li><li class="kanji-924 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E9%AA%A8.html">
+    <span class="character" lang="ja">
+        骨
+    </span>
+    <ul>
+      <li lang="ja">
+          こつ
+      </li>
+      <li>Bone</li>
+    </ul>
+</a></li><li class="kanji-910 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E6%9D%9F.html">
+    <span class="character" lang="ja">
+        束
+    </span>
+    <ul>
+      <li lang="ja">
+          そく
+      </li>
+      <li>Bundle</li>
+    </ul>
+</a></li><li class="kanji-900 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%91%A8.html">
+    <span class="character" lang="ja">
+        周
+    </span>
+    <ul>
+      <li lang="ja">
+          しゅう
+      </li>
+      <li>Circumference</li>
+    </ul>
+</a></li><li class="kanji-898 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%8D%94.html">
+    <span class="character" lang="ja">
+        協
+    </span>
+    <ul>
+      <li lang="ja">
+          きょう
+      </li>
+      <li>Cooperation</li>
+    </ul>
+</a></li><li class="kanji-896 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E4%BE%8B.html">
+    <span class="character" lang="ja">
+        例
+    </span>
+    <ul>
+      <li lang="ja">
+          れい
+      </li>
+      <li>Example</li>
+    </ul>
+</a></li><li class="kanji-907 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E6%8A%98.html">
+    <span class="character" lang="ja">
+        折
+    </span>
+    <ul>
+      <li lang="ja">
+          せつ
+      </li>
+      <li>Fold</li>
+    </ul>
+</a></li><li class="kanji-917 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%9F%BA.html">
+    <span class="character" lang="ja">
+        基
+    </span>
+    <ul>
+      <li lang="ja">
+          き
+      </li>
+      <li>Foundation</li>
+    </ul>
+</a></li><li class="kanji-918 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E6%80%A7.html">
+    <span class="character" lang="ja">
+        性
+    </span>
+    <ul>
+      <li lang="ja">
+          せい
+      </li>
+      <li>Gender</li>
+    </ul>
+</a></li><li class="kanji-925 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%A6%A5.html">
+    <span class="character" lang="ja">
+        妥
+    </span>
+    <ul>
+      <li lang="ja">
+          だ
+      </li>
+      <li>Gentle</li>
+    </ul>
+</a></li><li class="kanji-897 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%8D%92.html">
+    <span class="character" lang="ja">
+        卒
+    </span>
+    <ul>
+      <li lang="ja">
+          そつ
+      </li>
+      <li>Graduate</li>
+    </ul>
+</a></li><li class="kanji-902 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%9B%BA.html">
+    <span class="character" lang="ja">
+        固
+    </span>
+    <ul>
+      <li lang="ja">
+          こ
+      </li>
+      <li>Hard</li>
+    </ul>
+</a></li><li class="kanji-908 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E6%9C%9B.html">
+    <span class="character" lang="ja">
+        望
+    </span>
+    <ul>
+      <li lang="ja">
+          ぼう
+      </li>
+      <li>Hope</li>
+    </ul>
+</a></li><li class="kanji-909 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E6%9D%90.html">
+    <span class="character" lang="ja">
+        材
+    </span>
+    <ul>
+      <li lang="ja">
+          ざい
+      </li>
+      <li>Lumber</li>
+    </ul>
+</a></li><li class="kanji-899 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%8F%82.html">
+    <span class="character" lang="ja">
+        参
+    </span>
+    <ul>
+      <li lang="ja">
+          さん
+      </li>
+      <li>Participate</li>
+    </ul>
+</a></li><li class="kanji-904 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%AE%8C.html">
+    <span class="character" lang="ja">
+        完
+    </span>
+    <ul>
+      <li lang="ja">
+          かん
+      </li>
+      <li>Perfect</li>
+    </ul>
+</a></li><li class="kanji-911 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E6%9D%BE.html">
+    <span class="character" lang="ja">
+        松
+    </span>
+    <ul>
+      <li lang="ja">
+          まつ
+      </li>
+      <li>Pine</li>
+    </ul>
+</a></li><li class="kanji-915 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E7%B4%84.html">
+    <span class="character" lang="ja">
+        約
+    </span>
+    <ul>
+      <li lang="ja">
+          やく
+      </li>
+      <li>Promise</li>
+    </ul>
+</a></li><li class="kanji-912 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E6%AE%8B.html">
+    <span class="character" lang="ja">
+        残
+    </span>
+    <ul>
+      <li lang="ja">
+          ざん
+      </li>
+      <li>Remainder</li>
+    </ul>
+</a></li><li class="kanji-903 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%AD%A3.html">
+    <span class="character" lang="ja">
+        季
+    </span>
+    <ul>
+      <li lang="ja">
+          き
+      </li>
+      <li>Seasons</li>
+    </ul>
+</a></li><li class="kanji-919 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E6%8A%80.html">
+    <span class="character" lang="ja">
+        技
+    </span>
+    <ul>
+      <li lang="ja">
+          ぎ
+      </li>
+      <li>Skill</li>
+    </ul>
+</a></li><li class="kanji-920 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E6%A0%BC.html">
+    <span class="character" lang="ja">
+        格
+    </span>
+    <ul>
+      <li lang="ja">
+          かく
+      </li>
+      <li>Status</li>
+    </ul>
+</a></li><li class="kanji-8963 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E8%8B%BA.html">
+    <span class="character" lang="ja">
+        苺
+    </span>
+    <ul>
+      <li lang="ja">
+          いちご
+      </li>
+      <li>Strawberry</li>
+    </ul>
+</a></li><li class="kanji-927 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E9%A0%91.html">
+    <span class="character" lang="ja">
+        頑
+    </span>
+    <ul>
+      <li lang="ja">
+          がん
+      </li>
+      <li>Stubborn</li>
+    </ul>
+</a></li><li class="kanji-901 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%9B%B2.html">
+    <span class="character" lang="ja">
+        囲
+    </span>
+    <ul>
+      <li lang="ja">
+          い
+      </li>
+      <li>Surround</li>
+    </ul>
+</a></li><li class="kanji-914 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E7%9A%84.html">
+    <span class="character" lang="ja">
+        的
+    </span>
+    <ul>
+      <li lang="ja">
+          てき
+      </li>
+      <li>Target</li>
+    </ul>
+</a></li><li class="kanji-906 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%BF%B5.html">
+    <span class="character" lang="ja">
+        念
+    </span>
+    <ul>
+      <li lang="ja">
+          ねん
+      </li>
+      <li>Thought</li>
+    </ul>
+</a></li><li class="kanji-905 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%B8%8C.html">
+    <span class="character" lang="ja">
+        希
+    </span>
+    <ul>
+      <li lang="ja">
+          き
+      </li>
+      <li>Wish</li>
+    </ul>
+</a></li><li class="kanji-8967 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E7%8B%BC.html">
+    <span class="character" lang="ja">
+        狼
+    </span>
+    <ul>
+      <li lang="ja">
+          おおかみ
+      </li>
+      <li>Wolf</li>
+    </ul>
+</a></li>
+  </ul>
+
+</section>        <section id="level-15">
+          <header>
+      <h2>Level 15</h2>
+</header>
+
+            <div class="progress"><div class="bar" style="width: 60px;" title="0 out of 33 subjects unlocked"><span><b>0</b> / 33</span></div></div>
+
+
+              <ul class="single-character-grid">
+    <li class="kanji-952 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E7%B4%80.html">
+    <span class="character" lang="ja">
+        紀
+    </span>
+    <ul>
+      <li lang="ja">
+          き
+      </li>
+      <li>Account</li>
+    </ul>
+</a></li><li class="kanji-954 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E8%BB%8D.html">
+    <span class="character" lang="ja">
+        軍
+    </span>
+    <ul>
+      <li lang="ja">
+          ぐん
+      </li>
+      <li>Army</li>
+    </ul>
+</a></li><li class="kanji-934 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E7%A7%8B.html">
+    <span class="character" lang="ja">
+        秋
+    </span>
+    <ul>
+      <li lang="ja">
+          あき
+      </li>
+      <li>Autumn</li>
+    </ul>
+</a></li><li class="kanji-940 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E4%BF%A1.html">
+    <span class="character" lang="ja">
+        信
+    </span>
+    <ul>
+      <li lang="ja">
+          しん
+      </li>
+      <li>Believe</li>
+    </ul>
+</a></li><li class="kanji-929 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%B2%A9.html">
+    <span class="character" lang="ja">
+        岩
+    </span>
+    <ul>
+      <li lang="ja">
+          いわ
+      </li>
+      <li>Boulder</li>
+    </ul>
+</a></li><li class="kanji-956 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E4%BB%8F.html">
+    <span class="character" lang="ja">
+        仏
+    </span>
+    <ul>
+      <li lang="ja">
+          ぶつ
+      </li>
+      <li>Buddha</li>
+    </ul>
+</a></li><li class="kanji-946 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%BB%BA.html">
+    <span class="character" lang="ja">
+        建
+    </span>
+    <ul>
+      <li lang="ja">
+          けん
+      </li>
+      <li>Build</li>
+    </ul>
+</a></li><li class="kanji-959 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E7%8C%AB.html">
+    <span class="character" lang="ja">
+        猫
+    </span>
+    <ul>
+      <li lang="ja">
+          ねこ
+      </li>
+      <li>Cat</li>
+    </ul>
+</a></li><li class="kanji-944 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%A4%89.html">
+    <span class="character" lang="ja">
+        変
+    </span>
+    <ul>
+      <li lang="ja">
+          へん
+      </li>
+      <li>Change</li>
+    </ul>
+</a></li><li class="kanji-933 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E6%99%B4.html">
+    <span class="character" lang="ja">
+        晴
+    </span>
+    <ul>
+      <li lang="ja">
+          は
+      </li>
+      <li>Clear Up</li>
+    </ul>
+</a></li><li class="kanji-957 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E7%AF%89.html">
+    <span class="character" lang="ja">
+        築
+    </span>
+    <ul>
+      <li lang="ja">
+          ちく
+      </li>
+      <li>Construct</li>
+    </ul>
+</a></li><li class="kanji-941 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%8B%87.html">
+    <span class="character" lang="ja">
+        勇
+    </span>
+    <ul>
+      <li lang="ja">
+          ゆう
+      </li>
+      <li>Courage</li>
+    </ul>
+</a></li><li class="kanji-950 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E6%B3%A3.html">
+    <span class="character" lang="ja">
+        泣
+    </span>
+    <ul>
+      <li lang="ja">
+          な
+      </li>
+      <li>Cry</li>
+    </ul>
+</a></li><li class="kanji-943 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%8F%B8.html">
+    <span class="character" lang="ja">
+        司
+    </span>
+    <ul>
+      <li lang="ja">
+          し
+      </li>
+      <li>Director</li>
+    </ul>
+</a></li><li class="kanji-937 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%8C%BA.html">
+    <span class="character" lang="ja">
+        区
+    </span>
+    <ul>
+      <li lang="ja">
+          く
+      </li>
+      <li>District</li>
+    </ul>
+</a></li><li class="kanji-953 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E8%8B%B1.html">
+    <span class="character" lang="ja">
+        英
+    </span>
+    <ul>
+      <li lang="ja">
+          えい
+      </li>
+      <li>England</li>
+    </ul>
+</a></li><li class="kanji-2083 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E4%B8%88.html">
+    <span class="character" lang="ja">
+        丈
+    </span>
+    <ul>
+      <li lang="ja">
+          じょう
+      </li>
+      <li>Height</li>
+    </ul>
+</a></li><li class="kanji-945 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%A4%AB.html">
+    <span class="character" lang="ja">
+        夫
+    </span>
+    <ul>
+      <li lang="ja">
+          ふう
+      </li>
+      <li>Husband</li>
+    </ul>
+</a></li><li class="kanji-955 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E9%A3%AF.html">
+    <span class="character" lang="ja">
+        飯
+    </span>
+    <ul>
+      <li lang="ja">
+          はん
+      </li>
+      <li>Meal</li>
+    </ul>
+</a></li><li class="kanji-935 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E8%A8%88.html">
+    <span class="character" lang="ja">
+        計
+    </span>
+    <ul>
+      <li lang="ja">
+          けい
+      </li>
+      <li>Measure</li>
+    </ul>
+</a></li><li class="kanji-949 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E6%B3%95.html">
+    <span class="character" lang="ja">
+        法
+    </span>
+    <ul>
+      <li lang="ja">
+          ほう
+      </li>
+      <li>Method</li>
+    </ul>
+</a></li><li class="kanji-958 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E6%99%A9.html">
+    <span class="character" lang="ja">
+        晩
+    </span>
+    <ul>
+      <li lang="ja">
+          ばん
+      </li>
+      <li>Night</li>
+    </ul>
+</a></li><li class="kanji-932 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E6%98%BC.html">
+    <span class="character" lang="ja">
+        昼
+    </span>
+    <ul>
+      <li lang="ja">
+          ひる
+      </li>
+      <li>Noon</li>
+    </ul>
+</a></li><li class="kanji-948 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E6%AF%92.html">
+    <span class="character" lang="ja">
+        毒
+    </span>
+    <ul>
+      <li lang="ja">
+          どく
+      </li>
+      <li>Poison</li>
+    </ul>
+</a></li><li class="kanji-947 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E6%98%A8.html">
+    <span class="character" lang="ja">
+        昨
+    </span>
+    <ul>
+      <li lang="ja">
+          さく
+      </li>
+      <li>Previous</li>
+    </ul>
+</a></li><li class="kanji-930 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%B8%B0.html">
+    <span class="character" lang="ja">
+        帰
+    </span>
+    <ul>
+      <li lang="ja">
+          かえ
+      </li>
+      <li>Return</li>
+    </ul>
+</a></li><li class="kanji-939 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%BC%8F.html">
+    <span class="character" lang="ja">
+        式
+    </span>
+    <ul>
+      <li lang="ja">
+          しき
+      </li>
+      <li>Ritual</li>
+    </ul>
+</a></li><li class="kanji-936 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%88%97.html">
+    <span class="character" lang="ja">
+        列
+    </span>
+    <ul>
+      <li lang="ja">
+          れつ
+      </li>
+      <li>Row</li>
+    </ul>
+</a></li><li class="kanji-951 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E6%B5%85.html">
+    <span class="character" lang="ja">
+        浅
+    </span>
+    <ul>
+      <li lang="ja">
+          あさ
+      </li>
+      <li>Shallow</li>
+    </ul>
+</a></li><li class="kanji-942 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%8D%98.html">
+    <span class="character" lang="ja">
+        単
+    </span>
+    <ul>
+      <li lang="ja">
+          たん
+      </li>
+      <li>Simple</li>
+    </ul>
+</a></li><li class="kanji-938 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%9D%82.html">
+    <span class="character" lang="ja">
+        坂
+    </span>
+    <ul>
+      <li lang="ja">
+          さか
+      </li>
+      <li>Slope</li>
+    </ul>
+</a></li><li class="kanji-931 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E6%98%A5.html">
+    <span class="character" lang="ja">
+        春
+    </span>
+    <ul>
+      <li lang="ja">
+          はる
+      </li>
+      <li>Spring</li>
+    </ul>
+</a></li><li class="kanji-928 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%AF%BA.html">
+    <span class="character" lang="ja">
+        寺
+    </span>
+    <ul>
+      <li lang="ja">
+          てら
+      </li>
+      <li>Temple</li>
+    </ul>
+</a></li>
+  </ul>
+
+</section>        <section id="level-16">
+          <header>
+      <h2>Level 16</h2>
+</header>
+
+            <div class="progress"><div class="bar" style="width: 60px;" title="0 out of 33 subjects unlocked"><span><b>0</b> / 33</span></div></div>
+
+
+              <ul class="single-character-grid">
+    <li class="kanji-979 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E6%B5%B4.html">
+    <span class="character" lang="ja">
+        浴
+    </span>
+    <ul>
+      <li lang="ja">
+          よく
+      </li>
+      <li>Bathe</li>
+    </ul>
+</a></li><li class="kanji-972 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E7%AE%B1.html">
+    <span class="character" lang="ja">
+        箱
+    </span>
+    <ul>
+      <li lang="ja">
+          はこ
+      </li>
+      <li>Box</li>
+    </ul>
+</a></li><li class="kanji-965 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E4%BF%82.html">
+    <span class="character" lang="ja">
+        係
+    </span>
+    <ul>
+      <li lang="ja">
+          けい
+      </li>
+      <li>Connection</li>
+    </ul>
+</a></li><li class="kanji-978 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E6%B2%BB.html">
+    <span class="character" lang="ja">
+        治
+    </span>
+    <ul>
+      <li lang="ja">
+          じ
+      </li>
+      <li>Cure</li>
+    </ul>
+</a></li><li class="kanji-989 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%8D%B1.html">
+    <span class="character" lang="ja">
+        危
+    </span>
+    <ul>
+      <li lang="ja">
+          き
+      </li>
+      <li>Dangerous</li>
+    </ul>
+</a></li><li class="kanji-992 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%86%92.html">
+    <span class="character" lang="ja">
+        冒
+    </span>
+    <ul>
+      <li lang="ja">
+          ぼう
+      </li>
+      <li>Dare</li>
+    </ul>
+</a></li><li class="kanji-986 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E7%95%99.html">
+    <span class="character" lang="ja">
+        留
+    </span>
+    <ul>
+      <li lang="ja">
+          る
+      </li>
+      <li>Detain</li>
+    </ul>
+</a></li><li class="kanji-984 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%BC%81.html">
+    <span class="character" lang="ja">
+        弁
+    </span>
+    <ul>
+      <li lang="ja">
+          べん
+      </li>
+      <li>Dialect</li>
+    </ul>
+</a></li><li class="kanji-987 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E8%A8%BC.html">
+    <span class="character" lang="ja">
+        証
+    </span>
+    <ul>
+      <li lang="ja">
+          しょう
+      </li>
+      <li>Evidence</li>
+    </ul>
+</a></li><li class="kanji-990 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%AD%98.html">
+    <span class="character" lang="ja">
+        存
+    </span>
+    <ul>
+      <li lang="ja">
+          そん
+      </li>
+      <li>Exist</li>
+    </ul>
+</a></li><li class="kanji-974 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E9%9D%A2.html">
+    <span class="character" lang="ja">
+        面
+    </span>
+    <ul>
+      <li lang="ja">
+          めん
+      </li>
+      <li>Face</li>
+    </ul>
+</a></li><li class="kanji-963 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E9%81%A0.html">
+    <span class="character" lang="ja">
+        遠
+    </span>
+    <ul>
+      <li lang="ja">
+          えん
+      </li>
+      <li>Far</li>
+    </ul>
+</a></li><li class="kanji-960 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%9C%92.html">
+    <span class="character" lang="ja">
+        園
+    </span>
+    <ul>
+      <li lang="ja">
+          えん
+      </li>
+      <li>Garden</li>
+    </ul>
+</a></li><li class="kanji-964 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E9%96%80.html">
+    <span class="character" lang="ja">
+        門
+    </span>
+    <ul>
+      <li lang="ja">
+          もん
+      </li>
+      <li>Gates</li>
+    </ul>
+</a></li><li class="kanji-977 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%BA%9C.html">
+    <span class="character" lang="ja">
+        府
+    </span>
+    <ul>
+      <li lang="ja">
+          ふ
+      </li>
+      <li>Government</li>
+    </ul>
+</a></li><li class="kanji-969 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%B9%B8.html">
+    <span class="character" lang="ja">
+        幸
+    </span>
+    <ul>
+      <li lang="ja">
+          こう
+      </li>
+      <li>Happiness</li>
+    </ul>
+</a></li><li class="kanji-994 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E9%98%AA.html">
+    <span class="character" lang="ja">
+        阪
+    </span>
+    <ul>
+      <li lang="ja">
+          はん
+      </li>
+      <li>Heights</li>
+    </ul>
+</a></li><li class="kanji-970 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E6%80%A5.html">
+    <span class="character" lang="ja">
+        急
+    </span>
+    <ul>
+      <li lang="ja">
+          きゅう
+      </li>
+      <li>Hurry</li>
+    </ul>
+</a></li><li class="kanji-980 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E7%AC%91.html">
+    <span class="character" lang="ja">
+        笑
+    </span>
+    <ul>
+      <li lang="ja">
+          わら
+      </li>
+      <li>Laugh</li>
+    </ul>
+</a></li><li class="kanji-973 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E8%8D%B7.html">
+    <span class="character" lang="ja">
+        荷
+    </span>
+    <ul>
+      <li lang="ja">
+          に
+      </li>
+      <li>Luggage</li>
+    </ul>
+</a></li><li class="kanji-985 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E6%94%BF.html">
+    <span class="character" lang="ja">
+        政
+    </span>
+    <ul>
+      <li lang="ja">
+          せい
+      </li>
+      <li>Politics</li>
+    </ul>
+</a></li><li class="kanji-967 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%93%81.html">
+    <span class="character" lang="ja">
+        品
+    </span>
+    <ul>
+      <li lang="ja">
+          ひん
+      </li>
+      <li>Product</li>
+    </ul>
+</a></li><li class="kanji-968 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%AE%88.html">
+    <span class="character" lang="ja">
+        守
+    </span>
+    <ul>
+      <li lang="ja">
+          す
+      </li>
+      <li>Protect</li>
+    </ul>
+</a></li><li class="kanji-981 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E8%BE%9E.html">
+    <span class="character" lang="ja">
+        辞
+    </span>
+    <ul>
+      <li lang="ja">
+          じ
+      </li>
+      <li>Quit</li>
+    </ul>
+</a></li><li class="kanji-971 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E7%9C%9F.html">
+    <span class="character" lang="ja">
+        真
+    </span>
+    <ul>
+      <li lang="ja">
+          しん
+      </li>
+      <li>Reality</li>
+    </ul>
+</a></li><li class="kanji-982 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E9%96%A2.html">
+    <span class="character" lang="ja">
+        関
+    </span>
+    <ul>
+      <li lang="ja">
+          かん
+      </li>
+      <li>Related</li>
+    </ul>
+</a></li><li class="kanji-988 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E9%99%BA.html">
+    <span class="character" lang="ja">
+        険
+    </span>
+    <ul>
+      <li lang="ja">
+          けん
+      </li>
+      <li>Risky</li>
+    </ul>
+</a></li><li class="kanji-975 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%85%B8.html">
+    <span class="character" lang="ja">
+        典
+    </span>
+    <ul>
+      <li lang="ja">
+          てん
+      </li>
+      <li>Rule</li>
+    </ul>
+</a></li><li class="kanji-991 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%B0%82.html">
+    <span class="character" lang="ja">
+        専
+    </span>
+    <ul>
+      <li lang="ja">
+          せん
+      </li>
+      <li>Specialty</li>
+    </ul>
+</a></li><li class="kanji-993 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%86%97.html">
+    <span class="character" lang="ja">
+        冗
+    </span>
+    <ul>
+      <li lang="ja">
+          じょう
+      </li>
+      <li>Superfluous</li>
+    </ul>
+</a></li><li class="kanji-966 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%8F%96.html">
+    <span class="character" lang="ja">
+        取
+    </span>
+    <ul>
+      <li lang="ja">
+          しゅ
+      </li>
+      <li>Take</li>
+    </ul>
+</a></li><li class="kanji-961 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E6%9B%9C.html">
+    <span class="character" lang="ja">
+        曜
+    </span>
+    <ul>
+      <li lang="ja">
+          よう
+      </li>
+      <li>Weekday</li>
+    </ul>
+</a></li><li class="kanji-962 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E6%9B%B8.html">
+    <span class="character" lang="ja">
+        書
+    </span>
+    <ul>
+      <li lang="ja">
+          しょ
+      </li>
+      <li>Write</li>
+    </ul>
+</a></li>
+  </ul>
+
+</section>        <section id="level-17">
+          <header>
+      <h2>Level 17</h2>
+</header>
+
+            <div class="progress"><div class="bar" style="width: 60px;" title="0 out of 37 subjects unlocked"><span><b>0</b> / 37</span></div></div>
+
+
+              <ul class="single-character-grid">
+    <li class="kanji-1015 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E6%98%AF.html">
+    <span class="character" lang="ja">
+        是
+    </span>
+    <ul>
+      <li lang="ja">
+          ぜ
+      </li>
+      <li>Absolutely</li>
+    </ul>
+</a></li><li class="kanji-1009 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E7%B5%90.html">
+    <span class="character" lang="ja">
+        結
+    </span>
+    <ul>
+      <li lang="ja">
+          けつ
+      </li>
+      <li>Bind</li>
+    </ul>
+</a></li><li class="kanji-1020 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%BA%95.html">
+    <span class="character" lang="ja">
+        底
+    </span>
+    <ul>
+      <li lang="ja">
+          そこ
+      </li>
+      <li>Bottom</li>
+    </ul>
+</a></li><li class="kanji-1010 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%9B%A0.html">
+    <span class="character" lang="ja">
+        因
+    </span>
+    <ul>
+      <li lang="ja">
+          いん
+      </li>
+      <li>Cause</li>
+    </ul>
+</a></li><li class="kanji-1412 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E8%A9%B3.html">
+    <span class="character" lang="ja">
+        詳
+    </span>
+    <ul>
+      <li lang="ja">
+          しょう
+      </li>
+      <li>Detailed</li>
+    </ul>
+</a></li><li class="kanji-1012 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E8%AD%98.html">
+    <span class="character" lang="ja">
+        識
+    </span>
+    <ul>
+      <li lang="ja">
+          しき
+      </li>
+      <li>Discerning</li>
+    </ul>
+</a></li><li class="kanji-1569 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%8A%87.html">
+    <span class="character" lang="ja">
+        劇
+    </span>
+    <ul>
+      <li lang="ja">
+          げき
+      </li>
+      <li>Drama</li>
+    </ul>
+</a></li><li class="kanji-1014 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%B9%B2.html">
+    <span class="character" lang="ja">
+        干
+    </span>
+    <ul>
+      <li lang="ja">
+          かん
+      </li>
+      <li>Dry</li>
+    </ul>
+</a></li><li class="kanji-1004 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E6%95%97.html">
+    <span class="character" lang="ja">
+        敗
+    </span>
+    <ul>
+      <li lang="ja">
+          はい
+      </li>
+      <li>Failure</li>
+    </ul>
+</a></li><li class="kanji-1016 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E6%B8%89.html">
+    <span class="character" lang="ja">
+        渉
+    </span>
+    <ul>
+      <li lang="ja">
+          しょう
+      </li>
+      <li>Ford</li>
+    </ul>
+</a></li><li class="kanji-1005 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E6%9E%9C.html">
+    <span class="character" lang="ja">
+        果
+    </span>
+    <ul>
+      <li lang="ja">
+          か
+      </li>
+      <li>Fruit</li>
+    </ul>
+</a></li><li class="kanji-1018 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%AE%98.html">
+    <span class="character" lang="ja">
+        官
+    </span>
+    <ul>
+      <li lang="ja">
+          かん
+      </li>
+      <li>Government</li>
+    </ul>
+</a></li><li class="kanji-1022 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E7%BD%B2.html">
+    <span class="character" lang="ja">
+        署
+    </span>
+    <ul>
+      <li lang="ja">
+          しょ
+      </li>
+      <li>Government...</li>
+    </ul>
+</a></li><li class="kanji-1019 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%AF%9F.html">
+    <span class="character" lang="ja">
+        察
+    </span>
+    <ul>
+      <li lang="ja">
+          さつ
+      </li>
+      <li>Guess</li>
+    </ul>
+</a></li><li class="kanji-1001 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%A0%82.html">
+    <span class="character" lang="ja">
+        堂
+    </span>
+    <ul>
+      <li lang="ja">
+          どう
+      </li>
+      <li>Hall</li>
+    </ul>
+</a></li><li class="kanji-1027 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%B9%BB.html">
+    <span class="character" lang="ja">
+        幻
+    </span>
+    <ul>
+      <li lang="ja">
+          げん
+      </li>
+      <li>Illusion</li>
+    </ul>
+</a></li><li class="kanji-1013 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E9%9D%9E.html">
+    <span class="character" lang="ja">
+        非
+    </span>
+    <ul>
+      <li lang="ja">
+          ひ
+      </li>
+      <li>Injustice</li>
+    </ul>
+</a></li><li class="kanji-1021 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E6%84%9B.html">
+    <span class="character" lang="ja">
+        愛
+    </span>
+    <ul>
+      <li lang="ja">
+          あい
+      </li>
+      <li>Love</li>
+    </ul>
+</a></li><li class="kanji-997 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E8%96%AC.html">
+    <span class="character" lang="ja">
+        薬
+    </span>
+    <ul>
+      <li lang="ja">
+          やく
+      </li>
+      <li>Medicine</li>
+    </ul>
+</a></li><li class="kanji-1025 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E8%A6%9A.html">
+    <span class="character" lang="ja">
+        覚
+    </span>
+    <ul>
+      <li lang="ja">
+          かく
+      </li>
+      <li>Memorize</li>
+    </ul>
+</a></li><li class="kanji-998 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E9%BC%BB.html">
+    <span class="character" lang="ja">
+        鼻
+    </span>
+    <ul>
+      <li lang="ja">
+          はな
+      </li>
+      <li>Nose</li>
+    </ul>
+</a></li><li class="kanji-1008 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E7%84%A1.html">
+    <span class="character" lang="ja">
+        無
+    </span>
+    <ul>
+      <li lang="ja">
+          む
+      </li>
+      <li>Nothing</li>
+    </ul>
+</a></li><li class="kanji-1011 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%B8%B8.html">
+    <span class="character" lang="ja">
+        常
+    </span>
+    <ul>
+      <li lang="ja">
+          じょう
+      </li>
+      <li>Normal</li>
+    </ul>
+</a></li><li class="kanji-995 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%8E%9F.html">
+    <span class="character" lang="ja">
+        原
+    </span>
+    <ul>
+      <li lang="ja">
+          げん
+      </li>
+      <li>Original</li>
+    </ul>
+</a></li><li class="kanji-1006 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E6%A0%84.html">
+    <span class="character" lang="ja">
+        栄
+    </span>
+    <ul>
+      <li lang="ja">
+          えい
+      </li>
+      <li>Prosper</li>
+    </ul>
+</a></li><li class="kanji-976 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%96%9C.html">
+    <span class="character" lang="ja">
+        喜
+    </span>
+    <ul>
+      <li lang="ja">
+          き
+      </li>
+      <li>Rejoice</li>
+    </ul>
+</a></li><li class="kanji-1024 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E6%81%8B.html">
+    <span class="character" lang="ja">
+        恋
+    </span>
+    <ul>
+      <li lang="ja">
+          れん
+      </li>
+      <li>Romance</li>
+    </ul>
+</a></li><li class="kanji-837 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E6%82%B2.html">
+    <span class="character" lang="ja">
+        悲
+    </span>
+    <ul>
+      <li lang="ja">
+          ひ
+      </li>
+      <li>Sad</li>
+    </ul>
+</a></li><li class="kanji-1002 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%A1%A9.html">
+    <span class="character" lang="ja">
+        塩
+    </span>
+    <ul>
+      <li lang="ja">
+          しお
+      </li>
+      <li>Salt</li>
+    </ul>
+</a></li><li class="kanji-1003 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%B8%AD.html">
+    <span class="character" lang="ja">
+        席
+    </span>
+    <ul>
+      <li lang="ja">
+          せき
+      </li>
+      <li>Seat</li>
+    </ul>
+</a></li><li class="kanji-999 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%81%B4.html">
+    <span class="character" lang="ja">
+        側
+    </span>
+    <ul>
+      <li lang="ja">
+          がわ
+      </li>
+      <li>Side</li>
+    </ul>
+</a></li><li class="kanji-1000 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%85%B5.html">
+    <span class="character" lang="ja">
+        兵
+    </span>
+    <ul>
+      <li lang="ja">
+          へい
+      </li>
+      <li>Soldier</li>
+    </ul>
+</a></li><li class="kanji-1026 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E8%AA%AC.html">
+    <span class="character" lang="ja">
+        説
+    </span>
+    <ul>
+      <li lang="ja">
+          せつ
+      </li>
+      <li>Theory</li>
+    </ul>
+</a></li><li class="kanji-996 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E7%B4%B0.html">
+    <span class="character" lang="ja">
+        細
+    </span>
+    <ul>
+      <li lang="ja">
+          さい
+      </li>
+      <li>Thin</li>
+    </ul>
+</a></li><li class="kanji-1007 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E6%A2%85.html">
+    <span class="character" lang="ja">
+        梅
+    </span>
+    <ul>
+      <li lang="ja">
+          うめ
+      </li>
+      <li>Ume</li>
+    </ul>
+</a></li><li class="kanji-1017 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E8%99%9A.html">
+    <span class="character" lang="ja">
+        虚
+    </span>
+    <ul>
+      <li lang="ja">
+          きょ
+      </li>
+      <li>Void</li>
+    </ul>
+</a></li><li class="kanji-1023 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E8%AD%A6.html">
+    <span class="character" lang="ja">
+        警
+    </span>
+    <ul>
+      <li lang="ja">
+          けい
+      </li>
+      <li>Warn</li>
+    </ul>
+</a></li>
+  </ul>
+
+</section>        <section id="level-18">
+          <header>
+      <h2>Level 18</h2>
+</header>
+
+            <div class="progress"><div class="bar" style="width: 60px;" title="0 out of 31 subjects unlocked"><span><b>0</b> / 31</span></div></div>
+
+
+              <ul class="single-character-grid">
+    <li class="kanji-1031 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%91%8A.html">
+    <span class="character" lang="ja">
+        告
+    </span>
+    <ul>
+      <li lang="ja">
+          こく
+      </li>
+      <li>Announce</li>
+    </ul>
+</a></li><li class="kanji-1033 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E9%81%94.html">
+    <span class="character" lang="ja">
+        達
+    </span>
+    <ul>
+      <li lang="ja">
+          たつ
+      </li>
+      <li>Attain</li>
+    </ul>
+</a></li><li class="kanji-1040 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E7%84%BC.html">
+    <span class="character" lang="ja">
+        焼
+    </span>
+    <ul>
+      <li lang="ja">
+          や
+      </li>
+      <li>Bake</li>
+    </ul>
+</a></li><li class="kanji-1039 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%80%9F.html">
+    <span class="character" lang="ja">
+        借
+    </span>
+    <ul>
+      <li lang="ja">
+          しゃく
+      </li>
+      <li>Borrow</li>
+    </ul>
+</a></li><li class="kanji-1030 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%BC%93.html">
+    <span class="character" lang="ja">
+        弓
+    </span>
+    <ul>
+      <li lang="ja">
+          きゅう
+      </li>
+      <li>Bow</li>
+    </ul>
+</a></li><li class="kanji-1045 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E8%84%B3.html">
+    <span class="character" lang="ja">
+        脳
+    </span>
+    <ul>
+      <li lang="ja">
+          のう
+      </li>
+      <li>Brain</li>
+    </ul>
+</a></li><li class="kanji-8840 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E9%A3%B4.html">
+    <span class="character" lang="ja">
+        飴
+    </span>
+    <ul>
+      <li lang="ja">
+          あめ
+      </li>
+      <li>Candy</li>
+    </ul>
+</a></li><li class="kanji-1044 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E8%83%B8.html">
+    <span class="character" lang="ja">
+        胸
+    </span>
+    <ul>
+      <li lang="ja">
+          むね
+      </li>
+      <li>Chest</li>
+    </ul>
+</a></li><li class="kanji-1055 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%96%AB.html">
+    <span class="character" lang="ja">
+        喫
+    </span>
+    <ul>
+      <li lang="ja">
+          きつ
+      </li>
+      <li>Consume</li>
+    </ul>
+</a></li><li class="kanji-1037 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E7%AD%89.html">
+    <span class="character" lang="ja">
+        等
+    </span>
+    <ul>
+      <li lang="ja">
+          とう
+      </li>
+      <li>Equal</li>
+    </ul>
+</a></li><li class="kanji-1051 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E6%9E%9A.html">
+    <span class="character" lang="ja">
+        枚
+    </span>
+    <ul>
+      <li lang="ja">
+          まい
+      </li>
+      <li>Flat Objec...</li>
+    </ul>
+</a></li><li class="kanji-1042 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%BF%98.html">
+    <span class="character" lang="ja">
+        忘
+    </span>
+    <ul>
+      <li lang="ja">
+          ぼう
+      </li>
+      <li>Forget</li>
+    </ul>
+</a></li><li class="kanji-8990 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E8%8B%9B.html">
+    <span class="character" lang="ja">
+        苛
+    </span>
+    <ul>
+      <li lang="ja">
+          いじ
+      </li>
+      <li>Frustration</li>
+    </ul>
+</a></li><li class="kanji-1028 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E8%A8%93.html">
+    <span class="character" lang="ja">
+        訓
+    </span>
+    <ul>
+      <li lang="ja">
+          くん
+      </li>
+      <li>Instruction</li>
+    </ul>
+</a></li><li class="kanji-1032 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E7%A8%AE.html">
+    <span class="character" lang="ja">
+        種
+    </span>
+    <ul>
+      <li lang="ja">
+          しゅ
+      </li>
+      <li>Kind</li>
+    </ul>
+</a></li><li class="kanji-1035 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%A0%B1.html">
+    <span class="character" lang="ja">
+        報
+    </span>
+    <ul>
+      <li lang="ja">
+          ほう
+      </li>
+      <li>News</li>
+    </ul>
+</a></li><li class="kanji-1053 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%8F%A5.html">
+    <span class="character" lang="ja">
+        句
+    </span>
+    <ul>
+      <li lang="ja">
+          く
+      </li>
+      <li>Paragraph</li>
+    </ul>
+</a></li><li class="kanji-1050 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E8%A8%B1.html">
+    <span class="character" lang="ja">
+        許
+    </span>
+    <ul>
+      <li lang="ja">
+          きょ
+      </li>
+      <li>Permit</li>
+    </ul>
+</a></li><li class="kanji-1049 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%8F%AF.html">
+    <span class="character" lang="ja">
+        可
+    </span>
+    <ul>
+      <li lang="ja">
+          か
+      </li>
+      <li>Possible</li>
+    </ul>
+</a></li><li class="kanji-1036 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E7%A5%88.html">
+    <span class="character" lang="ja">
+        祈
+    </span>
+    <ul>
+      <li lang="ja">
+          き
+      </li>
+      <li>Pray</li>
+    </ul>
+</a></li><li class="kanji-1046 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%83%A7.html">
+    <span class="character" lang="ja">
+        僧
+    </span>
+    <ul>
+      <li lang="ja">
+          そう
+      </li>
+      <li>Priest</li>
+    </ul>
+</a></li><li class="kanji-1054 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E7%A6%81.html">
+    <span class="character" lang="ja">
+        禁
+    </span>
+    <ul>
+      <li lang="ja">
+          きん
+      </li>
+      <li>Prohibit</li>
+    </ul>
+</a></li><li class="kanji-1052 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E9%9D%99.html">
+    <span class="character" lang="ja">
+        静
+    </span>
+    <ul>
+      <li lang="ja">
+          せい
+      </li>
+      <li>Quiet</li>
+    </ul>
+</a></li><li class="kanji-1041 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%BA%A7.html">
+    <span class="character" lang="ja">
+        座
+    </span>
+    <ul>
+      <li lang="ja">
+          ざ
+      </li>
+      <li>Sit</li>
+    </ul>
+</a></li><li class="kanji-1056 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E7%85%99.html">
+    <span class="character" lang="ja">
+        煙
+    </span>
+    <ul>
+      <li lang="ja">
+          えん
+      </li>
+      <li>Smoke</li>
+    </ul>
+</a></li><li class="kanji-1038 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E6%B1%BD.html">
+    <span class="character" lang="ja">
+        汽
+    </span>
+    <ul>
+      <li lang="ja">
+          き
+      </li>
+      <li>Steam</li>
+    </ul>
+</a></li><li class="kanji-8839 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%8F%A9.html">
+    <span class="character" lang="ja">
+        叩
+    </span>
+    <ul>
+      <li lang="ja">
+          こう
+      </li>
+      <li>Tap</li>
+    </ul>
+</a></li><li class="kanji-8838 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%96%89.html">
+    <span class="character" lang="ja">
+        喉
+    </span>
+    <ul>
+      <li lang="ja">
+          こう
+      </li>
+      <li>Throat</li>
+    </ul>
+</a></li><li class="kanji-1034 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E9%A1%9E.html">
+    <span class="character" lang="ja">
+        類
+    </span>
+    <ul>
+      <li lang="ja">
+          るい
+      </li>
+      <li>Type</li>
+    </ul>
+</a></li><li class="kanji-1043 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E6%B4%97.html">
+    <span class="character" lang="ja">
+        洗
+    </span>
+    <ul>
+      <li lang="ja">
+          せん
+      </li>
+      <li>Wash</li>
+    </ul>
+</a></li><li class="kanji-1047 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E7%A6%85.html">
+    <span class="character" lang="ja">
+        禅
+    </span>
+    <ul>
+      <li lang="ja">
+          ぜん
+      </li>
+      <li>Zen</li>
+    </ul>
+</a></li>
+  </ul>
+
+</section>        <section id="level-19">
+          <header>
+      <h2>Level 19</h2>
+</header>
+
+            <div class="progress"><div class="bar" style="width: 60px;" title="0 out of 33 subjects unlocked"><span><b>0</b> / 33</span></div></div>
+
+
+              <ul class="single-character-grid">
+    <li class="kanji-1081 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%BE%97.html">
+    <span class="character" lang="ja">
+        得
+    </span>
+    <ul>
+      <li lang="ja">
+          とく
+      </li>
+      <li>Acquire</li>
+    </ul>
+</a></li><li class="kanji-1057 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%8A%A0.html">
+    <span class="character" lang="ja">
+        加
+    </span>
+    <ul>
+      <li lang="ja">
+          か
+      </li>
+      <li>Add</li>
+    </ul>
+</a></li><li class="kanji-1071 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%86%8A.html">
+    <span class="character" lang="ja">
+        冊
+    </span>
+    <ul>
+      <li lang="ja">
+          さつ
+      </li>
+      <li>Book Counter</li>
+    </ul>
+</a></li><li class="kanji-1075 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%B1%A5.html">
+    <span class="character" lang="ja">
+        履
+    </span>
+    <ul>
+      <li lang="ja">
+          り
+      </li>
+      <li>Boots</li>
+    </ul>
+</a></li><li class="kanji-1074 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%BF%99.html">
+    <span class="character" lang="ja">
+        忙
+    </span>
+    <ul>
+      <li lang="ja">
+          ぼう
+      </li>
+      <li>Busy</li>
+    </ul>
+</a></li><li class="kanji-1068 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E9%96%A5.html">
+    <span class="character" lang="ja">
+        閥
+    </span>
+    <ul>
+      <li lang="ja">
+          ばつ
+      </li>
+      <li>Clique</li>
+    </ul>
+</a></li><li class="kanji-1062 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%B8%83.html">
+    <span class="character" lang="ja">
+        布
+    </span>
+    <ul>
+      <li lang="ja">
+          ふ
+      </li>
+      <li>Cloth</li>
+    </ul>
+</a></li><li class="kanji-1088 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E6%AF%94.html">
+    <span class="character" lang="ja">
+        比
+    </span>
+    <ul>
+      <li lang="ja">
+          ひ
+      </li>
+      <li>Compare</li>
+    </ul>
+</a></li><li class="kanji-1069 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E6%AD%B4.html">
+    <span class="character" lang="ja">
+        歴
+    </span>
+    <ul>
+      <li lang="ja">
+          れき
+      </li>
+      <li>Continuation</li>
+    </ul>
+</a></li><li class="kanji-1083 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E7%B6%9A.html">
+    <span class="character" lang="ja">
+        続
+    </span>
+    <ul>
+      <li lang="ja">
+          ぞく
+      </li>
+      <li>Continue</li>
+    </ul>
+</a></li><li class="kanji-1059 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E6%B8%9B.html">
+    <span class="character" lang="ja">
+        減
+    </span>
+    <ul>
+      <li lang="ja">
+          げん
+      </li>
+      <li>Decrease</li>
+    </ul>
+</a></li><li class="kanji-1063 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E6%98%93.html">
+    <span class="character" lang="ja">
+        易
+    </span>
+    <ul>
+      <li lang="ja">
+          い
+      </li>
+      <li>Easy</li>
+    </ul>
+</a></li><li class="kanji-1087 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E7%B5%A1.html">
+    <span class="character" lang="ja">
+        絡
+    </span>
+    <ul>
+      <li lang="ja">
+          らく
+      </li>
+      <li>Entangle</li>
+    </ul>
+</a></li><li class="kanji-1121 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E7%AC%9B.html">
+    <span class="character" lang="ja">
+        笛
+    </span>
+    <ul>
+      <li lang="ja">
+          てき
+      </li>
+      <li>Flute</li>
+    </ul>
+</a></li><li class="kanji-1061 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%AE%B9.html">
+    <span class="character" lang="ja">
+        容
+    </span>
+    <ul>
+      <li lang="ja">
+          よう
+      </li>
+      <li>Form</li>
+    </ul>
+</a></li><li class="kanji-1076 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%9B%A3.html">
+    <span class="character" lang="ja">
+        団
+    </span>
+    <ul>
+      <li lang="ja">
+          だん
+      </li>
+      <li>Group</li>
+    </ul>
+</a></li><li class="kanji-1122 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%8F%B2.html">
+    <span class="character" lang="ja">
+        史
+    </span>
+    <ul>
+      <li lang="ja">
+          し
+      </li>
+      <li>History</li>
+    </ul>
+</a></li><li class="kanji-1067 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E6%98%86.html">
+    <span class="character" lang="ja">
+        昆
+    </span>
+    <ul>
+      <li lang="ja">
+          こん
+      </li>
+      <li>Insect</li>
+    </ul>
+</a></li><li class="kanji-1080 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%BE%92.html">
+    <span class="character" lang="ja">
+        徒
+    </span>
+    <ul>
+      <li lang="ja">
+          と
+      </li>
+      <li>Junior</li>
+    </ul>
+</a></li><li class="kanji-1073 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%AE%99.html">
+    <span class="character" lang="ja">
+        宙
+    </span>
+    <ul>
+      <li lang="ja">
+          ちゅう
+      </li>
+      <li>Midair</li>
+    </ul>
+</a></li><li class="kanji-1078 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E6%B7%B7.html">
+    <span class="character" lang="ja">
+        混
+    </span>
+    <ul>
+      <li lang="ja">
+          こん
+      </li>
+      <li>Mix</li>
+    </ul>
+</a></li><li class="kanji-1085 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%96%84.html">
+    <span class="character" lang="ja">
+        善
+    </span>
+    <ul>
+      <li lang="ja">
+          ぜん
+      </li>
+      <li>Morally Good</li>
+    </ul>
+</a></li><li class="kanji-1060 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E9%A0%86.html">
+    <span class="character" lang="ja">
+        順
+    </span>
+    <ul>
+      <li lang="ja">
+          じゅん
+      </li>
+      <li>Order</li>
+    </ul>
+</a></li><li class="kanji-1072 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%AE%87.html">
+    <span class="character" lang="ja">
+        宇
+    </span>
+    <ul>
+      <li lang="ja">
+          う
+      </li>
+      <li>Outer Space</li>
+    </ul>
+</a></li><li class="kanji-1066 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E8%A9%9E.html">
+    <span class="character" lang="ja">
+        詞
+    </span>
+    <ul>
+      <li lang="ja">
+          し
+      </li>
+      <li>Part Of Sp...</li>
+    </ul>
+</a></li><li class="kanji-1082 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E6%94%B9.html">
+    <span class="character" lang="ja">
+        改
+    </span>
+    <ul>
+      <li lang="ja">
+          かい
+      </li>
+      <li>Renew</li>
+    </ul>
+</a></li><li class="kanji-1079 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E4%B9%B1.html">
+    <span class="character" lang="ja">
+        乱
+    </span>
+    <ul>
+      <li lang="ja">
+          らん
+      </li>
+      <li>Riot</li>
+    </ul>
+</a></li><li class="kanji-1058 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E7%AF%80.html">
+    <span class="character" lang="ja">
+        節
+    </span>
+    <ul>
+      <li lang="ja">
+          せつ
+      </li>
+      <li>Season</li>
+    </ul>
+</a></li><li class="kanji-1084 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E9%80%A3.html">
+    <span class="character" lang="ja">
+        連
+    </span>
+    <ul>
+      <li lang="ja">
+          れん
+      </li>
+      <li>Take Along</li>
+    </ul>
+</a></li><li class="kanji-1070 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E8%88%8C.html">
+    <span class="character" lang="ja">
+        舌
+    </span>
+    <ul>
+      <li lang="ja">
+          した
+      </li>
+      <li>Tongue</li>
+    </ul>
+</a></li><li class="kanji-1077 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E6%9A%B4.html">
+    <span class="character" lang="ja">
+        暴
+    </span>
+    <ul>
+      <li lang="ja">
+          ぼう
+      </li>
+      <li>Violence</li>
+    </ul>
+</a></li><li class="kanji-1064 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E8%B2%A1.html">
+    <span class="character" lang="ja">
+        財
+    </span>
+    <ul>
+      <li lang="ja">
+          さい
+      </li>
+      <li>Wealth</li>
+    </ul>
+</a></li><li class="kanji-1065 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E8%8B%A5.html">
+    <span class="character" lang="ja">
+        若
+    </span>
+    <ul>
+      <li lang="ja">
+          わか
+      </li>
+      <li>Young</li>
+    </ul>
+</a></li>
+  </ul>
+
+</section>        <section id="level-20">
+          <header>
+      <h2>Level 20</h2>
+</header>
+
+            <div class="progress"><div class="bar" style="width: 60px;" title="0 out of 33 subjects unlocked"><span><b>0</b> / 33</span></div></div>
+
+
+              <ul class="single-character-grid">
+    <li class="kanji-1098 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E8%A3%95.html">
+    <span class="character" lang="ja">
+        裕
+    </span>
+    <ul>
+      <li lang="ja">
+          ゆう
+      </li>
+      <li>Abundant</li>
+    </ul>
+</a></li><li class="kanji-1100 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%B0%BB.html">
+    <span class="character" lang="ja">
+        尻
+    </span>
+    <ul>
+      <li lang="ja">
+          しり
+      </li>
+      <li>Butt</li>
+    </ul>
+</a></li><li class="kanji-1103 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E7%A2%BA.html">
+    <span class="character" lang="ja">
+        確
+    </span>
+    <ul>
+      <li lang="ja">
+          かく
+      </li>
+      <li>Certain</li>
+    </ul>
+</a></li><li class="kanji-1102 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E6%A2%B0.html">
+    <span class="character" lang="ja">
+        械
+    </span>
+    <ul>
+      <li lang="ja">
+          かい
+      </li>
+      <li>Contraption</li>
+    </ul>
+</a></li><li class="kanji-1115 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E7%8A%AF.html">
+    <span class="character" lang="ja">
+        犯
+    </span>
+    <ul>
+      <li lang="ja">
+          はん
+      </li>
+      <li>Crime</li>
+    </ul>
+</a></li><li class="kanji-1093 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%AE%B3.html">
+    <span class="character" lang="ja">
+        害
+    </span>
+    <ul>
+      <li lang="ja">
+          がい
+      </li>
+      <li>Damage</li>
+    </ul>
+</a></li><li class="kanji-1114 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E8%AD%B0.html">
+    <span class="character" lang="ja">
+        議
+    </span>
+    <ul>
+      <li lang="ja">
+          ぎ
+      </li>
+      <li>Deliberation</li>
+    </ul>
+</a></li><li class="kanji-1095 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E9%9B%A3.html">
+    <span class="character" lang="ja">
+        難
+    </span>
+    <ul>
+      <li lang="ja">
+          なん
+      </li>
+      <li>Difficult</li>
+    </ul>
+</a></li><li class="kanji-1089 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E7%81%BD.html">
+    <span class="character" lang="ja">
+        災
+    </span>
+    <ul>
+      <li lang="ja">
+          さい
+      </li>
+      <li>Disaster</li>
+    </ul>
+</a></li><li class="kanji-1104 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%AB%8C.html">
+    <span class="character" lang="ja">
+        嫌
+    </span>
+    <ul>
+      <li lang="ja">
+          けん
+      </li>
+      <li>Dislike</li>
+    </ul>
+</a></li><li class="kanji-1086 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%9B%B0.html">
+    <span class="character" lang="ja">
+        困
+    </span>
+    <ul>
+      <li lang="ja">
+          こん
+      </li>
+      <li>Distressed</li>
+    </ul>
+</a></li><li class="kanji-1108 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%A4%A2.html">
+    <span class="character" lang="ja">
+        夢
+    </span>
+    <ul>
+      <li lang="ja">
+          む
+      </li>
+      <li>Dream</li>
+    </ul>
+</a></li><li class="kanji-1099 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E9%9C%87.html">
+    <span class="character" lang="ja">
+        震
+    </span>
+    <ul>
+      <li lang="ja">
+          しん
+      </li>
+      <li>Earthquake</li>
+    </ul>
+</a></li><li class="kanji-1107 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%9C%A8.html">
+    <span class="character" lang="ja">
+        在
+    </span>
+    <ul>
+      <li lang="ja">
+          ざい
+      </li>
+      <li>Exist</li>
+    </ul>
+</a></li><li class="kanji-1092 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E9%A3%9B.html">
+    <span class="character" lang="ja">
+        飛
+    </span>
+    <ul>
+      <li lang="ja">
+          ひ
+      </li>
+      <li>Fly</li>
+    </ul>
+</a></li><li class="kanji-1109 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E7%94%A3.html">
+    <span class="character" lang="ja">
+        産
+    </span>
+    <ul>
+      <li lang="ja">
+          さん
+      </li>
+      <li>Give Birth</li>
+    </ul>
+</a></li><li class="kanji-1116 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E7%BD%AA.html">
+    <span class="character" lang="ja">
+        罪
+    </span>
+    <ul>
+      <li lang="ja">
+          ざい
+      </li>
+      <li>Guilt</li>
+    </ul>
+</a></li><li class="kanji-1118 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E7%A9%B4.html">
+    <span class="character" lang="ja">
+        穴
+    </span>
+    <ul>
+      <li lang="ja">
+          あな
+      </li>
+      <li>Hole</li>
+    </ul>
+</a></li><li class="kanji-1097 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E8%A2%AB.html">
+    <span class="character" lang="ja">
+        被
+    </span>
+    <ul>
+      <li lang="ja">
+          ひ
+      </li>
+      <li>Incur</li>
+    </ul>
+</a></li><li class="kanji-1105 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%80%8B.html">
+    <span class="character" lang="ja">
+        個
+    </span>
+    <ul>
+      <li lang="ja">
+          こ
+      </li>
+      <li>Individual</li>
+    </ul>
+</a></li><li class="kanji-1090 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E6%A9%9F.html">
+    <span class="character" lang="ja">
+        機
+    </span>
+    <ul>
+      <li lang="ja">
+          き
+      </li>
+      <li>Machine</li>
+    </ul>
+</a></li><li class="kanji-1096 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%A6%A8.html">
+    <span class="character" lang="ja">
+        妨
+    </span>
+    <ul>
+      <li lang="ja">
+          ぼう
+      </li>
+      <li>Obstruct</li>
+    </ul>
+</a></li><li class="kanji-1110 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%80%92.html">
+    <span class="character" lang="ja">
+        倒
+    </span>
+    <ul>
+      <li lang="ja">
+          とう
+      </li>
+      <li>Overthrow</li>
+    </ul>
+</a></li><li class="kanji-1120 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E7%B5%8C.html">
+    <span class="character" lang="ja">
+        経
+    </span>
+    <ul>
+      <li lang="ja">
+          けい
+      </li>
+      <li>Passage Of...</li>
+    </ul>
+</a></li><li class="kanji-1091 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E7%8E%87.html">
+    <span class="character" lang="ja">
+        率
+    </span>
+    <ul>
+      <li lang="ja">
+          りつ
+      </li>
+      <li>Percent</li>
+    </ul>
+</a></li><li class="kanji-1106 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%9C%A7.html">
+    <span class="character" lang="ja">
+        圧
+    </span>
+    <ul>
+      <li lang="ja">
+          あつ
+      </li>
+      <li>Pressure</li>
+    </ul>
+</a></li><li class="kanji-1117 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E9%98%B2.html">
+    <span class="character" lang="ja">
+        防
+    </span>
+    <ul>
+      <li lang="ja">
+          ぼう
+      </li>
+      <li>Prevent</li>
+    </ul>
+</a></li><li class="kanji-1111 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E8%87%AD.html">
+    <span class="character" lang="ja">
+        臭
+    </span>
+    <ul>
+      <li lang="ja">
+          くさ
+      </li>
+      <li>Stinking</li>
+    </ul>
+</a></li><li class="kanji-1094 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E4%BD%99.html">
+    <span class="character" lang="ja">
+        余
+    </span>
+    <ul>
+      <li lang="ja">
+          よ
+      </li>
+      <li>Surplus</li>
+    </ul>
+</a></li><li class="kanji-1101 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%B0%BE.html">
+    <span class="character" lang="ja">
+        尾
+    </span>
+    <ul>
+      <li lang="ja">
+          び
+      </li>
+      <li>Tail</li>
+    </ul>
+</a></li><li class="kanji-1119 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E8%AB%96.html">
+    <span class="character" lang="ja">
+        論
+    </span>
+    <ul>
+      <li lang="ja">
+          ろん
+      </li>
+      <li>Theory</li>
+    </ul>
+</a></li><li class="kanji-1112 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%8E%9A.html">
+    <span class="character" lang="ja">
+        厚
+    </span>
+    <ul>
+      <li lang="ja">
+          あつ
+      </li>
+      <li>Thick</li>
+    </ul>
+</a></li><li class="kanji-1113 locked character-item">
+  <span lang="ja" class="item-badge"></span>
+  <a href="kanji/%E5%A6%BB.html">
+    <span class="character" lang="ja">
+        妻
+    </span>
+    <ul>
+      <li lang="ja">
+          さい
+      </li>
+      <li>Wife</li>
+    </ul>
+</a></li>
+  </ul>
+
+</section>    </div><!-- span12 -->
+  </div><!-- row -->
+</div><!-- container content -->
+
+
+  <div class="footer-push"></div>
+</div>
+<footer>
+  <div class="container">
+    <div class="row">
+      <div class="span12">
+        <ul>
+          <li>
+            <a href="about.html">About</a>
+          </li><li>
+            <a href="https://www.wanikani.com/api/v2">API</a>
+          </li><li>
+            <a href="https://www.wanikani.com/faq">Help</a>
+          </li><li>
+            <a target="_blank" href="terms.html">Terms</a>
+          </li><li>
+            <a target="_blank" href="privacy.html">Privacy</a>
+          </li><li>
+            <a href="contact.html">Contact</a>
+          </li><li>
+            Copyright © Tofugu LLC, <span lang="ja">よ</span>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<!-- Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-1960021-27"></script>
+<script>
+  function checkForUserScripts() {
+    var userScripts = {
+      'wkof': 'WaniKani Open Framework',
+      'dpp': 'WaniKani Dashboard Progress Plus',
+      'wklightning': 'WaniKani Lightning Mode',
+      'reorder': 'Wanikani Reorder Ultimate 2',
+      'scriptLog': 'Wanikani Override',
+      'diagram': 'WaniKani Stroke Order',
+      'wkgoldburn': 'Wanikani Golden Burn',
+      'doublecheck': 'Wanikani Double-Check',
+      'similarKanjiContainer': 'WaniKani Similar kanji'
+    };
+
+    function scriptExists(property) {
+      return typeof window[property] !== 'undefined';
+    }
+
+    return Object.keys(userScripts).some(function(script){
+      return scriptExists(script)
+    });
+  }
+
+  var options = {
+    'custom_map': {
+      'dimension2': 'Userscripts Installed',
+      'dimension3': 'Current Level',
+      'dimension4': 'Subscription Status',
+      'dimension5': 'Maximum Level'
+    }
+  };
+
+    options['user_id'] = '306214';
+    options['Current Level'] = 1;
+    options['Maximum Level'] = 2;
+      options['Subscription Status'] = 'free';
+
+  if (checkForUserScripts()) {
+    options['Userscripts Installed'] = 'installed';
+  }
+
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-1960021-27', options);
+
+  
+</script>
+
+<script type="text/javascript">
+  $(document).ready(function() {
+    InfoTip.tooltip();
+      getGravatar('c27e6b046c9acba450c5c0d8208322ad');
+  });
+</script>
+
+  <script type="text/javascript">
+    $(document).ready(function() {
+        // Set user status on items
+        CharacterGrid.setItemStatus('kanji', [], [], []);
+        // Animations
+        Animation.recentlyUnlockedBadge();
+    });
+  </script>
+
+
+
+<script src="https://chat-assets.frontapp.com/v1/chat.bundle.js"></script><div id="front-chat-container"><div id="front-chat-holder"></div></div><script type="text/javascript" async="" src="https://chat-assets.frontapp.com/v1/app.bundle.js?v=9f9da98"></script>
+<script>
+  window.FrontChat && window.FrontChat('init', {
+    chatId: 'c532927ea41813134eb816f1c64dfd46',
+    useDefaultLauncher: false,
+      email: 'kyle.brechin@gmail.com',
+      userHash: 'e340f4d19a9db0f288ee8e009b6053e717e5fabbd2cc91e55745df34676b9da5',
+  });
+</script>
+
+<script>
+  window.FrontChat && window.FrontChat('onUnreadChange', function(unread) {
+    if (unread.unread_count > 0) {
+      FrontChat('show');
+    }
+  });
+</script>
+
+
+
+<iframe name="__privateStripeMetricsController7560" frameborder="0" allowtransparency="true" scrolling="no" allow="payment *" src="https://js.stripe.com/v3/m-outer-f7902241893e7a497417843cb15dc858.html#url=https%3A%2F%2Fwww.wanikani.com%2Fkanji%3Fdifficulty%3Dpainful&amp;title=WaniKani%20%2F%20Kanji&amp;referrer=https%3A%2F%2Fwww.wanikani.com%2F&amp;muid=8ae62746-3731-4def-9b6a-8407a4f9b7bf3d82e5&amp;sid=656669f2-f303-45f7-b897-6bd7c500390ecbeadc&amp;version=6&amp;preview=false" aria-hidden="true" tabindex="-1" style="border: none !important; margin: 0px !important; padding: 0px !important; width: 1px !important; min-width: 100% !important; overflow: hidden !important; display: block !important; visibility: hidden !important; position: fixed !important; height: 1px !important; pointer-events: none !important;"></iframe></body></html><!-- html -->

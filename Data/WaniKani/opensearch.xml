@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/" xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+  <ShortName>WaniKani</ShortName>
+  <Description>WaniKani radicals, kanji, and vocabulary search</Description>
+  <Tags>japanese, radicals, kanji, vocabulary, language, learning</Tags>
+  <InputEncoding>UTF-8</InputEncoding>
+  <Image width="16" height="16">https://assets.wanikani.com/assets/favicon-d302b05cb464e25c4af85dc54cece3e711f6dead1b75dedeec8487416e002e64.ico</Image>
+  <Url type="text/html" method="GET" template="https://www.wanikani.com/search">
+    <Param name="query" value="{searchTerms}"/>
+  </Url>
+  <moz:SearchForm>https://www.wanikani.com/search</moz:SearchForm>
+</OpenSearchDescription>
