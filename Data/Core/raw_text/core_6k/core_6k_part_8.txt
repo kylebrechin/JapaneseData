@@ -1,1094 +1,803 @@
-梅雨明け [つゆあけ]
-
+梅雨明け
+つゆあけ
 end of the rainy season
-
 Verbal Noun
+1
 梅雨明けは来週だそうです。
-
 つゆ あけ は らいしゅう だ そうです。
-
 I heard that the rainy season will be over next week.
-
-入選 [にゅうせん]
-
+入選
+にゅうせん
 being selected for a contest, etc., being nominated
-
 Verbal Noun
+1
 彼の絵がコンクールに入選した。
-
 かれ の え が コンクール に にゅうせん した。
-
 His painting was nominated for the contest.
-
-狭める [せばめる]
-
+狭める
+せばめる
 narrow (something)
-
 Verb
+1
 もっと範囲を狭めて探しましょう。
-
 もっと はんい を せばめて さがしましょう。
-
 Let's narrow down our search field even further.
-
-話し言葉 [はなしことば]
-
+話し言葉
+はなしことば
 spoken language
-
 Noun
+1
 話し言葉と書き言葉は少し違いますね。
-
 はなしことば と かきことば は すこし ちがいます ね。
-
 Spoken and written languages are a little different.
-
-慣用句 [かんようく]
-
+慣用句
+かんようく
 idiom, common expression
-
 Noun
+1
 「手が空く」は慣用句です。
-
 「て が すく」 は かんようく です。
-
 "Have one's hands free" is an idiom.
-
-残暑 [ざんしょ]
-
+残暑
+ざんしょ
 lingering summer heat
-
 Noun
+1
 今年も残暑が厳しかった。
-
 ことし も ざんしょ が きびしかった。
-
 The lingering summer heat was harsh this year, too.
-
-隣り合う [となりあう]
-
+隣り合う
+となりあう
 adjoin, be next door to each other
-
 Verb
+2
 そこはイタリアンレストランとフレンチレストランが隣り合っています。
-
 そこ は イタリアン レストラン と フレンチ レストラン が となりあって います。
-
 There are Italian and French restaurants side by side there.
-
 上野は動物園と美術館が隣り合っています。
-
 うえの は どうぶつえん と びじゅつかん が となりあって います。
-
 In Ueno, there is a zoo and an art museum next to each other.
-
-お年玉 [おとしだま]
-
+お年玉
+おとしだま
 New Year's gift money
-
 Noun
+1
 甥と姪にお年玉をあげたの。
-
 おい と めい に おとしだま を あげた の。
-
 I gave New Year's gift money to my nephew and niece.
-
-訓読み [くんよみ]
-
+訓読み
+くんよみ
 Japanese reading
-
 Verbal Noun
+1
 漢字には音読みと訓読みがあります。
-
 かんじ に は おんよみ と くんよみ が あります。
-
 Kanji has both Chinese-derived and Japanese readings.
-
-都庁 [とちょう]
-
+都庁
+とちょう
 Tokyo Metropolitan Government
-
 Noun
+1
 あの高い建物が都庁です。
-
 あの たかい たてもの が とちょう です。
-
 That tall building is the Tokyo Metropolitan Government tower.
-
+ごろごろ
 ごろごろ
 rumble
-
 Adverb
+1
 雷がごろごろ鳴っている。
-
 かみなり が ごろごろ なって いる。
-
 I can hear thunder rumbling.
-
-飲み水 [のみみず]
-
+飲み水
+のみみず
 drinking water (colloquial)
-
 Noun
+1
 昔は川の水が飲み水でした。
-
 むかし は かわ の みず が のみみず でした。
-
 People used to drink water from rivers.
-
-領事館 [りょうじかん]
-
+領事館
+りょうじかん
 consulate
-
 Noun
+1
 彼はアメリカ領事館に出かけたよ。
-
 かれ は アメリカ りょうじかん に でかけた よ。
-
 He went to the American consulate.
-
-事務員 [じむいん]
-
+事務員
+じむいん
 clerical staff
-
 Noun
+1
 新しい事務員が入りました。
-
 あたらしい じむいん が はいりました。
-
 A new clerk has joined us.
-
-盆踊り [ぼんおどり]
-
+盆踊り
+ぼんおどり
 Bon dance festival
-
 Noun
+1
 みんなで盆踊りに行きました。
-
 みんな で ぼんおどり に いきました。
-
 We all went to the Bon dance festival together.
-
-花婿 [はなむこ]
-
+花婿
+はなむこ
 bridegroom
-
 Noun
+1
 花婿と花嫁が並んで登場したんだ。
-
 はなむこ と はなよめ が ならんで とうじょう した ん だ。
-
 The bride and groom showed up side by side.
-
-高気圧 [こうきあつ]
-
+高気圧
+こうきあつ
 high atmospheric pressure
-
 Noun
+1
 この暑さは高気圧のせいです。
-
 この あつさ は こうきあつ の せい です。
-
 This heat is due to high atmospheric pressure.
-
-消火器 [しょうかき]
-
+消火器
+しょうかき
 fire extinguisher
-
 Noun
+1
 消火器を交換しました。
-
 しょうかき を こうかん しました。
-
 I replaced the fire extinguisher.
-
-無色 [むしょく]
-
+無色
+むしょく
 colorless
-
 Noun
+1
 アルコールは無色です。
-
 アルコール は むしょく です。
-
 Alcohol is colorless.
-
-割り引く [わりびく]
-
+割り引く
+わりびく
 give a discount, deduct
-
 Verb
+1
 定価から2000円割り引きますよ。
-
 ていか から 2000 えん わりびきます よ。
-
 I'll deduct 2000 yen from the retail price.
-
-音読み [おんよみ]
-
+音読み
+おんよみ
 Chinese-derived kanji reading
-
 Verbal Noun
+1
 この漢字の音読みは何ですか。
-
 この かんじ の おんよみ は なん です か。
-
 What's the Chinese-derived reading of this kanji?
-
-共通語 [きょうつうご]
-
+共通語
+きょうつうご
 common language
-
 Noun
+1
 インドでは英語は共通語だよ。
-
 インド で は えいご は きょうつうご だ よ。
-
 English is a common language in India.
-
-草木 [くさき]
-
+草木
+くさき
 plants and trees
-
 Noun
+1
 この庭は草木が枯れているね。
-
 この にわ は くさき が かれて いる ね。
-
 The plants and trees in this garden are drying out.
-
-木枯らし [こがらし]
-
+木枯らし
+こがらし
 cold wintry wind
-
 Noun
+1
 外は木枯らしが吹いているよ。
-
 そと は こがらし が ふいて いる よ。
-
 A cold wintry wind is blowing outside.
-
-締まる [しまる]
-
+締まる
+しまる
 become tight, be firm
-
 Verb
+1
 レバーを右に回すと締まります。
-
 レバー を みぎ に まわす と しまります。
-
 You can tighten it by turning the lever to the right.
-
-週休 [しゅうきゅう]
-
+週休
+しゅうきゅう
 weekly holiday
-
 Noun
+1
 うちの会社は週休二日です。
-
 うち の かいしゃ は しゅうきゅう ふつか です。
-
 We get two days off a week at this company.
-
-見比べる [みくらべる]
-
+見比べる
+みくらべる
 look and compare
-
 Verb
+1
 彼女は二人の顔を見比べたの。
-
 かのじょ は ふたり の かお を みくらべた の。
-
 She looked alternately at the two of them, reading their faces.
-
-剝げる [はげる]
-
+剝げる
+はげる
 come off, peel off
-
 Verb
+1
 壁のペンキが剝げてきたな。
-
 かべ の ペンキ が はげて きた な。
-
 The paint on the wall is peeling off.
-
-要項 [ようこう]
-
+要項
+ようこう
 important points
-
 Noun
+1
 募集要項をよくお読みください。
-
 ぼしゅう ようこう を よく およみ ください。
-
 Please read the application guidelines carefully.
-
-洋式 [ようしき]
-
+洋式
+ようしき
 Western style
-
 Noun
+1
 彼の家のトイレは洋式です。
-
 かれ の いえ の トイレ は ようしき です。
-
 His house has a Western-style toilet.
-
-怪しむ [あやしむ]
-
+怪しむ
+あやしむ
 suspect, doubt
-
 Verb
+1
 警察はそのグループを怪しんでいます。
-
 けいさつ は その グループ を あやしんで います。
-
 The police are suspicious of the group.
-
-参考書 [さんこうしょ]
-
+参考書
+さんこうしょ
 reference book
-
 Noun
+1
 この参考書はとても役に立つよ。
-
 この さんこうしょ は とても やくにたつ よ。
-
 This reference book is very useful.
-
-出前 [でまえ]
-
+出前
+でまえ
 home delivery of food
-
 Noun
+1
 寿司の出前を頼んだよ。
-
 すし の でまえ を たのんだ よ。
-
 We ordered sushi delivery to our house.
-
-墓参り [はかまいり]
-
+墓参り
+はかまいり
 visit to a grave
-
 Verbal Noun
+1
 明日は家族で墓参りに行きます。
-
 あした は かぞく で はかまいり に いきます。
-
 I'm going to visit the grave with my family tomorrow.
-
-不幸せ [ふしあわせ]
-
+不幸せ
+ふしあわせ
 unhappy, unfortunate
-
 Adjectival Noun
+1
 彼ほど不幸せな人はいないな。
-
 かれ ほど ふしあわせな ひと は いない な。
-
 There's no one more unfortunate than he is.
-
-歩行者天国 [ほこうしゃてんごく]
-
+歩行者天国
+ほこうしゃてんごく
 vehicle-free promenade
-
 Noun
+1
 日曜日はこの通りが歩行者天国になります。
-
 にちようび は この とおり が ほこうしゃ てんごく に なります。
-
 This street turns into a vehicle-free promenade on Sundays.
-
-間に合わせる [まにあわせる]
-
+間に合わせる
+まにあわせる
 make do
-
 Verb
+1
 昼食はクッキーで間に合わせたの。
-
 ちゅうしょく は クッキー で まにあわせた の。
-
 I made do with cookies for lunch.
-
-例題 [れいだい]
-
+例題
+れいだい
 example problem
-
 Noun
+1
 みんなで例題を解いてみましょう。
-
 みんな で れいだい を といて みましょう。
-
 Let's solve the example problem together.
-
-胃腸 [いちょう]
-
+胃腸
+いちょう
 stomach and intestines
-
 Noun
+1
 彼は胃腸が強くありません。
-
 かれ は いちょう が つよく ありません。
-
 He has a weak stomach.
-
-行楽 [こうらく]
-
+行楽
+こうらく
 outing, pleasure trip
-
 Noun
+1
 秋は行楽にいい季節ですね。
-
 あき は こうらく に いい きせつ です ね。
-
 Autumn is a good season for outings.
-
-水力 [すいりょく]
-
+水力
+すいりょく
 water power, hydraulic power
-
 Noun
+1
 この島は発電を水力に頼っているんだ。
-
 この しま は はつでん を すいりょく に たよって いる ん だ。
-
 This island relies on hydraulic power to generate electricity.
-
-似せる [にせる]
-
+似せる
+にせる
 imitate, model after
-
 Verb
+1
 彼の字に似せて書きました。
-
 かれ の じ に にせて かきました。
-
 I wrote it by imitating his handwriting.
-
-不得意 [ふとくい]
-
+不得意
+ふとくい
 not good at, weak
-
 Adjectival Noun
+1
 私は数学が不得意です。
-
 わたし は すうがく が ふとくい です。
-
 I'm not good at math.
-
-和らぐ [やわらぐ]
-
+和らぐ
+やわらぐ
 soften, ease up
-
 Verb
+1
 この曲を聞くと気持ちが和らぎます。
-
 この きょく を きく と きもち が やわらぎます。
-
 When I hear this tune, I feel at ease.
-
+イントネーション
 イントネーション
 intonation
-
 Noun
+1
 イントネーションの違いに気を付けて。
-
 イントネーション の ちがい に きをつけて。
-
 Make sure to note the intonation difference.
-
-観賞 [かんしょう]
-
+観賞
+かんしょう
 ornamental
-
 Verbal Noun
+1
 この鉢植えは観賞用です。
-
 この はちうえ は かんしょう よう です。
-
 This is an ornamental potted plant.
-
-湿っぽい [しめっぽい]
-
+湿っぽい
+しめっぽい
 damp, gloomy
-
 Adjective
+1
 雨の日が続いて家の中が湿っぽいな。
-
 あめ の ひ が つづいて いえ の なか が しめっぽい な。
-
 Since it's been raining for days, the whole house is damp.
-
-立て込む [たてこむ]
-
+立て込む
+たてこむ
 be full of, be crowded with
-
 Verb
+1
 この辺は住宅が立て込んで います。
-
 この へん は じゅうたく が たてこんで います。
-
 This area is crowded with houses.
-
-父兄 [ふけい]
-
+父兄
+ふけい
 parents, legal guardians
-
 Noun
+1
 父兄の方々はこちらへどうぞ。
-
 ふけい の かたがた は こちら へ どうぞ。
-
 Parents, please come this way.
-
-街角 [まちかど]
-
+街角
+まちかど
 street corner
-
 Noun
+1
 街角にカフェがありました。
-
 まちかど に カフェ が ありました 。
-
 There was a cafe on the street corner.
-
-割に [わりに]
-
+割に
+わりに
 comparatively, rather
-
 Adverb
+1
 この映画は割におもしろいわ。
-
 この えいが は わりに おもしろい わ 。
-
 This movie is rather interesting.
-
+あぐら
 あぐら
 sitting cross-legged
-
 Noun
+1
 彼はあぐらをかいてしゃべっていますね。
-
 かれ は あぐら を かいて しゃべって います ね。
-
 He is sitting cross-legged while talking.
-
-書き言葉 [かきことば]
-
+書き言葉
+かきことば
 written language
-
 Noun
+1
 書き言葉と話し言葉はだいぶ違うことがあります。
-
 かきことば と はなしことば は だいぶ ちがう こと が あります。
-
 Written language and spoken language are quite different sometimes.
-
-ガラス戸 [ガラスど]
-
+ガラス戸
+ガラスど
 glass door
-
 Noun
+1
 お店のガラス戸が割られたんだ。
-
 おみせ の ガラス ど が わられた ん だ。
-
 The shop's glass door was broken.
-
-既製 [きせい]
-
+既製
+きせい
 ready-made, ready-to-wear
-
 Noun
+1
 彼の体型じゃ既製のサイズに合わないよ。
-
 かれ の たいけい じゃ きせい の サイズ に あわない よ。
-
 His figure doesn't fit the ready-made clothing size.
-
-気絶 [きぜつ]
-
+気絶
+きぜつ
 fainting
-
 Verbal Noun
+1
 彼女は驚いて気絶してしまったの。
-
 かのじょ は おどろいて きぜつ して しまった の。
-
 She freaked out so much that she fainted.
-
-歳末 [さいまつ]
-
+歳末
+さいまつ
 year end
-
 Noun
+1
 デパートの歳末大売出しが始まったよ。
-
 デパート の さいまつ おお うりだし が はじまった よ。
-
 The department store has kicked off the year-end sales.
-
+スモッグ
 スモッグ
 smog
-
 Noun
+1
 都会の空はスモッグで灰色ね。
-
 とかい の そら は スモッグ で はいいろ ね。
-
 The city sky is gray because of smog.
-
-全速力 [ぜんそくりょく]
-
+全速力
+ぜんそくりょく
 full speed, full steam
-
 Noun
+1
 久しぶりに全速力で走りました。
-
 ひさしぶり に ぜんそくりょく で はしりました。
-
 I ran at full speed for the first time in years.
-
+たこ
 たこ
 octopus
-
 Noun
+1
 たこには足が8本ある。
-
 たこ に は あし が 8 ぽん ある。
-
 An octopus has eight legs.
-
-地下道 [ちかどう]
-
+地下道
+ちかどう
 underground passage
-
 Noun
+1
 地下道を通っていきましょう。
-
 ちかどう を とおって いきましょう 。
-
 Let's go through the underpass.
-
-年始 [ねんし]
-
+年始
+ねんし
 beginning of the year
-
 Noun
+1
 部下の方が年始の挨拶に見えましたよ。
-
 ぶか の かた が ねんし の あいさつ に みえました よ。
-
 Your subordinate came to give you New Year's greetings.
-
+のろい
 のろい
 slow, sluggish
-
 Adjective
+1
 この電車は本当にのろいですね。
-
 この でんしゃ は ほんとう に のろい です ね。
-
 This train is really slow.
-
+ぴょんぴょん
 ぴょんぴょん
 jump, hop
-
 Adverb
+1
 カエルがぴょんぴょんはねているね。
-
 カエル が ぴょんぴょん はねて いる ね。
-
 Frogs are jumping around the pond.
-
-貧乏人 [びんぼうにん]
-
+貧乏人
+びんぼうにん
 poor person
-
 Noun
+1
 貧乏人が大金持ちになることもあるさ。
-
 びんぼう にん が おお がねもち に なる こと も ある さ。
-
 In some cases, poor people can get extremely rich.
-
-月見 [つきみ]
-
+月見
+つきみ
 moon viewing
-
 Noun
+1
 9月には月見を楽しみます。
-
 9 がつ に は つきみ を たのしみます。
-
 We enjoy moon viewing in September.
-
+とうもろこし
 とうもろこし
 corn
-
 Noun
+1
 このとうもろこしは甘くて美味しい。
-
 この とうもろこし は あまくて おいしい 。
-
 This corn is sweet and delicious.
-
-引き伸ばす [ひきのばす]
-
+引き伸ばす
+ひきのばす
 stretch out, enlarge
-
 Verb
+1
 この写真を引き伸ばしてください。
-
 この しゃしん を ひきのばして ください。
-
 Please enlarge this photograph.
-
+ひらひら
 ひらひら
 lightly fluttering, floating
-
 Adverb
+1
 木の葉がひらひらと落ちたの。
-
 このは が ひらひら と おちた の。
-
 A leaf fluttered down.
-
-町外れ [まちはずれ]
-
+町外れ
+まちはずれ
 outskirts of town
-
 Noun
+1
 彼女は町外れの工場で働いているよ。
-
 かのじょ は まち はずれ の こうじょう で はたらいて いる よ。
-
 She's working in a factory on the outskirts of town.
-
-物知り [ものしり]
-
+物知り
+ものしり
 knowledgeable (wise) person
-
 Noun
+1
 あの老人はとても物知りだね。
-
 あの ろうじん は とても ものしり だ ね。
-
 That elderly person is very knowledgeable.
-
-後書き [あとがき]
-
+後書き
+あとがき
 afterword
-
 Noun
+1
 後書きをよく読んでください。
-
 あとがき を よく よんで ください。
-
 Please read the afterword carefully.
-
-薄着 [うすぎ]
-
+薄着
+うすぎ
 light clothing
-
 Verbal Noun
+1
 子供たちは冬でも薄着で通します。
-
 こども たち は ふゆ で も うすぎ で とおします。
-
 Children wear light clothing even during winter.
-
+がらがら
 がらがら
 gargle
-
 Adverb
+1
 誰かががらがらとうがいをしているね。
-
 だれ か が がらがら と うがい を して いる ね。
-
 Someone is gargling loudly.
-
-暑中見舞い [しょちゅうみまい]
-
+暑中見舞い
+しょちゅうみまい
 summer greeting
-
 Noun
+1
 先生に暑中見舞いを出しました。
-
 せんせい に しょちゅう みまい を だしました。
-
 I sent a summer greeting card to my teacher.
-
-縦書き [たてがき]
-
+縦書き
+たてがき
 vertical writing
-
 Noun
+1
 作文は縦書きで書いてください。
-
 さくぶん は たてがき で かいて ください。
-
 Please write your composition vertically.
-
-早寝 [はやね]
-
+早寝
+はやね
 going to bed early
-
 Verbal Noun
+1
 早寝は健康のためによいことです。
-
 はやね は けんこう の ため に よい こと です。
-
 Going to bed early is good for your health.
-
-不確か [ふたしか]
-
+不確か
+ふたしか
 uncertain, unreliable
-
 Adjectival Noun
+1
 人の記憶は不確かよ。
-
 ひと の きおく は ふたしか よ。
-
 Human memory is unreliable.
-
-焼きそば [やきそば]
-
+焼きそば
+やきそば
 pan-fried noodles
-
 Noun
+1
 お祭りで焼きそばを食べたよ。
-
 おまつり で やきそば を たべた よ。
-
 I ate pan-fried noodles at the festival.
-
-和式 [わしき]
-
+和式
+わしき
 Japanese style
-
 Noun
+1
 あの家のトイレは和式です。
-
 あの うち の トイレ は わしき です。
-
 That house has a Japanese-style toilet.
-
-学割 [がくわり]
-
+学割
+がくわり
 student discount
-
 Noun
+1
 学割だとだいぶ安いな。
-
 がくわり だ と だいぶ やすい な。
-
 It's quite cheap with a student discount.
-
-厚着 [あつぎ]
-
+厚着
+あつぎ
 heavy clothing
-
 Verbal Noun
+1
 普段から厚着しないようにしています。
-
 ふだん から あつぎ しない ように して います。
-
 I usually try not to wear heavy clothing.
-
-雨降り [あめふり]
-
+雨降り
+あめふり
 rainfall, rainy weather
-
 Noun
+1
 雨降りで月が見えなかったね。
-
 あめふり で つき が みえなかった ね。
-
 We couldn't see the moon because of the rain.
-
-書き取り [かきとり]
-
+書き取り
+かきとり
 dictation, writing practice
-
 Verbal Noun
+1
 僕たちは毎朝漢字の書き取りをします。
-
 ぼく たち は まいあさ かんじ の かきとり を します。
-
 We practice writing kanji every morning.
-
+かちかち
 かちかち
 hard, solid
-
 Adverb
+1
 池がかちかちに凍っています。
-
 いけ が かちかち に こおって います。
-
 The pond is frozen solid.
-
-男性的 [だんせいてき]
-
+男性的
+だんせいてき
 masculine, manly
-
 Adjectival Noun
+1
 彼はとても男性的な人です。
-
 かれ は とても だんせいてきな ひと です。
-
 He's a very manly person.
-
-月初め [つきはじめ]
-
+月初め
+つきはじめ
 the beginning of the month
-
 Noun
+1
 いつも月初めに彼と会います。
-
 いつも つきはじめ に かれ と あいます。
-
 I always meet him at the beginning of the month.
-
-同姓 [どうせい]
-
+同姓
+どうせい
 same surname
-
 Noun
+1
 日本では夫婦同姓が一般的よ。
-
 にっぽん で は ふうふ どうせい が いっぱんてき よ。
-
 In Japan, it's common for a married couple to have the same surname.
-
-長話 [ながばなし]
-
+長話
+ながばなし
 long conversation, long talk
-
 Verbal Noun
+1
 母が電話で長話をしているんだ。
-
 はは が でんわ で ながばなし を して いる ん だ。
-
 My mother is having a long talk on the phone.
-
-肌色 [はだいろ]
-
+肌色
+はだいろ
 flesh color, skin color
-
 Noun
+1
 彼女は肌色のシャツを着ています。
-
 かのじょ は はだいろ の シャツ を きて います。
-
 She's wearing a skin-colored shirt.
-
-府庁 [ふちょう]
-
+府庁
+ふちょう
 (Osaka or Kyoto) prefectural office
-
 Noun
+1
 彼は府庁で働いています。
-
 かれ は ふちょう で はたらいて います。
-
 He works for a (Osaka or Kyoto) prefectural office.
-
-府立 [ふりつ]
-
+府立
+ふりつ
 prefectural (Osaka or Kyoto)
-
 Noun
+1
 彼女は府立大学に通っています。
-
 かのじょ は ふりつ だいがく に かよって います。
-
 She goes to a (Osaka or Kyoto) prefectural university.
-
-真四角 [ましかく]
-
+真四角
+ましかく
 regular square (colloquial)
-
 Adjectival Noun
+1
 彼の部屋には真四角な窓があったんだ。
-
 かれ の へや に は ましかくな まど が あった ん だ。
-
 There was a regular square window in his room.
-
-小売店 [こうりてん]
-
+小売店
+こうりてん
 retail store, outlet
-
 Noun
+1
 この商品は小売店でも買えます。
-
 この しょうひん は こうり てん で も かえます。
-
 This product can also be purchased at retail stores.
-
-悪女 [あくじょ]
-
+悪女
+あくじょ
 wicked woman
-
 Noun
+1
 彼は悪女にだまされたんだ。
-
 かれ は あくじょ に だまされた ん だ。
-
 He was deceived by a wicked woman.
-
-荒らす [あらす]
-
+荒らす
+あらす
 damage, ransack
-
 Verb
+1
 彼は強盗に家の中を荒らされたの。
-
 かれ は ごうとう に いえ の なか を あらされた の。
-
 His house was ransacked by a burglar.
-
-洋室 [ようしつ]
-
+洋室
+ようしつ
 Western-style room
-
 Noun
+1
 このテーブルは洋室に合わない。
-
 この テーブル は ようしつ に あわない。
-
 This table is not suitable for a Western-style room.
-
-旅客機 [りょかくき]
-
+旅客機
+りょかくき
 passenger plane
-
 Noun
+1
 旅客機が墜落した。
-
 りょかくき が ついらく した。
-
 A passenger plane crashed.
-
-自国 [じこく]
-
+自国
+じこく
 one's own country
-
 Noun
+1
 自国の文化を大切にしましょう。
-
 じこく の ぶんか を たいせつ に しましょう。
-
 Let's cherish cultures of our own country.
-
-貨幣 [かへい]
-
+貨幣
+かへい
 money, currency
-
 Noun
+1
 博物館で昔の貨幣を見ました。
-
 はくぶつかん で むかし の かへい を みました。
-
 I saw some old currency at the museum.

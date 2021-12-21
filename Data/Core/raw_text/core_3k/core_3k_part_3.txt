@@ -1,1118 +1,824 @@
-居眠り [いねむり]
-
+居眠り
+いねむり
 doze, catnap
-
 Verbal Noun
+1
 彼はソファーで居眠りをしているよ。
-
 かれ は ソファー で いねむり を して いる よ。
-
 He is dozing on the sofa.
-
-散らかす [ちらかす]
-
+散らかす
+ちらかす
 make a mess
-
 Verb
+1
 部屋を散らかさないでください。
-
 へや を ちらかさないで ください。
-
 Please don't make a mess in the room.
-
-濡らす [ぬらす]
-
+濡らす
+ぬらす
 get (something) wet
-
 Verb
+1
 携帯電話を水で濡らしてしまったんだ。
-
 けいたい でんわ を みず で ぬらして しまった んだ。
-
 I got my cell phone wet.
-
-日にち [ひにち]
-
+日にち
+ひにち
 date (fixed for something)
-
 Noun
+2
 ミーティングの日にちを間違えました。
-
 ミーティング の ひにち を まちがえました。
-
 I mistook the date of the meeting.
-
 みんなに会議の日にちを知らせた。
-
 みんな に かいぎ の ひにち を しらせた 。
-
 I informed everyone of the day of the meeting.
-
+いじめる
 いじめる
 bully, abuse
-
 Verb
+1
 動物をいじめてはいけません。
-
 どうぶつ を いじめて は いけません。
-
 Don't abuse animals.
-
-足下 [あしもと]
-
+足下
+あしもと
 step, under foot
-
 Noun
+1
 暗いので足下に気を付けてください。
-
 くらい ので あしもと に きをつけて ください。
-
 Please watch your step in the dark.
-
+うさぎ
 うさぎ
 rabbit, hare
-
 Noun
+1
 うさぎとかめの話を知っていますか。
-
 うさぎ と かめ の はなし を しって います か。
-
 Do you know the story of the tortoise and the hare?
-
-紺 [こん]
-
+紺
+こん
 dark blue, navy blue
-
 Noun
+1
 日本の制服は紺が多いね。
-
 にっぽん の せいふく は こん が おおい ね。
-
 Many school uniforms in Japan are navy blue.
-
-目茶苦茶 [めちゃくちゃ]
-
+目茶苦茶
+めちゃくちゃ
 in a mess, chaotic
-
 Adjectival Noun
+1
 彼の運転は目茶苦茶です。
-
 かれ の うんてん は めちゃくちゃ です。
-
 His driving is awful.
-
-立ち入り禁止 [たちいりきんし]
-
+立ち入り禁止
+たちいりきんし
 no trespassing
-
 Noun
+1
 ここは立ち入り禁止です。
-
 ここ は たちいり きんし です。
-
 No trespassing here.
-
-間もなく [まもなく]
-
+間もなく
+まもなく
 soon, in a short time
-
 Adverb
+1
 あの飛行機は間もなく着陸しますね。
-
 あの ひこうき は まもなく ちゃくりく します ね。
-
 That airplane will be landing in a short time.
-
-通帳 [つうちょう]
-
+通帳
+つうちょう
 bankbook, passbook
-
 Noun
+1
 銀行の通帳を持ってきてください。
-
 ぎんこう の つうちょう を もって きて ください。
-
 Please bring your bank book.
-
+しびれる
 しびれる
 go numb, fall asleep
-
 Verb
+1
 足がしびれた。
-
 あし が しびれた。
-
 My foot went numb.
-
+ぎっしり
 ぎっしり
 tightly, closely
-
 Adverb
+1
 この箱にはぎっしり物が詰まっています。
-
 この はこ に は ぎっしり もの が つまって います。
-
 This box is tightly packed with stuff.
-
+うがい
 うがい
 gargling
-
 Verbal Noun
+1
 冬はまめにうがいをします。
-
 ふゆ は まめ に うがい を します。
-
 I gargle a lot in winter.
-
-思いつく [おもいつく]
-
+思いつく
+おもいつく
 think of, hit upon
-
 Verb
+1
 彼は名案を思いついたの。
-
 かれ は めいあん を おもいついた の 。
-
 He hit on a good idea.
-
-宛名 [あてな]
-
+宛名
+あてな
 name of recipient, addressee
-
 Noun
+1
 手紙に宛名を書き込んだよ。
-
 てがみ に あてな を かきこんだ よ。
-
 I filled in the name of the addressee on the letter.
-
-戸棚 [とだな]
-
+戸棚
+とだな
 cupboard
-
 Noun
+1
 この皿を戸棚にしまってください。
-
 この さら を とだな に しまって ください。
-
 Please put away this plate in the cupboard.
-
-焦げる [こげる]
-
+焦げる
+こげる
 be burned, be scorched
-
 Verb
+1
 シチューが焦げたよ。
-
 シチュー が こげた よ。
-
 The stew burnt.
-
+かく
 かく
 scratch
-
 Verb
+1
 背中をお母さんにかいてもらったの。
-
 せなか を おかあさん に かいて もらった の。
-
 I had my mother scratch my back.
-
-威張る [いばる]
-
+威張る
+いばる
 be arrogant, be boastful
-
 Verb
+1
 彼は威張ってなんかいません。
-
 かれ は いばって なんか いません。
-
 He's not arrogant.
-
-人混み [ひとごみ]
-
+人混み
+ひとごみ
 crowd
-
 Noun
+1
 私は人混みが好きではありません。
-
 わたし は ひとごみ が すき では ありません。
-
 I don't like crowds.
-
+ずらり
 ずらり
 lining up neatly
-
 Adverb
+1
 玄関に靴がずらりと並んでいたな。
-
 げんかん に くつ が ずらり と ならんで いた な。
-
 Shoes were lined up in the doorway.
-
-思い切り [おもいきり]
-
+思い切り
+おもいきり
 to one's heart's content, with all one's might
-
 Adverb
+1
 カラオケで思い切り歌ったの。
-
 カラオケ で おもいきり うたった の。
-
 I sang karaoke to my heart's content.
-
-青白い [あおじろい]
-
+青白い
+あおじろい
 pale
-
 Adjective
+1
 彼女は青白い顔をしているね。
-
 かのじょ は あおじろい かお を して いる ね。
-
 Her face is pale.
-
+しゃがむ
 しゃがむ
 squat down
-
 Verb
+1
 お年寄りが道端にしゃがんでいますね。
-
 おとしより が みちばた に しゃがんで います ね。
-
 An elderly person is squatting down on the side of the road.
-
-言葉遣い [ことばづかい]
-
+言葉遣い
+ことばづかい
 wording, language
-
 Noun
+1
 先生にそんな言葉遣いをしてはいけません。
-
 せんせい に そんな ことばづかい を して は いけません。
-
 Do not speak to your teacher like that.
-
-通り掛かる [とおりかかる]
-
+通り掛かる
+とおりかかる
 happen to pass by
-
 Verb
+1
 その店を通り掛かったらバーゲンをやっていた。
-
 その みせ を とおりかかったら バーゲン を やって いた。
-
 When I happened to pass the shop they were having a sale.
-
-御無沙汰 [ごぶさた]
-
+御無沙汰
+ごぶさた
 be out of touch
-
 Verbal Noun
+1
 長いこと御無沙汰いたしました。
-
 ながい こと ごぶさた いたしました。
-
 I have been out of touch with you for a long time.
-
-市場 [しじょう]
-
+市場
+しじょう
 market (industrial, financial, etc.)
-
 Noun
+2
 海外市場の動きを確認してください。
-
 かいがい しじょう の うごき を かくにん して ください。
-
 Please check the behavior of overseas markets.
-
 その商品は市場に出せません。
-
 その しょうひん は しじょう に だせません。
-
 We can't bring the product to the market.
-
+データ
 データ
 data
-
 Noun
+1
 去年のデータを見せてください。
-
 きょねん の データ を みせて ください。
-
 Please show me last year's data.
-
-購入 [こうにゅう]
-
+購入
+こうにゅう
 purchase
-
 Verbal Noun
+1
 入学式のあと、教科書を購入してください。
-
 にゅうがく しき の あと、きょうかしょ を こうにゅう して ください。
-
 Please buy the textbooks after the entrance ceremony.
-
+ビジネス
 ビジネス
 business
-
 Noun
+1
 彼はビジネスで大成功を収めたな。
-
 かれ は ビジネス で だい せいこう を おさめた な。
-
 He achieved great success in business.
-
-俺 [おれ]
-
+俺
+おれ
 I (masculine sense)
-
 Pronoun
+2
 俺の頼みを聞いてくれ。
-
 おれ の たのみ を きいて くれ。
-
 Do me a favor.
-
 俺はロックを聞くのが好きだ。
-
 おれ は ロック を きく の が すき だ。
-
 I like to listen to rock.
-
-登録 [とうろく]
-
+登録
+とうろく
 registration
-
 Verbal Noun
+2
 心理学の授業に登録しましたか。
-
 しんり がく の じゅぎょう に とうろく しました か。
-
 Have you registered for the psychology class?
-
 新しいゲームサイトに登録した。
-
 あたらしい ゲーム サイト に とうろく した。
-
 I signed up for a new game site.
-
-体験 [たいけん]
-
+体験
+たいけん
 personal experience
-
 Verbal Noun
+1
 今日、珍しい体験をしました。
-
 きょう、めずらしい たいけん を しました。
-
 Today, I had an unusual experience.
-
+デザイン
 デザイン
 design
-
 Verbal Noun
+1
 この服のデザインは素敵ですね。
-
 この ふく の デザイン は すてき です ね。
-
 The design of this garment is wonderful.
-
-負担 [ふたん]
-
+負担
+ふたん
 burden, charge
-
 Verbal Noun
+1
 交通費は個人負担です。
-
 こうつう ひ は こじん ふたん です。
-
 Transportation fees have to be paid by each individual.
-
-詳細 [しょうさい]
-
+詳細
+しょうさい
 details, particulars
-
 Noun
+2
 詳細はお気軽にお問い合わせください。
-
 しょうさい は おきがる に おといあわせ ください。
-
 Please do not hesitate to inquire for further details.
-
 詳細はファックスで送ります。
-
 しょうさい は ファックス で おくります。
-
 I'll send the details by fax.
-
+アップ
 アップ
 close-up
-
 Verbal Noun
+1
 写真をアップで撮ろう。
-
 しゃしん を アップ で とろう。
-
 Let's take a close-up photo.
-
-終了 [しゅうりょう]
-
+終了
+しゅうりょう
 end, termination
-
 Verbal Noun
+1
 コンサートは夜7時5分に終了しました。
-
 コンサート は よる 7 じ 5 ふん に しゅうりょう しました。
-
 The concert ended at 7:05 pm.
-
+ファン
 ファン
 fan, admirer
-
 Noun
+1
 彼は大のサッカーファンです。
-
 かれ は だい の サッカー ファン です。
-
 He's a huge soccer fan.
-
-予想 [よそう]
-
+予想
+よそう
 expectation, forecast
-
 Verbal Noun
+1
 私の予想が当たった。
-
 わたし の よそう が あたった。
-
 My forecast proved right.
-
-企画 [きかく]
-
+企画
+きかく
 planning, project
-
 Verbal Noun
+1
 独身者パーティーを企画した。
-
 どくしん しゃ パーティー を きかく した。
-
 I planned a party for singles.
-
-財政 [ざいせい]
-
+財政
+ざいせい
 public finance, financial affairs
-
 Noun
+1
 国の財政はとても苦しい状態だな。
-
 くに の ざいせい は とても くるしい じょうたい だ な。
-
 The country is in very tight financial conditions.
-
-総合 [そうごう]
-
+総合
+そうごう
 integration, put together
-
 Verbal Noun
+1
 全員の意見を総合してみましょう。
-
 ぜんいん の いけん を そうごう して みましょう。
-
 Let's put all the opinions together.
-
+ケース
 ケース
 case
-
 Noun
+1
 このケースにはCDが50枚入ります。
-
 この ケース に は CD が 50 まい はいります。
-
 50 CDs can fit in this case.
-
+メーカー
 メーカー
 maker, manufacturer
-
 Noun
+1
 彼は靴のメーカーで働いています。
-
 かれ は くつ の メーカー で はたらいて います。
-
 He works at a shoe manufacturer.
-
-治療 [ちりょう]
-
+治療
+ちりょう
 medical treatment
-
 Verbal Noun
+1
 今、歯を治療しています。
-
 いま、は を ちりょう して います。
-
 I'm having my teeth treated now.
-
-読者 [どくしゃ]
-
+読者
+どくしゃ
 reader
-
 Noun
+1
 新聞の読者の投書欄は好きです。
-
 しんぶん の どくしゃ の とうしょ らん は すき です。
-
 I like the letters to the editor section in the newspaper.
-
-職員 [しょくいん]
-
+職員
+しょくいん
 staff, employee
-
 Noun
+1
 ここは職員専用の出入り口です。
-
 ここ は しょくいん せんよう の でいりぐち です。
-
 This is an entrance for staff only.
-
-世代 [せだい]
-
+世代
+せだい
 generation
-
 Noun
+1
 私は彼と同じ世代です。
-
 わたし は かれ と おなじ せだい です。
-
 I am of the same generation as him.
-
-視点 [してん]
-
+視点
+してん
 viewpoint, perspective
-
 Noun
+1
 視点を変えて見てみましょう。
-
 してん を かえて みて みましょう。
-
 Let's look at it from a different perspective.
-
-効率 [こうりつ]
-
+効率
+こうりつ
 efficiency, performance
-
 Noun
+1
 作業の効率を上げるにはどうしたらいいですか。
-
 さぎょう の こうりつ を あげる に は どう したら いい です か。
-
 How can we increase efficiency at work?
-
-資産 [しさん]
-
+資産
+しさん
 property, assets
-
 Noun
+1
 大臣の資産が公表されたね。
-
 だいじん の しさん が こうひょう された ね。
-
 The minister's assets were made public.
-
-取り組む [とりくむ]
-
+取り組む
+とりくむ
 work on, tackle
-
 Verb
+1
 彼女はスペイン語に取り組んでいます。
-
 かのじょ は スペイン ご に とりくんで います。
-
 She's working on her Spanish.
-
+ルール
 ルール
 rule (loan word)
-
 Noun
+1
 このゲームのルールは簡単です。
-
 この ゲーム の ルール は かんたん です。
-
 The rules of this game are easy.
-
-資格 [しかく]
-
+資格
+しかく
 qualifications, competence
-
 Noun
+1
 日本語を教える資格を取りたいです。
-
 にほん ご を おしえる しかく を とりたい です。
-
 I want to get a license to teach Japanese.
-
-成果 [せいか]
-
+成果
+せいか
 result
-
 Noun
+1
 厳しい練習が良い成果に結び付きました。
-
 きびしい れんしゅう が よい せいか に むすびつきました。
-
 Intense training has led to good results.
-
-前提 [ぜんてい]
-
+前提
+ぜんてい
 assumption, premise
-
 Noun
+1
 交渉が成立するという前提で話を進めます。
-
 こうしょう が せいりつ する と いう ぜんてい で はなし を すすめます。
-
 We're proceeding with talks under the assumption we'll get the deal.
-
-現地 [げんち]
-
+現地
+げんち
 local, on-site
-
 Noun
+1
 現地の天気は雨です。
-
 げんち の てんき は あめ です。
-
 The local weather is rain.
-
-内部 [ないぶ]
-
+内部
+ないぶ
 interior, inner parts
-
 Noun
+1
 これは機械の内部の問題です。
-
 これ は きかい の ないぶ の もんだい です。
-
 This is a problem with the internal parts of the machine.
-
-所得 [しょとく]
-
+所得
+しょとく
 income, earnings
-
 Noun
+1
 ここに去年の所得をご記入ください。
-
 ここ に きょねん の しょとく を ごきにゅう ください。
-
 Please fill in last year's income here.
-
-恋愛 [れんあい]
-
+恋愛
+れんあい
 romance, relationship
-
 Verbal Noun
+1
 彼女は恋愛にあこがれる年ごろです。
-
 かのじょ は れんあい に あこがれる としごろ です。
-
 She's at that age when girls yearn for romance.
-
-支持 [しじ]
-
+支持
+しじ
 support
-
 Verbal Noun
+1
 彼は国民の支持を得たのよ。
-
 かれ は こくみん の しじ を えた の よ。
-
 He won the people's support.
-
-危機 [きき]
-
+危機
+きき
 crisis, danger
-
 Noun
+1
 地球環境の危機が叫ばれているのよ。
-
 ちきゅう かんきょう の きき が さけばれて いる の よ。
-
 There's an outcry over a world-wide environmental crisis.
-
+マスコミ
 マスコミ
 mass media, media
-
 Noun
+1
 彼はよくマスコミにも登場するね。
-
 かれ は よく マスコミ に も とうじょう する ね。
-
 He often appears in the media.
-
-証拠 [しょうこ]
-
+証拠
+しょうこ
 proof, evidence
-
 Noun
+1
 証拠を見つけるまで逮捕はできません。
-
 しょうこ を みつける まで たいほ は できません。
-
 We can't arrest someone until we find evidence.
-
+コーナー
 コーナー
 section (of a store etc.), corner
-
 Noun
+1
 バーゲンコーナーでDVDを買いました。
-
 バーゲン コーナー で DVD を かいました。
-
 I bought a DVD in the sales section.
-
+マーク
 マーク
 logo
-
 Verbal Noun
+1
 このブランドのマークは可愛いですね。
-
 この ブランド の マーク は かわいい です ね。
-
 This brand logo is cute.
-
-減少 [げんしょう]
-
+減少
+げんしょう
 decrease, decline
-
 Verbal Noun
+1
 この国は人口が減少しているわね。
-
 この くに は じんこう が げんしょう して いる わ ね。
-
 The population of this country is decreasing.
-
-緊急 [きんきゅう]
-
+緊急
+きんきゅう
 urgent, emergency
-
 Noun
+1
 緊急事態が発生した。
-
 きんきゅう じたい が はっせい した。
-
 We have an emergency.
-
-要望 [ようぼう]
-
+要望
+ようぼう
 demand, request
-
 Verbal Noun
+1
 お客様の要望を聞かせてください。
-
 おきゃくさま の ようぼう を きかせて ください。
-
 What would you like to request?
-
+ストレス
 ストレス
 stress
-
 Noun
+2
 ストレスがいろいろな病気の元になっているの。
-
 ストレス が いろいろな びょうき の もと に なって いる の。
-
 Stress is the source of various diseases.
-
 彼はストレスがたまっているの。
-
 かれ は ストレス が たまって いる の。
-
 He's under a lot of stress.
-
-主催 [しゅさい]
-
+主催
+しゅさい
 sponsorship, host
-
 Verbal Noun
+1
 その芸術祭は市が主催しています。
-
 その げいじゅつ さい は し が しゅさい して います。
-
 The art festival is sponsored by the city.
-
+ベスト
 ベスト
 best
-
 Noun
+1
 私はベストを尽くしました。
-
 わたし は ベスト を つくしました。
-
 I did my best.
-
-犠牲 [ぎせい]
-
+犠牲
+ぎせい
 sacrifice, loss
-
 Noun
+1
 多くの人が災害の犠牲になったの。
-
 おおく の ひと が さいがい の ぎせい に なった の。
-
 A lot of people lost their lives in the disaster.
-
-暴力 [ぼうりょく]
-
+暴力
+ぼうりょく
 violence, force
-
 Noun
+1
 暴力はいけません。
-
 ぼうりょく は いけません。
-
 Violence is wrong.
-
-赤字 [あかじ]
-
+赤字
+あかじ
 deficit, in the red
-
 Noun
+1
 私たちの会社は今月は赤字よ。
-
 わたし たち の かいしゃ は こんげつ は あかじ よ。
-
 Our company is in deficit this month.
-
-個性 [こせい]
-
+個性
+こせい
 individuality, unique characteristics
-
 Noun
+1
 彼女たちはそれぞれ個性が強いですね。
-
 かのじょ たち は それぞれ こせい が つよい です ね。
-
 Each of the women has very unique characteristics.
-
-作戦 [さくせん]
-
+作戦
+さくせん
 tactic, strategy
-
 Noun
+1
 彼らは次の試合のために作戦を立てたのよ。
-
 かれら は つぎ の しあい の ため に さくせん を たてた の よ。
-
 They built a strategy for the next game.
-
+ショック
 ショック
 shock
-
 Adjectival Noun
+2
 彼女はショックで口もきけなかったわ。
-
 かのじょ は ショック で くち も きけなかった わ。
-
 She was too shocked to speak.
-
 そのニュースは彼に大きなショックを与えた。
-
 その ニュース は かれ に おおきな ショック を あたえた。
-
 The news gave him a great shock.
-
+アンケート
 アンケート
 questionnaire
-
 Noun
+1
 彼女はアンケートに答えたよ。
-
 かのじょ は アンケート に こたえた よ。
-
 She answered the questionnaire.
-
+わざわざ
 わざわざ
 going out of one's way to do something
-
 Adverb
+1
 わざわざ来てくれてありがとう。
-
 わざわざ きて くれて ありがとう。
-
 Thank you for coming all the way here.
-
-本気 [ほんき]
-
+本気
+ほんき
 serious, earnest
-
 Adjectival Noun
+1
 いや、僕は本気なんだ。
-
 いや、ぼく は ほんき なんだ。
-
 No, I'm serious.
-
-悩み [なやみ]
-
+悩み
+なやみ
 troubles, worries
-
 Noun
+1
 彼は大きな悩みを抱えていました。
-
 かれ は おおきな なやみ を かかえて いました。
-
 He had a major concern.
-
-上司 [じょうし]
-
+上司
+じょうし
 boss
-
 Noun
+2
 上司に相談してみます。
-
 じょうし に そうだん して みます。
-
 I will consult my boss.
-
 今日は上司と食事をする。
-
 きょう は じょうし と しょくじ を する。
-
 I'm eating with the boss today.
-
-説得 [せっとく]
-
+説得
+せっとく
 persuasion
-
 Verbal Noun
+1
 なんとか親を説得してみるよ。
-
 なんとか おや を せっとく して みる よ。
-
 I will try my best to persuade my parents.
-
+ブーム
 ブーム
 fad, boom
-
 Noun
+1
 最近、日本は健康ブームです。
-
 さいきん、にほん は けんこう ブーム です。
-
 There has been a health fad in Japan recently.
-
-体力 [たいりょく]
-
+体力
+たいりょく
 physical strength, stamina
-
 Noun
+1
 若者は体力がありますね。
-
 わかもの は たいりょく が あります ね。
-
 Young people have a lot of stamina.
-
+ヒント
 ヒント
 hint, clue
-
 Noun
+1
 何かヒントをください。
-
 なに か ヒント を ください。
-
 Please give me a hint.
-
-正常 [せいじょう]
-
+正常
+せいじょう
 normal
-
 Adjectival Noun
+1
 患者の呼吸は正常です。
-
 かんじゃ の こきゅう は せいじょう です。
-
 The patient's breathing is normal.
-
-地獄 [じごく]
-
+地獄
+じごく
 hell
-
 Noun
+1
 地震の後、街は地獄のようだったよ。
-
 じしん の あと、まち は じごく のよう だった よ。
-
 After the earthquake, the town looked like hell.
-
-後悔 [こうかい]
-
+後悔
+こうかい
 regret
-
 Verbal Noun
+1
 後悔しても、しょうがない。
-
 こうかい して も、しょう が ない。
-
 There is no point in regretting.
-
-情熱 [じょうねつ]
-
+情熱
+じょうねつ
 passion, enthusiasm
-
 Noun
+1
 父は情熱を持って仕事に打ち込んでいます。
-
 ちち は じょうねつ を もって しごと に うちこんで います。
-
 My father passionately devotes himself to work.
-
-驚き [おどろき]
-
+驚き
+おどろき
 surprise, amazement
-
 Noun
+1
 彼女は驚きを隠せませんでしたよ。
-
 かのじょ は おどろき を かくせませんでした よ。
-
 She was not able to conceal her surprise.
-
+ジャンプ
 ジャンプ
 jump
-
 Verbal Noun
+1
 猿が高い木にジャンプした。
-
 さる が たかい き に ジャンプ した。
-
 A monkey jumped onto a tall tree.
-
+アルコール
 アルコール
 alcohol, alcoholic beverage
-
 Noun
+1
 彼はアルコールに強い体質です。
-
 かれ は アルコール に つよい たいしつ です。
-
 He has a disposition to hold his liquor.
-
-いい加減 [いいかげん]
-
+いい加減
+いいかげん
 irresponsible, careless
-
 Adjectival Noun
+1
 いい加減なことを言ってはいけません。
-
 いいかげんな こと を いって は いけません。
-
 You shouldn't say irresponsible things.
-
+わくわく
 わくわく
 feel excited, be thrilled
-
 Adverb
+1
 遠足が楽しみでわくわくしています。
-
 えんそく が たのしみ で わくわく して います。
-
 I'm looking forward to the field trip, and I'm excited.

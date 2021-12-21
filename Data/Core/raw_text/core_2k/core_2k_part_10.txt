@@ -2,6 +2,7 @@
 やわらかい
 soft, gentle
 Adjective
+2
 柔らかい日差しが気持ちいいね。
 やわらかい ひざし が きもち いい ね。
 Soft sunlight feels pleasant.
@@ -12,6 +13,7 @@ The futon is very soft.
 にあう
 suit, match well
 Verb
+2
 彼女は着物がよく似合います。
 かのじょ は きもの が よく にあいます。
 Kimono suits her well.
@@ -22,6 +24,7 @@ She looks better in pants than in a skirt.
 たしかめる
 check, confirm
 Verb
+2
 母はお釣りを確かめたの。
 はは は おつり を たしかめた の。
 My mother checked the change.
@@ -32,6 +35,7 @@ I confirmed the cost of the shopping with the receipt.
 せなか
 (one's) back
 Noun
+2
 背中がかゆい。
 せなか が かゆい。
 My back itches.
@@ -42,6 +46,7 @@ I have a pain in my back.
 はだ
 human skin, surface
 Noun
+2
 彼女は肌がとても白いですね。
 かのじょ は はだ が とても しろい です ね。
 Her skin is very white.
@@ -52,6 +57,7 @@ It's better if you don't tan your skin this much.
 じゅんばん
 order, turn
 Noun
+2
 これを順番通りに並べ替えてください。
 これ を じゅんばん どおり に ならべかえて ください。
 Please rearrange these in order.
@@ -62,6 +68,7 @@ Please wait for your turn. I'm ahead of you.
 まとも
 sane, reasonable
 Adjectival Noun
+2
 彼の考え方はまともではない。
 かれ の かんがえかた は まとも で は ない。
 His way of thinking is insane.
@@ -72,6 +79,7 @@ He doesn't look like a respectable person.
 ぴったり
 exactly right, perfect
 Adjectival Noun
+2
 この服はあなたにぴったりですね。
 この ふく は あなた に ぴったり です ね。
 These clothes suit you perfectly.
@@ -82,6 +90,7 @@ I found the perfect gift for my mother.
 おもわず
 unintentionally, unconsciously, spontaneously
 Adverb
+2
 嬉しくて思わず涙が出ました。
 うれしくて おもわず なみだ が でました。
 I was so happy that I suddenly burst into tears.
@@ -92,6 +101,7 @@ I was so surprised my voice came out of my mouth unintentionally.
 より
 even more ~, even less ~
 Adverb
+2
 これから、より一層努力します。
 これから、より いっそう どりょく します。
 I'll work much harder from now on.
@@ -102,6 +112,7 @@ The access to the airport has become more convenient.
 もったいない
 wasteful, a shame
 Adjective
+2
 食べ物を残してはもったいないわよ。
 たべもの を のこして は もったいない わ よ。
 It's wasteful to leave food.
@@ -112,6 +123,7 @@ It's a waste to throw away that piece of clothing.
 じょうほう
 information
 Noun
+2
 学生たちはインターネットでいろいろな情報を集めた。
 がくせい たち は インターネット で いろいろな じょうほう を あつめた。
 The students collected all kinds of information on the Internet.
@@ -122,6 +134,7 @@ I checked some financial information on the Internet.
 あきらめる
 abandon, give up
 Verb
+2
 彼は留学の夢を諦めていないよ。
 かれ は りゅうがく の ゆめ を あきらめて いない よ。
 He hasn't given up on his dream of studying abroad.
@@ -132,6 +145,7 @@ I already gave up on becoming a baseball player.
 なつかしい
 fondly-remembered, long-forgotten
 Adjective
+2
 ここは私にとって懐かしい場所です。
 ここ は わたし にとって なつかしい ばしょ です。
 I have a fond memory of this place.
@@ -142,6 +156,7 @@ I fondly remember the time I was in Japan.
 あやしい
 suspicious, dubious
 Adjective
+2
 その男の行動は怪しかったわ。
 その おとこ の こうどう は あやしかった わ。
 That man's behavior was suspicious.
@@ -152,6 +167,7 @@ There is a suspicious person in the park.
 しめす
 show, indicate
 Verb
+2
 あのプレゼンテーションは彼女の能力が高いことを示していた。
 あの プレゼンテーション は かのじょ の のうりょく が たかい こと を しめして いた。
 That presentation demonstrates her strong capabilities.
@@ -162,6 +178,7 @@ The incident indicates that this area is not safe.
 たっぷり
 fully, amply
 Adverb
+2
 たっぷりとマッサージしてもらいました。
 たっぷり と マッサージ して もらいました。
 I got a full massage.
@@ -172,6 +189,7 @@ Please pour plenty of hot water into the pot.
 さっそく
 immediately, right away
 Adverb
+2
 では早速書類をお送りします。
 では さっそく しょるい を おおくりします。
 I will send the documents immediately.
@@ -182,6 +200,7 @@ I went to the new shop right away.
 ぐうぜん
 by chance, coincidence
 Adjectival Noun
+2
 街で偶然友人に会いました。
 まち で ぐうぜん ゆうじん に あいました。
 I ran into a friend of mine in the town.
@@ -192,6 +211,7 @@ It's a coincidence that our birthdays are same.
 つづき
 continuation, sequel
 Noun
+2
 話の続きは電話でしましょう。
 はなし の つづき は でんわ で しましょう。
 Let's continue this conversation on the phone.
@@ -202,6 +222,7 @@ Let's continue next week.
 ごうけい
 sum, total
 Verbal Noun
+2
 合計金額を計算してください。
 ごうけい きんがく を けいさん して ください。
 Please calculate the total amount of money.
@@ -212,6 +233,7 @@ The total comes to 5,400 yen.
 きず
 wound, scar
 Noun
+2
 足の傷が痛みます。
 あし の きず が いたみます。
 The wound in my foot hurts.
@@ -222,6 +244,7 @@ This wound is taking forever to heal.
 めんどう
 troublesome, difficult
 Adjectival Noun
+2
 会社で面倒なことが起こったの。
 かいしゃ で めんどうな こと が おこった の。
 There was some trouble at the office.
@@ -232,6 +255,7 @@ It's a pain to go back to the office again from here.
 ぐあい
 condition, health
 Noun
+2
 今日は体の具合が悪いです。
 きょう は からだ の ぐあい が わるい です。
 I'm not feeling well today.
@@ -242,6 +266,7 @@ How's your condition today?
 ちゅうし
 suspension, cancellation
 Verbal Noun
+2
 雨で運動会が中止になったの。
 あめ で うんどうかい が ちゅうし に なった の。
 The sports day has been canceled due to the rain.
@@ -252,6 +277,7 @@ Moreover, it will be canceled in the event of rain.
 てつづき
 procedure, proceeding
 Verbal Noun
+2
 入国手続きが終わりました。
 にゅうこく てつづき が おわりました。
 The immigration procedures are finished.
@@ -262,6 +288,7 @@ When we move, we need to follow various procedures.
 けっか
 result, outcome
 Noun
+2
 試合の結果を早く知りたい。
 しあい の けっか を はやく しりたい。
 I want to know the results of the game soon.
@@ -272,6 +299,7 @@ I got my best results so far.
 けんせつ
 construction
 Verbal Noun
+2
 新しいビルの建設が始まった。
 あたらしい ビル の けんせつ が はじまった。
 Construction began on the new building.
@@ -282,6 +310,7 @@ Neighbors are opposed to the apartment construction.
 はんばい
 sale, selling
 Verbal Noun
+2
 前売券は窓口で販売しています。
 まえうり けん は まどぐち で はんばい して います。
 Advance tickets are sold at the ticket window.
@@ -292,6 +321,7 @@ Sale of the product has been discontinued.
 きのう
 function, feature
 Verbal Noun
+2
 このソフトにはいろいろな機能があります。
 この ソフト に は いろいろな きのう が あります。
 This software has a variety of features.
@@ -302,6 +332,7 @@ At the hospital, I was told that my stomach is not functioning well.
 ころ
 time, the time when ~
 Noun
+2
 子供の頃、よくその公園で遊んだ。
 こども の ころ、よく その こうえん で あそんだ。
 I often played in that park when I was a kid.
@@ -312,6 +343,7 @@ When I was a child, I hated studying so much.
 にっちゅう
 during the day
 Noun
+2
 日中はずっと海で泳いでいました。
 にっちゅう は ずっと うみ で およいで いました。
 I swam in the sea all day long.
@@ -322,6 +354,7 @@ I'm not home during the day.
 こんご
 in the future, from now on
 Noun
+2
 今後ともよろしくお願いします。
 こんご とも よろしく おねがい します。
 I look forward to working with you in the future.
@@ -332,6 +365,7 @@ What will this country be like in the future?
 えいきょう
 influence, effect
 Verbal Noun
+2
 私は彼から大きな影響を受けました。
 わたし は かれ から おおきな えいきょう を うけました。
 I was deeply influenced by him.
@@ -342,6 +376,7 @@ Today it's very windy due to the influence of the typhoon.
 ぶんや
 field, area
 Noun
+2
 音楽は彼の得意な分野です。
 おんがく は かれ の とくいな ぶんや です。
 Music is his field of specialty.
@@ -352,6 +387,7 @@ I've never worked in other fields.
 かんする
 relate to, regarding
 Verb
+2
 その問題に関する記事を読みました。
 その もんだい に かんする きじ を よみました。
 I read an article regarding that problem.
@@ -362,6 +398,7 @@ Do you have opinions regarding this plan?
 じょうたい
 state, condition
 Noun
+2
 ここは道の状態がとても悪いです。
 ここ は みち の じょうたい が とても わるい です。
 The road here is in a very bad condition.
@@ -372,6 +409,7 @@ My grandfather's health condition is not very good.
 かかく
 price, value
 Noun
+2
 ガソリンの価格がどんどん上がっている。
 ガソリン の かかく が どんどん あがって いる。
 The price of gasoline keeps going up fast.
@@ -382,6 +420,7 @@ The price of land in this area is going down.
 すがた
 figure, appearance
 Noun
+2
 遠くに彼女の姿が見えた。
 とおく に かのじょ の すがた が みえた。
 I saw her figure from a distance.
@@ -392,6 +431,7 @@ He suddenly disappeared.
 きたい
 expectation, anticipation
 Verbal Noun
+2
 みんな私たちに期待しています。
 みんな わたし たち に きたい して います。
 Everyone has high expectations of us.
@@ -402,6 +442,7 @@ Everybody's expectation weighed me down too much.
 のぞく
 remove, exclude
 Verb
+2
 部長を除く全員が土曜日も働いた。
 ぶちょう を のぞく ぜんいん が どようび も はたらいた。
 Everyone except for the director worked on Saturday.
@@ -412,6 +453,7 @@ Excluding weekends, I hardly spend time with my family.
 いっぱん
 general, common
 Noun
+2
 一般の方はこちらの席へどうぞ。
 いっぱん の かた は こちら の せき へ どうぞ。
 General seating is over here.
@@ -422,6 +464,7 @@ The car is expensive for the general public.
 ひょうげん
 expression
 Verbal Noun
+2
 彼は歌で自分の気持ちを表現した。
 かれ は うた で じぶん の きもち を ひょうげん した。
 He expressed his feelings in a song.
@@ -432,6 +475,7 @@ I can't find a fitting expression for my current feeling.
 かんせい
 completion, finish making or building something
 Verbal Noun
+2
 新しいホームページが完成した。
 あたらしい ホームページ が かんせい した。
 Our new home page is now complete.
@@ -442,6 +486,7 @@ Our new home page is now complete.
 へんか
 change, alteration
 Verbal Noun
+2
 今年は変化の多い年でした。
 ことし は へんか の おおい とし でした。
 There was a lot of change this year.
@@ -452,6 +497,7 @@ The temperature this week has been considerably fluctuating.
 さんか
 participation
 Verbal Noun
+2
 明日は市民マラソンに参加します。
 あす は しみん マラソン に さんか します。
 I'll participate in the citizen marathon tomorrow.
@@ -462,6 +508,7 @@ She participated in the demonstration.
 とち
 land
 Noun
+2
 ここは父の土地です。
 ここ は ちち の とち です。
 This is my father's land.
@@ -472,6 +519,7 @@ The price of land in this area is going down.
 けんとう
 examination and consideration
 Verbal Noun
+2
 今日中にこの問題を検討してください。
 きょう じゅう に この もんだい を けんとう して ください。
 Please examine and consider this problem by the end of the day.
@@ -482,6 +530,7 @@ We are considering buying a house.
 かいし
 beginning
 Verbal Noun
+2
 運動会は9時開始です。
 うんどうかい は 9 じ かいし です。
 The sports festival begins at nine o'clock.
@@ -492,6 +541,7 @@ We didn't make it for the starting time of the tour.
 そなえる
 provide for, prepare for
 Verb
+2
 災害に備えて大量の水を買い込んだ。
 さいがい に そなえて たいりょう の みず を かいこんだ。
 I bought a large quantity of water to prepare for disasters.
@@ -502,6 +552,7 @@ My younger brother has been up late studying every day to prepare for the exam.
 ないよう
 content
 Noun
+2
 この本の内容を説明してください。
 この ほん の ないよう を せつめい して ください。
 Please explain the content of this book.
@@ -512,6 +563,7 @@ The content of the class is so difficult that I can't keep up.
 あたえる
 give (formal)
 Verb
+2
 そのニュースは彼に大きなショックを与えた。
 その ニュース は かれ に おおきな ショック を あたえた。
 The news gave him a great shock.
@@ -522,6 +574,7 @@ The teacher had a big influence on the students.
 ひろがる
 spread out, extend
 Verb
+2
 留学してから私の世界が広がった。
 りゅうがく して から わたし の せかい が ひろがった。
 My world expanded after studying abroad.
@@ -532,6 +585,7 @@ The blue sea extends before the hotel.
 じじつ
 fact, truth
 Noun
+2
 それは全て事実ですか。
 それ は すべて じじつ です か。
 Is it all true?
@@ -542,6 +596,7 @@ It is a fact that the plan failed.
 けってい
 decision
 Verbal Noun
+2
 会議で重要な決定がありました。
 かいぎ で じゅうような けってい が ありました。
 An important decision was made at the meeting.
@@ -552,6 +607,7 @@ The date of the sports event has been decided.
 じゅうたく
 housing, residence
 Noun
+2
 ここは静かな住宅地だ。
 ここ は しずかな じゅうたく ち だ。
 This is a quiet residential area.
@@ -562,6 +618,7 @@ That residential area is conveniently located.
 だいひょう
 representative
 Verbal Noun
+2
 彼がクラスの代表だ。
 かれ が クラス の だいひょう だ。
 He's the class representative.
@@ -572,6 +629,7 @@ She said a few words on behalf of the company.
 めいれい
 command, order
 Verbal Noun
+2
 彼女は命令に従わなかった。
 かのじょ は めいれい に したがわなかった。
 She did not obey the orders.
@@ -582,6 +640,7 @@ I don't want to follow orders from that person.
 たちば
 standpoint, position
 Noun
+2
 彼女は自分の立場を分かっていない。
 かのじょ は じぶん の たちば を わかって いない。
 She doesn't understand her position.
@@ -592,6 +651,7 @@ Please think about my position.
 なお
 still, in addition
 Adverb
+2
 なお、雨の場合は中止です。
 なお、あめ の ばあい は ちゅうし です。
 Moreover, it will be canceled in the event of rain.
@@ -602,6 +662,7 @@ In addition, reservations cannot be made during lunch time on weekdays.
 けいさん
 calculation
 Verbal Noun
+2
 その計算は間違っている。
 その けいさん は まちがって いる。
 That calculation is wrong.
@@ -612,6 +673,7 @@ Please calculate the total amount of money.
 かのう
 possible, potential
 Adjectival Noun
+2
 20キロのダイエットは可能だと思いますか。
 20 キロ の ダイエット は かのう だと おもいます か。
 Do you think it's possible to go on a twenty kilogram diet?
@@ -622,6 +684,7 @@ Is it possible to check in before three o'clock?
 ほうこく
 report
 Verbal Noun
+2
 昨日の会議について報告があります。
 きのう の かいぎ について ほうこく が あります。
 There's a report about yesterday's meeting.
@@ -632,6 +695,7 @@ I made a wedding announcement to everyone at work.
 とし
 city, urban city
 Noun
+2
 東京は日本一大きな都市です。
 とうきょう は にほん いち おおきな とし です。
 Tokyo is the largest city in Japan.
@@ -642,6 +706,7 @@ There are many large companies in the city.
 せいじ
 politics
 Noun
+2
 私は政治に関心がある。
 わたし は せいじ に かんしん が ある。
 I'm interested in politics.
@@ -652,6 +717,7 @@ The governance of this country is a disaster.
 きょうそう
 competition
 Verbal Noun
+2
 2社は互いに競争している。
 2 しゃ は たがい に きょうそう して いる。
 The two companies are competing with each other.
@@ -662,6 +728,7 @@ Competition in the field is intense.
 げんいん
 cause, origin
 Noun
+2
 この事故の原因は何ですか。
 この じこ の げんいん は なん です か。
 What's the cause of this accident?
@@ -672,6 +739,7 @@ The cause of the fire is still unknown.
 かつどう
 activity
 Verbal Noun
+2
 彼は地域の活動に参加した。
 かれ は ちいき の かつどう に さんか した。
 He took part in local activities.
@@ -682,6 +750,7 @@ Hamsters are active at night.
 れきし
 history
 Noun
+2
 私は歴史に興味があります。
 わたし は れきし に きょうみ が あります。
 I'm interested in history.
@@ -692,6 +761,7 @@ I want to study the history of Japan.
 ひょう
 table, list
 Noun
+2
 この表を見てください。
 この ひょう を みて ください。
 Please look at this chart.
@@ -702,6 +772,7 @@ I made a table of the temperature changes.
 サイト
 website
 Noun
+2
 これは医者のためのサイトです。
 これ は いしゃ の ため の サイト です。
 This is a site for doctors.
@@ -712,6 +783,7 @@ The company's website has been renewed.
 みやげ
 souvenir (plain)
 Noun
+2
 土産に日本酒をもらった。
 みやげ に にほんしゅ を もらった。
 I got sake as a souvenir.
@@ -722,6 +794,7 @@ My father bought some sweets as a souvenir.
 におい
 (bad) smell
 Noun
+2
 ここはいやな臭いがする。
 ここ は いやな におい が する。
 There's an unpleasant smell here.
@@ -732,6 +805,7 @@ This milk smells strange.
 げんきん
 cash
 Noun
+2
 代金は現金でお願いします。
 だいきん は げんきん で おねがい します。
 Please pay in cash.
@@ -742,6 +816,7 @@ I don't have much cash, so I'll use my card.
 むし
 insect, bug
 Noun
+2
 庭で秋の虫が鳴いているね。
 にわ で あき の むし が ないて いる ね。
 Autumn insects are chirping in the garden.
@@ -752,6 +827,7 @@ I was stung on the arm by an insect.
 よる
 stop by, stop off
 Verb
+2
 帰りに叔母の家に寄ります。
 かえり に おば の いえ に よります。
 I'll drop in at my aunt's house on the way home.
@@ -762,6 +838,7 @@ Why don't you stop by my place and have coffee?
 いなか
 hometown, countryside
 Noun
+2
 私は毎年夏に田舎に帰ります。
 わたし は まいとし なつ に いなか に かえります。
 I go back to my hometown every summer.
@@ -772,6 +849,7 @@ I want to live in the countryside with lots of greenery.
 きたく
 return home, come home
 Verbal Noun
+2
 夜の11時に帰宅しました。
 よる の 11 じ に きたく しました。
 I came home at 11 o'clock in the evening.
@@ -782,6 +860,7 @@ Around what time do you come home?
 じゅうだい
 important, serious
 Adjectival Noun
+2
 重大な発表があります。
 じゅうだいな はっぴょう が あります。
 I have an important announcement.
@@ -792,6 +871,7 @@ Today I have an important announcement for you all.
 マイナス
 minus, below zero
 Verbal Noun
+2
 外の温度はマイナス3度です。
 そと の おんど は マイナス 3ど です。
 The temperature outside is minus three degrees.
@@ -802,6 +882,7 @@ His departure had a large negative effect on the company.
 かせぐ
 earn, make money
 Verb
+2
 彼はお金をだいぶ稼いだらしいよ。
 かれ は おかね を だいぶ かせいだ らしい よ。
 I hear he made a lot of money.
@@ -812,6 +893,7 @@ My wife makes more money than I.
 さゆう
 left and right
 Noun
+2
 左右を見てから横断歩道を渡りなさい。
 さゆう を みて から おうだん ほどう を わたりなさい。
 Look left and right before crossing the crosswalk.
@@ -822,6 +904,7 @@ My left and right feet are different sizes.
 いたみ
 pain, ache
 Noun
+2
 背中に痛みがあります。
 せなか に いたみ が あります。
 I have a pain in my back.
@@ -832,6 +915,7 @@ I feel a pain in my knee.
 ごかい
 misunderstanding
 Verbal Noun
+2
 私の気持ちを誤解しているんじゃない！
 わたし の きもち を ごかい して いる ん じゃ ない！
 You misunderstand my feelings, don't you?
@@ -842,6 +926,7 @@ He doesn't talk much, so he is often misunderstood.
 もんく
 complaint, grumble
 Noun
+2
 彼女はいつも文句ばかり言う。
 かのじょ は いつも もんく ばかり いう。
 She does nothing but complain.
@@ -852,6 +937,7 @@ Students are complaining because they get a lot of homework.
 おうべい
 Europe and America
 Noun
+2
 その会社は欧米に進出しているよね。
 その かいしゃ は おうべい に しんしゅつ して いる よ ね。
 The company has expanded into Europe and America.
@@ -862,6 +948,7 @@ I study European and American culture at university.
 めんせつ
 interview
 Verbal Noun
+2
 新しい仕事の面接に行ってきました。
 あたらしい しごと の めんせつ に いって きました。
 I had a interview for my new job.
@@ -872,6 +959,7 @@ I have an interview with the teacher about my grades tomorrow.
 サイン
 signature, autograph
 Verbal Noun
+2
 ここにサインしてください。
 ここ に サイン して ください。
 Please sign here.
@@ -882,6 +970,7 @@ I got an autograph of a famous singer.
 ねんじゅう
 all year
 Adverb
+2
 叔母は年中旅行しています。
 おば は ねんじゅう りょこう して います。
 My aunt travels all year round.
@@ -892,6 +981,7 @@ My father is away on business all year.
 きげん
 mood, health
 Noun
+2
 彼女は大変機嫌がいいね。
 かのじょ は たいへん きげん が いい ね。
 She is in a very good mood.
@@ -902,6 +992,7 @@ My wife is in a bad mood today.
 いま
 living room
 Noun
+2
 父は居間でテレビを見ている。
 ちち は いま で テレビ を みて いる。
 My father is watching TV in the living room.
@@ -912,6 +1003,7 @@ I stay in the living room longer than my room.
 たびたび
 often
 Adverb
+2
 彼から度々メールがきます。
 かれ から たびたび メール が きます。
 I often get emails from him.
@@ -922,6 +1014,7 @@ Excuse me for calling you often.
 れいぶん
 example sentence
 Noun
+2
 例文を3つ作ってください。
 れいぶん を みっつ つくって ください。
 Please write three example sentences.
@@ -932,6 +1025,7 @@ It's not easy to make good example sentences.
 なまける
 be lazy, slack off
 Verb
+2
 怠けていないで、手伝って。
 なまけて いない で、てつだって。
 Stop slacking and help me!
@@ -942,6 +1036,7 @@ He always slacks off his work.
 てんきん
 change of job location, relocation
 Verbal Noun
+2
 彼は大阪に転勤しました。
 かれ は おおさか に てんきん しました。
 He was transferred to Osaka.
@@ -952,6 +1047,7 @@ I will be relocated to London from next year.
 せいふ
 government, administration
 Noun
+2
 そのデモについて政府は何もしなかった。
 その デモ について せいふ は なに も しなかった。
 The government didn't do anything about the demonstration.
@@ -962,6 +1058,7 @@ I can't believe the government's announcements.
 しょゆう
 ownership, own
 Verbal Noun
+2
 彼は車を3台所有している。
 かれ は くるま を 3 だい しょゆう して いる。
 He owns three cars.
@@ -972,6 +1069,7 @@ I live in an apartment building owned by the company.
 いずれ
 sometime later, eventually
 Adverb
+2
 いずれまたお会いしましょう。
 いずれ また おあいしましょう。
 Let's meet again sometime.
@@ -982,6 +1080,7 @@ We will eventually find out the results.
 たいする
 face, be in response to
 Verb
+2
 その質問に対する答えが見つからなかった。
 その しつもん に たいする こたえ が みつからなかった。
 I couldn't find an answer to the question.
@@ -992,6 +1091,7 @@ Her attitude toward work is problematic.
 きょうかい
 church
 Noun
+2
 私たちは教会で結婚式をしました。
 わたし たち は きょうかい で けっこん しき を しました。
 We had our wedding in a church.
