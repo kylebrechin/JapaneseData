@@ -1,1088 +1,800 @@
-
-南極 [なんきょく]
-
+南極
+なんきょく
 the South Pole
-
 Noun
+1
 南極でペンギンを見ました。
-
 なんきょく で ペンギン を みました。
-
 I saw some penguins at the South Pole.
-
-澄む [すむ]
-
+澄む
+すむ
 become clear
-
 Verb
+1
 山の空気は澄んでいますね。
-
 やま の くうき は すんで います ね。
-
 The mountain air is clear.
-
-実る [みのる]
-
+実る
+みのる
 bear fruit, be fulfilled
-
 Verb
+1
 やっと努力が実りました。
-
 やっと どりょく が みのりました。
-
 My effort has finally paid off.
-
-小鳥 [ことり]
-
+小鳥
+ことり
 small bird
-
 Noun
+1
 誕生日に小鳥を買ってもらいました。
-
 たんじょう び に ことり を かって もらいました。
-
 I got a small bird for my birthday.
-
-閉会 [へいかい]
-
+閉会
+へいかい
 closing
-
 Verbal Noun
+1
 会長が閉会の挨拶をしました。
-
 かいちょう が へいかい の あいさつ を しました。
-
 The chairperson made closing remarks.
-
-電球 [でんきゅう]
-
+電球
+でんきゅう
 light bulb
-
 Noun
+1
 電球が切れたので交換しましょう。
-
 でんきゅう が きれた ので こうかん しましょう。
-
 The bulb is out, so let's get a new one.
-
-在学 [ざいがく]
-
+在学
+ざいがく
 being in school
-
 Verbal Noun
+1
 姉は大学に在学しています。
-
 あね は だいがく に ざいがく して います。
-
 My elder sister is in college.
-
-恩 [おん]
-
+恩
+おん
 debt of gratitude, kindness
-
 Noun
+1
 このご恩は一生忘れません。
-
 この ごおん は いっしょう わすれません。
-
 I'll never forget your kindness.
-
+こぐ
 こぐ
 row
-
 Verb
+1
 彼らは交代でボートをこいだんだ。
-
 かれら は こうたい で ボート を こいだ ん だ。
-
 They took turns rowing the boat.
-
-お参り [おまいり]
-
+お参り
+おまいり
 visiting a shrine or temple
-
 Verbal Noun
+1
 家族でお寺にお参りに行きました。
-
 かぞく で おてら に おまいり に いきました。
-
 I paid a visit to the temple with my family.
-
+ひねる
 ひねる
 twist, turn
-
 Verb
+1
 彼は水道の蛇口をひねったの。
-
 かれ は すいどう の じゃぐち を ひねった の。
-
 He turned on the tap.
-
-初歩 [しょほ]
-
+初歩
+しょほ
 beginning, basic
-
 Noun
+1
 英語を初歩から勉強しています。
-
 えいご を しょほ から べんきょう して います。
-
 I'm learning English starting from the basics.
-
-略す [りゃくす]
-
+略す
+りゃくす
 abbreviate, omit
-
 Verb
+1
 国際連合を略して国連といいます。
-
 こくさい れんごう を りゃくして こくれん と いいます。
-
 The UN is an abbreviation for the United Nations.
-
-矢印 [やじるし]
-
+矢印
+やじるし
 arrow
-
 Noun
+1
 矢印にそって歩いてください。
-
 やじるし に そって あるいて ください。
-
 Please follow the arrow.
-
-形容詞 [けいようし]
-
+形容詞
+けいようし
 adjective
-
 Noun
+1
 「大きい」は形容詞です。
-
 「おおきい」 は けいようし です。
-
 "Large" is an adjective.
-
+バケツ
 バケツ
 bucket
-
 Noun
+1
 バケツに水をくんできてください。
-
 バケツ に みず を くんで きて ください 。
-
 Please go get some water in the bucket.
-
-下町 [したまち]
-
+下町
+したまち
 (old) downtown
-
 Noun
+1
 あの子は下町育ちだ。
-
 あの こ は したまち そだち だ。
-
 That kid was raised in the downtown area.
-
-短所 [たんしょ]
-
+短所
+たんしょ
 weak point
-
 Noun
+1
 すぐにあきらめてしまうのが彼の短所です。
-
 すぐ に あきらめて しまう の が かれ の たんしょ です。
-
 His weak point is that he gives up too easily.
-
-溶かす [とかす]
-
+溶かす
+とかす
 melt (something)
-
 Verb
+1
 春の太陽が雪を溶かしました。
-
 はる の たいよう が ゆき を とかしました。
-
 The spring sun has melted the snow.
-
-休息 [きゅうそく]
-
+休息
+きゅうそく
 rest
-
 Verbal Noun
+1
 休息をとることは大切です。
-
 きゅうそく を とる こと は たいせつ です。
-
 It's important to take a rest.
-
-放す [はなす]
-
+放す
+はなす
 release, free
-
 Verb
+1
 公園で犬を放したの。
-
 こうえん で いぬ を はなした の。
-
 I let my dog run freely in the park.
-
-催し [もよおし]
-
+催し
+もよおし
 (special or one-time) event
-
 Noun
+1
 学校の催しに参加しました。
-
 がっこう の もよおし に さんか しました。
-
 I took part in a one-time school event.
-
-汽車 [きしゃ]
-
+汽車
+きしゃ
 steam train
-
 Noun
+1
 汽車で街まで行った。
-
 きしゃ で まち まで いった。
-
 I went to town by steam train.
-
-目印 [めじるし]
-
+目印
+めじるし
 landmark, sign (to spot)
-
 Noun
+1
 私の家は赤い屋根が目印です。
-
 わたし の いえ は あかい やね が めじるし です。
-
 My house has a red roof that's easy to spot.
-
-私鉄 [してつ]
-
+私鉄
+してつ
 private railway
-
 Noun
+1
 私は私鉄の職員です。
-
 わたし は してつ の しょくいん です。
-
 I'm an employee of a private railway company.
-
-勝敗 [しょうはい]
-
+勝敗
+しょうはい
 victory or defeat
-
 Noun
+1
 このセットで勝敗が決まります。
-
 この セット で しょうはい が きまります。
-
 Victory or defeat will be decided in this set.
-
-縮める [ちぢめる]
-
+縮める
+ちぢめる
 reduce (time, size etc.), shorten
-
 Verb
+1
 彼はタイムを1秒縮めたの。
-
 かれ は タイム を 1 びょう ちぢめた の。
-
 He slashed one second off the record.
-
-田植え [たうえ]
-
+田植え
+たうえ
 rice planting
-
 Verbal Noun
+1
 5月は田植えの季節です。
-
 5 がつ は たうえ の きせつ です。
-
 May is the rice planting season.
-
-引き返す [ひきかえす]
-
+引き返す
+ひきかえす
 go back, retrace one's steps
-
 Verb
+1
 雨が強かったので引き返したよ。
-
 あめ が つよかった ので ひきかえした よ。
-
 I went back because it was raining heavily.
-
-代名詞 [だいめいし]
-
+代名詞
+だいめいし
 pronoun
-
 Noun
+1
 「彼」は代名詞の一つです。
-
 「かれ」 は だいめいし の ひとつ です。
-
 "He" is one of the pronouns.
-
+ひきょう
 ひきょう
 playing dirty, mean
-
 Adjectival Noun
+1
 彼らはひきょうな方法で勝利したの。
-
 かれら は ひきょうな ほうほう で しょうり した の 。
-
 They won by playing dirty.
-
-不運 [ふうん]
-
+不運
+ふうん
 misfortune, bad luck
-
 Adjectival Noun
+1
 彼に不運な出来事が起こったの。
-
 かれ に ふうんな できごと が おこった の。
-
 He suffered a misfortune.
-
-用心 [ようじん]
-
+用心
+ようじん
 care, caution
-
 Verbal Noun
+1
 夜道は用心して歩きましょう。
-
 よみち は ようじん して あるきましょう。
-
 Be careful when walking at night.
-
-大通り [おおどおり]
-
+大通り
+おおどおり
 main street
-
 Noun
+1
 大通りでパレードが始まるよ。
-
 おおどおり で パレード が はじまる よ。
-
 The parade will start at the main street.
-
-問答 [もんどう]
-
+問答
+もんどう
 questions and answers, dialogue
-
 Verbal Noun
+1
 あなたと問答している暇はないの。
-
 あなた と もんどう して いる ひま は ない の。
-
 I have no time to argue with you.
-
+ことわざ
 ことわざ
 proverb, (common) saying
-
 Noun
+1
 日本のことわざをいくつくらい知っていますか。
-
 にほん の ことわざ を いくつ くらい しって います か。
-
 About how many Japanese proverbs do you know?
-
-下品 [げひん]
-
+下品
+げひん
 vulgar, coarse
-
 Adjectival Noun
+1
 彼女の下品なふるまいには我慢できない。
-
 かのじょ の げひんな ふるまい に は がまん できない。
-
 I can't put up with her vulgar behavior.
-
+なでる
 なでる
 stroke, pat
-
 Verb
+1
 猫の頭をなでてあげた。
-
 ねこ の あたま を なでて あげた 。
-
 I patted the cat's head.
-
+ためる
 ためる
 collect and store (something)
-
 Verb
+1
 お風呂に水をためておいてください。
-
 おふろ に みず を ためて おいて ください。
-
 Please put and store water in the bathtub.
-
+くむ
 くむ
 collect, scoop up
-
 Verb
+1
 小さなバケツで水をくんだの。
-
 ちいさな バケツ で みず を くんだ の 。
-
 I scooped up some water with a small bucket.
-
-思いがけない [おもいがけない]
-
+思いがけない
+おもいがけない
 unexpected
-
 Adjective
+1
 彼から思いがけないことを聞いた。
-
 かれ から おもいがけない こと を きいた。
-
 I heard something unexpected from him.
-
-月給 [げっきゅう]
-
+月給
+げっきゅう
 monthly salary
-
 Noun
+1
 月給は毎月25日に支給されます。
-
 げっきゅう は まいつき 25 にち に しきゅう されます。
-
 My salary is paid on the 25th of every month.
-
-行儀 [ぎょうぎ]
-
+行儀
+ぎょうぎ
 manners, behavior
-
 Noun
+1
 この子は本当に行儀の良い子です。
-
 この こ は ほんとう に ぎょうぎ の いい こ です。
-
 This kid is very well behaved.
-
-増減 [ぞうげん]
-
+増減
+ぞうげん
 increase and decrease, rise and fall
-
 Verbal Noun
+1
 この数年、体重は増減していません。
-
 この すうねん、たいじゅう は ぞうげん して いません。
-
 My weight has not increased or decreased for the past few years.
-
-彫る [ほる]
-
+彫る
+ほる
 engrave, carve
-
 Verb
+1
 彼は木の像を彫ったの。
-
 かれ は き の ぞう を ほった の。
-
 He carved a wooden statue.
-
-縄 [なわ]
-
+縄
+なわ
 rope, cord
-
 Noun
+1
 枝を縄でしばったよ。
-
 えだ を なわ で しばった よ。
-
 I bound the branches with a rope.
-
-編む [あむ]
-
+編む
+あむ
 knit
-
 Verb
+1
 妹はマフラーを編みました。
-
 いもうと は マフラー を あみました。
-
 My younger sister knitted a scarf.
-
-幼稚 [ようち]
-
+幼稚
+ようち
 childish
-
 Adjectival Noun
+1
 その考えは少し幼稚だと思う。
-
 その かんがえ は すこし ようち だ と おもう。
-
 I think that the idea's a bit childish.
-
-絹 [きぬ]
-
+絹
+きぬ
 silk
-
 Noun
+1
 このシャツは絹でできています。
-
 この シャツ は きぬ で できて います。
-
 This shirt is made of silk.
-
-恨む [うらむ]
-
+恨む
+うらむ
 hold a grudge, feel resentment
-
 Verb
+1
 彼を恨んではいけません。
-
 かれ を うらんで は いけません。
-
 You should not hold a grudge against him.
-
-頼もしい [たのもしい]
-
+頼もしい
+たのもしい
 reliable, dependable
-
 Adjective
+1
 彼は頼もしい人です。
-
 かれ は たのもしい ひと です。
-
 He's a dependable person.
-
+ちぎる
 ちぎる
 tear, tear off
-
 Verb
+1
 紙を細かくちぎってください。
-
 かみ を こまかく ちぎって ください。
-
 Please tear the paper into pieces.
-
-当番 [とうばん]
-
+当番
+とうばん
 being on duty, person in charge
-
 Noun
+1
 今日は私が掃除の当番です。
-
 きょう は わたし が そうじ の とうばん です。
-
 I'm in charge of the cleaning today.
-
-羽根 [はね]
-
+羽根
+はね
 feather
-
 Noun
+1
 このペンは鳥の羽根で作られています。
-
 この ペン は とり の はね で つくられて います。
-
 This pen is made from a bird's feather.
-
-目覚まし [めざまし]
-
+目覚まし
+めざまし
 waking up
-
 Noun
+1
 目覚ましにコーヒーを飲んだの。
-
 めざまし に コーヒー を のんだ の。
-
 I drank coffee to wake myself up.
-
-砕く [くだく]
-
+砕く
+くだく
 crush (something) into small pieces
-
 Verb
+1
 氷を細かく砕いてください。
-
 こおり を こまかく くだいて ください。
-
 Please crush the ice into small pieces.
-
-車輪 [しゃりん]
-
+車輪
+しゃりん
 wheel
-
 Noun
+1
 このトラックの車輪は頑丈そうですね。
-
 この トラック の しゃりん は がんじょう そう です ね。
-
 The wheels of this truck look sturdy.
-
-嗅ぐ [かぐ]
-
+嗅ぐ
+かぐ
 smell, sniff
-
 Verb
+1
 犬がお皿の匂いをクンクン嗅いでいるね。
-
 いぬ が おさら の におい を クンクン かいで いる ね。
-
 The dog is sniffing the plate.
-
-頼み [たのみ]
-
+頼み
+たのみ
 request, favor
-
 Noun
+1
 あなたに頼みがあるんですけど。
-
 あなた に たのみ が ある ん です けど。
-
 I have a favor to ask you.
-
-終点 [しゅうてん]
-
+終点
+しゅうてん
 last stop, terminal
-
 Noun
+1
 電車の終点で降りました。
-
 でんしゃ の しゅうてん で おりました。
-
 I got off the train at the terminal.
-
-免税 [めんぜい]
-
+免税
+めんぜい
 tax exemption
-
 Verbal Noun
+1
 この商品は免税です。
-
 この しょうひん は めんぜい です。
-
 This product is tax-exempt.
-
-電線 [でんせん]
-
+電線
+でんせん
 electric wire
-
 Noun
+1
 風で電線が揺れていますね。
-
 かぜ で でんせん が ゆれて います ね。
-
 The electric wires are swaying in the wind.
-
-明け方 [あけがた]
-
+明け方
+あけがた
 dawn, near daybreak
-
 Noun
+1
 明け方に雨が降り始めましたね。
-
 あけがた に あめ が ふり はじめました ね。
-
 It began to rain at dawn.
-
-日の出 [ひので]
-
+日の出
+ひので
 sunrise
-
 Noun
+1
 日の出がとてもきれいですね。
-
 ひので が とても きれい です ね。
-
 The sunrise is very beautiful.
-
-灯油 [とうゆ]
-
+灯油
+とうゆ
 kerosene, lamp oil
-
 Noun
+1
 ストーブの灯油がなくなったわよ。
-
 ストーブ の とうゆ が なくなった わ よ。
-
 The kerosene in the stove has run out.
-
-電報 [でんぽう]
-
+電報
+でんぽう
 telegram
-
 Noun
+1
 実家の母から電報がきました。
-
 じっか の はは から でんぽう が きました。
-
 A telegram came from my mother at home.
-
-講堂 [こうどう]
-
+講堂
+こうどう
 lecture hall, auditorium
-
 Noun
+1
 全員、講堂に集まってください。
-
 ぜんいん、こうどう に あつまって ください。
-
 Everyone, please come to the auditorium.
-
-平ら [たいら]
-
+平ら
+たいら
 flat, level
-
 Adjectival Noun
+1
 その建物の屋根は平らだね。
-
 その たてもの の やね は たいら だ ね。
-
 The roof on that building is flat.
-
-言い出す [いいだす]
-
+言い出す
+いいだす
 bring up, say
-
 Verb
+1
 突然何を言い出すのかと思った。
-
 とつぜん なに を いいだす の か と おもった。
-
 I wondered what you would say out of the blue.
-
-答案 [とうあん]
-
+答案
+とうあん
 exam paper, answer sheet
-
 Noun
+1
 今から答案を集めます。
-
 いま から とうあん を あつめます。
-
 I'll collect the answer sheets now.
-
-溺れる [おぼれる]
-
+溺れる
+おぼれる
 drown
-
 Verb
+1
 彼は溺れている子を助けたんだ。
-
 かれ は おぼれて いる こ を たすけた ん だ。
-
 He saved a drowning child.
-
-公務員 [こうむいん]
-
+公務員
+こうむいん
 public officer, civil servant
-
 Noun
+1
 私の父は公務員です。
-
 わたし の ちち は こうむいん です。
-
 My father is a civil servant.
-
-委員 [いいん]
-
+委員
+いいん
 committee member, delegate
-
 Noun
+1
 彼は委員に選ばれました。
-
 かれ は いいん に えらばれました。
-
 He was elected to the committee.
-
-発つ [たつ]
-
+発つ
+たつ
 start, leave
-
 Verb
+1
 彼は明日メキシコへ発ちます。
-
 かれ は あした メキシコ へ たちます。
-
 He will leave for Mexico tomorrow.
-
-積極的 [せっきょくてき]
-
+積極的
+せっきょくてき
 active, positive
-
 Adjectival Noun
+1
 姉は何に対しても積極的です。
-
 あね は なん に たいして も せっきょくてき です。
-
 My elder sister shows an active attitude toward everything.
-
-違いない [ちがいない]
-
+違いない
+ちがいない
 without doubt, for sure
-
 Adjective
+1
 彼は成功するに違いないわ。
-
 かれ は せいこう する に ちがいない わ。
-
 He will succeed for sure.
-
+いけない
 いけない
 wrong, must not
-
 Adjective
+1
 勉強を怠けてはいけないよ。
-
 べんきょう を なまけて は いけない よ。
-
 You must not slack off your studies.
-
-適する [てきする]
-
+適する
+てきする
 suit, be suitable
-
 Verb
+1
 彼はこの仕事に適しています。
-
 かれ は この しごと に てきして います。
-
 He's suitable for this work.
-
-背広 [せびろ]
-
+背広
+せびろ
 business suit, business jacket
-
 Noun
+1
 背広をクリーニングに出しました。
-
 せびろ を クリーニング に だしました。
-
 I took my suit to the dry cleaner.
-
-親類 [しんるい]
-
+親類
+しんるい
 relatives (formal)
-
 Noun
+1
 彼は幼いときに親類に預けられたんだ。
-
 かれ は おさない とき に しんるい に あずけられた ん だ。
-
 He was put under the care of his relatives when he was little.
-
-展覧会 [てんらんかい]
-
+展覧会
+てんらんかい
 exhibition
-
 Noun
+1
 昨日、絵の展覧会に行ってきました。
-
 きのう、え の てんらん かい に いって きました。
-
 I went to an art exhibition yesterday.
-
-消極的 [しょうきょくてき]
-
+消極的
+しょうきょくてき
 negative, passive
-
 Adjectival Noun
+1
 消極的な人は成功しないよ。
-
 しょうきょくてきな ひと は せいこう しない よ。
-
 A passive person won't succeed.
-
-奨学金 [しょうがくきん]
-
+奨学金
+しょうがくきん
 scholarship
-
 Noun
+1
 彼女は奨学金で大学に行きました。
-
 かのじょ は しょうがくきん で だいがく に いきました。
-
 She went to university on a scholarship.
-
-大部分 [だいぶぶん]
-
+大部分
+だいぶぶん
 large part, good part
-
 Noun
+1
 絵の大部分が水に濡れてしまったな。
-
 え の だいぶぶん が みず に ぬれて しまった な。
-
 A large part of the picture got wet.
-
-苦心 [くしん]
-
+苦心
+くしん
 pains, efforts
-
 Verbal Noun
+1
 苦心して絵を描き上げました。
-
 くしん して え を かき あげました。
-
 I took pains to finish the painting.
-
-険しい [けわしい]
-
+険しい
+けわしい
 steep, rough
-
 Adjective
+1
 父の表情が険しくなったの。
-
 ちち の ひょうじょう が けわしく なった の。
-
 My father had a grim look on his face.
-
-校庭 [こうてい]
-
+校庭
+こうてい
 school field
-
 Noun
+1
 陸上部は校庭で練習しています。
-
 りくじょう ぶ は こうてい で れんしゅう して います。
-
 The track and field club is practicing in the school field.
-
-投書 [とうしょ]
-
+投書
+とうしょ
 letter to the editor
-
 Verbal Noun
+1
 その事件について新聞に投書したんだ。
-
 その じけん について しんぶん に とうしょ した ん だ。
-
 I sent a letter to the editor regarding the incident.
-
-受け持つ [うけもつ]
-
+受け持つ
+うけもつ
 be in charge of, teach
-
 Verb
+1
 1年生を受け持っています。
-
 1ねんせい を うけもって います。
-
 I teach the first graders.
-
-煙突 [えんとつ]
-
+煙突
+えんとつ
 chimney, smokestack
-
 Noun
+1
 工場の煙突から煙が上がっている。
-
 こうじょう の えんとつ から けむり が あがって いる。
-
 Smoke is rising from the factory smokestacks.
-
-交じる [まじる]
-
+交じる
+まじる
 be mingled, be mixed
-
 Verb
+1
 彼女は外国人に交じってダンスをしたの。
-
 かのじょ は がいこく じん に まじって ダンス を した の。
-
 She mingled with foreigners as she danced.
-
+ささやく
 ささやく
 whisper
-
 Verb
+1
 「この会議は退屈だ」と同僚が私にささやいたの。
-
 「この かいぎ は たいくつ だ」 と どうりょう が わたし に ささやいた の。
-
 "This meeting is boring," my colleague whispered to me.
-
-毛皮 [けがわ]
-
+毛皮
+けがわ
 fur
-
 Noun
+1
 彼女は毛皮のコートを着ていたの。
-
 かのじょ は けがわ の コート を きて いた の。
-
 She was wearing a fur coat.
-
+どっと
 どっと
 burst (out laughing etc.)
-
 Adverb
+1
 観衆がどっと笑ったんだ。
-
 かんしゅう が どっと わらった ん だ。
-
 The audience burst out laughing.
-
-割り算 [わりざん]
-
+割り算
+わりざん
 division (math)
-
 Verbal Noun
+1
 割り算は小学校で習います。
-
 わりざん は しょうがっこう で ならいます。
-
 Division is taught in elementary school.
-
-空手 [からて]
-
+空手
+からて
 karate
-
 Noun
+1
 彼は空手を習っています。
-
 かれ は からて を ならって います。
-
 He's learning karate.
-
-可 [か]
-
+可
+か
 permitted, OK
-
 Noun
+1
 このアルバイトは「学生可」ですね。
-
 この アルバイト は 「がくせい か」 です ね。
-
 Students can apply for this part-time job.
-
-会談 [かいだん]
-
+会談
+かいだん
 conversation, talk
-
 Verbal Noun
+1
 会談の内容が発表されました。
-
 かいだん の ないよう が はっぴょう されました。
-
 The topics of the talk have been announced.
-
-礼儀 [れいぎ]
-
+礼儀
+れいぎ
 good manners, courtesy
-
 Noun
+1
 彼女は礼儀が身に付いています。
-
 かのじょ は れいぎ が み に ついて います。
-
 She has good manners.
-
-見舞う [みまう]
-
+見舞う
+みまう
 visit someone sick
-
 Verb
+1
 昨日友人を見舞ったの。
-
 きのう ゆうじん を みまった の。
-
 I went to visit a friend in hospital yesterday.

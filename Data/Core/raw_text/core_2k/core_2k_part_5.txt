@@ -1,1668 +1,1100 @@
-出口 [でぐち]
-
+出口
+でぐち
 exit
-
 Noun
+2
 出口はあそこです。
-
 でぐち は あそこ です。
-
 The exit's over there.
-
 出口はどこですか。
-
 でぐち は どこ です か。
-
 Where is the exit?
-
-登る [のぼる]
-
+登る
+のぼる
 climb, ascend
-
 Verb
+2
 私たちは昨年、富士山に登りました。
-
 わたし たち は さくねん、ふじさん に のぼりました。
-
 We climbed Mount Fuji last year.
-
 私は山に登るのが好きです。
-
 わたし は やま に のぼる の が すき です。
-
 I like climbing mountains.
-
-真っ白 [まっしろ]
-
+真っ白
+まっしろ
 pure-white
-
 Adjectival Noun
+2
 外は雪で真っ白だった。
-
 そと は ゆき で まっしろ だった。
-
 Everything outside was white with snow.
-
 うちの猫は真っ白です。
-
 うち の ねこ は まっしろ です。
-
 Our cat is pure white.
-
-下ろす [おろす]
-
+下ろす
+おろす
 bring down, take down
-
 Verb
+2
 棚からその箱を下ろしてください。
-
 たな から その はこ を おろして ください。
-
 Please take the box down from the shelf.
-
 私の荷物も下ろしてもらえますか。
-
 わたし の にもつ も おろして もらえます か。
-
 Could you take down my baggage, too?
-
-貸し出す [かしだす]
-
+貸し出す
+かしだす
 lend, lend out
-
 Verb
+2
 その図書館は海外の雑誌も貸し出している。
-
 その としょかん は かいがい の ざっし も かしだして いる。
-
 That library lends out foreign magazines, too.
-
 そのお店はCDも貸し出しています。
-
 その おみせ は CD も かしだして います。
-
 The shop lends CDs, too.
-
+サッカー
 サッカー
 soccer, football
-
 Noun
+2
 彼はサッカーの選手です。
-
 かれ は サッカー の せんしゅ です。
-
 He's a soccer player.
-
 男の子たちがサッカーをしている。
-
 おとこのこ たち が サッカー を して いる 。
-
 The boys are playing soccer.
-
-暖房 [だんぼう]
-
+暖房
+だんぼう
 heating
-
 Verbal Noun
+2
 冬は暖房が必要です。
-
 ふゆ は だんぼう が ひつよう です。
-
 Heating is necessary in winter.
-
 寒いので、暖房をつけてください。
-
 さむい ので、だんぼう を つけて ください。
-
 It's cold, so please turn on the heating.
-
-手袋 [てぶくろ]
-
+手袋
+てぶくろ
 gloves
-
 Noun
+2
 寒いので手袋をしました。
-
 さむい ので てぶくろ を しました。
-
 I wore gloves because it was cold.
-
 この手袋はとても暖かいですよ。
-
 この てぶくろ は とても あたたかい です よ。
-
 These gloves are very warm.
-
-留守 [るす]
-
+留守
+るす
 not at home
-
 Noun
+2
 父は今、留守です。
-
 ちち は いま、るす です。
-
 My father isn't at home now.
-
 明日は一日留守にします。
-
 あした は いち にち るす に します。
-
 I won't be home all day tomorrow.
-
-嘘 [うそ]
-
+嘘
+うそ
 lie
-
 Noun
+2
 嘘をついてはいけません。
-
 うそ を ついて は いけません。
-
 Do not lie.
-
 彼女が嘘をついたので、彼は怒った。
-
 かのじょ が うそ を ついた ので、 かれ は おこった。
-
 He was angry because she lied to him.
-
-遠慮 [えんりょ]
-
+遠慮
+えんりょ
 restraint, hold back
-
 Verbal Noun
+2
 私は遠慮します。
-
 わたし は えんりょ します。
-
 No thanks, I'll pass.
-
 質問があったら遠慮なく聞いてください。
-
 しつもん が あったら えんりょ なく きいて ください。
-
 If you have questions, please don't hesitate to ask me.
-
-折る [おる]
-
+折る
+おる
 break (something), fold (something)
-
 Verb
+2
 祖父は足の骨を折りました。
-
 そふ は あし の ほね を おりました。
-
 My grandfather broke a bone in his foot.
-
 まずおり紙を半分に折ってください。
-
 まず おりがみ を はんぶん に おって ください。
-
 First, please fold the origami paper in half.
-
+スープ
 スープ
 soup
-
 Noun
+2
 母がコーンスープを作っている。
-
 はは が コーン スープ を つくって いる。
-
 My mother is making some corn chowder.
-
 このスープはとても熱い。
-
 この スープ は とても あつい。
-
 This soup is very hot.
-
+バナナ
 バナナ
 banana
-
 Noun
+2
 私は毎朝バナナを食べます。
-
 わたし は まいあさ バナナ を たべます。
-
 I eat a banana every morning.
-
 バナナが七本あります。
-
 バナナ が なな ほん あります。
-
 There are seven bananas.
-
-可哀相 [かわいそう]
-
+可哀相
+かわいそう
 poor, pitiful
-
 Adjectival Noun
+2
 その可哀相な子供たちは食べるものがない。
-
 その かわいそうな こども たち は たべる もの が ない。
-
 Those poor children have nothing to eat.
-
 母親がいないなんて、その子猫は可哀相だ。
-
 ははおや が いない なんて、その こ ねこ は かわいそう だ。
-
 It's pitiful that the kitten doesn't have a mother.
-
+パトカー
 パトカー
 police car
-
 Noun
+2
 あそこにパトカーがいる。
-
 あそこ に パトカー が いる。
-
 There's a police car over there.
-
 パトカーがバイクを追いかけてるぞ。
-
 パトカー が バイク を おいかけてる ぞ。
-
 A police car is chasing a motorcycle.
-
+ハンバーガー
 ハンバーガー
 hamburger
-
 Noun
+2
 今日の昼ご飯はハンバーガーでした。
-
 きょう の ひる ごはん は ハンバーガー でした。
-
 I had a hamburger for lunch today.
-
 私はハンバーガーを頼みました。
-
 わたし は ハンバーガー を たのみました。
-
 I ordered a hamburger.
-
-毛布 [もうふ]
-
+毛布
+もうふ
 blanket
-
 Noun
+2
 この毛布は暖かい。
-
 この もうふ は あたたかい。
-
 This blanket is warm.
-
 赤ちゃんに毛布をかけてあげました。
-
 あかちゃん に もうふ を かけて あげました。
-
 I put a blanket on the baby.
-
+エスカレーター
 エスカレーター
 escalator
-
 Noun
+2
 3階までエスカレーターで行きましょう。
-
 3 かい まで エスカレーター で いきましょう。
-
 Let's take the escalator up to the third floor.
-
 ベビーカーでエスカレーターに乗らないでください。
-
 ベビーカー で エスカレーター に のらないで ください。
-
 Please don't get on the escalator with a baby stroller.
-
-お嬢さん [おじょうさん]
-
+お嬢さん
+おじょうさん
 young lady, daughter
-
 Noun
+2
 お嬢さんはおいくつですか。
-
 おじょうさん は おいくつ です か。
-
 How old is your daughter?
-
 彼はお嬢さんと一緒でした。
-
 かれ は おじょうさん と いっしょ でした。
-
 He was with his daughter.
-
-手帳 [てちょう]
-
+手帳
+てちょう
 pocket notebook
-
 Noun
+2
 新しい手帳を買いました。
-
 あたらしい てちょう を かいました。
-
 I bought a new pocket notebook.
-
 彼はかばんに手帳を入れた。
-
 かれ は かばん に てちょう を いれた。
-
 He put the appointment book in his bag.
-
+タオル
 タオル
 towel
-
 Noun
+2
 私はタオルで顔をふいた。
-
 わたし は タオル で かお を ふいた。
-
 I wiped my face with a towel.
-
 彼は頭にタオルを巻いていた。
-
 かれ は あたま に タオル を まいて いた。
-
 He had a towel tied around his head.
-
-売店 [ばいてん]
-
+売店
+ばいてん
 booth, shop
-
 Noun
+2
 駅の売店で雑誌を買った。
-
 えき の ばいてん で ざっし を かった。
-
 I bought a magazine at a shop in the station.
-
 新聞はあそこの売店で売っています。
-
 しんぶん は あそこ の ばいてん で うって います。
-
 Newspapers are sold at the kiosk over there.
-
+パチンコ
 パチンコ
 pachinko (Japanese pinball)
-
 Noun
+2
 彼は毎日パチンコをしています。
-
 かれ は まいにち パチンコ を して います。
-
 He plays pachinko every day.
-
 私はパチンコの面白さが分かりません。
-
 わたし は パチンコ の おもしろさ が わかりません。
-
 I don't understand what's so fun about pachinko.
-
-謝る [あやまる]
-
+謝る
+あやまる
 apologize
-
 Verb
+2
 彼は直ぐに謝りました。
-
 かれ は すぐ に あやまりました。
-
 He apologized at once.
-
 悪いのはあなたです。謝ってください。
-
 わるい の は あなた です。あやまって ください。
-
 It's your fault. Please apologize.
-
+ケーキ
 ケーキ
 cake
-
 Noun
+2
 誕生日にケーキを食べました。
-
 たんじょうび に ケーキ を たべました。
-
 We ate cake on his birthday.
-
 このケーキは美味しいね。
-
 この ケーキ は おいしい ね。
-
 This cake is yummy.
-
-天気予報 [てんきよほう]
-
+天気予報
+てんきよほう
 weather forecast
-
 Noun
+2
 明日の天気予報は雨です。
-
 あした の てんき よほう は あめ です。
-
 Tomorrow's weather forecast is for rain.
-
 私は毎朝、天気予報を確認します。
-
 わたし は まいあさ、てんき よほう を かくにん します。
-
 I check the weather forecast every morning.
-
-変 [へん]
-
+変
+へん
 strange, weird
-
 Adjectival Noun
+2
 変な音が聞こえます。
-
 へんな おと が きこえます。
-
 I hear a strange sound.
-
 彼は最近、ちょっと変です。
-
 かれ は さいきん、ちょっと へん です。
-
 He's been a little weird lately.
-
-一生懸命 [いっしょうけんめい]
-
+一生懸命
+いっしょうけんめい
 hard-working, doing one's best
-
 Adjectival Noun
+2
 彼は毎日一生懸命働いている。
-
 かれ は まいにち いっしょうけんめい はたらいて いる。
-
 He works hard every day.
-
 皆一生懸命生きている。
-
 みな いっしょうけんめい いきて いる。
-
 They're all living their lives the best way that they can.
-
-間違う [まちがう]
-
+間違う
+まちがう
 make a mistake, be wrong
-
 Verb
+2
 あなたは間違っている。
-
 あなた は まちがって いる。
-
 You're wrong.
-
 この問題、間違っていますよ。
-
 この もんだい 、まちがって います よ。
-
 You got this problem wrong.
-
-事務室 [じむしつ]
-
+事務室
+じむしつ
 clerk's office, office room
-
 Noun
+2
 事務室でコピーを取ってきます。
-
 じむしつ で コピー を とって きます。
-
 I'm going to make copies in the office.
-
 彼は大学の事務室でアルバイトをしています。
-
 かれ は だいがく の じむしつ で アルバイト を して います。
-
 He has a part-time job at the university office.
-
+スーツ
 スーツ
 suit
-
 Noun
+2
 あのスーツはそんなに高くない。
-
 あの スーツ は そんな に たかくない。
-
 The suit is not that pricey.
-
 今日はスーツを着ています。
-
 きょう は スーツ を きて います。
-
 I'm wearing a suit today.
-
+チケット
 チケット
 ticket (loan word)
-
 Noun
+2
 この遊園地のチケットは3000円です。
-
 この ゆうえんち の チケット は 3000 えん です。
-
 A ticket for this amusement park is 3000 yen.
-
 チケットはもう売り切れだって。
-
 チケット は もう うりきれ だって。
-
 The tickets have sold out already.
-
+チョコレート
 チョコレート
 chocolate
-
 Noun
+2
 妹はチョコレートが大好きです。
-
 いもうと は チョコレート が だいすき です。
-
 My little sister loves chocolate.
-
 チョコレートとケーキを両方ください。
-
 チョコレート と ケーキ を りょうほう ください。
-
 I'll have both the chocolate and the cake, please.
-
-脱ぐ [ぬぐ]
-
+脱ぐ
+ぬぐ
 take off (clothes)
-
 Verb
+2
 靴を脱いでください。
-
 くつ を ぬいで ください。
-
 Please take off your shoes.
-
 暑いので上着を脱ぎました。
-
 あつい ので うわぎ を ぬぎました。
-
 I took my jacket off because it was hot.
-
-年賀状 [ねんがじょう]
-
+年賀状
+ねんがじょう
 New Year's card
-
 Noun
+2
 昨日、年賀状を出しました。
-
 きのう、ねんがじょう を だしました。
-
 I sent my New Year's cards yesterday.
-
 今年は年賀状を80通もらいました。
-
 ことし は ねんがじょう を 80 つう もらいました。
-
 I received 80 New Year's cards this year.
-
-乗り物 [のりもの]
-
+乗り物
+のりもの
 vehicle, transportation
-
 Noun
+2
 自転車は便利な乗り物です。
-
 じてんしゃ は べんりな のりもの です。
-
 Bicycles are a convenient form of transport.
-
 私の息子は乗り物のおもちゃが大好きです。
-
 わたし の むすこ は のりもの の おもちゃ が だいすき です。
-
 My son loves toy vehicles.
-
-布団 [ふとん]
-
+布団
+ふとん
 Japanese-style padded mattress
-
 Noun
+2
 母が布団を干している。
-
 はは が ふとん を ほして いる。
-
 My mother is airing the futons.
-
 布団がとても柔らかい。
-
 ふとん が とても やわらかい。
-
 The futon is very soft.
-
-役に立つ [やくにたつ]
-
+役に立つ
+やくにたつ
 be useful, be helpful
-
 Verb
+2
 私は人々の役に立ちたいと思っています。
-
 わたし は ひとびと の やくにたちたい と おもって います。
-
 I want to be of service to others.
-
 この辞書は全く役に立ちません。
-
 この じしょ は まったく やくにたちません。
-
 This dictionary is not useful at all.
-
-破れる [やぶれる]
-
+破れる
+やぶれる
 be torn, be ripped up
-
 Verb
+2
 シャツが破れている。
-
 シャツ が やぶれて いる。
-
 My shirt is ripped up.
-
 大切な本が破れてしまいました。
-
 たいせつな ほん が やぶれて しまいました。
-
 The important book was torn.
-
-用事 [ようじ]
-
+用事
+ようじ
 errand, business
-
 Noun
+2
 父は用事で出掛けています。
-
 ちち は ようじ で でかけて います。
-
 My father is out running errands.
-
 急に用事を思い出した。
-
 きゅう に ようじ を おもいだした。
-
 I suddenly remembered I have something to do.
-
-写す [うつす]
-
+写す
+うつす
 copy, photograph
-
 Verb
+2
 彼は友達の答えを写した。
-
 かれ は ともだち の こたえ を うつした。
-
 He copied his friend's answers.
-
 黒板の漢字をノートに写してください。
-
 こくばん の かんじ を ノート に うつして ください。
-
 Please copy the Kanji characters on the blackboard.
-
-腕時計 [うでどけい]
-
+腕時計
+うでどけい
 wrist watch
-
 Noun
+2
 私の腕時計は遅れている。
-
 わたし の うでどけい は おくれて いる。
-
 My watch is running slow.
-
 私は腕時計を四つ持っています。
-
 わたし は うでどけい を よっつ もって います。
-
 I have four wristwatches.
-
-贈り物 [おくりもの]
-
+贈り物
+おくりもの
 present, gift
-
 Noun
+2
 すてきな贈り物をどうもありがとう。
-
 すてきな おくりもの を どうも ありがとう。
-
 Thank you for the wonderful gift.
-
 このワインは贈り物にいいですよ。
-
 この ワイン は おくりもの に いい です よ。
-
 This wine is good as a gift.
-
+チャンネル
 チャンネル
 channel
-
 Noun
+2
 テレビのチャンネルを変えてください。
-
 テレビ の チャンネル を かえて ください。
-
 Please change the TV channel.
-
 そのドラマは何チャンネルですか。
-
 その ドラマ は なん チャンネル です か。
-
 What channel is the drama on?
-
-冷やす [ひやす]
-
+冷やす
+ひやす
 chill (something), cool down
-
 Verb
+2
 頭を冷やしなさい。
-
 あたま を ひやしなさい。
-
 Cool down.
-
 ビールを冷やしておきました。
-
 ビール を ひやして おきました。
-
 I chilled beer.
-
-片付ける [かたづける]
-
+片付ける
+かたづける
 put in order, clean up
-
 Verb
+2
 早く部屋を片付けなさい。
-
 はやく へや を かたづけなさい。
-
 Hurry and clean up your room.
-
 テーブルのお皿を片付けてください。
-
 テーブル の おさら を かたづけて ください。
-
 Please clear the dishes on the table.
-
-乾杯 [かんぱい]
-
+乾杯
+かんぱい
 toast, drink (in celebration)
-
 Verbal Noun
+2
 お二人の未来に乾杯しましょう。
-
 おふたり の みらい に かんぱい しましょう。
-
 Let's give a toast to the couple's future.
-
 私は結婚式で乾杯の挨拶をしました。
-
 わたし は けっこん しき で かんぱい の あいさつ を しました。
-
 I made a toast at the wedding.
-
-停車 [ていしゃ]
-
+停車
+ていしゃ
 stop (of a train)
-
 Verbal Noun
+2
 この電車は東京まで停車いたしません。
-
 この でんしゃ は とうきょう まで ていしゃ いたしません。
-
 This train won't stop until it reaches Tokyo.
-
 次の停車駅は品川です。
-
 つぎ の ていしゃ えき は しながわ です。
-
 The next stop is Shinagawa.
-
-鳴く [なく]
-
+鳴く
+なく
 sing, cry (of animals)
-
 Verb
+2
 どこかで猫が鳴いている。
-
 どこ か で ねこ が ないて いる。
-
 A cat is meowing somewhere.
-
 その鶏は毎朝鳴きます。
-
 その にわとり は まいあさ なきます。
-
 The rooster crows every morning.
-
+ガソリンスタンド
 ガソリンスタンド
 gas station
-
 Noun
+2
 この近くにガソリンスタンドはありますか。
-
 この ちかく に ガソリン スタンド は あります か。
-
 Is there a gas station nearby?
-
 あのガソリンスタンドにはコンビニもあります。
-
 あの ガソリン スタンド に は コンビニ も あります。
-
 There is also a convenience store at the gas station.
-
-片道 [かたみち]
-
+片道
+かたみち
 one way (trip)
-
 Noun
+2
 東京まで片道切符を買った。
-
 とうきょう まで かたみち きっぷ を かった。
-
 I bought a one-way ticket to Tokyo.
-
 大阪までバスだと片道4,000円です。
-
 おおさか まで バス だ と かたみち 4,000 えん です。
-
 One way to Osaka by bus costs 4,000 yen.
-
-交番 [こうばん]
-
+交番
+こうばん
 police box
-
 Noun
+2
 あそこの交番で道を聞きましょう。
-
 あそこ の こうばん で みち を ききましょう。
-
 Let's ask for directions at that police box.
-
 駅前に交番があります。
-
 えき まえ に こうばん が あります 。
-
 There is a police box in front of the station.
-
-大分 [だいぶ]
-
+大分
+だいぶ
 greatly, fairly, highly
-
 Adverb
+2
 大分ピアノが上手くなりました。
-
 だいぶ ピアノ が うまく なりました。
-
 You've become fairly good at the piano.
-
 大分早く着きましたね。
-
 だいぶ はやく つきました ね。
-
 We arrived fairly early.
-
+デート
 デート
 date, romantic meeting
-
 Verbal Noun
+2
 デートで遊園地に行きました。
-
 デート で ゆうえんち に いきました。
-
 I went to an amusement park on a date.
-
 初めてのデートはとても緊張しました。
-
 はじめて の デート は とても きんちょう しました。
-
 I was very nervous on my first date.
-
-梅雨 [つゆ]
-
+梅雨
+つゆ
 rainy season
-
 Noun
+2
 梅雨は6月頃です。
-
 つゆ は 6 がつ ごろ です。
-
 The rainy season comes around June.
-
 今年の梅雨はあまり雨が降りませんでした。
-
 ことし の つゆ は あまり あめ が ふりません でした。
-
 It didn't rain a lot this rainy season.
-
-真っ直ぐ [まっすぐ]
-
+真っ直ぐ
+まっすぐ
 straight
-
 Adverb
+2
 この道を真っ直ぐ行ってください。
-
 この みち を まっすぐ いって ください。
-
 Please go straight along this road.
-
 この道を真っ直ぐ行くと駅です。
-
 この みち を まっすぐ いく と えき です。
-
 Go straight along this street to get to the station.
-
+レモン
 レモン
 lemon
-
 Noun
+2
 紅茶にレモンを入れて飲んだ。
-
 こうちゃ に レモン を いれて のんだ。
-
 I put lemon in my tea and drank it.
-
 最後に、魚の上にレモンを乗せてください。
-
 さいご に、さかな の うえ に レモン を のせて ください。
-
 At the end, place a lemon (slice) on the fish.
-
-上着 [うわぎ]
-
+上着
+うわぎ
 outerwear, coat, jacket
-
 Noun
+2
 暑いので上着を脱ぎました。
-
 あつい ので うわぎ を ぬぎました。
-
 I took my jacket off because it was hot.
-
 夜、寒くなるので上着を持っていきなさい。
-
 よる、さむく なる ので うわぎ を もって いきなさい。
-
 It will be cold at night, so take your jacket with you.
-
-偉い [えらい]
-
+偉い
+えらい
 great, eminent
-
 Adjective
+2
 彼は偉い学者です。
-
 かれ は えらい がくしゃ です。
-
 He's a great scholar.
-
 毎日一生懸命勉強して偉いね。
-
 まいにち いっしょうけんめい べんきょう して えらい ね。
-
 You are great for studying hard every day.
-
-書き方 [かきかた]
-
+書き方
+かきかた
 how to write, way of writing
-
 Noun
+2
 彼はその漢字の書き方が分からない。
-
 かれ は その かんじ の かき かた が わからない。
-
 He doesn't know how to write that Chinese character.
-
 その字の書き方は間違っていますよ。
-
 その じ の かきかた は まちがって います よ。
-
 The way of you are writing the letter is wrong.
-
-炊く [たく]
-
+炊く
+たく
 cook (rice)
-
 Verb
+2
 母は毎朝ご飯を炊く。
-
 はは は まいあさ ごはん を たく。
-
 My mother cooks rice every morning.
-
 ご飯と一緒にとり肉を炊きました。
-
 ごはん と いっしょ に とりにく を たきました。
-
 I cooked chicken with rice.
-
+チーズ
 チーズ
 cheese
-
 Noun
+2
 チーズを一切れ食べました。
-
 チーズ を ひと きれ たべました。
-
 I ate a slice of cheese.
-
 ワインとチーズはよく合います。
-
 ワイン と チーズ は よく あいます。
-
 Wine and cheese go well together.
-
+ドライブ
 ドライブ
 drive (loan word)
-
 Verbal Noun
+2
 今日は群馬までドライブしました。
-
 きょう は ぐんま まで ドライブ しました。
-
 I drove to Gunma today.
-
 どこかへドライブに行きませんか。
-
 どこ か へ ドライブ に いきません か。
-
 Why don't we go for a drive somewhere?
-
-踏切 [ふみきり]
-
+踏切
+ふみきり
 railroad crossing
-
 Noun
+2
 その踏切は長い。
-
 その ふみきり は ながい。
-
 You have to expect a long wait at this railroad crossing.
-
 この踏切は全然開きません。
-
 この ふみきり は ぜんぜん あきません。
-
 This railroad crossing doesn't open at all.
-
+ラケット
 ラケット
 racket
-
 Noun
+2
 テニスのラケットを買いました。
-
 テニス の ラケット を かいました。
-
 I bought a tennis racket.
-
 ラケットのガットが切れてしまいました。
-
 ラケット の ガット が きれて しまいました。
-
 A string of the racket got cut.
-
-受付 [うけつけ]
-
+受付
+うけつけ
 receptionist, information office
-
 Noun
+2
 受付は9時からです。
-
 うけつけ は 9 じ から です。
-
 Registration starts from nine o'clock.
-
 受付はこちらです。
-
 うけつけ は こちら です。
-
 The reception desk is this way.
-
-怒る [おこる]
-
+怒る
+おこる
 get angry, scold
-
 Verb
+2
 彼女が嘘をついたので、彼は怒った。
-
 かのじょ が うそ を ついた ので、かれ は おこった。
-
 He was angry because she lied to him.
-
 彼女はめったに怒りません。
-
 かのじょ は めった に おこりません。
-
 She rarely gets angry.
-
-化粧 [けしょう]
-
+化粧
+けしょう
 makeup
-
 Verbal Noun
+2
 彼女は化粧が上手い。
-
 かのじょ は けしょう が うまい。
-
 She's good at makeup.
-
 彼女は化粧の時間が長過ぎる。
-
 かのじょ は けしょう の じかん が ながすぎる。
-
 She spends too much time on makeup.
-
-都合 [つごう]
-
+都合
+つごう
 convenience, availability
-
 Noun
+2
 今日は都合が悪くて行けません。
-
 きょう は つごう が わるくて いけません。
-
 I'm not available today.
-
 来週の日曜日なら都合がつきます。
-
 らいしゅう の にちようび なら つごう が つきます。
-
 I can be available next Sunday.
-
+ひげ
 ひげ
 beard, moustache
-
 Noun
+2
 父はひげをはやしています。
-
 ちち は ひげ を はやして います。
-
 My father's growing a beard.
-
 猫のひげは切ってはいけません。
-
 ねこ の ひげ は きって は いけません。
-
 You must not cut cat whiskers.
-
-本棚 [ほんだな]
-
+本棚
+ほんだな
 bookshelf, bookcase
-
 Noun
+2
 これはとても大きな本棚ですね。
-
 これ は とても おおきな ほんだな です ね。
-
 This is a very big bookshelf.
-
 日曜日に本棚を組み立てます。
-
 にちようび に ほんだな を くみたてます。
-
 I'll build and set up the bookshelf on Sunday.
-
-真っ暗 [まっくら]
-
+真っ暗
+まっくら
 pitch-dark
-
 Adjectival Noun
+2
 外は真っ暗です。
-
 そと は まっくら です。
-
 It's pitch-dark outside.
-
 彼は真っ暗な部屋でテレビを見ていました。
-
 かれ は まっくらな へや で テレビ を みて いました。
-
 He was watching TV in a dark room.
-
-沸く [わく]
-
+沸く
+わく
 boil, get loud (crowd applause etc.)
-
 Verb
+2
 お風呂が沸きました。
-
 おふろ が わきました。
-
 The bath is ready.
-
 お湯が沸いたので、コーヒーを入れます。
-
 おゆ が わいた ので、コーヒー を いれます。
-
 The water has boiled, so I'll make coffee.
-
-売り切れる [うりきれる]
-
+売り切れる
+うりきれる
 sell out, go out of stock
-
 Verb
+2
 その本は直ぐ売り切れた。
-
 その ほん は すぐ うりきれた。
-
 The books sold out quickly.
-
 Mサイズは売り切れてしまいました。
-
 M サイズ は うりきれて しまいました。
-
 The medium size has sold out.
-
-押し入れ [おしいれ]
-
+押し入れ
+おしいれ
 sliding-door closet
-
 Noun
+2
 布団を押し入れにしまいました。
-
 ふとん を おしいれ に しまいました。
-
 I put my futon in the closet.
-
 古い本は押し入れに入っています。
-
 ふるい ほん は おしいれ に はいって います。
-
 The old books are in the sliding-door closet.
-
-革 [かわ]
-
+革
+かわ
 leather
-
 Noun
+2
 革のベルトを買いました。
-
 かわ の ベルト を かいました。
-
 I bought a leather belt.
-
 その革のジャケット、かっこいいですね。
-
 その かわ の ジャケット、かっこいい です ね。
-
 The leather jacket is cool.
-
+ぐっすり
 ぐっすり
 soundly
-
 Adverb
+2
 赤ちゃんがぐっすり寝ている。
-
 あかちゃん が ぐっすり ねて いる。
-
 The baby's sleeping soundly.
-
 昨日はぐっすり眠れました。
-
 きのう は ぐっすり ねむれました。
-
 I slept well last night.
-
-紅茶 [こうちゃ]
-
+紅茶
+こうちゃ
 black tea
-
 Noun
+2
 温かい紅茶が飲みたい。
-
 あたたかい こうちゃ が のみたい。
-
 I want to drink hot tea.
-
 紅茶にレモンを入れて飲んだ。
-
 こうちゃ に レモン を いれて のんだ。
-
 I put lemon in my tea and drank it.
-
-邪魔 [じゃま]
-
+邪魔
+じゃま
 disturbance, blocking
-
 Adjectival Noun
+2
 邪魔です、どいてください。
-
 じゃま です、どいて ください。
-
 You're blocking my way, so please move.
-
 私の邪魔をしないでください。
-
 わたし の じゃま を しないで ください。
-
 Please don't disturb me.
-
+ソース
 ソース
 sauce
-
 Noun
+2
 ソースはどれですか。
-
 ソース は どれ です か。
-
 Which is the sauce?
-
 今日はトマトソースをたくさん作りました。
-
 きょう は トマト ソース を たくさん つくりました。
-
 I made a lot of tomato sauce today.
-
-足す [たす]
-
+足す
+たす
 add (things of the same kind)
-
 Verb
+2
 母は味噌汁に水を足した。
-
 はは は みそしる に みず を たした。
-
 My mother added water to the miso soup.
-
 もう少し醤油を足してください。
-
 もう すこし しょうゆ を たして ください。
-
 Please add a little more soy sauce.
-
+トマト
 トマト
 tomato
-
 Noun
+2
 私はトマトが大好きです。
-
 わたし は トマト が だいすき です。
-
 I love tomatoes.
-
 今日はトマトソースをたくさん作りました。
-
 きょう は トマト ソース を たくさん つくりました。
-
 I made a lot of tomato sauce today.
-
+バター
 バター
 butter
-
 Noun
+2
 パンにバターをぬって食べました。
-
 パン に バター を ぬって たべました。
-
 I spread some butter on the bread and ate it.
-
 私はカレーにバターを入れます。
-
 わたし は カレー に バター を いれます。
-
 I put butter in curry.
-
-発車 [はっしゃ]
-
+発車
+はっしゃ
 departure (of a vehicle)
-
 Verbal Noun
+2
 バスが発車します。
-
 バス が はっしゃ します。
-
 The bus is leaving.
-
 この電車はあと5分で発車します。
-
 この でんしゃ は あと 5 ふん で はっしゃ します。
-
 This train leaves in five minutes.
-
+バレーボール
 バレーボール
 volleyball
-
 Noun
+2
 妹はバレーボールが得意です。
-
 いもうと は バレーボール が とくい です。
-
 My little sister is good at volleyball.
-
 今日、学校の休み時間にバレーボールをしました。
-
 きょう、がっこう の やすみ じかん に バレーボール を しました。
-
 Today I played volleyball during recess at school.
-
+おかず
 おかず
 dishes to go with the rice
-
 Noun
+2
 晩ご飯のおかずは何？
-
 ばん ごはん の おかず は なに？
-
 What are we having for dinner?
-
 今日のお弁当のおかずはハンバーグでした。
-
 きょう の おべんとう の おかず は ハンバーグ でした。
-
 Today's dish to go with rice was a hamburger steak.
-
+カレンダー
 カレンダー
 calendar
-
 Noun
+2
 カレンダーに予定を書いた。
-
 カレンダー に よてい を かいた。
-
 I wrote my schedule on the calendar.
-
 もう来年のカレンダーを売ってますね。
-
 もう らいねん の カレンダー を うって ます ね。
-
 Calendars for the next year are already on sale.
-
+とにかく
 とにかく
 in any case, anyway
-
 Adverb
+2
 とにかく現場へ行ってみましょう。
-
 とにかく げんば へ いって みましょう。
-
 Anyway, let's go to the site.
-
 とにかく、私の話を最後まで聞いてください。
-
 とにかく、わたし の はなし を さいご まで きいて ください。
-
 Anyways, please listen to me to the end.
-
-楽しみ [たのしみ]
-
+楽しみ
+たのしみ
 enjoyment, something looked forward to
-
 Noun
+2
 旅行は父の老後の楽しみです。
-
 りょこう は ちち の ろうご の たのしみ です。
-
 My father looks forward to traveling in his old age.
-
 彼女のいちばんの楽しみはショッピングです。
-
 かのじょ の いちばん の たのしみ は ショッピング です。
-
 Her greatest pleasure is shopping.
-
+おしゃべり
 おしゃべり
 chatter, idle talk
-
 Noun
+2
 彼女たちはおしゃべりに夢中です。
-
 かのじょ たち は おしゃべり に むちゅう です 。
-
 Those women are absorbed in conversation.
-
 母は外で友達のお母さんとおしゃべりしてます。
-
 はは は そと で ともだち の おかあさん と おしゃべり してます。
-
 My mother is chatting with my friend's mother outside.
-
-読書 [どくしょ]
-
+読書
+どくしょ
 reading books
-
 Verbal Noun
+2
 私の趣味は読書です。
-
 わたし の しゅみ は どくしょ です。
-
 My hobby is reading.
-
 秋は読書の季節と言われています。
-
 あき は どくしょ の きせつ と いわれて います。
-
 Fall is said to be a season for reading.
-
-寒気 [さむけ]
-
+寒気
+さむけ
 chill
-
 Noun
+2
 何だか寒気がします。
-
 なんだか さむけ が します。
-
 I feel chilly somehow.
-
 昨日は熱が高くて寒気がしました。
-
 きのう は ねつ が たかくて さむけ が しました。
-
 Yesterday I had a high fever and the chills.
-
-夕焼け [ゆうやけ]
-
+夕焼け
+ゆうやけ
 sunset glow
-
 Noun
+2
 今日は夕焼けがきれいです。
-
 きょう は ゆうやけ が きれい です。
-
 The sunset glow is beautiful today.
-
 夕焼けで富士山が赤く見えた。
-
 ゆうやけ で ふじさん が あかく みえた。
-
 Mt. Fuji looked red in the sunset.
-
-痛める [いためる]
-
+痛める
+いためる
 damage, hurt
-
 Verb
+2
 彼は柔道で腰を痛めたんだ。
-
 かれ は じゅうどう で こし を いためた ん だ 。
-
 He hurt his lower back doing judo.
-
 スキーでひざを痛めました。
-
 スキー で ひざ を いためました。
-
 I hurt my knee when skiing.
-
+くすぐったい
 くすぐったい
 ticklish
-
 Adjective
+2
 犬に顔をなめられてくすぐったいよ。
-
 いぬ に かお を なめられて くすぐったい よ。
-
 It tickles to have my face licked by a dog.
-
 くすぐったいから足の裏を触らないで。
-
 くすぐったい から あし の うら を さわらないで。
-
 Don't touch my soles because it tickles.
-
-泥棒 [どろぼう]
-
+泥棒
+どろぼう
 thief, burglar
-
 Verbal Noun
+2
 近所に泥棒が入った。
-
 きんじょ に どろぼう が はいった。
-
 There was a burglary in the neighborhood.
-
 泥棒にカーナビを盗まれました。
-
 どろぼう に カーナビ を ぬすまれました。
-
 My car navigation system was stolen by a thief.
-
-襖 [ふすま]
-
+襖
+ふすま
 paper sliding door
-
 Noun
+2
 襖を閉めてください。
-
 ふすま を しめて ください。
-
 Please close the paper sliding door.
-
 蹴ったら襖が破れてしまいました。
-
 けったら ふすま が やぶれて しまいました。
-
 The paper sliding door broke when I kicked it.
-
-美人 [びじん]
-
+美人
+びじん
 beautiful woman
-
 Noun
+2
 彼のお母さんは美人です。
-
 かれ の おかあさん は びじん です。
-
 His mother's a beautiful woman.
-
 彼は美人さんが大好きです。
-
 かれ は びじん さん が だいすき です。
-
 He loves beautiful women.
-
+タイプライター
 タイプライター
 typewriter
-
 Noun
+2
 母は古いタイプライターを持っています。
-
 はは は ふるい タイプライター を もって います。
-
 My mother has an old typewriter.
-
 今、タイプライターを使っている人はほとんどいません。
-
 いま、 タイプライター を つかって いる ひと は ほとんど いません。
-
 There is almost no one who uses a typewriter now.

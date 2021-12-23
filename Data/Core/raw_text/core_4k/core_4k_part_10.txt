@@ -1,1092 +1,800 @@
-通行 [つうこう]
-
+通行
+つうこう
 passage, traffic
-
 Verbal Noun
+1
 この道は通行できません。
-
 この みち は つうこう できません。
-
 This is an impassable road.
-
-書物 [しょもつ]
-
+書物
+しょもつ
 book, written stuff
-
 Noun
+1
 彼は書物に囲まれて生活しているの。
-
 かれ は しょもつ に かこまれて せいかつ して いる の。
-
 He leads a life surrounded by books.
-
-都心 [としん]
-
+都心
+としん
 heart of a city, urban area
-
 Noun
+1
 彼は都心に住んでいます。
-
 かれ は としん に すんで います。
-
 He lives in the urban area of the city.
-
-永久 [えいきゅう]
-
+永久
+えいきゅう
 permanence, eternity
-
 Adjectival Noun
+1
 彼は永久に帰らぬ人となったのよ。
-
 かれ は えいきゅう に かえらぬ ひと と なった の よ。
-
 He's become a person who will not return (to this world) for good. (He passed away.)
-
-交際 [こうさい]
-
+交際
+こうさい
 association, dating
-
 Verbal Noun
+1
 彼はモデルと交際していたんだ。
-
 かれ は モデル と こうさい して いた ん だ。
-
 He was dating a model.
-
+パイプ
 パイプ
 pipe
-
 Noun
+1
 このパイプは詰まっていますよ。
-
 この パイプ は つまって います よ。
-
 This pipe is clogged.
-
+よそ
 よそ
 somewhere else, not one's own
-
 Noun
+1
 夕食はよそでごちそうになりました。
-
 ゆうしょく は よそ で ごちそう に なりました。
-
 I was treated to dinner out.
-
-集まり [あつまり]
-
+集まり
+あつまり
 gathering, meeting
-
 Noun
+1
 今日、テニス部の集まりがあった。
-
 きょう、 テニス ぶ の あつまり が あった。
-
 There was a gathering for the tennis club today.
-
-特色 [とくしょく]
-
+特色
+とくしょく
 characteristic, uniqueness
-
 Noun
+1
 その学校の教育は特色がありますね。
-
 その がっこう の きょういく は とくしょく が あります ね。
-
 The school has a unique educational system.
-
-出入り [でいり]
-
+出入り
+でいり
 coming and going
-
 Verbal Noun
+1
 彼の家は人の出入りが多いね。
-
 かれ の いえ は ひと の でいり が おおい ね。
-
 There are a lot of people going in and out his house.
-
-器具 [きぐ]
-
+器具
+きぐ
 equipment, instrument
-
 Noun
+1
 これはスポーツ施設用の器具です。
-
 これ は スポーツ しせつ よう の きぐ です。
-
 This equipment is for the sports facility.
-
-痛む [いたむ]
-
+痛む
+いたむ
 feel pain, hurt
-
 Verb
+1
 虫歯がずきずき痛みます。
-
 むしば が ずきずき いたみます。
-
 My cavity hurts really badly.
-
-頭痛 [ずつう]
-
+頭痛
+ずつう
 headache
-
 Noun
+1
 今日は頭痛がします。
-
 きょう は ずつう が します。
-
 I have a headache today.
-
-唇 [くちびる]
-
+唇
+くちびる
 lip
-
 Noun
+1
 寒くて唇が青くなってしまった。
-
 さむくて くちびる が あおく なって しまった。
-
 My lips have turned blue with cold.
-
-通路 [つうろ]
-
+通路
+つうろ
 pathway, aisle
-
 Noun
+1
 通路の右側にトイレがありますよ。
-
 つうろ の みぎ がわ に トイレ が あります よ。
-
 There's a restroom on the right side of the aisle.
-
-食物 [しょくもつ]
-
+食物
+しょくもつ
 food (mainly in writing)
-
 Noun
+1
 人間にとって水は食物より大切なの。
-
 にんげん にとって みず は しょくもつ より たいせつな の。
-
 For humans, water is more important than food.
-
-体操 [たいそう]
-
+体操
+たいそう
 gymnastics, physical exercise
-
 Noun
+1
 兄は体操の選手です。
-
 あに は たいそう の せんしゅ です。
-
 My big brother's a gymnast.
-
-社説 [しゃせつ]
-
+社説
+しゃせつ
 editorial
-
 Noun
+1
 この新聞の社説は面白いね。
-
 この しんぶん の しゃせつ は おもしろい ね。
-
 The editorial in this newspaper is interesting.
-
-芽 [め]
-
+芽
+め
 bud, sprout
-
 Noun
+1
 チューリップの芽が出ました。
-
 チューリップ の め が でました。
-
 The tulip buds have sprouted.
-
-火山 [かざん]
-
+火山
+かざん
 volcano
-
 Noun
+1
 昨日火山が爆発したの。
-
 きのう かざん が ばくはつ した の。
-
 There was a volcano eruption yesterday.
-
-冷凍 [れいとう]
-
+冷凍
+れいとう
 freeze, frozen
-
 Verbal Noun
+1
 残ったカレーを冷凍しました。
-
 のこった カレー を れいとう しました。
-
 I froze the left-over curry.
-
+パイロット
 パイロット
 pilot
-
 Noun
+1
 彼はパイロットです。
-
 かれ は パイロット です。
-
 He's a pilot.
-
-一昨年 [いっさくねん]
-
+一昨年
+いっさくねん
 the year before last (formal)
-
 Noun
+1
 大学卒業は一昨年です。
-
 だいがく そつぎょう は いっさくねん です。
-
 I graduated from university two years ago.
-
-明ける [あける]
-
+明ける
+あける
 dawn, end
-
 Verb
+1
 もうすぐ夜が明けるね。
-
 もう すぐ よ が あける ね。
-
 Dawn will break soon.
-
-救助 [きゅうじょ]
-
+救助
+きゅうじょ
 rescue, save
-
 Verbal Noun
+1
 プールで男の子が救助されました。
-
 プール で おとこのこ が きゅうじょ されました。
-
 A boy was rescued in the swimming pool.
-
-決心 [けっしん]
-
+決心
+けっしん
 determination, resolution
-
 Verbal Noun
+1
 今度こそタバコをやめる決心をしました。
-
 こんど こそ タバコ を やめる けっしん を しました。
-
 This time I'm determined to quit smoking.
-
-空中 [くうちゅう]
-
+空中
+くうちゅう
 in the air, in the sky
-
 Noun
+1
 ちょうちょうが空中を舞っています。
-
 ちょうちょう が くうちゅう を まって います。
-
 Butterflies are flying in the air.
-
-荒れる [あれる]
-
+荒れる
+あれる
 be wild, get rough
-
 Verb
+1
 台風で山も海も荒れています。
-
 たいふう で やま も うみ も あれて います。
-
 The weather in the typhoon is rough both on the mountains and in the ocean.
-
-隅 [すみ]
-
+隅
+すみ
 corner
-
 Noun
+1
 部屋の隅に椅子が積んであったの。
-
 へや の すみ に いす が つんで あった の。
-
 There was a pile of chairs on the corner of the room.
-
-無数 [むすう]
-
+無数
+むすう
 countless, innumerable
-
 Noun
+1
 宇宙には無数の星があります。
-
 うちゅう に は むすう の ほし が あります。
-
 There are countless stars in space.
-
-間隔 [かんかく]
-
+間隔
+かんかく
 interval, space
-
 Noun
+1
 電車は5分間隔で来ますよ。
-
 でんしゃ は 5 ふん かんかく で きます よ。
-
 The train comes every five minutes.
-
-要旨 [ようし]
-
+要旨
+ようし
 overview, summary
-
 Noun
+1
 会議の要旨は次のとおりです。
-
 かいぎ の ようし は つぎ の とおり です。
-
 The overview of the meeting is as follows.
-
-餅 [もち]
-
+餅
+もち
 rice cake
-
 Noun
+1
 正月には餅を食べますよ。
-
 しょうがつ に は もち を たべます よ。
-
 We eat rice cakes during the New Year's holiday.
-
-相撲 [すもう]
-
+相撲
+すもう
 Japanese-style wrestling
-
 Noun
+1
 相撲取りはたいてい体がとても大きいね。
-
 すもうとり は たいてい からだ が とても おおきい ね。
-
 Sumo wrestlers are usually very big.
-
-斜め [ななめ]
-
+斜め
+ななめ
 diagonal, slant
-
 Adjectival Noun
+1
 ここに斜めに線を引いてください。
-
 ここ に ななめ に せん を ひいて ください。
-
 Please draw a diagonal line here.
-
-傾く [かたむく]
-
+傾く
+かたむく
 decline, go down
-
 Verb
+1
 お日様が西に傾きましたね。
-
 おひさま が にし に かたむきました ね。
-
 The sun went down in the west.
-
+モダン
 モダン
 modern
-
 Adjectival Noun
+1
 あの建物はモダンだね。
-
 あの たてもの は モダン だ ね。
-
 That building has a modern design.
-
-名詞 [めいし]
-
+名詞
+めいし
 noun
-
 Noun
+1
 「学校」は名詞です。
-
 「がっこう」 は めいし です。
-
 "School" is a noun.
-
-離す [はなす]
-
+離す
+はなす
 set (something) apart, let go (of)
-
 Verb
+1
 子供の手を離さないでください。
-
 こども の て を はなさない で ください。
-
 Don't let go of your child's hand.
-
-休業 [きゅうぎょう]
-
+休業
+きゅうぎょう
 suspension of a business operation
-
 Verbal Noun
+1
 明日は臨時に休業します。
-
 あした は りんじ に きゅうぎょう します。
-
 We'll be temporarily closed tomorrow.
-
-立ち止まる [たちどまる]
-
+立ち止まる
+たちどまる
 stop, halt
-
 Verb
+1
 人々は立ち止まって上を見上げたの。
-
 ひとびと は たちどまって うえ を みあげた の。
-
 People stopped and looked up.
-
-強盗 [ごうとう]
-
+強盗
+ごうとう
 robbery, burglar
-
 Noun
+1
 強盗がカメラに写っていました。
-
 ごうとう が カメラ に うつって いました。
-
 The burglar was caught on a camera.
-
-次ぐ [つぐ]
-
+次ぐ
+つぐ
 rank next, come next
-
 Verb
+1
 彼はトップに次ぐ好成績でした。
-
 かれ は トップ に つぐ こう せいせき でした。
-
 His excellent results were next to the top.
-
-半島 [はんとう]
-
+半島
+はんとう
 peninsula
-
 Noun
+1
 台風がその半島を通過したの。
-
 たいふう が その はんとう を つうか した の。
-
 The typhoon passed over the peninsula.
-
-地名 [ちめい]
-
+地名
+ちめい
 name of a place
-
 Noun
+1
 その地名は聞いたことがないな。
-
 その ちめい は きいた こと が ない な。
-
 I've never heard of that place.
-
-液体 [えきたい]
-
+液体
+えきたい
 liquid form
-
 Noun
+1
 洗濯に液体の洗剤を使っています。
-
 せんたく に えきたい の せんざい を つかって います。
-
 I use liquid detergent for washing clothes.
-
-動詞 [どうし]
-
+動詞
+どうし
 verb
-
 Noun
+1
 「食べる」は動詞です。
-
 「たべる」 は どうし です。
-
 "Eat" is a verb.
-
-先祖 [せんぞ]
-
+先祖
+せんぞ
 forefather, ancestor
-
 Noun
+1
 神道では先祖を大切にします。
-
 しんとう で は せんぞ を たいせつ に します。
-
 In Shintoism we worship our ancestors.
-
-頬 [ほお]
-
+頬
+ほお
 cheek (common reading)
-
 Noun
+1
 彼女はほおを赤く染めたわ。
-
 かのじょ は ほお を あかく そめた わ。
-
 Her cheeks flushed.
-
-満員 [まんいん]
-
+満員
+まんいん
 full to capacity
-
 Noun
+1
 このバスは満員です。
-
 この バス は まんいん です。
-
 This bus is full.
-
-広める [ひろめる]
-
+広める
+ひろめる
 spread (information etc.), make (something) known
-
 Verb
+1
 誰が噂を広めたんだろう。
-
 だれ が うわさ を ひろめた ん だろう。
-
 I wonder who spread the rumor.
-
-転がる [ころがる]
-
+転がる
+ころがる
 roll over
-
 Verb
+1
 猫は砂の上で転がったんだ。
-
 ねこ は すな の うえ で ころがった ん だ。
-
 The cat rolled over on the sand.
-
-子孫 [しそん]
-
+子孫
+しそん
 descendant, offspring
-
 Noun
+1
 彼は織田信長の子孫だよ。
-
 かれ は おだ のぶなが の しそん だ よ。
-
 He is a descendant of Oda Nobunaga.
-
-曲線 [きょくせん]
-
+曲線
+きょくせん
 curve, curved line
-
 Noun
+1
 この道は、ゆるい曲線を描いているよ。
-
 この みち は、ゆるい きょくせん を えがいて いる よ。
-
 This road curves gently.
-
-郵送 [ゆうそう]
-
+郵送
+ゆうそう
 mailing
-
 Verbal Noun
+1
 書類を郵送してください。
-
 しょるい を ゆうそう して ください。
-
 Please mail the documents.
-
-満点 [まんてん]
-
+満点
+まんてん
 perfect score
-
 Noun
+1
 国語のテストは満点でした。
-
 こくご の テスト は まんてん でした。
-
 I got a perfect score on the Japanese test.
-
-水面 [すいめん]
-
+水面
+すいめん
 surface of the water
-
 Noun
+1
 湖の水面に小さく波が立っているな。
-
 みずうみ の すいめん に ちいさく なみ が たって いる な。
-
 There are a lot of small waves on the surface of the lake.
-
-虹 [にじ]
-
+虹
+にじ
 rainbow
-
 Noun
+1
 雨が上がって美しい虹が出たね。
-
 あめ が あがって うつくしい にじ が でた ね。
-
 A beautiful rainbow came out after the rain stopped.
-
-実例 [じつれい]
-
+実例
+じつれい
 example, instance
-
 Noun
+1
 実例を使って説明してください。
-
 じつれい を つかって せつめい して ください。
-
 Please explain by using examples.
-
-宝石 [ほうせき]
-
+宝石
+ほうせき
 gem, jewel
-
 Noun
+1
 私が一番好きな宝石はダイヤモンドなの。
-
 わたし が いちばん すきな ほうせき は ダイヤモンド な の。
-
 Diamond is my favorite jewel.
-
-巣 [す]
-
+巣
+す
 nest, den
-
 Noun
+1
 アリは土の中に巣を作ります。
-
 アリ は つち の なか に す を つくります。
-
 Ants build their nests underground.
-
-境 [さかい]
-
+境
+さかい
 boundary, border
-
 Noun
+1
 二つの市の境に川が流れているの。
-
 ふたつ の し の さかい に かわ が ながれて いる の。
-
 A river flows along the border of the two cities.
-
-湿度 [しつど]
-
+湿度
+しつど
 humidity
-
 Noun
+1
 日本の夏は湿度が高いです。
-
 にほん の なつ は しつど が たかい です。
-
 Humidity is high during summer in Japan.
-
-手入れ [ていれ]
-
+手入れ
+ていれ
 care, repair
-
 Verbal Noun
+1
 母は庭の手入れをしています。
-
 はは は にわ の ていれ を して います。
-
 My mother's tending the garden.
-
-弱点 [じゃくてん]
-
+弱点
+じゃくてん
 weak point, weakness
-
 Noun
+1
 彼の弱点はスタミナが足りないところです。
-
 かれ の じゃくてん は スタミナ が たりない ところ です。
-
 The lack of stamina is his weakness.
-
-平行 [へいこう]
-
+平行
+へいこう
 parallel
-
 Verbal Noun
+1
 平行に線を引いてください。
-
 へいこう に せん を ひいて ください。
-
 Please draw parallel lines.
-
+ユーモア
 ユーモア
 humor
-
 Noun
+1
 彼女はユーモアのセンスがあります。
-
 かのじょ は ユーモア の センス が あります。
-
 She has a sense of humor.
-
-活字 [かつじ]
-
+活字
+かつじ
 printed type
-
 Noun
+1
 新聞の活字が読みやすくなったね。
-
 しんぶん の かつじ が よみ やすく なった ね。
-
 Newspaper prints have become easier to read.
-
-空き [あき]
-
+空き
+あき
 vacancy, free time
-
 Noun
+1
 部屋の空きはありますか。
-
 へや の あき は あります か。
-
 Are there any vacant rooms?
-
-捕まる [つかまる]
-
+捕まる
+つかまる
 be caught, be arrested
-
 Verb
+1
 彼女はついに捕まりました。
-
 かのじょ は ついに つかまりました。
-
 She was finally caught.
-
-長所 [ちょうしょ]
-
+長所
+ちょうしょ
 strong point, strength
-
 Noun
+1
 君の長所は明るいところだね。
-
 きみ の ちょうしょ は あかるい ところ だ ね。
-
 Your bubbly personality is your strength.
-
-貨物 [かもつ]
-
+貨物
+かもつ
 freight, cargo
-
 Noun
+1
 このトランクは貨物で送ろう。
-
 この トランク は かもつ で おくろう。
-
 Let's send this trunk by freight.
-
-溶ける [とける]
-
+溶ける
+とける
 dissolve, melt
-
 Verb
+1
 暑さでアイスクリームが溶けてしまった。
-
 あつさ で アイスクリーム が とけて しまった。
-
 The ice cream melted in the heat.
-
-効力 [こうりょく]
-
+効力
+こうりょく
 effect, validity
-
 Noun
+1
 その薬は効力が強いよ。
-
 その くすり は こうりょく が つよい よ。
-
 The medicine takes effect quickly.
-
-乗車 [じょうしゃ]
-
+乗車
+じょうしゃ
 boarding, getting on board
-
 Verbal Noun
+1
 このバスの運賃は乗車するときに払います。
-
 この バス の うんちん は じょうしゃ する とき に はらいます。
-
 On this bus, you pay the fare when you get on.
-
-実物 [じつぶつ]
-
+実物
+じつぶつ
 real thing, actual object
-
 Noun
+1
 何かの説明をするときは実物を使うとわかりやすいの。
-
 なに か の せつめい を する とき は じつぶつ を つかう と わかりやすい の 。
-
 When you explain something, it's easier to understand if you use real things.
-
-超過 [ちょうか]
-
+超過
+ちょうか
 excess
-
 Verbal Noun
+1
 この荷物は重量超過です。
-
 この にもつ は じゅうりょう ちょうか です。
-
 This luggage is overweight.
-
-絶えず [たえず]
-
+絶えず
+たえず
 constantly, unremittingly
-
 Adverb
+1
 今日は絶えず電話が鳴りました。
-
 きょう は たえず でんわ が なりました。
-
 The telephone was ringing all day today.
-
-外科 [げか]
-
+外科
+げか
 surgery
-
 Noun
+1
 友人が骨折して外科に入院しました。
-
 ゆうじん が こっせつ して げか に にゅういん しました。
-
 My friend was admitted to hospital for surgery because he broke a bone.
-
-陽気 [ようき]
-
+陽気
+ようき
 cheerful, merry
-
 Adjectival Noun
+1
 彼女はとても陽気です。
-
 かのじょ は とても ようき です。
-
 She's very cheerful.
-
-互い [たがい]
-
+互い
+たがい
 each other (plain)
-
 Noun
+1
 互いの話をよく聞きなさい。
-
 たがい の はなし を よく ききなさい。
-
 Listen carefully to each other.
-
-湾 [わん]
-
+湾
+わん
 bay, gulf
-
 Noun
+1
 東京湾は重要な役割を果たしている。
-
 とうきょう わん は じゅうような やくわり を はたして いる。
-
 Tokyo Bay plays an important role.
-
-続々 [ぞくぞく]
-
+続々
+ぞくぞく
 in succession, one after another
-
 Adverb
+1
 お客さんが続々とやって来ましたよ。
-
 おきゃくさん が ぞくぞく と やってきました よ。
-
 Guests came one after another.
-
-直径 [ちょっけい]
-
+直径
+ちょっけい
 diameter
-
 Noun
+1
 この円は直径6センチです。
-
 この えん は ちょっけい 6 センチ です。
-
 This circle has a diameter of 6cm.
-
-直線 [ちょくせん]
-
+直線
+ちょくせん
 straight line
-
 Noun
+1
 直線を描いてください。
-
 ちょくせん を かいて ください。
-
 Please draw a straight line.
-
-泥 [どろ]
-
+泥
+どろ
 mud
-
 Noun
+1
 靴が泥だらけになったよ。
-
 くつ が どろ だらけ に なった よ。
-
 My shoes were covered in mud.
-
+シャッター
 シャッター
 shutter
-
 Noun
+1
 丸いボタンを押すとシャッターが閉まります。
-
 まるい ボタン を おす と シャッター が しまります。
-
 The shutter closes when you push the round button.
-
-名物 [めいぶつ]
-
+名物
+めいぶつ
 specialty, famous product
-
 Noun
+1
 この町の名物はぶどうです。
-
 この まち の めいぶつ は ぶどう です。
-
 This town is famous for its grapes.
-
-平野 [へいや]
-
+平野
+へいや
 plain land
-
 Noun
+1
 広い平野が一面雪で真っ白でした。
-
 ひろい へいや が いちめん ゆき で まっしろ でした。
-
 The vast plains were covered with pure-white snow.
-
-清潔 [せいけつ]
-
+清潔
+せいけつ
 cleanliness, neatness
-
 Noun
+1
 レストランは清潔が第一です。
-
 レストラン は せいけつ が だいいち です。
-
 Cleanliness is the most important thing in any restaurants.
-
-貝 [かい]
-
+貝
+かい
 shellfish, shell
-
 Noun
+1
 浜辺できれいな貝を拾いました。
-
 はまべ で きれいな かい を ひろいました。
-
 I picked up a beautiful shell on the beach.
-
-食卓 [しょくたく]
-
+食卓
+しょくたく
 dining table
-
 Noun
+1
 食卓に花を飾りましょう。
-
 しょくたく に はな を かざりましょう。
-
 Let's decorate our dining table with flowers.
-
-方言 [ほうげん]
-
+方言
+ほうげん
 dialect
-
 Noun
+1
 彼は方言で話します。
-
 かれ は ほうげん で はなします。
-
 He speaks in a dialect.
-
+まれ
 まれ
 rareness
-
 Adjectival Noun
+1
 彼が仕事を休むのはまれです。
-
 かれ が しごと を やすむ の は まれ です。
-
 He rarely takes a day off from work.
-
-双子 [ふたご]
-
+双子
+ふたご
 twins
-
 Noun
+1
 友達に双子が生まれたよ。
-
 ともだち に ふたご が うまれた よ。
-
 My friend gave birth to twins.
-
-脱線 [だっせん]
-
+脱線
+だっせん
 derailment
-
 Verbal Noun
+1
 地震で電車が脱線したよ。
-
 じしん で でんしゃ が だっせん した よ。
-
 The train derailed in the earthquake.
-
-客席 [きゃくせき]
-
+客席
+きゃくせき
 seat, passenger seat
-
 Noun
+1
 私たちは客席に座ったんだ。
-
 わたし たち は きゃくせき に すわった ん だ。
-
 We sat on the seats.
-
-摩擦 [まさつ]
-
+摩擦
+まさつ
 friction
-
 Verbal Noun
+1
 その二つの国に摩擦が生じたんだ。
-
 その ふたつ の くに に まさつ が しょうじた ん だ。
-
 Friction arose between the two countries.
-
-重み [おもみ]
-
+重み
+おもみ
 weight, importance
-
 Noun
+1
 雪の重みで枝が折れそうだ。
-
 ゆき の おもみ で えだ が おれ そうだ。
-
 The branch looks like it might snap due to the weight of the snow.
-
-発達 [はったつ]
-
+発達
+はったつ
 development, growth
-
 Verbal Noun
+1
 通信技術の発達は目覚ましいな。
-
 つうしん ぎじゅつ の はったつ は めざましい な。
-
 The development of communication technology is remarkable.

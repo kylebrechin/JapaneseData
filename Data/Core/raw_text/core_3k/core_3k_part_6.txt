@@ -1,1060 +1,803 @@
 かぼちゃ
+かぼちゃ
 pumpkin
-
 Noun
+1
 かぼちゃのスープは美味しいです。
-
 かぼちゃ の スープ は おいしい です。
-
 Pumpkin soup is delicious.
-
-水族館 [すいぞくかん]
-
+水族館
+すいぞくかん
 aquarium
-
 Noun
+1
 ここの水族館にはイルカがいます。
-
 ここ の すいぞくかん に は イルカ が います。
-
 There is a dolphin in this aquarium.
-
-品切れ [しなぎれ]
-
+品切れ
+しなぎれ
 sold out
-
 Noun
+1
 牛乳は品切れだったよ。
-
 ぎゅうにゅう は しなぎれ だった よ。
-
 Milk was sold out.
-
-腫れる [はれる]
-
+腫れる
+はれる
 swell up, be swollen
-
 Verb
+1
 今朝は目が腫れています。
-
 けさ は め が はれて います。
-
 My eyes are swollen this morning.
-
-やり直し [やりなおし]
-
+やり直し
+やりなおし
 doing over, redoing
-
 Noun
+1
 仕事がやり直しになった。
-
 しごと が やりなおし に なった。
-
 My work had to be re-done.
-
+バーゲン
 バーゲン
 bargain sale
-
 Noun
+1
 昨日バーゲンでスーツを買いました。
-
 きのう バーゲン で スーツ を かいました。
-
 I bought a suit in a sale yesterday.
-
-男らしい [おとこらしい]
-
+男らしい
+おとこらしい
 manly, masculine
-
 Adjective
+2
 彼は男らしいので、女性にもてる。
-
 かれ は おとこ らしい ので、じょせい に もてる。
-
 He is manly, so he's popular among women.
-
 私はもっと自信をつけて、男らしくなりたいです。
-
 わたし は もっと じしん を つけて、おとこ らしく なりたい です。
-
 I want to gain more confidence and be more manly.
-
-近道 [ちかみち]
-
+近道
+ちかみち
 shortcut
-
 Noun
+1
 こっちが近道です。
-
 こっち が ちかみち です。
-
 This is a shortcut.
-
+トースト
 トースト
 toast
-
 Noun
+1
 私は毎朝トーストを2枚食べます。
-
 わたし は まいあさ トースト を 2 まい たべます。
-
 I eat two slices of toast every morning.
-
-好奇心 [こうきしん]
-
+好奇心
+こうきしん
 curiosity
-
 Noun
+1
 子供は好奇心でいっぱいだね。
-
 こども は こうきしん で いっぱい だ ね。
-
 Children are full of curiosity.
-
-実用的 [じつようてき]
-
+実用的
+じつようてき
 practical
-
 Adjectival Noun
+1
 彼の発明品はみな実用的だよ。
-
 かれ の はつめい ひん は みな じつようてき だ よ。
-
 All his inventions are practical.
-
-客観的 [きゃっかんてき]
-
+客観的
+きゃっかんてき
 objective
-
 Adjectival Noun
+1
 彼は自分の状況を客観的に見てみたのね。
-
 かれ は じぶん の じょうきょう を きゃっかんてき に みて みた の ね。
-
 He tried to look at his situation objectively.
-
-抽象的 [ちゅうしょうてき]
-
+抽象的
+ちゅうしょうてき
 abstract
-
 Adjectival Noun
+1
 彼は抽象的な絵が好きだね。
-
 かれ は ちゅうしょうてきな え が すき だ ね。
-
 He likes abstract paintings.
-
-送別会 [そうべつかい]
-
+送別会
+そうべつかい
 farewell party
-
 Noun
+1
 来週、課長の送別会を開きます。
-
 らいしゅう、かちょう の そうべつ かい を ひらきます。
-
 The section chief's farewell party will be held next week.
-
-敷金 [しききん]
-
+敷金
+しききん
 deposit, security deposit
-
 Noun
+1
 マンションの敷金を払いました。
-
 マンション の しききん を はらいました。
-
 I paid the deposit on the apartment.
-
-日米 [にちべい]
-
+日米
+にちべい
 Japan and the U.S.
-
 Noun
+1
 テレビで日米野球をやっていますよ。
-
 テレビ で にちべい やきゅう を やって います よ。
-
 A Japan vs. the U.S. baseball game is on TV.
-
-専門家 [せんもんか]
-
+専門家
+せんもんか
 specialist, expert
-
 Noun
+1
 教授はフランス文学の専門家。
-
 きょうじゅ は フランス ぶんがく の せんもんか。
-
 The professor is a specialist of French literature.
-
+ホット
 ホット
 hot
-
 Adjectival Noun
+1
 コーヒーをホットでください。
-
 コーヒー を ホット で ください。
-
 Please give me a cup of hot coffee.
-
+わさび
 わさび
 Japanese horseradish
-
 Noun
+1
 刺身にわさびは欠かせませんね。
-
 さしみ に わさび は かかせません ね。
-
 Wasabi is indispensable to sashimi.
-
-初詣 [はつもうで]
-
+初詣
+はつもうで
 first shrine visit of the new year
-
 Verbal Noun
+1
 近くの神社に初詣に行きました。
-
 ちかく の じんじゃ に はつもうで に いきました 。
-
 We paid a new year's visit to the nearby Shinto shrine.
-
+ジョギング
 ジョギング
 jogging
-
 Verbal Noun
+1
 私は毎日ジョギングをしています。
-
 わたし は まいにち ジョギング を して います。
-
 I jog every day.
-
-社会人 [しゃかいじん]
-
+社会人
+しゃかいじん
 working member of society
-
 Noun
+1
 この春に彼は社会人になったよ。
-
 この はる に かれ は しゃかいじん に なった よ。
-
 He became a working adult this spring.
-
-大急ぎ [おおいそぎ]
-
+大急ぎ
+おおいそぎ
 in a great hurry
-
 Noun
+1
 大急ぎでその仕事を仕上げたよ。
-
 おお いそぎ で その しごと を しあげた よ。
-
 I finished up the work in a great hurry.
-
+セルフサービス
 セルフサービス
 self-service
-
 Noun
+1
 この食堂はセルフサービスです。
-
 この しょくどう は セルフサービス です。
-
 This dining hall is self-service.
-
+くしゃくしゃ
 くしゃくしゃ
 messy, crumpled
-
 Adverb
+1
 紙をくしゃくしゃに丸めました。
-
 かみ を くしゃくしゃ に まるめました。
-
 I crumpled the paper into a ball.
-
-食パン [しょくパン]
-
+食パン
+しょくパン
 bread in a rectangular shape
-
 Noun
+1
 朝食に食パンを2枚食べました。
-
 ちょうしょく に しょくパン を 2 まい たべました。
-
 I ate two slices of bread in a rectangular shape for breakfast.
-
-人差し指 [ひとさしゆび]
-
+人差し指
+ひとさしゆび
 index finger, forefinger
-
 Noun
+1
 彼女は人差し指を怪我したの。
-
 かのじょ は ひとさしゆび を けが した の。
-
 She injured her forefinger.
-
-洋食 [ようしょく]
-
+洋食
+ようしょく
 Western food
-
 Noun
+1
 昨日の晩ご飯は洋食でした。
-
 きのう の ばん ごはん は ようしょく でした。
-
 Last night's dinner was Western food.
-
+じめじめ
 じめじめ
 damp
-
 Adverb
+1
 梅雨どきはじめじめする。
-
 つゆ どき は じめじめ する。
-
 It is damp in the rainy season.
-
+じろじろ
 じろじろ
 staringly
-
 Adverb
+1
 人をじろじろ見るものではありません。
-
 ひと を じろじろ みる もの で は ありません。
-
 Do not stare at people.
-
+つるつる
 つるつる
 smooth, slippery
-
 Adverb
+1
 床がつるつるすべります。
-
 ゆか が つるつる すべります。
-
 The floor is slippery.
-
+こしょう
 こしょう
 pepper
-
 Noun
+1
 こしょうを入れ過ぎてスープが辛い。
-
 こしょう を いれ すぎて スープ が からい。
-
 I put in too much pepper, and now the soup is spicy.
-
+びしょびしょ
 びしょびしょ
 soaking wet, soaked
-
 Adjectival Noun
+1
 服が雨でびしょびしょになったよ。
-
 ふく が あめ で びしょびしょ に なった よ。
-
 My clothes got soaked in the rain.
-
+ぎゅうぎゅう
 ぎゅうぎゅう
 packed, crammed
-
 Adverb
+1
 電車がぎゅうぎゅうに混んでいますね。
-
 でんしゃ が ぎゅうぎゅう に こんで います ね。
-
 The train is jam-packed.
-
+バツ
 バツ
 cross, x-mark (on errors, mistakes etc.)
-
 Noun
+1
 バツが三つあるので85点です。
-
 バツ が みっつ ある ので 85 てん です。
-
 Because there are three mistakes, you get 85 points.
-
-水色 [みずいろ]
-
+水色
+みずいろ
 light blue
-
 Noun
+1
 箱に水色のリボンがかかっていたの。
-
 はこ に みずいろ の リボン が かかって いた の。
-
 A light blue ribbon was tied around the box.
-
-領収書 [りょうしゅうしょ]
-
+領収書
+りょうしゅうしょ
 bill of receipt (for payment only)
-
 Noun
+1
 領収書をください。
-
 りょうしゅうしょ を ください。
-
 Please give me a bill of receipt.
-
-自然に [しぜんに]
-
+自然に
+しぜんに
 naturally
-
 Adverb
+1
 硬くならないで、自然に話してください。
-
 かたく ならない で 、 しぜん に はなして ください。
-
 Please speak naturally without being formal.
-
+とんかつ
 とんかつ
 pork cutlet
-
 Noun
+1
 昼食にとんかつを食べました。
-
 ちゅうしょく に とんかつ を たべました。
-
 I ate a pork cutlet for lunch.
-
+ねぎ
 ねぎ
 spring onion, green onion
-
 Noun
+1
 みそ汁にねぎを入れました。
-
 みそしる に ねぎ を いれました。
-
 I put green onions in the miso soup.
-
+きゅうり
 きゅうり
 cucumber
-
 Noun
+1
 きゅうりに味噌をつけて食べたの。
-
 きゅうり に みそ を つけて たべた の。
-
 I ate cucumber with miso on it.
-
-鰻 [うなぎ]
-
+鰻
+うなぎ
 eel
-
 Noun
+1
 鰻の蒲焼きは美味しいね。
-
 うなぎ の かばやき は おいしい ね。
-
 Broiled eel is delicious.
-
+まぐろ
 まぐろ
 tuna
-
 Noun
+1
 まぐろの刺身を食べました。
-
 まぐろ の さしみ を たべました。
-
 I ate tuna sashimi.
-
+パイナップル
 パイナップル
 pineapple
-
 Noun
+1
 このパイナップルを切ってください。
-
 この パイナップル を きって ください。
-
 Please cut up this pineapple.
-
-ほうれん草 [ほうれんそう]
-
+ほうれん草
+ほうれんそう
 spinach
-
 Noun
+1
 ほうれん草はビタミンが豊富です。
-
 ほうれんそう は ビタミン が ほうふ です。
-
 Spinach is rich in vitamins.
-
+マヨネーズ
 マヨネーズ
 mayonnaise
-
 Noun
+1
 サラダにマヨネーズをかけたの。
-
 サラダ に マヨネーズ を かけた の。
-
 I put mayonnaise on the salad.
-
-玉ねぎ [たまねぎ]
-
+玉ねぎ
+たまねぎ
 onion
-
 Noun
+1
 私は玉ねぎが嫌いです。
-
 わたし は たまねぎ が きらい です。
-
 I hate onions.
-
-焼き肉 [やきにく]
-
+焼き肉
+やきにく
 grilled meat, barbecued meat
-
 Noun
+1
 彼は焼き肉が大好きです。
-
 かれ は やきにく が だいすき です。
-
 He loves barbecues.
-
-目薬 [めぐすり]
-
+目薬
+めぐすり
 eye drops
-
 Noun
+1
 目が疲れたので目薬をさしたよ。
-
 め が つかれた ので めぐすり を さした よ。
-
 My eyes were tired, so I put in some eye drops.
-
-寝過ごす [ねすごす]
-
+寝過ごす
+ねすごす
 oversleep
-
 Verb
+1
 うっかり寝過ごしてしまったんだ。
-
 うっかり ねすごして しまった ん だ。
-
 I accidentally overslept.
-
-国際的 [こくさいてき]
-
+国際的
+こくさいてき
 international
-
 Adjectival Noun
+1
 彼女は国際的に有名な歌手です。
-
 かのじょ は こくさいてき に ゆうめいな かしゅ です。
-
 She is an internationally famous singer.
-
-国際化 [こくさいか]
-
+国際化
+こくさいか
 internationalization
-
 Verbal Noun
+1
 この大学も国際化してきたな。
-
 この だいがく も こくさいか して きた な。
-
 This university has become internationalized.
-
-区役所 [くやくしょ]
-
+区役所
+くやくしょ
 ward office
-
 Noun
+1
 区役所に書類を届けてください。
-
 くやくしょ に しょるい を とどけて ください。
-
 Please deliver the document to the ward office.
-
-和室 [わしつ]
-
+和室
+わしつ
 Japanese-style room
-
 Noun
+1
 この和室の天井は低いね。
-
 この わしつ の てんじょう は ひくい ね。
-
 The ceiling in this Japanese-style room is low.
-
-本格的 [ほんかくてき]
-
+本格的
+ほんかくてき
 authentic, serious
-
 Adjectival Noun
+1
 彼は絵を本格的に勉強しているんだ。
-
 かれ は え を ほんかくてき に べんきょう して いる ん だ。
-
 He's studying painting seriously.
-
-高速道路 [こうそくどうろ]
-
+高速道路
+こうそくどうろ
 freeway, expressway
-
 Noun
+1
 高速道路は混んでたよ。
-
 こうそくどうろ は こんで た よ。
-
 There was a lot of traffic on the expressway.
-
+とりあえず
 とりあえず
 for now, for the time being
-
 Adverb
+1
 とりあえずお知らせしておきます。
-
 とりあえず おしらせ して おきます。
-
 Here's my report for now.
-
-先に [さきに]
-
+先に
+さきに
 before, ahead
-
 Adverb
+1
 では、私たちは先に出発します。
-
 では、わたし たち は さき に しゅっぱつ します。
-
 We will leave before you then.
-
+ぎりぎり
 ぎりぎり
 just in time, barely
-
 Adverb
+1
 会社の始業時間にぎりぎりで間に合ったよ。
-
 かいしゃ の しぎょう じかん に ぎりぎり で まにあった よ。
-
 I made it just in time for the start of work.
-
-慌ただしい [あわただしい]
-
+慌ただしい
+あわただしい
 busy and hurried
-
 Adjective
+1
 今日は慌ただしい一日でした。
-
 きょう は あわただしい いちにち でした。
-
 It was a busy day today.
-
-今ごろ [いまごろ]
-
+今ごろ
+いまごろ
 by now, at this time
-
 Noun
+1
 今頃そんなこと言わないで。
-
 いま ごろ そんな こと いわない で。
-
 Don't say such a thing now.
-
+くっつく
 くっつく
 stick, be attached
-
 Verb
+1
 靴の底にガムがくっついてしまった。
-
 くつ の そこ に ガム が くっついてしまった 。
-
 Chewing gum got stuck to the sole of my shoe.
-
-北風 [きたかぜ]
-
+北風
+きたかぜ
 north wind
-
 Noun
+1
 北風が冷たいです。
-
 きたかぜ が つめたい です。
-
 The north wind is cold.
-
-海老 [えび]
-
+海老
+えび
 shrimp
-
 Noun
+1
 海老の天ぷらは私の好物です。
-
 えび の てんぷら は わたし の こうぶつ です。
-
 Shrimp tempura is my favorite dish.
-
-思い切って [おもいきって]
-
+思い切って
+おもいきって
 daringly, taking the plunge
-
 Adverb
+1
 思い切って彼に相談します。
-
 おもいきって かれ に そうだん します。
-
 I'll take the plunge and ask him for advice.
-
+はっと
 はっと
 taken aback, startled
-
 Adverb
+1
 彼女の美しさにはっとしたよ。
-
 かのじょ の うつくしさ に はっと した よ。
-
 I was startled by her beauty.
-
-宛先 [あてさき]
-
+宛先
+あてさき
 recipient's address
-
 Noun
+1
 宛先不明で手紙が戻ってきたの。
-
 あてさき ふめい で てがみ が もどって きた の。
-
 The letter was returned as the recipient's address was unknown.
-
+ばらばら
 ばらばら
 separately, discretely
-
 Adverb
+1
 生徒たちはばらばらに帰宅したね。
-
 せいと たち は ばらばら に きたく した ね。
-
 Students went home separately.
-
-乗車券 [じょうしゃけん]
-
+乗車券
+じょうしゃけん
 train ticket, bus ticket
-
 Noun
+1
 乗車券は無くさないように。
-
 じょうしゃけん は なくさない ように。
-
 Do not lose your ticket.
-
+ぶるぶる
 ぶるぶる
 shivering, trembling
-
 Adverb
+1
 彼はぶるぶる震えていたよ。
-
 かれ は ぶるぶる ふるえて いた よ。
-
 He was shivering.
-
+すらすら
 すらすら
 smoothly, easily
-
 Adverb
+1
 その小学生は難しい本をすらすら読んだの。
-
 その しょうがくせい は むずかしい ほん を すらすら よんだ の。
-
 The elementary school student read a difficult book easily.
-
-終電 [しゅうでん]
-
+終電
+しゅうでん
 last train
-
 Noun
+1
 終電にやっと間に合った。
-
 しゅうでん に やっと まにあった。
-
 I was just in time for the last train.
-
+ずるい
 ずるい
 cunning, sneaky
-
 Adjective
+1
 あなたのやり方はずるい。
-
 あなた の やりかた は ずるい。
-
 Your method is cunning.
-
+すやすや
 すやすや
 (sleep) peacefully, soundly
-
 Adverb
+1
 子供がすやすや眠っているね。
-
 こども が すやすや ねむって いる ね。
-
 The child is sleeping soundly.
-
+がたがた
 がたがた
 with a rattling noise, unstable
-
 Adverb
+1
 この椅子はがたがたしているね。
-
 この いす は がたがた して いる ね。
-
 This chair is unstable.
-
-非常口 [ひじょうぐち]
-
+非常口
+ひじょうぐち
 emergency exit
-
 Noun
+1
 ビルの非常口を確認したの。
-
 ビル の ひじょうぐち を かくにん した の。
-
 I checked the building's emergency exit.
-
+ざらざら
 ざらざら
 rough, gritty
-
 Adverb
+1
 砂ぼこりで机がざらざらしているね。
-
 すなぼこり で つくえ が ざらざら して いる ね。
-
 The top of the desk is gritty with sandy dust.
-
+ぬるぬる
 ぬるぬる
 slimy
-
 Adverb
+1
 うなぎはぬるぬるしていますね。
-
 うなぎ は ぬるぬる して います ね。
-
 Eels are slimy.
-
-女らしい [おんならしい]
-
+女らしい
+おんならしい
 womanly, feminine
-
 Adjective
+1
 彼女は女らしい。
-
 かのじょ は おんな らしい。
-
 She's feminine.
-
-急用 [きゅうよう]
-
+急用
+きゅうよう
 urgent business
-
 Noun
+1
 彼は急用で帰りました。
-
 かれ は きゅうよう で かえりました。
-
 He went home on urgent business.
-
+きょろきょろ
 きょろきょろ
 look around
-
 Adverb
+1
 会場で子供がきょろきょろしているわよ。
-
 かいじょう で こども が きょろきょろ して いる わ よ。
-
 The child is staring about the hall.
-
+ぐずぐず
 ぐずぐず
 slowly, tardily
-
 Adverb
+1
 ぐずぐずしていると電車に乗り遅れますよ。
-
 ぐずぐず して いる と でんしゃ に のりおくれます よ。
-
 If you are tardy, you’ll miss the train.
-
+ぽかぽか
 ぽかぽか
 pleasantly warm
-
 Adverb
+1
 今日はぽかぽか暖かい日です。
-
 きょう は ぽかぽか あたたかい ひ です。
-
 It's a lovely warm day today.
-
-洗い物 [あらいもの]
-
+洗い物
+あらいもの
 dishes to be washed
-
 Noun
+1
 母は台所で洗い物をしています。
-
 はは は だいどころ で あらいもの を して います。
-
 Mother is doing the dishes in the kitchen.
-
+かっと
 かっと
 in a temper, in a rage
-
 Adverb
+1
 かっとなって余計なことを言ってしまったな。
-
 かっと なって よけいな こと を いって しまった な。
-
 I lost my temper and said things I shouldn't have.
-
+どきっと
 どきっと
 surprised, shocked
-
 Adverb
+1
 突然の質問にどきっとしたよ。
-
 とつぜん の しつもん に どきっと した よ。
-
 I was surprised by the sudden question.
-
-乗り遅れる [のりおくれる]
-
+乗り遅れる
+のりおくれる
 miss (a train, bus, etc.)
-
 Verb
+1
 寝坊して新幹線に乗り遅れたよ。
-
 ねぼう して しんかんせん に のりおくれた よ。
-
 I overslept and missed the Shinkansen.
-
+くたくた
 くたくた
 exhausted
-
 Adjectival Noun
+1
 今日はたくさん歩いてくたくたです。
-
 きょう は たくさん あるいて くたくた です。
-
 I am exhausted because I walked so much today.
-
+すべすべ
 すべすべ
 smooth, silky
-
 Adjectival Noun
+1
 彼女の肌はすべすべしているね。
-
 かのじょ の はだ は すべすべ して いる ね。
-
 Her skin is smooth.
-
+にやにや
 にやにや
 grin to oneself
-
 Adverb
+1
 なぜか彼はにやにやしています。
-
 なぜ か かれ は にやにや して います。
-
 He's grinning for some reason.
-
-あだ名 [あだな]
-
+あだ名
+あだな
 nickname
-
 Noun
+1
 彼のあだ名は「りき」です。
-
 かれ の あだな は 「 りき 」 です。
-
 His nickname is "Riki."
-
-後片付け [あとかたづけ]
-
+後片付け
+あとかたづけ
 cleaning up
-
 Noun
+1
 食事の後片づけを手伝ったの。
-
 しょくじ の あとかたづけ を てつだった の。
-
 I helped to clean up after the meal.
-
+イカ
 イカ
 squid
-
 Noun
+1
 私はイカの刺し身が大好きです。
-
 わたし は イカ の さしみ が だいすき です。
-
 I love squid sashimi.
-
-可愛がる [かわいがる]
-
+可愛がる
+かわいがる
 love, cherish
-
 Verb
+1
 彼女は猫を可愛がっています。
-
 かのじょ は ねこ を かわいがって います。
-
 She cherishes her cat.
-
+うきうき
 うきうき
 excitedly
-
 Adverb
+1
 もうすぐ夏休みなのでうきうきしています。
-
 もうすぐ なつやすみ なので うきうき して います。
-
 I'm excited because the summer vacation is just around the corner.
-
-餃子 [ぎょうざ]
-
+餃子
+ぎょうざ
 Chinese dumpling
-
 Noun
+1
 ここの餃子は美味しいよ。
-
 ここ の ぎょうざ は おいしい よ 。
-
 The dumplings here are tasty.
-
+げらげら
 げらげら
 (laugh) out loud
-
 Adverb
+1
 彼女はいつまでもげらげら笑っていたな。
-
 かのじょ は いつ まで も げらげら わらって いた な。
-
 She kept on laughing aloud.
-
+ごめん
 ごめん
 sorry
-
 Noun
+1
 遅れてごめん。
-
 おくれて ごめん 。
-
 I am sorry I'm late.
-
-明々後日 [しあさって]
-
+明々後日
+しあさって
 three days from today
-
 Noun
+1
 会議は明々後日に延期された。
-
 かいぎ は しあさって に えんき された。
-
 The meeting was postponed to three days from today.
-
-削減 [さくげん]
-
+削減
+さくげん
 cutdown, reduction
-
 Verbal Noun
+1
 福祉予算は削減されないことに決まったのよ。
-
 ふくし よさん は さくげん されない こと に きまった の よ。
-
 They decided not to reduce the social welfare budget.
