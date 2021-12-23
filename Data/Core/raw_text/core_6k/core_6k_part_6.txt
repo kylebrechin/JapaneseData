@@ -1,1093 +1,800 @@
-欲求 [よっきゅう]
-
+欲求
+よっきゅう
 (instinctive) desire, urge
-
 Verbal Noun
+1
 時には自分の欲求を抑えることも必要です。
-
 ときに は じぶん の よっきゅう を おさえる こと も ひつよう です。
-
 Sometimes you need to control your urges.
-
-刑務所 [けいむしょ]
-
+刑務所
+けいむしょ
 prison
-
 Noun
+1
 彼は二度と刑務所から出ることができないの。
-
 かれ は にどと けいむしょ から でる こと が できない の。
-
 He'll never be able to get out of prison.
-
-気楽 [きらく]
-
+気楽
+きらく
 easygoing, laid-back
-
 Adjectival Noun
+1
 将来は気楽な生活がしたいです。
-
 しょうらい は きらくな せいかつ が したい です。
-
 I want to lead a laid-back lifestyle in the future.
-
-入試 [にゅうし]
-
+入試
+にゅうし
 entrance examination
-
 Noun
+1
 明日は高校の入試です。
-
 あした は こうこう の にゅうし です。
-
 The high school entrance exam is tomorrow.
-
-海上 [かいじょう]
-
+海上
+かいじょう
 on the sea, seaborne
-
 Noun
+1
 海上で衝突事故が発生した。
-
 かいじょう で しょうとつ じこ が はっせい した。
-
 There was a collision on the sea.
-
+エイズ
 エイズ
 AIDS
-
 Noun
+1
 その国ではエイズが大きな社会問題ね。
-
 その くに で は エイズ が おおきな しゃかい もんだい ね。
-
 AIDS is a major social problem in that country.
-
-有害 [ゆうがい]
-
+有害
+ゆうがい
 harmful, hazardous
-
 Adjectival Noun
+1
 この材料は有害だよ。
-
 この ざいりょう は ゆうがい だ よ。
-
 This material is hazardous.
-
-並み [なみ]
-
+並み
+なみ
 ordinary, average
-
 Noun
+1
 彼は並みの人間ではありません。
-
 かれ は なみ の にんげん で は ありません。
-
 He's not an average person.
-
-系列 [けいれつ]
-
+系列
+けいれつ
 affiliation
-
 Noun
+1
 高校卒業後、系列の大学に進みました。
-
 こうこう そつぎょう ご、けいれつ の だいがく に すすみました。
-
 After graduating from high school, he went to an affiliated university.
-
-本年 [ほんねん]
-
+本年
+ほんねん
 this year (formal)
-
 Noun
+1
 会社の本年の目標が発表された。
-
 かいしゃ の ほんねん の もくひょう が はっぴょう された。
-
 The company's goal this year has been announced.
-
-月刊 [げっかん]
-
+月刊
+げっかん
 published monthly
-
 Noun
+1
 この雑誌は月刊ですか。
-
 この ざっし は げっかん です か。
-
 Is this magazine published monthly?
-
-忠実 [ちゅうじつ]
-
+忠実
+ちゅうじつ
 faithful, loyal
-
 Adjectival Noun
+1
 犬は飼い主に忠実です。
-
 いぬ は かいぬし に ちゅうじつ です。
-
 Dogs are loyal to their owners.
-
-陸上 [りくじょう]
-
+陸上
+りくじょう
 shore, on land
-
 Noun
+1
 あの動物は陸上で生活しています。
-
 あの どうぶつ は りくじょう で せいかつ して います。
-
 That animal lives on land.
-
-一員 [いちいん]
-
+一員
+いちいん
 member, part of an organization, group, etc.
-
 Noun
+1
 彼は野球部の一員です。
-
 かれ は やきゅう ぶ の いちいん です。
-
 He's a part of the baseball club.
-
-無関係 [むかんけい]
-
+無関係
+むかんけい
 irrelevant, unrelated
-
 Adjectival Noun
+1
 彼はこの事件と無関係です。
-
 かれ は この じけん と むかんけい です。
-
 He has nothing to do with this case.
-
-担任 [たんにん]
-
+担任
+たんにん
 teacher in charge
-
 Verbal Noun
+1
 私は3年生のクラスを担任しています。
-
 わたし は 3 ねんせい の クラス を たんにん して います。
-
 I'm in charge of the third-grade class.
-
-開店 [かいてん]
-
+開店
+かいてん
 opening of a store
-
 Verbal Noun
+1
 デパートは10時に開店しますよ。
-
 デパート は 10 じ に かいてん します よ。
-
 The department store opens at ten o'clock.
-
-戦場 [せんじょう]
-
+戦場
+せんじょう
 battlefield
-
 Noun
+1
 祖父は戦場に行ったことがあるそうです。
-
 そふ は せんじょう に いった こと が ある そうです。
-
 I heard that my grandfather has been to the battlefield.
-
-亀 [かめ]
-
+亀
+かめ
 turtle, tortoise
-
 Noun
+1
 この池には亀がいますね。
-
 この いけ に は かめ が います ね。
-
 There is a turtle in this pond.
-
-国旗 [こっき]
-
+国旗
+こっき
 national flag
-
 Noun
+1
 日本の国旗は描くのが簡単です。
-
 にっぽん の こっき は かく の が かんたん です。
-
 Drawing the national flag of Japan is easy.
-
-聞かす [きかす]
-
+聞かす
+きかす
 let (someone) hear, tell (a story etc.)
-
 Verb
+1
 子供に昔話を聞かせてあげたの。
-
 こども に むかしばなし を きかせて あげた の。
-
 I told some folk tales to my kids.
-
-関節 [かんせつ]
-
+関節
+かんせつ
 joint (of the body)
-
 Noun
+1
 手首の関節をひねっちゃった。
-
 てくび の かんせつ を ひねっちゃった。
-
 I twisted my wrist joint.
-
-前期 [ぜんき]
-
+前期
+ぜんき
 previous term, last semester
-
 Noun
+1
 前期の売上はとても良かったわ。
-
 ぜんき の うりあげ は とても よかった わ。
-
 Sales of the previous term were very good.
-
-最小 [さいしょう]
-
+最小
+さいしょう
 the smallest, minimum
-
 Noun
+1
 これは世界で最小のコンピューターです。
-
 これ は せかい で さいしょう の コンピューター です。
-
 This is the smallest computer in the world.
-
-気力 [きりょく]
-
+気力
+きりょく
 energy, vitality
-
 Noun
+1
 彼は気力にあふれていますね。
-
 かれ は きりょく に あふれて います ね。
-
 He's full of energy.
-
+ラグビー
 ラグビー
 rugby
-
 Noun
+1
 父は若いころラグビーの選手でした。
-
 ちち は わかい ころ ラグビー の せんしゅ でした。
-
 My father used to be a rugby player when he was young.
-
-急増 [きゅうぞう]
-
+急増
+きゅうぞう
 sharp increase
-
 Verbal Noun
+1
 最近ヨガをやる人が急増しています。
-
 さいきん ヨガ を やる ひと が きゅうぞう して います。
-
 Recently there's been a sharp increase in the number of people exercising yoga.
-
-言い換える [いいかえる]
-
+言い換える
+いいかえる
 paraphrase, express in different words
-
 Verb
+1
 彼は易しい言葉に言い換えたんだ。
-
 かれ は やさしい ことば に いいかえた ん だ。
-
 He paraphrased it in easy language.
-
-罰金 [ばっきん]
-
+罰金
+ばっきん
 fine, penalty
-
 Noun
+1
 罰金を3万円もとられたよ。
-
 ばっきん を 3 まん えん も とられた よ。
-
 I had to pay a fine of 30,000 yen.
-
-県立 [けんりつ]
-
+県立
+けんりつ
 prefectural
-
 Noun
+1
 彼は県立の高校に通っているよ。
-
 かれ は けんりつ の こうこう に かよって いる よ。
-
 He goes to a prefectural high school.
-
-七夕 [たなばた]
-
+七夕
+たなばた
 The Star Festival
-
 Noun
+1
 日本では七月七日は七夕の日です。
-
 にほん で は しち がつ なのか は たなばた の ひ です。
-
 In Japan, July 7th is the day of the Tanabata Festival.
-
-半導体 [はんどうたい]
-
+半導体
+はんどうたい
 semiconductor
-
 Noun
+1
 半導体はさまざまな製品に使われているよ。
-
 はんどうたい は さまざまな せいひん に つかわれて いる よ 。
-
 Semiconductors are used in many products.
-
-間近 [まぢか]
-
+間近
+まぢか
 up close, close at hand
-
 Noun
+1
 有名人を間近で見たよ。
-
 ゆうめい じん を まぢか で みた よ。
-
 I saw a celebrity up close.
-
-偏る [かたよる]
-
+偏る
+かたよる
 be one-sided, be biased
-
 Verb
+1
 栄養が偏らないように食事に気を付けています。
-
 えいよう が かたよらない ように しょくじ に きをつけて います。
-
 I take care to maintain a balanced diet.
-
-学長 [がくちょう]
-
+学長
+がくちょう
 school president, principal
-
 Noun
+1
 入学式で学長の挨拶がありました。
-
 にゅうがく しき で がくちょう の あいさつ が ありました。
-
 The school president gave a greeting speech at the entrance ceremony.
-
-最先端 [さいせんたん]
-
+最先端
+さいせんたん
 cutting edge, forefront
-
 Noun
+1
 そのカメラには最先端の技術が使われています。
-
 その カメラ に は さいせんたん の ぎじゅつ が つかわれて います。
-
 That camera has cutting-edge technology.
-
+ありがたい
 ありがたい
 thankful, grateful
-
 Adjective
+1
 彼の助けは本当にありがたいな。
-
 かれ の たすけ は ほんとうに ありがたい な。
-
 I truly appreciate his help.
-
+チキン
 チキン
 chicken
-
 Noun
+1
 チキンソテーは私の大好物です。
-
 チキン ソテー は わたし の だい こうぶつ です。
-
 Chicken saute is my favorite dish.
-
-悪質 [あくしつ]
-
+悪質
+あくしつ
 malignant, vicious
-
 Adjectival Noun
+1
 最近は悪質な事件が多いですね。
-
 さいきん は あくしつな じけん が おおい です ね。
-
 We've seen a lot of malignant incidents recently.
-
+ジャーナリズム
 ジャーナリズム
 journalism
-
 Noun
+1
 彼はジャーナリズムを専攻している。
-
 かれ は ジャーナリズム を せんこう して いる。
-
 He majors in journalism.
-
-敗れる [やぶれる]
-
+敗れる
+やぶれる
 be defeated, lose (a game)
-
 Verb
+1
 私のチームは1回戦で敗れたよ。
-
 わたし の チーム は 1 かい せん で やぶれた よ。
-
 My team lost in the first match.
-
-割り当てる [わりあてる]
-
+割り当てる
+わりあてる
 assign, allot
-
 Verb
+1
 全員に作業が割り当てられました。
-
 ぜんいん に さぎょう が わりあてられました。
-
 Everyone has been assigned work.
-
-本店 [ほんてん]
-
+本店
+ほんてん
 main office, shop or store
-
 Noun
+1
 ここはチェーン店の本店です。
-
 ここ は チェーン てん の ほんてん です。
-
 This is the original store of the chain.
-
-市立 [しりつ]
-
+市立
+しりつ
 municipal, city-run
-
 Noun
+1
 娘は市立の学校に通っています。
-
 むすめ は しりつ の がっこう に かよって います。
-
 My daughter goes to a municipal school.
-
-会費 [かいひ]
-
+会費
+かいひ
 membership fee
-
 Noun
+1
 会費が少し高いね。
-
 かいひ が すこし たかい ね。
-
 The membership fee is a little high.
-
-両面 [りょうめん]
-
+両面
+りょうめん
 both faces, both sides
-
 Noun
+1
 紙の両面に字が書かれていたよ。
-
 かみ の りょうめん に じ が かかれて いた よ。
-
 There was writing on both sides of the paper.
-
-国外 [こくがい]
-
+国外
+こくがい
 outside the country, abroad
-
 Noun
+1
 犯人は国外に逃げたようです。
-
 はんにん は こくがい に にげた ようです。
-
 The criminal seems to have escaped abroad.
-
-乗り出す [のりだす]
-
+乗り出す
+のりだす
 lean forward, embark on
-
 Verb
+1
 船が長い航海に乗り出したの。
-
 ふね が ながい こうかい に のりだした の。
-
 The ship has embarked on a long sea voyage.
-
-イスラム教 [イスラムきょう]
-
+イスラム教
+イスラムきょう
 Islam, Muslim religion
-
 Noun
+1
 これはイスラム教の寺院です。
-
 これ は イスラムきょう の じいん です。
-
 This is a Muslim mosque.
-
-打ち上げる [うちあげる]
-
+打ち上げる
+うちあげる
 blast off, set off
-
 Verb
+1
 夏祭りで花火を打ち上げます。
-
 なつ まつり で はなび を うちあげます。
-
 We'll set off fireworks at the summer festival.
-
-法学部 [ほうがくぶ]
-
+法学部
+ほうがくぶ
 faculty of law
-
 Noun
+1
 彼女は法学部の学生です。
-
 かのじょ は ほう がくぶ の がくせい です。
-
 She's a student in the Department of Law.
-
-運動会 [うんどうかい]
-
+運動会
+うんどうかい
 sports festival, athletic meet
-
 Noun
+1
 運動会で一位になったよ。
-
 うんどうかい で いち い に なった よ。
-
 I won first place in the sports festival.
-
-政治家 [せいじか]
-
+政治家
+せいじか
 politician
-
 Noun
+1
 大きくなったら政治家になりたいです。
-
 おおきく なったら せいじ か に なりたい です。
-
 I want to become a politician when I grow up.
-
-翌朝 [よくあさ]
-
+翌朝
+よくあさ
 the following morning, the next morning
-
 Noun
+1
 翌朝は快晴だったね。
-
 よくあさ は かいせい だった ね。
-
 The weather was fine the next morning.
-
-不完全 [ふかんぜん]
-
+不完全
+ふかんぜん
 imperfect, incomplete
-
 Adjectival Noun
+1
 このデータはまだ不完全ね。
-
 この データ は まだ ふかんぜん ね。
-
 This data is still incomplete.
-
-地価 [ちか]
-
+地価
+ちか
 land price
-
 Noun
+1
 東京の地価は上がり続けているんだ。
-
 とうきょう の ちか は あがり つづけて いる ん だ。
-
 The land price in Tokyo keeps going up.
-
-理系 [りけい]
-
+理系
+りけい
 science, in science
-
 Noun
+1
 彼は理系の学生です。
-
 かれ は りけい の がくせい です。
-
 He's a student who majors in science.
-
-歌声 [うたごえ]
-
+歌声
+うたごえ
 singing voice
-
 Noun
+1
 校舎から歌声が聞こえてきたよ。
-
 こうしゃ から うたごえ が きこえて きた よ。
-
 I can hear singing voices from the school building.
-
-海水 [かいすい]
-
+海水
+かいすい
 seawater
-
 Noun
+1
 海水から塩を作ります。
-
 かいすい から しお を つくります。
-
 We make salt from seawater.
-
-不愉快 [ふゆかい]
-
+不愉快
+ふゆかい
 upset, disagreeable
-
 Adjectival Noun
+1
 彼の話を聞いて不愉快になった。
-
 かれ の はなし を きいて ふゆかい に なった。
-
 I got upset listening to his story.
-
-総数 [そうすう]
-
+総数
+そうすう
 total (number)
-
 Noun
+1
 参加者の総数は705人でした。
-
 さんか しゃ の そうすう は 705 にん でした。
-
 The total number of participants was 705.
-
-水中 [すいちゅう]
-
+水中
+すいちゅう
 in water, underwater
-
 Noun
+1
 このカメラなら水中の写真が撮れますね。
-
 この カメラ なら すいちゅう の しゃしん が とれます ね。
-
 With this camera you can take underwater pictures.
-
-帰省 [きせい]
-
+帰省
+きせい
 homecoming, going (back) to one's hometown
-
 Verbal Noun
+1
 来週、帰省します。
-
 らいしゅう、きせい します。
-
 I'm going back to my hometown next week.
-
-年配 [ねんぱい]
-
+年配
+ねんぱい
 advanced age, elderliness
-
 Noun
+1
 年配の人に席を譲りました。
-
 ねんぱい の ひと に せき を ゆずりました。
-
 I gave up my seat to an elderly person.
-
-一周 [いっしゅう]
-
+一周
+いっしゅう
 going round, circle
-
 Verbal Noun
+1
 私たちは庭園を一周しました。
-
 わたし たち は ていえん を いっしゅう しました。
-
 We went around the garden.
-
-歌舞伎 [かぶき]
-
+歌舞伎
+かぶき
 Japanese classical drama played by male actors
-
 Noun
+1
 歌舞伎の芝居を見にいきました。
-
 かぶき の しばい を みに いきました。
-
 I went to see a kabuki play.
-
-悪用 [あくよう]
-
+悪用
+あくよう
 abuse, misuse
-
 Noun
+1
 彼は地位を悪用しています。
-
 かれ は ちい を あくよう して います。
-
 He is abusing his position.
-
-芋 [いも]
-
+芋
+いも
 potato (of any kind)
-
 Noun
+1
 お芋の料理はお好きですか。
-
 おいも の りょうり は おすき です か。
-
 Do you like potato dishes?
-
-空ける [あける]
-
+空ける
+あける
 vacate, clear out
-
 Verb
+1
 彼女はお年寄りのために席を空けたんだ。
-
 かのじょ は おとしより の ため に せき を あけた ん だ。
-
 She gave up her seat to an elderly person.
-
+アルファベット
 アルファベット
 alphabet
-
 Noun
+1
 この子はアルファベットを全部言えます。
-
 この こ は アルファベット を ぜんぶ いえます。
-
 This kid can say the entire alphabet.
-
-菊 [きく]
-
+菊
+きく
 chrysanthemum
-
 Noun
+1
 菊の花を買ってきました。
-
 きく の はな を かって きました。
-
 I bought some chrysanthemums.
-
-平面 [へいめん]
-
+平面
+へいめん
 flat surface
-
 Noun
+1
 このメガネをかけると平面が立体に見えます。
-
 この メガネ を かける と へいめん が りったい に みえます。
-
 Through these glasses, flat things look three-dimensional.
-
-吸い込む [すいこむ]
-
+吸い込む
+すいこむ
 inhale, suck in
-
 Verb
+1
 ほこりを吸い込んじゃった。
-
 ほこり を すいこんじゃった。
-
 I inhaled dust.
-
-船長 [せんちょう]
-
+船長
+せんちょう
 captain
-
 Noun
+1
 私がこの船の船長です。
-
 わたし が この ふね の せんちょう です。
-
 I'm the captain of this ship.
-
-暴落 [ぼうらく]
-
+暴落
+ぼうらく
 plunge, crash
-
 Verbal Noun
+1
 昨日株価が暴落しました。
-
 きのう かぶか が ぼうらく しました。
-
 Stock prices plunged yesterday.
-
-工学部 [こうがくぶ]
-
+工学部
+こうがくぶ
 department of engineering
-
 Noun
+1
 彼は工学部の教授です。
-
 かれ は こう がくぶ の きょうじゅ です。
-
 He is a professor in the Department of Engineering.
-
-北東 [ほくとう]
-
+北東
+ほくとう
 northeast
-
 Noun
+1
 町の北東に山があります。
-
 まち の ほくとう に やま が あります。
-
 There's a mountain in the northeastern part of the town.
-
-高温 [こうおん]
-
+高温
+こうおん
 high temperature
-
 Noun
+1
 金属は高温で溶かします。
-
 きんぞく は こうおん で とかします。
-
 We melt metals at high temperatures.
-
-時給 [じきゅう]
-
+時給
+じきゅう
 hourly wage
-
 Noun
+1
 この仕事は時給1000円です。
-
 この しごと は じきゅう 1000 えん です。
-
 You get an hourly wage of 1000 yen in this job.
-
-派閥 [はばつ]
-
+派閥
+はばつ
 clique, faction
-
 Noun
+1
 あの大学には派閥がたくさんあります。
-
 あの だいがく に は はばつ が たくさん あります。
-
 There are a lot of cliques at that university.
-
-少量 [しょうりょう]
-
+少量
+しょうりょう
 small quantity, small amount
-
 Noun
+1
 泡立てたクリームに少量のブランデーを加えます。
-
 あわだてた クリーム に しょうりょう の ブランデー を くわえます。
-
 We'll add a small amount of brandy to the whipped cream.
-
-不必要 [ふひつよう]
-
+不必要
+ふひつよう
 unnecessary, unneeded
-
 Adjectival Noun
+1
 不必要なファイルは削除してください。
-
 ふひつような ファイル は さくじょ して ください。
-
 Please delete unnecessary files.
-
-火力 [かりょく]
-
+火力
+かりょく
 fire power
-
 Noun
+1
 火力を弱めないと肉がこげるよ。
-
 かりょく を よわめない と にく が こげる よ。
-
 You'll burn the meat if you don't turn down the heat.
-
-非常識 [ひじょうしき]
-
+非常識
+ひじょうしき
 lack of common sense
-
 Adjectival Noun
+1
 彼は非常識な時間に電話してきたの。
-
 かれ は ひじょうしきな じかん に でんわ して きた の。
-
 He called me at an unreasonable hour.
-
-出国 [しゅっこく]
-
+出国
+しゅっこく
 departure (from a country)
-
 Verbal Noun
+1
 1週間後に出国します。
-
 1 しゅうかん ご に しゅっこく します。
-
 I'm leaving the country in one week.
-
-段落 [だんらく]
-
+段落
+だんらく
 paragraph
-
 Noun
+1
 次の段落を読んでください。
-
 つぎ の だんらく を よんで ください。
-
 Please read the next paragraph.
-
-種目 [しゅもく]
-
+種目
+しゅもく
 item, event
-
 Noun
+1
 その選手は2種目でメダルを取ったわ。
-
 その せんしゅ は 2 しゅもく で メダル を とった わ。
-
 The athlete won medals in two events.
-
-戦死 [せんし]
-
+戦死
+せんし
 death in war
-
 Verbal Noun
+1
 祖父は戦死しました。
-
 そふ は せんし しました。
-
 My grandfather died in the war.
-
-南西 [なんせい]
-
+南西
+なんせい
 southwest
-
 Noun
+1
 ここから南西に進むと村があります。
-
 ここ から なんせい に すすむ と むら が あります。
-
 You'll see a village if you go in the southwest direction from here.
-
-白紙 [はくし]
-
+白紙
+はくし
 blank sheet of paper
-
 Noun
+1
 テストを白紙で出したの。
-
 テスト を はくし で だした の。
-
 I handed in my test in blank.
-
-発熱 [はつねつ]
-
+発熱
+はつねつ
 heat generation, getting a fever
-
 Verbal Noun
+1
 娘が突然、発熱したんだ。
-
 むすめ が とつぜん、はつねつ した ん だ。
-
 My daughter got a fever all of a sudden.
-
-不平等 [ふびょうどう]
-
+不平等
+ふびょうどう
 unequal, unfair
-
 Adjectival Noun
+1
 職場での男女不平等はよく見られるね。
-
 しょくば で の だんじょ ふびょうどう は よく みられる ね。
-
 Gender inequality in workplace is rather common.
-
-学費 [がくひ]
-
+学費
+がくひ
 tuition
-
 Noun
+1
 彼はアルバイトをして学費を稼いだんだ。
-
 かれ は アルバイト を して がくひ を かせいだ ん だ。
-
 He earned his tuition money by working part-time.
-
-読み書き [よみかき]
-
+読み書き
+よみかき
 reading and writing
-
 Verbal Noun
+1
 息子は学校で読み書きを勉強しています。
-
 むすこ は がっこう で よみ かき を べんきょう して います。
-
 My son is learning reading and writing skills at school.
-
-文系 [ぶんけい]
-
+文系
+ぶんけい
 liberal arts, humanities
-
 Noun
+1
 彼女は文系です。
-
 かのじょ は ぶんけい です。
-
 She's in the humanities department.
-
-震度 [しんど]
-
+震度
+しんど
 seismic intensity
-
 Noun
+1
 今朝の地震は震度3でしたよ。
-
 けさ の じしん は しんど 3 でした よ。
-
 The earthquake this morning measured 3 on the seismic intensity scale.
-
-疑わしい [うたがわしい]
-
+疑わしい
+うたがわしい
 doubtful, suspicious
-
 Adjective
+1
 疑わしい場所は全部調べよう。
-
 うたがわしい ばしょ は ぜんぶ しらべよう。
-
 Let's search in all the suspicious places.
-
-夜空 [よぞら]
-
+夜空
+よぞら
 night sky
-
 Noun
+1
 二人で夜空を見上げたの。
-
 ふたり で よぞら を みあげた の 。
-
 The two of us looked up at the night sky.
-
-砂浜 [すなはま]
-
+砂浜
+すなはま
 sand beach
-
 Noun
+1
 朝早く砂浜を散歩しました。
-
 あさ はやく すなはま を さんぽ しました。
-
 I strolled on the sand beach early in the morning.
-
-多数 [たすう]
-
+多数
+たすう
 large number, a lot of
-
 Noun
+1
 その仕事に多数の応募があったよ。
-
 その しごと に たすう の おうぼ が あった よ。
-
 We've received a lot of applications for the job.

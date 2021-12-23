@@ -2,6 +2,7 @@
 がいこくご
 foreign language
 Noun
+2
 外国語を習うのは難しい。
 がいこく ご を ならう の は むずかしい 。
 Learning a foreign language is hard.
@@ -12,6 +13,7 @@ In Japan, people learn English as a foreign language.
 きもの
 traditional Japanese clothes
 Noun
+2
 彼女は着物がよく似合います。
 かのじょ は きもの が よく にあいます。
 She looks good in kimono.
@@ -22,6 +24,7 @@ Some people wear kimonos during New Year.
 ぎゅうにゅう
 milk
 Noun
+2
 私は毎朝、牛乳を飲む。
 わたし は まいあさ、ぎゅうにゅう を のむ。
 I drink milk every morning.
@@ -32,6 +35,7 @@ This milk has gotten old.
 きゅうきゅうしゃ
 ambulance
 Noun
+2
 誰か救急車を呼んでください。
 だれか きゅうきゅうしゃ を よんで ください。
 Someone please call an ambulance.
@@ -42,6 +46,7 @@ Last night, my grandfather was taken (to the hospital) by an ambulance.
 くだもの
 fruit
 Noun
+2
 デザートに果物を食べましょう。
 デザート に くだもの を たべましょう。
 Let's have some fruit for dessert.
@@ -52,6 +57,7 @@ I ate some unusual fruit yesterday.
 まちがい
 mistake, error
 Noun
+2
 この文には間違いがあります。
 この ぶん に は まちがい が あります。
 There's a mistake in this sentence.
@@ -62,6 +68,7 @@ She repeated the same mistake.
 えいがかん
 movie theater
 Noun
+2
 彼と近くの映画館に行きました。
 かれ と ちかく の えいがかん に いきました。
 I went to a nearby movie theater with him.
@@ -72,6 +79,7 @@ The popcorn at this movie theater is good.
 こわい
 scary, be afraid
 Adjective
+2
 私は犬が怖いです。
 わたし は いぬ が こわい です。
 I'm scared of dogs.
@@ -82,6 +90,7 @@ I had a scary dream.
 かがみ
 mirror
 Noun
+2
 彼女は鏡を見て髪を直した。
 かのじょ は かがみ を みて かみ を なおした。
 She looked in the mirror and fixed her hair.
@@ -92,6 +101,7 @@ I'm scared to look at a mirror at night.
 くさ
 grass, weed
 Noun
+2
 庭に草が生えている。
 にわ に くさ が はえて いる。
 Weeds are growing in the garden.
@@ -102,6 +112,7 @@ The cow is eating grass.
 けいご
 polite speech
 Noun
+2
 お客様には敬語を使いなさい。
 おきゃくさま に は けいご を つかいなさい。
 Use polite language to customers.
@@ -112,6 +123,7 @@ It is difficult to use honorific language properly.
 けっせき
 absence (from school, a gathering, etc.)
 Verbal Noun
+2
 風邪のため今日は欠席します。
 かぜ の ため きょう は けっせき します。
 I'll be absent today because I have a cold.
@@ -122,6 +134,7 @@ She was absent from the Japanese class today.
 スイッチ
 switch
 Noun
+2
 彼はカーラジオのスイッチを入れた。
 かれ は カー ラジオ の スイッチ を いれた。
 He switched on his car radio.
@@ -132,6 +145,7 @@ I don't know where the switch for the light in the room is.
 そうじ
 cleaning
 Verbal Noun
+2
 週末は部屋の掃除をしました。
 しゅうまつ は へや の そうじ を しました。
 I cleaned my room on the weekend.
@@ -142,6 +156,7 @@ Did you clean the toilet?
 たたみ
 straw mat
 Noun
+2
 そのホテルには畳の部屋がある。
 その ホテル に は たたみ の へや が ある。
 That hotel has tatami rooms.
@@ -152,6 +167,7 @@ The new tatami mats smell good.
 はやさ
 speed
 Noun
+2
 新幹線の速さはどれくらいですか。
 しんかんせん の はやさ は どれ くらい です か。
 How fast is the bullet train?
@@ -162,6 +178,7 @@ He ran off at a great speed.
 はやし
 woods, forest
 Noun
+2
 私たちは林の中に入っていった。
 わたし たち は はやし の なか に はいって いった。
 We entered the woods.
@@ -172,6 +189,7 @@ There are deer in the forest.
 プレゼント
 present (loan word)
 Verbal Noun
+2
 誕生日にプレゼントをもらいました。
 たんじょうび に プレゼント を もらいました。
 I got some presents on my birthday.
@@ -182,6 +200,7 @@ My friend gave me a birthday present.
 べんとう
 boxed lunch
 Noun
+2
 今日は弁当を持ってきました。
 きょう は べんとう を もって きました。
 I brought a boxed lunch today.
@@ -192,6 +211,7 @@ My mother makes me a delicious boxed lunch every day.
 いつでも
 at all times, any time
 Adverb
+2
 いつでもうちに来てください。
 いつ で も うち に きて ください。
 Please come to my house any time.
@@ -202,6 +222,7 @@ If you have questions, please ask me any time.
 さびしい
 lonely, desolate
 Adjective
+2
 これは寂しい曲ですね。
 これ は さびしい きょく です ね。
 This is a lonely song.
@@ -212,6 +233,7 @@ I feel lonely because you are not with me.
 すこしも
 (not) in the least
 Adverb
+2
 あなたは少しも悪くない。
 あなた は すこし も わるく ない。
 It's not your fault in the least.
@@ -222,6 +244,7 @@ I didn't understand even a bit of today's math class.
 そんけい
 respect, esteem
 Verbal Noun
+2
 祖父は家族みんなに尊敬されています。
 そふ は かぞく みんな に そんけい されて います。
 My grandfather is respected by the whole family.
@@ -232,6 +255,7 @@ Who is someone you respect?
 テニス
 tennis
 Verbal Noun
+2
 彼らはよくテニスをしています。
 かれら は よく テニス を して います。
 They often play tennis.
@@ -242,6 +266,7 @@ I played tennis on the new court.
 ひろさ
 area, extent
 Noun
+2
 その家の広さはどれ位ですか。
 その いえ の ひろさ は どれ ぐらい です か。
 How big is that house?
@@ -252,6 +277,7 @@ I looked into how big the Tokyo Dome is.
 よみ
 reading
 Noun
+2
 私はその漢字の読みを間違えました。
 わたし は その かんじ の よみ を まちがえました。
 I read the Kanji character wrong.
@@ -262,6 +288,7 @@ There are words that use the same Kanji characters but have two or more differen
 がまん
 patience, endurance
 Verbal Noun
+2
 彼のわがままには我慢できません。
 かれ の わがまま に は がまん できません。
 I can't put up with his selfishness.
@@ -272,6 +299,7 @@ There are times when patience is required.
 こくせき
 nationality, citizenship
 Noun
+2
 私は日本国籍です。
 わたし は にほん こくせき です。
 I'm a Japanese citizen.
@@ -282,6 +310,7 @@ He has Japanese and American citizenship.
 はずかしい
 embarrassed, ashamed
 Adjective
+2
 とても恥ずかしかった。
 とても はずかしかった。
 It was very embarrassing.
@@ -292,6 +321,7 @@ I'm embarrassed that my handwriting is messy.
 ボタン
 button
 Noun
+2
 ボタンを押してください。
 ボタン を おして ください。
 Please press the button.
@@ -302,6 +332,7 @@ My shirt button came off.
 ようふく
 (western-style) clothes
 Noun
+2
 今日は洋服を買いにいきます。
 きょう は ようふく を かい に いきます 。
 I'm going to buy some clothes today.
@@ -312,6 +343,7 @@ She has lots of clothes.
 あぶら
 oil
 Noun
+2
 水と油は混ざらない。
 みず と あぶら は まざらない。
 Oil and water don't mix.
@@ -322,6 +354,7 @@ When I cook, I don't use that much oil.
 おかしい
 funny, comical
 Adjective
+2
 彼の話はおかしかった。
 かれ の はなし は おかしかった。
 His story was funny.
@@ -332,6 +365,7 @@ It's funny that he/she has done a childish thing.
 あまる
 remain, be in excess
 Verb
+2
 夕食の料理がたくさん余った。
 ゆうしょく の りょうり が たくさん あまった。
 We have a lot of leftover from dinner.
@@ -342,6 +376,7 @@ There's a bit of money leftover (from the amount that) we collected from everybo
 コート
 sports court
 Noun
+2
 新しいコートでテニスをしました。
 あたらしい コート で テニス を しました。
 I played tennis on the new court.
@@ -352,6 +387,7 @@ We use (the counting word) "men" to count game courts.
 しょうじき
 honest, upright
 Adjectival Noun
+2
 彼女はとても正直だ。
 かのじょ は とても しょうじき だ。
 She's very honest.
@@ -362,6 +398,7 @@ Please tell me how you really feel.
 ドラマ
 drama
 Noun
+2
 私はドラマを見るのが好きです。
 わたし は ドラマ を みる の が すき です。
 I like to watch TV dramas.
@@ -372,6 +409,7 @@ I watch daytime dramas every day.
 ビザ
 visa
 Noun
+2
 学生ビザを持っています。
 がくせい ビザ を もって います。
 I have a student visa.
@@ -382,6 +420,7 @@ Can we enter the country without a visa?
 すいどう
 water service, channel
 Noun
+2
 東京は水道の水がまずい。
 とうきょう は すいどう の みず が まずい。
 Tap water in Tokyo doesn't taste good.
@@ -392,6 +431,7 @@ In this country, you must not drink the tap water.
 てんいん
 clerk, salesperson
 Noun
+2
 あの店員はとても親切です。
 あの てんいん は とても しんせつ です。
 That store clerk is very kind.
@@ -402,6 +442,7 @@ The salesclerk was a young woman.
 でんち
 battery
 Noun
+2
 新しい電池を入れましょう。
 あたらしい でんち を いれましょう。
 Let's put in a new battery.
@@ -412,6 +453,7 @@ The battery of my cell phone is drained.
 ポケット
 pocket
 Noun
+2
 財布をポケットにしまった。
 さいふ を ポケット に しまった。
 I put my wallet in my pocket.
@@ -422,6 +464,7 @@ I have a handkerchief in my right pocket.
 あくしゅ
 handshake
 Verbal Noun
+2
 彼らは握手をした。
 かれら は あくしゅ を した。
 They shook hands.
@@ -432,6 +475,7 @@ After the graduation ceremony, I shook hands with the teacher.
 そろそろ
 soon, it's about time
 Adverb
+2
 そろそろ始めましょうか。
 そろそろ はじめましょう か。
 It's about time to begin.
@@ -442,6 +486,7 @@ Well, it's about time for me to go.
 ぶどう
 grapes
 Noun
+2
 私はぶどうが好きです。
 わたし は ぶどう が すき です。
 I like grapes.
@@ -452,6 +497,7 @@ These grapes are sour.
 まよう
 get lost
 Verb
+2
 道に迷いました。
 みち に まよいました。
 I'm lost.
@@ -462,6 +508,7 @@ I was late because I got lost on the way.
 けんぶつ
 sightseeing, visit
 Verbal Noun
+2
 みんなで東京見物をした。
 みんな で とうきょう けんぶつ を した。
 We all went sightseeing in Tokyo.
@@ -472,6 +519,7 @@ Today, we did sightseeing in Asakusa.
 しらせる
 let know, inform
 Verb
+2
 みんなに会議の日にちを知らせた。
 みんな に かいぎ の ひにち を しらせた 。
 I informed everyone of the date of the meeting.
@@ -482,6 +530,7 @@ A friend of mine told me the time of the concert.
 じんじゃ
 Shinto shrine
 Noun
+2
 京都には神社がたくさんある。
 きょうと に は じんじゃ が たくさん ある。
 There are many Shinto shrines in Kyoto.
@@ -492,6 +541,7 @@ Today, there is a festival at the shrine.
 ちゅうしゃ
 injection, shot
 Verbal Noun
+2
 彼は注射があまり好きではありません。
 かれ は ちゅうしゃ が あまり すき で は ありません。
 He doesn't like getting shots very much.
@@ -502,6 +552,7 @@ Because I had a high fever, I got a shot.
 めったに
 rarely, seldom
 Adverb
+2
 彼女はめったに怒りません。
 かのじょ は めった に おこりません。
 She rarely gets angry.
@@ -512,6 +563,7 @@ I rarely watch TV.
 さくぶん
 composition, essay
 Noun
+2
 日本語で作文を書きました。
 にほん ご で さくぶん を かきました。
 I wrote an essay in Japanese.
@@ -522,6 +574,7 @@ My teacher corrected my composition a lot.
 なる
 sound, ring
 Verb
+2
 今朝、5時に電話が鳴った。
 けさ、5 じ に でんわ が なった。
 The phone rang at five o'clock this morning.
@@ -532,6 +585,7 @@ The door bell rang.
 まじめ
 serious and sincere
 Adjectival Noun
+2
 彼は真面目な人です。
 かれ は まじめな ひと です。
 He's a serious and sincere person.
@@ -542,6 +596,7 @@ He's a serious student.
 もうしこむ
 apply, sign up
 Verb
+2
 彼女はそのセミナーに申し込んだ。
 かのじょ は その セミナー に もうしこんだ。
 She registered for that workshop.
@@ -552,6 +607,7 @@ If you are going to take the Japanese test, please apply before the 5th of the n
 れいぞうこ
 refrigerator
 Noun
+2
 飲み物は冷蔵庫にあります。
 のみもの は れいぞうこ に あります。
 Drinks are in the refrigerator.
@@ -562,6 +618,7 @@ The refrigerator broke down.
 きにいる
 like, become fond of
 Verb
+2
 新しい靴がとても気に入りました。
 あたらしい くつ が とても きにいりました。
 I really like my new shoes.
@@ -572,6 +629,7 @@ I like this bag.
 クリスマス
 Christmas
 Noun
+2
 クリスマスにはケーキを食べます。
 クリスマス に は ケーキ を たべます。
 We eat cake at Christmas.
@@ -582,6 +640,7 @@ It snowed on Christmas Day.
 ネクタイ
 tie, necktie
 Noun
+2
 父の日にネクタイをプレゼントした。
 ちち の ひ に ネクタイ を プレゼント した。
 I gave him a tie on Father's Day.
@@ -592,6 +651,7 @@ At our company, men have to wear a tie.
 たんじょうび
 birthday
 Noun
+2
 彼女の誕生日は7月16日です。
 かのじょ の たんじょうび は 7 がつ 16 にち です。
 Her birthday is July 16th.
@@ -602,6 +662,7 @@ I got some presents on my birthday.
 どくしん
 single, unmarried
 Noun
+2
 私の兄はまだ独身です。
 わたし の あに は まだ どくしん です。
 My big brother's still single.
@@ -612,6 +673,7 @@ I want to stay single forever.
 にがい
 bitter
 Adjective
+2
 私は苦いコーヒーが好きです。
 わたし は にがい コーヒー が すき です。
 I like bitter coffee.
@@ -622,6 +684,7 @@ This medicine is very bitter.
 バイオリン
 violin
 Noun
+2
 彼女はバイオリンを習っています。
 かのじょ は バイオリン を ならって います。
 She's learning the violin.
@@ -632,6 +695,7 @@ My daughter is practicing the violin now.
 バッグ
 bag
 Noun
+2
 私は黒いバッグを持っています。
 わたし は くろい バッグ を もって います。
 I have a black bag.
@@ -642,6 +706,7 @@ My mother has a lot of expensive bags.
 いままで
 until now
 Adverb
+2
 今までどこにいたのですか。
 いま まで どこ に いた の です か。
 Where have you been?
@@ -652,6 +717,7 @@ I'm different from before.
 きっぷ
 ticket
 Noun
+2
 東京までの切符を買った。
 とうきょう まで の きっぷ を かった。
 I bought a ticket to Tokyo.
@@ -662,6 +728,7 @@ I'd like a roundtrip ticket please.
 ゴム
 elastic, rubber
 Noun
+2
 ゴムが伸びてしまった。
 ゴム が のびて しまった。
 The elastic has gone loose.
@@ -672,6 +739,7 @@ I took a rubber boat to the sea.
 しょうしょう
 a little, a bit
 Adverb
+2
 塩を少々入れてください。
 しお を しょうしょう いれて ください。
 Please put in a little salt.
@@ -682,6 +750,7 @@ Please wait for a little while.
 ずいぶん
 extremely, considerably
 Adverb
+2
 随分早く終わったね。
 ずいぶん はやく おわった ね。
 You finished really early.
@@ -692,6 +761,7 @@ You say extremely terrible things.
 ひっぱる
 pull, drag
 Verb
+2
 娘が私の手を引っ張った。
 むすめ が わたし の て を ひっぱった。
 My daughter tugged on my hand.
@@ -702,6 +772,7 @@ That girl is being dragged by the dog.
 やける
 burn, cook
 Verb
+2
 肉が焼けました。
 にく が やけました。
 The meat is cooked.
@@ -712,6 +783,7 @@ The house burned down in a fire.
 えんぴつ
 pencil
 Noun
+2
 鉛筆を貸してください。
 えんぴつ を かして ください。
 Can I borrow a pencil?
@@ -722,6 +794,7 @@ Do you have paper and pencil?
 かいわ
 conversation
 Verbal Noun
+2
 親子の会話は大切です。
 おやこ の かいわ は たいせつ です。
 Conversation between parents and children is important.
@@ -732,6 +805,7 @@ The couple is not having a conversation.
 ギター
 guitar
 Noun
+2
 彼女はギターが得意です。
 かのじょ は ギター が とくい です。
 She's good at the guitar.
@@ -742,6 +816,7 @@ He plays the guitar.
 ちゃ
 tea (plain form)
 Noun
+2
 私たちは毎日お茶を飲みます。
 わたし たち は まいにち おちゃ を のみます。
 We drink tea every day.
@@ -752,6 +827,7 @@ My grandmother likes hot tea.
 あつさ
 heat (of weather)
 Noun
+2
 今年の夏は暑さが厳しい。
 ことし の なつ は あつさ が きびしい。
 The heat this summer is overbearing.
@@ -762,6 +838,7 @@ Everybody is tired from this heat.
 い
 stomach
 Noun
+2
 昨日から胃が痛い。
 きのう から い が いたい。
 I've had a stomach ache since yesterday.
@@ -772,6 +849,7 @@ I ate a lot, so I feel full in the stomach.
 きんえん
 non-smoking
 Verbal Noun
+2
 彼は今、禁煙しています。
 かれ は いま、きんえん して います。
 He's quit smoking now.
@@ -782,6 +860,7 @@ This seat is non-smoking.
 まるい
 round
 Adjective
+2
 地球は丸い。
 ちきゅう は まるい。
 The earth is round.
@@ -792,6 +871,7 @@ That child's face has become a bit round.
 うつる
 be taken , come out (in photograph)
 Verb
+2
 このカメラはよく写りますよ。
 この カメラ は よく うつります よ。
 Photos taken with this camera come out well.
@@ -802,6 +882,7 @@ There is a stranger in this picture.
 きっさてん
 coffee shop, café
 Noun
+2
 喫茶店でコーヒーを飲んだ。
 きっさてん で コーヒー を のんだ。
 I drank coffee in the café
@@ -812,6 +893,7 @@ Let's meet at 3 o'clock at the usual cafe.
 やっぱり
 just as I thought, after all
 Adverb
+2
 やっぱり旅が大好きだ。
 やっぱり たび が だいすき だ。
 I just love to travel.
@@ -822,6 +904,7 @@ He didn't come after all.
 しゅうかんし
 weekly magazine
 Noun
+2
 その週刊誌はゴシップばかりだ。
 その しゅうかん し は ゴシップ ばかり だ。
 That weekly is full of gossip.
@@ -832,6 +915,7 @@ I buy this weekly magazine every week.
 たな
 shelf, rack
 Noun
+2
 大きな棚はとても便利です。
 おおきな たな は とても べんり です。
 A large set of shelves is very useful.
@@ -842,6 +926,7 @@ Please take the box down from the shelf.
 ふるえる
 tremble, shake
 Verb
+2
 彼は寒くて震えていました。
 かれ は さむくて ふるえて いました。
 He was shivering with cold.
@@ -852,6 +937,7 @@ My shoulders were shaking from trying not to laugh during the class.
 みがく
 polish, grind, brush
 Verb
+2
 靴を磨いてください。
 くつ を みがいて ください。
 Please polish your shoes.
@@ -862,6 +948,7 @@ I want to polish my Japanese skills.
 カーテン
 curtain
 Noun
+2
 朝、カーテンを開けた。
 あさ、カーテン を あけた。
 I opened the curtains in the morning.
@@ -872,6 +959,7 @@ It's gotten dark, so please close the curtains.
 かじ
 fire, blaze
 Noun
+2
 火事です。119番に電話してください。
 かじ です。 119 ばん に でんわ して ください。
 There's a fire. Please call 119.
@@ -882,6 +970,7 @@ The house burned down in a fire.
 ナイフ
 knife
 Noun
+2
 ナイフで手を切った。
 ナイフ で て を きった。
 I cut my hand with a knife.
@@ -892,6 +981,7 @@ The knife cuts well.
 みなさん
 everybody, everyone (polite)
 Noun
+2
 皆さんにお話があります。
 みなさん に おはなし が あります。
 I have something to say to you all.
@@ -902,6 +992,7 @@ Everybody, please be quiet.
 うける
 receive, take, undergo
 Verb
+2
 彼は就職試験を受けた。
 かれ は しゅうしょく しけん を うけた。
 He took an exam to apply for a job.
@@ -912,6 +1003,7 @@ If you are going to take the Japanese test, please apply before the 5th of the n
 つく
 stick to, cling to
 Verb
+2
 靴に泥が付いています。
 くつ に どろ が ついて います。
 I have mud on my shoes.
@@ -922,6 +1014,7 @@ I got cat hair on my sweater.
 わたくし
 I (formal)
 Noun
+2
 私は北海道の出身です。
 わたくし は ほっかいどう の しゅっしん です。
 I'm from Hokkaido.
@@ -932,6 +1025,7 @@ I'm Ito.
 けっこう
 quite
 Adverb
+2
 彼女は結構めがねが似合うね。
 かのじょ は けっこう めがね が にあう ね。
 She looks quite good in glasses.
@@ -942,6 +1036,7 @@ Lately, I've been quite busy.
 わるくち
 slander, abuse
 Noun
+2
 彼は決して人の悪口を言わないの。
 かれ は けっして ひと の わるくち を いわない の。
 He never speaks ill of other people.
@@ -952,6 +1047,7 @@ Someone seems to speak ill of me.
 ひろまる
 spread, get around
 Verb
+2
 その噂はすぐに広まったよ。
 その うわさ は すぐ に ひろまった よ。
 The rumor spread quickly.
@@ -962,6 +1058,7 @@ The flu spread rapidly.
 ないしょ
 secrecy, privacy
 Noun
+2
 この話は課長には内緒ですよ。
 この はなし は かちょう に は ないしょ です よ。
 You have to keep this secret from the section chief.
@@ -972,6 +1069,7 @@ I bought a new computer without telling my wife.
 つぶる
 close (eyes)
 Verb
+2
 目をつぶってください。
 め を つぶって ください。
 Close your eyes.
@@ -982,6 +1080,7 @@ I closed my eyes and thought carefully.
 ようけん
 matter, things to be done
 Noun
+2
 用件をメモしておきました。
 ようけん を メモ して おきました。
 I made a note of the matter.
@@ -992,6 +1091,7 @@ How can I help you?
 ロマンチック
 romantic
 Adjective
+2
 彼女はロマンチックな人です。
 かのじょ は ロマンチックな ひと です。
 She's a romantic person.

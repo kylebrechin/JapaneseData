@@ -1,1149 +1,848 @@
-言い訳 [いいわけ]
-
+言い訳
+いいわけ
 excuse
-
 Verbal Noun
+1
 あなたは言い訳が多すぎます。
-
 あなた は いいわけ が おお すぎます。
-
 You give too many excuses.
-
+ミュージック
 ミュージック
 music (loan word)
-
 Noun
+1
 彼はソウルミュージックをよく聞くの。
-
 かれ は ソウル ミュージック を よく きく の。
-
 He often listens to soul music.
-
-青春 [せいしゅん]
-
+青春
+せいしゅん
 blossom of youth, adolescence
-
 Noun
+1
 この曲を聞くと青春の頃を思い出します。
-
 この きょく を きく と せいしゅん の ころ を おもいだします。
-
 This song reminds me of my youth.
-
+あっさり
 あっさり
 bluntly, easily
-
 Adverb
+1
 そうあっさり言わないで。
-
 そう あっさり いわない で。
-
 Don't say it so bluntly.
-
-焦る [あせる]
-
+焦る
+あせる
 feel pressured, feel hurried
-
 Verb
+1
 何をそんなに焦っているのですか。
-
 なに を そんな に あせって いる の です か。
-
 Why are you in such a hurry?
-
-柔軟 [じゅうなん]
-
+柔軟
+じゅうなん
 pliable, flexible
-
 Adjectival Noun
+1
 彼は柔軟に対応をした。
-
 かれ は じゅうなん に たいおう を した。
-
 He gave a flexible response.
-
+タレント
 タレント
 celebrity, TV personality
-
 Noun
+1
 彼はタレントなのでよくテレビに出ています。
-
 かれ は タレント なので よく テレビ に でて います。
-
 He's a celebrity, so he often appears on TV.
-
+どうにか
 どうにか
 somehow
-
 Adverb
+1
 どうにか締め切りに間に合った。
-
 どうにか しめきり に まにあった。
-
 I somehow managed to meet the deadline.
-
+コンテスト
 コンテスト
 contest, competition
-
 Noun
+1
 このコンテストに優勝すると車がもらえるんだ。
-
 この コンテスト に ゆうしょう する と くるま が もらえる ん だ。
-
 If you win this contest, you'll get a car.
-
+もてる
 もてる
 be popular (esp. with the opposite sex)
-
 Verb
+1
 彼は非常にもてるね。
-
 かれ は ひじょう に もてる ね。
-
 He's very popular.
-
+デザート
 デザート
 dessert
-
 Noun
+2
 デザートにケーキを食べました。
-
 デザート に ケーキ を たべました。
-
 I had cake for dessert.
-
 デザートに果物を食べましょう。
-
 デザート に くだもの を たべましょう。
-
 Let's have some fruit for dessert.
-
+クイズ
 クイズ
 quiz, quiz show
-
 Noun
+1
 クイズ番組を見るのが好きです。
-
 クイズ ばんぐみ を みる の が すき です。
-
 I like to watch quiz shows.
-
-中毒 [ちゅうどく]
-
+中毒
+ちゅうどく
 poisoning, addiction
-
 Verbal Noun
+1
 そのホテルで食中毒が発生したんだ。
-
 その ホテル で しょくちゅうどく が はっせい した ん だ。
-
 Food poisoning broke out at the hotel.
-
+ムード
 ムード
 mood
-
 Noun
+1
 部屋を暗くしてムードを出してみたよ。
-
 へや を くらく して ムード を だして みた よ。
-
 I darkened the room to set the mood.
-
-同情 [どうじょう]
-
+同情
+どうじょう
 sympathy, compassion
-
 Verbal Noun
+1
 友人は私に同情してくれたよ。
-
 ゆうじん は わたし に どうじょう して くれた よ。
-
 My friend sympathized with me.
-
-学歴 [がくれき]
-
+学歴
+がくれき
 educational background
-
 Noun
+1
 その職は大卒の学歴が必要だ。
-
 その しょく は だいそつ の がくれき が ひつよう だ。
-
 That job requires a college diploma.
-
-好調 [こうちょう]
-
+好調
+こうちょう
 good condition
-
 Adjectival Noun
+2
 今月はエアコンの売り上げが好調です。
-
 こんげつ は エアコン の うりあげ が こうちょう です。
-
 Sales of air conditioners are good this month.
-
 その選手は今シーズンも好調だね。
-
 その せんしゅ は こん シーズン も こうちょう だ ね。
-
 That player is good this season as well.
-
+アマチュア
 アマチュア
 amateur
-
 Noun
+1
 彼はアマチュア音楽家です。
-
 かれ は アマチュア おんがく か です。
-
 He is an amateur musician.
-
-炒める [いためる]
-
+炒める
+いためる
 stir-fry
-
 Verb
+1
 次に、野菜を炒めてください。
-
 つぎ に、 やさい を いためて ください 。
-
 Next, stir-fry the vegetables.
-
+カメラマン
 カメラマン
 photographer
-
 Noun
+1
 将来はプロのカメラマンになりたいです。
-
 しょうらい は プロ の カメラマン に なりたい です。
-
 I want to be a professional photographer in the future.
-
-問い合わせる [といあわせる]
-
+問い合わせる
+といあわせる
 inquire, ask for (information)
-
 Verb
+1
 保険会社に問い合わせます。
-
 ほけん がいしゃ に といあわせます。
-
 I'll inquire with my insurance company.
-
+しょっちゅう
 しょっちゅう
 frequently, repeatedly
-
 Adverb
+1
 彼はしょっちゅう遅刻しているな。
-
 かれ は しょっちゅう ちこく して いる な。
-
 He is frequently late.
-
+ロープ
 ロープ
 rope (loan word)
-
 Noun
+1
 ロープを使って崖を下りたんだ。
-
 ロープ を つかって がけ を おりた ん だ。
-
 I descended the cliff using a rope.
-
+ストライキ
 ストライキ
 strike
-
 Noun
+1
 従業員は明日からストライキです。
-
 じゅうぎょう いん は あす から ストライキ です。
-
 Employees will go on strike from tomorrow.
-
+パンク
 パンク
 flat tire
-
 Verbal Noun
+1
 自転車のタイヤがパンクしました。
-
 じてんしゃ の タイヤ が パンク しました。
-
 My bike got a flat tire.
-
+コマーシャル
 コマーシャル
 commercial, advertising
-
 Noun
+1
 彼女はテレビのコマーシャルに出ているわ。
-
 かのじょ は テレビ の コマーシャル に でて いる わ。
-
 She is on a TV commercial.
-
+チェンジ
 チェンジ
 change, exchange
-
 Verbal Noun
+1
 坂道でギアーをチェンジしたよ。
-
 さかみち で ギアー を チェンジ した よ。
-
 I changed gear on the slope.
-
-待ち合わせ [まちあわせ]
-
+待ち合わせ
+まちあわせ
 meeting with someone, appointment
-
 Verbal Noun
+2
 明日の待ち合わせは11時です。
-
 あす の まちあわせ は 11 じ です。
-
 Tomorrow we'll meet at 11 o'clock.
-
 待ち合わせは2時だと勘違いしていました。
-
 まちあわせ は 2 じ だ と かんちがい して いました。
-
 I mistakenly thought the meeting was at two o'clock.
-
-時差 [じさ]
-
+時差
+じさ
 time difference
-
 Noun
+1
 日本とフランスの時差は8時間です。
-
 にっぽん と フランス の じさ は 8 じかん です。
-
 The time difference between Japan and France is eight hours.
-
-義理 [ぎり]
-
+義理
+ぎり
 sense of duty, obligation
-
 Noun
+1
 彼は義理を大切にしています。
-
 かれ は ぎり を たいせつ に して います。
-
 Having a sense of duty is important to him.
-
+さっと
 さっと
 quickly
-
 Adverb
+1
 こぼれた牛乳をさっと拭き取ったの。
-
 こぼれた ぎゅうにゅう を さっと ふき とった の。
-
 I quickly wiped off the spilt milk.
-
-左利き [ひだりきき]
-
+左利き
+ひだりきき
 left-handedness
-
 Noun
+1
 私の息子は左利きです。
-
 わたし の むすこ は ひだりきき です。
-
 My son is left-handed.
-
-サボる [サボル]
-
+サボる
+サボル
 slack off, ditch
-
 Verb
+1
 また仕事をサボっていますね。
-
 また しごと を サボって います ね。
-
 He's slacking off at work again, isn't he?
-
+だるい
 だるい
 feel run-down, weary
-
 Adjective
+2
 昨日は風邪で少しだるかったんだ。
-
 きのう は かぜ で すこし だるかった ん だ。
-
 Yesterday I felt run-down because I had a cold.
-
 今日はなぜか体がだるい。
-
 きょう は なぜ か からだ が だるい。
-
 I feel heavy today for some reason.
-
+ポット
 ポット
 pot, thermos
-
 Noun
+1
 お湯はポットに入っています。
-
 おゆ は ポット に はいって います。
-
 There's some hot water in the thermos pot.
-
+レントゲン
 レントゲン
 X-rays
-
 Noun
+1
 病院でレントゲンを撮ったよ。
-
 びょういん で レントゲン を とった よ。
-
 I had X-rays taken at the hospital.
-
-心強い [こころづよい]
-
+心強い
+こころづよい
 reassuring, heartening
-
 Adjective
+1
 あなたが一緒にいてくれると心強い。
-
 あなた が いっしょ に いて くれる と こころづよい。
-
 I feel reassured when you are with me.
-
-無駄遣い [むだづかい]
-
+無駄遣い
+むだづかい
 wasteful spending
-
 Verbal Noun
+1
 無駄遣いを親に叱られたよ。
-
 むだづかい を おや に しかられた よ。
-
 My parents reproached me for being wasteful.
-
+バッジ
 バッジ
 badge
-
 Noun
+1
 彼は弁護士バッジを付けていたよ。
-
 かれ は べんごし バッジ を つけて いた よ。
-
 He was wearing a lawyer's badge.
-
-眼科 [がんか]
-
+眼科
+がんか
 ophthalmology, eye clinic
-
 Noun
+1
 眼科で視力検査をしました。
-
 がんか で しりょく けんさ を しました。
-
 I took a vision test at the eye clinic.
-
-履歴書 [りれきしょ]
-
+履歴書
+りれきしょ
 resume, curriculum vitae
-
 Noun
+1
 面接のために履歴書を書きました。
-
 めんせつ の ため に りれきしょ を かきました。
-
 I wrote a resume for my interview.
-
+インフレーション
 インフレーション
 inflation
-
 Noun
+1
 市場にはインフレーションの影響が出ているね。
-
 しじょう に は インフレーション の えいきょう が でて いる ね。
-
 The market is showing the impact of inflation.
-
-癌 [がん]
-
+癌
+がん
 cancer
-
 Noun
+1
 祖父は癌で亡くなりました。
-
 そふ は がん で なくなりました。
-
 My grandfather died of cancer.
-
+ぺこぺこ
 ぺこぺこ
 bow, kowtow
-
 Adverb
+1
 彼は上司にぺこぺこしている。
-
 かれ は じょうし に ぺこぺこ して いる。
-
 He's kowtowing to his boss.
-
-嘘つき [うそつき]
-
+嘘つき
+うそつき
 liar
-
 Noun
+1
 嘘つきは泥棒の始まりよ。
-
 うそつき は どろぼう の はじまり よ。
-
 He that will lie, will steal.
-
+おごる
 おごる
 treat, pay for (someone)
-
 Verb
+1
 彼に食事をおごってもらった。
-
 かれ に しょくじ を おごって もらった。
-
 He treated me to a meal.
-
-十字路 [じゅうじろ]
-
+十字路
+じゅうじろ
 crossroads
-
 Noun
+1
 十字路で車とバイクが衝突したぞ。
-
 じゅうじろ で くるま と バイク が しょうとつ した ぞ。
-
 A car collided with a motorcycle in the crossroads.
-
+びっしょり
 びっしょり
 drenched, soaked
-
 Adverb
+1
 運動して汗びっしょりです。
-
 うんどう して あせ びっしょり です。
-
 I'm drenched in sweat now because I exercised.
-
+だぶだぶ
 だぶだぶ
 baggy, too big
-
 Adverb
+1
 この服は大き過ぎてだぶだぶです。
-
 この ふく は おおき すぎて だぶだぶ です。
-
 These clothes are too big and baggy.
-
+おだてる
 おだてる
 flatter
-
 Verb
+1
 彼は人をおだてるのが上手です。
-
 かれ は ひと を おだてる の が じょうず です。
-
 He is good at flattering people.
-
+かかと
 かかと
 heel
-
 Noun
+1
 靴のかかとで彼の足を踏んでしまったの。
-
 くつ の かかと で かれ の あし を ふんで しまった の。
-
 I stepped on his foot with the heel of my shoe.
-
+ほっと
 ほっと
 feel relieved
-
 Adverb
+1
 家に着いてほっとしたよ。
-
 いえ に ついて ほっと した よ。
-
 I felt relieved to be home.
-
-傷つける [きずつける]
-
+傷つける
+きずつける
 hurt (someone), damage (something)
-
 Verb
+1
 あなたを傷つけるつもりはありませんでした。
-
 あなた を きずつける つもり は ありませんでした。
-
 I didn't mean to hurt you.
-
+うつむく
 うつむく
 look down, lower one's eyes
-
 Verb
+1
 彼はうつむいて何かを考えているね。
-
 かれ は うつむいて なに か を かんがえて いる ね。
-
 He is thinking about something with his head down.
-
-前売り券 [まえうりけん]
-
+前売り券
+まえうりけん
 advance ticket
-
 Noun
+1
 コンサートの前売り券を手に入れたんだ。
-
 コンサート の まえうり けん を て に いれた ん だ。
-
 I got an advance ticket for the concert.
-
-短期 [たんき]
-
+短期
+たんき
 short-term
-
 Noun
+1
 明日から2週間、短期のアルバイトをします。
-
 あした から 2 しゅうかん、たんき の アルバイト を します。
-
 Starting tomorrow I will have a short-term job for two weeks.
-
-舐める [なめる]
-
+舐める
+なめる
 lick
-
 Verb
+1
 犬に顔を舐められました。
-
 いぬ に かお を なめられました。
-
 The dog licked my face.
-
-本日 [ほんじつ]
-
+本日
+ほんじつ
 today (formal)
-
 Noun
+1
 本日のランチはハンバーグでございます。
-
 ほんじつ の ランチ は ハンバーグ で ございます。
-
 The lunch of the day is hamburger steak.
-
-業界 [ぎょうかい]
-
+業界
+ぎょうかい
 industry, business world
-
 Noun
+1
 私はIT業界で働いています。
-
 わたし は アイティー ぎょうかい で はたらいて います。
-
 I work in the IT industry.
-
+ネットワーク
 ネットワーク
 network
-
 Noun
+2
 最近、社内ネットワークの調子が悪い。
-
 さいきん、しゃない ネットワーク の ちょうし が わるい。
-
 Our office intranet doesn't work well recently.
-
 コンピューターをネットワークに接続しました。
-
 コンピューター を ネットワーク に せつぞく しました。
-
 The computer has been connected with the network.
-
-弁護士 [べんごし]
-
+弁護士
+べんごし
 lawyer, attorney
-
 Noun
+2
 父は弁護士です。
-
 ちち は べんごし です。
-
 My father's a lawyer.
-
 彼はついに弁護士の資格を取ったよ。
-
 かれ は ついに べんごし の しかく を とった よ。
-
 He finally passed the bar examination.
-
-入力 [にゅうりょく]
-
+入力
+にゅうりょく
 input, entry
-
 Verbal Noun
+1
 彼女の仕事はデータの入力です。
-
 かのじょ の しごと は データ の にゅうりょく です。
-
 Her job is inputting data.
-
-画面 [がめん]
-
+画面
+がめん
 screen
-
 Noun
+2
 テレビの画面が明るすぎる。
-
 テレビ の がめん が あかる すぎる。
-
 The TV screen is too bright.
-
 画面の左側を見てください。
-
 がめん の ひだりがわ を みて ください。
-
 Please look at the left side of the screen.
-
-前回 [ぜんかい]
-
+前回
+ぜんかい
 last time
-
 Noun
+1
 前回の続きから始めます。
-
 ぜんかい の つづき から はじめます。
-
 We'll start from where we left off last time.
-
-後半 [こうはん]
-
+後半
+こうはん
 latter half, second half
-
 Noun
+1
 ドラマの後半は来週放送されるんだ。
-
 ドラマ の こうはん は らいしゅう ほうそう される ん だ。
-
 The second half of the drama will be broadcasted next week.
-
-自信 [じしん]
-
+自信
+じしん
 confidence
-
 Noun
+1
 あの人の顔には自信があふれているね。
-
 あの ひと の かお に は じしん が あふれて いる ね。
-
 That person's face is brimming with confidence.
-
-素敵 [すてき]
-
+素敵
+すてき
 lovely, nice
-
 Adjectival Noun
+2
 素敵なプレゼントをありがとう。
-
 すてきな プレゼント を ありがとう。
-
 Thank you for the wonderful gift.
-
 このアクセサリーは素敵ね。
-
 この アクセサリー は すてき ね。
-
 This jewelry is lovely.
-
-当たり前 [あたりまえ]
-
+当たり前
+あたりまえ
 no wonder, natural
-
 Adjectival Noun
+1
 あなたの成績が下がったのは当たり前です。
-
 あなた の せいせき が さがった の は あたりまえ です。
-
 No wonder your grades dropped.
-
-やり方 [やりかた]
-
+やり方
+やりかた
 way of doing
-
 Noun
+1
 仕事のやり方を教えてください。
-
 しごと の やりかた を おしえて ください。
-
 Please teach me how to do the job.
-
+わずか
 わずか
 meager, marginal
-
 Adjectival Noun
+1
 彼はわずかな貯金で暮らしている。
-
 かれ は わずかな ちょきん で くらして いる。
-
 He lives on his meager savings.
-
+ついに
 ついに
 at last, at length
-
 Adverb
+2
 彼はついに弁護士の資格を取ったよ。
-
 かれ は ついに べんごし の しかく を とった よ。
-
 He passed the bar examination at length.
-
 ついに実験が成功した。
-
 ついに じっけん が せいこう した。
-
 The experiment finally succeeded.
-
-次回 [じかい]
-
+次回
+じかい
 next time
-
 Noun
+1
 次回の会議は2週間後に行います。
-
 じかい の かいぎ は 2 しゅうかん ご に おこないます。
-
 The next meeting will be held in two weeks.
-
+スピード
 スピード
 speed (loan word)
-
 Noun
+2
 カーブを曲がるときはスピードを落としましょう。
-
 カーブ を まがる とき は スピード を おとしましょう。
-
 You should slow down when driving around a bend.
-
 今は便利さとスピードの時代だ。
-
 いま は べんりさ と スピード の じだい だ。
-
 We're living in the age of convenience and speed.
-
+バイト
 バイト
 part-time job (for short)
-
 Verbal Noun
+2
 今日は6時からバイトです。
-
 きょう は 6 じ から バイト です。
-
 My part-time job starts at 6 today.
-
 水曜日はバイトがあります。
-
 すいようび は バイト が あります。
-
 I work part time on Wednesdays.
-
-不可能 [ふかのう]
-
+不可能
+ふかのう
 impossible
-
 Adjectival Noun
+1
 レポートを1日で仕上げるのは不可能です。
-
 レポート を 1 にち で しあげる の は ふかのう です。
-
 It's impossible to finish up the report in one day.
-
+アドバイス
 アドバイス
 advice
-
 Verbal Noun
+1
 彼のアドバイスはいつも有り難いわね。
-
 かれ の アドバイス は いつも ありがたい わ ね。
-
 I always appreciate his advice.
-
-落ち着く [おちつく]
-
+落ち着く
+おちつく
 calm down, settle in
-
 Verb
+2
 私の話を落ち着いて聞いてください。
-
 わたし の はなし を おちついて きいて ください。
-
 Calm down and listen to me.
-
 まあまあ、落ち着いてください。
-
 まあ まあ、おちついて ください。
-
 Now, now, please settle down.
-
+せっかく
 せっかく
 with much trouble
-
 Adverb
+1
 せっかく来たんだからゆっくりしていきなさい。
-
 せっかく きた ん だ から ゆっくり して いきなさい。
-
 Since you've come with much trouble, stay for a while.
-
+つい
 つい
 inadvertently, carelessly
-
 Adverb
+1
 会議中、ついあくびをしてしまいました。
-
 かいぎ ちゅう、つい あくび を して しまいました。
-
 I inadvertently yawned during the meeting.
-
-大手 [おおて]
-
+大手
+おおて
 major company
-
 Noun
+1
 彼は大手のメーカーに勤めています。
-
 かれ は おおて の メーカー に つとめて います。
-
 He works for a big manufacturing company.
-
-部長 [ぶちょう]
-
+部長
+ぶちょう
 department head
-
 Noun
+2
 部長に仕事の相談をしたんだ。
-
 ぶちょう に しごと の そうだん を した ん だ。
-
 I consulted the manager about my job.
-
 部長は京都に出張中です。
-
 ぶちょう は きょうと に しゅっちょう ちゅう です。
-
 The manager is on a business trip to Kyoto.
-
-前半 [ぜんはん]
-
+前半
+ぜんはん
 first half
-
 Noun
+1
 相手チームのリードで前半が終わったよ。
-
 あいて チーム の リード で ぜんはん が おわった よ。
-
 The first half ended with the opposing team in the lead.
-
+たまたま
 たまたま
 by chance, accidentally
-
 Adverb
+1
 道でたまたま友達に会った。
-
 みち で たまたま ともだち に あった。
-
 I ran into a friend of mine on the street.
-
-相変わらず [あいかわらず]
-
+相変わらず
+あいかわらず
 as usual, as before
-
 Adverb
+1
 彼は相変わらず忙しいですね。
-
 かれ は あいかわらず いそがしい です ね。
-
 He is busy as usual.
-
-支払い [しはらい]
-
+支払い
+しはらい
 payment
-
 Verbal Noun
+2
 お支払いはカードもお使いいただけます。
-
 おしはらい は カード も おつかい いただけます。
-
 You can also pay by credit card.
-
 支払いはカードでお願いします。
-
 しはらい は カード で おねがい します。
-
 Please pay by credit card.
-
-人数 [にんずう]
-
+人数
+にんずう
 number of people
-
 Noun
+1
 参加者の人数を教えてください。
-
 さんか しゃ の にんずう を おしえて ください。
-
 Please tell me the number of participants.
-
-課長 [かちょう]
-
+課長
+かちょう
 section chief
-
 Noun
+2
 彼は課長に昇進しました。
-
 かれ は かちょう に しょうしん しました。
-
 He was promoted to section chief.
-
 課長から伝言があります。
-
 かちょう から でんごん が あります。
-
 There's a message from the section chief.
-
+ファッション
 ファッション
 fashion
-
 Noun
+1
 彼女はファッションの専門家だ。
-
 かのじょ は ファッション の せんもんか だ。
-
 She's a fashion expert.
-
-体調 [たいちょう]
-
+体調
+たいちょう
 health condition
-
 Noun
+2
 今日は体調が悪いです。
-
 きょう は たいちょう が わるい です。
-
 I feel sick today.
-
 彼女は体調を崩しています。
-
 かのじょ は たいちょう を くずして います。
-
 She is under the weather.
-
-付き合う [つきあう]
-
+付き合う
+つきあう
 socialize with, see (someone)
-
 Verb
+1
 彼女と4年ほど付き合っています。
-
 かのじょ と 4 ねん ほど つきあって います。
-
 I've been seeing her for 4 years now.
-
+ショッピング
 ショッピング
 shopping
-
 Verbal Noun
+1
 彼女のいちばんの楽しみはショッピングです。
-
 かのじょ の いちばん の たのしみ は ショッピング です。
-
 Her greatest pleasure is shopping.
-
+あり
 あり
 ant
-
 Noun
+1
 ありの群れが砂糖にたかっている。
-
 あり の むれ が さとう に たかって いる。
-
 A swarm of ants is on the sugar.
-
-最悪 [さいあく]
-
+最悪
+さいあく
 worst
-
 Noun
+1
 何とか最悪の事態を避けることができました。
-
 なんとか さいあく の じたい を さける こと が できました。
-
 We somehow managed to avert the worst-case scenario.
-
+かえる
 かえる
 frog
-
 Noun
+1
 田んぼの中でかえるが合唱している。
-
 たんぼ の なか で かえる が がっしょう して いる。
-
 Frogs in the rice field are croaking in chorus.
-
+おじさん
 おじさん
 Mister, middle-aged man
-
 Noun
+1
 今そこで隣のおじさんに会ったよ。
-
 いま そこ で となり の おじさん に あった よ。
-
 I just met the man next door.
-
-得 [とく]
-
+得
+とく
 advantage, gain
-
 Adjectival Noun
+1
 この車を今買うとお得ですよ。
-
 この くるま を いま かう と おとく です よ。
-
 There's a special offer on this car if you buy it now.
-
-掴む [つかむ]
-
+掴む
+つかむ
 grip, grab
-
 Verb
+1
 彼女が僕の手を掴みました。
-
 かのじょ が ぼく の て を つかみました。
-
 She gripped my hand.
-
-知り合い [しりあい]
-
+知り合い
+しりあい
 acquaintance (colloquial)
-
 Noun
+1
 街で知り合いを見かけたよ。
-
 まち で しりあい を みかけた よ。
-
 I saw an acquaintance in town.
-
+ペース
 ペース
 pace
-
 Noun
+1
 彼はとても速いペースで走っているね。
-
 かれ は とても はやい ペース で はしって いる ね。
-
 He's running at a very fast pace.
-
-作成 [さくせい]
-
+作成
+さくせい
 to produce, to make
-
 Verbal Noun
+1
 明日までに必要な書類を作成してください。
-
 あす まで に ひつような しょるい を さくせい して ください。
-
 Please make the necessary documents by tomorrow.

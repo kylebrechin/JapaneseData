@@ -1,1087 +1,800 @@
-深まる [ふかまる]
-
+深まる
+ふかまる
 deepen, become deeper
-
 Verb
+1
 二人の愛はますます深まっているね。
-
 ふたり の あい は ますます ふかまって いる ね。
-
 Their love has become deeper and deeper.
-
-浮かべる [うかべる]
-
+浮かべる
+うかべる
 float (something), set (something) afloat
-
 Verb
+1
 お風呂に花を浮かべて入ったの。
-
 おふろ に はな を うかべて はいった の。
-
 I floated some flowers in the bath and then got in.
-
-群れ [むれ]
-
+群れ
+むれ
 flock, herd
-
 Noun
+1
 湖に鳥の群れがいたよ。
-
 みずうみ に とり の むれ が いた よ。
-
 There was a flock of birds on the lake.
-
-家屋 [かおく]
-
+家屋
+かおく
 house, building
-
 Noun
+1
 私は木造の家屋が好きです。
-
 わたし は もくぞう の かおく が すき です。
-
 I like wooden houses.
-
-塊 [かたまり]
-
+塊
+かたまり
 mass, clump
-
 Noun
+1
 道に土の塊ができてたよ。
-
 みち に つち の かたまり が できてた よ。
-
 There was a clump of dirt on the road.
-
-笛 [ふえ]
-
+笛
+ふえ
 whistle
-
 Noun
+1
 彼は笛を吹くのが上手いね。
-
 かれ は ふえ を ふく の が うまい ね。
-
 He's good at playing the flute.
-
+スマート
 スマート
 sophisticated, skillful
-
 Adjectival Noun
+1
 彼はいつもスマートに行動するね。
-
 かれ は いつも スマート に こうどう する ね。
-
 He always acts sophisticatedly.
-
-高層 [こうそう]
-
+高層
+こうそう
 high altitude, high-rise
-
 Noun
+1
 このあたりは高層ビルが増えましたね。
-
 この あたり は こうそう ビル が ふえました ね。
-
 The number of high-rise buildings has increased around here.
-
+コンクール
 コンクール
 contest, competition (mainly in arts)
-
 Noun
+1
 来年のコンクールに出場するつもりです。
-
 らいねん の コンクール に しゅつじょう する つもり です。
-
 I'm going to participate in next year's contest.
-
-適度 [てきど]
-
+適度
+てきど
 moderate, proper
-
 Adjectival Noun
+1
 健康のため、適度な運動が必要です。
-
 けんこう の ため、てきどな うんどう が ひつよう です。
-
 Moderate exercise is necessary for your health.
-
-採点 [さいてん]
-
+採点
+さいてん
 marking, grading
-
 Verbal Noun
+1
 先生は試験の採点が終わったようね。
-
 せんせい は しけん の さいてん が おわった よう ね。
-
 It seems that the teacher has finished grading the exams.
-
-牧場 [ぼくじょう]
-
+牧場
+ぼくじょう
 stock farm, ranch
-
 Noun
+1
 叔父は牧場を持っているんだ。
-
 おじ は ぼくじょう を もって いる ん だ。
-
 My uncle has a ranch.
-
-惜しい [おしい]
-
+惜しい
+おしい
 almost, close
-
 Adjective
+1
 惜しい、もう少しで優勝だった。
-
 おしい、もう すこし で ゆうしょう だった。
-
 Almost! We were that close to winning the championship.
-
+めでたい
 めでたい
 happy (occasions), festive
-
 Adjective
+1
 それはめでたいことだ。
-
 それ は めでたい こと だ。
-
 That’s something to celebrate.
-
-鐘 [かね]
-
+鐘
+かね
 bell, gong
-
 Noun
+1
 この鐘の音はとてもきれいですね。
-
 この かね の ね は とても きれい です ね。
-
 The sound of this bell is very beautiful.
-
-捜す [さがす]
-
+捜す
+さがす
 look for, search for (someone or something missing)
-
 Verb
+1
 警察がその男を捜しているの。
-
 けいさつ が その おとこ を さがして いる の。
-
 The police are searching for the man.
-
-着ける [つける]
-
+着ける
+つける
 pull up, park (a vehicle)
-
 Verb
+1
 玄関に車を着けます。
-
 げんかん に くるま を つけます。
-
 I’ll pull the car up to the entrance door.
-
-一通り [ひととおり]
-
+一通り
+ひととおり
 briefly, once over
-
 Adverb
+1
 説明書を一通り読んだの。
-
 せつめい しょ を ひととおり よんだ の。
-
 I glanced over the manual briefly.
-
-内科 [ないか]
-
+内科
+ないか
 internal medicine
-
 Noun
+1
 風邪を引いたので、内科に行きました。
-
 かぜ を ひいた ので、ないか に いきました。
-
 I got a cold, so I went to the internal medicine department.
-
-油断 [ゆだん]
-
+油断
+ゆだん
 inattention, carelessness
-
 Verbal Noun
+1
 少しの油断が大きな事故につながります。
-
 すこし の ゆだん が おおきな じこ に つながります。
-
 A little carelessness can cause a big accident.
-
-乱暴 [らんぼう]
-
+乱暴
+らんぼう
 violence, roughness, disorderliness
-
 Verbal Noun
+1
 人に乱暴してはいけません。
-
 ひと に らんぼう して は いけません。
-
 You must not do anything rough to people.
-
+ダイヤモンド
 ダイヤモンド
 diamond
-
 Noun
+1
 ダイヤモンドはとても高価ですね。
-
 ダイヤモンド は とても こうか です ね。
-
 Diamonds are very expensive.
-
-連れ [つれ]
-
+連れ
+つれ
 companion
-
 Noun
+1
 彼女は私の連れです。
-
 かのじょ は わたし の つれ です。
-
 She's with me.
-
-紅葉 [こうよう]
-
+紅葉
+こうよう
 autumn leaves, crimson foliage
-
 Verbal Noun
+1
 この山は紅葉がとても美しい。
-
 この やま は こうよう が とても うつくしい。
-
 Autumn leaves on this mountain are very beautiful.
-
-校舎 [こうしゃ]
-
+校舎
+こうしゃ
 school building
-
 Noun
+1
 古い校舎の修理が必要です。
-
 ふるい こうしゃ の しゅうり が ひつよう です。
-
 The old school building needs to be repaired.
-
-見当 [けんとう]
-
+見当
+けんとう
 estimate, guess
-
 Noun
+1
 この仕事には何日必要か見当もつかないね。
-
 この しごと に は なん にち ひつよう か けんとう も つかない ね。
-
 I can't tell how many days we'll need for this work.
-
-女房 [にょうぼう]
-
+女房
+にょうぼう
 wife (literary)
-
 Noun
+1
 女房は実家に帰っています。
-
 にょうぼう は じっか に かえって います。
-
 My wife is back at her parents' home.
-
-驚かす [おどろかす]
-
+驚かす
+おどろかす
 surprise
-
 Verb
+1
 あなたを驚かす話があります。
-
 あなた を おどろかす はなし が あります。
-
 I have a surprising story.
-
-頬 [ほほ]
-
+頬
+ほほ
 cheek (traditional reading)
-
 Noun
+1
 彼女は真っ赤な頬をしているね。
-
 かのじょ は まっかな ほほ を して いる ね。
-
 Her cheeks are all red.
-
-昇る [のぼる]
-
+昇る
+のぼる
 rise, ascend
-
 Verb
+1
 太陽は東から昇ります。
-
 たいよう は ひがし から のぼります。
-
 The sun rises in the east.
-
+モーター
 モーター
 motor, engine
-
 Noun
+1
 車のモーターを修理したぜ。
-
 くるま の モーター を しゅうり した ぜ。
-
 I repaired the car motor.
-
-飾り [かざり]
-
+飾り
+かざり
 ornament, decoration
-
 Noun
+1
 この部屋は飾りが多すぎるな。
-
 この へや は かざり が おお すぎる な。
-
 This room has too many decorations.
-
-余分 [よぶん]
-
+余分
+よぶん
 excess, extra
-
 Adjectival Noun
+1
 食事は余分に用意してあります。
-
 しょくじ は よぶん に ようい して あります。
-
 I've prepared some extra portions of the meal.
-
-断定 [だんてい]
-
+断定
+だんてい
 decision, conclusion
-
 Verbal Noun
+1
 まだ原因は断定できません。
-
 まだ げんいん は だんてい できません。
-
 The cause is yet to be determined.
-
-現す [あらわす]
-
+現す
+あらわす
 show, reveal
-
 Verb
+1
 彼はようやく姿を現しましたね。
-
 かれ は ようやく すがた を あらわしました ね。
-
 He finally showed up.
-
-爽やか [さわやか]
-
+爽やか
+さわやか
 fresh, clear
-
 Adjectival Noun
+1
 レモンの爽やかな香りがした。
-
 レモン の さわやかな かおり が した。
-
 There was a fresh smell of lemon.
-
-便り [たより]
-
+便り
+たより
 letter, correspondence
-
 Noun
+1
 月に一度、母から便りがきます。
-
 つき に いちど はは から たより が きます。
-
 I get a letter from my mother once a month.
-
-団地 [だんち]
-
+団地
+だんち
 housing estate, housing complex
-
 Noun
+1
 私の弟は団地に住んでいます。
-
 わたし の おとうと は だんち に すんで います。
-
 My little brother lives in a housing complex.
-
-作物 [さくもつ]
-
+作物
+さくもつ
 crop, farm produce
-
 Noun
+1
 米はアジアでは大切な作物だ。
-
 こめ は アジア で は たいせつな さくもつ だ。
-
 Rice is an important crop in Asia.
-
-枯れる [かれる]
-
+枯れる
+かれる
 wither, die
-
 Verb
+1
 花瓶の花が枯れました。
-
 かびん の はな が かれました。
-
 The flowers in the vase died.
-
-愉快 [ゆかい]
-
+愉快
+ゆかい
 pleasant, amusing
-
 Adjectival Noun
+1
 彼らはとても愉快な人たちです。
-
 かれら は とても ゆかいな ひと たち です。
-
 They're very amusing people.
-
-上旬 [じょうじゅん]
-
+上旬
+じょうじゅん
 the first ten days (of a month)
-
 Noun
+1
 7月上旬に夏祭りがありますよ。
-
 7 がつ じょうじゅん に なつまつり が あります よ。
-
 There is a summer festival at the beginning of July.
-
-平凡 [へいぼん]
-
+平凡
+へいぼん
 common, ordinary
-
 Adjectival Noun
+1
 彼はごく平凡な人です。
-
 かれ は ごく へいぼんな ひと です。
-
 He's a very ordinary person.
-
-礼 [れい]
-
+礼
+れい
 bow, thanks
-
 Noun
+1
 先生にお礼の手紙を書きました。
-
 せんせい に おれい の てがみ を かきました。
-
 I wrote a thank-you letter to my teacher.
-
-綿 [めん]
-
+綿
+めん
 cotton (fabric)
-
 Noun
+1
 私は綿のシャツをよく着ます。
-
 わたし は めん の シャツ を よく きます。
-
 I wear cotton shirts a lot.
-
-湿る [しめる]
-
+湿る
+しめる
 get damp, get wet
-
 Verb
+1
 洗濯物がまだ湿っています。
-
 せんたく もの が まだ しめって います。
-
 The laundry is still damp.
-
-先ほど [さきほど]
-
+先ほど
+さきほど
 some time ago, a little while ago
-
 Adverb
+1
 その件でしたら、先ほど上司から許可を得ております。
-
 その けん でしたら、さきほど じょうし から きょか を えて おります。
-
 Regarding that matter, I obtained permission from my boss a little while ago.
-
-暗記 [あんき]
-
+暗記
+あんき
 memorization
-
 Verbal Noun
+1
 試験の前に英文を暗記したんだ。
-
 しけん の まえ に えいぶん を あんき した ん だ。
-
 I memorized the English text before the exam.
-
-銅 [どう]
-
+銅
+どう
 copper
-
 Noun
+1
 10円玉は銅でできています。
-
 10 えん だま は どう で できて います。
-
 The ten yen coin is made of copper.
-
-名人 [めいじん]
-
+名人
+めいじん
 master, expert
-
 Noun
+1
 彼は釣りの名人です。
-
 かれ は つり の めいじん です。
-
 He's an expert angler.
-
-差し上げる [さしあげる]
-
+差し上げる
+さしあげる
 give (humble)
-
 Verb
+1
 こちらを差し上げます。
-
 こちら を さしあげます。
-
 This is for you.
-
-大工 [だいく]
-
+大工
+だいく
 carpenter
-
 Noun
+1
 私の父は大工です。
-
 わたし の ちち は だいく です。
-
 My father's a carpenter.
-
-足跡 [あしあと]
-
+足跡
+あしあと
 footprint, footmark
-
 Noun
+1
 雪の上にうさぎの足跡があった。
-
 ゆき の うえ に うさぎ の あしあと が あった。
-
 There were footprints of rabbits in the snow.
-
-水素 [すいそ]
-
+水素
+すいそ
 hydrogen
-
 Noun
+1
 水は水素と酸素でできています。
-
 みず は すいそ と さんそ で できて います。
-
 Water is made of hydrogen and oxygen.
-
-婚約 [こんやく]
-
+婚約
+こんやく
 engagement
-
 Verbal Noun
+1
 二人は婚約しています。
-
 ふたり は こんやく して います。
-
 They are engaged.
-
-商社 [しょうしゃ]
-
+商社
+しょうしゃ
 trading firm
-
 Noun
+1
 兄は商社に勤めています。
-
 あに は しょうしゃ に つとめて います。
-
 My elder brother works for a trading firm.
-
-初級 [しょきゅう]
-
+初級
+しょきゅう
 beginner class, elementary level
-
 Noun
+1
 これは初級の教科書です。
-
 これ は しょきゅう の きょうかしょ です。
-
 This is a beginner's textbook.
-
-失望 [しつぼう]
-
+失望
+しつぼう
 disappointment, loss of hope
-
 Verbal Noun
+1
 彼女は結婚生活に失望していたの。
-
 かのじょ は けっこん せいかつ に しつぼう して いた の。
-
 She was disappointed in her marriage life.
-
-見舞い [みまい]
-
+見舞い
+みまい
 personal visit to a sick person
-
 Noun
+1
 友達が見舞いに来てくれたよ。
-
 ともだち が みまい に きて くれた よ。
-
 My friend came to visit me.
-
-頂上 [ちょうじょう]
-
+頂上
+ちょうじょう
 summit, top
-
 Noun
+1
 あと少しで山の頂上です。
-
 あと すこし で やま の ちょうじょう です。
-
 We'll soon reach the top of the mountain.
-
-上品 [じょうひん]
-
+上品
+じょうひん
 elegant, refined
-
 Adjectival Noun
+1
 このドレスはとても上品なデザインですね。
-
 この ドレス は とても じょうひんな デザイン です ね。
-
 This dress has a very elegant design.
-
-盗難 [とうなん]
-
+盗難
+とうなん
 theft
-
 Noun
+1
 昨夜、自転車の盗難にあったよ。
-
 さくや、じてんしゃ の とうなん に あった よ。
-
 My bicycle was stolen last night.
-
+メーター
 メーター
 meter
-
 Noun
+1
 ガス会社がメーターを調べにきたぞ。
-
 ガス がいしゃ が メーター を しらべに きた ぞ。
-
 The gas company came to examine the meter.
-
+リットル
 リットル
 liter
-
 Noun
+1
 今日は水を2リットル以上飲んだわ。
-
 きょう は みず を 2 リットル いじょう のんだ わ。
-
 I drank more than two liters of water today.
-
-醜い [みにくい]
-
+醜い
+みにくい
 ugly, bad-looking
-
 Adjective
+1
 醜い争いはやめましょう。
-
 みにくい あらそい は やめましょう。
-
 Let's stop this ugly fight.
-
-毎度 [まいど]
-
+毎度
+まいど
 every time
-
 Adverb
+1
 毎度ありがとうございます。
-
 まいど ありがとう ございます。
-
 Thank you for your patronage.
-
-骨折 [こっせつ]
-
+骨折
+こっせつ
 breaking a bone
-
 Verbal Noun
+1
 彼女はスキーで足を骨折したの。
-
 かのじょ は スキー で あし を こっせつ した の。
-
 She broke a bone in her foot while skiing.
-
-掲示 [けいじ]
-
+掲示
+けいじ
 notice, post
-
 Verbal Noun
+1
 大会のスローガンを掲示したよ。
-
 たいかい の スローガン を けいじ した よ。
-
 I posted the slogan of the rally.
-
-薬品 [やくひん]
-
+薬品
+やくひん
 medicine, drug
-
 Noun
+1
 彼女は薬品を戸棚から出したんだ。
-
 かのじょ は やくひん を とだな から だした ん だ。
-
 She took the medicine out of the cupboard.
-
-頂戴 [ちょうだい]
-
+頂戴
+ちょうだい
 getting, receiving
-
 Verbal Noun
+1
 それ、ひとつ頂戴。
-
 それ、 ひとつ ちょうだい。
-
 Can I have one?
-
+ボーイ
 ボーイ
 waiter, porter
-
 Noun
+1
 ボーイに荷物を運んでもらった。
-
 ボーイ に にもつ を はこんで もらった。
-
 The porter carried the luggage for me.
-
-潰れる [つぶれる]
-
+潰れる
+つぶれる
 be squashed, be smashed
-
 Verb
+1
 箱の角が潰れていますよ。
-
 はこ の かど が つぶれて います よ。
-
 The corner of the box is squashed.
-
-見本 [みほん]
-
+見本
+みほん
 sample, model
-
 Noun
+1
 見本はこちらにございます。
-
 みほん は こちら に ございます。
-
 There's a sample here.
-
-葬式 [そうしき]
-
+葬式
+そうしき
 funeral
-
 Noun
+1
 彼の葬式は明日です。
-
 かれ の そうしき は あした です。
-
 His funeral is tomorrow.
-
-列島 [れっとう]
-
+列島
+れっとう
 archipelago
-
 Noun
+1
 日本は列島です。
-
 にっぽん は れっとう です。
-
 Japan is an archipelago.
-
-省く [はぶく]
-
+省く
+はぶく
 omit
-
 Verb
+1
 時間がないので詳細は省きます。
-
 じかん が ない ので しょうさい は はぶきます。
-
 We don't have much time, so we'll omit the details.
-
-垂直 [すいちょく]
-
+垂直
+すいちょく
 vertical, perpendicular
-
 Noun
+1
 彼らは垂直のがけを登り始めたの。
-
 かれら は すいちょく の がけ を のぼり はじめた の。
-
 They started to climb a vertical cliff.
-
-暴れる [あばれる]
-
+暴れる
+あばれる
 act violently, rage about
-
 Verb
+1
 彼は悪酔いして暴れたんだ。
-
 かれ は わるよい して あばれた ん だ。
-
 He was so drunk that he became violent.
-
-峠 [とうげ]
-
+峠
+とうげ
 mountain pass, ridge
-
 Noun
+1
 この峠を越えると村があります。
-
 この とうげ を こえる と むら が あります。
-
 You'll see a village when you go over this mountain pass.
-
+ヨット
 ヨット
 sailboat, yacht
-
 Noun
+1
 ヨットでクルージングを楽しみましたわ。
-
 ヨット で クルージング を たのしみました わ。
-
 I enjoyed cruising on the yacht.
-
-厳重 [げんじゅう]
-
+厳重
+げんじゅう
 strictness, severity
-
 Adjectival Noun
+1
 上司から厳重に注意されました。
-
 じょうし から げんじゅう に ちゅうい されました。
-
 My boss told me off severely.
-
-税関 [ぜいかん]
-
+税関
+ぜいかん
 customs office
-
 Noun
+1
 毛皮を税関で没収されたんだ。
-
 けがわ を ぜいかん で ぼっしゅう された ん だ。
-
 They confiscated my fur at the customs office.
-
-日差し [ひざし]
-
+日差し
+ひざし
 rays of the sun, sunlight
-
 Noun
+1
 今日は日差しが強いですね。
-
 きょう は ひざし が つよい です ね。
-
 The sunlight is strong today.
-
-芝生 [しばふ]
-
+芝生
+しばふ
 lawn, turf
-
 Noun
+1
 芝生がよく手入れされていますね。
-
 しばふ が よく ていれ されて います ね。
-
 The lawn is well-maintained.
-
-下車 [げしゃ]
-
+下車
+げしゃ
 getting off
-
 Verbal Noun
+1
 景色が良かったので途中下車したよ。
-
 けしき が よかった ので とちゅう げしゃ した よ。
-
 We got off on the way because the scenery was beautiful.
-
-停電 [ていでん]
-
+停電
+ていでん
 blackout, power failure
-
 Verbal Noun
+1
 台風で停電したよ。
-
 たいふう で ていでん した よ。
-
 The typhoon caused a blackout.
-
-名所 [めいしょ]
-
+名所
+めいしょ
 famous place
-
 Noun
+1
 ここは桜の名所です。
-
 ここ は さくら の めいしょ です。
-
 This place is famous for its cherry blossoms.
-
-気圧 [きあつ]
-
+気圧
+きあつ
 atmospheric pressure
-
 Noun
+1
 高い山は気圧が低いね。
-
 たかい やま は きあつ が ひくい ね。
-
 The atmospheric pressure is low in high mountains.
-
-父母 [ふぼ]
-
+父母
+ふぼ
 father and mother, parents
-
 Noun
+1
 学校から父母に連絡があったんだ。
-
 がっこう から ふぼ に れんらく が あった ん だ。
-
 The school contacted my parents.
-
-恋人 [こいびと]
-
+恋人
+こいびと
 boyfriend or girlfriend
-
 Noun
+1
 彼は恋人を失った。
-
 かれ は こいびと を うしなった。
-
 He lost his girlfriend.
-
+リボン
 リボン
 ribbon
-
 Noun
+1
 プレゼントにリボンを付けた。
-
 プレゼント に リボン を つけた。
-
 I put a ribbon on the present.
-
-図書室 [としょしつ]
-
+図書室
+としょしつ
 library room
-
 Noun
+1
 図書室で勉強した。
-
 としょ しつ で べんきょう した。
-
 I studied in the library room.
-
-万歳 [ばんざい]
-
+万歳
+ばんざい
 hurray
-
 Interjection
+1
 勝った、万歳！
-
 かった、ばんざい！
-
 We won--hurray!
-
-自習 [じしゅう]
-
+自習
+じしゅう
 self-study
-
 Verbal Noun
+1
 明日は自習の時間がある。
-
 あす は じしゅう の じかん が ある。
-
 I have study time tomorrow.
-
-引き算 [ひきざん]
-
+引き算
+ひきざん
 subtraction (math)
-
 Verbal Noun
+1
 娘は学校で引き算を習っている。
-
 むすめ は がっこう で ひきざん を ならって いる。
-
 My daughter's learning subtraction at school.
-
-足し算 [たしざん]
-
+足し算
+たしざん
 addition (math)
-
 Verbal Noun
+1
 娘は学校で足し算を習った。
-
 むすめ は がっこう で たしざん を ならった。
-
 My daughter learned addition in school.
-
+チョーク
 チョーク
 chalk
-
 Noun
+1
 チョークで黒板に字を書きました。
-
 チョーク で こくばん に じ を かきました。
-
 I wrote letters on the blackboard with a piece of chalk.
-
+ノック
 ノック
 knock
-
 Verbal Noun
+1
 入るときはドアをノックしてください。
-
 はいる とき は ドア を ノック して ください。
-
 Please knock on the door before entering.
-
-休養 [きゅうよう]
-
+休養
+きゅうよう
 rest, recreation
-
 Verbal Noun
+1
 彼女は今、休養中です。
-
 かのじょ は いま、きゅうよう ちゅう です。
-
 She is taking a rest now.
-
-綱 [つな]
-
+綱
+つな
 thick rope
-
 Noun
+1
 この綱は直径20cmあるそうです。
-
 この つな は ちょっけい 20 センチ ある そう です。
-
 I hear the diameter of the thick rope is 20cm.

@@ -2,6 +2,7 @@
 あんまり
 (not) that much, (not) so much
 Adverb
+2
 これはあんまり好きじゃないな。
 これ は あんまり すき じゃ ない な。
 I don't like this very much.
@@ -12,6 +13,7 @@ This drama isn't so interesting.
 いきなり
 all of a sudden, abruptly
 Adverb
+2
 後ろからいきなり肩をたたかれた。
 うしろ から いきなり かた を たたかれた。
 Someone tapped on my shoulder from behind all of a sudden.
@@ -22,6 +24,7 @@ I was surprised to get an e-mail from a stranger.
 おもて
 front, outside
 Noun
+2
 表に人が来ています。
 おもて に ひと が きて います。
 There's someone at the front door.
@@ -32,6 +35,7 @@ An ambulance is parked outside.
 よごれ
 dirt, blot
 Noun
+2
 靴の汚れを落としました。
 くつ の よごれ を おとしました。
 I cleaned the dirt off the shoes.
@@ -42,6 +46,7 @@ This dirt doesn't come off easily.
 あいだ
 interval, space between things
 Noun
+2
 雲の間から月が出た。
 くも の あいだ から つき が でた。
 The moon came out from between the clouds.
@@ -52,6 +57,7 @@ The dog was hiding among the trees.
 むらさき
 purple
 Noun
+2
 彼女は紫のドレスを着ていた。
 かのじょ は むらさき の ドレス を きて いた。
 She wore a purple dress.
@@ -62,6 +68,7 @@ I want a purple car, but my wife is against that.
 はいいろ
 ash color, gray
 Noun
+2
 今日の空は灰色だ。
 きょう の そら は はいいろ だ。
 The sky's gray today.
@@ -72,6 +79,7 @@ Today I chose a gray suit.
 ち
 blood (colloquial)
 Noun
+2
 血が出ていますよ。
 ち が でて います よ。
 You're bleeding.
@@ -82,6 +90,7 @@ He was surprised to see blood.
 あご
 jaw, chin
 Noun
+2
 顎が痛い。
 あご が いたい。
 My jaw hurts.
@@ -92,6 +101,7 @@ You've got (a grain of) rice on your chin.
 はじめに
 in the beginning
 Adverb
+2
 始めにスープが出ます。
 はじめ に スープ が でます。
 Soup will be served in the beginning.
@@ -102,6 +112,7 @@ First was the president's greeting.
 あたたまる
 get warm (air, atmosphere, etc.)
 Verb
+2
 まだ部屋が暖まらない。
 まだ へや が あたたまらない。
 The room hasn't warmed up yet.
@@ -112,6 +123,7 @@ I can't wait to take a bath and warm up.
 おせじ
 compliment, flattery
 Noun
+2
 彼はお世辞を言うのが上手い。
 かれ は おせじ を いう の が うまい。
 He is good at flattering people.
@@ -122,6 +134,7 @@ We cannot say that our child is good at drawing even as a compliment.
 ふくろ
 bag, sack
 Noun
+2
 袋は要りません。
 ふくろ は いりません。
 I don't need a bag.
@@ -132,6 +145,7 @@ Please bring a bag to put snack in.
 ながそで
 long sleeves
 Noun
+2
 今日は寒いので長袖を着ました。
 きょう は さむい ので ながそで を きました。
 I put on a long-sleeved shirt because it's cold today.
@@ -142,6 +156,7 @@ If you go to a mountain, you need clothes with long sleeves even in summer.
 はんそで
 short sleeves
 Noun
+2
 今日は、半袖のシャツを着よう。
 きょう は、はんそで の シャツ を きよう。
 I'll put on a short-sleeved shirt today.
@@ -152,6 +167,7 @@ Aren't you cold, wearing clothes with short sleeves?
 かたち
 shape, form
 Noun
+2
 その椅子は変わった形をしている。
 その いす は かわった かたち を して いる。
 That chair has an unusual shape.
@@ -162,6 +178,7 @@ My daughter baked cookies in various shapes.
 けしき
 natural scenery or landscape
 Noun
+2
 ここは景色が綺麗ですね。
 ここ は けしき が きれい です ね。
 The scenery here is beautiful.
@@ -172,6 +189,7 @@ This is wonderful scenery.
 ざあざあ
 pouring
 Adverb
+2
 雨がざあざあ降っている。
 あめ が ざあざあ ふって いる。
 It's pouring.
@@ -182,6 +200,7 @@ It was pouring today.
 さらいげつ
 the month after next
 Noun
+2
 再来月まで予約でいっぱいです。
 さらいげつ まで よやく で いっぱい です。
 We're fully booked until the month after the next.
@@ -192,6 +211,7 @@ I have to go to the hospital again the month after next.
 とめる
 let (someone) stay over
 Verb
+2
 友達をうちに泊めてあげました。
 ともだち を うち に とめて あげました。
 I let my friend stay over at my house.
@@ -202,6 +222,7 @@ Please let me stay over for one night.
 しかる
 scold, reprimand
 Verb
+2
 父親が子供を叱っている。
 ちちおや が こども を しかって いる。
 The father is scolding his child.
@@ -212,6 +233,7 @@ I was scolded by the teacher today, too.
 さわぐ
 make a noise, make a racket
 Verb
+2
 電車の中で騒がないでください。
 でんしゃ の なか で さわがないで ください。
 Please don't make a racket in the train.
@@ -222,6 +244,7 @@ Kids were making a racket in the train.
 しゃどう
 road, roadway (for cars)
 Noun
+2
 車道の工事が始まりました。
 しゃどう の こうじ が はじまりました。
 The road construction has started.
@@ -232,6 +255,7 @@ It's scary to ride a bicycle on a car lane.
 そうじき
 vacuum cleaner
 Noun
+2
 掃除機が壊れた。
 そうじき が こわれた。
 The vacuum cleaner broke.
@@ -242,6 +266,7 @@ My mother vacuums the floor every day.
 そる
 shave
 Verb
+2
 父は毎日髭を剃ります。
 ちち は まいにち ひげ を そります。
 My father shaves every day.
@@ -252,6 +277,7 @@ I had my face shaved at a barber.
 はる
 stick, paste, put
 Verb
+2
 机にシールを貼った。
 つくえ に シール を はった。
 I put a sticker on the desk.
@@ -262,6 +288,7 @@ Please stick a stamp here.
 だい
 stand, table
 Noun
+2
 そこにちょうど良い台がある。
 そこ に ちょうど いい だい が ある。
 We have a perfect table there.
@@ -272,6 +299,7 @@ Unless I use the stand, I can't reach the top shelf.
 おもに
 mostly, predominantly
 Adverb
+2
 この商品は主に女性に人気がありまして。
 この しょうひん は おも に じょせい に にんき が ありまして。
 This product is predominantly popular among women.
@@ -282,6 +310,7 @@ I teach English mainly to children.
 たおす
 knock down, overthrow
 Verb
+2
 そのスキーヤーはポールを倒した。
 その スキーヤー は ポール を たおした。
 The skier knocked the pole down.
@@ -292,6 +321,7 @@ The boxer finally defeated the world champion.
 ほし
 star, planet
 Noun
+2
 今夜は星がよく見えます。
 こんや は ほし が よく みえます。
 You can see the stars clearly tonight.
@@ -302,6 +332,7 @@ The stars are shining brightly.
 ちょうじょ
 eldest daughter
 Noun
+2
 うちの長女は10歳です。
 うち の ちょうじょ は 10 さい です。
 Our oldest daughter is ten.
@@ -312,6 +343,7 @@ She is the eldest daughter of three siblings.
 つめ
 nail, claw
 Noun
+2
 爪が伸びています。
 つめ が のびて います。
 My nails have grown.
@@ -322,6 +354,7 @@ Please clip your nails before swimming.
 かん
 can, tin
 Noun
+2
 コーヒーはその缶に入っています。
 コーヒー は その かん に はいって います。
 The coffee is in that can.
@@ -332,6 +365,7 @@ There's some candy in the can.
 とんとん
 tapping, patting
 Adverb
+2
 母の肩をとんとんたたいた。
 はは の かた を とんとん たたいた。
 I gave my mother a massage by patting on her shoulders.
@@ -342,6 +376,7 @@ Someone knocked on the door by tapping.
 そで
 sleeve
 Noun
+2
 このシャツは袖が短い。
 この シャツ は そで が みじかい。
 This shirt has short sleeves.
@@ -352,6 +387,7 @@ The sleeves are long, so please shorten them.
 ぬれる
 get wet
 Verb
+2
 雨で濡れてしまった。
 あめ で ぬれて しまった。
 I got wet in the rain.
@@ -362,6 +398,7 @@ Your hair is still wet.
 パーセント
 percent
 Noun
+2
 この村の80パーセントは老人です。
 この むら の 80 パーセント は ろうじん です。
 80 percent of the people in this village are elderly.
@@ -372,6 +409,7 @@ Noun
 あがる
 go up, increase (in quality or quantity)
 Verb
+2
 毎年給料が上がる。
 まいねん きゅうりょう が あがる。
 My salary goes up every year.
@@ -382,6 +420,7 @@ His grades went up.
 はくしゅ
 applause, clapping
 Verbal Noun
+2
 大きな拍手が上がった。
 おおきな はくしゅ が あがった。
 There was a big round of applause.
@@ -392,6 +431,7 @@ Please welcome today's guest with applause.
 ひく
 play (instruments)
 Verb
+2
 彼はギターを弾きます。
 かれ は ギター を ひきます。
 He plays the guitar.
@@ -402,6 +442,7 @@ My daughter loves playing the piano.
 ひも
 laces, string
 Noun
+2
 靴のひもが切れた。
 くつ の ひも が きれた。
 The shoelace has fallen apart.
@@ -412,6 +453,7 @@ Our cat likes to play with a string.
 ひるすぎ
 early afternoon
 Noun
+2
 今日は昼過ぎまで寝ていた。
 きょう は ひる すぎ まで ねて いた。
 Today I slept until after midday.
@@ -422,6 +464,7 @@ He'll come after lunch.
 ふね
 ship, vessel
 Noun
+2
 私たちは船に乗った。
 わたし たち は ふね に のった。
 We got on the ship.
@@ -432,6 +475,7 @@ I can see a ship in the distance.
 まく
 scatter, sprinkle
 Verb
+2
 日本では、二月に豆をまく行事がある。
 にほん で は、に がつ に まめ を まく ぎょうじ が ある。
 In Japan, there's a bean scattering event in February.
@@ -442,6 +486,7 @@ It's hot, so I sprinkled water on the street in front of my house.
 めい
 niece
 Noun
+2
 私の姪は3才です。
 わたし の めい は 3 さい です。
 My niece is three years old.
@@ -452,6 +497,7 @@ I bought a Christmas present for my niece.
 こじん
 individual person
 Noun
+2
 これは私個人の意見です。
 これ は わたし こじん の いけん です。
 This is my personal opinion.
@@ -462,6 +508,7 @@ We can't do anything about this problem with just the power of individuals.
 かしゅ
 singer
 Noun
+2
 その歌手は歌が下手だ。
 その かしゅ は うた が へた だ。
 That singer's terrible.
@@ -472,6 +519,7 @@ He's a famous singer.
 しゃいん
 staff member, employee
 Noun
+2
 彼は優秀な社員です。
 かれ は ゆうしゅうな しゃいん です。
 He's an excellent employee.
@@ -482,6 +530,7 @@ The president gathered employees and had an important talk.
 ふどうさんや
 real estate agent
 Noun
+2
 私の父は不動産屋です。
 わたし の ちち は ふどうさん や です。
 My father's a real estate agent.
@@ -492,6 +541,7 @@ I asked a real estate agent to find an apartment.
 さいだい
 biggest, largest
 Noun
+2
 これは世界最大の船です。
 これ は せかい さいだい の ふね です。
 This is the world's largest ship.
@@ -502,6 +552,7 @@ This is the largest museum in Japan.
 うごき
 movement, motion
 Noun
+2
 まず相手の動きを見ましょう。
 まず あいて の うごき を みましょう。
 First, watch your opponent's moves.
@@ -512,6 +563,7 @@ Let's look at the movement of the clouds.
 じけん
 affair, incident
 Noun
+2
 その事件の犯人はまだ捕まっていない。
 その じけん の はんにん は まだ つかまって いない。
 The perpetrator of the incident has not been arrested yet.
@@ -522,6 +574,7 @@ He has nothing to do with that incident.
 かこ
 the past
 Noun
+2
 それは過去の話だ。
 それ は かこ の はなし だ。
 That's in the past now.
@@ -532,6 +585,7 @@ Please look into the past research.
 きょうりょく
 cooperation, collaboration
 Verbal Noun
+2
 このプロジェクトにはみんなの協力が必要です。
 この プロジェクト に は みんな の きょうりょく が ひつよう です。
 This project requires everyone's cooperation.
@@ -542,6 +596,7 @@ Thanks for everyone's cooperation.
 じき
 time, season
 Noun
+2
 今はあなたにとって大事な時期です。
 いま は あなた にとって だいじな じき です。
 It's an important time for you now.
@@ -552,6 +607,7 @@ We have lots of rain at this time of year.
 たつ
 pass, elapse
 Verb
+2
 あれから14年が経ちました。
 あれ から 14 ねん が たちました。
 14 years have passed since then.
@@ -562,6 +618,7 @@ Time passes by quickly.
 かみなり
 thunder, lightning
 Noun
+2
 雷が鳴っています。
 かみなり が なって います。
 Thunder is rumbling.
@@ -572,6 +629,7 @@ Our dog is afraid of thunder.
 せきにん
 responsibility
 Noun
+2
 彼は失敗の責任を取って、会社を辞めた。
 かれ は しっぱい の せきにん を とって、かいしゃ を やめた。
 He took responsibility for the mistake and left the company.
@@ -582,6 +640,7 @@ I want a job with more responsibility.
 ねがう
 wish, desire
 Verb
+2
 彼が元気になるよう願っています。
 かれ が げんき に なる よう ねがって います。
 I wish he gets well.
@@ -592,6 +651,7 @@ I wish for the success of your project.
 はっけん
 discovery, revelation
 Verbal Noun
+2
 新しい星が発見された。
 あたらしい ほし が はっけん された。
 A new star was discovered.
@@ -602,6 +662,7 @@ It was a discovery that ice cream goes well with beer.
 き
 spirit, temperament
 Noun
+2
 彼は意外に気が小さい。
 かれ は いがい に き が ちいさい。
 I'm surprised to find that he is actually timid.
@@ -612,6 +673,7 @@ My father becomes uninhibited when he drinks alcohol.
 びよういん
 hair salon
 Noun
+2
 父は美容院で髪を切ります。
 ちち は びよういん で かみ を きります。
 My father has his hair cut at a hair salon.
@@ -622,6 +684,7 @@ Recently, my son has started going to a hair salon instead of a barber.
 じょうきょう
 situation, surrounding conditions
 Noun
+2
 この状況では出発は難しいです。
 この じょうきょう で は しゅっぱつ は むずかしい です。
 It's difficult to depart under these surrounding conditions.
@@ -632,6 +695,7 @@ Our company has been in a difficult situation.
 もくてき
 objective, purpose
 Noun
+2
 彼が来た目的が分かりません。
 かれ が きた もくてき が わかりません。
 I don't know the purpose of his visit.
@@ -642,6 +706,7 @@ What's the purpose of your trip?
 きぎょう
 corporation, business
 Noun
+2
 彼女はアメリカの企業で働いています。
 かのじょ は アメリカ の きぎょう で はたらいて います。
 She works at an American company.
@@ -652,6 +717,7 @@ That company has terrible working conditions and almost no days off.
 つり
 fishing
 Noun
+2
 父は釣りが大好きです。
 ちち は つり が だいすき です。
 My father loves fishing.
@@ -662,6 +728,7 @@ Today we'll go to the sea to fish.
 まんが
 comics, cartoon
 Noun
+2
 妹は漫画が好きです。
 いもうと は まんが が すき です。
 My little sister likes comics.
@@ -672,6 +739,7 @@ My daughter reads only girls' comics.
 おんせん
 hot spring
 Noun
+2
 ここの温泉はよく効くそうです。
 ここ の おんせん は よく きく そう です。
 I hear this hot spring is very effective.
@@ -682,6 +750,7 @@ This hot spring is free.
 トレーニング
 training, workout
 Verbal Noun
+2
 彼は毎日トレーニングをする。
 かれ は まいにち トレーニング を する。
 He works out every day.
@@ -692,6 +761,7 @@ He's been training to become a soccer player.
 うわさ
 gossip, rumor
 Verbal Noun
+2
 その噂は本当ですか。
 その うわさ は ほんとう です か。
 Is the rumor true?
@@ -702,6 +772,7 @@ The rumor spread quickly.
 ほんもの
 real, truly worthy (things, people)
 Noun
+2
 これは本物のダイヤモンドです。
 これ は ほんもの の ダイヤモンド です。
 This is a real diamond.
@@ -712,6 +783,7 @@ Her abilities are the real deal.
 アイデア
 idea (loan word)
 Noun
+2
 彼がいいアイデアを出したね。
 かれ が いい アイデア を だした ね。
 He came up with a good idea.
@@ -722,6 +794,7 @@ The idea is his suggestion.
 ちか
 underground, basement
 Noun
+2
 スタジオは地下にあります。
 スタジオ は ちか に あります。
 The studio is in the basement.
@@ -732,6 +805,7 @@ My house has rooms in the basement, too.
 マーケット
 market
 Noun
+2
 あの会社は海外マーケットに強いです。
 あの かいしゃ は かいがい マーケット に つよい です。
 That company is strong in overseas marketing.
@@ -742,6 +816,7 @@ There is an opportunity in domestic marketing, too.
 スケジュール
 schedule (loan word)
 Noun
+2
 スケジュールの調整は君に任せるわ。
 スケジュール の ちょうせい は きみ に まかせる わ。
 I'll let you coordinate my schedule.
@@ -752,6 +827,7 @@ I'm adjusting the schedule now.
 しゅっちょう
 business trip
 Verbal Noun
+2
 部長は京都に出張中です。
 ぶちょう は きょうと に しゅっちょう ちゅう です。
 The manager is on a business trip to Kyoto.
@@ -762,6 +838,7 @@ Next month I'm going to Australia on business.
 コック
 cook, chef
 Noun
+2
 彼は腕のいいコックです。
 かれ は うで の いい コック です。
 He is a good cook.
@@ -772,6 +849,7 @@ That restaurant is looking for a cook.
 しょうご
 noon
 Noun
+2
 昼休みは正午からです。
 ひるやすみ は しょうご から です。
 The lunch break is from noon.
@@ -782,6 +860,7 @@ Here is the midday news.
 ブラシ
 brush
 Noun
+2
 犬の毛をブラシでとかしてやったの。
 いぬ の け を ブラシ で とかして やった の。
 I brushed the dog's hair with a brush.
@@ -792,6 +871,7 @@ You can use this brush to take the dirt off your coat.
 かきとる
 write down, note down
 Verb
+2
 話のポイントを書き取った。
 はなし の ポイント を かきとった 。
 I wrote down the main points of the speech.
@@ -802,6 +882,7 @@ Please write down what I'll say from now.
 かんげい
 welcome, greet
 Verbal Noun
+2
 温かい歓迎を受けました。
 あたたかい かんげい を うけました。
 I received a warm welcome.
@@ -812,6 +893,7 @@ If you can make it to Japan, you'll be welcome anytime.
 かいはつ
 development
 Verbal Noun
+2
 その会社は社員の能力開発に力を入れています。
 その かいしゃ は しゃいん の のうりょく かいはつ に ちから を いれて います。
 The company places emphasis on the professional development of its employees.
@@ -822,6 +904,7 @@ My team is developing a new game now.
 ゆうびんやさん
 mail carrier
 Noun
+2
 郵便屋さんはもう来ましたか。
 ゆうびん や さん は もう きました か。
 Has the mail carrier already come?
@@ -832,6 +915,7 @@ A mailman delivered a package from my mother.
 かいちょう
 president, chairperson
 Noun
+2
 始めに会長が挨拶した。
 はじめ に かいちょう が あいさつ した。
 First was the president's greeting.
@@ -842,6 +926,7 @@ My father is the chairperson of the PTA at my younger brother's school.
 きん
 gold
 Noun
+2
 彼女は金のネックレスをしています。
 かのじょ は きん の ネックレス を して います。
 She's wearing a gold necklace.
@@ -852,6 +937,7 @@ This cup is made of gold.
 はい
 ashes
 Noun
+2
 火事ですべて灰になった。
 かじ で すべて はい に なった。
 Everything turned into ashes in the fire.
@@ -862,6 +948,7 @@ When people die, they turn into ashes.
 ほね
 bone
 Noun
+2
 彼は足の骨を折りました。
 かれ は あし の ほね を おりました。
 He broke a bone in his foot.
@@ -872,6 +959,7 @@ I drink a lot of milk, so my bones are strong.
 ふろや
 bathhouse, public bath
 Noun
+2
 昨日、友達とお風呂屋さんに行った。
 きのう、ともだち と おふろ や さん に いった。
 I went to a bathhouse with my friend yesterday.
@@ -882,6 +970,7 @@ Public baths are big and comfortable.
 こまか
 small, fine, detailed
 Adjectival Noun
+2
 それは細かな問題です。
 それ は こまかな もんだい です。
 That's a small but complex issue.
@@ -892,6 +981,7 @@ She is a person who can be considerate even about small things.
 ゆき
 going, bound for (traditional reading)
 Noun
+2
 東京行きの列車に乗った。
 とうきょう ゆき の れっしゃ に のった。
 I got on the Tokyo-bound train.
@@ -902,6 +992,7 @@ The train is bound for Shin-Osaka.
 ひとびと
 people
 Noun
+2
 あの村の人々はとても親切です。
 あの むら の ひとびと は とても しんせつ です。
 People in that village are very kind.
@@ -912,6 +1003,7 @@ I want to be of service to others.
 てら
 temple
 Noun
+2
 あそこに古いお寺があります。
 あそこ に ふるい おてら が あります。
 There's an old temple there.
@@ -922,6 +1014,7 @@ There are a lot of temples in Kyoto.
 にわとり
 rooster, hen
 Noun
+2
 その鶏は毎朝鳴きます。
 その にわとり は まいあさ なきます。
 The rooster crows every morning.
@@ -932,6 +1025,7 @@ The chicken laid eggs.
 みなと
 port, harbor
 Noun
+2
 港に船が着きました。
 みなと に ふね が つきました。
 The ship arrived at the port.
@@ -942,6 +1036,7 @@ The largest port in the world is in China.
 うつる
 move to, transfer to
 Verb
+2
 彼女は新しい会社に移った。
 かのじょ は あたらしい かいしゃ に うつった。
 She moved to a new company.
@@ -952,6 +1047,7 @@ He moved from a hotel to a shared house.
 ことなる
 differ
 Verb
+2
 彼と私はいつも意見が異なる。
 かれ と わたし は いつも いけん が ことなる。
 He and I always have different opinions.
@@ -962,6 +1058,7 @@ You can pick up the product at a location different from your address .
 ていきょう
 offer, provide
 Verbal Noun
+2
 彼がパーティー会場を提供してくれました。
 かれ が パーティー かいじょう を ていきょう して くれました。
 He offered us a venue for the party.
@@ -972,6 +1069,7 @@ The provision of the service will be cancelled soon.
 しみん
 citizen
 Noun
+2
 市民の安全は大切だ。
 しみん の あんぜん は たいせつ だ。
 Safety of citizens is important.
@@ -982,6 +1080,7 @@ She’s become an American citizen.
 かんじゃ
 patient
 Noun
+2
 患者は眠っています。
 かんじゃ は ねむって います。
 The patient is sleeping.
@@ -992,6 +1091,7 @@ This hospital is very kind to its patients.
 がんたん
 morning of the January 1st, New Year's Day
 Noun
+2
 元旦に彼から年賀状がきた。
 がんたん に かれ から ねんがじょう が きた。
 I got a New Year's card from him in the morning of January 1.
