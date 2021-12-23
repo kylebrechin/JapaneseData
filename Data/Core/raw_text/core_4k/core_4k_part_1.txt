@@ -1,798 +1,1091 @@
-望む
-のぞむ
+望む [のぞむ]
+
 hope
+
 Verb
-1
 彼は私との結婚を望んでいます。
+
 かれ は わたし と の けっこん を のぞんで います 。
+
 He's hoping to marry me.
-単純
-たんじゅん
+
+単純 [たんじゅん]
+
 simple, uncomplicated
+
 Adjectival Noun
-1
 彼は単純な人です。
+
 かれ は たんじゅんな ひと です。
+
 He's a simple-minded person.
-翻訳
-ほんやく
+
+翻訳 [ほんやく]
+
 translation (of texts)
+
 Verbal Noun
-1
 彼の翻訳は分かりやすいですよ。
+
 かれ の ほんやく は わかりやすい です よ。
+
 His translation is easy to understand.
-論文
-ろんぶん
+
+論文 [ろんぶん]
+
 thesis, paper
+
 Noun
-1
 論文を仕上げないと卒業できませんよ。
+
 ろんぶん を しあげない と そつぎょう できません よ。
+
 You can't graduate if you don't finish your thesis.
-継続
-けいぞく
+
+継続 [けいぞく]
+
 continuation, succession
+
 Verbal Noun
-1
 ものごとは根気よく継続することが大切です。
+
 ものごと は こんき よく けいぞく する こと が たいせつ です。
+
 Whatever you do, it's important to keep at it persistently.
-生命
-せいめい
+
+生命 [せいめい]
+
 life (formal)
+
 Noun
-1
 生命は海から始まったと言われている。
+
 せいめい は うみ から はじまった と いわれて いる。
+
 Life is said to have started in the sea.
-敵
-てき
+
+敵 [てき]
+
 enemy, foe
+
 Noun
-1
 あそこに敵がひそんでいる。
+
 あそこ に てき が ひそんで いる。
+
 The enemy is lurking there.
-単位
-たんい
+
+単位 [たんい]
+
 unit, credit
+
 Noun
-1
 メートルは長さの単位です。
+
 メートル は ながさ の たんい です。
+
 The meter is a unit of length.
-複数
-ふくすう
+
+複数 [ふくすう]
+
 plural, multiple
+
 Noun
-1
 複数のレポートをひとつにまとめています。
+
 ふくすう の レポート を ひとつ に まとめて います。
+
 I'm putting multiple reports together in one.
-確実
-かくじつ
+
+確実 [かくじつ]
+
 certain, sure
+
 Adjectival Noun
-1
 彼女が将来、大統領になることは確実です。
+
 かのじょ が しょうらい、だいとうりょう に なる こと は かくじつ です。
+
 It is certain that she will become the president in the future.
-低
-てい
+
+低 [てい]
+
 low
+
 Noun
-1
 彼は低賃金で働いているんだ。
+
 かれ は てい ちんぎん で はたらいて いる ん だ。
+
 He's working for a low wage.
-募集
-ぼしゅう
+
+募集 [ぼしゅう]
+
 recruitment, collection
+
 Verbal Noun
-1
 私の会社で社員を募集しています。
+
 わたし の かいしゃ で しゃいん を ぼしゅう して います。
+
 My company is recruiting new staff.
-級
-きゅう
+
+級 [きゅう]
+
 grade, class
+
 Noun
-1
 彼は書道3級です。
+
 かれ は しょどう 3 きゅう です。
+
 He has a class three certificate in Japanese calligraphy.
-証明
-しょうめい
+
+証明 [しょうめい]
+
 proof, demonstration
+
 Verbal Noun
-1
 容疑者のアリバイが証明されました。
+
 ようぎしゃ の アリバイ が しょうめい されました。
+
 The suspect's alibi has been proven.
-単に
-たんに
+
+単に [たんに]
+
 simply, just
+
 Adverb
-1
 心配しないで、単に眠いだけです。
+
 しんぱい しない で、たんに ねむい だけ です。
+
 Don't worry, I'm simply sleepy.
-適切
-てきせつ
+
+適切 [てきせつ]
+
 appropriate, adequate
+
 Adjectival Noun
-1
 彼は適切な言葉で説明してくれました。
+
 かれ は てきせつな ことば で せつめい して くれました。
+
 He explained it to me in appropriate terms.
-財産
-ざいさん
+
+財産 [ざいさん]
+
 fortune, asset
+
 Noun
-1
 彼は株で財産の半分を失ったの。
+
 かれ は かぶ で ざいさん の はんぶん を うしなった の。
+
 He lost half his assets in the stock market.
-作家
-さっか
+
+作家 [さっか]
+
 writer, novelist
+
 Noun
-1
 彼女は有名な作家です。
+
 かのじょ は ゆうめいな さっか です。
+
 She is a well-known writer.
-ようやく
+
 ようやく
 at last, at long last
+
 Adverb
-1
 ようやくゴールが見えてきました。
+
 ようやく ゴール が みえて きました。
+
 At long last, we can see the finish line.
-形式
-けいしき
+
+形式 [けいしき]
+
 form, format
+
 Noun
-1
 書類は形式を守って作ってください。
+
 しょるい は けいしき を まもって つくって ください。
+
 Please follow the format of the documents.
-違反
-いはん
+
+違反 [いはん]
+
 violation, breach
+
 Verbal Noun
-1
 彼は校則に違反しました。
+
 かれ は こうそく に いはん しました。
+
 He violated school regulations.
-義務
-ぎむ
+
+義務 [ぎむ]
+
 duty, obligation
+
 Noun
-1
 労働は国民の義務です。
+
 ろうどう は こくみん の ぎむ です。
+
 It's a citizen's duty to work.
-公式
-こうしき
+
+公式 [こうしき]
+
 official
+
 Adjectival Noun
-1
 今後の方針が公式に発表されました。
+
 こんご の ほうしん が こうしき に はっぴょう されました。
+
 The future policy has been officially announced.
-場面
-ばめん
+
+場面 [ばめん]
+
 scene, situation
+
 Noun
-1
 ここがいちばん面白い場面です。
+
 ここ が いちばん おもしろい ばめん です。
+
 This is the most interesting scene.
-流す
-ながす
+
+流す [ながす]
+
 run (water etc.), shed
+
 Verb
-1
 彼女は涙を流したんだ。
+
 かのじょ は なみだ を ながした ん だ。
+
 She shed tears.
-質
-しつ
+
+質 [しつ]
+
 quality
+
 Noun
-1
 量より質の方が大事です。
+
 りょう より しつ の ほう が だいじ です。
+
 Quality is more important than quantity.
-終える
-おえる
+
+終える [おえる]
+
 finish (something), complete (something)
+
 Verb
-1
 やっと宿題を終えた。
+
 やっと しゅくだい を おえた。
+
 At last I finished my homework.
-会計
-かいけい
+
+会計 [かいけい]
+
 accounting, payment (for goods and services)
+
 Verbal Noun
-1
 会計を済ませて店を出たんだ。
+
 かいけい を すませて みせ を でた ん だ。
+
 I paid the bill and then left the store.
-開ける
-ひらける
+
+開ける [ひらける]
+
 develop, open up
+
 Verb
-1
 霧が晴れて視界が開けたね。
+
 きり が はれて しかい が ひらけた ね。
+
 The fog has cleared up and visibility has increased.
-資源
-しげん
+
+資源 [しげん]
+
 resources
+
 Noun
-1
 地球の資源を守りましょう。
+
 ちきゅう の しげん を まもりましょう。
+
 Let's protect the earth's resources.
-支える
-ささえる
+
+支える [ささえる]
+
 support, sustain
+
 Verb
-1
 父親には一家を支える責任がある。
+
 ちちおや に は いっか を ささえる せきにん が ある。
+
 Fathers have a responsibility to support their families.
-成立
-せいりつ
+
+成立 [せいりつ]
+
 formation, closing (of a deal etc.)
+
 Verbal Noun
-1
 あの会社との契約が成立しました。
+
 あの かいしゃ と の けいやく が せいりつ しました。
+
 We closed the deal with that company.
-訓練
-くんれん
+
+訓練 [くんれん]
+
 training, drill
+
 Verbal Noun
-1
 学校で避難訓練がありました。
+
 がっこう で ひなん くんれん が ありました。
+
 We had a fire drill at school.
-食品
-しょくひん
+
+食品 [しょくひん]
+
 food, food product
+
 Noun
-1
 食品は日曜日にまとめて買います。
+
 しょくひん は にちようび に まとめて かいます。
+
 I buy my food in bulk on Sundays.
-物質
-ぶっしつ
+
+物質 [ぶっしつ]
+
 matter, substance
+
 Noun
-1
 この製品は有害な化学物質を含んでいるわよ。
+
 この せいひん は ゆうがいな かがく ぶっしつ を ふくんで いる わ よ。
+
 This product contains a harmful substance.
-実に
-じつに
+
+実に [じつに]
+
 truly, surely
+
 Adverb
-1
 昨日のコンサートは実に素晴らしかったよ。
+
 きのう の コンサート は じつに すばらしかった よ。
+
 Yesterday's concert was truly wonderful.
-保存
-ほぞん
+
+保存 [ほぞん]
+
 saving, preservation
+
 Verbal Noun
-1
 データを30分おきに保存してください。
+
 データ を 30 ぷん おき に ほぞん して ください。
+
 Please save your data every 30 minutes.
-相互
-そうご
+
+相互 [そうご]
+
 mutual, reciprocal
+
 Noun
-1
 チームの中では相互の信頼が大切です。
+
 チーム の なか で は そうご の しんらい が たいせつ です。
+
 Mutual trust is important in a team.
-依頼
-いらい
+
+依頼 [いらい]
+
 request
+
 Verbal Noun
-1
 彼に協力を依頼しました。
+
 かれ に きょうりょく を いらい しました。
+
 I requested his cooperation.
-差別
-さべつ
+
+差別 [さべつ]
+
 discrimination
+
 Verbal Noun
-1
 彼は差別をなくす運動をしています。
+
 かれ は さべつ を なくす うんどう を して います。
+
 He is working to eliminate discrimination.
-設備
-せつび
+
+設備 [せつび]
+
 equipment, facilities
+
 Verbal Noun
-1
 この研究所には最新の設備が揃っています。
+
 この けんきゅう じょ に は さいしん の せつび が そろって います。
+
 This laboratory has the latest equipment.
-伺う
-うかがう
+
+伺う [うかがう]
+
 ask, hear (humble)
+
 Verb
-1
 お話しを伺いたいのですが。
+
 おはなし を うかがいたい の です が。
+
 I want to hear your story.
-保証
-ほしょう
+
+保証 [ほしょう]
+
 guarantee, warranty
+
 Verbal Noun
-1
 この製品の保証期間は5年間となっております。
+
 この せいひん の ほしょう きかん は 5 ねんかん と なって おります。
+
 The guarantee period of this product is five years.
-防止
-ぼうし
+
+防止 [ぼうし]
+
 prevention
+
 Verbal Noun
-1
 警察は犯罪の防止に努めています。
+
 けいさつ は はんざい の ぼうし に つとめて います。
+
 The police are making efforts to prevent crime.
-需要
-じゅよう
+
+需要 [じゅよう]
+
 demand
+
 Noun
-1
 需要が多過ぎて生産が追い付きません。
+
 じゅよう が おお すぎて せいさん が おいつきません。
+
 The demand is so high that production can't keep up.
-無視
-むし
+
+無視 [むし]
+
 ignoring, disregarding
+
 Verbal Noun
-1
 彼の意見は無視されたよ。
+
 かれ の いけん は むし された よ。
+
 His opinion was disregarded.
-生物
-せいぶつ
+
+生物 [せいぶつ]
+
 living creature, organism
+
 Noun
-1
 海の底には不思議な生物がたくさんいるよ。
+
 うみ の そこ に は ふしぎな せいぶつ が たくさん いる よ。
+
 There are a lot of mysterious creatures at the bottom of the sea.
-改めて
-あらためて
+
+改めて [あらためて]
+
 once again, anew
+
 Adverb
-1
 改めてあなたのご意見を聞かせてください。
+
 あらためて あなた の ごいけん を きかせて ください 。
+
 Please let me hear your opinion again.
-優勝
-ゆうしょう
+
+優勝 [ゆうしょう]
+
 championship
+
 Verbal Noun
-1
 私たちのチームが優勝しました。
+
 わたし たち の チーム が ゆうしょう しました。
+
 Our team won the championship.
-承知
-しょうち
+
+承知 [しょうち]
+
 consent, acknowledgment
+
 Verbal Noun
-1
 そのことは承知しております。
+
 その こと は しょうち して おります。
+
 I know that.
-供給
-きょうきゅう
+
+供給 [きょうきゅう]
+
 supply, provision
+
 Verbal Noun
-1
 彼の会社は電力を供給しています。
+
 かれ の かいしゃ は でんりょく を きょうきゅう して います。
+
 His company supplies electricity.
-許可
-きょか
+
+許可 [きょか]
+
 permission, approval
+
 Verbal Noun
-1
 先生に許可をもらって早退しました。
+
 せんせい に きょか を もらって そうたい しました。
+
 I got permission from the teacher and went home early.
-多少
-たしょう
+
+多少 [たしょう]
+
 somewhat, to some extent
+
 Adverb
-1
 このソフトには多少問題がある。
+
 この ソフト に は たしょう もんだい が ある。
+
 This software has some problems.
-外交
-がいこう
+
+外交 [がいこう]
+
 diplomacy, foreign relations
+
 Noun
-1
 政府は外交に力を入れているの。
+
 せいふ は がいこう に ちから を いれて いる の。
+
 The government is making efforts in diplomacy.
-出来事
-できごと
+
+出来事 [できごと]
+
 occurrence, incident
+
 Noun
-1
 面白い出来事がありました。
+
 おもしろい できごと が ありました。
+
 Something interesting happened.
-お互い
-おたがい
+
+お互い [おたがい]
+
 each other (polite)
+
 Noun
-1
 お互いを信頼することが大事です。
+
 おたがい を しんらい する こと が だいじ です。
+
 It is important to trust each other.
-申請
-しんせい
+
+申請 [しんせい]
+
 application, petition
+
 Verbal Noun
-1
 これからパスポートの申請に行きます。
+
 これから パスポート の しんせい に いきます。
+
 I'm going to apply for my passport now.
-取れる
-とれる
+
+取れる [とれる]
+
 come off, get removed, get picked
+
 Verb
-1
 このナスは畑で取れたばかりです。
+
 この ナス は はたけ で とれた ばかり です。
+
 This eggplant has just been picked from the field.
-高速
-こうそく
+
+高速 [こうそく]
+
 high speed, express
+
 Noun
-1
 高速バスで東京に行ったんだ。
+
 こうそく バス で とうきょう に いった ん だ。
+
 I went to Tokyo by the express bus.
-特殊
-とくしゅ
+
+特殊 [とくしゅ]
+
 special, unique
+
 Adjectival Noun
-1
 彼は特殊な能力を持っています。
+
 かれ は とくしゅな のうりょく を もって います。
+
 He has a special ability.
-文学
-ぶんがく
+
+文学 [ぶんがく]
+
 literature
+
 Noun
-1
 彼女は文学に興味をもっているのよ。
+
 かのじょ は ぶんがく に きょうみ を もって いる の よ 。
+
 She's interested in literature.
-議会
-ぎかい
+
+議会 [ぎかい]
+
 assembly, council
+
 Noun
-1
 議会で区の来年の予定が話し合われたんだ。
+
 ぎかい で く の らいねん の よてい が はなしあわれた ん だ。
+
 The council discussed the district plan for the upcoming year.
-削除
-さくじょ
+
+削除 [さくじょ]
+
 deletion, elimination
+
 Verbal Noun
-1
 要らないファイルは削除してください。
+
 いらない ファイル は さくじょ して ください。
+
 Please delete unnecessary files.
-高める
-たかめる
+
+高める [たかめる]
+
 heighten (something), improve
+
 Verb
-1
 自分を高めるのは大切なことです。
+
 じぶん を たかめる の は たいせつな こと です。
+
 It's important to improve oneself.
-本部
-ほんぶ
+
+本部 [ほんぶ]
+
 headquarters of an organization
+
 Noun
-1
 その事件の直後、捜査本部が設置された。
+
 その じけん の ちょくご、そうさ ほんぶ が せっち された。
+
 Immediately after the incident, the investigation headquarters were set up.
-きっかけ
+
 きっかけ
 chance, opportunity, impetus
+
 Noun
-1
 大学に通うのが上京のきっかけでした。
+
 だいがく に かよう の が じょうきょう の きっかけ でした。
+
 I took the opportunity to move to Tokyo when I went to college there.
-学者
-がくしゃ
+
+学者 [がくしゃ]
+
 scholar
+
 Noun
-1
 彼は作家であり学者です。
+
 かれ は さっか で あり がくしゃ です。
+
 He is a writer and a scholar.
-風景
-ふうけい
+
+風景 [ふうけい]
+
 view, scene
+
 Noun
-1
 私は山の風景が好きです。
+
 わたし は やま の ふうけい が すき です。
+
 I like views in mountains.
-それほど
+
 それほど
 so much, that much
+
 Adverb
-1
 彼がそれほど悩んでいたとは知らなかった。
+
 かれ が それほど なやんで いた と は しらなかった。
+
 I didn't know he was worried that much.
-追う
-おう
+
+追う [おう]
+
 chase, pursue
+
 Verb
-1
 警官は怪しい男のあとを追ったよ。
+
 けいかん は あやしい おとこ の あと を おった よ。
+
 The police officer chased the suspicious man.
-考慮
-こうりょ
+
+考慮 [こうりょ]
+
 consideration, deliberation
+
 Verbal Noun
-1
 あなたの事情を考慮して予定をたてました。
+
 あなた の じじょう を こうりょ して よてい を たてました。
+
 We made the plan while taking your circumstances into consideration.
-伝わる
-つたわる
+
+伝わる [つたわる]
+
 be transmitted, come from
+
 Verb
-1
 漢字は中国から伝わった。
+
 かんじ は ちゅうごく から つたわった。
+
 Kanji came from China.
-実感
-じっかん
+
+実感 [じっかん]
+
 true sense, realization
+
 Verbal Noun
-1
 子供が歩き始めたとき、子供の成長を実感した。
+
 こども が あるき はじめた とき、こども の せいちょう を じっかん した。
+
 I got a real sense of my kid's growth when he started walking.
-近代
-きんだい
+
+近代 [きんだい]
+
 modern times
+
 Noun
-1
 近代の技術の発展はものすごいです。
+
 きんだい の ぎじゅつ の はってん は ものすごい です。
+
 Technology development in this modern age is truly amazing.
-航空
-こうくう
+
+航空 [こうくう]
+
 aviation
+
 Noun
-1
 会議で航空の安全について話し合ったの。
+
 かいぎ で こうくう の あんぜん に ついて はなしあった の。
+
 We discussed airline safety in the meeting.
-一時
-いちじ
+
+一時 [いちじ]
+
 temporarily
+
 Adverb
-1
 お店は一時休業になったんだ。
+
 おみせ は いちじ きゅうぎょう に なった ん だ。
+
 The store was temporarily closed.
-分類
-ぶんるい
+
+分類 [ぶんるい]
+
 classification
+
 Verbal Noun
-1
 これらの本を分類してください。
+
 これら の ほん を ぶんるい して ください。
+
 Please classify these books.
-哲学
-てつがく
+
+哲学 [てつがく]
+
 philosophy
+
 Noun
-1
 哲学は興味深い学問です。
+
 てつがく は きょうみぶかい がくもん です。
+
 Philosophy is an interesting field of study.
-巨大
-きょだい
+
+巨大 [きょだい]
+
 huge, gigantic
+
 Adjectival Noun
-1
 あの巨大な建物は博物館です。
+
 あの きょだいな たてもの は はくぶつかん です。
+
 That huge building is a museum.
-表す
-あらわす
+
+表す [あらわす]
+
 express (something)
+
 Verb
-1
 私たちは万歳をして喜びを表しました。
+
 わたし たち は ばんざい を して よろこび を あらわしました。
+
 We expressed our joy by throwing our arms in the air.
-人類
-じんるい
+
+人類 [じんるい]
+
 humankind
+
 Noun
-1
 人類は2本の足で歩きます。
+
 じんるい は 2 ほん の あし で あるきます。
+
 Humans walk on two feet.
-パターン
+
 パターン
 pattern
+
 Noun
-1
 彼女の行動パターンは興味深いな。
+
 かのじょ の こうどう パターン は きょうみぶかい な。
+
 Her behavior pattern is interesting.
-波
-なみ
+
+波 [なみ]
+
 wave, fluctuations
+
 Noun
-1
 今日の海は波が穏やかです。
+
 きょう の うみ は なみ が おだやか です。
+
 The waves of the sea are calm today.
-低下
-ていか
+
+低下 [ていか]
+
 falling, lowering
+
 Verbal Noun
-2
 最近、教育レベルが低下しています。
+
 さいきん、きょういく レベル が ていか して います。
+
 Education levels have been decreasing recently.
+
 よう
 look like, seem
+
 Auxiliary Verb
 彼女は眠いようです。
-彼女は眠いようです。
+
 かのじょ は ねむい よう です。
+
 It looks like she's sleepy.
-2
-年寄り
-としより
+
+年寄り [としより]
+
 elderly people, seniors
+
 Noun
 あの村にはお年寄りがたくさん住んでいます。
+
 あの むら に は おとしより が たくさん すんで います。
+
 A lot of elderly people live in that village.
+
 ロボット
 robot
+
 Noun
-1
 彼はロボットの研究をしています。
+
 かれ は ロボット の けんきゅう を して います。
+
 He is doing research on robots.
-人形
-にんぎょう
+
+人形 [にんぎょう]
+
 doll
+
 Noun
-1
 彼女は人形をたくさん持っています。
+
 かのじょ は にんぎょう を たくさん もって います。
+
 She has a lot of dolls.
-追い越す
-おいこす
+
+追い越す [おいこす]
+
 outrun, overtake
+
 Verb
-1
 大きなトラックが私たちを追い越した。
+
 おおきな トラック が わたし たち を おいこした。
+
 A big truck overtook us.
-インク
+
 インク
 ink
+
 Noun
-1
 プリンターのインクを買った。
+
 プリンター の インク を かった。
+
 I bought some printer ink.
-言語
-げんご
+
+言語 [げんご]
+
 language
+
 Noun
-1
 彼はアジアの言語を研究している。
+
 かれ は アジア の げんご を けんきゅう して いる。
+
 He's doing research on Asian languages.
-製造
-せいぞう
+
+製造 [せいぞう]
+
 production, manufacturing
+
 Verbal Noun
-1
 この工場ではエアコンを製造しています。
+
 この こうじょう で は エアコン を せいぞう して います。
+
 This factory manufactures air conditioning units.
-西暦
-せいれき
+
+西暦 [せいれき]
+
 Christian Era, A.D.
+
 Noun
-1
 西暦1964年に東京でオリンピックがあった。
+
 せいれき 1964 ねん に とうきょう で オリンピック が あった。
+
 The Tokyo Olympics were held in 1964.
-ピンポン
+
 ピンポン
 table tennis
+
 Noun
-1
 昨日の夕方、友達とピンポンをした。
+
 きのう の ゆうがた、ともだち と ピンポン を した。
+
 I played table tennis with my friend last night.
-訴える
-うったえる
+
+訴える [うったえる]
+
 sue, appeal to
+
 Verb
-1
 彼女は会社を訴えた。
+
 かのじょ は かいしゃ を うったえた。
+
 She sued the company.
-関連
-かんれん
+
+関連 [かんれん]
+
 relation, relevance
+
 Verbal Noun
-1
 関連のセクションへ連絡した。
+
 かんれん の セクション へ れんらく した。
+
 I contacted the relevant section.
-述べる
-のべる
+
+述べる [のべる]
+
 state, remark
+
 Verb
-1
 上司が意見を述べた。
+
 じょうし が いけん を のべた。
+
 Our boss stated his opinion.
-批判
-ひはん
+
+批判 [ひはん]
+
 criticism
+
 Verbal Noun
-1
 彼は同僚を批判した。
+
 かれ は どうりょう を ひはん した。
+
 He criticized his colleague.
-基づく
-もとづく
+
+基づく [もとづく]
+
 be based on
+
 Verb
-1
 この話は真実に基づいています。
+
 この はなし は しんじつ に もとづいて います。
+
 This story is based on truth.
-戦う
-たたかう
+
+戦う [たたかう]
+
 wage war, fight
+
 Verb
-1
 彼は最後まで戦ったよ。
+
 かれ は さいご まで たたかった よ。
+
 He fought to the very end.

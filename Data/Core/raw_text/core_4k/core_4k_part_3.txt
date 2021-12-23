@@ -1,800 +1,1091 @@
-鉄道
-てつどう
+鉄道 [てつどう]
+
 railway
+
 Noun
-1
 日本は鉄道がとても発達しています。
+
 にっぽん は てつどう が とても はったつ して います。
+
 The railway system in Japan is well developed.
-従う
-したがう
+
+従う [したがう]
+
 follow, obey
+
 Verb
-1
 上司の指示に従った。
+
 じょうし の しじ に したがった。
+
 I followed the instructions from my boss.
-叫ぶ
-さけぶ
+
+叫ぶ [さけぶ]
+
 shout, cry out
+
 Verb
-1
 彼女は助けを求めて大声で叫んだの。
+
 かのじょ は たすけ を もとめて おおごえ で さけんだ の。
+
 She cried out for help.
-組む
-くむ
+
+組む [くむ]
+
 pair up, partner with
+
 Verb
-1
 このプロジェクトで私は彼と組んでいるんだ。
+
 この プロジェクト で わたし は かれ と くんで いる ん だ。
+
 I'm pairing up with him for this project.
-印刷
-いんさつ
+
+印刷 [いんさつ]
+
 printing
+
 Verbal Noun
-1
 年賀状を印刷したの。
+
 ねんがじょう を いんさつ した の。
+
 I printed New Year's cards.
-一致
-いっち
+
+一致 [いっち]
+
 agreement, match
+
 Verbal Noun
-1
 皆の意見が一致しました。
+
 みんな の いけん が いっち しました。
+
 We all came to an agreement.
-筆者
-ひっしゃ
+
+筆者 [ひっしゃ]
+
 writer, author
+
 Noun
-1
 筆者の趣旨を考えてください。
+
 ひっしゃ の しゅし を かんがえて ください。
+
 Please consider the author's point.
-模様
-もよう
+
+模様 [もよう]
+
 pattern, design
+
 Noun
-1
 彼女は水玉模様のスカートをはいているね。
+
 かのじょ は みずたま もよう の スカート を はいて いる ね。
+
 She's wearing a skirt with polka dots.
-速度
-そくど
+
+速度 [そくど]
+
 speed, velocity
+
 Noun
-1
 新幹線の速度はどれくらいですか。
+
 しんかんせん の そくど は どれ くらい です か。
+
 How fast is the speed of the Shinkansen?
-外部
-がいぶ
+
+外部 [がいぶ]
+
 outside, outer
+
 Noun
-1
 これは外部には秘密です。
+
 これ は がいぶ に は ひみつ です。
+
 This is confidential.
-重ねる
-かさねる
+
+重ねる [かさねる]
+
 put (something) on top of another, pile up
+
 Verb
-1
 荷物はここに重ねてください。
+
 にもつ は ここ に かさねて ください。
+
 Please pile up the luggage here.
-抵抗
-ていこう
+
+抵抗 [ていこう]
+
 resistance
+
 Verbal Noun
-1
 犯人は警察に抵抗したの。
+
 はんにん は けいさつ に ていこう した の。
+
 The criminal resisted the police.
-定期
-ていき
+
+定期 [ていき]
+
 regular, periodic (thing)
+
 Noun
-1
 定期演奏会は年に4回あります。
+
 ていき えんそう かい は ねん に 4 かい あります。
+
 We have our regular concerts four times a year.
-混乱
-こんらん
+
+混乱 [こんらん]
+
 chaos, confusion
+
 Verbal Noun
-1
 地震のあと、町は大混乱だったよ。
+
 じしん の あと、まち は だい こんらん だった よ。
+
 After the earthquake, the town was in great chaos.
-自殺
-じさつ
+
+自殺 [じさつ]
+
 suicide
+
 Verbal Noun
-1
 犯人は警察に捕まる前に自殺しました。
+
 はんにん は けいさつ に つかまる まえ に じさつ しました。
+
 The criminal committed suicide before he was caught by the police.
-幸い
-さいわい
+
+幸い [さいわい]
+
 fortunately, thankfully
+
 Adjectival Noun
-1
 幸い、電車に嵐の影響はなかった。
+
 さいわい、でんしゃ に あらし の えいきょう は なかった。
+
 Fortunately, the train was not affected by the storm.
-神様
-かみさま
+
+神様 [かみさま]
+
 god (polite)
+
 Noun
-1
 神様にお願いしました。
+
 かみさま に おねがい しました。
+
 I asked a favor from the gods in my prayers.
-参る
-まいる
+
+参る [まいる]
+
 go, come (humble)
+
 Verb
-1
 さあ、参りましょうか。
+
 さあ、まいりましょう か。
+
 Well, shall we go?
-城
-しろ
+
+城 [しろ]
+
 castle
+
 Noun
-1
 今回の旅行ではヨーロッパの城を見て回ります。
+
 こんかい の りょこう で は ヨーロッパ の しろ を みて まわります。
+
 I will look around some European castles on this trip.
-シーズン
+
 シーズン
 season (loan word), time period when something is commonly done
+
 Noun
-1
 その選手は今シーズンも好調だね。
+
 その せんしゅ は こん シーズン も こうちょう だ ね。
+
 The player is in good condition this season as well.
-筋
-すじ
+
+筋 [すじ]
+
 muscle fiber
+
 Noun
-1
 転んで筋を痛めてしまいました。
+
 ころんで すじ を いためて しまいました。
+
 I fell down and hurt my muscle fiber.
-たとえ
+
 たとえ
 even if, granting that
+
 Adverb
-1
 たとえ、嵐になっても絶対に行く。
+
 たとえ、あらし に なって も ぜったい に いく。
+
 Even if the storm comes, I'll go for sure.
-天皇
-てんのう
+
+天皇 [てんのう]
+
 emperor
+
 Noun
-1
 日本には天皇がいます。
+
 にっぽん に は てんのう が います。
+
 Japan has an emperor.
-ともかく
+
 ともかく
 at any rate, in any case
+
 Adverb
-1
 ともかく一度考え直しましょう。
+
 ともかく いちど かんがえ なおしましょう。
+
 At any rate, let's think about this once again.
-題
-だい
+
+題 [だい]
+
 title, topic
+
 Noun
-1
 その曲の題を思い出せません。
+
 その きょく の だい を おもいだせません。
+
 I can't remember the title of the piece.
-運
-うん
+
+運 [うん]
+
 fortune, luck
+
 Noun
-1
 彼は運のいい男です。
+
 かれ は うん の いい おとこ です。
+
 He is a lucky man.
-不満
-ふまん
+
+不満 [ふまん]
+
 dissatisfaction, discontent
+
 Noun
-1
 私は彼のやり方には不満です。
+
 わたし は かれ の やりかた に は ふまん です。
+
 I'm dissatisfied with his way of doing things.
-原理
-げんり
+
+原理 [げんり]
+
 mechanism, theory
+
 Noun
-1
 見学者に機械の動く原理を説明しました。
+
 けんがく しゃ に きかい の うごく げんり を せつめい しました。
+
 I explained the mechanism of the machine to the visitor.
-楽器
-がっき
+
+楽器 [がっき]
+
 musical instrument
+
 Noun
-1
 私が好きな楽器はギターです。
+
 わたし が すきな がっき は ギター です。
+
 My favorite instrument is the guitar.
-詩
-し
+
+詩 [し]
+
 poetry, poem
+
 Noun
-1
 彼女の詩は世界中で有名になったんだ。
+
 かのじょ の し は せかい じゅう で ゆうめい に なった ん だ。
+
 Her poem became famous all over the world.
-容易
-ようい
+
+容易 [ようい]
+
 easy, simple (formal)
+
 Adjectival Noun
-1
 彼はその問題を容易に解決したわ。
+
 かれ は その もんだい を ようい に かいけつした わ。
+
 He easily solved the problem.
-滞在
-たいざい
+
+滞在 [たいざい]
+
 stay
+
 Verbal Noun
-1
 日本では北海道に滞在しました。
+
 にっぽん で は ほっかいどう に たいざい しました。
+
 I stayed in Hokkaido when I went to Japan.
-各地
-かくち
+
+各地 [かくち]
+
 every place, various parts
+
 Noun
-1
 各地で大雨が降っています。
+
 かくち で おおあめ が ふって います。
+
 Heavy rain is falling in various regions.
-済む
-すむ
+
+済む [すむ]
+
 be settled, complete
+
 Verb
-1
 父の手術が無事に済みました。
+
 ちち の しゅじゅつ が ぶじ に すみました。
+
 My father's operation was completed without trouble.
-香り
-かおり
+
+香り [かおり]
+
 fragrance
+
 Noun
-1
 この花はいい香りがしますね。
+
 この はな は いい かおり が します ね。
+
 This flower smells good.
-老人
-ろうじん
+
+老人 [ろうじん]
+
 old person, elderly
+
 Noun
-1
 子供が老人の手を引いて歩いていたの。
+
 こども が ろうじん の て を ひいて あるいて いた の。
+
 A child was holding an old person's hand as they walked.
-一瞬
-いっしゅん
+
+一瞬 [いっしゅん]
+
 instant, moment
+
 Noun
-1
 一瞬自分の耳を疑ったよ。
+
 いっしゅん じぶん の みみ を うたがった よ。
+
 For a moment I couldn't believe what I heard.
-当日
-とうじつ
+
+当日 [とうじつ]
+
 the day (of the event etc.)
+
 Noun
-1
 入場券は当日でも買えますよ。
+
 にゅうじょう けん は とうじつ でも かえます よ。
+
 You can buy admission tickets on the same day.
-割合
-わりあい
+
+割合 [わりあい]
+
 rate, proportion
+
 Noun
-1
 二つの薬品を1対3の割合で混ぜたんだ。
+
 ふたつ の やくひん を 1 たい 3 の わりあい で まぜた ん だ。
+
 I mixed the two chemicals at a ratio of 1 to 3.
-正式
-せいしき
+
+正式 [せいしき]
+
 formal, proper
+
 Adjectival Noun
-1
 正式な招待状を受け取りました。
+
 せいしきな しょうたい じょう を うけとりました。
+
 I received a formal invitation.
-出場
-しゅつじょう
+
+出場 [しゅつじょう]
+
 participation (in a sports competition, etc.)
+
 Verbal Noun
-1
 今日は8チームが出場しました。
+
 きょう は 8 チーム が しゅつじょう しました。
+
 Eight teams participated today.
-寄せる
-よせる
+
+寄せる [よせる]
+
 draw (something) near
+
 Verb
-1
 車を塀に寄せたよ。
+
 くるま を へい に よせた よ。
+
 I pulled my car over by the wall.
-板
-いた
+
+板 [いた]
+
 board, plank
+
 Noun
-1
 父は長い板を買ってきたんだ。
+
 ちち は ながい いた を かって きた ん だ。
+
 My father bought a long plank.
-張る
-はる
+
+張る [はる]
+
 strain, be stretched
+
 Verb
-1
 疲れて肩が張っています。
+
 つかれて かた が はって います。
+
 My shoulders are stiff with fatigue.
-実績
-じっせき
+
+実績 [じっせき]
+
 results achieved, performance
+
 Noun
-1
 彼は営業で実績を上げたんだ。
+
 かれ は えいぎょう で じっせき を あげた ん だ。
+
 He achieved good results working in sales.
-頼る
-たよる
+
+頼る [たよる]
+
 rely on, depend on
+
 Verb
-1
 人に頼らないで、自分でやってごらん。
+
 ひと に たよらない で 、 じぶん で やって ごらん。
+
 Do it yourself without relying on other people.
-申し訳
-もうしわけ
+
+申し訳 [もうしわけ]
+
 excuse, apology
+
 Noun
-1
 申し訳ございません。
+
 もうしわけ ございません。
+
 I'm truly sorry.
-ふと
+
 ふと
 suddenly, unintentionally
+
 Adverb
-1
 ふと昔の事を思い出したんだ。
+
 ふと むかし の こと を おもいだした ん だ。
+
 I suddenly remembered the past.
-回転
-かいてん
+
+回転 [かいてん]
+
 spin, rotation
+
 Verbal Noun
-1
 彼はボールに回転をかけたんだ。
+
 かれ は ボール に かいてん を かけた ん だ。
+
 He put a spin on the ball.
-ステージ
+
 ステージ
 stage (for a performance)
+
 Noun
-1
 彼はステージに立ったよ。
+
 かれ は ステージ に たった よ。
+
 He stood on the stage.
-広げる
-ひろげる
+
+広げる [ひろげる]
+
 spread (something)
+
 Verb
-1
 電車の中では新聞を広げないで。
+
 でんしゃ の なか で は しんぶん を ひろげない で。
+
 Don't spread your newspaper wide open in the train.
-通す
-とおす
+
+通す [とおす]
+
 pass (someone/something) through
+
 Verb
-1
 針に糸を通してください。
+
 はり に いと を とおして ください。
+
 Please thread the needle.
-知事
-ちじ
+
+知事 [ちじ]
+
 governor
+
 Noun
-1
 彼は有能な知事ね。
+
 かれ は ゆうのうな ちじ ね。
+
 He's a capable governor.
-勝負
-しょうぶ
+
+勝負 [しょうぶ]
+
 victory or defeat, game
+
 Verbal Noun
-1
 勝負はまだ始まったばかりよ。
+
 しょうぶ は まだ はじまった ばかり よ。
+
 The game has just started.
-やがて
+
 やがて
 soon, before long
+
 Adverb
-1
 やがて雪も止むでしょう。
+
 やがて ゆき も やむ でしょう。
+
 The snow will stop before long.
-直後
-ちょくご
+
+直後 [ちょくご]
+
 immediately after
+
 Noun
-1
 食べた直後に寝ないほうがいいよ。
+
 たべた ちょくご に ねない ほう が いい よ。
+
 You should not sleep immediately after meals.
-奪う
-うばう
+
+奪う [うばう]
+
 rob, take by force
+
 Verb
-1
 その男は彼女のバッグを奪ったぞ。
+
 その おとこ は かのじょ の バッグ を うばった ぞ。
+
 The man stole her bag.
-救う
-すくう
+
+救う [すくう]
+
 save, relieve
+
 Verb
-1
 彼女は通りがかりの人に救われたよ。
+
 かのじょ は とおりがかり の ひと に すくわれた よ。
+
 She was saved by a passing stranger.
-測定
-そくてい
+
+測定 [そくてい]
+
 measure
+
 Verbal Noun
-1
 これから身長と体重を測定します。
+
 これから しんちょう と たいじゅう を そくてい します。
+
 Now we will measure your height and weight.
-道具
-どうぐ
+
+道具 [どうぐ]
+
 tool
+
 Noun
-1
 道具は全部そろっていますか。
+
 どうぐ は ぜんぶ そろって います か。
+
 Do we have all the tools ready?
-刑事
-けいじ
+
+刑事 [けいじ]
+
 detective
+
 Noun
-1
 刑事が現場を調べているわ。
+
 けいじ が げんば を しらべて いる わ。
+
 The detective is investigating the crime scene.
-症状
-しょうじょう
+
+症状 [しょうじょう]
+
 symptom
+
 Noun
-1
 医者に症状を説明したよ。
+
 いしゃ に しょうじょう を せつめい した よ。
+
 I explained my symptoms to the doctor.
-勢い
-いきおい
+
+勢い [いきおい]
+
 vigor, momentum
+
 Noun
-1
 そのチームには勢いがありますね。
+
 その チーム に は いきおい が あります ね。
+
 That team has momentum.
-表面
-ひょうめん
+
+表面 [ひょうめん]
+
 surface
+
 Noun
-1
 月の表面にはクレーターがたくさんあるね。
+
 つき の ひょうめん に は クレーター が たくさん ある ね。
+
 There are a lot of craters on the surface of the moon.
-列
-れつ
+
+列 [れつ]
+
 row, line
+
 Noun
-1
 店の前に長い列ができていたね。
+
 みせ の まえ に ながい れつ が できて いた ね。
+
 There was a long line in front of the shop.
-腹
-はら
+
+腹 [はら]
+
 belly (often used by men)
+
 Noun
-1
 笑い過ぎて腹が痛い。
+
 わらいすぎて はら が いたい。
+
 I laughed so much that my belly hurts.
-玉
-たま
+
+玉 [たま]
+
 bead, ball
+
 Noun
-1
 彼の顔に玉のような汗が流れていたの。
+
 かれ の かお に たま の ような あせ が ながれて いた の。
+
 Beads of sweat were rolling down his face.
-学会
-がっかい
+
+学会 [がっかい]
+
 academic association, academic conference
+
 Noun
-1
 彼は学会で論文を発表したよ。
+
 かれ は がっかい で ろんぶん を はっぴょう した よ。
+
 He presented his paper at the academic conference.
-承認
-しょうにん
+
+承認 [しょうにん]
+
 approval, recognition
+
 Verbal Noun
-1
 これは政府の承認を受けた資格です。
+
 これ は せいふ の しょうにん を うけた しかく です。
+
 This is a qualification approved by the government
-プラン
+
 プラン
 plan (loan word)
+
 Noun
-1
 彼女と旅行のプランを考えました。
+
 かのじょ と りょこう の プラン を かんがえました。
+
 I made a plan for a trip with my girlfriend.
-書店
-しょてん
+
+書店 [しょてん]
+
 bookstore (formal)
+
 Noun
-1
 駅前に新しい書店ができました。
+
 えき まえ に あたらしい しょてん が できました。
+
 There's a new bookstore in front of the station.
-祈る
-いのる
+
+祈る [いのる]
+
 pray, wish for
+
 Verb
-1
 みんなが人質の無事を祈っているわよ。
+
 みんな が ひとじち の ぶじ を いのって いる わ よ。
+
 Everyone is praying for the safety of the hostage.
-意志
-いし
+
+意志 [いし]
+
 will, volition
+
 Noun
-1
 彼は意志の強い人です。
+
 かれ は いし の つよい ひと です。
+
 He is a strong-willed man.
-暮らし
-くらし
+
+暮らし [くらし]
+
 living, livelihood
+
 Noun
-1
 彼女は毎日の暮らしを楽しんでいますね。
+
 かのじょ は まいにち の くらし を たのしんで います ね。
+
 She's enjoying her daily life.
-勇気
-ゆうき
+
+勇気 [ゆうき]
+
 courage
+
 Noun
-1
 彼は勇気があるね。
+
 かれ は ゆうき が ある ね。
+
 He's courageous.
-売買
-ばいばい
+
+売買 [ばいばい]
+
 buying and selling
+
 Verbal Noun
-1
 彼は不動産の売買をしています。
+
 かれ は ふどうさん の ばいばい を して います。
+
 He buys and sells real estate.
-生まれ
-うまれ
+
+生まれ [うまれ]
+
 birth, origin
+
 Noun
-1
 彼女は京都の生まれです。
+
 かのじょ は きょうと の うまれ です。
+
 She was born in Kyoto.
-確率
-かくりつ
+
+確率 [かくりつ]
+
 probability, chance
+
 Noun
-1
 天気予報は当たる確率が高くなりましたね。
+
 てんき よほう は あたる かくりつ が たかく なりました ね。
+
 The weather forecast is getting a higher probability of proving its forecast right.
-予防
-よぼう
+
+予防 [よぼう]
+
 prevention, protection
+
 Verbal Noun
-1
 虫歯は予防できます。
+
 むしば は よぼう できます。
+
 Cavities can be prevented.
-爆発
-ばくはつ
+
+爆発 [ばくはつ]
+
 explosion, eruption
+
 Verbal Noun
-1
 ダイナマイトが爆発したんだ。
+
 ダイナマイト が ばくはつ した ん だ。
+
 The dynamite exploded.
-マッチ
+
 マッチ
 match, matchbox
+
 Noun
-1
 マッチを持っていますか。
+
 マッチ を もって います か。
+
 Do you have a match?
-資金
-しきん
+
+資金 [しきん]
+
 funds, capital
+
 Noun
-1
 私たちは今、結婚資金を貯めています。
+
 わたし たち は いま、けっこん しきん を ためて います。
+
 We're saving money for the wedding now.
-投資
-とうし
+
+投資 [とうし]
+
 investment
+
 Verbal Noun
-1
 私は4つの会社に投資しています。
+
 わたし は よっつ の かいしゃ に とうし して います。
+
 I'm investing in four companies.
-規模
-きぼ
+
+規模 [きぼ]
+
 scale, scope
+
 Noun
-1
 この動物園は日本一の規模です。
+
 この どうぶつえん は にっぽん いち の きぼ です。
+
 This is the largest zoo in Japan.
-業者
-ぎょうしゃ
+
+業者 [ぎょうしゃ]
+
 contractor (company)
+
 Noun
-1
 引っ越しを業者に頼んだ。
+
 ひっこし を ぎょうしゃ に たのんだ。
+
 I asked a company to handle the move.
-首相
-しゅしょう
+
+首相 [しゅしょう]
+
 prime minister, premier
+
 Noun
-1
 今の首相はあまり力がない。
+
 いま の しゅしょう は あまり ちから が ない。
+
 The current Prime Minister doesn't have much power.
-語る
-かたる
+
+語る [かたる]
+
 tell, talk
+
 Verb
-1
 今夜は大いに語りましょう。
+
 こんや は おおいに かたりましょう。
+
 Let's talk about everything tonight.
-対象
-たいしょう
+
+対象 [たいしょう]
+
 target, object
+
 Noun
-1
 このアンケートは大学生が対象です。
+
 この アンケート は だいがくせい が たいしょう です。
+
 This questionnaire targets university students.
-調査
-ちょうさ
+
+調査 [ちょうさ]
+
 investigation, examination
+
 Verbal Noun
-1
 私たちがその問題を調査しています。
+
 わたし たち が その もんだい を ちょうさ して います。
+
 We're investigating that problem.
-実施
-じっし
+
+実施 [じっし]
+
 implementation, enforcement
+
 Verbal Noun
-1
 現在、スペシャルキャンペーンを実施中です。
+
 げんざい、スペシャル キャンペーン を じっし ちゅう です。
+
 A special campaign is now under way.
-対立
-たいりつ
+
+対立 [たいりつ]
+
 opposition, confrontation
+
 Verbal Noun
-1
 その2社は対立しています。
+
 その 2 しゃ は たいりつ して います。
+
 The two companies are opposed to each other.
-構成
-こうせい
+
+構成 [こうせい]
+
 composition, organization
+
 Verbal Noun
-1
 システムの構成を変えてみました。
+
 システム の こうせい を かえて みました。
+
 I've reorganized the system.
-方針
-ほうしん
+
+方針 [ほうしん]
+
 policy, principle
+
 Noun
-1
 今後の方針が決まった。
+
 こんご の ほうしん が きまった。
+
 We've decided on our future policy.
-対策
-たいさく
+
+対策 [たいさく]
+
 measure, countermeasure
+
 Noun
-1
 一緒に対策を考えましょう。
+
 いっしょに たいさく を かんがえましょう。
+
 Let's think together about what measures we'll take.
-評価
-ひょうか
+
+評価 [ひょうか]
+
 evaluation, reputation
+
 Verbal Noun
-1
 最近、彼の評価が上がった。
+
 さいきん、かれ の ひょうか が あがった。
+
 He's been receiving more recognition lately.
-国会
-こっかい
+
+国会 [こっかい]
+
 National Diet, parliament
+
 Noun
-1
 国会が再開した。
+
 こっかい が さいかい した。
+
 The Diet reconvened.
-抜ける
-ぬける
+
+抜ける [ぬける]
+
 come out, leave
+
 Verb
-1
 彼はグループから抜けました。
+
 かれ は グループ から ぬけました。
+
 He left the group.
-見解
-けんかい
+
+見解 [けんかい]
+
 opinion, view
+
 Noun
-1
 あなたの見解を聞かせてください。
+
 あなた の けんかい を きかせて ください。
+
 Please tell me your opinion.
-程
-ほど
+
+程 [ほど]
+
 extent, limit
+
 Noun
-1
 冗談にも程がある。
+
 じょうだん に も ほど が ある。
+
 Jokes do have limits.
-取得
-しゅとく
+
+取得 [しゅとく]
+
 acquisition
+
 Verbal Noun
-1
 やっと運転免許を取得しました。
+
 やっと うんてん めんきょ を しゅとく しました。
+
 I finally got my drivers' license.

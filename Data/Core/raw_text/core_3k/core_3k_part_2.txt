@@ -1,818 +1,1092 @@
 ガソリン
-ガソリン
 gasoline
+
 Noun
-2
 車にガソリンを入れました。
+
 くるま に ガソリン を いれました。
+
 I put gasoline in my car.
+
 ガソリンの価格がどんどん上がっている。
+
 ガソリン の かかく が どんどん あがって いる。
+
 The price of gasoline keeps going up fast.
-パンツ
+
 パンツ
 pants, trousers
+
 Noun
-1
 彼女はスカートよりパンツが似合うね。
+
 かのじょ は スカート より パンツ が にあう ね。
+
 She looks better in pants than in a skirt.
-そっくり
+
 そっくり
 almost identical
+
 Adjectival Noun
-1
 あの親子はそっくりだね。
+
 あの おやこ は そっくり だ ね。
+
 That parent and child look identical.
-名刺
-めいし
+
+名刺 [めいし]
+
 business card, name card
+
 Noun
-1
 私たちは名刺を交換しました。
+
 わたし たち は めいし を こうかん しました。
+
 We exchanged our business cards.
-いちいち
+
 いちいち
 every time, about everything
+
 Adverb
-1
 彼はいちいち私に指図する。
+
 かれ は いちいち わたし に さしず する。
+
 He always has to give me instructions on everything.
-しつこい
+
 しつこい
 persistent, pesky
+
 Adjective
-1
 しつこい迷惑メールに困っている。
+
 しつこい めいわく メール に こまって いる。
+
 I am having trouble with persistent junk mails.
-喉
-のど
+
+喉 [のど]
+
 throat
+
 Noun
-2
 風邪をひいて喉が痛いです。
+
 かぜ を ひいて のど が いたい です。
+
 I have a cold and a sore throat.
+
 喉が渇きました。
+
 のど が かわきました。
+
 I'm thirsty.
-身長
-しんちょう
+
+身長 [しんちょう]
+
 height
+
 Noun
-1
 身長はどれくらいありますか。
+
 しんちょう は どれ くらい あります か。
+
 How tall are you?
-何で
-なんで
+
+何で [なんで]
+
 why, what for
+
 Interrogative
-1
 彼女は何で来ないんだろう。
+
 かのじょ は なんで こない ん だろう。
+
 I wonder why she's not coming.
-味噌
-みそ
+
+味噌 [みそ]
+
 soybean paste
+
 Noun
-1
 きゅうりに味噌をつけて食べたんだ。
+
 きゅうり に みそ を つけて たべた ん だ。
+
 I put miso on the cucumber and ate it.
-気の毒
-きのどく
+
+気の毒 [きのどく]
+
 pitiful, poor
+
 Adjectival Noun
-1
 彼らは気の毒な生活をしている。
+
 かれら は きのどくな せいかつ を して いる。
+
 They have a pitiful life.
-そっと
+
 そっと
 softly, gently
+
 Adverb
-1
 母親は娘の髪をそっとなでたの。
+
 ははおや は むすめ の かみ を そっと なでた の。
+
 The mother gently smoothed her daughter's hair.
-こっそり
+
 こっそり
 secretly
+
 Adverb
-1
 彼女はこっそりダイエットを始めたの。
+
 かのじょ は こっそり ダイエット を はじめた の。
+
 She secretly started dieting.
-うっかり
+
 うっかり
 carelessly, accidentally
+
 Adverb
-1
 大事なメールをうっかり消してしまった。
+
 だいじな メール を うっかり けして しまった。
+
 I accidentally deleted an important email.
-わざと
+
 わざと
 on purpose
+
 Adverb
-1
 彼はわざと負けたように見えたな。
+
 かれ は わざと まけた ように みえた な。
+
 It looked like he lost on purpose.
-がっかり
+
 がっかり
 disappointed, disappointing
+
 Adverb
-1
 成績が落ちてがっかりした。
+
 せいせき が おちて がっかり した。
+
 I was disappointed because my grades fell.
-ぼんやり
+
 ぼんやり
 vacantly, absent-mindedly
+
 Adverb
-1
 彼は遠くをぼんやり見ていたの。
+
 かれ は とおく を ぼんやり みて いた の。
+
 He was staring vacantly into the distance.
-酢
-す
+
+酢 [す]
+
 vinegar
+
 Noun
-1
 お酢を入れすぎて酸っぱい。
+
 おす を いれ すぎて すっぱい。
+
 It's sour because I put in too much vinegar.
-羨ましい
-うらやましい
+
+羨ましい [うらやましい]
+
 envious, jealous
+
 Adjective
-1
 彼の才能は羨ましいほどだね。
+
 かれ の さいのう は うらやましい ほど だ ね。
+
 I almost envy his talent.
-捕まえる
-つかまえる
+
+捕まえる [つかまえる]
+
 catch, arrest
+
 Verb
-2
 蝶蝶を捕まえたよ。
+
 ちょうちょう を つかまえた よ。
+
 I caught a butterfly.
+
 蛇がカエルを捕まえたの。
+
 へび が カエル を つかまえた の。
+
 The snake captured the frog.
-ちっとも
+
 ちっとも
 not at all (casual)
+
 Adverb
-1
 彼女が結婚したなんて、ちっとも知らなかった。
+
 かのじょ が けっこん した なんて、ちっとも しらなかった。
+
 I didn't know at all that she got married.
-親指
-おやゆび
+
+親指 [おやゆび]
+
 thumb
+
 Noun
-1
 親指を怪我しました。
+
 おやゆび を けが しました。
+
 I injured my thumb.
-通り過ぎる
-とおりすぎる
+
+通り過ぎる [とおりすぎる]
+
 go past, pass
+
 Verb
-1
 うっかり目的地を通り過ぎた。
+
 うっかり もくてき ち を とおりすぎた。
+
 I inadvertently missed my destination.
-屋上
-おくじょう
+
+屋上 [おくじょう]
+
 housetop, rooftop
+
 Noun
-2
 屋上から富士山が見えました。
+
 おくじょう から ふじさん が みえました。
+
 I was able to see Mt. Fuji from the rooftop.
+
 屋上にアンテナが立っていますね。
+
 おくじょう に アンテナ が たって います ね。
+
 The antenna stands on the rooftop.
-蓋
-ふた
+
+蓋 [ふた]
+
 lid, cover
+
 Noun
-1
 箱に蓋をしたよ。
+
 はこ に ふた を した よ。
+
 I shut the lid on the box.
-いつの間にか
-いつのまにか
+
+いつの間にか [いつのまにか]
+
 before noticing it, out of nowhere
+
 Adverb
-1
 いつの間にか夜が明けていたね。
+
 いつ の ま に か よ が あけて いた ね。
+
 The dawn had broken before we realized it.
-象
-ぞう
+
+象 [ぞう]
+
 elephant
+
 Noun
-1
 象に乗ってみたいです。
+
 ぞう に のって みたい です。
+
 I want to ride an elephant.
-嫌がる
-いやがる
+
+嫌がる [いやがる]
+
 dislike, be unwilling
+
 Verb
-1
 彼はタバコの煙を嫌がるの。
+
 かれ は タバコ の けむり を いやがる の。
+
 He dislikes cigarette smoke.
-わがまま
+
 わがまま
 selfish
+
 Adjectival Noun
-1
 子供のわがままを叱ったの。
+
 こども の わがまま を しかった の。
+
 I scolded my kid for being selfish.
-徹夜
-てつや
+
+徹夜 [てつや]
+
 staying up all night
+
 Verbal Noun
-1
 ゆうべは徹夜しました。
+
 ゆうべ は てつや しました。
+
 I stayed up all last night.
-まあまあ
+
 まあまあ
 now now, well well
+
 Adverb
-1
 まあまあ、落ち着いてください。
+
 まあ まあ、おちついて ください。
+
 Now, now, please calm down.
-ふざける
+
 ふざける
 mess around, fool around
+
 Verb
-1
 ふざけるのは止めて。
+
 ふざける の は やめて。
+
 Stop messing around.
-一度に
-いちどに
+
+一度に [いちどに]
+
 all at once, at a time
+
 Adverb
-1
 皆の顔と名前を一度には覚えられません。
+
 みんな の かお と なまえ を いちど に は おぼえられません。
+
 I can't remember everyone's face and name all at once.
-頷く
-うなずく
+
+頷く [うなずく]
+
 nod
+
 Verb
-1
 彼女は頷いて同意を示したの。
+
 かのじょ は うなずいて どうい を しめした の。
+
 She showed agreement with a nod.
-改札
-かいさつ
+
+改札 [かいさつ]
+
 ticket gate
+
 Noun
-1
 改札で3時に会おう。
+
 かいさつ で 3 じ に あおう。
+
 Let's meet at the ticket gate at 3 o'clock.
-手伝い
-てつだい
+
+手伝い [てつだい]
+
 help, assistance
+
 Noun
-1
 会議の準備に手伝いが必要です。
+
 かいぎ の じゅんび に てつだい が ひつよう です。
+
 We need help with preparation for the meeting.
-とっくに
+
 とっくに
 long ago, already
+
 Adverb
-1
 彼ならとっくに帰りましたよ。
+
 かれ なら とっく に かえりました よ。
+
 He's already gone home.
-洗剤
-せんざい
+
+洗剤 [せんざい]
+
 detergent
+
 Noun
-1
 床に洗剤をこぼしてしまいました。
+
 ゆか に せんざい を こぼして しまいました。
+
 I spilt detergent on the floor.
-手首
-てくび
+
+手首 [てくび]
+
 wrist
+
 Noun
-1
 転んで手首を痛めました。
+
 ころんで てくび を いためました。
+
 I fell down and hurt my wrist.
-日帰り
-ひがえり
+
+日帰り [ひがえり]
+
 a day trip
+
 Verbal Noun
-1
 私たちは日帰りで京都に行きました。
+
 わたし たち は ひがえり で きょうと に いきました。
+
 We went to Kyoto on a day trip.
-取り消す
-とりけす
+
+取り消す [とりけす]
+
 cancel
+
 Verb
-1
 ホテルの予約を取り消したよ。
+
 ホテル の よやく を とりけした よ。
+
 I canceled our hotel reservation.
-あきれる
+
 あきれる
 be amazed at, be stunned by (something negative)
+
 Verb
-1
 彼の頑固さにはあきれました。
+
 かれ の がんこさ に は あきれました。
+
 I was amazed at his stubbornness.
-月末
-げつまつ
+
+月末 [げつまつ]
+
 end of the month
+
 Noun
-1
 月末までに申込書を送ってください。
+
 げつまつ まで に もうしこみ しょ を おくって ください。
+
 Please send the application form by the end of the month.
-咳
-せき
+
+咳 [せき]
+
 cough
+
 Noun
-1
 咳が止まらないので病院に行ってきたの。
+
 せき が とまらない ので びょういん に いって きた の。
+
 I went to the hospital because my cough didn't stop.
-あいにく
+
 あいにく
 unfortunately, we are afraid that
+
 Adverb
-1
 途中であいにく雨が降り出したの。
+
 とちゅう で あいにく あめ が ふり だした の。
+
 Unfortunately, it began to rain on the way.
-近寄る
-ちかよる
+
+近寄る [ちかよる]
+
 go near, approach
+
 Verb
-1
 彼に近寄らないで。
+
 かれ に ちかよらない で。
+
 Don't go near him!
-うろうろ
+
 うろうろ
 in a loafing-about manner, not really knowing what to do
+
 Adverb
-1
 その男はロビーをしばらくうろうろしていたよ。
+
 その おとこ は ロビー を しばらく うろうろ して いた よ。
+
 The man was wandering about the lobby for a while, not really knowing what to do.
-重たい
-おもたい
+
+重たい [おもたい]
+
 heavy, serious
+
 Adjective
-1
 この鞄は重たいです。
+
 この かばん は おもたい です。
+
 This bag is heavy for me.
-かじる
+
 かじる
 nibble, bite
+
 Verb
-1
 弟は美味しそうにりんごをかじっていたよ。
+
 おとうと は おいしそう に りんご を かじって いた よ。
+
 My little brother enjoyed nibbling an apple.
-長引く
-ながびく
+
+長引く [ながびく]
+
 be prolonged, drag on
+
 Verb
-1
 会議が長引いているようです。
+
 かいぎ が ながびいて いる よう です。
+
 The meeting seems to be dragging on.
-せっせと
+
 せっせと
 diligently, hard
+
 Adverb
-1
 彼は朝から晩までせっせと働いたの。
+
 かれ は あさ から ばん まで せっせと はたらいた の。
+
 He worked hard from morning till night.
-横切る
-よこぎる
+
+横切る [よこぎる]
+
 cut across
+
 Verb
-1
 目の前を猫が横切ったんだ。
+
 め の まえ を ねこ が よこぎった ん だ。
+
 A cat cut across in front of me.
-取り替える
-とりかえる
+
+取り替える [とりかえる]
+
 change, replace
+
 Verb
-1
 シーツを取り替えました。
+
 シーツ を とりかえました。
+
 I changed the sheets.
-からかう
+
 からかう
 make fun of, tease
+
 Verb
-1
 彼は時々妹をからかいます。
+
 かれ は ときどき いもうと を からかいます。
+
 He sometimes makes fun of his younger sister.
-好き嫌い
-すききらい
+
+好き嫌い [すききらい]
+
 likes and dislikes, taste
+
 Noun
-1
 食べ物の好き嫌いは特にありません。
+
 たべもの の すき きらい は とくに ありません。
+
 I have no particular likes or dislikes when it comes to food.
-蒸し暑い
-むしあつい
+
+蒸し暑い [むしあつい]
+
 hot and humid
+
 Adjective
-1
 今日は蒸し暑いね。
+
 きょう は むしあつい ね。
+
 It's hot and humid today.
-支度
-したく
+
+支度 [したく]
+
 preparation, getting ready
+
 Verbal Noun
-1
 支度ができたら出かけましょう。
+
 したく が できたら でかけましょう。
+
 Let's go out when we are ready.
-薄暗い
-うすぐらい
+
+薄暗い [うすぐらい]
+
 gloomy, dim
+
 Adjective
-1
 外はもう薄暗くなりましたよ。
+
 そと は もう うすぐらく なりました よ。
+
 It is already getting dark outside.
-着替え
-きがえ
+
+着替え [きがえ]
+
 change of clothes
+
 Noun
-1
 着替えを旅行カバンに詰めたよ。
+
 きがえ を りょこう カバン に つめた よ。
+
 I packed spare clothes in my travel bag.
-ワンピース
+
 ワンピース
 one-piece dress
+
 Noun
-1
 彼女は白いワンピースを着ていたよ。
+
 かのじょ は しろい ワンピース を きて いた よ。
+
 She was wearing a white dress.
-生年月日
-せいねんがっぴ
+
+生年月日 [せいねんがっぴ]
+
 year and date of birth
+
 Noun
-1
 生年月日を教えて。
+
 せいねんがっぴ を おしえて。
+
 Please tell me your year and date of birth.
-虫歯
-むしば
+
+虫歯 [むしば]
+
 cavity
+
 Noun
-1
 虫歯が痛い。
+
 むしば が いたい。
+
 My cavity hurts.
-留守番
-るすばん
+
+留守番 [るすばん]
+
 looking after the house
+
 Verbal Noun
-1
 私は留守番の者です。
+
 わたし は るすばん の もの です。
+
 I'm looking after the house.
-張り切る
-はりきる
+
+張り切る [はりきる]
+
 go all out, be full of energy (to do something)
+
 Verb
-1
 母は張り切ってお弁当を用意したの。
+
 はは は はりきって おべんとう を ようい した の。
+
 My mother went all out and made a lunch box.
-意地悪
-いじわる
+
+意地悪 [いじわる]
+
 mean, ill-natured
+
 Adjectival Noun
-1
 彼は時々意地悪な質問をするぜ。
+
 かれ は ときどき いじわるな しつもん を する ぜ。
+
 He sometimes asks mean questions.
-生意気
-なまいき
+
+生意気 [なまいき]
+
 impudent, cocky
+
 Adjectival Noun
-1
 あの子は生意気だと思います。
+
 あの こ は なまいき だ と おもいます。
+
 I think that kid is quite cocky.
-シーツ
+
 シーツ
 bed sheet
+
 Noun
-2
 メイドがシーツを交換してくれたね。
+
 メイド が シーツ を こうかん して くれた ね。
+
 The maid changed the sheets.
+
 シーツを取り替えました。
+
 シーツ を とりかえました。
+
 I changed the sheets.
-フライパン
+
 フライパン
 frying pan
+
 Noun
-1
 フライパンで目玉焼きを作ったよ。
+
 フライパン で めだまやき を つくった よ。
+
 I made a sunny-side up egg in the frying pan.
-一人一人
-ひとりひとり
+
+一人一人 [ひとりひとり]
+
 each and every person
+
 Noun
-1
 この学校では一人一人の生徒を大切にしているの。
+
 この がっこう で は ひとり ひとり の せいと を たいせつ に して いる の。
+
 Each and every student is valued at this school.
-話し掛ける
-はなしかける
+
+話し掛ける [はなしかける]
+
 start a conversation, speak to (someone)
+
 Verb
-1
 知らない人が話し掛けてきた。
+
 しらない ひと が はなしかけて きた。
+
 A stranger came up and spoke to me.
-追い掛ける
-おいかける
+
+追い掛ける [おいかける]
+
 chase, run after
+
 Verb
-1
 パトカーがバイクを追いかけてるぞ。
+
 パトカー が バイク を おいかけてる ぞ。
+
 A police car is chasing a motorcycle.
-小指
-こゆび
+
+小指 [こゆび]
+
 little finger, little toe
+
 Noun
-1
 小指を切ってしまいました。
+
 こゆび を きって しまいました。
+
 I cut my little finger.
-ぴかぴか
+
 ぴかぴか
 shiny, glittering
+
 Adverb
-1
 新車はぴかぴかですね。
+
 しんしゃ は ぴかぴか です ね。
+
 The new car is really shiny.
-中指
-なかゆび
+
+中指 [なかゆび]
+
 middle finger, middle toe
+
 Noun
-1
 中指をドアに挟んでしまった。
+
 なかゆび を ドア に はさんで しまった。
+
 I caught my middle finger in the door.
-まぶた
+
 まぶた
 eyelid
+
 Noun
-1
 眠くてまぶたが重くなってきた。
+
 ねむくて まぶた が おもく なって きた。
+
 My eyelids have gotten heavy because I'm sleepy.
-面倒臭い
-めんどうくさい
+
+面倒臭い [めんどうくさい]
+
 troublesome, tiresome
+
 Adjective
-1
 この計算は面倒臭いなあ。
+
 この けいさん は めんどうくさい なあ。
+
 This calculation is troublesome.
-ゆでる
+
 ゆでる
 boil
+
 Verb
-1
 今、野菜をゆでています。
+
 いま、やさい を ゆでて います。
+
 I'm boiling some vegetables now.
-できるだけ
+
 できるだけ
 as (much) as possible
+
 Adverb
-1
 できるだけ早く来てください。
+
 できる だけ はやく きて ください。
+
 Please come as soon as possible.
-もしかしたら
+
 もしかしたら
 possibly, perhaps
+
 Adverb
-1
 もしかしたら来年転勤になるかもしれない。
+
 もしか したら らいねん てんきん に なる かも しれない。
+
 It's possible that I might get transferred next year.
-いつまでも
+
 いつまでも
 forever
+
 Adverb
-1
 いつまでもあなたを忘れません。
+
 いつまでも あなた を わすれません。
+
 I will never forget you.
-まぶしい
+
 まぶしい
 dazzling, glaring
+
 Adjective
-1
 夏の日差しがまぶしかったよ。
+
 なつ の ひざし が まぶしかった よ。
+
 Summer sunlight was dazzling.
-おやつ
+
 おやつ
 snack, refreshment
+
 Noun
-1
 今日のおやつはプリンだった。
+
 きょう の おやつ は プリン だった。
+
 Today's snack was a pudding.
-空っぽ
-からっぽ
+
+空っぽ [からっぽ]
+
 empty
+
 Adjectival Noun
-1
 僕の財布は空っぽだよ。
+
 ぼく の さいふ は からっぽ だ よ。
+
 My wallet is empty.
-ぶつぶつ
+
 ぶつぶつ
 in a mutter, mumble
+
 Adverb
-1
 彼はぶつぶつと独り言を言ったんだ。
+
 かれ は ぶつぶつ と ひとりごと を いった ん だ。
+
 He mumbled to himself.
-すっと
+
 すっと
 (feel) refreshed, satisfied
+
 Adverb
-1
 言いたいことを言ったら胸がすっとした。
+
 いいたい こと を いったら むね が すっと した。
+
 I felt satisfied after saying what I wanted to say.
-図々しい
-ずうずうしい
+
+図々しい [ずうずうしい]
+
 impudent, cheeky
+
 Adjective
-1
 何て図々しい人なんだろう。
+
 なんて ずうずうしい ひと なんだろう。
+
 What a cheeky fellow!
-にっこり
+
 にっこり
 smiling brightly
+
 Adverb
-1
 彼女はにっこりほほえんだ。
+
 かのじょ は にっこり ほほえんだ。
+
 She had a bright smile on her face.
-けち
+
 けち
 stingy, miser
+
 Adjectival Noun
-1
 彼は金持ちだけど、けちね。
+
 かれ は かねもち だ けど、けち ね。
+
 He is rich but stingy.
-追いつく
-おいつく
+
+追いつく [おいつく]
+
 catch up with
+
 Verb
-1
 駅でようやく彼に追いつきました。
+
 えき で ようやく かれ に おいつきました 。
+
 I finally caught up with him at the station.
-くしゃみ
+
 くしゃみ
 sneeze
+
 Verbal Noun
-1
 風邪でくしゃみが止まりません。
+
 かぜ で くしゃみ が とまりません。
+
 I can't stop sneezing because of my cold.
-冷ます
-さます
+
+冷ます [さます]
+
 let cool
+
 Verb
-1
 お茶がとても熱かったので冷ましてから飲んだの。
+
 おちゃ が とても あつかった ので さまして から のんだ の。
+
 Because the tea was very hot, I let it cool before I drank it.
-だらしない
+
 だらしない
 untidy, sloppy
+
 Adjective
-1
 だらしない格好をしないでください。
+
 だらしない かっこう を しないで ください。
+
 Please don't dress sloppily.
-甘やかす
-あまやかす
+
+甘やかす [あまやかす]
+
 be indulgent to, spoil
+
 Verb
-1
 子供を甘やかしてはいけないの。
+
 こども を あまやかして は いけない の。
+
 You must not spoil your children.
-いらいら
+
 いらいら
 irritated
+
 Adverb
-1
 彼女は朝からいらいらしている。
+
 かのじょ は あさ から いらいら して いる。
+
 She's been feeling irritated since this morning.
-薬指
-くすりゆび
+
+薬指 [くすりゆび]
+
 ring finger
+
 Noun
-1
 彼女は薬指に指輪をはめています。
+
 かのじょ は くすりゆび に ゆびわ を はめて います。
+
 She has a ring on her ring finger.
-のろのろ
+
 のろのろ
 slowly, sluggishly
+
 Adverb
-1
 車は雪道をのろのろと走ったの。
+
 くるま は ゆきみち を のろのろ と はしった の。
+
 The car drove very slowly on the snowy road.
-ポイント
+
 ポイント
 point
+
 Noun
-2
 話のポイントを書き取った。
+
 はなし の ポイント を かきとった 。
+
 I wrote down the main points of what was said.
+
 先生が授業のポイントを黒板に書いた。
+
 せんせい が じゅぎょう の ポイント を こくばん に かいた。
+
 The teacher wrote the points of the class on the blackboard.
-工業
-こうぎょう
+
+工業 [こうぎょう]
+
 industry, the manufacturing industry
+
 Noun
-1
 そこは工業都市だ。
+
 そこ は こうぎょう とし だ。
+
 It's an industrial city.
-構造
-こうぞう
+
+構造 [こうぞう]
+
 construction, structure
+
 Noun
-1
 この建物の構造は複雑です。
+
 この たてもの の こうぞう は ふくざつ です。
+
 The structure of this building is complex.
-さすが
+
 さすが
 just as expected, true to reputation
+
 Adverb
-1
 すごいな、さすがだね。
+
 すごい な、さすが だ ね。
+
 You are great just as I expected.

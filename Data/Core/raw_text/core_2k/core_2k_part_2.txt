@@ -2,7 +2,6 @@
 まいねん
 every year (formal)
 Noun
-2
 毎年給料が上がる。
 まいねん きゅうりょう が あがる。
 My salary goes up every year.
@@ -13,7 +12,6 @@ The prices of vegetables go up every year.
 まいしゅう
 every week
 Noun
-2
 私は毎週母に電話をします。
 わたし は まいしゅう はは に でんわ を します。
 I call my mother every week.
@@ -24,7 +22,6 @@ I buy this weekly magazine every week.
 なんど
 how many times, how many degrees
 Interrogative
-2
 あの店には何度も行きました。
 あの みせ に は なんど も いきました。
 I've been to that shop many times.
@@ -35,7 +32,6 @@ When I was a child, I went to Disney Land several times with my mother.
 なかなか
 not easily, not readily (in a negative sentence)
 Adverb
-2
 荷物がなかなか届きません。
 にもつ が なかなか とどきません。
 The parcel still hasn't arrived.
@@ -46,7 +42,6 @@ The bus is taking forever.
 さっき
 earlier, only a moment ago
 Adverb
-2
 さっきの話を続けましょう。
 さっき の はなし を つづけましょう。
 Let's continue the conversation we had earlier.
@@ -57,7 +52,6 @@ The mail has just arrived.
 ひさしぶり
 after a long time
 Noun
-2
 明日、久しぶりに友達に会います。
 あした、ひさしぶり に ともだち に あいます。
 Tomorrow I'm meeting a friend I haven't seen for a long time.
@@ -68,7 +62,6 @@ It's been a while since I've seen him.
 べんり
 convenience
 Adjectival Noun
-2
 インターネットはとても便利です。
 インターネット は とても べんり です。
 The Internet is very convenient.
@@ -79,7 +72,6 @@ Bicycles are a convenient form of transport.
 めいわく
 trouble, annoyance
 Verbal Noun
-2
 人に迷惑をかけてはいけません。
 ひと に めいわく を かけて は いけません。
 You shouldn't cause trouble for other people.
@@ -90,7 +82,6 @@ It's annoying if you call at midnight.
 そんなに
 so much
 Adverb
-2
 一度にそんなにたくさんはできない。
 いちど に そんな に たくさん は できない。
 You can't do so much at one time.
@@ -101,7 +92,6 @@ The suit is not that pricey.
 びっくりする
 be surprised, be startled (casual)
 Verb
-2
 大きな音にびっくりしました。
 おおきな おと に びっくり しました。
 I was startled by a sudden noise.
@@ -112,7 +102,6 @@ I was surprised when my name was suddenly called.
 たりる
 suffice, be enough
 Verb
-2
 お金が足りなくて買えなかった。
 おかね が たりなくて かえなかった。
 I couldn't buy it because I didn't have enough money.
@@ -123,7 +112,6 @@ One thousand yen was enough.
 つかれる
 get tired, become fatigued
 Verb
-2
 今日は疲れました。
 きょう は つかれました。
 I've been tired today.
@@ -134,7 +122,6 @@ I've been a little tired.
 ひどい
 cruel, awful
 Adjective
-2
 妹とひどい喧嘩をした。
 いもうと と ひどい けんか を した。
 I had an awful fight with my little sister.
@@ -145,7 +132,6 @@ We ended up having a terrible downpour today.
 ぜんぜん
 (not ) at all
 Adverb
-2
 この本は全然面白くなかった。
 この ほん は ぜんぜん おもしろくなかった。
 This book wasn't interesting at all.
@@ -156,7 +142,6 @@ This month I don't have enough money at all.
 ねこ
 cat
 Noun
-2
 私は猫が大好きです。
 わたし は ねこ が だいすき です。
 I love cats.
@@ -167,7 +152,6 @@ There's a white cat in the garden.
 デパート
 department store (loan word)
 Noun
-2
 私はデパートで靴を買った。
 わたし は デパート で くつ を かった。
 I bought a pair of shoes at the department store.
@@ -178,7 +162,6 @@ I took my kids along to a department store.
 トイレ
 rest room, lavatory (loan word)
 Noun
-2
 トイレを掃除しましたか。
 トイレ を そうじ しました か。
 Did you clean the toilet?
@@ -189,7 +172,6 @@ Excuse me, where is the washroom?
 ちかてつ
 subway
 Noun
-2
 私は地下鉄で通勤しています。
 わたし は ちかてつ で つうきん して います。
 I commute to work by subway.
@@ -200,7 +182,6 @@ I'm transfering to the subway at the next station.
 ちゅうしゃじょう
 parking area, parking lot
 Noun
-2
 車は駐車場に止めてください。
 くるま は ちゅうしゃじょう に とめて ください。
 Please park your car in the parking lot.
@@ -211,7 +192,6 @@ This parking lot costs 400 yen per hour.
 ぶつかる
 hit, bump into
 Verb
-2
 車が電柱にぶつかった。
 くるま が でんちゅう に ぶつかった。
 The car crashed into the telephone pole.
@@ -222,7 +202,6 @@ When I was on my smart phone, I bumped into someone.
 うんちん
 (passenger) fare
 Noun
-2
 鉄道の運賃が値上げされたね。
 てつどう の うんちん が ねあげ された ね。
 Train fares have gone up.
@@ -233,7 +212,6 @@ Please pay the fare when you get off.
 つうがく
 commuting to school
 Verbal Noun
-2
 毎朝、通学に1時間かかる。
 まいあさ、つうがく に 1 じかん かかる。
 It takes me an hour to commute to school every morning.
@@ -244,7 +222,6 @@ I go to school by train.
 みおくる
 see (someone) off
 Verb
-2
 彼が外国に行くのを見送りました。
 かれ が がいこく に いく の を みおくりました。
 I saw him off on his trip overseas.
@@ -255,7 +232,6 @@ We all saw him off.
 なく
 cry, weep
 Verb
-2
 妹はすぐに泣く。
 いもうと は すぐ に なく。
 My little sister cries easily.
@@ -266,7 +242,6 @@ How come you are crying?
 レストラン
 restaurant
 Noun
-2
 レストランでインド料理を食べました。
 レストラン で インド りょうり を たべました。
 I ate Indian food at the restaurant.
@@ -277,7 +252,6 @@ I made a reservation at the restaurant.
 メモ
 memo, note
 Noun
-2
 メモを取ってください。
 メモ を とって ください。
 Please take notes.
@@ -288,7 +262,6 @@ I made a note of the matter.
 よやく
 reservation, appointment
 Verbal Noun
-2
 レストランを予約しました。
 レストラン を よやく しました。
 I made a reservation at the restaurant.
@@ -299,7 +272,6 @@ Reservations are not required.
 ばんごう
 assigned number
 Noun
-2
 この番号に電話してください。
 この ばんごう に でんわ して ください。
 Please call this number.
@@ -310,7 +282,6 @@ I called the wrong number.
 ちゅうもん
 order
 Verbal Noun
-2
 レストランでピザを注文しました。
 レストラン で ピザ を ちゅうもん しました。
 I ordered pizza at the restaurant.
@@ -321,7 +292,6 @@ I looked at the catalog and placed an order.
 パン
 bread
 Noun
-2
 朝ご飯にはいつもパンを食べる。
 あさ ごはん に は いつも パン を たべる。
 I always eat bread for breakfast.
@@ -332,7 +302,6 @@ I prefer rice to bread.
 ワイン
 wine
 Noun
-2
 ワインを少し飲みました。
 ワイン を すこし のみました。
 I drank a little wine.
@@ -343,7 +312,6 @@ I like wine.
 ざいりょう
 material, ingredient
 Noun
-2
 サラダの材料をそろえました。
 サラダ の ざいりょう を そろえました。
 I have all the ingredients for the salad.
@@ -354,7 +322,6 @@ Let's go and get ingredients for curry.
 ぶたにく
 pork
 Noun
-2
 豚肉は美味しいです。
 ぶたにく は おいしい です。
 Pork is delicious.
@@ -365,7 +332,6 @@ Now pork has become cheap.
 やく
 bake, grill
 Verb
-2
 今、魚を焼いています。
 いま、さかな を やいて います。
 I'm grilling fish now.
@@ -376,7 +342,6 @@ I grilled meat for dinner.
 におい
 (pleasant) smell, odor
 Noun
-2
 いい匂いがする。
 いい におい が する。
 It smells good.
@@ -387,7 +352,6 @@ I love the smell of roses.
 つける
 attach, apply, put
 Verb
-2
 おまけを付けました。
 おまけ を つけました。
 I put a freebie in there.
@@ -398,7 +362,6 @@ I put a ribbon on the present.
 やせる
 lose weight, become thin
 Verb
-2
 私は少し痩せました。
 わたし は すこし やせました。
 I've lost a little weight.
@@ -409,7 +372,6 @@ I was told by my doctor to lose weight.
 とどける
 deliver
 Verb
-2
 これを彼に届けてください。
 これ を かれ に とどけて ください。
 Please send this to him.
@@ -420,7 +382,6 @@ Please deliver this flower to my grandmother.
 まにあう
 be in time, suffice
 Verb
-2
 授業に間に合いました。
 じゅぎょう に まにあいました。
 I made it in time for class.
@@ -431,7 +392,6 @@ I ran to the station and made it to the train.
 むく
 turn, face
 Verb
-2
 こっちを向いてください。
 こっち を むいて ください。
 Please turn this way.
@@ -442,7 +402,6 @@ Turn around.
 つよさ
 strength
 Noun
-2
 風の強さに驚きました。
 かぜ の つよさ に おどろきました。
 I was surprised at the strength of the wind.
@@ -453,7 +412,6 @@ I think women need strength, too.
 とくい
 one's specialty, be good at
 Adjectival Noun
-2
 彼は歌が得意です。
 かれ は うた が とくい です。
 He's good at singing.
@@ -464,7 +422,6 @@ She's good at the guitar.
 ぬる
 spread on, paint
 Verb
-2
 壁にペンキを塗っています。
 かべ に ペンキ を ぬって います。
 I'm painting the wall.
@@ -475,7 +432,6 @@ I put hand cream on my hands.
 なげる
 throw
 Verb
-2
 ボールをこっちに投げてください。
 ボール を こっち に なげて ください。
 Please throw the ball over here.
@@ -486,7 +442,6 @@ He threw the ball.
 ならう
 learn, take lessons
 Verb
-2
 私はダンスを習っています。
 わたし は ダンス を ならって います。
 I'm learning how to dance.
@@ -497,7 +452,6 @@ I used to take piano lessons.
 ちゅうもく
 attention, notice
 Verbal Noun
-2
 私たちはその会社に注目している。
 わたし たち は その かいしゃ に ちゅうもく して いる。
 We have our eyes on that company.
@@ -508,7 +462,6 @@ Please pay attention to the flowers on the right side of this picture.
 みらい
 future
 Noun
-2
 未来は誰にも分からない。
 みらい は だれ に も わからない。
 No one knows the future.
@@ -519,7 +472,6 @@ Let's drink a toast to the couple's future.
 はこ
 box, case
 Noun
-2
 この箱は重い。
 この はこ は おもい。
 This box is heavy.
@@ -530,7 +482,6 @@ Please take the box down from the shelf.
 みぎて
 right hand, the right hand side
 Noun
-2
 私は右手で字を書きます。
 わたし は みぎて で じ を かきます。
 I write right-handed.
@@ -541,7 +492,6 @@ He caught the ball with his right hand.
 ひだりて
 left hand
 Noun
-2
 彼女は左手で字を書く。
 かのじょ は ひだりて で じ を かく。
 She writes left-handed.
@@ -552,7 +502,6 @@ I always wear a watch on my left hand.
 プール
 pool
 Noun
-2
 私は夏休みにプールに行った。
 わたし は なつやすみ に プール に いった。
 I went to the pool during summer vacation.
@@ -563,7 +512,6 @@ The pool is packed.
 ピアノ
 piano
 Noun
-2
 昔、ピアノを習っていました。
 むかし、ピアノ を ならって いました。
 I used to take piano lessons.
@@ -574,7 +522,6 @@ That piano's sound isn't very good.
 ひかる
 shine, emit light, sparkle
 Verb
-2
 波がきらきら光っていました。
 なみ が きらきら ひかって いました。
 The waves sparkled brilliantly.
@@ -585,7 +532,6 @@ The stars are shining brightly.
 ふむ
 step on, tread on
 Verb
-2
 運転手がブレーキを踏んだ。
 うんてんしゅ が ブレーキ を ふんだ。
 The driver stepped on the brake.
@@ -596,7 +542,6 @@ Don't step on the flowers.
 べつべつ
 separately
 Adjectival Noun
-2
 別々に払いましょう。
 べつべつ に はらいましょう。
 Let's pay separately.
@@ -607,7 +552,6 @@ We, husband and wife, sleep in different rooms.
 ボール
 ball
 Noun
-2
 彼はボールを投げた。
 かれ は ボール を なげた。
 He threw the ball.
@@ -618,7 +562,6 @@ The ball hit him on the head.
 にぎる
 grasp, grip, hold
 Verb
-2
 少女は母親の手を握った。
 しょうじょ は ははおや の て を にぎった。
 The girl held her mother's hand.
@@ -629,7 +572,6 @@ Because I was holding a pen the whole time, my hand hurts.
 まっか
 deep red
 Adjectival Noun
-2
 彼の顔は真っ赤でした。
 かれ の かお は まっか でした。
 His face was all red.
@@ -640,7 +582,6 @@ She was wearing a deep red dress.
 ひろう
 pick up
 Verb
-2
 道で財布を拾った。
 みち で さいふ を ひろった。
 I picked up a wallet on the street.
@@ -651,7 +592,6 @@ I picked up a kitten (and brought it home).
 まわす
 turn, rotate (something)
 Verb
-2
 ねじは左に回すと外れます。
 ねじ は ひだり に まわす と はずれます。
 Turn the screw to the left, and it will come off.
@@ -662,7 +602,6 @@ The pitcher swung his right arm around vigorously.
 ノート
 notebook (loan word)
 Noun
-2
 ノートを開いてください。
 ノート を ひらいて ください。
 Please open your notebook.
@@ -673,7 +612,6 @@ Please write down important things in your notebook.
 やめる
 resign, leave (one's job), quit
 Verb
-2
 彼は会社を辞めます。
 かれ は かいしゃ を やめます。
 He's leaving the company.
@@ -684,7 +622,6 @@ I want to leave this (sort of) company now.
 ゆれる
 shake, sway
 Verb
-2
 風で木が揺れています。
 かぜ で き が ゆれて います。
 The trees are swaying in the wind.
@@ -695,7 +632,6 @@ The house shook quite a lot due to an earthquake.
 りっぱ
 fine, elegant, magnificent
 Adjectival Noun
-2
 彼は立派な人です。
 かれ は りっぱな ひと です。
 He's a fine man.
@@ -706,7 +642,6 @@ They built a magnificent house.
 れんしゅう
 practice, training
 Verbal Noun
-2
 娘は今、バイオリンを練習しています。
 むすめ は いま、バイオリン を れんしゅう して います。
 My daughter is practicing the violin now.
@@ -717,7 +652,6 @@ My son goes to soccer practice on Saturdays and Sundays.
 わる
 divide, split, break
 Verb
-2
 皿を落として割った。
 さら を おとして わった。
 I dropped the plate and broke it.
@@ -728,7 +662,6 @@ Please crack three eggs.
 ぶぶん
 part, section
 Noun
-2
 この部分は問題ないです。
 この ぶぶん は もんだい ない です。
 There's no problem with this part.
@@ -739,7 +672,6 @@ Please modify this part of your report.
 ふく
 wipe, dry
 Verb
-2
 タオルで体を拭きました。
 タオル で からだ を ふきました。
 I wiped myself with a towel.
@@ -750,7 +682,6 @@ He wiped his face with a towel.
 まねく
 invite
 Verb
-2
 両親を食事に招いた。
 りょうしん を しょくじ に まねいた。
 I invited my parents for a meal.
@@ -761,7 +692,6 @@ I was invited to a friend's house party.
 きゅう
 urgent, steep
 Adjectival Noun
-2
 急な坂道を上った。
 きゅうな さかみち を のぼった。
 I went up the steep hill.
@@ -772,7 +702,6 @@ Everyone was surprised that he was suddenly hospitalized.
 よごれる
 become dirty
 Verb
-2
 エプロンをしないと服が汚れます。
 エプロン を しない と ふく が よごれます。
 Your clothes will get dirty if you don't wear an apron.
@@ -783,7 +712,6 @@ My trousers got dirty.
 わたる
 cross, go across
 Verb
-2
 私たちは歩いて橋を渡った。
 わたし たち は あるいて はし を わたった。
 We walked over the bridge.
@@ -794,7 +722,6 @@ I crossed a stream.
 とちゅう
 on the way, half way
 Noun
-2
 途中で30分ほど休みましょう。
 とちゅう で 30 ぷん ほど やすみましょう。
 Let's take a rest on the way for about 30 minutes.
@@ -805,7 +732,6 @@ I lost my purse on the way.
 インタビュー
 interview (loan word)
 Verbal Noun
-2
 彼はインタビューに、はきはきと答えてたよ。
 かれ は インタビュー に、はきはき と こたえて た よ。
 His answers were very clear in the interview.
@@ -816,7 +742,6 @@ I have two interviews today.
 ぬすむ
 steal, rob
 Verb
-2
 誰かが私のカバンを盗みました。
 だれ か が わたし の カバン を ぬすみました。
 Someone stole my bag.
@@ -827,7 +752,6 @@ My wallet was stolen.
 ふだん
 usual, ordinary
 Adverb
-2
 私は普段はTシャツとジーンズを着ています。
 わたし は ふだん は ティーシャツ と ジーンズ を きて います。
 I usually wear a T-shirt and jeans.
@@ -838,7 +762,6 @@ I usually go to university by bicycle.
 りょかん
 Japanese inn
 Noun
-2
 京都では旅館に泊まりました。
 きょうと で は りょかん に とまりました。
 I stayed at an inn in Kyoto.
@@ -849,7 +772,6 @@ Dried seaweed was served for breakfast at the inn.
 はくぶつかん
 museum
 Noun
-2
 昨日、車の博物館に行った。
 きのう、くるま の はくぶつかん に いった。
 I went to the car museum yesterday.
@@ -860,7 +782,6 @@ There is a famous museum in London.
 ホーム
 platform (for short)
 Noun
-2
 もうすぐこのホームに電車が来ます。
 もうすぐ この ホーム に でんしゃ が きます。
 The train will arrive on this platform soon.
@@ -871,7 +792,6 @@ I'll be waiting for you at the very front of the platform.
 ひっこす
 move, relocate
 Verb
-2
 来月、大阪に引っ越します。
 らいげつ、おおさか に ひっこします。
 I'll move to Osaka next month.
@@ -882,7 +802,6 @@ We moved (here) from Hokkaido last week.
 にもつ
 baggage, load
 Noun
-2
 彼は大きな荷物を持ってきた。
 かれ は おおきな にもつ を もって きた。
 He brought a large suitcase.
@@ -893,7 +812,6 @@ The package will arrive on the ninth.
 やちん
 rent for a place to live
 Noun
-2
 ここの家賃は12万円です。
 ここ の やちん は 12 まん えん です。
 The rent here is 120,000 yen.
@@ -904,7 +822,6 @@ The rent is expensive here, so I want to move out.
 けいかく
 plan
 Verbal Noun
-2
 彼は一人旅の計画を立てた。
 かれ は ひとり たび の けいかく を たてた。
 He planned a journey alone.
@@ -915,7 +832,6 @@ We are planning a camp during this year's summer vacation.
 ろうか
 hallway, corridor
 Noun
-2
 廊下は走らないでください。
 ろうか は はしらないで ください。
 Don't run in the hallway.
@@ -926,7 +842,6 @@ I heard loud footsteps from the hallway.
 てんじょう
 ceiling
 Noun
-2
 この部屋は天井が高いですね。
 この へや は てんじょう が たかい です ね。
 This room has a high ceiling.
@@ -937,7 +852,6 @@ I stared at the ceiling until I could fall asleep.
 ベッド
 bed
 Noun
-2
 彼はベッドで寝ています。
 かれ は ベッド で ねて います。
 He's sleeping in the bed.
@@ -948,7 +862,6 @@ The baby's sleeping in the bed.
 ソファー
 sofa, couch
 Noun
-2
 このソファーは気持ちがいい。
 この ソファー は きもち が いい。
 This sofa is comfortable.
@@ -959,7 +872,6 @@ My dog always sits on this sofa.
 やね
 roof
 Noun
-2
 屋根にカラスが止まっています。
 やね に カラス が とまって います。
 There's a crow on the roof.
@@ -970,7 +882,6 @@ The cat's up on the roof.
 まつり
 festival
 Noun
-2
 彼女は祭りが大好きです。
 かのじょ は まつり が だいすき です。
 She loves festivals.
@@ -981,7 +892,6 @@ In May a very famous festival takes place in Asakusa.
 りこん
 divorce
 Verbal Noun
-2
 友人が離婚しました。
 ゆうじん が りこん しました。
 My friend got divorced.
@@ -992,7 +902,6 @@ We have a child, but we are thinking about a divorce.
 は
 leaf
 Noun
-2
 これは桜の葉です。
 これ は さくら の は です。
 This is a cherry tree leaf.
@@ -1003,7 +912,6 @@ In fall, the tree leaves turn red or yellow.
 ボート
 light boat, small craft
 Noun
-2
 池でボートに乗りました。
 いけ で ボート に のりました。
 I got on the boat at the pond.
@@ -1014,7 +922,6 @@ The boat sank in the river.
 もえる
 burn, catch on fire
 Verb
-2
 山が燃えています。
 やま が もえて います。
 The mountain's on fire.
@@ -1025,7 +932,6 @@ Something is burning in the yard.
 まく
 roll up, wrap
 Verb
-2
 彼は頭にタオルを巻いていた。
 かれ は あたま に タオル を まいて いた。
 He had a towel tied around his head.
@@ -1036,7 +942,6 @@ She curled her hair neatly today.
 プラスチック
 plastic
 Noun
-2
 このカップはプラスチックです。
 この カップ は プラスチック です。
 This cup is plastic.
@@ -1047,7 +952,6 @@ For the party we bought plastic spoons and forks.
 おとずれる
 go and visit (place)
 Verb
-2
 私は夏に京都を訪れました。
 わたし は なつ に きょうと を おとずれました。
 I went to and visited Kyoto this summer.
@@ -1058,7 +962,6 @@ This place gets 50,000 visitors a year.
 やぶる
 tear, breach
 Verb
-2
 彼は約束を破った。
 かれ は やくそく を やぶった。
 He broke his promise.
@@ -1069,7 +972,6 @@ That boy tore up the letter from his school and threw it away.
 かんけい
 relation, relationship
 Verbal Noun
-2
 彼はその事件に関係がない。
 かれ は その じけん に かんけい が ない。
 He has nothing to do with that incident.
@@ -1080,7 +982,6 @@ He and I have a close relationship.
 ふこう
 unhappiness, misfortune
 Adjectival Noun
-2
 彼女の家族に不幸があった。
 かのじょ の かぞく に ふこう が あった。
 A misfortune befell her family.
@@ -1091,7 +992,6 @@ She thinks she is unfortunate.
 ろくおん
 (sound) recording
 Verbal Noun
-2
 そのラジオ番組はもう録音しました。
 その ラジオ ばんぐみ は もう ろくおん しました。
 I've already recorded that radio show.

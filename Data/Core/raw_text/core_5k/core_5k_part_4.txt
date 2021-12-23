@@ -1,800 +1,1090 @@
-方角
-ほうがく
+方角 [ほうがく]
+
 direction, points of the compass
+
 Noun
-1
 私と彼は帰る方角が同じです。
+
 わたし と かれ は かえる ほうがく が おなじ です。
+
 He and I go home in the same direction.
-締め切る
-しめきる
+
+締め切る [しめきる]
+
 close, fix a deadline
+
 Verb
-1
 応募受付は締め切りました。
+
 おうぼ うけつけ は しめきりました。
+
 The application deadline has been closed.
-半径
-はんけい
+
+半径 [はんけい]
+
 radius
+
 Noun
-1
 この円の半径は5センチです。
+
 この えん の はんけい は 5 センチ です。
+
 The radius of this circle is five centimeters.
-座敷
-ざしき
+
+座敷 [ざしき]
+
 Japanese-style room
+
 Noun
-1
 明日はお座敷での宴会になります。
+
 あした は おざしき での えんかい に なります。
+
 We will have our banquet in a tatami-floored room tomorrow.
-障子
-しょうじ
+
+障子 [しょうじ]
+
 paper sliding-door
+
 Noun
-1
 猫が障子を破った。
+
 ねこ が しょうじ を やぶった。
+
 The cat tore the paper sliding door.
-赤道
-せきどう
+
+赤道 [せきどう]
+
 equator
+
 Noun
-1
 赤道に沿って旅をしました。
+
 せきどう に そって たび を しました。
+
 I traveled along the equator.
-召し上がる
-めしあがる
+
+召し上がる [めしあがる]
+
 eat (honorific)
+
 Verb
-1
 どうぞ召し上がってください。
+
 どうぞ めしあがって ください。
+
 Please eat.
-物音
-ものおと
+
+物音 [ものおと]
+
 noise, sound
+
 Noun
-1
 物音がしたので見にいった。
+
 ものおと が した ので み に いった 。
+
 I heard a noise, so I went to look.
-遠足
-えんそく
+
+遠足 [えんそく]
+
 excursion
+
 Noun
-1
 明日は遠足で動物園に行きます。
+
 あす は えんそく で どうぶつえん に いきます。
+
 We're going to the zoo on an excursion tomorrow.
-日課
-にっか
+
+日課 [にっか]
+
 daily routine
+
 Noun
-1
 犬の散歩は私の日課です。
+
 いぬ の さんぽ は わたし の にっか です。
+
 Walking the dog is my daily routine.
-遊園地
-ゆうえんち
+
+遊園地 [ゆうえんち]
+
 amusement park
+
 Noun
-1
 友達と遊園地に行きました。
+
 ともだち と ゆうえんち に いきました。
+
 I went to an amusement park with my friend.
-ペンキ
+
 ペンキ
 paint
+
 Noun
-1
 床にペンキをこぼしてしまいました。
+
 ゆか に ペンキ を こぼして しまいました。
+
 I spilt paint on the floor.
-和服
-わふく
+
+和服 [わふく]
+
 Japanese clothes
+
 Noun
-1
 彼女は和服がよく似合う。
+
 かのじょ は わふく が よく にあう。
+
 Japanese clothes suit her very well.
-蛍光灯
-けいこうとう
+
+蛍光灯 [けいこうとう]
+
 fluorescent light
+
 Noun
-1
 古い蛍光灯を取り替えてください。
+
 ふるい けいこうとう を とりかえて ください。
+
 Please change the old fluorescent light.
-正門
-せいもん
+
+正門 [せいもん]
+
 main gate, main entrance
+
 Noun
-1
 受験生は正門から入ってください。
+
 じゅけんせい は せいもん から はいって ください。
+
 Test-takers must enter from the main gate.
-下水
-げすい
+
+下水 [げすい]
+
 sewerage, drainage
+
 Noun
-1
 その道は今、下水の工事をしているよ。
+
 その みち は いま、げすい の こうじ を して いる よ。
+
 The street is now under drainage construction.
-副詞
-ふくし
+
+副詞 [ふくし]
+
 adverb
+
 Noun
-1
 「ゆっくり歩く」の「ゆっくり」は副詞です。
+
 「ゆっくり あるく」 の 「ゆっくり」 は ふくし です。
+
 "Slowly" in "walk slowly" is an adverb.
-待合室
-まちあいしつ
+
+待合室 [まちあいしつ]
+
 waiting room
+
 Noun
-1
 待合室はとても混んでいたよ。
+
 まちあいしつ は とても こんで いた よ。
+
 The waiting room was very crowded.
-車庫
-しゃこ
+
+車庫 [しゃこ]
+
 garage
+
 Noun
-1
 車を車庫に入れておきました。
+
 くるま を しゃこ に いれて おきました。
+
 I put the car in the garage.
-受話器
-じゅわき
+
+受話器 [じゅわき]
+
 telephone receiver
+
 Noun
-1
 受話器を取ってもらえますか。
+
 じゅわき を とって もらえます か。
+
 Could you hand me the receiver?
-総理大臣
-そうりだいじん
+
+総理大臣 [そうりだいじん]
+
 prime minister of Japan
+
 Noun
-1
 国民の6割が総理大臣を支持しています。
+
 こくみん の 6 わり が そうりだいじん を しじ して います。
+
 60 percent of the public support the Prime Minister (of Japan).
-生け花
-いけばな
+
+生け花 [いけばな]
+
 flower arrangement
+
 Noun
-1
 彼女は生け花の先生です。
+
 かのじょ は いけばな の せんせい です。
+
 She is a flower arrangement teacher.
-炊事
-すいじ
+
+炊事 [すいじ]
+
 cooking (for oneself or one's family)
+
 Verbal Noun
-1
 うちでは夫も炊事をします。
+
 うち で は おっと も すいじ を します。
+
 In my household, my husband cooks for our family too.
-北極
-ほっきょく
+
+北極 [ほっきょく]
+
 North Pole
+
 Noun
-1
 北極にペンギンはいません。
+
 ほっきょく に ペンギン は いません。
+
 There are no penguins at the North Pole.
-長方形
-ちょうほうけい
+
+長方形 [ちょうほうけい]
+
 rectangle
+
 Noun
-1
 私の部屋は長方形です。
+
 わたし の へや は ちょうほうけい です。
+
 My room is rectangular.
-出迎え
-でむかえ
+
+出迎え [でむかえ]
+
 picking someone up, greeting
+
 Noun
-1
 空港へ彼女を出迎えに行きました。
+
 くうこう へ かのじょ を でむかえ に いきました。
+
 I went to the airport to pick her up.
-看病
-かんびょう
+
+看病 [かんびょう]
+
 looking after a sick person
+
 Verbal Noun
-1
 彼女は一晩中彼を看病したの。
+
 かのじょ は ひと ばん じゅう かれ を かんびょう した の。
+
 She looked after him all night long.
-刺さる
-ささる
+
+刺さる [ささる]
+
 stick, get stuck
+
 Verb
-1
 靴の底に釘が刺さってしまったんだ。
+
 くつ の そこ に くぎ が ささって しまった ん だ。
+
 I got a nail stuck in the bottom of my shoe.
-霜
-しも
+
+霜 [しも]
+
 frost
+
 Noun
-1
 今朝は庭の草に霜が降りていたの。
+
 けさ は にわ の くさ に しも が おりて いた の。
+
 There was frost on the grass in the garden this morning.
-書道
-しょどう
+
+書道 [しょどう]
+
 Japanese calligraphy
+
 Noun
-1
 書道をすると姿勢も良くなります。
+
 しょどう を する と しせい も よく なります。
+
 Studying Japanese calligraphy can also improve your posture.
-直角
-ちょっかく
+
+直角 [ちょっかく]
+
 right angle
+
 Noun
-1
 ここで直角に曲がってください。
+
 ここ で ちょっかく に まがって ください。
+
 Please turn at a right angle here.
-申し訳ない
-もうしわけない
+
+申し訳ない [もうしわけない]
+
 sorry, inexcusable
+
 Adjective
-1
 彼には申し訳ないことをした。
+
 かれ に は もうしわけない こと を した。
+
 I did something inexcusable to him.
-呼びかける
-よびかける
+
+呼びかける [よびかける]
+
 call, urge
+
 Verb
-1
 友人たちに協力を呼びかけたの。
+
 ゆうじん たち に きょうりょく を よびかけた の。
+
 I asked my friends for their cooperation.
-毛糸
-けいと
+
+毛糸 [けいと]
+
 woolen yarn, wool
+
 Noun
-1
 彼女は毛糸のセーターを編みました。
+
 かのじょ は けいと の セーター を あみました。
+
 She knitted a woolen sweater.
-作製
-さくせい
+
+作製 [さくせい]
+
 manufacture (of products, machinery, drawings etc.)
+
 Verbal Noun
-1
 合鍵の作製には二日ほどかかります。
+
 あいかぎ の さくせい に は ふつか ほど かかります。
+
 It takes about two days to make a duplicate key.
-車掌
-しゃしょう
+
+車掌 [しゃしょう]
+
 train conductor
+
 Noun
-1
 車掌さんが車内を回ってきたよ。
+
 しゃしょう さん が しゃない を まわって きた よ。
+
 The conductor went around the carriage.
-やかましい
+
 やかましい
 noisy, critical, strict
+
 Adjective
-1
 スピーカーの音がやかましいな。
+
 スピーカー の おと が やかましい な。
+
 The sound from the speaker is too noisy.
-決まり
-きまり
+
+決まり [きまり]
+
 (informal) rule, regulation
+
 Noun
-1
 決まりを守ることは大切です。
+
 きまり を まもる こと は たいせつ です。
+
 It's important to keep rules.
-縮む
-ちぢむ
+
+縮む [ちぢむ]
+
 shrink, contract
+
 Verb
-1
 セーターが縮んでしまったな。
+
 セーター が ちぢんで しまった な。
+
 The sweater has shrunk.
-跳ねる
-はねる
+
+跳ねる [はねる]
+
 bounce, hop
+
 Verb
-1
 ウサギが雪の上を跳ねていったよ。
+
 ウサギ が ゆき の うえ を はねて いった よ。
+
 The rabbit hopped through the snow.
-払い込む
-はらいこむ
+
+払い込む [はらいこむ]
+
 pay in
+
 Verb
-1
 授業料を学校に払い込みました。
+
 じゅぎょう りょう を がっこう に はらいこみました。
+
 I paid tuition to the school.
-人通り
-ひとどおり
+
+人通り [ひとどおり]
+
 pedestrian traffic
+
 Noun
-1
 ここは人通りが激しいね。
+
 ここ は ひとどおり が はげしい ね。
+
 A lot of people pass through here.
-不規則
-ふきそく
+
+不規則 [ふきそく]
+
 irregular
+
 Adjectival Noun
-1
 最近、不規則な生活をしている。
+
 さいきん、ふきそくな せいかつ を して いる。
+
 I've been on a irregular schedule lately.
-不平
-ふへい
+
+不平 [ふへい]
+
 discontent, complaint
+
 Noun
-1
 私はいつも同僚の不平を聞いているんだ。
+
 わたし は いつも どうりょう の ふへい を きいて いる ん だ。
+
 I'm always hearing my colleague's complaints.
-地平線
-ちへいせん
+
+地平線 [ちへいせん]
+
 horizon where the sky meets the land
+
 Noun
-1
 地平線に夕日が沈むところだったの。
+
 ちへいせん に ゆうひ が しずむ ところ だった の。
+
 The sun was setting below the horizon where the sky meets the land.
-務め
-つとめ
+
+務め [つとめ]
+
 duty, responsibilities
+
 Noun
-1
 人々を守るのが私の務めです。
+
 ひとびと を まもる の が わたし の つとめ です。
+
 It's my duty to protect people.
-濁る
-にごる
+
+濁る [にごる]
+
 become turbid, get cloudy
+
 Verb
-1
 その池の水は濁っているね。
+
 その いけ の みず は にごって いる ね。
+
 The pond water is cloudy.
-自然科学
-しぜんかがく
+
+自然科学 [しぜんかがく]
+
 natural science
+
 Noun
-1
 姉は大学で自然科学を学んでいます。
+
 あね は だいがく で しぜんかがく を まなんで います。
+
 My elder sister is studying natural science at university.
-末っ子
-すえっこ
+
+末っ子 [すえっこ]
+
 youngest child
+
 Noun
-1
 彼は5人兄弟の末っ子です。
+
 かれ は 5 にん きょうだい の すえっこ です。
+
 He is the youngest of the five siblings.
-送別
-そうべつ
+
+送別 [そうべつ]
+
 farewell, send-off
+
 Verbal Noun
-1
 送別の辞は誰に頼みましょうか。
+
 そうべつ の じ は だれ に たのみましょう か。
+
 Who shall we ask to give a farewell speech?
-プラットホーム
+
 プラットホーム
 platform
+
 Noun
-1
 プラットホームで電車が来るのを待ったの。
+
 プラットホーム で でんしゃ が くる の を まった の。
+
 I waited on the platform for the train to arrive.
-海水浴
-かいすいよく
+
+海水浴 [かいすいよく]
+
 sea bathing
+
 Verbal Noun
-1
 夏休みには海水浴に行きます。
+
 なつやすみ に は かいすいよく に いきます。
+
 I go to swim in the sea during the summer.
-くず
+
 くず
 waste, scrap
+
 Noun
-1
 彼の背広に糸くずが付いているわ。
+
 かれ の せびろ に いと くず が ついて いる わ。
+
 He has lint on his suit.
-白髪
-しらが
+
+白髪 [しらが]
+
 white hair, gray hair
+
 Noun
-1
 祖父は白髪が少ないほうです。
+
 そふ は しらが が すくない ほう です。
+
 My grandfather has relatively little gray hair.
-日用品
-にちようひん
+
+日用品 [にちようひん]
+
 groceries, daily necessities
+
 Noun
-1
 今日は日用品の買い物をした。
+
 きょう は にちようひん の かいもの を した。
+
 I did grocery shopping today.
-裏口
-うらぐち
+
+裏口 [うらぐち]
+
 back door
+
 Noun
-1
 裏口へお回りください。
+
 うらぐち へ おまわり ください。
+
 Please go around to the back door.
-断水
-だんすい
+
+断水 [だんすい]
+
 water stoppage
+
 Verbal Noun
-1
 地震のために1週間、断水したの。
+
 じしん の ため に 1 しゅうかん、だんすい した の。
+
 The water supply was cut off for a week due to the earthquake.
-迷信
-めいしん
+
+迷信 [めいしん]
+
 superstition
+
 Noun
-1
 村の人たちは迷信を信じています。
+
 むら の ひと たち は めいしん を しんじて います。
+
 The people in the village believe in superstitions.
-あちらこちら
+
 あちらこちら
 all over, everywhere
+
 Pronoun
-1
 あちらこちらで紅葉がきれいですね。
+
 あちら こちら で こうよう が きれい です ね。
+
 The colors of autumn leaves are beautiful everywhere.
-衣食住
-いしょくじゅう
+
+衣食住 [いしょくじゅう]
+
 clothing and food and housing
+
 Noun
-1
 土地によって衣食住は変化する。
+
 とち によって いしょくじゅう は へんかする。
+
 Clothing, food and housing vary from region to region.
-今にも
-いまにも
+
+今にも [いまにも]
+
 at any moment
+
 Adverb
-1
 今にも雨が降りそうですね。
+
 いま に も あめ が ふり そうです ね。
+
 It looks like it's going to rain at any moment.
-透き通る
-すきとおる
+
+透き通る [すきとおる]
+
 become transparent, become clear
+
 Verb
-1
 湖の水は透き通っていたよ。
+
 みずうみ の みず は すきとおって いた よ。
+
 The water of the lake was transparent.
-正方形
-せいほうけい
+
+正方形 [せいほうけい]
+
 regular square (formal)
+
 Noun
-1
 正方形の紙を用意しましょう。
+
 せいほうけい の かみ を ようい しましょう。
+
 Prepare a regular square paper.
-近づける
-ちかづける
+
+近づける [ちかづける]
+
 bring (something) close
+
 Verb
-1
 私は顔を窓に近づけたんだ。
+
 わたし は かお を まど に ちかづけた ん だ 。
+
 I brought my face close to the window.
-引っ込む
-ひっこむ
+
+引っ込む [ひっこむ]
+
 draw back, pull in
+
 Verb
-1
 ダイエットをしてお腹が引っ込みました。
+
 ダイエット を して おなか が ひっこみました。
+
 My stomach flattened out as a result of dieting.
-朗らか
-ほがらか
+
+朗らか [ほがらか]
+
 cheerful, bright
+
 Adjective
-1
 彼はとても朗らかな人です。
+
 かれ は とても ほがらかな ひと です。
+
 He's a very cheerful person.
-目上
-めうえ
+
+目上 [めうえ]
+
 one's superiors, one's seniors
+
 Noun
-1
 彼は目上の人にとても気を使います。
+
 かれ は めうえ の ひと に とても き を つかいます。
+
 He's very respectful of his seniors.
-落第
-らくだい
+
+落第 [らくだい]
+
 failing an exam
+
 Verbal Noun
-1
 このテストに失敗したら落第です。
+
 この テスト に しっぱい したら らくだい です。
+
 You're going to flunk if you fail this test.
-薄める
-うすめる
+
+薄める [うすめる]
+
 dilute (something), water down
+
 Verb
-1
 スープを少し薄めましょうか。
+
 スープ を すこし うすめましょう か。
+
 Shall I water down the soup a little?
-砕ける
-くだける
+
+砕ける [くだける]
+
 be crushed, break
+
 Verb
-1
 石が粉々に砕けましたね。
+
 いし が こなごな に くだけました ね。
+
 The stone was crushed into pieces.
-催促
-さいそく
+
+催促 [さいそく]
+
 reminding, urging
+
 Verbal Noun
-1
 彼女に本を返すように催促したの。
+
 かのじょ に ほん を かえす ように さいそく した の。
+
 I urged her to return the book.
-静まる
-しずまる
+
+静まる [しずまる]
+
 become quiet, calm down
+
 Verb
-1
 台風が去って風が静まったね。
+
 たいふう が さって かぜ が しずまった ね。
+
 The typhoon has passed, and the wind has dropped.
-上等
-じょうとう
+
+上等 [じょうとう]
+
 first-class, premium
+
 Adjectival Noun
-1
 上等なワインを飲んだの。
+
 じょうとうな ワイン を のんだ の。
+
 We drank premium wine.
-ひとりでに
+
 ひとりでに
 automatically, by oneself
+
 Adverb
-1
 ドアがひとりでに閉まったな。
+
 ドア が ひとりでに しまった な。
+
 The door closed by itself.
-噴水
-ふんすい
+
+噴水 [ふんすい]
+
 water fountain
+
 Noun
-1
 公園の噴水の前で会いましょう。
+
 こうえん の ふんすい の まえ で あいましょう。
+
 Let's meet in front of the fountain in the park.
-包帯
-ほうたい
+
+包帯 [ほうたい]
+
 bandage
+
 Verbal Noun
-1
 彼女は手に包帯を巻いていたんだ。
+
 かのじょ は て に ほうたい を まいて いた ん だ。
+
 Her hand was covered with a bandage.
-物差し
-ものさし
+
+物差し [ものさし]
+
 ruler
+
 Noun
-1
 30センチの物差しをください。
+
 30 センチ の ものさし を ください。
+
 Please give me a 30 centimeter ruler.
-やっつける
+
 やっつける
 beat up
+
 Verb
-1
 主人公が悪者をやっつけた。
+
 しゅじんこう が わるもの を やっつけた。
+
 The hero beat up the villain.
-拝む
-おがむ
+
+拝む [おがむ]
+
 bow in veneration, pray
+
 Verb
-1
 仏像に手を合わせて拝みました。
+
 ぶつぞう に て を あわせて おがみました。
+
 We joined our hands together and prayed at the statue of Buddha.
-始終
-しじゅう
+
+始終 [しじゅう]
+
 from beginning to end, constantly
+
 Adverb
-1
 その部屋は始終、人が出入りしているね。
+
 その へや は しじゅう、ひと が でいり して いる ね。
+
 People have constantly been going in and out of the room.
-人文科学
-じんぶんかがく
+
+人文科学 [じんぶんかがく]
+
 humanities
+
 Noun
-1
 大学で人文科学を専攻しました。
+
 だいがく で じんぶんかがく を せんこう しました。
+
 I majored in humanities when I was in college.
-調味料
-ちょうみりょう
+
+調味料 [ちょうみりょう]
+
 seasoning
+
 Noun
-1
 塩、コショウはよく使われる調味料です。
+
 しお、コショウ は よく つかわれる ちょうみりょう です。
+
 Salt and pepper are commonly used seasonings.
-漬ける
-つける
+
+漬ける [つける]
+
 pickle, marinade
+
 Verb
-1
 魚を味噌に漬けました。
+
 さかな を みそ に つけました。
+
 I marinaded the fish in miso.
-倣う
-ならう
+
+倣う [ならう]
+
 copy, follow an example
+
 Verb
-1
 この街はロンドンに倣って作られました。
+
 この まち は ロンドン に ならって つくられました。
+
 This town was built to resemble London.
-花瓶
-かびん
+
+花瓶 [かびん]
+
 flower vase
+
 Noun
-1
 花瓶にお花を生けました。
+
 かびん に おはな を いけました。
+
 I arranged the flowers in the vase.
-災難
-さいなん
+
+災難 [さいなん]
+
 calamity, misfortune
+
 Noun
-1
 旅先で思いがけない災難にあいました。
+
 たびさき で おもいがけない さいなん に あいました。
+
 We had an unexpected misfortune on the trip.
-若々しい
-わかわかしい
+
+若々しい [わかわかしい]
+
 youthful, young-looking
+
 Adjective
-1
 彼女はとても若々しい人です。
+
 かのじょ は とても わかわかしい ひと です。
+
 She's a very youthful person.
-逆さ
-さかさ
+
+逆さ [さかさ]
+
 reverse, inversion
+
 Noun
-1
 絵を逆さにして見てごらん。
+
 え を さかさ に して みて ごらん。
+
 Try looking at the picture upside down.
-敬う
-うやまう
+
+敬う [うやまう]
+
 respect, honor
+
 Verb
-1
 両親を敬うことは大切です。
+
 りょうしん を うやまう こと は たいせつ です。
+
 It's important to respect your parents.
-逃がす
-にがす
+
+逃がす [にがす]
+
 let (someone/something) to escape
+
 Verb
-1
 釣った魚を逃がしました。
+
 つった さかな を にがしました。
+
 I let go of the fish I had caught.
-日当たり
-ひあたり
+
+日当たり [ひあたり]
+
 exposure to the sun
+
 Noun
-1
 この部屋は日当たりがいい。
+
 この へや は ひあたり が いい。
+
 This room gets a lot of sunshine.
-交ぜる
-まぜる
+
+交ぜる [まぜる]
+
 mix (things distinguishable)
+
 Verb
-1
 私も交ぜてください。
+
 わたし も まぜて ください。
+
 Please include me.
-もしかすると
+
 もしかすると
 possibly, by any chance
+
 Adverb
-1
 もしかするとあなたに一度お会いしてますか。
+
 もしかすると あなた に いちど おあいしてます か。
+
 Have we met before by any chance?
-回数券
-かいすうけん
+
+回数券 [かいすうけん]
+
 book of (discounted) tickets
+
 Noun
-1
 バスの回数券を買いました。
+
 バス の かいすうけん を かいました。
+
 I bought a strip of discounted bus tickets.
-口紅
-くちべに
+
+口紅 [くちべに]
+
 lipstick
+
 Noun
-1
 赤い口紅を買いました。
+
 あかい くちべに を かいました。
+
 I bought some red lipstick.
-謙遜
-けんそん
+
+謙遜 [けんそん]
+
 modesty, humbleness
+
 Verbal Noun
-1
 そんなに謙遜しなくてもいい。
+
 そんな に けんそん しなくて も いい。
+
 You don't need to be so humble.
-貸し出し
-かしだし
+
+貸し出し [かしだし]
+
 lending service, checking out
+
 Verbal Noun
-1
 その本は貸し出ししていません。
+
 その ほん は かしだし して いません。
+
 That book can't be checked out.
-電灯
-でんとう
+
+電灯 [でんとう]
+
 electric light
+
 Noun
-1
 午後5時には電灯がつきます。
+
 ごご 5 じ に は でんとう が つきます。
+
 The lights will be turned on at 5:00 pm.
-恨み
-うらみ
+
+恨み [うらみ]
+
 grudge, hatred
+
 Noun
-1
 彼女は長年の恨みを晴らした。
+
 かのじょ は ながねん の うらみ を はらした。
+
 She paid off the old grudge.
-とっさに
+
 とっさに
 at once, promptly
+
 Adverb
-1
 とっさに彼の名前が出てこなかった。
+
 とっさ に かれ の なまえ が でて こなかった。
+
 I couldn't remember his name at that moment.

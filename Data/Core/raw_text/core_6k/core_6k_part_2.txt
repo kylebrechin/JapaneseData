@@ -1,803 +1,1101 @@
-好意
-こうい
+好意 [こうい]
+
 good feeling, affection
+
 Noun
-1
 彼は彼女に好意をもっています。
+
 かれ は かのじょ に こうい を もって います。
+
 He has feelings for her.
-生理
-せいり
+
+生理 [せいり]
+
 period, menstruation
+
 Noun
-1
 昨日、生理が始まったの。
+
 きのう、せいり が はじまった の。
+
 My period started yesterday.
-漏れる
-もれる
+
+漏れる [もれる]
+
 leak, be disclosed
+
 Verb
-1
 彼のヘッドフォンから音が漏れているね。
+
 かれ の ヘッドフォン から おと が もれて いる ね。
+
 Sound is leaking from his headphones.
-未知
-みち
+
+未知 [みち]
+
 unknown, strange
+
 Noun
-1
 ここからは未知の領域です。
+
 ここ から は みち の りょういき です。
+
 From here on is an unknown territory.
-打ち込む
-うちこむ
+
+打ち込む [うちこむ]
+
 devote oneself, dedicate oneself to
+
 Verb
-1
 彼は研究に打ち込んでいます。
+
 かれ は けんきゅう に うちこんで います。
+
 He's dedicated to his research.
-惜しむ
-おしむ
+
+惜しむ [おしむ]
+
 regret, feel sorry about
+
 Verb
-1
 私たちはみな彼の死を惜しんだの。
+
 わたし たち は みな かれ の し を おしんだ の。
+
 We all regretted his death.
-富む
-とむ
+
+富む [とむ]
+
 be full of, abound in
+
 Verb
-1
 彼の人生は変化に富んでいるな。
+
 かれ の じんせい は へんか に とんで いる な。
+
 His life is full of changes.
-嘆く
-なげく
+
+嘆く [なげく]
+
 grieve, mourn
+
 Verb
-1
 嘆いていても何も変わりません。
+
 なげいて いて も なに も かわりません。
+
 Grieving won't change anything.
-外貨
-がいか
+
+外貨 [がいか]
+
 foreign currency
+
 Noun
-1
 外貨を両替しました。
+
 がいか を りょうがえ しました。
+
 I exchanged some foreign currency.
-突く
-つく
+
+突く [つく]
+
 thrust, poke
+
 Verb
-2
 その鹿は角で相手を突いた。
+
 その しか は つの で あいて を ついた。
+
 The deer poked its enemy with its horn.
+
 それは針で突くような痛みでした。
+
 それ は はり で つく ような いたみ でした。
+
 It was a stinging pain (like being poked with a needle).
-親しむ
-したしむ
+
+親しむ [したしむ]
+
 get close to, get familiar with
+
 Verb
-1
 ハイキングは自然に親しむ良い機会ですよ。
+
 ハイキング は しぜん に したしむ いい きかい です よ。
+
 Hiking is a good chance to get close to nature.
-物体
-ぶったい
+
+物体 [ぶったい]
+
 object, physical body
+
 Noun
-1
 謎の物体が空を飛んでいます。
+
 なぞ の ぶったい が そら を とんで います。
+
 A mysterious object is flying in the sky.
-一同
-いちどう
+
+一同 [いちどう]
+
 everybody, all (formal)
+
 Noun
-1
 一同顔を見合わせました。
+
 いちどう かお を みあわせました。
+
 We all looked at each other.
-創立
-そうりつ
+
+創立 [そうりつ]
+
 foundation (of a school, company, etc.)
+
 Verbal Noun
-1
 この学校は1962年に創立されました。
+
 この がっこう は 1962 ねん に そうりつ されました。
+
 This school was founded in 1962.
-利子
-りし
+
+利子 [りし]
+
 interest (to be paid)
+
 Noun
-1
 借金に利子をつけて返したの。
+
 しゃっきん に りし を つけて かえした の。
+
 I paid off the debt with its interest.
-外観
-がいかん
+
+外観 [がいかん]
+
 external appearance, exterior
+
 Noun
-1
 そのモダンな外観の建物が大使館です。
+
 その モダンな がいかん の たてもの が たいし かん です。
+
 The building with the modern exterior is the embassy.
-誠に
-まことに
+
+誠に [まことに]
+
 truly, very
+
 Adverb
-1
 誠にありがとうございます。
+
 まことに ありがとう ございます。
+
 Thank you very much.
-有益
-ゆうえき
+
+有益 [ゆうえき]
+
 beneficial, fruitful
+
 Adjectival Noun
-1
 昨日の話し合いは有益でした。
+
 きのう の はなしあい は ゆうえき でした。
+
 We had a fruitful discussion yesterday.
-解ける
-とける
+
+解ける [とける]
+
 be solved, be resolved
+
 Verb
-1
 やっと難しい問題が解けました。
+
 やっと むずかしい もんだい が とけました。
+
 We were finally able to solve the difficult problem.
-国交
-こっこう
+
+国交 [こっこう]
+
 diplomatic relations
+
 Noun
-1
 あの国とは国交がない。
+
 あの くに と は こっこう が ない。
+
 We don't have any diplomatic relations with that country.
-両立
-りょうりつ
+
+両立 [りょうりつ]
+
 managing two things, juggle
+
 Verbal Noun
-1
 勉強と仕事の両立は難しいよ。
+
 べんきょう と しごと の りょうりつ は むずかしい よ。
+
 It's difficult to juggle study and work.
-高原
-こうげん
+
+高原 [こうげん]
+
 plateau, highland
+
 Noun
-1
 高原には気持ちのいい風が吹いていたよ。
+
 こうげん に は きもち の いい かぜ が ふいて いた よ。
+
 A pleasant breeze was blowing across the plateau.
-駆ける
-かける
+
+駆ける [かける]
+
 run quickly
+
 Verb
-1
 子供たちは広場に駆けていったわよ。
+
 こども たち は ひろば に かけて いった わ よ。
+
 The children rushed into the square.
-近郊
-きんこう
+
+近郊 [きんこう]
+
 area near a city
+
 Noun
-1
 彼らは東京近郊に住んでいる。
+
 かれら は とうきょう きんこう に すんで いる。
+
 They live in an area near Tokyo.
-到底
-とうてい
+
+到底 [とうてい]
+
 (not) possibly, utterly
+
 Adverb
-1
 今夜中に東京に着くのは到底無理でしょう。
+
 こんや じゅう に とうきょう に つく の は とうてい むり でしょう。
+
 We can't possibly arrive in Tokyo tonight.
-仕上げ
-しあげ
+
+仕上げ [しあげ]
+
 finishing touch
+
 Noun
-1
 彼は論文の仕上げに入ったの。
+
 かれ は ろんぶん の しあげ に はいった の。
+
 He's finishing up his thesis.
-進路
-しんろ
+
+進路 [しんろ]
+
 route, path
+
 Noun
-1
 卒業後の進路を迷っています。
+
 そつぎょう ご の しんろ を まよって います。
+
 I'm having a hard time deciding what path I'll take after graduation.
-結晶
-けっしょう
+
+結晶 [けっしょう]
+
 crystal
+
 Verbal Noun
-1
 雪の結晶にはいろいろな形があります。
+
 ゆき の けっしょう に は いろいろな かたち が あります。
+
 Snow crystals come in a variety of shapes.
-文化財
-ぶんかざい
+
+文化財 [ぶんかざい]
+
 cultural heritage
+
 Noun
-1
 この建物は国の文化財です。
+
 この たてもの は くに の ぶんかざい です。
+
 This building is a national cultural heritage.
-対比
-たいひ
+
+対比 [たいひ]
+
 contrast, comparison
+
 Verbal Noun
-1
 この絵は赤と黒の対比が美しいですね。
+
 この え は あか と くろ の たいひ が うつくしい です ね。
+
 The red and black contrast in this picture is beautiful.
-勤労
-きんろう
+
+勤労 [きんろう]
+
 labor, serve
+
 Verbal Noun
-1
 父は長い勤労生活を送ったんです。
+
 ちち は ながい きんろう せいかつ を おくった ん です。
+
 My father served for a company for a long time.
-対等
-たいとう
+
+対等 [たいとう]
+
 equal
+
 Adjectival Noun
-1
 その子供は大人と対等に話していたよ。
+
 その こども は おとな と たいとう に はなして いた よ。
+
 That kid was talking with adults as equals.
-紳士
-しんし
+
+紳士 [しんし]
+
 gentleman
+
 Noun
-1
 身なりのいい紳士が話しかけてきたの。
+
 みなり の いい しんし が はなしかけて きた の。
+
 A well-dressed gentleman spoke to me.
-暦
-こよみ
+
+暦 [こよみ]
+
 calendar, almanac
+
 Noun
-1
 暦の上では今日から冬ですね。
+
 こよみ の うえ で は きょう から ふゆ です ね。
+
 Winter starts today according to the almanac.
-救い
-すくい
+
+救い [すくい]
+
 relief, salvation
+
 Noun
-1
 娘の存在が私の救いでした。
+
 むすめ の そんざい が わたし の すくい でした。
+
 The presence of my daughter was my relief.
-溝
-みぞ
+
+溝 [みぞ]
+
 ditch, groove
+
 Noun
-1
 車が溝にはまったの。
+
 くるま が みぞ に はまった の。
+
 My car got stuck in a ditch.
-態勢
-たいせい
+
+態勢 [たいせい]
+
 readiness, preparedness
+
 Noun
-1
 作業を始める態勢は整っています。
+
 さぎょう を はじめる たいせい は ととのって います。
+
 We're ready to start working.
-待遇
-たいぐう
+
+待遇 [たいぐう]
+
 treatment (in the workplace etc.)
+
 Verbal Noun
-1
 社員たちは待遇の改善を要求している。
+
 しゃいん たち は たいぐう の かいぜん を ようきゅう して いる。
+
 The employees are asking for better working conditions.
-沿岸
-えんがん
+
+沿岸 [えんがん]
+
 coast, shore
+
 Noun
-1
 今日は沿岸の波が荒いでしょう。
+
 きょう は えんがん の なみ が あらい でしょう。
+
 Waves on the coast will be rough today.
-人柄
-ひとがら
+
+人柄 [ひとがら]
+
 character, personality (usually positive)
+
 Noun
-1
 みんな彼の温かい人柄が大好きだよ。
+
 みんな かれ の あたたかい ひとがら が だいすき だ よ。
+
 Everyone loves his warm personality.
-期日
-きじつ
+
+期日 [きじつ]
+
 due date
+
 Noun
-1
 代金を期日までにお支払いください。
+
 だいきん を きじつ まで に おしはらい ください。
+
 Please pay the fee by the due date.
-密か
-ひそか
+
+密か [ひそか]
+
 secret, private
+
 Adjectival Noun
-1
 彼女の誕生日パーティーを密かに計画しています。
+
 かのじょ の たんじょう び パーティー を ひそか に けいかく して います。
+
 We're secretly planning a birthday party for her.
-見渡す
-みわたす
+
+見渡す [みわたす]
+
 look out over
+
 Verb
-1
 丘の上から草原を見渡したの。
+
 おか の うえ から そうげん を みわたした の。
+
 I looked over the meadow from the top of the hill.
-引き取る
-ひきとる
+
+引き取る [ひきとる]
+
 take back, take custody
+
 Verb
-1
 彼女は息子を引き取ったの。
+
 かのじょ は むすこ を ひきとった の。
+
 She took custody of her son.
-継ぐ
-つぐ
+
+継ぐ [つぐ]
+
 succeed to, take over
+
 Verb
-1
 彼は父親の店を継いだの。
+
 かれ は ちちおや の みせ を ついだ の。
+
 He took over his father's shop.
-案の定
-あんのじょう
+
+案の定 [あんのじょう]
+
 as expected, sure enough
+
 Adverb
-1
 案の定、彼は遅刻したな。
+
 あんのじょう、かれ は ちこく した な。
+
 Just as I expected, he was late.
-腸
-ちょう
+
+腸 [ちょう]
+
 intestines, entrails
+
 Noun
-1
 彼は腸の手術を受けたの。
+
 かれ は ちょう の しゅじゅつ を うけた の。
+
 He had surgery on his intestines.
-肺
-はい
+
+肺 [はい]
+
 lung
+
 Noun
-1
 彼は肺の病気にかかったのよ。
+
 かれ は はい の びょうき に かかった の よ。
+
 He's contracted a lung disease.
-血管
-けっかん
+
+血管 [けっかん]
+
 blood vessel
+
 Noun
-1
 年をとると血管が硬くなります。
+
 とし を とる と けっかん が かたく なります。
+
 Our blood vessels harden as we get older.
-洪水
-こうずい
+
+洪水 [こうずい]
+
 flood, a shower of (something)
+
 Noun
-1
 洪水でたくさんの家が流されたの。
+
 こうずい で たくさん の いえ が ながされた の。
+
 Many houses were washed away in the flood.
-入浴
-にゅうよく
+
+入浴 [にゅうよく]
+
 taking a bath
+
 Verbal Noun
-1
 私は毎日寝る前に入浴します。
+
 わたし は まいにち ねる まえ に にゅうよく します。
+
 I take a bath every day before I go to bed.
-甘える
-あまえる
+
+甘える [あまえる]
+
 depend on someone's kindness, demand attention
+
 Verb
-1
 彼女の親切に甘えました。
+
 かのじょ の しんせつ に あまえました。
+
 I depended on her kindness.
-覚え
-おぼえ
+
+覚え [おぼえ]
+
 memory, learning
+
 Noun
-1
 この子は覚えが早いね。
+
 この こ は おぼえ が はやい ね。
+
 This kid is a fast learner.
-内心
-ないしん
+
+内心 [ないしん]
+
 on the inside, one's real intention
+
 Noun
-1
 彼女は内心どきどきしていましたよ。
+
 かのじょ は ないしん どきどき して いました よ。
+
 She was nervous on the inside.
-地形
-ちけい
+
+地形 [ちけい]
+
 geographical features, landscape
+
 Noun
-1
 ここはなだらかな地形です。
+
 ここ は なだらかな ちけい です。
+
 The landscape here is characterized by its gentle slopes.
-市街
-しがい
+
+市街 [しがい]
+
 urban area, downtown
+
 Noun
-1
 夕方の市街は車が渋滞するよ。
+
 ゆうがた の しがい は くるま が じゅうたい する よ。
+
 The downtown area gets congested with cars in the late afternoon.
-追放
-ついほう
+
+追放 [ついほう]
+
 banishment, deportation
+
 Verbal Noun
-1
 彼は国外に追放されました。
+
 かれ は こくがい に ついほう されました。
+
 He was deported.
-華やか
-はなやか
+
+華やか [はなやか]
+
 gorgeous, colorful
+
 Adjectival Noun
-1
 彼女は華やかな女性ですね。
+
 かのじょ は はなやかな じょせい です ね。
+
 She's a gorgeous woman.
-墓地
-ぼち
+
+墓地 [ぼち]
+
 graveyard, cemetery
+
 Noun
-1
 寺のとなりに墓地があります。
+
 てら の となり に ぼち が あります。
+
 There's a graveyard next to the temple.
-無用
-むよう
+
+無用 [むよう]
+
 useless, no need
+
 Adjectival Noun
-1
 心配は無用です。
+
 しんぱい は むよう です。
+
 There's no need to worry.
-催す
-もよおす
+
+催す [もよおす]
+
 feel, experience
+
 Verb
-1
 静かな音楽で眠気を催したよ。
+
 しずかな おんがく で ねむけ を もよおした よ。
+
 Listening to the quiet music made me feel sleepy.
-大家
-おおや
+
+大家 [おおや]
+
 landlord
+
 Noun
-1
 ここの大家は近くに住んでいますよ。
+
 ここ の おおや は ちかく に すんで います よ。
+
 The landlord of this place lives near here.
-日の丸
-ひのまる
+
+日の丸 [ひのまる]
+
 Japanese flag
+
 Noun
-1
 日本の国旗は日の丸と呼ばれています。
+
 にっぽん の こっき は ひのまる と よばれて います。
+
 The national flag of Japan is known as "Hinomaru."
-採算
-さいさん
+
+採算 [さいさん]
+
 profitability
+
 Noun
-1
 コストがこんなに高くては採算が取れません。
+
 コスト が こんな に たかくて は さいさん が とれません。
+
 With such high costs, we won't be able to make any profit.
-着陸
-ちゃくりく
+
+着陸 [ちゃくりく]
+
 landing
+
 Verbal Noun
-1
 飛行機が無事着陸したわね。
+
 ひこうき が ぶじ ちゃくりく した わ ね。
+
 The airplane has landed safely.
-名付ける
-なづける
+
+名付ける [なづける]
+
 name, give a name to
+
 Verb
-1
 子猫にトラと名付けました。
+
 こ ねこ に トラ と なづけました。
+
 I named the kitten "Tora."
-無言
-むごん
+
+無言 [むごん]
+
 silence, being speechless
+
 Noun
-1
 彼は一日中無言だったな。
+
 かれ は いちにち じゅう むごん だった な。
+
 He was silent all day long.
-染める
-そめる
+
+染める [そめる]
+
 dye (something)
+
 Verb
-1
 髪を赤に染めてみた。
+
 かみ を あか に そめて みた。
+
 I dyed my hair red.
-未定
-みてい
+
+未定 [みてい]
+
 state of being undecided
+
 Noun
-1
 この件の担当者は未定です。
+
 この けん の たんとう しゃ は みてい です。
+
 We haven't decided on who's going to be in charge of this matter.
-出世
-しゅっせ
+
+出世 [しゅっせ]
+
 social success in life, promotion
+
 Verbal Noun
-1
 彼は出世するタイプだな。
+
 かれ は しゅっせ する タイプ だ な。
+
 He's a type of person who is likely to be socially successful.
-送金
-そうきん
+
+送金 [そうきん]
+
 money transfer, sending money
+
 Verbal Noun
-1
 取引先への送金を済ませました。
+
 とりひき さき へ の そうきん を すませました。
+
 I've sent the money to our client.
-申し出る
-もうしでる
+
+申し出る [もうしでる]
+
 offer, propose
+
 Verb
-1
 彼はプロジェクトへの参加を申し出たよ。
+
 かれ は プロジェクト へ の さんか を もうしでた よ。
+
 He offered to join us in the project.
-過ち
-あやまち
+
+過ち [あやまち]
+
 fault, mistake
+
 Noun
-1
 同じ過ちを繰り返さないことだ。
+
 おなじ あやまち を くりかえさない こと だ。
+
 Do not repeat the same mistake.
-行進
-こうしん
+
+行進 [こうしん]
+
 march, parade
+
 Verbal Noun
-1
 開会式で選手たちが行進しました。
+
 かいかい しき で せんしゅ たち が こうしん しました。
+
 The athletes marched in the opening ceremony.
-定食
-ていしょく
+
+定食 [ていしょく]
+
 set meal
+
 Noun
-1
 昼の定食は3種類あります。
+
 ひる の ていしょく は 3 しゅるい あります。
+
 There are three kinds of set lunch.
-目下
-もっか
+
+目下 [もっか]
+
 now, at present
+
 Noun
-1
 息子は目下勉強中です。
+
 むすこ は もっか べんきょう ちゅう です。
+
 My son is studying right now.
-操縦
-そうじゅう
+
+操縦 [そうじゅう]
+
 steering, operating (a vehicle etc.)
+
 Verbal Noun
-1
 このボートは操縦が簡単です。
+
 この ボート は そうじゅう が かんたん です。
+
 This boat is easy to operate.
-快い
-こころよい
+
+快い [こころよい]
+
 comfortable, willing
+
 Adjective
-1
 彼女は快い眠りに就いています。
+
 かのじょ は こころよい ねむり に ついています 。
+
 She is sleeping comfortably.
-運送
-うんそう
+
+運送 [うんそう]
+
 shipping, transportation
+
 Verbal Noun
-1
 彼は運送会社に勤めているの。
+
 かれ は うんそう がいしゃ に つとめて いる の。
+
 He works for a transportation company.
-緩やか
-ゆるやか
+
+緩やか [ゆるやか]
+
 loose, gentle
+
 Adjectival Noun
-1
 ここから先は緩やかな坂になっています。
+
 ここ から さき は ゆるやかな さか に なって います。
+
 There's a gentle slope ahead.
-多忙
-たぼう
+
+多忙 [たぼう]
+
 busy
+
 Adjectival Noun
-1
 彼女は多忙な人です。
+
 かのじょ は たぼうな ひと です。
+
 She's a busy person.
-内臓
-ないぞう
+
+内臓 [ないぞう]
+
 internal organs
+
 Noun
-1
 来週、内臓を検査します。
+
 らいしゅう、ないぞう を けんさ します。
+
 I'll have an internal medical examination next week.
-メロディー
+
 メロディー
 melody
+
 Noun
-1
 このメロディーは聞いたことがある。
+
 この メロディー は きいた こと が ある。
+
 I've heard this melody before.
-受かる
-うかる
+
+受かる [うかる]
+
 pass (an exam)
+
 Verb
-1
 第一志望の大学に受かりました。
+
 だいいち しぼう の だいがく に うかりました。
+
 I passed the entrance exam to the university of my first choice.
-済ます
-すます
+
+済ます [すます]
+
 finish (something), make do
+
 Verb
-1
 忙しい時は、昼食なしで済ますことが多い。
+
 いそがしい とき は、 ちゅうしょく なし で すます こと が おおい。
+
 I often make do without lunch when I'm busy.
-出血
-しゅっけつ
+
+出血 [しゅっけつ]
+
 bleeding
+
 Verbal Noun
-1
 出血がひどいので、医者に行ったほうがいい。
+
 しゅっけつ が ひどい ので、いしゃ に いった ほう が いい。
+
 You're bleeding badly so you should go see a doctor.
-着席
-ちゃくせき
+
+着席 [ちゃくせき]
+
 taking a seat
+
 Verbal Noun
-1
 みなさん、着席してください。
+
 みなさん、ちゃくせき して ください。
+
 Everyone, please take your seats.
-はるか
+
 はるか
 faraway, remote
+
 Adjectival Noun
-1
 はるか向こうに目的地が見えてきた。
+
 はるか むこう に もくてき ち が みえて きた。
+
 Our destination has come into view far in the distance.
-明瞭
-めいりょう
+
+明瞭 [めいりょう]
+
 clear, plain
+
 Adjectival Noun
-1
 彼は話し方が明瞭ね。
+
 かれ は はなしかた が めいりょう ね。
+
 He speaks clearly.
-バット
+
 バット
 bat
+
 Noun
-1
 このバットは金属でできています。
+
 この バット は きんぞく で できています 。
+
 This bat is made of metal.
-叫び
-さけび
+
+叫び [さけび]
+
 shout, loud cry
+
 Noun
-1
 彼女の心の叫びに誰も気付かなかったよ。
+
 かのじょ の こころ の さけび に だれ も きづかなかった よ。
+
 No one noticed her cry from the heart.
-一面
-いちめん
+
+一面 [いちめん]
+
 whole surface
+
 Noun
-1
 外は一面の雪景色だったね。
+
 そと は いちめん の ゆきげしき だった ね。
+
 The whole surface was covered with snow outside.
-付録
-ふろく
+
+付録 [ふろく]
+
 appendix, supplement
+
 Noun
-1
 今月の付録はアニメのDVDです。
+
 こんげつ の ふろく は アニメ の DVD です。
+
 The supplement gift this month is an anime DVD.
-押さえる
-おさえる
+
+押さえる [おさえる]
+
 hold down
+
 Verb
-1
 ドアを押さえてください。
+
 ドア を おさえて ください。
+
 Please hold the door.
-万年筆
-まんねんひつ
+
+万年筆 [まんねんひつ]
+
 fountain pen
+
 Noun
-1
 父に万年筆をプレゼントしました。
+
 ちち に まんねんひつ を プレゼント しました。
+
 I gave my father a fountain pen.
-固有
-こゆう
+
+固有 [こゆう]
+
 indigenousness, inherence
+
 Noun
-1
 これは日本固有の鳥です。
+
 これ は にほん こゆう の とり です。
+
 This bird is indigenous to Japan.
-ビデオテープ
+
 ビデオテープ
 videotape
+
 Noun
-1
 私はビデオテープを30本持っています。
+
 わたし は ビデオテープ を 30 ぽん もって います。
+
 I have 30 videotapes.
-取り扱う
-とりあつかう
+
+取り扱う [とりあつかう]
+
 handle, sell
+
 Verb
-1
 当店ではお酒を取り扱っておりません。
+
 とうてん で は おさけ を とりあつかって おりません。
+
 We don't sell alcohol in this store.
-添える
-そえる
+
+添える [そえる]
+
 add, attach
+
 Verb
-1
 贈り物に手書きのカードを添えました。
+
 おくりもの に てがき の カード を そえました。
+
 I attached a hand-written card to the gift.
-衰える
-おとろえる
+
+衰える [おとろえる]
+
 weaken, decline
+
 Verb
-1
 年と共に体力が衰えています。
+
 とし と ともに たいりょく が おとろえて います。
+
 I'm losing my physical strength as I'm getting older.
