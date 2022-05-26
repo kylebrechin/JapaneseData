@@ -1,0 +1,9900 @@
+vocab_01 一
+vocab_02 一つ
+vocab_01 一分
+vocab_01 二
+vocab_01 二時
+vocab_01 二年生
+vocab_02 二つ
+vocab_01 二日間
+vocab_01 三
+vocab_02 三時
+vocab_01 三月
+vocab_02 三つ
+vocab_01 四
+vocab_03 四時
+vocab_02 四年生
+vocab_02 四月
+vocab_02 四つ
+vocab_01 五
+vocab_04 五時
+vocab_03 五月
+vocab_02 五つ
+vocab_01 六
+vocab_05 六時
+vocab_01 六百
+vocab_02 六つ
+vocab_02 六分
+vocab_01 七
+vocab_06 七時
+vocab_04 七月
+vocab_02 七つ
+vocab_01 七人
+vocab_01 八
+vocab_07 八時
+vocab_02 八百
+vocab_02 八つ
+vocab_01 九
+vocab_08 九時
+vocab_05 九月
+vocab_02 九つ
+vocab_01 十
+vocab_09 十時
+vocab_06 十月
+vocab_02 十
+vocab_03 百
+vocab_04 三百
+vocab_01 千
+vocab_02 三千
+vocab_03 八千
+vocab_04 千円
+vocab_01 万
+vocab_02 十万
+vocab_03 百万
+vocab_05 百円
+vocab_01 円
+vocab_02 円い
+vocab_01 円高
+vocab_10 一時
+vocab_11 子どもの時
+vocab_01 日本
+vocab_01 日曜日
+vocab_01 母の日
+vocab_03 三日
+vocab_02 本
+vocab_01 山本さん
+vocab_03 日本人
+vocab_02 一人で
+vocab_03 この人
+vocab_04 三人
+vocab_04 万人
+vocab_02 月曜日
+vocab_07 一月
+vocab_08 月
+vocab_01 今月
+vocab_09 一か月
+vocab_01 火曜日
+vocab_02 火
+vocab_02 火山
+vocab_01 水曜日
+vocab_02 水
+vocab_01 水道
+vocab_01 水着
+vocab_01 木曜日
+vocab_02 木
+vocab_01 金曜日
+vocab_02 お金
+vocab_01 お金持ち
+vocab_01 土曜日
+vocab_02 土
+vocab_01 土地
+vocab_03 曜日
+vocab_01 上
+vocab_02 上る
+vocab_01 下
+vocab_02 下さい
+vocab_01 下手な
+vocab_01 中
+vocab_01 中学
+vocab_03 一年中
+vocab_01 半分
+vocab_12 三時半
+vocab_02 半年
+vocab_03 山
+vocab_04 山川さん
+vocab_01 川
+vocab_01 小川さん
+vocab_01 元気な
+vocab_02 元日
+vocab_01 人気
+vocab_01 天気
+vocab_02 天国
+vocab_01 私
+vocab_02 今
+vocab_03 今日
+vocab_04 今すぐ
+vocab_02 田中さん
+vocab_05 山田さん
+vocab_01 田んぼ
+vocab_01 女の人
+vocab_02 長女
+vocab_01 男の人
+vocab_02 男子学生
+vocab_01 見る
+vocab_02 見える
+vocab_03 見せる
+vocab_01 見物
+vocab_01 行く
+vocab_02 行う
+vocab_01 食べる
+vocab_01 飲む
+vocab_01 東
+vocab_02 東口
+vocab_01 西
+vocab_02 西口
+vocab_03 北西
+vocab_01 南
+vocab_02 南口
+vocab_03 南東
+vocab_04 東南アジア
+vocab_01 北
+vocab_02 東北
+vocab_02 北海道
+vocab_01 口
+vocab_03 北口
+vocab_02 人口
+vocab_01 出る
+vocab_02 出口
+vocab_03 出す
+vocab_01 右
+vocab_02 左右
+vocab_03 右手
+vocab_01 左
+vocab_02 左手
+vocab_03 五分
+vocab_04 十分
+vocab_05 分ける
+vocab_06 見分ける
+vocab_01 先に
+vocab_02 先月
+vocab_03 先ず
+vocab_04 先生
+vocab_03 学生
+vocab_01 生まれる
+vocab_02 生まれ
+vocab_03 一生
+vocab_04 生える
+vocab_05 生む
+vocab_04 大学生
+vocab_01 大きい
+vocab_02 大人
+vocab_05 大学
+vocab_06 学ぶ
+vocab_01 外国
+vocab_02 外国人
+vocab_03 外
+vocab_01 中国
+vocab_02 国
+vocab_01 国会
+vocab_01 東京
+vocab_02 京子
+vocab_03 上京する
+vocab_01 子ども
+vocab_02 女の子
+vocab_03 男の子
+vocab_02 小さい
+vocab_01 小学校
+vocab_07 小学生
+vocab_02 会う
+vocab_01 会社
+vocab_02 本社
+vocab_03 社会
+vocab_04 入社
+vocab_01 父
+vocab_02 お父さん
+vocab_02 父母
+vocab_03 母
+vocab_04 お母さん
+vocab_01 母語
+vocab_02 高い
+vocab_03 高校
+vocab_04 高校生
+vocab_02 学校
+vocab_03 中学校
+vocab_01 毎日
+vocab_04 毎年
+vocab_02 日本語
+vocab_01 文学
+vocab_01 帰る
+vocab_02 帰国
+vocab_03 帰り
+vocab_01 入る
+vocab_02 入り口
+vocab_03 入れる
+vocab_01 会社員
+vocab_02 会員
+vocab_01 新しい
+vocab_01 新聞
+vocab_02 聞く
+vocab_03 聞こえる
+vocab_01 作る
+vocab_02 作文
+vocab_03 作者
+vocab_01 仕事
+vocab_02 仕える
+vocab_01 事
+vocab_02 火事
+vocab_02 食事
+vocab_01 電車
+vocab_02 電気
+vocab_01 車
+vocab_02 車いす
+vocab_01 休む
+vocab_02 休み
+vocab_03 休日
+vocab_01 言う
+vocab_03 言語学
+vocab_01 読む
+vocab_02 読書
+vocab_01 思う
+vocab_02 思い出す
+vocab_01 次
+vocab_02 次女
+vocab_01 何
+vocab_02 何時
+vocab_03 何人
+vocab_04 何か
+vocab_01 午前
+vocab_02 午後
+vocab_03 午前中
+vocab_01 ～の後
+vocab_02 後で
+vocab_03 後ろ
+vocab_01 前
+vocab_01 前売り
+vocab_01 名前
+vocab_02 地名
+vocab_01 白い
+vocab_02 白
+vocab_01 白紙
+vocab_01 雨
+vocab_01 書く
+vocab_01 友だち
+vocab_02 友人
+vocab_02 時間
+vocab_03 二時間
+vocab_04 間
+vocab_05 人間
+vocab_01 家
+vocab_02 家
+vocab_03 作家
+vocab_01 話す
+vocab_02 話し
+vocab_03 電話
+vocab_03 会話
+vocab_01 少し
+vocab_02 少ない
+vocab_03 少女
+vocab_04 少年
+vocab_05 少々
+vocab_01 古い
+vocab_02 中古
+vocab_03 古代
+vocab_01 知る
+vocab_02 知人
+vocab_01 来る
+vocab_02 来ます
+vocab_03 来ない
+vocab_04 来日
+vocab_01 住む
+vocab_01 お正月
+vocab_02 正しい
+vocab_04 正午
+vocab_05 三年生
+vocab_05 来年
+vocab_05 今年
+vocab_06 年
+vocab_02 売る
+vocab_01 買う
+vocab_03 売買
+vocab_01 町
+vocab_02 北山町
+vocab_03 町長
+vocab_01 長い
+vocab_02 長男
+vocab_05 社長
+vocab_03 道
+vocab_04 書道
+vocab_01 雪
+vocab_02 新雪
+vocab_03 雪だるま
+vocab_01 立つ
+vocab_08 国立大学
+vocab_02 私立高校
+vocab_07 自分
+vocab_01 夜
+vocab_02 夜中
+vocab_03 今夜
+vocab_04 夜明け
+vocab_01 朝
+vocab_06 今朝
+vocab_03 朝食
+vocab_02 毎朝
+vocab_02 持つ
+vocab_03 持ってくる
+vocab_04 気持ち
+vocab_02 手紙
+vocab_01 歌手
+vocab_02 手
+vocab_03 手話
+vocab_03 上手な
+vocab_03 紙
+vocab_01 好きな
+vocab_02 大好きな
+vocab_03 好み
+vocab_02 好物
+vocab_01 好意
+vocab_01 近く
+vocab_01 近所
+vocab_02 中近東
+vocab_01 明るい
+vocab_02 明日
+vocab_02 文明
+vocab_01 病院
+vocab_01 病気
+vocab_01 急病
+vocab_02 大学院
+vocab_01 映画
+vocab_02 映る
+vocab_04 画家
+vocab_02 歌う
+vocab_03 歌
+vocab_04 国歌
+vocab_01 川口市
+vocab_02 市長
+vocab_02 いろいろな所
+vocab_02 住所
+vocab_01 勉強する
+vocab_02 勉める
+vocab_01 強い
+vocab_01 有名な
+vocab_02 有る
+vocab_01 有料
+vocab_01 旅行
+vocab_02 一人旅
+vocab_01 昔
+vocab_02 昔話
+vocab_03 大昔
+vocab_04 昔々
+vocab_05 人々
+vocab_13 時々
+vocab_01 色々な
+vocab_01 神さま
+vocab_02 神社
+vocab_03 神道
+vocab_01 早い
+vocab_01 早起きする
+vocab_03 早朝
+vocab_02 起きる
+vocab_03 起こす
+vocab_04 起立する
+vocab_01 牛
+vocab_02 子牛
+vocab_01 使う
+vocab_02 大使
+vocab_03 お使い
+vocab_01 働く
+vocab_04 連れて帰る
+vocab_01 国連
+vocab_02 連休
+vocab_01 別れる
+vocab_02 別に
+vocab_01 特別な
+vocab_03 別々に
+vocab_01 一度
+vocab_02 今度
+vocab_03 三十度
+vocab_01 赤
+vocab_02 赤い
+vocab_03 赤ちゃん
+vocab_04 赤道
+vocab_01 青
+vocab_02 青い
+vocab_03 青年
+vocab_01 青空
+vocab_02 色
+vocab_03 特色
+vocab_04 食べ物
+vocab_02 飲み物
+vocab_03 物
+vocab_02 買い物
+vocab_01 鳥
+vocab_02 白鳥
+vocab_02 料金
+vocab_03 料理
+vocab_02 特に
+vocab_01 安い
+vocab_01 ご飯
+vocab_02 朝ご飯
+vocab_01 肉
+vocab_02 牛肉
+vocab_01 悪い
+vocab_02 気分が悪い
+vocab_01 体
+vocab_01 空港
+vocab_02 空気
+vocab_03 空
+vocab_04 空く
+vocab_05 空手
+vocab_02 港
+vocab_02 着く
+vocab_03 着る
+vocab_04 着物
+vocab_01 同じ
+vocab_14 同時
+vocab_01 海
+vocab_02 日本海
+vocab_04 海外
+vocab_01 昼
+vocab_02 昼ご飯
+vocab_03 昼休み
+vocab_04 昼食
+vocab_01 彼
+vocab_02 彼女
+vocab_03 彼ら
+vocab_15 時代
+vocab_04 電気代
+vocab_07 九十年代
+vocab_01 十代
+vocab_02 代わりに
+vocab_01 留学生
+vocab_02 留学する
+vocab_01 家族
+vocab_01 父親
+vocab_02 親切な
+vocab_03 親友
+vocab_03 親しい
+vocab_04 母親
+vocab_01 切る
+vocab_02 切手
+vocab_03 大切な
+vocab_01 英語
+vocab_02 英国
+vocab_03 英会話
+vocab_01 店
+vocab_02 店員
+vocab_04 売店
+vocab_03 書店
+vocab_01 去年
+vocab_02 去る
+vocab_02 急に
+vocab_03 急ぐ
+vocab_04 急行
+vocab_05 特急
+vocab_01 乗る
+vocab_02 乗り物
+vocab_03 乗車
+vocab_01 本当に
+vocab_16 当時
+vocab_02 当たる
+vocab_01 音楽
+vocab_01 音
+vocab_02 本音
+vocab_02 楽しい
+vocab_03 楽な
+vocab_01 医者
+vocab_02 医学
+vocab_03 医院
+vocab_01 学者
+vocab_03 読者
+vocab_01 死ぬ
+vocab_02 死
+vocab_03 死者
+vocab_01 意味
+vocab_01 注意する
+vocab_02 意見
+vocab_02 味
+vocab_02 注文する
+vocab_03 注ぐ
+vocab_01 夏
+vocab_02 夏休み
+vocab_01 魚
+vocab_02 金魚
+vocab_03 人魚
+vocab_01 お寺
+vocab_02 東寺
+vocab_04 寺院
+vocab_01 広い
+vocab_01 広場
+vocab_01 自転車
+vocab_02 転ぶ
+vocab_01 借りる
+vocab_02 借地
+vocab_03 借金
+vocab_04 借家
+vocab_01 走る
+vocab_02 走り書き
+vocab_01 建物
+vocab_02 建てる
+vocab_03 建つ
+vocab_04 建国
+vocab_02 地下
+vocab_02 場所
+vocab_01 足
+vocab_02 足りる
+vocab_03 一足
+vocab_01 通る
+vocab_02 通う
+vocab_03 通学
+vocab_01 子供
+vocab_02 供える
+vocab_01 世話
+vocab_02 世代
+vocab_03 三世
+vocab_04 世の中
+vocab_01 世界
+vocab_01 全部
+vocab_02 安全
+vocab_02 全国
+vocab_03 全く
+vocab_04 全て
+vocab_01 部屋
+vocab_01 テニス部
+vocab_02 部長
+vocab_01 始まる
+vocab_02 始める
+vocab_03 始発
+vocab_04 開始
+vocab_01 毎週
+vocab_02 先週
+vocab_06 一週間
+vocab_05 〜以外
+vocab_01 〜以上
+vocab_02 〜以下
+vocab_02 以前
+vocab_01 考える
+vocab_02 考え
+vocab_03 考古学
+vocab_01 開ける
+vocab_02 開く
+vocab_03 開く
+vocab_04 開店
+vocab_02 本屋
+vocab_04 魚屋
+vocab_03 屋上
+vocab_03 味方
+vocab_04 読み方
+vocab_01 運動
+vocab_02 運転
+vocab_03 運がいい
+vocab_04 運ぶ
+vocab_01 動く
+vocab_02 自動車
+vocab_03 動物
+vocab_01 教える
+vocab_02 教室
+vocab_03 教会
+vocab_04 キリスト教
+vocab_01 地下室
+vocab_01 二十五歳
+vocab_02 二十歳
+vocab_01 習う
+vocab_02 習字
+vocab_01 主に
+vocab_02 ご主人
+vocab_03 主語
+vocab_05 持ち主
+vocab_01 結婚する
+vocab_01 結ぶ
+vocab_02 新婚
+vocab_01 集める
+vocab_03 特集
+vocab_02 集中する
+vocab_01 発表する
+vocab_03 発音
+vocab_01 出発
+vocab_02 発明
+vocab_02 表紙
+vocab_03 表す
+vocab_04 表
+vocab_01 作品
+vocab_02 上品な
+vocab_03 手品
+vocab_04 品物
+vocab_03 文字
+vocab_05 赤字
+vocab_03 名字
+vocab_04 大文字
+vocab_04 活動
+vocab_01 生活
+vocab_03 活発な
+vocab_02 活気
+vocab_01 写真
+vocab_02 写す
+vocab_03 写生
+vocab_01 真ん中
+vocab_02 ～の真上
+vocab_03 真夜中
+vocab_01 歩く
+vocab_02 歩道
+vocab_03 一歩
+vocab_01 分野
+vocab_02 小野さん
+vocab_03 長野
+vocab_01 目的
+vocab_01 目
+vocab_03 目上の人
+vocab_06 社会的
+vocab_02 的
+vocab_03 力仕事
+vocab_01 洋服
+vocab_01 東洋
+vocab_02 洋食
+vocab_04 大西洋
+vocab_02 服
+vocab_01 食堂
+vocab_02 堂々とした
+vocab_01 授業
+vocab_02 教授
+vocab_03 授かる
+vocab_01 サービス業
+vocab_01 入試
+vocab_02 試みる
+vocab_01 試験
+vocab_01 貸す
+vocab_02 貸し出し
+vocab_01 図書館
+vocab_02 地図
+vocab_03 図
+vocab_04 図る
+vocab_03 映画館
+vocab_03 旅館
+vocab_04 大使館
+vocab_01 終わる
+vocab_02 終わり
+vocab_01 宿題
+vocab_01 下宿
+vocab_02 宿
+vocab_02 話題
+vocab_03 題
+vocab_01 春
+vocab_02 春分
+vocab_03 青春
+vocab_01 秋
+vocab_02 秋分
+vocab_01 冬
+vocab_02 冬休み
+vocab_03 春夏秋冬
+vocab_01 花
+vocab_02 花見
+vocab_03 花火
+vocab_04 生け花
+vocab_01 ～様
+vocab_02 様子
+vocab_03 不安な
+vocab_01 水不足
+vocab_01 姉
+vocab_02 お姉さん
+vocab_01 兄
+vocab_02 お兄さん
+vocab_01 漢字
+vocab_01 卒業する
+vocab_02 大卒
+vocab_01 工学
+vocab_02 工事
+vocab_03 工場
+vocab_03 大工
+vocab_01 研究
+vocab_02 研究者
+vocab_01 研ぐ
+vocab_03 究める
+vocab_01 質問
+vocab_01 質がいい
+vocab_02 質屋
+vocab_04 問題
+vocab_02 問う
+vocab_01 多い
+vocab_02 多分
+vocab_03 ～の多く
+vocab_01 皿
+vocab_04 紙皿
+vocab_01 声
+vocab_02 音声学
+vocab_01 お茶
+vocab_02 茶店
+vocab_03 茶色
+vocab_01 止まる
+vocab_02 中止する
+vocab_01 一枚
+vocab_01 三両
+vocab_05 両親
+vocab_02 両手
+vocab_03 両方
+vocab_01 無理な
+vocab_04 無料
+vocab_01 無い
+vocab_01 払う
+vocab_01 心
+vocab_04 安心な
+vocab_01 笑う
+vocab_01 絶対に
+vocab_02 絶える
+vocab_03 気絶する
+vocab_01 日本対中国
+vocab_02 一対
+vocab_01 痛い
+vocab_02 痛み止め
+vocab_03 最悪
+vocab_01 最近
+vocab_02 最高
+vocab_02 最新
+vocab_03 最後に
+vocab_04 最も
+vocab_01 続ける
+vocab_02 手続き
+vocab_03 連続ドラマ
+vocab_01 信じる
+vocab_01 自信
+vocab_01 経験
+vocab_02 神経質
+vocab_01 二台
+vocab_02 台所
+vocab_03 台風
+vocab_01 風
+vocab_01 犬
+vocab_02 子犬
+vocab_01 重い
+vocab_02 重ねる
+vocab_03 体重
+vocab_01 初めは
+vocab_02 初めて
+vocab_03 最初
+vocab_04 初雪
+vocab_01 若い
+vocab_02 若者
+vocab_03 若々しい
+vocab_01 送る
+vocab_02 送金
+vocab_05 送料
+vocab_03 回送電車
+vocab_01 幸せな
+vocab_02 幸運
+vocab_03 不幸
+vocab_04 幸い
+vocab_01 時計
+vocab_02 計画
+vocab_03 計る
+vocab_01 遅れる
+vocab_02 乗り遅れる
+vocab_03 遅い
+vocab_01 心配する
+vocab_02 配る
+vocab_01 弟
+vocab_03 兄弟
+vocab_02 弟子
+vocab_01 妹
+vocab_02 姉妹
+vocab_03 姉妹校
+vocab_01 日記
+vocab_02 記入する
+vocab_03 記事
+vocab_01 銀行
+vocab_02 銀メダル
+vocab_02 銀世界
+vocab_01 一回
+vocab_04 回送バス
+vocab_03 最終回
+vocab_02 回す
+vocab_01 夕方
+vocab_05 夕食
+vocab_02 夕日
+vocab_01 黒木さん
+vocab_02 黒い
+vocab_04 白黒写真
+vocab_03 用事
+vocab_03 用意する
+vocab_03 子供用
+vocab_03 留守
+vocab_01 お守り
+vocab_03 週末
+vocab_01 月末
+vocab_02 年末
+vocab_03 末
+vocab_01 待つ
+vocab_01 残業
+vocab_02 残す
+vocab_03 心残り
+vocab_04 残高
+vocab_04 留守番電話
+vocab_01 一番
+vocab_01 駅
+vocab_02 東京駅
+vocab_03 駅員
+vocab_04 駅前
+vocab_01 説明する
+vocab_02 小説
+vocab_03 小説家
+vocab_04 説教する
+vocab_01 案内する
+vocab_03 案内所
+vocab_01 案
+vocab_05 家内
+vocab_02 国内
+vocab_01 忘れる
+vocab_02 忘れ物
+vocab_03 忘年会
+vocab_01 顔
+vocab_04 顔色
+vocab_02 笑顔
+vocab_01 表情
+vocab_02 友情
+vocab_03 情け
+vocab_01 怒る
+vocab_02 怒り
+vocab_01 変な
+vocab_02 大変な
+vocab_03 変化
+vocab_04 変人
+vocab_05 変える
+vocab_01 相手
+vocab_01 横
+vocab_02 横書き
+vocab_01 比べる
+vocab_03 対比
+vocab_01 文化
+vocab_02 化学
+vocab_02 同化
+vocab_03 お化け
+vocab_01 違う
+vocab_02 間違える
+vocab_01 悲しい
+vocab_02 悲しむ
+vocab_01 調べる
+vocab_02 調子
+vocab_02 強調する
+vocab_01 調査
+vocab_01 結果
+vocab_05 使い果たす
+vocab_02 果物
+vocab_04 感情
+vocab_05 感動する
+vocab_01 感じる
+vocab_01 答える
+vocab_02 答え
+vocab_03 回答
+vocab_04 答案
+kklc_0001 日 kanji,0001
+kklc_0002 一 kanji,0002
+kklc_0003 二 kanji,0003
+kklc_0004 三 kanji,0004
+kklc_0005 十 kanji,0005
+kklc_0006 四 kanji,0006
+kklc_0007 五 kanji,0007
+kklc_0008 六 kanji,0008
+kklc_0009 七 kanji,0009
+kklc_0010 八 kanji,0010
+kklc_0011 九 kanji,0011
+kklc_0012 丸 kanji,0012
+kklc_0013 円 kanji,0013
+kklc_0014 〇 kanji,0014
+kklc_0015 人 kanji,0015
+kklc_0016 百 kanji,0016
+kklc_0017 千 kanji,0017
+kklc_0018 万 kanji,0018
+kklc_0019 口 kanji,0019
+kklc_0020 田 kanji,0020
+kklc_0021 目 kanji,0021
+kklc_0022 川 kanji,0022
+kklc_0023 月 kanji,0023
+kklc_0024 明 kanji,0024
+kklc_0025 曜 kanji,0025
+kklc_0026 火 kanji,0026
+kklc_0027 水 kanji,0027
+kklc_0028 木 kanji,0028
+kklc_0029 金 kanji,0029
+kklc_0030 土 kanji,0030
+kklc_0031 本 kanji,0031
+kklc_0032 東 kanji,0032
+kklc_0033 大 kanji,0033
+kklc_0034 小 kanji,0034
+kklc_0035 中 kanji,0035
+kklc_0036 生 kanji,0036
+kklc_0037 山 kanji,0037
+kklc_0038 出 kanji,0038
+kklc_0039 入 kanji,0039
+kklc_0040 下 kanji,0040
+kklc_0041 上 kanji,0041
+kklc_0042 止 kanji,0042
+kklc_0043 正 kanji,0043
+kklc_0044 足 kanji,0044
+kklc_0045 定 kanji,0045
+kklc_0046 手 kanji,0046
+kklc_0047 用 kanji,0047
+kklc_0048 無 kanji,0048
+kklc_0049 不 kanji,0049
+kklc_0050 回 kanji,0050
+kklc_0051 言 kanji,0051
+kklc_0052 舌 kanji,0052
+kklc_0053 話 kanji,0053
+kklc_0054 活 kanji,0054
+kklc_0055 行 kanji,0055
+kklc_0056 心 kanji,0056
+kklc_0057 耳 kanji,0057
+kklc_0058 又 kanji,0058
+kklc_0059 取 kanji,0059
+kklc_0060 身 kanji,0060
+kklc_0061 休 kanji,0061
+kklc_0062 体 kanji,0062
+kklc_0063 信 kanji,0063
+kklc_0064 付 kanji,0064
+kklc_0065 受 kanji,0065
+kklc_0066 以 kanji,0066
+kklc_0067 立 kanji,0067
+kklc_0068 部 kanji,0068
+kklc_0069 倍 kanji,0069
+kklc_0070 成 kanji,0070
+kklc_0071 代 kanji,0071
+kklc_0072 王 kanji,0072
+kklc_0073 玉 kanji,0073
+kklc_0074 宝 kanji,0074
+kklc_0075 国 kanji,0075
+kklc_0076 白 kanji,0076
+kklc_0077 皇 kanji,0077
+kklc_0078 全 kanji,0078
+kklc_0079 書 kanji,0079
+kklc_0080 事 kanji,0080
+kklc_0081 自 kanji,0081
+kklc_0082 貝 kanji,0082
+kklc_0083 見 kanji,0083
+kklc_0084 力 kanji,0084
+kklc_0085 刀 kanji,0085
+kklc_0086 切 kanji,0086
+kklc_0087 刃 kanji,0087
+kklc_0088 分 kanji,0088
+kklc_0089 公 kanji,0089
+kklc_0090 別 kanji,0090
+kklc_0091 長 kanji,0091
+kklc_0092 男 kanji,0092
+kklc_0093 女 kanji,0093
+kklc_0094 子 kanji,0094
+kklc_0095 好 kanji,0095
+kklc_0096 安 kanji,0096
+kklc_0097 案 kanji,0097
+kklc_0098 字 kanji,0098
+kklc_0099 学 kanji,0099
+kklc_0100 父 kanji,0100
+kklc_0101 文 kanji,0101
+kklc_0102 交 kanji,0102
+kklc_0103 校 kanji,0103
+kklc_0104 母 kanji,0104
+kklc_0105 毎 kanji,0105
+kklc_0106 海 kanji,0106
+kklc_0107 者 kanji,0107
+kklc_0108 工 kanji,0108
+kklc_0109 式 kanji,0109
+kklc_0110 弐 kanji,0110
+kklc_0111 武 kanji,0111
+kklc_0112 糸 kanji,0112
+kklc_0113 前 kanji,0113
+kklc_0114 後 kanji,0114
+kklc_0115 午 kanji,0115
+kklc_0116 牛 kanji,0116
+kklc_0117 年 kanji,0117
+kklc_0118 件 kanji,0118
+kklc_0119 条 kanji,0119
+kklc_0120 化 kanji,0120
+kklc_0121 花 kanji,0121
+kklc_0122 北 kanji,0122
+kklc_0123 比 kanji,0123
+kklc_0124 背 kanji,0124
+kklc_0125 車 kanji,0125
+kklc_0126 気 kanji,0126
+kklc_0127 汽 kanji,0127
+kklc_0128 性 kanji,0128
+kklc_0129 畑 kanji,0129
+kklc_0130 青 kanji,0130
+kklc_0131 麦 kanji,0131
+kklc_0132 素 kanji,0132
+kklc_0133 毒 kanji,0133
+kklc_0134 先 kanji,0134
+kklc_0135 洗 kanji,0135
+kklc_0136 元 kanji,0136
+kklc_0137 光 kanji,0137
+kklc_0138 去 kanji,0138
+kklc_0139 法 kanji,0139
+kklc_0140 走 kanji,0140
+kklc_0141 当 kanji,0141
+kklc_0142 思 kanji,0142
+kklc_0143 早 kanji,0143
+kklc_0144 草 kanji,0144
+kklc_0145 朝 kanji,0145
+kklc_0146 潮 kanji,0146
+kklc_0147 形 kanji,0147
+kklc_0148 発 kanji,0148
+kklc_0149 廃 kanji,0149
+kklc_0150 音 kanji,0150
+kklc_0151 意 kanji,0151
+kklc_0152 作 kanji,0152
+kklc_0153 昨 kanji,0153
+kklc_0154 雨 kanji,0154
+kklc_0155 電 kanji,0155
+kklc_0156 頁 kanji,0156
+kklc_0157 首 kanji,0157
+kklc_0158 道 kanji,0158
+kklc_0159 通 kanji,0159
+kklc_0160 乳 kanji,0160
+kklc_0161 豆 kanji,0161
+kklc_0162 頭 kanji,0162
+kklc_0163 予 kanji,0163
+kklc_0164 矛 kanji,0164
+kklc_0165 預 kanji,0165
+kklc_0166 句 kanji,0166
+kklc_0167 旬 kanji,0167
+kklc_0168 勺 kanji,0168
+kklc_0169 的 kanji,0169
+kklc_0170 約 kanji,0170
+kklc_0171 勿 kanji,0171
+kklc_0172 物 kanji,0172
+kklc_0173 方 kanji,0173
+kklc_0174 防 kanji,0174
+kklc_0175 面 kanji,0175
+kklc_0176 画 kanji,0176
+kklc_0177 両 kanji,0177
+kklc_0178 岡 kanji,0178
+kklc_0179 満 kanji,0179
+kklc_0180 顔 kanji,0180
+kklc_0181 産 kanji,0181
+kklc_0182 同 kanji,0182
+kklc_0183 向 kanji,0183
+kklc_0184 尚 kanji,0184
+kklc_0185 高 kanji,0185
+kklc_0186 圧 kanji,0186
+kklc_0187 地 kanji,0187
+kklc_0188 池 kanji,0188
+kklc_0189 他 kanji,0189
+kklc_0190 集 kanji,0190
+kklc_0191 進 kanji,0191
+kklc_0192 込 kanji,0192
+kklc_0193 斤 kanji,0193
+kklc_0194 近 kanji,0194
+kklc_0195 辺 kanji,0195
+kklc_0196 最 kanji,0196
+kklc_0197 皿 kanji,0197
+kklc_0198 血 kanji,0198
+kklc_0199 温 kanji,0199
+kklc_0200 湿 kanji,0200
+kklc_0201 爪 kanji,0201
+kklc_0202 瓜 kanji,0202
+kklc_0203 巾 kanji,0203
+kklc_0204 布 kanji,0204
+kklc_0205 市 kanji,0205
+kklc_0206 吊 kanji,0206
+kklc_0207 泉 kanji,0207
+kklc_0208 原 kanji,0208
+kklc_0209 源 kanji,0209
+kklc_0210 線 kanji,0210
+kklc_0211 綿 kanji,0211
+kklc_0212 絹 kanji,0212
+kklc_0213 錦 kanji,0213
+kklc_0214 願 kanji,0214
+kklc_0215 内 kanji,0215
+kklc_0216 肉 kanji,0216
+kklc_0217 猪 kanji,0217
+kklc_0218 豚 kanji,0218
+kklc_0219 家 kanji,0219
+kklc_0220 吾 kanji,0220
+kklc_0221 我 kanji,0221
+kklc_0222 語 kanji,0222
+kklc_0223 伝 kanji,0223
+kklc_0224 転 kanji,0224
+kklc_0225 芸 kanji,0225
+kklc_0226 会 kanji,0226
+kklc_0227 合 kanji,0227
+kklc_0228 今 kanji,0228
+kklc_0229 令 kanji,0229
+kklc_0230 念 kanji,0230
+kklc_0231 印 kanji,0231
+kklc_0232 命 kanji,0232
+kklc_0233 亡 kanji,0233
+kklc_0234 米 kanji,0234
+kklc_0235 粒 kanji,0235
+kklc_0236 和 kanji,0236
+kklc_0237 私 kanji,0237
+kklc_0238 広 kanji,0238
+kklc_0239 細 kanji,0239
+kklc_0240 林 kanji,0240
+kklc_0241 森 kanji,0241
+kklc_0242 松 kanji,0242
+kklc_0243 竹 kanji,0243
+kklc_0244 都 kanji,0244
+kklc_0245 京 kanji,0245
+kklc_0246 政 kanji,0246
+kklc_0247 府 kanji,0247
+kklc_0248 戸 kanji,0248
+kklc_0249 所 kanji,0249
+kklc_0250 至 kanji,0250
+kklc_0251 致 kanji,0251
+kklc_0252 屋 kanji,0252
+kklc_0253 室 kanji,0253
+kklc_0254 古 kanji,0254
+kklc_0255 居 kanji,0255
+kklc_0256 局 kanji,0256
+kklc_0257 故 kanji,0257
+kklc_0258 胡 kanji,0258
+kklc_0259 湖 kanji,0259
+kklc_0260 固 kanji,0260
+kklc_0261 箇 kanji,0261
+kklc_0262 個 kanji,0262
+kklc_0263 且 kanji,0263
+kklc_0264 組 kanji,0264
+kklc_0265 夕 kanji,0265
+kklc_0266 外 kanji,0266
+kklc_0267 多 kanji,0267
+kklc_0268 汐 kanji,0268
+kklc_0269 名 kanji,0269
+kklc_0270 天 kanji,0270
+kklc_0271 未 kanji,0271
+kklc_0272 末 kanji,0272
+kklc_0273 味 kanji,0273
+kklc_0274 来 kanji,0274
+kklc_0275 新 kanji,0275
+kklc_0276 親 kanji,0276
+kklc_0277 欠 kanji,0277
+kklc_0278 次 kanji,0278
+kklc_0279 席 kanji,0279
+kklc_0280 度 kanji,0280
+kklc_0281 渡 kanji,0281
+kklc_0282 限 kanji,0282
+kklc_0283 銀 kanji,0283
+kklc_0284 根 kanji,0284
+kklc_0285 良 kanji,0285
+kklc_0286 郎 kanji,0286
+kklc_0287 廊 kanji,0287
+kklc_0288 食 kanji,0288
+kklc_0289 飲 kanji,0289
+kklc_0290 官 kanji,0290
+kklc_0291 館 kanji,0291
+kklc_0292 宿 kanji,0292
+kklc_0293 犬 kanji,0293
+kklc_0294 太 kanji,0294
+kklc_0295 器 kanji,0295
+kklc_0296 凶 kanji,0296
+kklc_0297 区 kanji,0297
+kklc_0298 図 kanji,0298
+kklc_0299 番 kanji,0299
+kklc_0300 号 kanji,0300
+kklc_0301 品 kanji,0301
+kklc_0302 楽 kanji,0302
+kklc_0303 薬 kanji,0303
+kklc_0304 周 kanji,0304
+kklc_0305 週 kanji,0305
+kklc_0306 調 kanji,0306
+kklc_0307 束 kanji,0307
+kklc_0308 整 kanji,0308
+kklc_0309 数 kanji,0309
+kklc_0310 類 kanji,0310
+kklc_0311 示 kanji,0311
+kklc_0312 禁 kanji,0312
+kklc_0313 礼 kanji,0313
+kklc_0314 社 kanji,0314
+kklc_0315 申 kanji,0315
+kklc_0316 神 kanji,0316
+kklc_0317 員 kanji,0317
+kklc_0318 質 kanji,0318
+kklc_0319 党 kanji,0319
+kklc_0320 堂 kanji,0320
+kklc_0321 常 kanji,0321
+kklc_0322 賞 kanji,0322
+kklc_0323 償 kanji,0323
+kklc_0324 掌 kanji,0324
+kklc_0325 覚 kanji,0325
+kklc_0326 悟 kanji,0326
+kklc_0327 感 kanji,0327
+kklc_0328 央 kanji,0328
+kklc_0329 映 kanji,0329
+kklc_0330 決 kanji,0330
+kklc_0331 快 kanji,0331
+kklc_0332 英 kanji,0332
+kklc_0333 並 kanji,0333
+kklc_0334 平 kanji,0334
+kklc_0335 半 kanji,0335
+kklc_0336 馬 kanji,0336
+kklc_0337 尺 kanji,0337
+kklc_0338 尽 kanji,0338
+kklc_0339 駅 kanji,0339
+kklc_0340 鳥 kanji,0340
+kklc_0341 島 kanji,0341
+kklc_0342 角 kanji,0342
+kklc_0343 虫 kanji,0343
+kklc_0344 触 kanji,0344
+kklc_0345 解 kanji,0345
+kklc_0346 独 kanji,0346
+kklc_0347 店 kanji,0347
+kklc_0348 占 kanji,0348
+kklc_0349 点 kanji,0349
+kklc_0350 士 kanji,0350
+kklc_0351 商 kanji,0351
+kklc_0352 買 kanji,0352
+kklc_0353 売 kanji,0353
+kklc_0354 続 kanji,0354
+kklc_0355 読 kanji,0355
+kklc_0356 共 kanji,0356
+kklc_0357 供 kanji,0357
+kklc_0358 洪 kanji,0358
+kklc_0359 昔 kanji,0359
+kklc_0360 冬 kanji,0360
+kklc_0361 寒 kanji,0361
+kklc_0362 春 kanji,0362
+kklc_0363 夏 kanji,0363
+kklc_0364 秋 kanji,0364
+kklc_0365 主 kanji,0365
+kklc_0366 住 kanji,0366
+kklc_0367 駐 kanji,0367
+kklc_0368 注 kanji,0368
+kklc_0369 志 kanji,0369
+kklc_0370 誌 kanji,0370
+kklc_0371 仕 kanji,0371
+kklc_0372 任 kanji,0372
+kklc_0373 支 kanji,0373
+kklc_0374 反 kanji,0374
+kklc_0375 坂 kanji,0375
+kklc_0376 阪 kanji,0376
+kklc_0377 飯 kanji,0377
+kklc_0378 返 kanji,0378
+kklc_0379 雑 kanji,0379
+kklc_0380 乱 kanji,0380
+kklc_0381 寸 kanji,0381
+kklc_0382 寺 kanji,0382
+kklc_0383 時 kanji,0383
+kklc_0384 持 kanji,0384
+kklc_0385 特 kanji,0385
+kklc_0386 待 kanji,0386
+kklc_0387 得 kanji,0387
+kklc_0388 侍 kanji,0388
+kklc_0389 詩 kanji,0389
+kklc_0390 即 kanji,0390
+kklc_0391 節 kanji,0391
+kklc_0392 筋 kanji,0392
+kklc_0393 等 kanji,0393
+kklc_0394 均 kanji,0394
+kklc_0395 季 kanji,0395
+kklc_0396 委 kanji,0396
+kklc_0397 穴 kanji,0397
+kklc_0398 空 kanji,0398
+kklc_0399 友 kanji,0399
+kklc_0400 有 kanji,0400
+kklc_0401 左 kanji,0401
+kklc_0402 右 kanji,0402
+kklc_0403 石 kanji,0403
+kklc_0404 若 kanji,0404
+kklc_0405 苦 kanji,0405
+kklc_0406 在 kanji,0406
+kklc_0407 存 kanji,0407
+kklc_0408 干 kanji,0408
+kklc_0409 刊 kanji,0409
+kklc_0410 汗 kanji,0410
+kklc_0411 竿 kanji,0411
+kklc_0412 利 kanji,0412
+kklc_0413 害 kanji,0413
+kklc_0414 益 kanji,0414
+kklc_0415 溢 kanji,0415
+kklc_0416 割 kanji,0416
+kklc_0417 憲 kanji,0417
+kklc_0418 羽 kanji,0418
+kklc_0419 翌 kanji,0419
+kklc_0420 習 kanji,0420
+kklc_0421 弓 kanji,0421
+kklc_0422 引 kanji,0422
+kklc_0423 強 kanji,0423
+kklc_0424 弱 kanji,0424
+kklc_0425 風 kanji,0425
+kklc_0426 己 kanji,0426
+kklc_0427 記 kanji,0427
+kklc_0428 紀 kanji,0428
+kklc_0429 改 kanji,0429
+kklc_0430 起 kanji,0430
+kklc_0431 姓 kanji,0431
+kklc_0432 由 kanji,0432
+kklc_0433 油 kanji,0433
+kklc_0434 井 kanji,0434
+kklc_0435 囲 kanji,0435
+kklc_0436 丼 kanji,0436
+kklc_0437 丁 kanji,0437
+kklc_0438 寧 kanji,0438
+kklc_0439 町 kanji,0439
+kklc_0440 灯 kanji,0440
+kklc_0441 庁 kanji,0441
+kklc_0442 貯 kanji,0442
+kklc_0443 易 kanji,0443
+kklc_0444 賜 kanji,0444
+kklc_0445 場 kanji,0445
+kklc_0446 湯 kanji,0446
+kklc_0447 門 kanji,0447
+kklc_0448 間 kanji,0448
+kklc_0449 閉 kanji,0449
+kklc_0450 開 kanji,0450
+kklc_0451 関 kanji,0451
+kklc_0452 問 kanji,0452
+kklc_0453 聞 kanji,0453
+kklc_0454 訪 kanji,0454
+kklc_0455 送 kanji,0455
+kklc_0456 券 kanji,0456
+kklc_0457 包 kanji,0457
+kklc_0458 巻 kanji,0458
+kklc_0459 圏 kanji,0459
+kklc_0460 勝 kanji,0460
+kklc_0461 戦 kanji,0461
+kklc_0462 単 kanji,0462
+kklc_0463 簡 kanji,0463
+kklc_0464 過 kanji,0464
+kklc_0465 骨 kanji,0465
+kklc_0466 昼 kanji,0466
+kklc_0467 夜 kanji,0467
+kklc_0468 液 kanji,0468
+kklc_0469 戒 kanji,0469
+kklc_0470 幾 kanji,0470
+kklc_0471 畿 kanji,0471
+kklc_0472 磯 kanji,0472
+kklc_0473 機 kanji,0473
+kklc_0474 械 kanji,0474
+kklc_0475 飛 kanji,0475
+kklc_0476 氏 kanji,0476
+kklc_0477 民 kanji,0477
+kklc_0478 紙 kanji,0478
+kklc_0479 低 kanji,0479
+kklc_0480 抵 kanji,0480
+kklc_0481 邸 kanji,0481
+kklc_0482 底 kanji,0482
+kklc_0483 巨 kanji,0483
+kklc_0484 臣 kanji,0484
+kklc_0485 基 kanji,0485
+kklc_0486 期 kanji,0486
+kklc_0487 毛 kanji,0487
+kklc_0488 尾 kanji,0488
+kklc_0489 育 kanji,0489
+kklc_0490 羊 kanji,0490
+kklc_0491 洋 kanji,0491
+kklc_0492 魚 kanji,0492
+kklc_0493 鮮 kanji,0493
+kklc_0494 蘇 kanji,0494
+kklc_0495 詳 kanji,0495
+kklc_0496 祥 kanji,0496
+kklc_0497 美 kanji,0497
+kklc_0498 業 kanji,0498
+kklc_0499 実 kanji,0499
+kklc_0500 養 kanji,0500
+kklc_0501 様 kanji,0501
+kklc_0502 企 kanji,0502
+kklc_0503 曲 kanji,0503
+kklc_0504 典 kanji,0504
+kklc_0505 興 kanji,0505
+kklc_0506 輿 kanji,0506
+kklc_0507 竜 kanji,0507
+kklc_0508 滝 kanji,0508
+kklc_0509 籠 kanji,0509
+kklc_0510 辰 kanji,0510
+kklc_0511 農 kanji,0511
+kklc_0512 濃 kanji,0512
+kklc_0513 豊 kanji,0513
+kklc_0514 吉 kanji,0514
+kklc_0515 詰 kanji,0515
+kklc_0516 結 kanji,0516
+kklc_0517 投 kanji,0517
+kklc_0518 役 kanji,0518
+kklc_0519 没 kanji,0519
+kklc_0520 設 kanji,0520
+kklc_0521 段 kanji,0521
+kklc_0522 殺 kanji,0522
+kklc_0523 刹 kanji,0523
+kklc_0524 刈 kanji,0524
+kklc_0525 絵 kanji,0525
+kklc_0526 給 kanji,0526
+kklc_0527 巴 kanji,0527
+kklc_0528 色 kanji,0528
+kklc_0529 声 kanji,0529
+kklc_0530 眉 kanji,0530
+kklc_0531 里 kanji,0531
+kklc_0532 理 kanji,0532
+kklc_0533 埋 kanji,0533
+kklc_0534 野 kanji,0534
+kklc_0535 黒 kanji,0535
+kklc_0536 墨 kanji,0536
+kklc_0537 童 kanji,0537
+kklc_0538 量 kanji,0538
+kklc_0539 重 kanji,0539
+kklc_0540 動 kanji,0540
+kklc_0541 働 kanji,0541
+kklc_0542 労 kanji,0542
+kklc_0543 協 kanji,0543
+kklc_0544 種 kanji,0544
+kklc_0545 亜 kanji,0545
+kklc_0546 悪 kanji,0546
+kklc_0547 要 kanji,0547
+kklc_0548 価 kanji,0548
+kklc_0549 必 kanji,0549
+kklc_0550 証 kanji,0550
+kklc_0551 歪 kanji,0551
+kklc_0552 否 kanji,0552
+kklc_0553 処 kanji,0553
+kklc_0554 拠 kanji,0554
+kklc_0555 計 kanji,0555
+kklc_0556 針 kanji,0556
+kklc_0557 総 kanji,0557
+kklc_0558 窓 kanji,0558
+kklc_0559 矢 kanji,0559
+kklc_0560 知 kanji,0560
+kklc_0561 医 kanji,0561
+kklc_0562 短 kanji,0562
+kklc_0563 失 kanji,0563
+kklc_0564 鉄 kanji,0564
+kklc_0565 夫 kanji,0565
+kklc_0566 朱 kanji,0566
+kklc_0567 株 kanji,0567
+kklc_0568 族 kanji,0568
+kklc_0569 旅 kanji,0569
+kklc_0570 遊 kanji,0570
+kklc_0571 施 kanji,0571
+kklc_0572 旋 kanji,0572
+kklc_0573 旗 kanji,0573
+kklc_0574 放 kanji,0574
+kklc_0575 激 kanji,0575
+kklc_0576 牧 kanji,0576
+kklc_0577 位 kanji,0577
+kklc_0578 泣 kanji,0578
+kklc_0579 笑 kanji,0579
+kklc_0580 専 kanji,0580
+kklc_0581 恵 kanji,0581
+kklc_0582 連 kanji,0582
+kklc_0583 軍 kanji,0583
+kklc_0584 運 kanji,0584
+kklc_0585 蓮 kanji,0585
+kklc_0586 隊 kanji,0586
+kklc_0587 呈 kanji,0587
+kklc_0588 程 kanji,0588
+kklc_0589 聖 kanji,0589
+kklc_0590 丑 kanji,0590
+kklc_0591 紐 kanji,0591
+kklc_0592 革 kanji,0592
+kklc_0593 靴 kanji,0593
+kklc_0594 鞄 kanji,0594
+kklc_0595 皮 kanji,0595
+kklc_0596 破 kanji,0596
+kklc_0597 彼 kanji,0597
+kklc_0598 波 kanji,0598
+kklc_0599 果 kanji,0599
+kklc_0600 課 kanji,0600
+kklc_0601 巣 kanji,0601
+kklc_0602 菓 kanji,0602
+kklc_0603 茶 kanji,0603
+kklc_0604 世 kanji,0604
+kklc_0605 葉 kanji,0605
+kklc_0606 棄 kanji,0606
+kklc_0607 緑 kanji,0607
+kklc_0608 録 kanji,0608
+kklc_0609 剝 kanji,0609
+kklc_0610 縁 kanji,0610
+kklc_0611 介 kanji,0611
+kklc_0612 界 kanji,0612
+kklc_0613 浮 kanji,0613
+kklc_0614 将 kanji,0614
+kklc_0615 奨 kanji,0615
+kklc_0616 状 kanji,0616
+kklc_0617 病 kanji,0617
+kklc_0618 症 kanji,0618
+kklc_0619 痛 kanji,0619
+kklc_0620 憶 kanji,0620
+kklc_0621 臆 kanji,0621
+kklc_0622 億 kanji,0622
+kklc_0623 視 kanji,0623
+kklc_0624 規 kanji,0624
+kklc_0625 則 kanji,0625
+kklc_0626 側 kanji,0626
+kklc_0627 測 kanji,0627
+kklc_0628 考 kanji,0628
+kklc_0629 老 kanji,0629
+kklc_0630 孝 kanji,0630
+kklc_0631 厚 kanji,0631
+kklc_0632 教 kanji,0632
+kklc_0633 完 kanji,0633
+kklc_0634 院 kanji,0634
+kklc_0635 奈 kanji,0635
+kklc_0636 宗 kanji,0636
+kklc_0637 祭 kanji,0637
+kklc_0638 際 kanji,0638
+kklc_0639 察 kanji,0639
+kklc_0640 祈 kanji,0640
+kklc_0641 祖 kanji,0641
+kklc_0642 助 kanji,0642
+kklc_0643 仲 kanji,0643
+kklc_0644 忠 kanji,0644
+kklc_0645 沖 kanji,0645
+kklc_0646 保 kanji,0646
+kklc_0647 呆 kanji,0647
+kklc_0648 守 kanji,0648
+kklc_0649 団 kanji,0649
+kklc_0650 対 kanji,0650
+kklc_0651 村 kanji,0651
+kklc_0652 才 kanji,0652
+kklc_0653 財 kanji,0653
+kklc_0654 材 kanji,0654
+kklc_0655 沈 kanji,0655
+kklc_0656 枕 kanji,0656
+kklc_0657 丈 kanji,0657
+kklc_0658 杖 kanji,0658
+kklc_0659 偉 kanji,0659
+kklc_0660 緯 kanji,0660
+kklc_0661 衛 kanji,0661
+kklc_0662 韓 kanji,0662
+kklc_0663 違 kanji,0663
+kklc_0664 抱 kanji,0664
+kklc_0665 砲 kanji,0665
+kklc_0666 泡 kanji,0666
+kklc_0667 丹 kanji,0667
+kklc_0668 舟 kanji,0668
+kklc_0669 船 kanji,0669
+kklc_0670 舶 kanji,0670
+kklc_0671 般 kanji,0671
+kklc_0672 搬 kanji,0672
+kklc_0673 盤 kanji,0673
+kklc_0674 歯 kanji,0674
+kklc_0675 冷 kanji,0675
+kklc_0676 齢 kanji,0676
+kklc_0677 少 kanji,0677
+kklc_0678 砂 kanji,0678
+kklc_0679 歩 kanji,0679
+kklc_0680 渉 kanji,0680
+kklc_0681 省 kanji,0681
+kklc_0682 相 kanji,0682
+kklc_0683 想 kanji,0683
+kklc_0684 称 kanji,0684
+kklc_0685 弥 kanji,0685
+kklc_0686 互 kanji,0686
+kklc_0687 務 kanji,0687
+kklc_0688 柔 kanji,0688
+kklc_0689 軟 kanji,0689
+kklc_0690 軌 kanji,0690
+kklc_0691 軒 kanji,0691
+kklc_0692 軸 kanji,0692
+kklc_0693 較 kanji,0693
+kklc_0694 庫 kanji,0694
+kklc_0695 蔵 kanji,0695
+kklc_0696 倉 kanji,0696
+kklc_0697 創 kanji,0697
+kklc_0698 告 kanji,0698
+kklc_0699 造 kanji,0699
+kklc_0700 衣 kanji,0700
+kklc_0701 依 kanji,0701
+kklc_0702 袋 kanji,0702
+kklc_0703 褒 kanji,0703
+kklc_0704 裏 kanji,0704
+kklc_0705 表 kanji,0705
+kklc_0706 現 kanji,0706
+kklc_0707 著 kanji,0707
+kklc_0708 制 kanji,0708
+kklc_0709 製 kanji,0709
+kklc_0710 初 kanji,0710
+kklc_0711 裸 kanji,0711
+kklc_0712 難 kanji,0712
+kklc_0713 准 kanji,0713
+kklc_0714 準 kanji,0714
+kklc_0715 備 kanji,0715
+kklc_0716 死 kanji,0716
+kklc_0717 葬 kanji,0717
+kklc_0718 列 kanji,0718
+kklc_0719 烈 kanji,0719
+kklc_0720 裂 kanji,0720
+kklc_0721 例 kanji,0721
+kklc_0722 刑 kanji,0722
+kklc_0723 型 kanji,0723
+kklc_0724 研 kanji,0724
+kklc_0725 厄 kanji,0725
+kklc_0726 危 kanji,0726
+kklc_0727 範 kanji,0727
+kklc_0728 怨 kanji,0728
+kklc_0729 苑 kanji,0729
+kklc_0730 宛 kanji,0730
+kklc_0731 碗 kanji,0731
+kklc_0732 腕 kanji,0732
+kklc_0733 却 kanji,0733
+kklc_0734 脚 kanji,0734
+kklc_0735 犯 kanji,0735
+kklc_0736 狂 kanji,0736
+kklc_0737 獄 kanji,0737
+kklc_0738 非 kanji,0738
+kklc_0739 排 kanji,0739
+kklc_0740 俳 kanji,0740
+kklc_0741 罪 kanji,0741
+kklc_0742 罰 kanji,0742
+kklc_0743 伴 kanji,0743
+kklc_0744 判 kanji,0744
+kklc_0745 評 kanji,0745
+kklc_0746 批 kanji,0746
+kklc_0747 帥 kanji,0747
+kklc_0748 師 kanji,0748
+kklc_0749 座 kanji,0749
+kklc_0750 坐 kanji,0750
+kklc_0751 卒 kanji,0751
+kklc_0752 率 kanji,0752
+kklc_0753 傘 kanji,0753
+kklc_0754 笠 kanji,0754
+kklc_0755 星 kanji,0755
+kklc_0756 汁 kanji,0756
+kklc_0757 斗 kanji,0757
+kklc_0758 料 kanji,0758
+kklc_0759 科 kanji,0759
+kklc_0760 然 kanji,0760
+kklc_0761 燃 kanji,0761
+kklc_0762 黙 kanji,0762
+kklc_0763 獣 kanji,0763
+kklc_0764 猟 kanji,0764
+kklc_0765 漁 kanji,0765
+kklc_0766 狩 kanji,0766
+kklc_0767 猛 kanji,0767
+kklc_0768 煙 kanji,0768
+kklc_0769 焼 kanji,0769
+kklc_0770 暁 kanji,0770
+kklc_0771 旧 kanji,0771
+kklc_0772 児 kanji,0772
+kklc_0773 亦 kanji,0773
+kklc_0774 赤 kanji,0774
+kklc_0775 変 kanji,0775
+kklc_0776 蛮 kanji,0776
+kklc_0777 恋 kanji,0777
+kklc_0778 愛 kanji,0778
+kklc_0779 憂 kanji,0779
+kklc_0780 優 kanji,0780
+kklc_0781 栗 kanji,0781
+kklc_0782 票 kanji,0782
+kklc_0783 標 kanji,0783
+kklc_0784 漂 kanji,0784
+kklc_0785 遷 kanji,0785
+kklc_0786 各 kanji,0786
+kklc_0787 客 kanji,0787
+kklc_0788 路 kanji,0788
+kklc_0789 格 kanji,0789
+kklc_0790 絡 kanji,0790
+kklc_0791 略 kanji,0791
+kklc_0792 閣 kanji,0792
+kklc_0793 落 kanji,0793
+kklc_0794 南 kanji,0794
+kklc_0795 西 kanji,0795
+kklc_0796 酉 kanji,0796
+kklc_0797 酒 kanji,0797
+kklc_0798 洒 kanji,0798
+kklc_0799 配 kanji,0799
+kklc_0800 酸 kanji,0800
+kklc_0801 猶 kanji,0801
+kklc_0802 尊 kanji,0802
+kklc_0803 遵 kanji,0803
+kklc_0804 導 kanji,0804
+kklc_0805 敬 kanji,0805
+kklc_0806 警 kanji,0806
+kklc_0807 驚 kanji,0807
+kklc_0808 散 kanji,0808
+kklc_0809 敢 kanji,0809
+kklc_0810 厳 kanji,0810
+kklc_0811 仏 kanji,0811
+kklc_0812 払 kanji,0812
+kklc_0813 拡 kanji,0813
+kklc_0814 可 kanji,0814
+kklc_0815 何 kanji,0815
+kklc_0816 苛 kanji,0816
+kklc_0817 荷 kanji,0817
+kklc_0818 河 kanji,0818
+kklc_0819 阿 kanji,0819
+kklc_0820 司 kanji,0820
+kklc_0821 伺 kanji,0821
+kklc_0822 詞 kanji,0822
+kklc_0823 飼 kanji,0823
+kklc_0824 冊 kanji,0824
+kklc_0825 嗣 kanji,0825
+kklc_0826 覗 kanji,0826
+kklc_0827 歌 kanji,0827
+kklc_0828 唄 kanji,0828
+kklc_0829 負 kanji,0829
+kklc_0830 敗 kanji,0830
+kklc_0831 責 kanji,0831
+kklc_0832 積 kanji,0832
+kklc_0833 債 kanji,0833
+kklc_0834 漬 kanji,0834
+kklc_0835 紡 kanji,0835
+kklc_0836 績 kanji,0836
+kklc_0837 具 kanji,0837
+kklc_0838 真 kanji,0838
+kklc_0839 直 kanji,0839
+kklc_0840 植 kanji,0840
+kklc_0841 殖 kanji,0841
+kklc_0842 値 kanji,0842
+kklc_0843 置 kanji,0843
+kklc_0844 県 kanji,0844
+kklc_0845 州 kanji,0845
+kklc_0846 洲 kanji,0846
+kklc_0847 接 kanji,0847
+kklc_0848 継 kanji,0848
+kklc_0849 断 kanji,0849
+kklc_0850 応 kanji,0850
+kklc_0851 床 kanji,0851
+kklc_0852 麻 kanji,0852
+kklc_0853 歴 kanji,0853
+kklc_0854 暦 kanji,0854
+kklc_0855 臨 kanji,0855
+kklc_0856 園 kanji,0856
+kklc_0857 遠 kanji,0857
+kklc_0858 与 kanji,0858
+kklc_0859 写 kanji,0859
+kklc_0860 移 kanji,0860
+kklc_0861 卸 kanji,0861
+kklc_0862 御 kanji,0862
+kklc_0863 複 kanji,0863
+kklc_0864 腹 kanji,0864
+kklc_0865 復 kanji,0865
+kklc_0866 往 kanji,0866
+kklc_0867 柱 kanji,0867
+kklc_0868 征 kanji,0868
+kklc_0869 従 kanji,0869
+kklc_0870 徒 kanji,0870
+kklc_0871 縦 kanji,0871
+kklc_0872 延 kanji,0872
+kklc_0873 伸 kanji,0873
+kklc_0874 紳 kanji,0874
+kklc_0875 縮 kanji,0875
+kklc_0876 誕 kanji,0876
+kklc_0877 廷 kanji,0877
+kklc_0878 庭 kanji,0878
+kklc_0879 艇 kanji,0879
+kklc_0880 展 kanji,0880
+kklc_0881 殿 kanji,0881
+kklc_0882 異 kanji,0882
+kklc_0883 翼 kanji,0883
+kklc_0884 累 kanji,0884
+kklc_0885 塁 kanji,0885
+kklc_0886 吏 kanji,0886
+kklc_0887 使 kanji,0887
+kklc_0888 史 kanji,0888
+kklc_0889 更 kanji,0889
+kklc_0890 便 kanji,0890
+kklc_0891 硬 kanji,0891
+kklc_0892 能 kanji,0892
+kklc_0893 態 kanji,0893
+kklc_0894 熊 kanji,0894
+kklc_0895 罷 kanji,0895
+kklc_0896 羅 kanji,0896
+kklc_0897 雲 kanji,0897
+kklc_0898 曇 kanji,0898
+kklc_0899 雪 kanji,0899
+kklc_0900 雷 kanji,0900
+kklc_0901 零 kanji,0901
+kklc_0902 震 kanji,0902
+kklc_0903 振 kanji,0903
+kklc_0904 久 kanji,0904
+kklc_0905 賑 kanji,0905
+kklc_0906 丘 kanji,0906
+kklc_0907 兵 kanji,0907
+kklc_0908 岳 kanji,0908
+kklc_0909 浜 kanji,0909
+kklc_0910 舎 kanji,0910
+kklc_0911 再 kanji,0911
+kklc_0912 虎 kanji,0912
+kklc_0913 寅 kanji,0913
+kklc_0914 演 kanji,0914
+kklc_0915 黄 kanji,0915
+kklc_0916 横 kanji,0916
+kklc_0917 構 kanji,0917
+kklc_0918 講 kanji,0918
+kklc_0919 購 kanji,0919
+kklc_0920 溝 kanji,0920
+kklc_0921 仮 kanji,0921
+kklc_0922 片 kanji,0922
+kklc_0923 版 kanji,0923
+kklc_0924 板 kanji,0924
+kklc_0925 販 kanji,0925
+kklc_0926 義 kanji,0926
+kklc_0927 議 kanji,0927
+kklc_0928 儀 kanji,0928
+kklc_0929 犠 kanji,0929
+kklc_0930 牲 kanji,0930
+kklc_0931 旨 kanji,0931
+kklc_0932 指 kanji,0932
+kklc_0933 揮 kanji,0933
+kklc_0934 輝 kanji,0934
+kklc_0935 刺 kanji,0935
+kklc_0936 策 kanji,0936
+kklc_0937 差 kanji,0937
+kklc_0938 着 kanji,0938
+kklc_0939 看 kanji,0939
+kklc_0940 到 kanji,0940
+kklc_0941 倒 kanji,0941
+kklc_0942 論 kanji,0942
+kklc_0943 倫 kanji,0943
+kklc_0944 輪 kanji,0944
+kklc_0945 輸 kanji,0945
+kklc_0946 諭 kanji,0946
+kklc_0947 愉 kanji,0947
+kklc_0948 癒 kanji,0948
+kklc_0949 台 kanji,0949
+kklc_0950 治 kanji,0950
+kklc_0951 冶 kanji,0951
+kklc_0952 療 kanji,0952
+kklc_0953 僚 kanji,0953
+kklc_0954 瞭 kanji,0954
+kklc_0955 寮 kanji,0955
+kklc_0956 始 kanji,0956
+kklc_0957 終 kanji,0957
+kklc_0958 了 kanji,0958
+kklc_0959 承 kanji,0959
+kklc_0960 蒸 kanji,0960
+kklc_0961 舞 kanji,0961
+kklc_0962 隣 kanji,0962
+kklc_0963 瞬 kanji,0963
+kklc_0964 夢 kanji,0964
+kklc_0965 枝 kanji,0965
+kklc_0966 技 kanji,0966
+kklc_0967 伎 kanji,0967
+kklc_0968 岐 kanji,0968
+kklc_0969 峠 kanji,0969
+kklc_0970 阜 kanji,0970
+kklc_0971 急 kanji,0971
+kklc_0972 争 kanji,0972
+kklc_0973 情 kanji,0973
+kklc_0974 清 kanji,0974
+kklc_0975 晴 kanji,0975
+kklc_0976 精 kanji,0976
+kklc_0977 請 kanji,0977
+kklc_0978 静 kanji,0978
+kklc_0979 浄 kanji,0979
+kklc_0980 算 kanji,0980
+kklc_0981 答 kanji,0981
+kklc_0982 符 kanji,0982
+kklc_0983 博 kanji,0983
+kklc_0984 縛 kanji,0984
+kklc_0985 簿 kanji,0985
+kklc_0986 薄 kanji,0986
+kklc_0987 采 kanji,0987
+kklc_0988 菜 kanji,0988
+kklc_0989 採 kanji,0989
+kklc_0990 彩 kanji,0990
+kklc_0991 杉 kanji,0991
+kklc_0992 街 kanji,0992
+kklc_0993 術 kanji,0993
+kklc_0994 述 kanji,0994
+kklc_0995 余 kanji,0995
+kklc_0996 除 kanji,0996
+kklc_0997 徐 kanji,0997
+kklc_0998 叙 kanji,0998
+kklc_0999 斜 kanji,0999
+kklc_1000 途 kanji,1000
+kklc_1001 塗 kanji,1001
+kklc_1002 漆 kanji,1002
+kklc_1003 仙 kanji,1003
+kklc_1004 垂 kanji,1004
+kklc_1005 乗 kanji,1005
+kklc_1006 兼 kanji,1006
+kklc_1007 剰 kanji,1007
+kklc_1008 睡 kanji,1008
+kklc_1009 眠 kanji,1009
+kklc_1010 郵 kanji,1010
+kklc_1011 錘 kanji,1011
+kklc_1012 華 kanji,1012
+kklc_1013 侵 kanji,1013
+kklc_1014 浸 kanji,1014
+kklc_1015 寝 kanji,1015
+kklc_1016 掃 kanji,1016
+kklc_1017 婦 kanji,1017
+kklc_1018 帰 kanji,1018
+kklc_1019 戻 kanji,1019
+kklc_1020 涙 kanji,1020
+kklc_1021 射 kanji,1021
+kklc_1022 謝 kanji,1022
+kklc_1023 討 kanji,1023
+kklc_1024 訂 kanji,1024
+kklc_1025 打 kanji,1025
+kklc_1026 撃 kanji,1026
+kklc_1027 拭 kanji,1027
+kklc_1028 試 kanji,1028
+kklc_1029 検 kanji,1029
+kklc_1030 験 kanji,1030
+kklc_1031 険 kanji,1031
+kklc_1032 倹 kanji,1032
+kklc_1033 剣 kanji,1033
+kklc_1034 谷 kanji,1034
+kklc_1035 欲 kanji,1035
+kklc_1036 浴 kanji,1036
+kklc_1037 容 kanji,1037
+kklc_1038 溶 kanji,1038
+kklc_1039 俗 kanji,1039
+kklc_1040 裕 kanji,1040
+kklc_1041 寛 kanji,1041
+kklc_1042 甘 kanji,1042
+kklc_1043 紺 kanji,1043
+kklc_1044 紅 kanji,1044
+kklc_1045 攻 kanji,1045
+kklc_1046 功 kanji,1046
+kklc_1047 巧 kanji,1047
+kklc_1048 朽 kanji,1048
+kklc_1049 枯 kanji,1049
+kklc_1050 汚 kanji,1050
+kklc_1051 升 kanji,1051
+kklc_1052 弁 kanji,1052
+kklc_1053 昇 kanji,1053
+kklc_1054 登 kanji,1054
+kklc_1055 澄 kanji,1055
+kklc_1056 充 kanji,1056
+kklc_1057 銃 kanji,1057
+kklc_1058 統 kanji,1058
+kklc_1059 流 kanji,1059
+kklc_1060 硫 kanji,1060
+kklc_1061 盲 kanji,1061
+kklc_1062 忘 kanji,1062
+kklc_1063 忙 kanji,1063
+kklc_1064 荒 kanji,1064
+kklc_1065 慌 kanji,1065
+kklc_1066 望 kanji,1066
+kklc_1067 希 kanji,1067
+kklc_1068 稀 kanji,1068
+kklc_1069 括 kanji,1069
+kklc_1070 拘 kanji,1070
+kklc_1071 拾 kanji,1071
+kklc_1072 捨 kanji,1072
+kklc_1073 孤 kanji,1073
+kklc_1074 弧 kanji,1074
+kklc_1075 弾 kanji,1075
+kklc_1076 禅 kanji,1076
+kklc_1077 系 kanji,1077
+kklc_1078 係 kanji,1078
+kklc_1079 孫 kanji,1079
+kklc_1080 懸 kanji,1080
+kklc_1081 偏 kanji,1081
+kklc_1082 遍 kanji,1082
+kklc_1083 編 kanji,1083
+kklc_1084 篇 kanji,1084
+kklc_1085 普 kanji,1085
+kklc_1086 譜 kanji,1086
+kklc_1087 職 kanji,1087
+kklc_1088 織 kanji,1088
+kklc_1089 識 kanji,1089
+kklc_1090 殉 kanji,1090
+kklc_1091 退 kanji,1091
+kklc_1092 眼 kanji,1092
+kklc_1093 智 kanji,1093
+kklc_1094 仁 kanji,1094
+kklc_1095 忍 kanji,1095
+kklc_1096 認 kanji,1096
+kklc_1097 求 kanji,1097
+kklc_1098 救 kanji,1098
+kklc_1099 球 kanji,1099
+kklc_1100 屯 kanji,1100
+kklc_1101 純 kanji,1101
+kklc_1102 鈍 kanji,1102
+kklc_1103 召 kanji,1103
+kklc_1104 招 kanji,1104
+kklc_1105 沼 kanji,1105
+kklc_1106 紹 kanji,1106
+kklc_1107 詔 kanji,1107
+kklc_1108 勅 kanji,1108
+kklc_1109 昭 kanji,1109
+kklc_1110 照 kanji,1110
+kklc_1111 超 kanji,1111
+kklc_1112 越 kanji,1112
+kklc_1113 趣 kanji,1113
+kklc_1114 赴 kanji,1114
+kklc_1115 訃 kanji,1115
+kklc_1116 朴 kanji,1116
+kklc_1117 掛 kanji,1117
+kklc_1118 摘 kanji,1118
+kklc_1119 滴 kanji,1119
+kklc_1120 嫡 kanji,1120
+kklc_1121 適 kanji,1121
+kklc_1122 敵 kanji,1122
+kklc_1123 授 kanji,1123
+kklc_1124 援 kanji,1124
+kklc_1125 媛 kanji,1125
+kklc_1126 緩 kanji,1126
+kklc_1127 暖 kanji,1127
+kklc_1128 観 kanji,1128
+kklc_1129 勧 kanji,1129
+kklc_1130 権 kanji,1130
+kklc_1131 歓 kanji,1131
+kklc_1132 鶴 kanji,1132
+kklc_1133 確 kanji,1133
+kklc_1134 慢 kanji,1134
+kklc_1135 漫 kanji,1135
+kklc_1136 卯 kanji,1136
+kklc_1137 抑 kanji,1137
+kklc_1138 仰 kanji,1138
+kklc_1139 迎 kanji,1139
+kklc_1140 柳 kanji,1140
+kklc_1141 卵 kanji,1141
+kklc_1142 疎 kanji,1142
+kklc_1143 速 kanji,1143
+kklc_1144 遅 kanji,1144
+kklc_1145 辻 kanji,1145
+kklc_1146 迅 kanji,1146
+kklc_1147 加 kanji,1147
+kklc_1148 減 kanji,1148
+kklc_1149 滅 kanji,1149
+kklc_1150 威 kanji,1150
+kklc_1151 嚇 kanji,1151
+kklc_1152 或 kanji,1152
+kklc_1153 惑 kanji,1153
+kklc_1154 域 kanji,1154
+kklc_1155 収 kanji,1155
+kklc_1156 納 kanji,1156
+kklc_1157 献 kanji,1157
+kklc_1158 貢 kanji,1158
+kklc_1159 貪 kanji,1159
+kklc_1160 貰 kanji,1160
+kklc_1161 貧 kanji,1161
+kklc_1162 賃 kanji,1162
+kklc_1163 貸 kanji,1163
+kklc_1164 貨 kanji,1164
+kklc_1165 資 kanji,1165
+kklc_1166 賛 kanji,1166
+kklc_1167 替 kanji,1167
+kklc_1168 潜 kanji,1168
+kklc_1169 貿 kanji,1169
+kklc_1170 留 kanji,1170
+kklc_1171 溜 kanji,1171
+kklc_1172 賀 kanji,1172
+kklc_1173 架 kanji,1173
+kklc_1174 染 kanji,1174
+kklc_1175 梨 kanji,1175
+kklc_1176 傑 kanji,1176
+kklc_1177 貴 kanji,1177
+kklc_1178 潰 kanji,1178
+kklc_1179 遺 kanji,1179
+kklc_1180 遣 kanji,1180
+kklc_1181 追 kanji,1181
+kklc_1182 迫 kanji,1182
+kklc_1183 泊 kanji,1183
+kklc_1184 伯 kanji,1184
+kklc_1185 拍 kanji,1185
+kklc_1186 弔 kanji,1186
+kklc_1187 沸 kanji,1187
+kklc_1188 煮 kanji,1188
+kklc_1189 費 kanji,1189
+kklc_1190 弟 kanji,1190
+kklc_1191 第 kanji,1191
+kklc_1192 剃 kanji,1192
+kklc_1193 兄 kanji,1193
+kklc_1194 只 kanji,1194
+kklc_1195 税 kanji,1195
+kklc_1196 鋭 kanji,1196
+kklc_1197 説 kanji,1197
+kklc_1198 脱 kanji,1198
+kklc_1199 閲 kanji,1199
+kklc_1200 祝 kanji,1200
+kklc_1201 況 kanji,1201
+kklc_1202 悦 kanji,1202
+kklc_1203 克 kanji,1203
+kklc_1204 競 kanji,1204
+kklc_1205 姉 kanji,1205
+kklc_1206 妹 kanji,1206
+kklc_1207 珠 kanji,1207
+kklc_1208 殊 kanji,1208
+kklc_1209 序 kanji,1209
+kklc_1210 秩 kanji,1210
+kklc_1211 迭 kanji,1211
+kklc_1212 喜 kanji,1212
+kklc_1213 善 kanji,1213
+kklc_1214 繕 kanji,1214
+kklc_1215 膳 kanji,1215
+kklc_1216 憾 kanji,1216
+kklc_1217 恨 kanji,1217
+kklc_1218 惜 kanji,1218
+kklc_1219 措 kanji,1219
+kklc_1220 借 kanji,1220
+kklc_1221 錯 kanji,1221
+kklc_1222 曽 kanji,1222
+kklc_1223 増 kanji,1223
+kklc_1224 層 kanji,1224
+kklc_1225 憎 kanji,1225
+kklc_1226 僧 kanji,1226
+kklc_1227 贈 kanji,1227
+kklc_1228 賄 kanji,1228
+kklc_1229 賂 kanji,1229
+kklc_1230 賦 kanji,1230
+kklc_1231 賊 kanji,1231
+kklc_1232 帯 kanji,1232
+kklc_1233 滞 kanji,1233
+kklc_1234 渋 kanji,1234
+kklc_1235 摂 kanji,1235
+kklc_1236 為 kanji,1236
+kklc_1237 偽 kanji,1237
+kklc_1238 参 kanji,1238
+kklc_1239 惨 kanji,1239
+kklc_1240 呂 kanji,1240
+kklc_1241 侶 kanji,1241
+kklc_1242 宮 kanji,1242
+kklc_1243 営 kanji,1243
+kklc_1244 蛍 kanji,1244
+kklc_1245 栄 kanji,1245
+kklc_1246 誉 kanji,1246
+kklc_1247 挙 kanji,1247
+kklc_1248 拳 kanji,1248
+kklc_1249 桜 kanji,1249
+kklc_1250 妥 kanji,1250
+kklc_1251 咲 kanji,1251
+kklc_1252 朕 kanji,1252
+kklc_1253 茎 kanji,1253
+kklc_1254 径 kanji,1254
+kklc_1255 怪 kanji,1255
+kklc_1256 軽 kanji,1256
+kklc_1257 経 kanji,1257
+kklc_1258 斉 kanji,1258
+kklc_1259 斎 kanji,1259
+kklc_1260 済 kanji,1260
+kklc_1261 剤 kanji,1261
+kklc_1262 剖 kanji,1262
+kklc_1263 陪 kanji,1263
+kklc_1264 培 kanji,1264
+kklc_1265 賠 kanji,1265
+kklc_1266 貼 kanji,1266
+kklc_1267 粘 kanji,1267
+kklc_1268 衡 kanji,1268
+kklc_1269 換 kanji,1269
+kklc_1270 喚 kanji,1270
+kklc_1271 絶 kanji,1271
+kklc_1272 免 kanji,1272
+kklc_1273 逸 kanji,1273
+kklc_1274 勉 kanji,1274
+kklc_1275 晩 kanji,1275
+kklc_1276 許 kanji,1276
+kklc_1277 象 kanji,1277
+kklc_1278 像 kanji,1278
+kklc_1279 彫 kanji,1279
+kklc_1280 景 kanji,1280
+kklc_1281 影 kanji,1281
+kklc_1282 撮 kanji,1282
+kklc_1283 就 kanji,1283
+kklc_1284 涼 kanji,1284
+kklc_1285 鯨 kanji,1285
+kklc_1286 隔 kanji,1286
+kklc_1287 融 kanji,1287
+kklc_1288 肖 kanji,1288
+kklc_1289 消 kanji,1289
+kklc_1290 硝 kanji,1290
+kklc_1291 梢 kanji,1291
+kklc_1292 削 kanji,1292
+kklc_1293 宵 kanji,1293
+kklc_1294 宴 kanji,1294
+kklc_1295 郷 kanji,1295
+kklc_1296 饗 kanji,1296
+kklc_1297 響 kanji,1297
+kklc_1298 城 kanji,1298
+kklc_1299 誠 kanji,1299
+kklc_1300 盛 kanji,1300
+kklc_1301 旺 kanji,1301
+kklc_1302 盆 kanji,1302
+kklc_1303 蓋 kanji,1303
+kklc_1304 盗 kanji,1304
+kklc_1305 盟 kanji,1305
+kklc_1306 塩 kanji,1306
+kklc_1307 傷 kanji,1307
+kklc_1308 揚 kanji,1308
+kklc_1309 暢 kanji,1309
+kklc_1310 陽 kanji,1310
+kklc_1311 陰 kanji,1311
+kklc_1312 隠 kanji,1312
+kklc_1313 穏 kanji,1313
+kklc_1314 穂 kanji,1314
+kklc_1315 稲 kanji,1315
+kklc_1316 愁 kanji,1316
+kklc_1317 裁 kanji,1317
+kklc_1318 載 kanji,1318
+kklc_1319 栽 kanji,1319
+kklc_1320 赦 kanji,1320
+kklc_1321 跡 kanji,1321
+kklc_1322 踪 kanji,1322
+kklc_1323 痕 kanji,1323
+kklc_1324 蹴 kanji,1324
+kklc_1325 踊 kanji,1325
+kklc_1326 踏 kanji,1326
+kklc_1327 躍 kanji,1327
+kklc_1328 濯 kanji,1328
+kklc_1329 奇 kanji,1329
+kklc_1330 寄 kanji,1330
+kklc_1331 騎 kanji,1331
+kklc_1332 椅 kanji,1332
+kklc_1333 崎 kanji,1333
+kklc_1334 埼 kanji,1334
+kklc_1335 岬 kanji,1335
+kklc_1336 模 kanji,1336
+kklc_1337 膜 kanji,1337
+kklc_1338 漠 kanji,1338
+kklc_1339 幕 kanji,1339
+kklc_1340 墓 kanji,1340
+kklc_1341 募 kanji,1341
+kklc_1342 暮 kanji,1342
+kklc_1343 慕 kanji,1343
+kklc_1344 添 kanji,1344
+kklc_1345 恭 kanji,1345
+kklc_1346 暴 kanji,1346
+kklc_1347 爆 kanji,1347
+kklc_1348 沿 kanji,1348
+kklc_1349 礎 kanji,1349
+kklc_1350 疑 kanji,1350
+kklc_1351 凝 kanji,1351
+kklc_1352 擬 kanji,1352
+kklc_1353 倣 kanji,1353
+kklc_1354 似 kanji,1354
+kklc_1355 俵 kanji,1355
+kklc_1356 俺 kanji,1356
+kklc_1357 庵 kanji,1357
+kklc_1358 僕 kanji,1358
+kklc_1359 撲 kanji,1359
+kklc_1360 叩 kanji,1360
+kklc_1361 伐 kanji,1361
+kklc_1362 閥 kanji,1362
+kklc_1363 闘 kanji,1363
+kklc_1364 闇 kanji,1364
+kklc_1365 閑 kanji,1365
+kklc_1366 脈 kanji,1366
+kklc_1367 派 kanji,1367
+kklc_1368 缶 kanji,1368
+kklc_1369 揺 kanji,1369
+kklc_1370 謡 kanji,1370
+kklc_1371 遥 kanji,1371
+kklc_1372 陶 kanji,1372
+kklc_1373 陳 kanji,1373
+kklc_1374 陣 kanji,1374
+kklc_1375 陥 kanji,1375
+kklc_1376 隆 kanji,1376
+kklc_1377 降 kanji,1377
+kklc_1378 峰 kanji,1378
+kklc_1379 逢 kanji,1379
+kklc_1380 縫 kanji,1380
+kklc_1381 蜂 kanji,1381
+kklc_1382 蜜 kanji,1382
+kklc_1383 密 kanji,1383
+kklc_1384 秘 kanji,1384
+kklc_1385 欧 kanji,1385
+kklc_1386 枢 kanji,1386
+kklc_1387 殴 kanji,1387
+kklc_1388 駆 kanji,1388
+kklc_1389 馳 kanji,1389
+kklc_1390 騒 kanji,1390
+kklc_1391 旭 kanji,1391
+kklc_1392 旦 kanji,1392
+kklc_1393 但 kanji,1393
+kklc_1394 担 kanji,1394
+kklc_1395 亘 kanji,1395
+kklc_1396 恒 kanji,1396
+kklc_1397 垣 kanji,1397
+kklc_1398 宣 kanji,1398
+kklc_1399 喧 kanji,1399
+kklc_1400 嘩 kanji,1400
+kklc_1401 唾 kanji,1401
+kklc_1402 壷 kanji,1402
+kklc_1403 坪 kanji,1403
+kklc_1404 畔 kanji,1404
+kklc_1405 衆 kanji,1405
+kklc_1406 伊 kanji,1406
+kklc_1407 君 kanji,1407
+kklc_1408 群 kanji,1408
+kklc_1409 郡 kanji,1409
+kklc_1410 那 kanji,1410
+kklc_1411 邦 kanji,1411
+kklc_1412 郊 kanji,1412
+kklc_1413 効 kanji,1413
+kklc_1414 絞 kanji,1414
+kklc_1415 搾 kanji,1415
+kklc_1416 紋 kanji,1416
+kklc_1417 菊 kanji,1417
+kklc_1418 帝 kanji,1418
+kklc_1419 締 kanji,1419
+kklc_1420 諦 kanji,1420
+kklc_1421 享 kanji,1421
+kklc_1422 郭 kanji,1422
+kklc_1423 亭 kanji,1423
+kklc_1424 停 kanji,1424
+kklc_1425 昆 kanji,1425
+kklc_1426 混 kanji,1426
+kklc_1427 皆 kanji,1427
+kklc_1428 楷 kanji,1428
+kklc_1429 諧 kanji,1429
+kklc_1430 階 kanji,1430
+kklc_1431 陛 kanji,1431
+kklc_1432 陸 kanji,1432
+kklc_1433 睦 kanji,1433
+kklc_1434 勢 kanji,1434
+kklc_1435 熱 kanji,1435
+kklc_1436 熟 kanji,1436
+kklc_1437 塾 kanji,1437
+kklc_1438 陵 kanji,1438
+kklc_1439 菱 kanji,1439
+kklc_1440 俊 kanji,1440
+kklc_1441 唆 kanji,1441
+kklc_1442 筈 kanji,1442
+kklc_1443 箸 kanji,1443
+kklc_1444 暑 kanji,1444
+kklc_1445 署 kanji,1445
+kklc_1446 曙 kanji,1446
+kklc_1447 賭 kanji,1447
+kklc_1448 諸 kanji,1448
+kklc_1449 儲 kanji,1449
+kklc_1450 緒 kanji,1450
+kklc_1451 翁 kanji,1451
+kklc_1452 婆 kanji,1452
+kklc_1453 姿 kanji,1453
+kklc_1454 恣 kanji,1454
+kklc_1455 妄 kanji,1455
+kklc_1456 萎 kanji,1456
+kklc_1457 妻 kanji,1457
+kklc_1458 凄 kanji,1458
+kklc_1459 章 kanji,1459
+kklc_1460 彰 kanji,1460
+kklc_1461 障 kanji,1461
+kklc_1462 辛 kanji,1462
+kklc_1463 宰 kanji,1463
+kklc_1464 辣 kanji,1464
+kklc_1465 辞 kanji,1465
+kklc_1466 壁 kanji,1466
+kklc_1467 璧 kanji,1467
+kklc_1468 癖 kanji,1468
+kklc_1469 避 kanji,1469
+kklc_1470 幸 kanji,1470
+kklc_1471 服 kanji,1471
+kklc_1472 報 kanji,1472
+kklc_1473 執 kanji,1473
+kklc_1474 摯 kanji,1474
+kklc_1475 達 kanji,1475
+kklc_1476 朗 kanji,1476
+kklc_1477 浪 kanji,1477
+kklc_1478 呉 kanji,1478
+kklc_1479 娯 kanji,1479
+kklc_1480 誤 kanji,1480
+kklc_1481 富 kanji,1481
+kklc_1482 副 kanji,1482
+kklc_1483 幅 kanji,1483
+kklc_1484 福 kanji,1484
+kklc_1485 祉 kanji,1485
+kklc_1486 禍 kanji,1486
+kklc_1487 渦 kanji,1487
+kklc_1488 鍋 kanji,1488
+kklc_1489 蘭 kanji,1489
+kklc_1490 欄 kanji,1490
+kklc_1491 潤 kanji,1491
+kklc_1492 淵 kanji,1492
+kklc_1493 滑 kanji,1493
+kklc_1494 稽 kanji,1494
+kklc_1495 肩 kanji,1495
+kklc_1496 脅 kanji,1496
+kklc_1497 肯 kanji,1497
+kklc_1498 双 kanji,1498
+kklc_1499 江 kanji,1499
+kklc_1500 湾 kanji,1500
+kklc_1501 港 kanji,1501
+kklc_1502 選 kanji,1502
+kklc_1503 択 kanji,1503
+kklc_1504 沢 kanji,1504
+kklc_1505 訳 kanji,1505
+kklc_1506 釈 kanji,1506
+kklc_1507 敷 kanji,1507
+kklc_1508 傲 kanji,1508
+kklc_1509 贅 kanji,1509
+kklc_1510 審 kanji,1510
+kklc_1511 藩 kanji,1511
+kklc_1512 翻 kanji,1512
+kklc_1513 翔 kanji,1513
+kklc_1514 査 kanji,1514
+kklc_1515 租 kanji,1515
+kklc_1516 粗 kanji,1516
+kklc_1517 阻 kanji,1517
+kklc_1518 狙 kanji,1518
+kklc_1519 宜 kanji,1519
+kklc_1520 畳 kanji,1520
+kklc_1521 甲 kanji,1521
+kklc_1522 乙 kanji,1522
+kklc_1523 丙 kanji,1523
+kklc_1524 柄 kanji,1524
+kklc_1525 押 kanji,1525
+kklc_1526 抽 kanji,1526
+kklc_1527 捜 kanji,1527
+kklc_1528 届 kanji,1528
+kklc_1529 宙 kanji,1529
+kklc_1530 笛 kanji,1530
+kklc_1531 袖 kanji,1531
+kklc_1532 襟 kanji,1532
+kklc_1533 衿 kanji,1533
+kklc_1534 裾 kanji,1534
+kklc_1535 据 kanji,1535
+kklc_1536 握 kanji,1536
+kklc_1537 揃 kanji,1537
+kklc_1538 撫 kanji,1538
+kklc_1539 託 kanji,1539
+kklc_1540 宅 kanji,1540
+kklc_1541 詫 kanji,1541
+kklc_1542 宇 kanji,1542
+kklc_1543 芋 kanji,1543
+kklc_1544 寿 kanji,1544
+kklc_1545 鋳 kanji,1545
+kklc_1546 銘 kanji,1546
+kklc_1547 鏡 kanji,1547
+kklc_1548 境 kanji,1548
+kklc_1549 環 kanji,1549
+kklc_1550 還 kanji,1550
+kklc_1551 盾 kanji,1551
+kklc_1552 循 kanji,1552
+kklc_1553 巡 kanji,1553
+kklc_1554 這 kanji,1554
+kklc_1555 逓 kanji,1555
+kklc_1556 息 kanji,1556
+kklc_1557 憩 kanji,1557
+kklc_1558 鼻 kanji,1558
+kklc_1559 孔 kanji,1559
+kklc_1560 臭 kanji,1560
+kklc_1561 嗅 kanji,1561
+kklc_1562 奥 kanji,1562
+kklc_1563 尖 kanji,1563
+kklc_1564 突 kanji,1564
+kklc_1565 窒 kanji,1565
+kklc_1566 窃 kanji,1566
+kklc_1567 衝 kanji,1567
+kklc_1568 契 kanji,1568
+kklc_1569 喫 kanji,1569
+kklc_1570 潔 kanji,1570
+kklc_1571 侮 kanji,1571
+kklc_1572 梅 kanji,1572
+kklc_1573 悔 kanji,1573
+kklc_1574 敏 kanji,1574
+kklc_1575 繁 kanji,1575
+kklc_1576 繋 kanji,1576
+kklc_1577 茂 kanji,1577
+kklc_1578 橋 kanji,1578
+kklc_1579 矯 kanji,1579
+kklc_1580 稿 kanji,1580
+kklc_1581 縞 kanji,1581
+kklc_1582 箋 kanji,1582
+kklc_1583 残 kanji,1583
+kklc_1584 桟 kanji,1584
+kklc_1585 銭 kanji,1585
+kklc_1586 践 kanji,1586
+kklc_1587 浅 kanji,1587
+kklc_1588 洩 kanji,1588
+kklc_1589 壮 kanji,1589
+kklc_1590 荘 kanji,1590
+kklc_1591 装 kanji,1591
+kklc_1592 冥 kanji,1592
+kklc_1593 暗 kanji,1593
+kklc_1594 韻 kanji,1594
+kklc_1595 損 kanji,1595
+kklc_1596 捕 kanji,1596
+kklc_1597 挿 kanji,1597
+kklc_1598 補 kanji,1598
+kklc_1599 浦 kanji,1599
+kklc_1600 哺 kanji,1600
+kklc_1601 舗 kanji,1601
+kklc_1602 掴 kanji,1602
+kklc_1603 捉 kanji,1603
+kklc_1604 促 kanji,1604
+kklc_1605 筆 kanji,1605
+kklc_1606 津 kanji,1606
+kklc_1607 律 kanji,1607
+kklc_1608 逮 kanji,1608
+kklc_1609 建 kanji,1609
+kklc_1610 健 kanji,1610
+kklc_1611 康 kanji,1611
+kklc_1612 庸 kanji,1612
+kklc_1613 粛 kanji,1613
+kklc_1614 繍 kanji,1614
+kklc_1615 唐 kanji,1615
+kklc_1616 糖 kanji,1616
+kklc_1617 粧 kanji,1617
+kklc_1618 糧 kanji,1618
+kklc_1619 粉 kanji,1619
+kklc_1620 紛 kanji,1620
+kklc_1621 糾 kanji,1621
+kklc_1622 粋 kanji,1622
+kklc_1623 砕 kanji,1623
+kklc_1624 枠 kanji,1624
+kklc_1625 酔 kanji,1625
+kklc_1626 醒 kanji,1626
+kklc_1627 酬 kanji,1627
+kklc_1628 酷 kanji,1628
+kklc_1629 凡 kanji,1629
+kklc_1630 凧 kanji,1630
+kklc_1631 帆 kanji,1631
+kklc_1632 汎 kanji,1632
+kklc_1633 恐 kanji,1633
+kklc_1634 怖 kanji,1634
+kklc_1635 築 kanji,1635
+kklc_1636 尋 kanji,1636
+kklc_1637 訊 kanji,1637
+kklc_1638 諮 kanji,1638
+kklc_1639 抗 kanji,1639
+kklc_1640 航 kanji,1640
+kklc_1641 坑 kanji,1641
+kklc_1642 拝 kanji,1642
+kklc_1643 耕 kanji,1643
+kklc_1644 耗 kanji,1644
+kklc_1645 崇 kanji,1645
+kklc_1646 灰 kanji,1646
+kklc_1647 炭 kanji,1647
+kklc_1648 岸 kanji,1648
+kklc_1649 岩 kanji,1649
+kklc_1650 崩 kanji,1650
+kklc_1651 嵐 kanji,1651
+kklc_1652 崖 kanji,1652
+kklc_1653 催 kanji,1653
+kklc_1654 焦 kanji,1654
+kklc_1655 礁 kanji,1655
+kklc_1656 奮 kanji,1656
+kklc_1657 奪 kanji,1657
+kklc_1658 隻 kanji,1658
+kklc_1659 獲 kanji,1659
+kklc_1660 穫 kanji,1660
+kklc_1661 護 kanji,1661
+kklc_1662 譲 kanji,1662
+kklc_1663 嬢 kanji,1663
+kklc_1664 醸 kanji,1664
+kklc_1665 壌 kanji,1665
+kklc_1666 壊 kanji,1666
+kklc_1667 懐 kanji,1667
+kklc_1668 徳 kanji,1668
+kklc_1669 聴 kanji,1669
+kklc_1670 恥 kanji,1670
+kklc_1671 羞 kanji,1671
+kklc_1672 爵 kanji,1672
+kklc_1673 侯 kanji,1673
+kklc_1674 喉 kanji,1674
+kklc_1675 候 kanji,1675
+kklc_1676 修 kanji,1676
+kklc_1677 悠 kanji,1677
+kklc_1678 是 kanji,1678
+kklc_1679 提 kanji,1679
+kklc_1680 堤 kanji,1680
+kklc_1681 題 kanji,1681
+kklc_1682 匙 kanji,1682
+kklc_1683 冒 kanji,1683
+kklc_1684 昌 kanji,1684
+kklc_1685 唱 kanji,1685
+kklc_1686 晶 kanji,1686
+kklc_1687 帽 kanji,1687
+kklc_1688 棟 kanji,1688
+kklc_1689 凍 kanji,1689
+kklc_1690 氷 kanji,1690
+kklc_1691 永 kanji,1691
+kklc_1692 泳 kanji,1692
+kklc_1693 詠 kanji,1693
+kklc_1694 札 kanji,1694
+kklc_1695 枚 kanji,1695
+kklc_1696 杯 kanji,1696
+kklc_1697 析 kanji,1697
+kklc_1698 折 kanji,1698
+kklc_1699 挫 kanji,1699
+kklc_1700 捻 kanji,1700
+kklc_1701 誓 kanji,1701
+kklc_1702 逝 kanji,1702
+kklc_1703 哲 kanji,1703
+kklc_1704 斬 kanji,1704
+kklc_1705 漸 kanji,1705
+kklc_1706 暫 kanji,1706
+kklc_1707 斥 kanji,1707
+kklc_1708 訴 kanji,1708
+kklc_1709 訟 kanji,1709
+kklc_1710 究 kanji,1710
+kklc_1711 窮 kanji,1711
+kklc_1712 極 kanji,1712
+kklc_1713 函 kanji,1713
+kklc_1714 探 kanji,1714
+kklc_1715 深 kanji,1715
+kklc_1716 慄 kanji,1716
+kklc_1717 惧 kanji,1717
+kklc_1718 慎 kanji,1718
+kklc_1719 鎮 kanji,1719
+kklc_1720 塡 kanji,1720
+kklc_1721 婚 kanji,1721
+kklc_1722 囚 kanji,1722
+kklc_1723 困 kanji,1723
+kklc_1724 梱 kanji,1724
+kklc_1725 因 kanji,1725
+kklc_1726 姻 kanji,1726
+kklc_1727 咽 kanji,1727
+kklc_1728 恩 kanji,1728
+kklc_1729 菌 kanji,1729
+kklc_1730 漢 kanji,1730
+kklc_1731 嘆 kanji,1731
+kklc_1732 勤 kanji,1732
+kklc_1733 謹 kanji,1733
+kklc_1734 僅 kanji,1734
+kklc_1735 索 kanji,1735
+kklc_1736 牽 kanji,1736
+kklc_1737 牢 kanji,1737
+kklc_1738 啓 kanji,1738
+kklc_1739 庶 kanji,1739
+kklc_1740 遮 kanji,1740
+kklc_1741 燕 kanji,1741
+kklc_1742 雀 kanji,1742
+kklc_1743 劣 kanji,1743
+kklc_1744 抄 kanji,1744
+kklc_1745 秒 kanji,1745
+kklc_1746 妙 kanji,1746
+kklc_1747 沙 kanji,1747
+kklc_1748 汰 kanji,1748
+kklc_1749 煎 kanji,1749
+kklc_1750 炒 kanji,1750
+kklc_1751 炊 kanji,1751
+kklc_1752 焚 kanji,1752
+kklc_1753 薪 kanji,1753
+kklc_1754 乃 kanji,1754
+kklc_1755 之 kanji,1755
+kklc_1756 此 kanji,1756
+kklc_1757 其 kanji,1757
+kklc_1758 乏 kanji,1758
+kklc_1759 芝 kanji,1759
+kklc_1760 及 kanji,1760
+kklc_1761 扱 kanji,1761
+kklc_1762 級 kanji,1762
+kklc_1763 吸 kanji,1763
+kklc_1764 吹 kanji,1764
+kklc_1765 呼 kanji,1765
+kklc_1766 吐 kanji,1766
+kklc_1767 叶 kanji,1767
+kklc_1768 叱 kanji,1768
+kklc_1769 叫 kanji,1769
+kklc_1770 吟 kanji,1770
+kklc_1771 含 kanji,1771
+kklc_1772 琴 kanji,1772
+kklc_1773 迷 kanji,1773
+kklc_1774 謎 kanji,1774
+kklc_1775 逆 kanji,1775
+kklc_1776 遡 kanji,1776
+kklc_1777 塑 kanji,1777
+kklc_1778 勲 kanji,1778
+kklc_1779 薫 kanji,1779
+kklc_1780 芳 kanji,1780
+kklc_1781 香 kanji,1781
+kklc_1782 秀 kanji,1782
+kklc_1783 誘 kanji,1783
+kklc_1784 拐 kanji,1784
+kklc_1785 透 kanji,1785
+kklc_1786 携 kanji,1786
+kklc_1787 雄 kanji,1787
+kklc_1788 雌 kanji,1788
+kklc_1789 些 kanji,1789
+kklc_1790 柴 kanji,1790
+kklc_1791 紫 kanji,1791
+kklc_1792 髪 kanji,1792
+kklc_1793 髭 kanji,1793
+kklc_1794 詐 kanji,1794
+kklc_1795 欺 kanji,1795
+kklc_1796 棋 kanji,1796
+kklc_1797 碁 kanji,1797
+kklc_1798 甚 kanji,1798
+kklc_1799 勘 kanji,1799
+kklc_1800 堪 kanji,1800
+kklc_1801 匹 kanji,1801
+kklc_1802 匠 kanji,1802
+kklc_1803 匿 kanji,1803
+kklc_1804 諾 kanji,1804
+kklc_1805 乞 kanji,1805
+kklc_1806 迄 kanji,1806
+kklc_1807 乾 kanji,1807
+kklc_1808 幹 kanji,1808
+kklc_1809 操 kanji,1809
+kklc_1810 燥 kanji,1810
+kklc_1811 繰 kanji,1811
+kklc_1812 藻 kanji,1812
+kklc_1813 噴 kanji,1813
+kklc_1814 墳 kanji,1814
+kklc_1815 憤 kanji,1815
+kklc_1816 牙 kanji,1816
+kklc_1817 芽 kanji,1817
+kklc_1818 雅 kanji,1818
+kklc_1819 邪 kanji,1819
+kklc_1820 既 kanji,1820
+kklc_1821 概 kanji,1821
+kklc_1822 慨 kanji,1822
+kklc_1823 苗 kanji,1823
+kklc_1824 描 kanji,1824
+kklc_1825 猫 kanji,1825
+kklc_1826 萌 kanji,1826
+kklc_1827 兆 kanji,1827
+kklc_1828 眺 kanji,1828
+kklc_1829 逃 kanji,1829
+kklc_1830 桃 kanji,1830
+kklc_1831 跳 kanji,1831
+kklc_1832 挑 kanji,1832
+kklc_1833 拙 kanji,1833
+kklc_1834 屈 kanji,1834
+kklc_1835 掘 kanji,1835
+kklc_1836 堀 kanji,1836
+kklc_1837 封 kanji,1837
+kklc_1838 筒 kanji,1838
+kklc_1839 管 kanji,1839
+kklc_1840 棺 kanji,1840
+kklc_1841 轄 kanji,1841
+kklc_1842 洞 kanji,1842
+kklc_1843 窟 kanji,1843
+kklc_1844 淫 kanji,1844
+kklc_1845 妊 kanji,1845
+kklc_1846 娠 kanji,1846
+kklc_1847 唇 kanji,1847
+kklc_1848 辱 kanji,1848
+kklc_1849 襲 kanji,1849
+kklc_1850 伏 kanji,1850
+kklc_1851 吠 kanji,1851
+kklc_1852 噛 kanji,1852
+kklc_1853 班 kanji,1853
+kklc_1854 斑 kanji,1854
+kklc_1855 輩 kanji,1855
+kklc_1856 悲 kanji,1856
+kklc_1857 忽 kanji,1857
+kklc_1858 惚 kanji,1858
+kklc_1859 猿 kanji,1859
+kklc_1860 哀 kanji,1860
+kklc_1861 衰 kanji,1861
+kklc_1862 衷 kanji,1862
+kklc_1863 喪 kanji,1863
+kklc_1864 忌 kanji,1864
+kklc_1865 卓 kanji,1865
+kklc_1866 悼 kanji,1866
+kklc_1867 貞 kanji,1867
+kklc_1868 偵 kanji,1868
+kklc_1869 覇 kanji,1869
+kklc_1870 覆 kanji,1870
+kklc_1871 履 kanji,1871
+kklc_1872 属 kanji,1872
+kklc_1873 嘱 kanji,1873
+kklc_1874 偶 kanji,1874
+kklc_1875 隅 kanji,1875
+kklc_1876 隙 kanji,1876
+kklc_1877 遇 kanji,1877
+kklc_1878 愚 kanji,1878
+kklc_1879 曹 kanji,1879
+kklc_1880 遭 kanji,1880
+kklc_1881 槽 kanji,1881
+kklc_1882 妨 kanji,1882
+kklc_1883 坊 kanji,1883
+kklc_1884 傍 kanji,1884
+kklc_1885 於 kanji,1885
+kklc_1886 房 kanji,1886
+kklc_1887 扇 kanji,1887
+kklc_1888 扉 kanji,1888
+kklc_1889 雇 kanji,1889
+kklc_1890 顧 kanji,1890
+kklc_1891 屑 kanji,1891
+kklc_1892 糞 kanji,1892
+kklc_1893 尿 kanji,1893
+kklc_1894 泌 kanji,1894
+kklc_1895 尻 kanji,1895
+kklc_1896 炉 kanji,1896
+kklc_1897 窯 kanji,1897
+kklc_1898 釜 kanji,1898
+kklc_1899 爺 kanji,1899
+kklc_1900 窪 kanji,1900
+kklc_1901 佳 kanji,1901
+kklc_1902 涯 kanji,1902
+kklc_1903 暇 kanji,1903
+kklc_1904 霞 kanji,1904
+kklc_1905 雰 kanji,1905
+kklc_1906 霧 kanji,1906
+kklc_1907 露 kanji,1907
+kklc_1908 霜 kanji,1908
+kklc_1909 箱 kanji,1909
+kklc_1910 籍 kanji,1910
+kklc_1911 貫 kanji,1911
+kklc_1912 慣 kanji,1912
+kklc_1913 頂 kanji,1913
+kklc_1914 戴 kanji,1914
+kklc_1915 項 kanji,1915
+kklc_1916 頃 kanji,1916
+kklc_1917 傾 kanji,1917
+kklc_1918 頑 kanji,1918
+kklc_1919 頒 kanji,1919
+kklc_1920 頓 kanji,1920
+kklc_1921 顕 kanji,1921
+kklc_1922 領 kanji,1922
+kklc_1923 頻 kanji,1923
+kklc_1924 捗 kanji,1924
+kklc_1925 順 kanji,1925
+kklc_1926 馴 kanji,1926
+kklc_1927 訓 kanji,1927
+kklc_1928 須 kanji,1928
+kklc_1929 額 kanji,1929
+kklc_1930 頼 kanji,1930
+kklc_1931 瀬 kanji,1931
+kklc_1932 峡 kanji,1932
+kklc_1933 狭 kanji,1933
+kklc_1934 挟 kanji,1934
+kklc_1935 頰 kanji,1935
+kklc_1936 顎 kanji,1936
+kklc_1937 煩 kanji,1937
+kklc_1938 串 kanji,1938
+kklc_1939 患 kanji,1939
+kklc_1940 疾 kanji,1940
+kklc_1941 痴 kanji,1941
+kklc_1942 疫 kanji,1942
+kklc_1943 痢 kanji,1943
+kklc_1944 痘 kanji,1944
+kklc_1945 瘍 kanji,1945
+kklc_1946 癌 kanji,1946
+kklc_1947 痩 kanji,1947
+kklc_1948 疲 kanji,1948
+kklc_1949 被 kanji,1949
+kklc_1950 披 kanji,1950
+kklc_1951 抜 kanji,1951
+kklc_1952 控 kanji,1952
+kklc_1953 扶 kanji,1953
+kklc_1954 抹 kanji,1954
+kklc_1955 拓 kanji,1955
+kklc_1956 拷 kanji,1956
+kklc_1957 楼 kanji,1957
+kklc_1958 壇 kanji,1958
+kklc_1959 塔 kanji,1959
+kklc_1960 搭 kanji,1960
+kklc_1961 寡 kanji,1961
+kklc_1962 賓 kanji,1962
+kklc_1963 飾 kanji,1963
+kklc_1964 飽 kanji,1964
+kklc_1965 餓 kanji,1965
+kklc_1966 飢 kanji,1966
+kklc_1967 机 kanji,1967
+kklc_1968 冗 kanji,1968
+kklc_1969 冠 kanji,1969
+kklc_1970 離 kanji,1970
+kklc_1971 胸 kanji,1971
+kklc_1972 悩 kanji,1972
+kklc_1973 脳 kanji,1973
+kklc_1974 臓 kanji,1974
+kklc_1975 胃 kanji,1975
+kklc_1976 炎 kanji,1976
+kklc_1977 談 kanji,1977
+kklc_1978 淡 kanji,1978
+kklc_1979 災 kanji,1979
+kklc_1980 肝 kanji,1980
+kklc_1981 肺 kanji,1981
+kklc_1982 胆 kanji,1982
+kklc_1983 腺 kanji,1983
+kklc_1984 胞 kanji,1984
+kklc_1985 腸 kanji,1985
+kklc_1986 胎 kanji,1986
+kklc_1987 腰 kanji,1987
+kklc_1988 肘 kanji,1988
+kklc_1989 膝 kanji,1989
+kklc_1990 股 kanji,1990
+kklc_1991 肢 kanji,1991
+kklc_1992 胴 kanji,1992
+kklc_1993 脇 kanji,1993
+kklc_1994 脂 kanji,1994
+kklc_1995 詣 kanji,1995
+kklc_1996 肪 kanji,1996
+kklc_1997 肌 kanji,1997
+kklc_1998 膚 kanji,1998
+kklc_1999 慮 kanji,1999
+kklc_2000 虐 kanji,2000
+kklc_2001 虞 kanji,2001
+kklc_2002 劇 kanji,2002
+kklc_2003 虚 kanji,2003
+kklc_2004 虜 kanji,2004
+kklc_2005 勇 kanji,2005
+kklc_2006 湧 kanji,2006
+kklc_2007 戯 kanji,2007
+kklc_2008 繊 kanji,2008
+kklc_2009 緻 kanji,2009
+kklc_2010 嘘 kanji,2010
+kklc_2011 噂 kanji,2011
+kklc_2012 樽 kanji,2012
+kklc_2013 距 kanji,2013
+kklc_2014 拒 kanji,2014
+kklc_2015 嬉 kanji,2015
+kklc_2016 鼓 kanji,2016
+kklc_2017 樹 kanji,2017
+kklc_2018 膨 kanji,2018
+kklc_2019 脹 kanji,2019
+kklc_2020 張 kanji,2020
+kklc_2021 帳 kanji,2021
+kklc_2022 腫 kanji,2022
+kklc_2023 肥 kanji,2023
+kklc_2024 把 kanji,2024
+kklc_2025 誇 kanji,2025
+kklc_2026 覧 kanji,2026
+kklc_2027 監 kanji,2027
+kklc_2028 鑑 kanji,2028
+kklc_2029 艦 kanji,2029
+kklc_2030 濫 kanji,2030
+kklc_2031 藍 kanji,2031
+kklc_2032 賢 kanji,2032
+kklc_2033 腎 kanji,2033
+kklc_2034 堅 kanji,2034
+kklc_2035 緊 kanji,2035
+kklc_2036 勃 kanji,2036
+kklc_2037 励 kanji,2037
+kklc_2038 栃 kanji,2038
+kklc_2039 茨 kanji,2039
+kklc_2040 羨 kanji,2040
+kklc_2041 歳 kanji,2041
+kklc_2042 戚 kanji,2042
+kklc_2043 叔 kanji,2043
+kklc_2044 淑 kanji,2044
+kklc_2045 寂 kanji,2045
+kklc_2046 督 kanji,2046
+kklc_2047 奴 kanji,2047
+kklc_2048 努 kanji,2048
+kklc_2049 怒 kanji,2049
+kklc_2050 隷 kanji,2050
+kklc_2051 款 kanji,2051
+kklc_2052 殻 kanji,2052
+kklc_2053 穀 kanji,2053
+kklc_2054 臼 kanji,2054
+kklc_2055 毀 kanji,2055
+kklc_2056 廉 kanji,2056
+kklc_2057 鎌 kanji,2057
+kklc_2058 嫌 kanji,2058
+kklc_2059 謙 kanji,2059
+kklc_2060 遜 kanji,2060
+kklc_2061 亀 kanji,2061
+kklc_2062 練 kanji,2062
+kklc_2063 錬 kanji,2063
+kklc_2064 鍛 kanji,2064
+kklc_2065 鉱 kanji,2065
+kklc_2066 銅 kanji,2066
+kklc_2067 鉛 kanji,2067
+kklc_2068 銑 kanji,2068
+kklc_2069 鋼 kanji,2069
+kklc_2070 剛 kanji,2070
+kklc_2071 綱 kanji,2071
+kklc_2072 網 kanji,2072
+kklc_2073 縄 kanji,2073
+kklc_2074 鉢 kanji,2074
+kklc_2075 鎖 kanji,2075
+kklc_2076 絆 kanji,2076
+kklc_2077 鍵 kanji,2077
+kklc_2078 釘 kanji,2078
+kklc_2079 錮 kanji,2079
+kklc_2080 錠 kanji,2080
+kklc_2081 綻 kanji,2081
+kklc_2082 鈴 kanji,2082
+kklc_2083 鐘 kanji,2083
+kklc_2084 瞳 kanji,2084
+kklc_2085 憧 kanji,2085
+kklc_2086 憬 kanji,2086
+kklc_2087 卑 kanji,2087
+kklc_2088 碑 kanji,2088
+kklc_2089 痺 kanji,2089
+kklc_2090 鬼 kanji,2090
+kklc_2091 塊 kanji,2091
+kklc_2092 醜 kanji,2092
+kklc_2093 魂 kanji,2093
+kklc_2094 魅 kanji,2094
+kklc_2095 魔 kanji,2095
+kklc_2096 畏 kanji,2096
+kklc_2097 刷 kanji,2097
+kklc_2098 擦 kanji,2098
+kklc_2099 摩 kanji,2099
+kklc_2100 磨 kanji,2100
+kklc_2101 凹 kanji,2101
+kklc_2102 凸 kanji,2102
+kklc_2103 奉 kanji,2103
+kklc_2104 奏 kanji,2104
+kklc_2105 泰 kanji,2105
+kklc_2106 俸 kanji,2106
+kklc_2107 棒 kanji,2107
+kklc_2108 捧 kanji,2108
+kklc_2109 耐 kanji,2109
+kklc_2110 霊 kanji,2110
+kklc_2111 需 kanji,2111
+kklc_2112 濡 kanji,2112
+kklc_2113 儒 kanji,2113
+kklc_2114 端 kanji,2114
+kklc_2115 壱 kanji,2115
+kklc_2116 尼 kanji,2116
+kklc_2117 泥 kanji,2117
+kklc_2118 漏 kanji,2118
+kklc_2119 氾 kanji,2119
+kklc_2120 彙 kanji,2120
+kklc_2121 某 kanji,2121
+kklc_2122 謀 kanji,2122
+kklc_2123 媒 kanji,2123
+kklc_2124 尉 kanji,2124
+kklc_2125 慰 kanji,2125
+kklc_2126 酪 kanji,2126
+kklc_2127 酵 kanji,2127
+kklc_2128 醤 kanji,2128
+kklc_2129 酢 kanji,2129
+kklc_2130 酎 kanji,2130
+kklc_2131 酌 kanji,2131
+kklc_2132 釣 kanji,2132
+kklc_2133 畜 kanji,2133
+kklc_2134 蓄 kanji,2134
+kklc_2135 玄 kanji,2135
+kklc_2136 眩 kanji,2136
+kklc_2137 呟 kanji,2137
+kklc_2138 囁 kanji,2138
+kklc_2139 喋 kanji,2139
+kklc_2140 喩 kanji,2140
+kklc_2141 鬱 kanji,2141
+kklc_2142 弦 kanji,2142
+kklc_2143 舷 kanji,2143
+kklc_2144 舵 kanji,2144
+kklc_2145 幻 kanji,2145
+kklc_2146 幽 kanji,2146
+kklc_2147 幼 kanji,2147
+kklc_2148 稚 kanji,2148
+kklc_2149 維 kanji,2149
+kklc_2150 推 kanji,2150
+kklc_2151 堆 kanji,2151
+kklc_2152 椎 kanji,2152
+kklc_2153 脊 kanji,2153
+kklc_2154 雛 kanji,2154
+kklc_2155 誰 kanji,2155
+kklc_2156 唯 kanji,2156
+kklc_2157 鳴 kanji,2157
+kklc_2158 亥 kanji,2158
+kklc_2159 刻 kanji,2159
+kklc_2160 劾 kanji,2160
+kklc_2161 核 kanji,2161
+kklc_2162 骸 kanji,2162
+kklc_2163 咳 kanji,2163
+kklc_2164 該 kanji,2164
+kklc_2165 診 kanji,2165
+kklc_2166 珍 kanji,2166
+kklc_2167 瓦 kanji,2167
+kklc_2168 併 kanji,2168
+kklc_2169 瓶 kanji,2169
+kklc_2170 屏 kanji,2170
+kklc_2171 塀 kanji,2171
+kklc_2172 餅 kanji,2172
+kklc_2173 餌 kanji,2173
+kklc_2174 呑 kanji,2174
+kklc_2175 沃 kanji,2175
+kklc_2176 妖 kanji,2176
+kklc_2177 呪 kanji,2177
+kklc_2178 艶 kanji,2178
+kklc_2179 慈 kanji,2179
+kklc_2180 滋 kanji,2180
+kklc_2181 磁 kanji,2181
+kklc_2182 擁 kanji,2182
+kklc_2183 腐 kanji,2183
+kklc_2184 芯 kanji,2184
+kklc_2185 蒔 kanji,2185
+kklc_2186 撒 kanji,2186
+kklc_2187 撤 kanji,2187
+kklc_2188 徹 kanji,2188
+kklc_2189 微 kanji,2189
+kklc_2190 徴 kanji,2190
+kklc_2191 懲 kanji,2191
+kklc_2192 殆 kanji,2192
+kklc_2193 后 kanji,2193
+kklc_2194 垢 kanji,2194
+kklc_2195 妃 kanji,2195
+kklc_2196 姫 kanji,2196
+kklc_2197 如 kanji,2197
+kklc_2198 茹 kanji,2198
+kklc_2199 婿 kanji,2199
+kklc_2200 娘 kanji,2200
+kklc_2201 嫁 kanji,2201
+kklc_2202 稼 kanji,2202
+kklc_2203 塚 kanji,2203
+kklc_2204 豪 kanji,2204
+kklc_2205 蒙 kanji,2205
+kklc_2206 墾 kanji,2206
+kklc_2207 懇 kanji,2207
+kklc_2208 貌 kanji,2208
+kklc_2209 逐 kanji,2209
+kklc_2210 遂 kanji,2210
+kklc_2211 墜 kanji,2211
+kklc_2212 堕 kanji,2212
+kklc_2213 随 kanji,2213
+kklc_2214 附 kanji,2214
+kklc_2215 髄 kanji,2215
+kklc_2216 怠 kanji,2216
+kklc_2217 惰 kanji,2217
+kklc_2218 佐 kanji,2218
+kklc_2219 玩 kanji,2219
+kklc_2220 弄 kanji,2220
+kklc_2221 嘲 kanji,2221
+kklc_2222 奔 kanji,2222
+kklc_2223 弊 kanji,2223
+kklc_2224 幣 kanji,2224
+kklc_2225 蔽 kanji,2225
+kklc_2226 朋 kanji,2226
+kklc_2227 棚 kanji,2227
+kklc_2228 柵 kanji,2228
+kklc_2229 桁 kanji,2229
+kklc_2230 栓 kanji,2230
+kklc_2231 詮 kanji,2231
+kklc_2232 塞 kanji,2232
+kklc_2233 梗 kanji,2233
+kklc_2234 柿 kanji,2234
+kklc_2235 藤 kanji,2235
+kklc_2236 騰 kanji,2236
+kklc_2237 謄 kanji,2237
+kklc_2238 麺 kanji,2238
+kklc_2239 拉 kanji,2239
+kklc_2240 晃 kanji,2240
+kklc_2241 幌 kanji,2241
+kklc_2242 厘 kanji,2242
+kklc_2243 畝 kanji,2243
+kklc_2244 匁 kanji,2244
+kklc_2245 匂 kanji,2245
+kklc_2246 勾 kanji,2246
+kklc_2247 挨 kanji,2247
+kklc_2248 拶 kanji,2248
+kklc_2249 曖 kanji,2249
+kklc_2250 昧 kanji,2250
+kklc_2251 瑠 kanji,2251
+kklc_2252 璃 kanji,2252
+kklc_2253 嫉 kanji,2253
+kklc_2254 妬 kanji,2254
+kklc_2255 鹿 kanji,2255
+kklc_2256 塵 kanji,2256
+kklc_2257 麓 kanji,2257
+kklc_2258 麗 kanji,2258
+kklc_2259 薦 kanji,2259
+kklc_2260 慶 kanji,2260
+kklc_2261 兜 kanji,2261
+kklc_2262 睨 kanji,2262
+kklc_2263 鼠 kanji,2263
+kklc_2264 溺 kanji,2264
+kklc_2265 潟 kanji,2265
+kklc_2266 濁 kanji,2266
+kklc_2267 渇 kanji,2267
+kklc_2268 褐 kanji,2268
+kklc_2269 葛 kanji,2269
+kklc_2270 喝 kanji,2270
+kklc_2271 謁 kanji,2271
+kklc_2272 掲 kanji,2272
+kklc_2273 戌 kanji,2273
+kklc_2274 尤 kanji,2274
+kklc_2275 駄 kanji,2275
+kklc_2276 駒 kanji,2276
+kklc_2277 篤 kanji,2277
+kklc_2278 罵 kanji,2278
+kklc_2279 蔑 kanji,2279
+kklc_2280 罠 kanji,2280
+kklc_2281 烏 kanji,2281
+kklc_2282 鴨 kanji,2282
+kklc_2283 鳩 kanji,2283
+kklc_2284 鶏 kanji,2284
+kklc_2285 渓 kanji,2285
+kklc_2286 鷹 kanji,2286
+kklc_2287 鷲 kanji,2287
+kklc_2288 璽 kanji,2288
+kklc_2289 爽 kanji,2289
+kklc_2290 綴 kanji,2290
+kklc_2291 桑 kanji,2291
+kklc_2292 蚕 kanji,2292
+kklc_2293 蛋 kanji,2293
+kklc_2294 蟹 kanji,2294
+kklc_2295 蚊 kanji,2295
+kklc_2296 巳 kanji,2296
+kklc_2297 蛇 kanji,2297
+kklc_2298 繭 kanji,2298
+kklc_2299 蝶 kanji,2299
+kklc_2300 虹 kanji,2300
+vocab_01 日にち
+vocab_02 日
+vocab_03 日ソ
+vocab_03 一日
+vocab_04 一日
+vocab_03 二日
+vocab_04 二メートル
+vocab_05 一つ二つ
+vocab_04 二三日
+vocab_03 二十
+vocab_04 十日
+vocab_03 十四
+vocab_04 四日
+vocab_05 四ミリ
+vocab_03 五十五
+vocab_04 五日
+vocab_03 十六
+vocab_04 六日
+vocab_03 七五三
+vocab_04 七十五
+vocab_03 十八日
+vocab_04 八日
+vocab_03 九十九
+vocab_04 九日
+vocab_01 丸い
+vocab_02 丸める
+vocab_03 一丸となって
+vocab_04 日の丸
+vocab_03 十四円
+vocab_04 円グラフ
+vocab_01 ○をつける
+vocab_02 六五○円
+vocab_03 ○○さん
+vocab_06 一人
+vocab_07 二十人
+vocab_08 一人二人
+vocab_09 ロシア人
+vocab_06 百人
+vocab_07 三百六十五日
+vocab_08 六百円
+vocab_05 八千円
+vocab_06 一千
+vocab_05 一万
+vocab_06 万一
+vocab_07 三万円
+vocab_03 一口
+vocab_02 ガス田
+vocab_03 田口
+vocab_02 人目
+vocab_03 六日目
+vocab_02 川口
+vocab_10 三月八日
+vocab_11 月日
+vocab_03 明らかな
+vocab_04 明月
+vocab_03 火口
+vocab_03 水田
+vocab_04 月水
+vocab_03 木目
+vocab_04 火木
+vocab_03 口金
+vocab_04 金メダル
+vocab_05 月水金
+vocab_03 土木
+vocab_04 土日
+vocab_04 本土
+vocab_05 本人
+vocab_06 本日
+vocab_03 東日本
+vocab_03 大金
+vocab_04 東大
+vocab_03 大小
+vocab_04 小川
+vocab_03 中に
+vocab_04 日中
+vocab_05 中東
+vocab_06 中日
+vocab_06 人生
+vocab_07 東大生
+vocab_08 生ビール
+vocab_06 山水
+vocab_07 小山
+vocab_04 出生
+vocab_05 日の出
+vocab_04 入金
+vocab_03 目下
+vocab_04 目下
+vocab_05 川下
+vocab_06 下水
+vocab_07 川田さんの下に
+vocab_04 上がる
+vocab_05 上下
+vocab_06 目上
+vocab_07 川上
+vocab_03 止める
+vocab_03 正に
+vocab_04 大正
+vocab_05 正月
+vocab_04 足下
+vocab_05 土足
+vocab_06 一足
+vocab_01 定める
+vocab_02 一定する
+vocab_03 定かに
+vocab_04 入手する
+vocab_01 日用
+vocab_02 用いる
+vocab_03 用がある
+vocab_04 用水
+vocab_02 無用
+vocab_03 無口
+vocab_04 無人の
+vocab_02 不正
+vocab_03 不用
+vocab_04 不足
+vocab_03 回る
+vocab_04 一回目
+vocab_02 無言
+vocab_03 言明
+vocab_01 舌を出す
+vocab_04 話
+vocab_05 話し中
+vocab_06 話し手
+vocab_02 活用する
+vocab_03 二行
+vocab_02 中心
+vocab_03 本心
+vocab_04 心行くまで
+vocab_01 耳目
+vocab_02 耳
+vocab_03 中耳
+vocab_01 又明日
+vocab_02 又は
+vocab_03 又の日
+vocab_01 取水
+vocab_02 取り入れる
+vocab_03 取り上げる
+vocab_04 取る
+vocab_05 取り出す
+vocab_01 身の回り
+vocab_02 出身
+vocab_03 小身
+vocab_04 身
+vocab_04 休止
+vocab_05 定休日
+vocab_02 人体
+vocab_03 身体
+vocab_04 大体
+vocab_02 信用
+vocab_03 不信
+vocab_01 付く
+vocab_02 付ける
+vocab_03 身に付ける
+vocab_04 付言
+vocab_01 受ける
+vocab_02 受信
+vocab_03 受け入れる
+vocab_04 受け身
+vocab_05 受付
+vocab_03 以下
+vocab_04 以上
+vocab_05 二人以上
+vocab_02 中立
+vocab_03 立てる
+vocab_04 立ち上がる
+vocab_02 一部
+vocab_03 東部
+vocab_04 部下
+vocab_01 二倍
+vocab_02 倍にする
+vocab_01 成人
+vocab_02 成る
+vocab_03 成す
+vocab_04 成立する
+vocab_03 代わる
+vocab_04 大正の代
+vocab_05 タクシー代
+vocab_06 代える
+vocab_01 メディア王
+vocab_02 王手
+vocab_01 目玉
+vocab_02 百円玉
+vocab_01 宝玉
+vocab_02 宝くじ
+vocab_03 宝
+vocab_03 国立
+vocab_04 国々
+vocab_05 国宝
+vocab_06 国王
+vocab_07 王国
+vocab_03 明白な
+vocab_04 白日
+vocab_05 白人
+vocab_01 皇帝
+vocab_05 全ての
+vocab_06 万全の
+vocab_02 白書
+vocab_03 書き取り
+vocab_04 無事に
+vocab_02 自体
+vocab_03 自ら
+vocab_04 自白
+vocab_01 ホラ貝
+vocab_04 一見
+vocab_05 見出し
+vocab_01 体力
+vocab_02 力を入れて
+vocab_03 力む
+vocab_04 活力
+vocab_05 力
+vocab_01 小刀
+vocab_02 刀
+vocab_03 日本刀
+vocab_04 一切の
+vocab_05 ケーキ一切れ
+vocab_06 切れる
+vocab_01 白刃
+vocab_02 刀刃
+vocab_03 刀の刃
+vocab_08 部分
+vocab_09 身分
+vocab_01 公の
+vocab_02 公立の
+vocab_03 公明
+vocab_04 分別する
+vocab_03 成長
+vocab_04 身長
+vocab_03 皇女
+vocab_04 男女
+vocab_04 王子
+vocab_05 女子
+vocab_06 子女
+vocab_07 男子
+vocab_08 玉子
+vocab_04 大好き
+vocab_05 好き
+vocab_06 女好き
+vocab_05 安心
+vocab_06 安定な
+vocab_07 安らかな
+vocab_02 案を立てる
+vocab_03 立案する
+vocab_04 案の定
+vocab_01 ローマ字
+vocab_02 活字
+vocab_03 字体
+vocab_04 正字
+vocab_09 入学する
+vocab_03 父子
+vocab_04 父の日
+vocab_05 文書
+vocab_06 文
+vocab_01 交わす
+vocab_02 交代する
+vocab_03 交じる
+vocab_04 国交
+vocab_04 校正
+vocab_05 女子校
+vocab_06 校長
+vocab_05 母子
+vocab_06 母校
+vocab_02 二日毎に
+vocab_03 毎回
+vocab_04 毎月
+vocab_03 海の日
+vocab_04 海上
+vocab_02 よそ者
+vocab_03 者
+vocab_04 信者
+vocab_05 話者
+vocab_04 人工
+vocab_05 工事中
+vocab_01 正式に
+vocab_02 入学式
+vocab_03 公式
+vocab_04 成人式
+vocab_01 弐
+vocab_01 武者
+vocab_02 武力
+vocab_01 金糸
+vocab_02 糸口
+vocab_03 糸
+vocab_03 前回
+vocab_04 前に
+vocab_05 事前
+vocab_06 前者
+vocab_04 後者
+vocab_05 以後
+vocab_06 後回し
+vocab_07 事後
+vocab_03 水牛
+vocab_08 年上の
+vocab_09 年代
+vocab_10 長年
+vocab_11 生年月日
+vocab_12 年中無休
+vocab_01 用件
+vocab_02 事件
+vocab_01 条件
+vocab_02 信条
+vocab_04 化ける
+vocab_05 コンピュータ化
+vocab_05 国花
+vocab_06 お花
+vocab_04 北部
+vocab_05 北東
+vocab_02 無比
+vocab_03 日比
+vocab_01 背中
+vocab_02 背部
+vocab_03 背く
+vocab_04 背比べ
+vocab_05 背ける
+vocab_03 車で行く
+vocab_04 車体
+vocab_05 人力車
+vocab_06 水車
+vocab_03 気体
+vocab_04 気に入る
+vocab_05 大気
+vocab_06 やる気
+vocab_07 本気
+vocab_01 汽車
+vocab_01 本性
+vocab_02 安定性
+vocab_03 性別
+vocab_04 男性
+vocab_01 花畑
+vocab_02 畑
+vocab_01 小麦
+vocab_02 大麦
+vocab_03 麦畑
+vocab_01 水素
+vocab_02 素足
+vocab_03 素人
+vocab_04 素手
+vocab_01 中毒
+vocab_02 毒素
+vocab_03 気の毒な
+vocab_04 毒舌
+vocab_05 行き先
+vocab_06 刃先
+vocab_07 先
+vocab_01 洗車
+vocab_02 洗う
+vocab_03 手洗い
+vocab_03 元気
+vocab_04 元々
+vocab_05 火の元
+vocab_06 元素
+vocab_01 光る
+vocab_02 日光
+vocab_03 光
+vocab_04 光年
+vocab_05 月光
+vocab_03 立ち去る
+vocab_01 法案
+vocab_02 法学
+vocab_03 生活法
+vocab_04 法学部
+vocab_03 走行
+vocab_03 当日
+vocab_04 本当の
+vocab_05 一日当たり千円
+vocab_06 日当り
+vocab_03 思案する
+vocab_04 思い付く
+vocab_05 思い出
+vocab_02 早々
+vocab_03 早口
+vocab_04 お早う
+vocab_05 早めに
+vocab_01 草木
+vocab_02 毒草
+vocab_03 草書
+vocab_04 草
+vocab_04 王朝
+vocab_05 朝日
+vocab_06 朝早く
+vocab_01 潮水
+vocab_02 潮入り
+vocab_01 体形
+vocab_02 人形
+vocab_03 形だけ
+vocab_04 形
+vocab_04 発見
+vocab_05 発する
+vocab_06 発行する
+vocab_07 発つ
+vocab_01 廃止する
+vocab_02 廃れる
+vocab_03 廃案
+vocab_04 母音
+vocab_05 足音
+vocab_04 作成する
+vocab_05 作用
+vocab_01 昨日
+vocab_02 一昨日
+vocab_03 一昨年
+vocab_02 雨水
+vocab_03 雨が止んだ
+vocab_04 小雨
+vocab_05 大雨
+vocab_05 電力
+vocab_06 発電
+vocab_01 一頁
+vocab_01 部首
+vocab_02 手首
+vocab_03 元首
+vocab_04 首
+vocab_05 気道
+vocab_04 通信
+vocab_05 通す
+vocab_06 交通
+vocab_01 牛乳
+vocab_02 乳首
+vocab_03 乳
+vocab_04 乳母車
+vocab_05 母乳
+vocab_06 乳母
+vocab_01 大豆
+vocab_02 豆本
+vocab_03 豆乳
+vocab_04 豆
+vocab_01 先頭
+vocab_02 頭に入れる
+vocab_03 頭
+vocab_04 頭部
+vocab_05 頭上
+vocab_01 予定
+vocab_02 予言者
+vocab_03 予言
+vocab_04 予め
+vocab_01 矛先
+vocab_02 矛
+vocab_01 預かる
+vocab_02 預金
+vocab_03 預ける
+vocab_01 文句
+vocab_02 成句
+vocab_01 上旬
+vocab_02 中旬
+vocab_03 下旬
+vocab_01 勺
+vocab_03 公的
+vocab_04 的に当たる
+vocab_05 全体的に
+vocab_01 約三年
+vocab_02 予約
+vocab_03 公約
+vocab_04 条約
+vocab_01 勿体無い
+vocab_04 物事
+vocab_05 書物
+vocab_06 物的な
+vocab_07 本物
+vocab_01 方言
+vocab_02 方法
+vocab_03 正方形
+vocab_04 ～の方に
+vocab_05 あの方
+vocab_01 予防
+vocab_02 防ぐ
+vocab_03 国防
+vocab_04 防音
+vocab_05 防止する
+vocab_01 正面
+vocab_02 方面
+vocab_03 法的な面
+vocab_01 画面
+vocab_02 画する
+vocab_03 山水画
+vocab_04 字画
+vocab_04 両面
+vocab_05 車両
+vocab_01 岡山
+vocab_01 満足
+vocab_02 コップを水で満たす
+vocab_03 満ちる
+vocab_04 満潮
+vocab_05 満月
+vocab_06 円満な
+vocab_07 満たす
+vocab_02 素顔
+vocab_03 顔面
+vocab_04 丸顔
+vocab_05 顔を洗う
+vocab_06 顔付き
+vocab_01 生産
+vocab_02 産む
+vocab_03 出産する
+vocab_04 国産
+vocab_03 同意
+vocab_04 同上
+vocab_05 同一
+vocab_06 同好
+vocab_01 方向
+vocab_02 向かう
+vocab_03 意向
+vocab_04 向く
+vocab_05 向こう
+vocab_01 尚の事
+vocab_02 尚又
+vocab_05 背が高い
+vocab_06 高まる
+vocab_07 生産高
+vocab_01 圧力
+vocab_02 大気圧
+vocab_03 汽圧
+vocab_03 地元
+vocab_04 地下の
+vocab_05 地方
+vocab_01 用水池
+vocab_02 池
+vocab_03 電池
+vocab_01 その他
+vocab_02 他人
+vocab_03 集まる
+vocab_04 集金
+vocab_01 進む
+vocab_02 進化
+vocab_03 進行する
+vocab_04 進学
+vocab_05 進める
+vocab_01 込む
+vocab_02 込める
+vocab_03 入り込む
+vocab_04 心を込めて
+vocab_01 斤
+vocab_03 近道
+vocab_04 近代
+vocab_05 近い
+vocab_06 身近な
+vocab_07 付近
+vocab_01 川辺
+vocab_02 一昨年辺り
+vocab_03 どの辺
+vocab_04 近辺
+vocab_05 最後の
+vocab_06 最も大事な事
+vocab_07 最大の
+vocab_08 最高の
+vocab_02 皿洗い
+vocab_03 受け皿
+vocab_01 出血
+vocab_02 血だらけ
+vocab_03 血
+vocab_04 高血圧
+vocab_05 血止め
+vocab_01 気温
+vocab_02 温血
+vocab_03 温める
+vocab_04 日光で温まる
+vocab_05 体温
+vocab_06 水温
+vocab_01 湿す
+vocab_02 湿気
+vocab_03 湿る
+vocab_01 爪切り
+vocab_02 爪先
+vocab_03 爪
+vocab_01 瓜二つ
+vocab_02 水瓜
+vocab_03 瓜
+vocab_01 頭巾
+vocab_01 画布
+vocab_02 布地
+vocab_03 布
+vocab_04 分布
+vocab_03 市立
+vocab_04 朝市
+vocab_05 市
+vocab_01 首吊り
+vocab_02 吊る
+vocab_01 温泉
+vocab_02 泉
+vocab_01 原子
+vocab_02 高原
+vocab_01 川の源
+vocab_02 電源
+vocab_01 電線
+vocab_02 前線
+vocab_03 東海道線
+vocab_04 無線
+vocab_01 木綿
+vocab_02 綿を入れる
+vocab_03 綿
+vocab_01 絹糸
+vocab_02 絹
+vocab_01 絹の錦
+vocab_01 出願
+vocab_02 願う
+vocab_03 願い事
+vocab_03 早い内
+vocab_04 内部
+vocab_05 内
+vocab_06 内耳
+vocab_07 以内
+vocab_08 内線
+vocab_03 肉体
+vocab_04 肉付けする
+vocab_01 猪
+vocab_01 豚肉
+vocab_02 豚カツ
+vocab_03 豚
+vocab_06 家の人
+vocab_07 自分の家
+vocab_08 家事
+vocab_09 家宝
+vocab_01 吾人
+vocab_01 我が家
+vocab_02 自我
+vocab_03 我々
+vocab_04 我が国
+vocab_04 言語
+vocab_05 語る
+vocab_06 用語
+vocab_07 語源
+vocab_08 物語
+vocab_01 電気を伝える
+vocab_02 伝言
+vocab_03 伝わる
+vocab_04 伝える
+vocab_05 手伝う
+vocab_06 伝う
+vocab_07 川を伝って行く
+vocab_03 転がる
+vocab_04 回転する
+vocab_05 転向
+vocab_01 芸者
+vocab_02 芸をする
+vocab_03 文芸
+vocab_04 手芸
+vocab_04 学会
+vocab_05 会長
+vocab_06 会見
+vocab_01 合う
+vocab_02 合意
+vocab_03 集合する
+vocab_04 話し合う
+vocab_05 合わせる
+vocab_07 今まで
+vocab_08 今日
+vocab_09 今回
+vocab_01 発令
+vocab_02 法令
+vocab_01 念入りな
+vocab_02 念願
+vocab_01 無印
+vocab_02 ゴム印
+vocab_03 日印
+vocab_04 印
+vocab_01 生命
+vocab_02 命令
+vocab_03 命取りの
+vocab_04 命
+vocab_05 本命
+vocab_01 亡命
+vocab_02 亡き人
+vocab_01 米国
+vocab_02 白米
+vocab_03 米を作る
+vocab_04 米作
+vocab_05 日米
+vocab_01 雨粒
+vocab_02 粒子
+vocab_03 粒
+vocab_04 米粒
+vocab_01 和やかな
+vocab_02 和合
+vocab_03 大和
+vocab_04 和む
+vocab_05 和らぐ
+vocab_03 私立
+vocab_04 私の
+vocab_05 私生活
+vocab_02 広大な
+vocab_03 本を広げる
+vocab_04 広がる
+vocab_01 細かい金
+vocab_02 細い糸
+vocab_03 明細
+vocab_04 細工
+vocab_01 林立
+vocab_02 雨林
+vocab_03 林
+vocab_04 原生林
+vocab_01 森林
+vocab_02 森
+vocab_03 青森
+vocab_01 松本
+vocab_02 松原
+vocab_01 竹林
+vocab_02 竹細工
+vocab_03 竹の子
+vocab_01 都会
+vocab_02 都合
+vocab_03 都
+vocab_04 都立
+vocab_04 京都
+vocab_05 北京
+vocab_06 京大
+vocab_01 行政
+vocab_02 家政
+vocab_01 政府
+vocab_02 京都府
+vocab_01 戸口
+vocab_02 一戸
+vocab_03 雨戸
+vocab_04 今の所
+vocab_05 長所
+vocab_06 所
+vocab_07 預かり所
+vocab_08 所信
+vocab_01 至上
+vocab_02 至る
+vocab_03 至東京
+vocab_01 お願い致します
+vocab_02 一致
+vocab_03 合致
+vocab_04 致命的
+vocab_04 肉屋
+vocab_05 家屋
+vocab_02 室内
+vocab_03 皇室
+vocab_04 温室
+vocab_05 和室
+vocab_06 室温
+vocab_04 古本屋
+vocab_01 居る
+vocab_02 別居する
+vocab_03 同居する
+vocab_04 皇居
+vocab_01 当局
+vocab_02 政局
+vocab_03 局部
+vocab_01 故に
+vocab_02 故事
+vocab_03 事故
+vocab_01 胡国
+vocab_02 胡瓜
+vocab_01 湖
+vocab_02 五大湖
+vocab_01 固い
+vocab_02 固体
+vocab_03 固める
+vocab_04 固定
+vocab_01 一箇月
+vocab_02 箇条書き
+vocab_01 個人
+vocab_02 個性
+vocab_03 りんご一個
+vocab_04 個室
+vocab_01 尚且つ
+vocab_01 組合
+vocab_02 組成
+vocab_03 手を組む
+vocab_04 組み立てる
+vocab_03 今夕
+vocab_04 夕べ
+vocab_06 外す
+vocab_07 その外
+vocab_08 外交
+vocab_09 以外に
+vocab_04 多面
+vocab_05 多目的
+vocab_06 多くの人
+vocab_01 汐が満ちる前に
+vocab_02 潮汐
+vocab_03 汐
+vocab_04 名物
+vocab_03 天の川
+vocab_04 天皇
+vocab_05 天文学
+vocab_01 未だ
+vocab_02 未明
+vocab_04 三月の末
+vocab_04 味わう
+vocab_05 地味な
+vocab_06 後味
+vocab_06 来月
+vocab_07 外来語
+vocab_03 新たに
+vocab_04 新人
+vocab_05 新年
+vocab_06 最新の
+vocab_06 親子
+vocab_07 肉親
+vocab_01 欠ける
+vocab_02 無欠
+vocab_03 ガス欠
+vocab_03 次ぐ
+vocab_04 次回
+vocab_05 次男
+vocab_06 目次
+vocab_01 欠席
+vocab_02 出席
+vocab_04 見る度に
+vocab_05 温度
+vocab_06 湿度
+vocab_07 度
+vocab_08 毎度
+vocab_01 渡来
+vocab_02 渡る
+vocab_03 渡す
+vocab_01 最小限
+vocab_02 最大限
+vocab_03 出来る限り
+vocab_04 限定する
+vocab_03 水銀
+vocab_04 日銀
+vocab_01 根回し
+vocab_02 根気
+vocab_03 根性
+vocab_04 根
+vocab_05 屋根
+vocab_06 根本
+vocab_01 最良の
+vocab_02 良い
+vocab_03 良心
+vocab_04 不良
+vocab_01 新郎
+vocab_02 次郎
+vocab_01 廊下
+vocab_02 回廊
+vocab_03 画廊
+vocab_06 食う
+vocab_07 食後に
+vocab_08 和食
+vocab_03 飲食
+vocab_04 飲み屋
+vocab_01 長官
+vocab_02 外交官
+vocab_01 会館
+vocab_02 館内
+vocab_03 本館
+vocab_03 宿る
+vocab_04 合宿する
+vocab_05 子を宿す
+vocab_03 一犬
+vocab_04 小犬
+vocab_05 犬小屋
+vocab_01 太い
+vocab_02 太子
+vocab_03 太る
+vocab_04 太古
+vocab_01 武器
+vocab_02 食器
+vocab_03 ガラスの器
+vocab_04 器官
+vocab_05 器
+vocab_06 器用な
+vocab_01 凶行
+vocab_02 凶器
+vocab_03 凶事
+vocab_01 区別する
+vocab_02 地区
+vocab_03 区分する
+vocab_04 大田区
+vocab_05 区切る
+vocab_05 意図
+vocab_06 図書
+vocab_07 合図
+vocab_02 交番
+vocab_03 番犬
+vocab_04 番に当たる
+vocab_01 信号
+vocab_02 番号
+vocab_03 年号
+vocab_05 上品
+vocab_06 品目
+vocab_07 品の良い人
+vocab_04 楽しむ
+vocab_05 楽器
+vocab_06 安楽な
+vocab_01 薬局
+vocab_02 薬屋
+vocab_03 火薬
+vocab_04 薬品
+vocab_05 薬
+vocab_06 丸薬
+vocab_01 周りの人
+vocab_02 周辺
+vocab_04 今週
+vocab_05 週に三回
+vocab_06 来週
+vocab_03 夕食を調える
+vocab_04 口調
+vocab_05 調合
+vocab_01 束ねる
+vocab_02 約束する
+vocab_03 花束
+vocab_01 調整
+vocab_02 整う
+vocab_03 整える
+vocab_04 整形
+vocab_01 数学
+vocab_02 数える
+vocab_03 数字
+vocab_04 整数
+vocab_05 数
+vocab_06 数多く
+vocab_01 分類
+vocab_02 食肉類
+vocab_03 類語
+vocab_04 人類
+vocab_01 公示
+vocab_02 示す
+vocab_03 予示する
+vocab_01 禁止する
+vocab_02 禁じる
+vocab_03 禁物
+vocab_04 立入禁止
+vocab_01 無礼
+vocab_02 礼金
+vocab_03 礼法
+vocab_04 お礼
+vocab_07 社交的な
+vocab_08 お社
+vocab_01 申す
+vocab_02 上申する
+vocab_03 申し上げる
+vocab_04 申し込む
+vocab_04 海の神
+vocab_05 神官
+vocab_06 神
+vocab_07 神話
+vocab_03 全員
+vocab_04 満員電車
+vocab_03 性質
+vocab_04 物質
+vocab_05 本質
+vocab_06 品質
+vocab_01 政党
+vocab_02 社会党
+vocab_03 党員
+vocab_03 法堂
+vocab_04 公会堂
+vocab_01 常に
+vocab_02 日常の
+vocab_03 常用
+vocab_04 正常
+vocab_05 通常の
+vocab_01 ノーベル賞
+vocab_02 賞を受ける
+vocab_03 賞品
+vocab_04 受賞者
+vocab_01 無償
+vocab_02 償う
+vocab_01 車掌
+vocab_02 合掌する
+vocab_01 覚える
+vocab_02 覚める
+vocab_03 自覚する
+vocab_04 覚ます
+vocab_01 覚悟する
+vocab_02 悟り
+vocab_02 感心
+vocab_03 五感
+vocab_04 感覚
+vocab_01 中央
+vocab_02 中央口
+vocab_04 映画をスクリーンに映す
+vocab_05 上映する
+vocab_06 湖に山が映る
+vocab_01 決意
+vocab_02 決める
+vocab_03 決心
+vocab_04 未決
+vocab_05 決定
+vocab_01 快く
+vocab_02 快楽
+vocab_03 快い
+vocab_04 不快な
+vocab_04 和英
+vocab_01 並行
+vocab_02 並べる
+vocab_03 並の
+vocab_04 並木
+vocab_01 平な道
+vocab_02 平社員
+vocab_03 平和
+vocab_04 公平
+vocab_05 平年並み
+vocab_03 月半ばに
+vocab_04 前半
+vocab_05 後半
+vocab_06 二年半
+vocab_01 馬小屋
+vocab_02 馬車
+vocab_03 馬力
+vocab_04 馬
+vocab_01 尺八
+vocab_01 尽力
+vocab_02 尽くす
+vocab_03 尽きる
+vocab_04 言い尽くす
+vocab_05 駅前の
+vocab_06 当駅
+vocab_07 駅長
+vocab_03 鳥肉
+vocab_04 鳥類
+vocab_05 鳥居
+vocab_01 島国
+vocab_02 半島
+vocab_03 無人島
+vocab_04 広島
+vocab_05 島
+vocab_01 角度
+vocab_02 四つ角
+vocab_03 三角
+vocab_01 虫取り
+vocab_02 防虫
+vocab_03 虫
+vocab_01 触覚
+vocab_02 触る
+vocab_03 触れる
+vocab_04 触角
+vocab_05 感触
+vocab_01 解ける
+vocab_02 分解する
+vocab_03 解体
+vocab_04 解禁
+vocab_01 日独
+vocab_02 独立
+vocab_03 独学
+vocab_04 独り
+vocab_05 独身
+vocab_04 お店
+vocab_05 店長
+vocab_06 本店
+vocab_01 占う
+vocab_02 占める
+vocab_03 独占
+vocab_01 出発点
+vocab_02 同点
+vocab_03 その点について
+vocab_01 武士
+vocab_02 武士道
+vocab_03 力士
+vocab_01 商品
+vocab_02 商う
+vocab_03 商店
+vocab_04 商工
+vocab_05 商い中
+vocab_03 買い手
+vocab_05 商売
+vocab_06 売り切れ
+vocab_03 続行
+vocab_04 続く
+vocab_05 話し続ける
+vocab_01 共通の
+vocab_02 母子共に
+vocab_03 共和国
+vocab_04 公共の
+vocab_05 共に
+vocab_04 供する
+vocab_01 洪水
+vocab_05 今昔
+vocab_03 冬物
+vocab_01 寒い
+vocab_02 寒気
+vocab_03 防寒する
+vocab_04 春休み
+vocab_05 売春
+vocab_03 夏至
+vocab_04 夏向き
+vocab_04 この秋
+vocab_04 主人
+vocab_05 家主
+vocab_06 買い主
+vocab_03 どこに住んでいますか
+vocab_04 住居
+vocab_05 住まい
+vocab_01 駐車する
+vocab_02 駐日
+vocab_03 駐車禁止
+vocab_04 注ぎ込む
+vocab_05 注意
+vocab_06 注入する
+vocab_07 注目
+vocab_01 意志
+vocab_02 志す
+vocab_03 志向
+vocab_04 同志
+vocab_05 志を立てる
+vocab_01 誌上で
+vocab_04 仕方
+vocab_05 仕手
+vocab_01 任せる
+vocab_02 任命
+vocab_03 任意の
+vocab_04 後任
+vocab_01 支店
+vocab_02 支える
+vocab_03 支出
+vocab_04 支える
+vocab_01 反発
+vocab_02 反る
+vocab_03 反日
+vocab_04 反らす
+vocab_05 反する
+vocab_01 上り坂
+vocab_02 下り坂
+vocab_03 坂道
+vocab_04 坂
+vocab_01 大阪
+vocab_02 阪神
+vocab_03 大阪府
+vocab_04 阪大
+vocab_01 返事
+vocab_02 返す
+vocab_03 返信
+vocab_04 返金
+vocab_05 返る
+vocab_01 雑誌
+vocab_02 雑な
+vocab_03 雑木
+vocab_04 雑音
+vocab_01 反乱
+vocab_02 乱れる
+vocab_03 乱雑
+vocab_04 乱用
+vocab_01 寸前に
+vocab_02 寸法
+vocab_03 国分寺
+vocab_04 山寺
+vocab_17 同時に
+vocab_18 時
+vocab_06 支持する
+vocab_07 金持ち
+vocab_04 特別の
+vocab_05 独特な
+vocab_06 特定の
+vocab_02 待合室
+vocab_03 待ち合わせる
+vocab_01 得る
+vocab_02 取得する
+vocab_03 得意
+vocab_04 止むを得ない
+vocab_05 得になる
+vocab_01 近侍
+vocab_02 侍
+vocab_01 詩人
+vocab_02 詩集
+vocab_03 詩を作る
+vocab_01 即席
+vocab_02 即時
+vocab_01 節電
+vocab_02 竹の節
+vocab_03 時節
+vocab_01 筋肉
+vocab_02 筋道
+vocab_03 心筋
+vocab_04 筋書き
+vocab_01 等しい
+vocab_02 平等
+vocab_03 一等
+vocab_04 我等
+vocab_05 お皿やコップ等
+vocab_01 平均
+vocab_02 均整
+vocab_03 均質
+vocab_04 均一な
+vocab_01 季節
+vocab_02 四季
+vocab_03 季語
+vocab_01 委員会
+vocab_02 常任委員会
+vocab_03 委任する
+vocab_04 委ねる
+vocab_01 穴居人
+vocab_02 ボタンの穴
+vocab_03 穴子
+vocab_04 穴
+vocab_06 部屋を空ける
+vocab_07 空車
+vocab_03 有無
+vocab_04 有毒
+vocab_05 有り得る
+vocab_03 左下
+vocab_04 左足
+vocab_05 左方
+vocab_04 右上
+vocab_05 右から左へ
+vocab_06 右方
+vocab_01 小石
+vocab_02 宝石
+vocab_03 一石二鳥
+vocab_04 石
+vocab_04 若年
+vocab_01 苦しい
+vocab_02 苦味
+vocab_03 苦手
+vocab_01 不在
+vocab_02 在校生
+vocab_03 駐在
+vocab_04 在日
+vocab_01 存在
+vocab_02 存じる
+vocab_03 共存
+vocab_01 干潮
+vocab_02 干す
+vocab_03 若干
+vocab_04 潮の干満
+vocab_01 刊行
+vocab_02 週刊誌
+vocab_03 夕刊
+vocab_01 発汗する
+vocab_02 汗をかく
+vocab_01 竿竹
+vocab_02 物干し竿
+vocab_01 左利き
+vocab_02 利子
+vocab_03 有利な
+vocab_04 利く
+vocab_05 利用する
+vocab_01 利害
+vocab_02 公害
+vocab_03 有害な
+vocab_04 害する
+vocab_01 利益
+vocab_02 益々
+vocab_03 公益
+vocab_04 有益な
+vocab_01 溢れる
+vocab_02 溢れる
+vocab_03 溢す
+vocab_01 割く
+vocab_02 割れる
+vocab_03 分割する
+vocab_04 コップを割る
+vocab_05 三割五分
+vocab_01 憲法
+vocab_02 合憲性
+vocab_03 合憲的
+vocab_01 羽化する
+vocab_02 一羽
+vocab_03 羽音
+vocab_04 羽根
+vocab_01 翌日
+vocab_02 翌朝
+vocab_03 習得
+vocab_04 習い事
+vocab_05 学習
+vocab_01 弓道
+vocab_02 弓
+vocab_01 引く
+vocab_02 引力
+vocab_03 弓を引く
+vocab_04 引き出し
+vocab_05 割り引き
+vocab_03 根強い
+vocab_04 強いる
+vocab_05 強大な
+vocab_01 弱気な
+vocab_02 弱点
+vocab_03 弱い
+vocab_04 200人弱
+vocab_05 弱肉強食
+vocab_06 火を弱める
+vocab_02 風が弱まった
+vocab_03 和風
+vocab_04 家風
+vocab_01 己を信じる
+vocab_02 自己
+vocab_03 利己
+vocab_04 自己中心
+vocab_04 記す
+vocab_05 記者
+vocab_06 伝記
+vocab_01 風紀
+vocab_02 紀元
+vocab_03 紀元前
+vocab_01 改正
+vocab_02 改新
+vocab_03 改めて
+vocab_04 改める
+vocab_05 改憲
+vocab_05 起こる
+vocab_06 起源
+vocab_07 起点
+vocab_01 姓名
+vocab_01 自由
+vocab_02 由来
+vocab_03 不自由
+vocab_01 石油
+vocab_02 油田
+vocab_03 油
+vocab_04 オリーブ油
+vocab_05 原油
+vocab_01 井戸
+vocab_02 天井
+vocab_03 油井
+vocab_01 囲む
+vocab_02 周囲
+vocab_03 取り囲む
+vocab_04 囲いに入れる
+vocab_05 囲まれる
+vocab_01 牛丼
+vocab_02 天丼
+vocab_01 ラーメン三丁
+vocab_02 四丁目
+vocab_03 丁度
+vocab_01 丁寧な
+vocab_02 丁寧語
+vocab_04 下町
+vocab_05 町人
+vocab_06 室町時代
+vocab_01 電灯
+vocab_02 灯光
+vocab_03 灯
+vocab_01 官庁
+vocab_02 都庁
+vocab_01 貯金
+vocab_02 貯水池
+vocab_01 安易な
+vocab_02 分かり易い
+vocab_03 易者
+vocab_04 易しい
+vocab_01 賜る
+vocab_02 賜金
+vocab_04 場合
+vocab_05 駐車場
+vocab_01 お湯
+vocab_02 温湯
+vocab_01 門口
+vocab_02 正門
+vocab_03 部門
+vocab_04 門
+vocab_05 名門
+vocab_07 間に合う
+vocab_08 長い間
+vocab_09 空間
+vocab_01 閉会
+vocab_02 閉まる
+vocab_03 閉店時間
+vocab_04 閉じる
+vocab_05 開会
+vocab_06 開発する
+vocab_01 関わる
+vocab_02 大関
+vocab_03 関する
+vocab_03 問いかける
+vocab_04 学問
+vocab_05 問い合わせる
+vocab_04 聞き手
+vocab_05 見聞
+vocab_06 道を聞く
+vocab_01 訪問
+vocab_02 訪ねる
+vocab_03 訪日
+vocab_05 送信
+vocab_06 見送る
+vocab_07 送別会
+vocab_01 入場券
+vocab_02 回数券
+vocab_03 日銀券
+vocab_01 包囲する
+vocab_02 包む
+vocab_03 小包
+vocab_04 包丁
+vocab_01 巻く
+vocab_02 上中下巻
+vocab_03 別巻
+vocab_04 巻き込む
+vocab_01 (通信
+vocab_02 首都圏
+vocab_03 生物圏
+vocab_01 勝利
+vocab_02 勝つ
+vocab_03 勝る
+vocab_04 早い者勝ち
+vocab_01 戦う
+vocab_02 作戦
+vocab_03 戦線
+vocab_04 決勝戦
+vocab_05 舌戦
+vocab_01 単に
+vocab_02 単なる
+vocab_03 単数
+vocab_01 簡単な
+vocab_02 簡易な
+vocab_01 過つ
+vocab_02 過去
+vocab_03 過ごす
+vocab_04 過半数
+vocab_05 近過ぎる
+vocab_06 過ぎる
+vocab_01 骨組み
+vocab_02 人骨
+vocab_03 背骨
+vocab_04 骨
+vocab_05 昼間
+vocab_06 白昼
+vocab_05 夜間
+vocab_01 液体
+vocab_02 血液
+vocab_03 乳液
+vocab_01 十戒
+vocab_02 戒める
+vocab_01 幾つ
+vocab_02 幾分
+vocab_01 近畿地方
+vocab_01 磯辺
+vocab_01 機会
+vocab_02 機関
+vocab_03 好機
+vocab_04 機体
+vocab_01 機械
+vocab_02 機械化
+vocab_03 器械
+vocab_01 飛行
+vocab_02 飛ぶ
+vocab_03 飛行機
+vocab_04 飛び上がる
+vocab_05 飛ばす
+vocab_01 故川田氏
+vocab_02 氏神
+vocab_03 氏名
+vocab_01 国民
+vocab_02 自由の民
+vocab_03 民芸
+vocab_04 市民
+vocab_05 民間
+vocab_05 用紙
+vocab_06 和紙
+vocab_07 日刊紙
+vocab_01 最低の
+vocab_02 低い
+vocab_03 低温
+vocab_04 低下する
+vocab_05 低める
+vocab_01 大抵
+vocab_02 抵当
+vocab_01 公邸
+vocab_01 川底
+vocab_02 根底
+vocab_03 海底
+vocab_04 心の底から
+vocab_01 巨大な
+vocab_02 巨人
+vocab_01 大臣
+vocab_02 臣民
+vocab_01 基本
+vocab_02 基づく
+vocab_03 データを基にする
+vocab_04 基地
+vocab_01 期間
+vocab_02 期待する
+vocab_03 期限
+vocab_04 時期
+vocab_05 学期
+vocab_01 毛布
+vocab_02 毛糸
+vocab_03 羽毛
+vocab_04 毛
+vocab_01 尾を引く
+vocab_02 語尾
+vocab_03 尾
+vocab_01 体育
+vocab_02 育てる
+vocab_03 発育する
+vocab_04 育つ
+vocab_05 育む
+vocab_01 羊毛
+vocab_02 子羊
+vocab_03 羊肉
+vocab_04 羊
+vocab_03 大洋
+vocab_04 洋風
+vocab_05 洋式
+vocab_05 魚市場
+vocab_06 魚類
+vocab_01 新鮮な
+vocab_02 北朝鮮
+vocab_01 蘇生する
+vocab_02 蘇る
+vocab_01 詳しい
+vocab_02 詳細
+vocab_01 不祥事
+vocab_01 美人
+vocab_02 美しい
+vocab_03 美味しい
+vocab_02 人間業
+vocab_03 産業
+vocab_04 事業
+vocab_05 作業
+vocab_06 工業
+vocab_01 実る
+vocab_02 事実
+vocab_03 実に美しい
+vocab_01 養う
+vocab_02 養育する
+vocab_03 養子
+vocab_04 養成する
+vocab_03 同様に
+vocab_04 有様
+vocab_05 田中様
+vocab_06 様式
+vocab_01 企業
+vocab_02 企てる
+vocab_03 企画
+vocab_01 曲線
+vocab_02 作曲
+vocab_03 曲がる
+vocab_04 名曲
+vocab_01 古典
+vocab_02 字典
+vocab_01 興業
+vocab_02 国が興る
+vocab_03 興味
+vocab_01 神輿
+vocab_01 竜骨
+vocab_02 竜巻
+vocab_03 竜
+vocab_01 滝
+vocab_01 籠る
+vocab_02 鳥籠
+vocab_03 籠居
+vocab_04 引き籠り
+vocab_05 籠
+vocab_01 辰年
+vocab_01 農業
+vocab_02 士農工商
+vocab_03 農家
+vocab_01 濃いスープ
+vocab_02 濃度
+vocab_03 油っ濃い
+vocab_01 豊作
+vocab_02 豊かな国
+vocab_03 豊満な
+vocab_01 吉事
+vocab_02 吉田
+vocab_01 詰まる
+vocab_02 詰問する
+vocab_03 詰める
+vocab_04 気詰まり
+vocab_05 見詰める
+vocab_02 結局
+vocab_01 投書
+vocab_02 投げる
+vocab_03 投手
+vocab_01 役に立つ
+vocab_02 役者
+vocab_03 役所
+vocab_04 役員
+vocab_05 役割
+vocab_01 没入する
+vocab_02 戦没する
+vocab_03 水没する
+vocab_01 設立する
+vocab_02 設ける
+vocab_03 設定
+vocab_01 手段
+vocab_02 段取り
+vocab_03 五段
+vocab_01 殺人
+vocab_02 殺す
+vocab_03 殺害
+vocab_04 人殺し
+vocab_05 自殺
+vocab_01 名刹
+vocab_01 草刈り
+vocab_02 刈り入れ
+vocab_03 刈る
+vocab_01 大和絵
+vocab_02 絵画
+vocab_03 油絵
+vocab_04 絵巻物
+vocab_01 時給
+vocab_02 自給
+vocab_03 月給
+vocab_01 三つ巴
+vocab_05 青色
+vocab_06 色っぽい
+vocab_07 鮮やかな色
+vocab_03 音声
+vocab_04 読者の声
+vocab_05 声調
+vocab_01 眉毛
+vocab_02 眉
+vocab_01 千里
+vocab_02 古里
+vocab_03 里心
+vocab_02 合理的な
+vocab_03 整理する
+vocab_04 代理人
+vocab_05 理由
+vocab_01 埋め立てる
+vocab_02 埋没する
+vocab_03 土に埋める
+vocab_04 野生
+vocab_05 野党
+vocab_06 野
+vocab_07 平野
+vocab_03 黒人
+vocab_04 黒海
+vocab_05 黒字
+vocab_06 白黒
+vocab_01 水墨画
+vocab_02 墨
+vocab_01 童の
+vocab_02 童話
+vocab_03 童
+vocab_04 童心
+vocab_05 学童
+vocab_01 量る
+vocab_02 大量
+vocab_03 量より質
+vocab_04 重量
+vocab_05 二重の
+vocab_06 起重機
+vocab_06 不動産
+vocab_02 働き手
+vocab_01 労働
+vocab_02 労働組合
+vocab_03 苦労
+vocab_01 協力する
+vocab_02 協定
+vocab_03 協会
+vocab_01 話の種
+vocab_02 種類
+vocab_03 種子
+vocab_04 種
+vocab_01 亜種
+vocab_02 東亜
+vocab_04 悪い行い
+vocab_05 悪口
+vocab_06 悪化する
+vocab_01 金が要る
+vocab_02 重要な
+vocab_03 要するに
+vocab_04 要素
+vocab_01 物価
+vocab_02 声価
+vocab_01 必要
+vocab_02 必ず
+vocab_03 必至の
+vocab_01 証明
+vocab_02 証言
+vocab_03 証人
+vocab_01 歪む
+vocab_02 歪曲
+vocab_03 歪める
+vocab_01 ...や否や
+vocab_02 否決
+vocab_03 否定する
+vocab_01 処理する
+vocab_02 処する
+vocab_03 処分
+vocab_01 根拠
+vocab_02 証拠
+vocab_04 合計
+vocab_05 会計
+vocab_06 設計
+vocab_01 針金
+vocab_02 方針
+vocab_03 長針
+vocab_04 針
+vocab_01 総合する
+vocab_02 総理大臣
+vocab_03 総計する
+vocab_01 車窓
+vocab_02 窓口
+vocab_03 二重窓
+vocab_04 窓
+vocab_01 矢印
+vocab_02 矢先
+vocab_03 通知する
+vocab_04 知り合い
+vocab_05 知的
+vocab_03 医薬品
+vocab_01 短期
+vocab_02 短い
+vocab_03 短気
+vocab_04 短所
+vocab_05 短刀
+vocab_01 失礼
+vocab_02 見失う
+vocab_03 失業する
+vocab_04 失う
+vocab_01 鉄道
+vocab_02 地下鉄
+vocab_03 鉄骨
+vocab_04 鉄のカーテン
+vocab_01 農夫
+vocab_02 夫に代わって
+vocab_03 夫人
+vocab_04 夫
+vocab_01 朱色
+vocab_01 株式会社
+vocab_02 株券
+vocab_03 株価
+vocab_04 切り株
+vocab_05 株主
+vocab_06 株
+vocab_02 民族
+vocab_03 親族
+vocab_04 ローラー族
+vocab_04 旅立つ
+vocab_05 旅券
+vocab_06 独り旅
+vocab_01 外遊
+vocab_02 遊楽
+vocab_03 遊ぶ
+vocab_04 遊び場
+vocab_01 施す
+vocab_02 施設
+vocab_03 実施する
+vocab_01 旋回
+vocab_02 旋風
+vocab_01 国旗
+vocab_02 旗色
+vocab_03 旗
+vocab_04 半旗
+vocab_01 放す
+vocab_02 放つ
+vocab_03 解放する
+vocab_04 放火する
+vocab_05 放送
+vocab_01 激しい風
+vocab_02 激動する
+vocab_03 激戦
+vocab_04 感激する
+vocab_01 牧場
+vocab_02 放牧する
+vocab_03 牧草
+vocab_01 首位
+vocab_02 学位
+vocab_03 地位
+vocab_04 位
+vocab_01 泣く
+vocab_02 泣き声
+vocab_03 号泣する
+vocab_03 苦笑
+vocab_04 笑い話
+vocab_01 専用
+vocab_02 専門家
+vocab_03 専門
+vocab_01 特恵
+vocab_02 知恵
+vocab_03 恵む
+vocab_04 恵み
+vocab_04 連続する
+vocab_05 連れる
+vocab_06 四連勝
+vocab_07 連ねる
+vocab_01 軍人
+vocab_02 空軍
+vocab_05 運送
+vocab_06 運が悪い
+vocab_07 運命
+vocab_01 日蓮
+vocab_02 蓮の花
+vocab_03 蓮の根
+vocab_01 部隊
+vocab_02 軍隊
+vocab_01 呈示する
+vocab_01 過程
+vocab_02 程度
+vocab_03 程々
+vocab_04 工程
+vocab_05 旅程
+vocab_06 程
+vocab_01 聖書
+vocab_02 聖ペテロ
+vocab_01 丑年
+vocab_01 紐を結ぶ
+vocab_01 革命
+vocab_02 革紐
+vocab_03 改革
+vocab_04 牛革
+vocab_01 靴下
+vocab_02 靴紐
+vocab_03 運動靴
+vocab_01 鞄
+vocab_02 鞄持ち
+vocab_01 バナナの皮
+vocab_02 皮肉
+vocab_03 毛皮
+vocab_01 破れる
+vocab_02 破局
+vocab_03 囲みを破る
+vocab_04 破約
+vocab_04 彼氏
+vocab_05 彼等
+vocab_01 波形
+vocab_02 電波
+vocab_03 波止場
+vocab_04 波長
+vocab_05 短波
+vocab_03 果てる
+vocab_04 果たす
+vocab_05 果実
+vocab_06 成果
+vocab_01 課長
+vocab_02 課目
+vocab_03 課する
+vocab_04 課程
+vocab_01 空き巣
+vocab_02 古巣
+vocab_03 クモの巣
+vocab_01 洋菓子
+vocab_02 和菓子
+vocab_03 お菓子
+vocab_04 茶の湯
+vocab_05 茶の間
+vocab_05 世紀
+vocab_06 世間
+vocab_07 出世
+vocab_01 葉書
+vocab_02 葉っぱ
+vocab_03 葉巻
+vocab_04 言葉
+vocab_01 廃棄
+vocab_02 棄てる
+vocab_03 放棄する
+vocab_04 破棄する
+vocab_01 緑色
+vocab_02 緑茶
+vocab_03 葉緑素
+vocab_01 記録する
+vocab_02 録音
+vocab_03 付録
+vocab_01 剝く
+vocab_02 剝ぎ取る
+vocab_01 皿の縁
+vocab_02 縁を切る
+vocab_03 血縁
+vocab_01 介入
+vocab_02 お節介
+vocab_03 介する
+vocab_03 限界
+vocab_04 学界
+vocab_01 心に浮かぶ
+vocab_02 浮力
+vocab_03 浮かべる
+vocab_04 浮かぶ
+vocab_05 浮き上がる
+vocab_06 浮く
+vocab_01 将来
+vocab_02 将軍
+vocab_03 主将
+vocab_04 大将
+vocab_01 奨学金
+vocab_01 形状
+vocab_02 礼状
+vocab_03 白状
+vocab_02 病む
+vocab_03 病は気から
+vocab_04 病状
+vocab_01 症状
+vocab_02 ダウン症
+vocab_03 痛切に
+vocab_04 頭痛
+vocab_01 記憶
+vocab_01 臆病
+vocab_01 億万長者
+vocab_02 一億
+vocab_01 重視する
+vocab_02 無視する
+vocab_03 視覚
+vocab_04 視界
+vocab_05 視力
+vocab_01 規定
+vocab_02 法規
+vocab_01 規則
+vocab_02 反則
+vocab_03 法則
+vocab_04 原則
+vocab_01 側面
+vocab_02 向い側
+vocab_01 測定する
+vocab_02 予測
+vocab_03 測量
+vocab_04 気温を測る
+vocab_04 考え方
+vocab_05 思考
+vocab_06 考案
+vocab_01 老いる
+vocab_02 老ける
+vocab_03 老人
+vocab_01 孝行
+vocab_02 不孝
+vocab_01 厚い
+vocab_02 厚意
+vocab_03 濃厚な
+vocab_04 温厚な
+vocab_05 教育
+vocab_01 完成する
+vocab_02 完結
+vocab_03 未完の
+vocab_04 完全な
+vocab_05 両院
+vocab_06 入院する
+vocab_01 奈良
+vocab_02 神奈川
+vocab_01 宗教
+vocab_02 日蓮宗
+vocab_01 祭日
+vocab_02 祭り
+vocab_03 文化祭
+vocab_04 祭る
+vocab_01 食事の際に
+vocab_02 際立つ
+vocab_03 国際
+vocab_04 窓際の席
+vocab_05 交際
+vocab_06 際
+vocab_01 視察
+vocab_02 察する
+vocab_03 考察する
+vocab_01 祈念
+vocab_02 祈り
+vocab_01 祖先
+vocab_02 祖父
+vocab_03 祖母
+vocab_01 助ける
+vocab_02 助言
+vocab_03 助手
+vocab_01 仲介者
+vocab_02 仲間
+vocab_03 仲人
+vocab_04 仲が良い
+vocab_01 忠実
+vocab_02 忠孝
+vocab_01 沖合
+vocab_01 保証する
+vocab_02 平和を保つ
+vocab_03 保育
+vocab_04 保存する
+vocab_01 呆れる
+vocab_02 保守的
+vocab_03 守る
+vocab_04 子守り
+vocab_05 規則を守る
+vocab_01 布団
+vocab_02 団体
+vocab_03 集団
+vocab_04 団地
+vocab_04 反対する
+vocab_05 対になる
+vocab_06 対面する
+vocab_07 対決
+vocab_08 人に対して親切
+vocab_01 村人
+vocab_02 市町村
+vocab_03 村
+vocab_04 農村
+vocab_01 天才
+vocab_02 十八才未満
+vocab_01 財産
+vocab_02 財団
+vocab_03 財政
+vocab_04 財布
+vocab_01 材木
+vocab_02 取材
+vocab_03 木材
+vocab_04 教材
+vocab_01 沈没する
+vocab_02 日が沈む
+vocab_03 沈める
+vocab_04 沈下
+vocab_01 枕カバー
+vocab_01 大丈夫
+vocab_02 背丈
+vocab_03 丈夫な
+vocab_01 松葉杖
+vocab_02 杖
+vocab_01 偉い人
+vocab_02 偉大な
+vocab_01 緯度
+vocab_01 防衛
+vocab_02 衛生
+vocab_03 前衛
+vocab_01 韓国
+vocab_02 日韓
+vocab_03 違反
+vocab_04 違法
+vocab_05 食い違い
+vocab_06 違和感
+vocab_01 介抱する
+vocab_02 抱える
+vocab_03 抱く
+vocab_04 抱く
+vocab_01 鉄砲
+vocab_02 砲火
+vocab_03 大砲
+vocab_01 泡立つ
+vocab_02 泡
+vocab_03 発泡
+vocab_01 丹念な
+vocab_01 舟行
+vocab_02 小舟
+vocab_03 舟
+vocab_01 船長
+vocab_02 風船
+vocab_03 船旅
+vocab_04 船
+vocab_01 舶来品
+vocab_02 船舶
+vocab_01 一般の
+vocab_02 全般の
+vocab_03 一般向け
+vocab_01 搬送
+vocab_02 運搬する
+vocab_01 円盤
+vocab_02 基盤
+vocab_03 チェスの盤
+vocab_01 歯医者
+vocab_02 虫歯
+vocab_03 歯車
+vocab_04 入れ歯
+vocab_05 歯
+vocab_06 歯石
+vocab_01 冷え込む
+vocab_02 冷水
+vocab_03 スープが冷めた
+vocab_04 冷戦
+vocab_05 冷める
+vocab_06 冷える
+vocab_01 年齢
+vocab_02 高齢者
+vocab_03 老齢
+vocab_04 学齢
+vocab_06 少しも
+vocab_07 少なくとも
+vocab_08 多少
+vocab_01 砂粒
+vocab_02 砂
+vocab_03 砂利
+vocab_04 歩行者
+vocab_05 歩む
+vocab_06 進歩
+vocab_01 交渉
+vocab_02 干渉
+vocab_01 省みる
+vocab_02 省く
+vocab_03 反省
+vocab_04 厚生労働省
+vocab_05 省エネルギー
+vocab_02 様相
+vocab_03 外相
+vocab_04 相当する
+vocab_01 思想
+vocab_02 理想
+vocab_03 回想
+vocab_04 予想
+vocab_01 名称
+vocab_02 称する
+vocab_03 対称
+vocab_01 弥生
+vocab_02 弥生時代
+vocab_01 互いに
+vocab_02 相互の
+vocab_01 務める
+vocab_02 事務所
+vocab_03 公務員
+vocab_04 外務省
+vocab_05 業務
+vocab_01 柔らかい
+vocab_02 柔道
+vocab_03 柔らかな
+vocab_01 軟化
+vocab_02 軟らかな
+vocab_03 軟骨
+vocab_01 軌道
+vocab_01 軒並み
+vocab_02 四軒
+vocab_03 軒
+vocab_01 回転軸
+vocab_02 車軸
+vocab_01 比較する
+vocab_02 比較的
+vocab_01 車庫
+vocab_02 在庫
+vocab_01 冷蔵庫
+vocab_02 貯蔵
+vocab_03 蔵
+vocab_01 倉庫
+vocab_02 倉渡し
+vocab_03 倉
+vocab_01 創立する
+vocab_02 創作する
+vocab_03 独創的
+vocab_01 告げる
+vocab_02 広告
+vocab_03 戒告
+vocab_01 造る
+vocab_02 創造
+vocab_03 創造する
+vocab_04 創造性
+vocab_05 木造の
+vocab_06 造船
+vocab_01 衣類
+vocab_02 衣食住
+vocab_01 依存する
+vocab_01 紙袋
+vocab_02 袋
+vocab_03 手袋
+vocab_01 褒める
+vocab_02 褒美
+vocab_03 褒め言葉
+vocab_01 裏面
+vocab_02 裏切る
+vocab_03 裏付け
+vocab_04 裏
+vocab_05 裏側
+vocab_05 表示する
+vocab_06 表の戸
+vocab_07 図表
+vocab_01 現れる
+vocab_02 表現する
+vocab_03 現在
+vocab_04 現状
+vocab_05 現金
+vocab_01 著す
+vocab_02 著者
+vocab_03 著しい
+vocab_04 著名
+vocab_01 制度
+vocab_02 産制
+vocab_03 体制
+vocab_04 制限
+vocab_01 製品
+vocab_02 日本製の
+vocab_03 製作
+vocab_04 製薬
+vocab_04 夜が明け初める
+vocab_05 初飛行
+vocab_06 初めての
+vocab_07 初期
+vocab_01 全裸
+vocab_02 裸の
+vocab_03 裸足
+vocab_01 解き難い
+vocab_02 難しい
+vocab_03 難病
+vocab_04 難民
+vocab_01 准教員
+vocab_01 基準
+vocab_02 準決勝
+vocab_03 水準
+vocab_01 準備する
+vocab_02 備える
+vocab_03 軍備
+vocab_04 設備する
+vocab_05 予備
+vocab_04 死亡
+vocab_05 過労死
+vocab_06 死去
+vocab_01 葬式
+vocab_02 埋葬する
+vocab_03 火葬
+vocab_01 行列
+vocab_02 列車
+vocab_03 列を作る
+vocab_04 列島
+vocab_05 並列
+vocab_01 強烈な
+vocab_01 分裂する
+vocab_02 裂く
+vocab_03 裂ける
+vocab_01 前例
+vocab_02 例えば
+vocab_03 常例
+vocab_04 例外
+vocab_05 例の
+vocab_01 刑務所
+vocab_02 死刑
+vocab_03 刑事
+vocab_01 典型
+vocab_02 大型
+vocab_03 血液型
+vocab_04 典型的な
+vocab_02 研学
+vocab_01 厄介
+vocab_02 厄年
+vocab_01 危機
+vocab_02 危うい
+vocab_03 危ぶむ
+vocab_01 規範
+vocab_02 範囲
+vocab_03 範例
+vocab_04 広範囲
+vocab_01 怨念
+vocab_02 怨む
+vocab_01 外苑
+vocab_01 宛先
+vocab_02 宛て字
+vocab_01 茶碗
+vocab_01 上腕
+vocab_02 腕前
+vocab_03 腕時計
+vocab_04 腕
+vocab_01 返却する
+vocab_02 却下する
+vocab_03 売却する
+vocab_04 棄却する
+vocab_01 三脚
+vocab_02 脚
+vocab_03 脚注
+vocab_04 脚部
+vocab_01 法を犯す
+vocab_02 犯人
+vocab_03 女を犯す
+vocab_04 防犯
+vocab_01 狂犬病
+vocab_02 狂う
+vocab_01 地獄
+vocab_02 出獄
+vocab_01 非常
+vocab_02 非難
+vocab_03 非とする
+vocab_04 非礼
+vocab_01 排他的な
+vocab_02 排気ガス
+vocab_03 排水
+vocab_04 排出
+vocab_01 俳句
+vocab_01 無罪の
+vocab_02 有罪の
+vocab_03 犯罪
+vocab_04 罪
+vocab_05 罪人
+vocab_01 罰金
+vocab_02 罰当たり
+vocab_03 刑罰
+vocab_01 同伴する
+vocab_02 伴う
+vocab_01 判決
+vocab_02 判子
+vocab_03 判事
+vocab_04 判じる
+vocab_01 評価
+vocab_02 好評
+vocab_03 評判
+vocab_01 批評
+vocab_02 批評家
+vocab_03 批准する
+vocab_01 元帥
+vocab_01 教師
+vocab_02 師範
+vocab_03 牧師
+vocab_04 医師
+vocab_01 座席
+vocab_02 座る
+vocab_03 口座
+vocab_04 座布団
+vocab_05 正座する
+vocab_01 対坐する
+vocab_03 卒業
+vocab_04 一等卒
+vocab_05 東大卒
+vocab_06 高卒
+vocab_01 比率
+vocab_02 率いる
+vocab_03 利率
+vocab_01 傘下
+vocab_02 日傘
+vocab_03 傘
+vocab_01 竹笠
+vocab_01 星占い
+vocab_02 衛星
+vocab_03 星座
+vocab_04 星条旗
+vocab_05 星
+vocab_01 レモンの汁
+vocab_02 果汁
+vocab_03 肉汁
+vocab_01 北斗七星
+vocab_06 原料
+vocab_07 食料
+vocab_01 科学
+vocab_02 科する
+vocab_03 理科
+vocab_04 歯科
+vocab_01 平然と
+vocab_02 自然
+vocab_03 全然
+vocab_04 天然の
+vocab_05 当然
+vocab_01 燃える
+vocab_02 燃料
+vocab_03 燃やす
+vocab_01 沈黙
+vocab_02 黙る
+vocab_01 獣医
+vocab_02 獣
+vocab_03 野獣
+vocab_01 猟師
+vocab_01 漁師
+vocab_02 漁業
+vocab_03 漁船
+vocab_01 狩猟
+vocab_02 狩りに行く
+vocab_03 狩猟期
+vocab_01 猛烈な
+vocab_02 猛犬
+vocab_03 猛獣
+vocab_01 禁煙
+vocab_02 煙い
+vocab_03 煙
+vocab_04 煙草
+vocab_01 焼き鳥
+vocab_02 全焼する
+vocab_03 燃焼
+vocab_04 夕焼け
+vocab_01 暁の空
+vocab_02 暁
+vocab_01 旧式
+vocab_02 旧ソ連
+vocab_03 旧制
+vocab_01 児童
+vocab_02 小児科
+vocab_03 乳児
+vocab_04 育児
+vocab_01 私も亦
+vocab_06 赤十字
+vocab_07 赤らむ
+vocab_08 赤外線
+vocab_06 変わる
+vocab_07 変動
+vocab_01 野蛮な
+vocab_02 蛮人
+vocab_01 恋人
+vocab_02 恋
+vocab_03 初恋
+vocab_04 失恋
+vocab_05 恋する
+vocab_06 恋う
+vocab_01 愛しい
+vocab_02 恋愛
+vocab_03 愛する
+vocab_04 愛称
+vocab_05 愛国心
+vocab_01 憂国
+vocab_02 将来を憂える
+vocab_03 ...を憂える
+vocab_01 優しい
+vocab_02 優先
+vocab_03 優れた学者
+vocab_04 優れる
+vocab_05 優勝する
+vocab_01 焼き栗
+vocab_02 栗
+vocab_01 投票する
+vocab_02 伝票
+vocab_03 得票
+vocab_01 目標
+vocab_02 商標
+vocab_03 標語
+vocab_04 標示する
+vocab_01 浮漂
+vocab_02 漂う
+vocab_03 漂然
+vocab_01 変遷
+vocab_01 各自
+vocab_02 各の考えで
+vocab_03 各地
+vocab_04 各
+vocab_01 お客さん
+vocab_02 客室
+vocab_03 来客
+vocab_04 常客
+vocab_01 道路
+vocab_02 線路
+vocab_03 路地
+vocab_04 通路
+vocab_01 価格
+vocab_02 性格
+vocab_03 合格する
+vocab_01 絡み合う
+vocab_02 連絡
+vocab_01 戦略
+vocab_02 省略する
+vocab_03 略語
+vocab_04 略す
+vocab_01 内閣
+vocab_02 天守閣
+vocab_01 落下
+vocab_02 落ちる
+vocab_03 落ち葉
+vocab_04 落とす
+vocab_05 低落する
+vocab_05 南北
+vocab_06 東南
+vocab_07 南部
+vocab_05 西側
+vocab_06 西洋
+vocab_07 西部
+vocab_01 酉年
+vocab_01 飲酒
+vocab_02 お酒
+vocab_01 お洒落
+vocab_03 支配する
+vocab_04 手配
+vocab_01 酸素
+vocab_02 酸性
+vocab_03 酸化
+vocab_04 酸っぱい
+vocab_01 猶予する
+vocab_01 尊い
+vocab_02 尊重する
+vocab_01 遵守する
+vocab_01 導入する
+vocab_02 導く
+vocab_03 主導
+vocab_01 敬う
+vocab_02 尊敬する
+vocab_03 敬老
+vocab_04 敬語
+vocab_01 警察
+vocab_02 警視庁
+vocab_03 警告
+vocab_01 驚く
+vocab_02 驚がく
+vocab_03 驚かす
+vocab_04 驚くべき
+vocab_01 解散
+vocab_02 散らす
+vocab_03 散歩
+vocab_01 敢然と
+vocab_02 敢えてする
+vocab_03 取り敢えず
+vocab_01 厳しい
+vocab_02 厳禁
+vocab_03 厳かな
+vocab_04 尊厳
+vocab_01 仏教
+vocab_02 仏様
+vocab_03 念仏
+vocab_04 日仏
+vocab_02 払底
+vocab_03 支払い
+vocab_04 払い込む
+vocab_01 拡大する
+vocab_02 拡散
+vocab_01 可決
+vocab_02 可燃ゴミ
+vocab_03 可愛い
+vocab_04 不可欠
+vocab_05 幾何学
+vocab_06 何才ですか
+vocab_07 何時ですか
+vocab_01 苛める
+vocab_02 苛烈な
+vocab_01 荷物
+vocab_02 在荷
+vocab_03 荷造り
+vocab_04 荷
+vocab_05 入荷
+vocab_06 荷を下ろす
+vocab_01 運河
+vocab_02 河川
+vocab_03 河原
+vocab_04 銀河
+vocab_01 阿呆
+vocab_02 阿倍
+vocab_03 南阿
+vocab_01 司法
+vocab_02 司会する
+vocab_03 司書
+vocab_04 上司
+vocab_01 伺う
+vocab_02 伺い
+vocab_01 動詞
+vocab_02 名詞
+vocab_03 品詞
+vocab_01 飼育する
+vocab_02 犬を飼う
+vocab_01 一冊
+vocab_01 嗣子
+vocab_01 覗く
+vocab_02 覗き穴
+vocab_05 歌詞
+vocab_06 和歌
+vocab_01 唄う
+vocab_02 子守唄
+vocab_01 負う
+vocab_02 勝負
+vocab_03 負ける
+vocab_01 敗北
+vocab_02 敗れる
+vocab_03 敗戦
+vocab_04 失敗
+vocab_01 責任
+vocab_02 責める
+vocab_03 自責
+vocab_04 責務
+vocab_01 積む
+vocab_02 面積
+vocab_03 積もり
+vocab_01 負債
+vocab_02 債券
+vocab_03 国債
+vocab_04 債務
+vocab_01 漬ける
+vocab_02 漬け物
+vocab_01 紡糸
+vocab_02 綿を糸に紡ぐ
+vocab_01 成績
+vocab_02 紡績
+vocab_01 家具
+vocab_02 用具
+vocab_03 道具
+vocab_04 具体的な
+vocab_05 絵の具
+vocab_04 真実
+vocab_05 真相
+vocab_06 真正面
+vocab_01 直ちに
+vocab_02 直す
+vocab_03 直線
+vocab_04 やり直す
+vocab_05 正直に
+vocab_01 植物
+vocab_02 植える
+vocab_03 植え木
+vocab_04 植民地
+vocab_05 植民
+vocab_01 生殖
+vocab_02 財産が殖える
+vocab_03 殖産
+vocab_01 値する
+vocab_02 価値
+vocab_03 値上げ
+vocab_04 値
+vocab_05 数値
+vocab_06 値切る
+vocab_01 置く
+vocab_02 位置
+vocab_03 物置き
+vocab_01 県立
+vocab_02 県民
+vocab_03 県知事
+vocab_04 都道府県
+vocab_01 砂州
+vocab_02 テキサス州
+vocab_03 州政府
+vocab_01 砂洲
+vocab_01 接ぐ
+vocab_02 直接に
+vocab_03 接する
+vocab_04 接続
+vocab_05 接触
+vocab_01 継続する
+vocab_02 家を継ぐ
+vocab_03 後継
+vocab_04 受け継ぐ
+vocab_01 切断する
+vocab_02 判断
+vocab_03 断る
+vocab_04 決断
+vocab_01 対応する
+vocab_02 応接
+vocab_03 反応する
+vocab_04 応じる
+vocab_01 床に
+vocab_02 床の間
+vocab_03 温床
+vocab_01 麻薬
+vocab_02 麻布
+vocab_03 胡麻
+vocab_01 学歴
+vocab_02 戦歴
+vocab_03 病歴
+vocab_01 西暦
+vocab_02 暦の上では
+vocab_03 暦
+vocab_01 臨む
+vocab_02 臨時の
+vocab_03 臨機応変
+vocab_04 臨床
+vocab_01 花園
+vocab_02 公園
+vocab_03 植物園
+vocab_04 動物園
+vocab_01 遠い
+vocab_02 遠足
+vocab_03 遠近法
+vocab_04 遠心力
+vocab_01 与える
+vocab_02 供与する
+vocab_03 関与する
+vocab_04 給与する
+vocab_05 与党
+vocab_05 写真に写る
+vocab_06 写真を写す
+vocab_01 東京に移る
+vocab_02 移動する
+vocab_03 移植
+vocab_04 移民
+vocab_05 病気を移す
+vocab_01 卸す
+vocab_02 卸で買う
+vocab_03 卸値
+vocab_04 卸売り
+vocab_01 御苑
+vocab_01 複雑な
+vocab_02 複製
+vocab_03 複数
+vocab_04 複合
+vocab_01 お腹空いた
+vocab_02 腹を立てる
+vocab_03 切腹
+vocab_04 腹
+vocab_05 腹痛
+vocab_06 腹部
+vocab_01 復習
+vocab_02 回復
+vocab_03 復活
+vocab_01 往復
+vocab_02 往来
+vocab_01 大黒柱
+vocab_02 電柱
+vocab_03 柱
+vocab_04 円柱
+vocab_01 出征する
+vocab_02 征戦
+vocab_01 従来の
+vocab_02 従う
+vocab_03 ...に従って
+vocab_01 生徒
+vocab_02 徒歩五分
+vocab_03 仏教徒
+vocab_04 徒党
+vocab_05 学徒
+vocab_01 縦断
+vocab_02 縦の
+vocab_03 縦軸
+vocab_04 縦書き
+vocab_01 延びる
+vocab_02 延長
+vocab_03 延ばす
+vocab_04 延べる
+vocab_05 延期
+vocab_01 伸びる
+vocab_02 二伸
+vocab_03 伸ばす
+vocab_04 引き伸ばす
+vocab_01 紳士
+vocab_02 紳士用
+vocab_01 縮小
+vocab_02 縮む
+vocab_03 縮れる
+vocab_04 短縮
+vocab_01 誕生
+vocab_02 誕生日
+vocab_01 法廷
+vocab_02 朝廷
+vocab_03 廷内で
+vocab_01 庭園
+vocab_02 庭師
+vocab_03 庭
+vocab_04 家庭
+vocab_05 校庭
+vocab_01 舟艇
+vocab_02 艇庫
+vocab_01 展示する
+vocab_02 展開
+vocab_03 ダリ展
+vocab_04 発展
+vocab_01 殿下
+vocab_02 殿堂
+vocab_03 御殿
+vocab_01 異常な
+vocab_02 異なる
+vocab_01 翼を広げる
+vocab_02 左翼
+vocab_03 右翼
+vocab_04 翼
+vocab_01 累積
+vocab_02 累進
+vocab_01 満塁ホームラン
+vocab_02 土塁
+vocab_03 三塁
+vocab_01 吏員
+vocab_02 官吏
+vocab_06 使用する
+vocab_07 使い方
+vocab_08 使用中
+vocab_09 天使
+vocab_01 世界史
+vocab_02 史料
+vocab_03 史上に
+vocab_01 更に
+vocab_02 更新する
+vocab_03 更ける
+vocab_04 尚更
+vocab_05 変更する
+vocab_01 次の便
+vocab_02 便器
+vocab_03 便り
+vocab_04 便利な
+vocab_05 不便な
+vocab_01 強硬な
+vocab_02 硬い石
+vocab_03 硬化する
+vocab_01 能楽
+vocab_02 能力
+vocab_03 才能
+vocab_04 可能
+vocab_05 機能
+vocab_01 態度
+vocab_02 状態
+vocab_03 実態
+vocab_04 事態
+vocab_01 白熊
+vocab_02 黒熊
+vocab_03 熊本
+vocab_01 罷める
+vocab_02 罷業
+vocab_01 羅針盤
+vocab_02 羅列する
+vocab_01 雨雲
+vocab_02 雲
+vocab_03 入道雲
+vocab_01 曇天
+vocab_02 曇る
+vocab_03 曇り勝ち
+vocab_05 雪合戦
+vocab_01 雷雨
+vocab_02 雷親父
+vocab_03 雷雲
+vocab_04 地雷
+vocab_05 雷
+vocab_01 零時
+vocab_02 零点
+vocab_03 零下
+vocab_04 零度
+vocab_01 地震
+vocab_02 震う
+vocab_03 震源地
+vocab_04 震度
+vocab_05 震動
+vocab_01 振動
+vocab_02 手を振る
+vocab_03 腕を振るう
+vocab_04 不振
+vocab_01 持久
+vocab_02 久しい
+vocab_03 久遠
+vocab_04 久し振りに
+vocab_01 賑やか
+vocab_02 賑わう
+vocab_01 砂丘
+vocab_02 丘の上に
+vocab_03 丘
+vocab_01 兵隊
+vocab_02 兵卒
+vocab_03 兵器
+vocab_04 兵士
+vocab_01 山岳
+vocab_01 浜辺
+vocab_02 海浜
+vocab_03 砂浜
+vocab_04 浜
+vocab_01 宿舎
+vocab_02 校舎
+vocab_03 田舎
+vocab_04 兵舎
+vocab_01 再び読む
+vocab_02 再生
+vocab_03 再来週
+vocab_04 再開
+vocab_01 虎の巻
+vocab_02 虎穴
+vocab_03 虎
+vocab_01 寅年
+vocab_01 出演する
+vocab_02 ロミオを演じる
+vocab_03 上演する
+vocab_01 黄色
+vocab_02 黄身
+vocab_03 横断する
+vocab_04 専横
+vocab_05 横浜
+vocab_06 横軸
+vocab_01 構える
+vocab_02 構造
+vocab_03 構わない
+vocab_04 構成
+vocab_01 講演
+vocab_02 講師
+vocab_03 講座
+vocab_01 購買
+vocab_02 購読
+vocab_01 海溝
+vocab_02 溝
+vocab_03 排水溝
+vocab_01 仮定
+vocab_02 仮に
+vocab_03 仮名
+vocab_04 仮設の
+vocab_01 片道
+vocab_02 断片
+vocab_03 片仮名
+vocab_04 破片
+vocab_01 出版
+vocab_02 英語版
+vocab_01 床板
+vocab_02 黒板
+vocab_03 溝板
+vocab_04 板
+vocab_05 鉄板
+vocab_01 販売する
+vocab_02 自動販売機
+vocab_03 市販
+vocab_01 義父
+vocab_02 定義
+vocab_03 義理
+vocab_04 義歯
+vocab_01 議院
+vocab_02 議決
+vocab_03 議会
+vocab_04 議員
+vocab_05 会議
+vocab_01 儀式
+vocab_02 行儀
+vocab_03 礼儀正しい
+vocab_04 礼儀
+vocab_01 犠飛
+vocab_01 犠牲
+vocab_02 犠牲者
+vocab_01 要旨
+vocab_02 主旨
+vocab_03 旨い
+vocab_04 旨
+vocab_01 指定する
+vocab_02 指す
+vocab_03 目指す
+vocab_04 指示する
+vocab_05 指
+vocab_06 指の節
+vocab_01 指揮者
+vocab_02 発揮する
+vocab_03 指揮する
+vocab_01 輝く
+vocab_02 輝かしい
+vocab_01 名刺
+vocab_02 虫に刺される
+vocab_03 刺激
+vocab_04 刺身
+vocab_01 対策
+vocab_02 方策
+vocab_03 政策
+vocab_01 差す
+vocab_02 交差点
+vocab_03 時差
+vocab_04 格差
+vocab_05 駅に着く
+vocab_06 接着
+vocab_07 着信
+vocab_01 看板
+vocab_02 看病する
+vocab_01 到着
+vocab_02 到底
+vocab_01 倒産
+vocab_02 倒れる
+vocab_03 倒す
+vocab_04 圧倒する
+vocab_01 論じる
+vocab_02 議論
+vocab_03 結論
+vocab_04 世論
+vocab_05 進化論
+vocab_01 倫理
+vocab_02 倫理学
+vocab_03 不倫な
+vocab_01 車輪
+vocab_02 指輪
+vocab_03 駐輪場
+vocab_04 輪
+vocab_01 輸出
+vocab_02 輸入
+vocab_03 運輸
+vocab_04 禁輸
+vocab_01 諭す
+vocab_02 教諭
+vocab_01 愉快な
+vocab_01 平癒
+vocab_02 癒す
+vocab_03 癒える
+vocab_04 心の癒し
+vocab_04 自動車十台
+vocab_05 日台
+vocab_01 政治
+vocab_02 国を治める
+vocab_03 病気が治った
+vocab_04 治安
+vocab_05 治癒
+vocab_01 冶金
+vocab_01 治療する
+vocab_02 医療
+vocab_03 療法
+vocab_01 同僚
+vocab_02 官僚
+vocab_01 明瞭な
+vocab_01 学生寮
+vocab_02 寮に住む
+vocab_05 開始する
+vocab_06 始まり
+vocab_07 原始的な
+vocab_04 始終
+vocab_05 課程を終える
+vocab_06 最終
+vocab_07 終点
+vocab_01 終了する
+vocab_02 了解
+vocab_01 了承
+vocab_02 承る
+vocab_01 蒸発
+vocab_02 蒸す
+vocab_03 蒸気
+vocab_01 舞台
+vocab_02 舞を舞う
+vocab_03 見舞う
+vocab_04 舞
+vocab_05 舞う
+vocab_01 隣人
+vocab_02 隣り合う
+vocab_03 隣接する
+vocab_04 隣
+vocab_01 瞬間
+vocab_02 瞬く
+vocab_03 瞬時
+vocab_04 一瞬
+vocab_01 悪夢
+vocab_02 夢を見る
+vocab_03 夢想
+vocab_04 夢中で
+vocab_01 枝葉
+vocab_02 枝
+vocab_03 枝切り
+vocab_04 枝豆
+vocab_01 技師
+vocab_02 得意技
+vocab_03 演技
+vocab_04 技
+vocab_01 歌舞伎
+vocab_01 分岐点
+vocab_01 峠
+vocab_01 岐阜
+vocab_06 急な
+vocab_07 至急に
+vocab_01 戦争
+vocab_02 争い
+vocab_03 論争
+vocab_04 争議
+vocab_05 争う
+vocab_05 情け無い
+vocab_06 事情
+vocab_07 同情
+vocab_01 清書
+vocab_02 清まる
+vocab_01 晴天
+vocab_02 晴れる
+vocab_03 晴らす
+vocab_04 晴れの日
+vocab_01 精神
+vocab_02 精油
+vocab_03 精液
+vocab_01 請う
+vocab_02 請ける
+vocab_03 申請
+vocab_04 請願
+vocab_01 冷静な
+vocab_02 静かな
+vocab_03 静物画
+vocab_01 浄化
+vocab_02 浄土宗
+vocab_01 計算
+vocab_02 予算
+vocab_03 精算
+vocab_04 算盤
+vocab_05 質問に答える
+vocab_06 解答
+vocab_07 応答
+vocab_08 問答
+vocab_01 符号
+vocab_02 音符
+vocab_03 切符
+vocab_01 博物館
+vocab_02 博士
+vocab_03 博学
+vocab_01 縛る
+vocab_02 束縛する
+vocab_01 名簿
+vocab_02 簿記
+vocab_03 計算簿
+vocab_01 薄弱な
+vocab_02 薄い
+vocab_03 薄情な
+vocab_04 水で薄める
+vocab_01 采
+vocab_01 青菜
+vocab_02 野菜
+vocab_03 前菜
+vocab_01 採用する
+vocab_02 採集
+vocab_03 山菜を採る
+vocab_01 彩る
+vocab_02 多彩な
+vocab_03 光彩
+vocab_04 色彩
+vocab_01 杉並木
+vocab_01 商店街
+vocab_02 街角
+vocab_03 街道
+vocab_04 街
+vocab_01 技術
+vocab_02 美術
+vocab_03 柔術
+vocab_04 芸術
+vocab_05 手術
+vocab_01 前述の通り
+vocab_02 述べる
+vocab_03 口述する
+vocab_01 余る
+vocab_02 余計な
+vocab_03 余分
+vocab_04 余地
+vocab_01 除雪する
+vocab_02 除く
+vocab_03 除去する
+vocab_01 徐行する
+vocab_02 徐々に
+vocab_01 叙述
+vocab_02 自叙伝
+vocab_03 叙情詩
+vocab_04 叙事詩
+vocab_01 斜面
+vocab_02 斜な
+vocab_03 斜線
+vocab_01 途中で
+vocab_02 用途
+vocab_03 前途
+vocab_04 発展途上国
+vocab_01 塗る
+vocab_02 塗料
+vocab_03 塗り物
+vocab_01 漆器
+vocab_02 漆塗り
+vocab_03 漆
+vocab_01 仙人
+vocab_02 仙台
+vocab_01 垂れる
+vocab_02 垂直の
+vocab_03 垂らす
+vocab_04 垂線
+vocab_04 乗車する
+vocab_05 船に乗る
+vocab_06 タクシー乗り場
+vocab_07 乗客
+vocab_08 波乗り
+vocab_09 乗せる
+vocab_01 待ち兼ねる
+vocab_02 兼任
+vocab_01 過剰
+vocab_02 剰員
+vocab_01 一睡もしなかった
+vocab_01 睡眠
+vocab_02 安眠
+vocab_03 冬眠
+vocab_01 郵便
+vocab_02 郵貯
+vocab_03 郵政
+vocab_01 紡錘
+vocab_01 中華料理
+vocab_02 華やかな
+vocab_03 華道
+vocab_01 侵入
+vocab_02 侵害
+vocab_01 浸す
+vocab_02 浸水
+vocab_03 空想に浸る
+vocab_04 浸出
+vocab_01 寝室
+vocab_02 寝る時間
+vocab_03 寝かす
+vocab_04 寝る
+vocab_05 寝具
+vocab_01 掃除
+vocab_02 掃く
+vocab_03 掃除機
+vocab_04 掃き出す
+vocab_01 主婦
+vocab_02 産婦人科医
+vocab_03 婦人
+vocab_04 夫婦
+vocab_05 帰国する
+vocab_06 復帰する
+vocab_07 帰り道
+vocab_08 帰す
+vocab_01 戻す
+vocab_02 戻る
+vocab_03 取り戻す
+vocab_01 感涙
+vocab_02 涙目
+vocab_03 空涙
+vocab_01 注射
+vocab_02 目を射る光
+vocab_03 反射
+vocab_04 発射する
+vocab_01 感謝
+vocab_02 謝る
+vocab_03 謝罪
+vocab_04 月謝
+vocab_05 謝礼
+vocab_01 討論
+vocab_02 討つ
+vocab_01 訂正する
+vocab_02 校訂する
+vocab_03 改訂する
+vocab_01 打ち込む
+vocab_02 打倒する
+vocab_03 本塁打
+vocab_01 反撃
+vocab_02 撃つ
+vocab_03 射撃する
+vocab_04 打撃
+vocab_05 撃ち破る
+vocab_01 拭う
+vocab_02 拭く
+vocab_03 手拭い
+vocab_03 試運転
+vocab_04 試してみる
+vocab_05 試み
+vocab_06 試合
+vocab_07 試す
+vocab_08 試食
+vocab_01 検討する
+vocab_02 検事
+vocab_03 点検
+vocab_04 車検
+vocab_02 受験する
+vocab_03 体験する
+vocab_01 険しい
+vocab_02 危険な
+vocab_03 保険
+vocab_01 倹約
+vocab_01 真剣
+vocab_02 剣を研ぐ
+vocab_03 剣道
+vocab_04 真剣な
+vocab_01 谷間
+vocab_02 谷川
+vocab_03 谷底
+vocab_01 食欲
+vocab_02 欲しがる
+vocab_03 欲しい物
+vocab_04 平和を欲する
+vocab_01 浴室
+vocab_02 浴びる
+vocab_03 浴衣
+vocab_04 入浴する
+vocab_05 浴びせる
+vocab_01 美容
+vocab_02 容器
+vocab_03 容量
+vocab_04 美容院
+vocab_05 包容する
+vocab_01 溶解
+vocab_02 水に溶ける
+vocab_03 溶け込む
+vocab_04 溶液
+vocab_05 溶接
+vocab_01 風俗
+vocab_02 通俗文学
+vocab_03 民俗
+vocab_04 俗語
+vocab_01 余裕
+vocab_01 寛容な
+vocab_02 寛大な
+vocab_01 甘い
+vocab_02 甘味料
+vocab_03 甘口の
+vocab_04 甘やかす
+vocab_01 紺色
+vocab_02 濃紺
+vocab_01 口紅
+vocab_02 紅茶
+vocab_03 紅葉
+vocab_01 攻める
+vocab_02 攻撃
+vocab_03 専攻する
+vocab_01 成功
+vocab_02 年功
+vocab_03 功績
+vocab_01 技巧
+vocab_02 巧みな
+vocab_03 精巧な
+vocab_01 老朽
+vocab_02 朽ちる
+vocab_03 不朽の
+vocab_01 枯れ木
+vocab_02 枯死
+vocab_03 枯れる
+vocab_01 汚名
+vocab_02 汚い
+vocab_03 汚物
+vocab_01 升
+vocab_01 代弁する
+vocab_02 関西弁
+vocab_03 安全弁
+vocab_01 昇進する
+vocab_02 位が昇る
+vocab_03 上昇する
+vocab_01 登場する
+vocab_02 山を登る
+vocab_03 登録
+vocab_01 澄む
+vocab_02 明澄な
+vocab_03 清澄な
+vocab_01 充分な
+vocab_02 充てる
+vocab_03 充満する
+vocab_01 銃砲
+vocab_02 機関銃
+vocab_03 猟銃
+vocab_04 短銃
+vocab_05 銃撃
+vocab_01 統べる
+vocab_02 伝統
+vocab_03 統制
+vocab_04 統一
+vocab_01 流れる
+vocab_02 流通
+vocab_03 電流
+vocab_01 硫酸
+vocab_02 硫黄
+vocab_01 盲目
+vocab_02 色盲
+vocab_03 盲信
+vocab_04 盲人
+vocab_04 忘失する
+vocab_01 仕事で忙しい
+vocab_02 多忙な
+vocab_01 荒れる
+vocab_02 荒天
+vocab_03 荒廃
+vocab_04 荒っぽい
+vocab_01 慌てる
+vocab_02 慌ただしい
+vocab_01 望む
+vocab_02 欲望
+vocab_03 失望する
+vocab_04 要望
+vocab_01 希な
+vocab_02 希少な
+vocab_03 希望
+vocab_04 希薄な
+vocab_01 稀
+vocab_01 総括的
+vocab_02 一括する
+vocab_01 拘る
+vocab_02 拘置
+vocab_03 拘束
+vocab_04 ...にも拘らず
+vocab_01 拾得する
+vocab_02 石を拾う
+vocab_03 拾集する
+vocab_04 拾い上げる
+vocab_01 捨てる
+vocab_02 四捨五入
+vocab_01 孤独の
+vocab_02 孤児
+vocab_01 括弧
+vocab_01 弾丸
+vocab_02 弾む
+vocab_03 弾く
+vocab_04 弾力性
+vocab_01 禅宗
+vocab_02 座禅
+vocab_03 禅寺
+vocab_01 体系
+vocab_02 系図
+vocab_03 系列
+vocab_04 日系ブラジル人
+vocab_05 直系
+vocab_01 関係
+vocab_02 会計係
+vocab_03 係累
+vocab_04 連係
+vocab_01 子孫
+vocab_02 お孫さん
+vocab_03 孫
+vocab_01 一生懸命
+vocab_02 懸念
+vocab_01 偏見
+vocab_02 偏る
+vocab_03 偏食
+vocab_01 一遍
+vocab_02 遍歴
+vocab_01 編集
+vocab_02 編む
+vocab_03 編み物
+vocab_04 編成する
+vocab_01 短篇
+vocab_01 普通の
+vocab_02 普段の
+vocab_03 普遍的な
+vocab_01 楽譜
+vocab_02 年譜
+vocab_03 系譜
+vocab_01 職業
+vocab_02 職場
+vocab_03 職務
+vocab_04 現職
+vocab_05 無職の
+vocab_01 織る
+vocab_02 組織
+vocab_03 織機
+vocab_04 織物
+vocab_01 意識する
+vocab_02 知識
+vocab_03 識別する
+vocab_04 常識
+vocab_01 殉職
+vocab_02 殉教
+vocab_03 殉教者
+vocab_01 退院
+vocab_02 退く
+vocab_03 退ける
+vocab_04 退職
+vocab_01 眼識
+vocab_02 近眼
+vocab_03 眼科
+vocab_04 千里眼
+vocab_05 眼
+vocab_01 智慧
+vocab_02 智能
+vocab_01 仁愛
+vocab_02 仁義
+vocab_03 仁義礼智信
+vocab_01 忍苦
+vocab_02 忍ぶ
+vocab_03 忍者
+vocab_01 認識
+vocab_02 失敗を認める
+vocab_03 黙認
+vocab_04 認定
+vocab_01 請求
+vocab_02 求める
+vocab_03 要求する
+vocab_04 求職
+vocab_05 求人
+vocab_01 救急車
+vocab_02 救う
+vocab_03 救命
+vocab_01 地球
+vocab_02 球拾い
+vocab_03 球
+vocab_04 球場
+vocab_05 野球
+vocab_01 駐屯する
+vocab_01 単純な
+vocab_02 純毛
+vocab_01 鈍角
+vocab_02 鈍い
+vocab_03 鈍感
+vocab_04 鈍器
+vocab_01 召集する
+vocab_02 召す
+vocab_03 召し上がる
+vocab_04 応召者
+vocab_01 招待
+vocab_02 招く
+vocab_01 沼地
+vocab_02 沼
+vocab_01 紹介する
+vocab_02 自己紹介
+vocab_01 詔書
+vocab_02 詔
+vocab_01 勅語
+vocab_01 昭和
+vocab_02 昭和天皇
+vocab_01 照明
+vocab_02 照らす
+vocab_03 対照
+vocab_01 超える
+vocab_02 超自然的な
+vocab_03 超す
+vocab_01 越える
+vocab_02 優越
+vocab_03 越す
+vocab_04 超越する
+vocab_05 引っ越す
+vocab_01 趣の有る
+vocab_02 趣旨
+vocab_03 趣
+vocab_04 情趣
+vocab_01 赴く
+vocab_02 赴任
+vocab_01 訃音
+vocab_01 朴直な
+vocab_01 掛け軸を掛ける
+vocab_02 水を掛ける
+vocab_03 掛け軸
+vocab_01 摘む
+vocab_02 指摘する
+vocab_03 摘要
+vocab_01 滴る
+vocab_02 雨滴
+vocab_03 一滴の水
+vocab_04 滴
+vocab_05 点滴
+vocab_01 嫡子
+vocab_01 適当な
+vocab_02 適する
+vocab_03 適切な
+vocab_01 敵意
+vocab_02 敵討ち
+vocab_03 敵
+vocab_04 強敵
+vocab_04 学位を授ける
+vocab_05 授与する
+vocab_01 援助
+vocab_02 支援
+vocab_03 援軍
+vocab_04 応援
+vocab_01 愛媛県
+vocab_02 媛
+vocab_01 緩和
+vocab_02 緩い
+vocab_03 緩やかな坂
+vocab_04 歩調を緩める
+vocab_01 温暖な
+vocab_02 部屋を暖める
+vocab_03 暖冬
+vocab_04 暖かな毛布
+vocab_05 地球温暖化
+vocab_01 観光
+vocab_02 価値観
+vocab_03 楽観的
+vocab_04 外観
+vocab_05 世界観
+vocab_01 勧める
+vocab_01 権利
+vocab_02 人権
+vocab_03 政権
+vocab_04 越権する
+vocab_05 権力
+vocab_01 歓楽
+vocab_02 歓声
+vocab_03 歓楽街
+vocab_01 千羽鶴
+vocab_02 鶴
+vocab_01 確かに
+vocab_02 確認
+vocab_03 確かめる
+vocab_04 確認する
+vocab_05 確実な
+vocab_06 正確な
+vocab_01 自慢
+vocab_02 慢性の
+vocab_03 我慢
+vocab_04 緩慢な
+vocab_01 漫画
+vocab_02 放漫
+vocab_03 漫才
+vocab_04 散漫な
+vocab_01 卯年
+vocab_01 抑える
+vocab_02 抑圧する
+vocab_03 抑え難い
+vocab_04 抑制する
+vocab_01 仰向け
+vocab_02 仰視する
+vocab_03 仰ぐ
+vocab_04 信仰する
+vocab_01 歓迎
+vocab_02 迎える
+vocab_03 出迎える
+vocab_04 迎え撃つ
+vocab_01 柳
+vocab_02 花柳界
+vocab_03 枝垂れ柳
+vocab_01 卵黄
+vocab_02 卵焼き
+vocab_03 産卵
+vocab_04 卵巣
+vocab_05 卵
+vocab_01 疎開
+vocab_02 疎い
+vocab_03 疎む
+vocab_04 疎遠
+vocab_01 高速道路
+vocab_02 速やかに
+vocab_03 足を速める
+vocab_04 快速
+vocab_04 足が遅い
+vocab_05 遅着
+vocab_06 返事を遅らす
+vocab_01 辻店
+vocab_01 迅速な
+vocab_01 加える
+vocab_02 加法
+vocab_03 加わる
+vocab_04 加工
+vocab_05 加害者
+vocab_01 減少する
+vocab_02 減法
+vocab_03 減る
+vocab_04 食事を減らす
+vocab_05 加減
+vocab_01 全滅
+vocab_02 敵を滅ぼす
+vocab_03 撃滅する
+vocab_04 点滅する
+vocab_01 権威
+vocab_02 威力
+vocab_01 威嚇する
+vocab_01 或いは
+vocab_02 或る人
+vocab_01 惑う
+vocab_02 惑星
+vocab_03 戸惑い
+vocab_01 地域
+vocab_02 区域
+vocab_03 聖域
+vocab_01 勝利を収める
+vocab_02 収入
+vocab_03 収支
+vocab_01 納入
+vocab_02 倉庫に納める
+vocab_01 献血
+vocab_02 献立
+vocab_03 献身
+vocab_04 献金する
+vocab_01 貢ぐ
+vocab_02 貢献する
+vocab_03 貢ぎ物
+vocab_01 貪る
+vocab_02 貪欲な
+vocab_01 貰う
+vocab_02 教えて貰う
+vocab_01 貧民
+vocab_02 貧しい
+vocab_03 貧相
+vocab_04 貧血
+vocab_01 家賃
+vocab_02 賃上げ
+vocab_03 運賃
+vocab_03 賃貸
+vocab_04 貸し出し中
+vocab_01 通貨
+vocab_02 貨物
+vocab_03 硬貨
+vocab_04 百貨店
+vocab_01 資源
+vocab_02 資料
+vocab_03 資金
+vocab_04 投資
+vocab_01 賛成
+vocab_02 賛否
+vocab_03 賞賛する
+vocab_01 交替
+vocab_02 替える
+vocab_03 替わる
+vocab_04 両替
+vocab_01 潜む
+vocab_02 潜水
+vocab_03 潜る
+vocab_04 潜在の
+vocab_01 貿易
+vocab_05 留める
+vocab_06 家に留まる
+vocab_07 拘留
+vocab_01 溜まる
+vocab_02 蒸溜
+vocab_01 賀状
+vocab_02 年賀状
+vocab_01 電線を架ける
+vocab_02 架設する
+vocab_03 画架
+vocab_04 十字架
+vocab_01 染みる
+vocab_02 感染
+vocab_03 汚染
+vocab_04 伝染病
+vocab_01 山梨
+vocab_02 梨
+vocab_01 傑作
+vocab_01 貴重な
+vocab_02 貴ぶ
+vocab_03 貴族
+vocab_01 潰す
+vocab_02 倒潰
+vocab_03 潰滅する
+vocab_01 遺言
+vocab_02 遺産
+vocab_03 遺体
+vocab_04 遺族
+vocab_01 分遣
+vocab_02 遣う
+vocab_03 心遣い
+vocab_04 遣わす
+vocab_01 追う
+vocab_02 追求する
+vocab_03 追い越す
+vocab_04 追加
+vocab_01 切迫する
+vocab_02 迫る
+vocab_03 迫害
+vocab_04 圧迫する
+vocab_01 一泊
+vocab_02 泊まる
+vocab_03 宿泊
+vocab_01 伯父
+vocab_01 拍子
+vocab_02 拍手
+vocab_01 弔う
+vocab_02 弔問
+vocab_01 沸く
+vocab_02 沸点
+vocab_03 沸かす
+vocab_04 湯沸かし
+vocab_01 煮沸
+vocab_02 煮る
+vocab_03 煮える
+vocab_01 費やす
+vocab_02 生活費
+vocab_03 燃費
+vocab_04 費用
+vocab_05 費える
+vocab_03 弟さん
+vocab_04 師弟
+vocab_01 第一
+vocab_02 次第
+vocab_03 第三者
+vocab_01 剃る
+vocab_02 剃刀
+vocab_04 兄さん
+vocab_01 只今
+vocab_02 只乗り
+vocab_03 只
+vocab_01 税金
+vocab_02 所得税
+vocab_03 税を納める
+vocab_04 付加価値税
+vocab_05 税込み
+vocab_01 鋭角
+vocab_02 鋭いナイフ
+vocab_03 鋭い
+vocab_04 鋭利な
+vocab_05 説く
+vocab_06 説明
+vocab_07 仮説
+vocab_08 説教
+vocab_09 説を立てる
+vocab_01 靴を脱ぐ
+vocab_02 脱退
+vocab_03 脱税
+vocab_04 脱毛
+vocab_01 検閲
+vocab_02 校閲
+vocab_01 祝賀
+vocab_01 状況
+vocab_02 戦況
+vocab_03 市況
+vocab_04 不況
+vocab_01 悦楽
+vocab_02 愉悦
+vocab_01 克己
+vocab_02 下克上
+vocab_01 競走する
+vocab_02 競う
+vocab_03 競技
+vocab_04 競る
+vocab_03 姉さん
+vocab_01 真珠
+vocab_02 数珠
+vocab_01 殊に
+vocab_02 特殊な
+vocab_01 序説
+vocab_02 序列
+vocab_03 序曲
+vocab_01 秩序
+vocab_01 更迭する
+vocab_01 喜ぶ
+vocab_02 喜悦
+vocab_03 親を喜ばす
+vocab_04 大喜び
+vocab_01 善い行い
+vocab_02 改善
+vocab_03 善と悪
+vocab_04 善良な
+vocab_05 善意
+vocab_01 繕う
+vocab_01 お膳
+vocab_02 二の膳
+vocab_01 遺憾な
+vocab_01 怨恨
+vocab_02 恨む
+vocab_01 惜敗
+vocab_02 惜しい
+vocab_03 惜しむ
+vocab_01 措置
+vocab_05 借金する
+vocab_01 錯覚
+vocab_01 曽祖父
+vocab_02 曽孫
+vocab_03 未曽有
+vocab_01 急増
+vocab_02 量が増える
+vocab_03 増加する
+vocab_04 増やす
+vocab_05 増減
+vocab_06 増える
+vocab_01 社会層
+vocab_02 高層ビル
+vocab_03 知識層
+vocab_01 憎悪
+vocab_02 憎しみ
+vocab_03 生憎
+vocab_04 憎まれ口
+vocab_01 僧院
+vocab_02 禅僧
+vocab_01 贈り物
+vocab_02 贈与
+vocab_03 贈呈
+vocab_04 贈る
+vocab_01 賄う
+vocab_02 収賄
+vocab_01 賄賂
+vocab_01 月賦
+vocab_02 賦税
+vocab_01 海賊
+vocab_02 賊徒
+vocab_03 山賊
+vocab_01 包帯
+vocab_02 剣を帯びる
+vocab_03 帯
+vocab_04 帯びる
+vocab_01 滞在
+vocab_02 滞る
+vocab_03 沈滞
+vocab_01 渋滞
+vocab_02 渋い
+vocab_03 交通渋滞
+vocab_01 摂取する
+vocab_02 摂氏
+vocab_03 カロリーの摂取量
+vocab_01 行為
+vocab_02 ...の為に
+vocab_03 為替
+vocab_04 為
+vocab_01 偽物
+vocab_02 偽る
+vocab_03 偽造
+vocab_04 偽
+vocab_05 偽証
+vocab_01 参加する
+vocab_02 参る
+vocab_03 参考
+vocab_01 惨事
+vocab_02 惨めな思いをする
+vocab_03 惨敗
+vocab_01 風呂
+vocab_02 語呂
+vocab_01 伴侶
+vocab_02 僧侶
+vocab_01 宮参り
+vocab_02 神宮
+vocab_03 子宮
+vocab_04 宮
+vocab_05 宮内庁
+vocab_01 営業する
+vocab_02 営む
+vocab_03 運営する
+vocab_04 市営
+vocab_01 蛍の光
+vocab_02 蛍光灯
+vocab_03 蛍光
+vocab_01 栄える
+vocab_02 栄光
+vocab_03 栄養
+vocab_04 見栄え
+vocab_01 名誉
+vocab_02 国の誉れ
+vocab_03 名誉教授
+vocab_04 栄誉
+vocab_01 例を挙げる
+vocab_02 挙用する
+vocab_03 手を挙げろ
+vocab_01 拳を固める
+vocab_02 じゃん拳
+vocab_03 拳
+vocab_01 桜花
+vocab_02 桜の木
+vocab_01 妥協
+vocab_02 妥当な
+vocab_01 桜が咲いている
+vocab_01 朕の
+vocab_01 球茎
+vocab_02 茎
+vocab_01 径路
+vocab_02 直径
+vocab_03 口径
+vocab_04 半径
+vocab_01 怪しい
+vocab_02 怪物
+vocab_03 怪我
+vocab_04 怪獣
+vocab_01 軽食
+vocab_02 軽い
+vocab_03 軽視する
+vocab_04 軽やか
+vocab_03 経営
+vocab_04 経緯
+vocab_05 十年を経て
+vocab_06 時間が経つ
+vocab_01 一斉に
+vocab_02 均斉
+vocab_01 斎戒
+vocab_02 書斎
+vocab_03 斎場
+vocab_01 経済
+vocab_02 済む
+vocab_03 返済する
+vocab_04 救済する
+vocab_01 洗剤
+vocab_02 薬剤
+vocab_03 殺虫剤
+vocab_04 調剤する
+vocab_01 解剖する
+vocab_02 解剖学
+vocab_01 陪食
+vocab_01 培養する
+vocab_02 培う
+vocab_01 賠償する
+vocab_01 貼る
+vocab_02 貼り紙
+vocab_03 貼付ける
+vocab_01 粘る
+vocab_02 粘土
+vocab_03 粘り強い
+vocab_04 粘着剤
+vocab_05 粘液
+vocab_01 均衡
+vocab_02 平衡
+vocab_01 交換する
+vocab_02 乗り換える
+vocab_03 変換
+vocab_04 ドルを円に換える
+vocab_05 換気
+vocab_01 喚声
+vocab_02 喚問
+vocab_04 通信は絶えた
+vocab_05 絶対
+vocab_06 連絡を絶つ
+vocab_07 絶縁
+vocab_08 絶滅
+vocab_01 御免
+vocab_02 免れる
+vocab_03 免税
+vocab_04 免職
+vocab_01 逸脱
+vocab_02 逸品
+vocab_03 勉強
+vocab_04 勉強家
+vocab_01 晩ご飯
+vocab_02 晩年
+vocab_03 毎晩
+vocab_04 一晩中
+vocab_05 晩に
+vocab_01 許可
+vocab_02 許す
+vocab_03 特許
+vocab_04 免許
+vocab_01 アフリカ象
+vocab_02 現象
+vocab_03 気象
+vocab_04 対象
+vocab_05 印象
+vocab_01 想像する
+vocab_02 仏像
+vocab_03 映像
+vocab_04 画像
+vocab_01 彫る
+vocab_02 彫像
+vocab_03 浮き彫り
+vocab_01 背景
+vocab_02 景気
+vocab_03 景色
+vocab_01 面影
+vocab_02 影像
+vocab_01 撮影
+vocab_02 写真を撮る
+vocab_01 職に就く
+vocab_02 就職
+vocab_03 就任
+vocab_01 清涼な
+vocab_02 涼む
+vocab_01 鯨肉
+vocab_02 鯨飲する
+vocab_03 鯨
+vocab_01 遠隔の
+vocab_02 隔てる
+vocab_03 隔絶する
+vocab_04 隔週に
+vocab_05 隔たる
+vocab_01 金融
+vocab_02 融合
+vocab_01 肖像
+vocab_01 消える
+vocab_02 消防
+vocab_03 消す
+vocab_04 消滅
+vocab_05 消費する
+vocab_01 硝薬
+vocab_01 末梢
+vocab_02 梢
+vocab_01 削る
+vocab_02 削除
+vocab_03 研削
+vocab_04 削減
+vocab_01 宵の口
+vocab_02 宵
+vocab_01 賀宴
+vocab_02 宴
+vocab_01 愛郷心
+vocab_02 郷土
+vocab_01 饗宴
+vocab_01 響く
+vocab_02 影響
+vocab_03 音響
+vocab_04 反響
+vocab_05 交響曲
+vocab_01 城下町
+vocab_02 万里の長城
+vocab_03 城
+vocab_04 大阪城
+vocab_01 誠意
+vocab_02 誠に
+vocab_03 忠誠
+vocab_01 盛る
+vocab_02 盛大な
+vocab_03 盛り上がる
+vocab_04 全盛
+vocab_01 旺盛な
+vocab_01 盆地
+vocab_02 盆祭り
+vocab_01 目蓋
+vocab_02 蓋を開ける
+vocab_03 円蓋
+vocab_04 蓋
+vocab_05 口蓋
+vocab_06 頭蓋骨
+vocab_01 盗む
+vocab_02 盗難
+vocab_03 盗賊
+vocab_01 同盟
+vocab_02 加盟
+vocab_03 連盟
+vocab_01 塩分
+vocab_02 塩
+vocab_03 塩味
+vocab_04 食塩
+vocab_01 負傷する
+vocab_02 傷んだトマト
+vocab_03 中傷
+vocab_04 傷む
+vocab_05 傷害
+vocab_06 傷める
+vocab_07 傷
+vocab_01 抑揚
+vocab_02 揚げる
+vocab_03 揚げ物
+vocab_01 流暢な
+vocab_01 陽性
+vocab_02 太陽
+vocab_03 陽気な
+vocab_04 陽光
+vocab_01 陰影
+vocab_02 陰性
+vocab_03 日陰
+vocab_04 陰陽
+vocab_01 隠す
+vocab_02 隠居
+vocab_03 隠れる
+vocab_01 穏やかな人
+vocab_02 穏和な
+vocab_03 穏やかな海
+vocab_04 穏当な
+vocab_05 平穏な
+vocab_01 穂先
+vocab_02 穂状の
+vocab_01 稲作
+vocab_02 水稲
+vocab_01 愁い
+vocab_02 憂愁
+vocab_03 愁える
+vocab_04 郷愁
+vocab_05 ご愁傷様
+vocab_01 裁く
+vocab_02 裁つ
+vocab_03 裁判
+vocab_04 洋裁
+vocab_05 独裁
+vocab_01 載る
+vocab_02 連載
+vocab_03 載せる
+vocab_01 盆栽
+vocab_02 栽培
+vocab_01 赦免
+vocab_02 大赦
+vocab_01 足跡
+vocab_02 遺跡
+vocab_03 跡
+vocab_01 失踪する
+vocab_01 痕跡
+vocab_02 傷痕
+vocab_01 蹴る
+vocab_02 蹴出す
+vocab_01 舞踊
+vocab_02 踊る
+vocab_03 盆踊り
+vocab_01 踏む
+vocab_02 舞踏
+vocab_03 踏まえる
+vocab_04 踏切
+vocab_01 躍る
+vocab_02 活躍
+vocab_03 飛躍
+vocab_01 洗濯する
+vocab_02 洗濯機
+vocab_01 好奇心
+vocab_02 奇跡
+vocab_03 奇数
+vocab_01 寄付
+vocab_02 寄る
+vocab_03 寄贈する
+vocab_04 寄せる
+vocab_01 騎手
+vocab_02 騎馬
+vocab_01 椅子
+vocab_02 車椅子
+vocab_01 長崎
+vocab_02 川崎
+vocab_01 埼玉県
+vocab_01 岬
+vocab_01 模様
+vocab_02 模型
+vocab_03 模範
+vocab_04 規模
+vocab_01 粘膜
+vocab_02 角膜
+vocab_01 砂漠
+vocab_01 幕府
+vocab_02 開幕
+vocab_03 幕末
+vocab_01 墓標
+vocab_02 墓参り
+vocab_03 墓
+vocab_04 墓地
+vocab_01 募る
+vocab_02 募集する
+vocab_03 募金
+vocab_04 応募する
+vocab_01 薄暮
+vocab_02 暮らす
+vocab_03 暮れる
+vocab_04 一人暮らし
+vocab_01 慕う
+vocab_02 慕情
+vocab_03 慕わしい
+vocab_01 添付する
+vocab_02 添う
+vocab_03 添乗員
+vocab_04 添える
+vocab_01 恭敬
+vocab_02 恭しい
+vocab_03 恭賀新年
+vocab_01 暴く
+vocab_02 暴力
+vocab_03 暴れる
+vocab_04 乱暴
+vocab_01 爆発
+vocab_02 爆撃
+vocab_03 爆薬
+vocab_04 爆弾
+vocab_05 原爆
+vocab_01 沿う
+vocab_02 沿線の
+vocab_03 川沿いに
+vocab_01 礎
+vocab_02 定礎
+vocab_01 疑問
+vocab_02 疑う
+vocab_03 疑惑
+vocab_04 容疑
+vocab_05 疑わしい
+vocab_01 凝る
+vocab_02 凝結する
+vocab_03 凝り固まる
+vocab_04 凝り性
+vocab_05 凝らす
+vocab_01 模擬
+vocab_02 擬声語
+vocab_01 前例に倣う
+vocab_02 模倣する
+vocab_01 類似する
+vocab_02 真似する
+vocab_03 似合う
+vocab_01 米俵
+vocab_02 土俵
+vocab_03 俵
+vocab_01 俺ら
+vocab_02 俺
+vocab_01 庵
+vocab_01 従僕
+vocab_02 僕の
+vocab_03 忠僕
+vocab_01 相撲
+vocab_02 打撲傷
+vocab_01 キーを叩く
+vocab_02 叩頭
+vocab_01 伐採する
+vocab_02 征伐
+vocab_01 財閥
+vocab_02 閥族
+vocab_01 闘う
+vocab_02 闘争
+vocab_03 春闘
+vocab_04 戦闘
+vocab_05 拳闘
+vocab_01 闇市
+vocab_02 闇相場
+vocab_03 闇
+vocab_01 閑静な
+vocab_02 農閑期
+vocab_01 動脈
+vocab_02 文脈
+vocab_03 脈拍
+vocab_04 静脈
+vocab_05 山脈
+vocab_01 派閥
+vocab_02 人材派遣
+vocab_03 宗派
+vocab_04 派生する
+vocab_01 空き缶
+vocab_02 缶切り
+vocab_03 缶詰め
+vocab_01 動揺
+vocab_02 揺れる
+vocab_01 民謡
+vocab_02 謡う
+vocab_01 遥かに
+vocab_01 陶器
+vocab_02 陶芸
+vocab_03 陶工
+vocab_01 陳述する
+vocab_02 陳情
+vocab_01 陣地
+vocab_02 陣営
+vocab_03 陣形
+vocab_04 退陣する
+vocab_01 陥落する
+vocab_02 穴に陥る
+vocab_03 陥没する
+vocab_04 欠陥
+vocab_05 人を陥れる
+vocab_01 隆々たる
+vocab_02 隆起
+vocab_03 興隆
+vocab_01 以降
+vocab_02 降りる
+vocab_03 雨が降っている
+vocab_04 降ろす
+vocab_01 連峰
+vocab_02 峰
+vocab_01 逢う
+vocab_02 逢着する
+vocab_03 逢い引き
+vocab_01 縫う
+vocab_02 裁縫
+vocab_03 縫い針
+vocab_01 養蜂
+vocab_02 蜂の巣
+vocab_03 蜂
+vocab_01 蜂蜜
+vocab_02 花蜜
+vocab_01 密輸
+vocab_02 密接な
+vocab_03 精密
+vocab_01 心に秘める
+vocab_02 秘密
+vocab_03 秘書
+vocab_04 神秘
+vocab_01 欧米
+vocab_02 欧州
+vocab_03 北欧
+vocab_04 西欧
+vocab_01 枢軸
+vocab_02 枢要な
+vocab_03 枢軸国
+vocab_04 中枢
+vocab_01 殴る
+vocab_02 殴打
+vocab_03 殴殺する
+vocab_04 殴り倒す
+vocab_01 駆ける
+vocab_02 先駆者
+vocab_03 駆け込み乗車
+vocab_01 ご馳走様でした
+vocab_02 ご馳走する
+vocab_03 馳せる
+vocab_04 後れ馳せ
+vocab_01 騒ぐ
+vocab_02 騒音
+vocab_03 騒動
+vocab_04 騒々しい
+vocab_05 大騒ぎ
+vocab_01 旭
+vocab_01 一旦
+vocab_02 元旦
+vocab_01 但し
+vocab_02 但し書き
+vocab_01 責任を担う
+vocab_02 担当する
+vocab_03 負担
+vocab_04 担架
+vocab_05 御輿を担ぐ
+vocab_01 数キロに亘る
+vocab_01 恒常
+vocab_02 恒星
+vocab_03 恒例
+vocab_01 石垣
+vocab_02 垣根
+vocab_01 宣伝
+vocab_02 宣布
+vocab_03 宣教
+vocab_04 宣戦
+vocab_05 宣言
+vocab_01 喧しい
+vocab_01 喧嘩
+vocab_02 夫婦喧嘩
+vocab_01 唾液
+vocab_02 唾
+vocab_01 油壷
+vocab_02 壷
+vocab_01 地坪
+vocab_01 湖畔
+vocab_02 河畔
+vocab_01 大衆小説
+vocab_02 アメリカ合衆国
+vocab_03 公衆電話
+vocab_04 民衆
+vocab_05 衆議院
+vocab_01 日独伊
+vocab_02 伊呂波
+vocab_01 君の
+vocab_02 君主
+vocab_03 君が代
+vocab_04 君
+vocab_05 平野君
+vocab_01 羊の群れ
+vocab_02 魚群
+vocab_03 群衆
+vocab_01 郡部
+vocab_01 旦那
+vocab_02 刹那
+vocab_01 邦人
+vocab_02 連邦
+vocab_01 郊外
+vocab_02 近郊
+vocab_01 効果
+vocab_02 良く効く
+vocab_03 有効な
+vocab_04 効率
+vocab_05 効く
+vocab_01 首を絞める
+vocab_02 お絞り
+vocab_03 絞殺する
+vocab_01 搾取する
+vocab_02 搾油
+vocab_01 指紋
+vocab_02 家紋
+vocab_01 菊の御紋
+vocab_01 帝国
+vocab_02 帝
+vocab_03 帝国主義
+vocab_01 締め切り
+vocab_02 締結する
+vocab_03 取り締まる
+vocab_04 締める
+vocab_01 諦める
+vocab_02 諦め
+vocab_01 享年
+vocab_02 享受する
+vocab_03 享有する
+vocab_01 外郭
+vocab_02 城郭
+vocab_01 料亭
+vocab_02 旅亭
+vocab_03 亭主関白
+vocab_04 亭主
+vocab_01 停止
+vocab_02 バス停留所
+vocab_03 停車
+vocab_01 昆虫
+vocab_02 昆布
+vocab_03 昆虫学
+vocab_01 混雑
+vocab_02 混ぜる
+vocab_03 混血
+vocab_04 混乱
+vocab_05 混合
+vocab_01 皆で
+vocab_02 皆無
+vocab_03 皆様
+vocab_01 楷書
+vocab_01 諧調
+vocab_01 階段
+vocab_02 階層
+vocab_01 陛下
+vocab_02 天皇陛下
+vocab_01 大陸
+vocab_02 着陸
+vocab_03 陸上
+vocab_04 陸軍
+vocab_05 陸兵
+vocab_01 親睦
+vocab_02 睦む
+vocab_03 睦まじい
+vocab_01 大勢
+vocab_02 勢い良く
+vocab_03 大勢
+vocab_04 勢い
+vocab_05 勢力
+vocab_06 情勢
+vocab_01 情熱
+vocab_02 熱いコーヒー
+vocab_03 高熱
+vocab_04 熱望
+vocab_01 熟れる
+vocab_02 未熟な
+vocab_03 円熟した
+vocab_04 熟語
+vocab_01 英語塾
+vocab_02 塾生
+vocab_01 丘陵
+vocab_02 陵
+vocab_01 三菱
+vocab_02 菱形
+vocab_01 俊傑
+vocab_02 俊英
+vocab_03 俊才
+vocab_01 唆す
+vocab_02 示唆する
+vocab_01 その筈だ
+vocab_01 お箸
+vocab_02 火箸
+vocab_01 蒸し暑い
+vocab_02 暑中
+vocab_03 猛暑
+vocab_01 消防署
+vocab_02 署名
+vocab_03 税務署
+vocab_04 警察署
+vocab_01 時代の曙
+vocab_02 曙
+vocab_01 金を賭ける
+vocab_02 賭け
+vocab_01 諸国
+vocab_02 諸君
+vocab_01 儲ける
+vocab_02 儲かる
+vocab_01 一緒に
+vocab_02 へその緒
+vocab_03 由緒
+vocab_04 緒戦
+vocab_05 緒
+vocab_01 老翁
+vocab_01 老婆
+vocab_02 お婆さん
+vocab_01 姿を消す
+vocab_02 姿勢
+vocab_03 姿
+vocab_01 恣意的
+vocab_01 妄想
+vocab_02 妄想症
+vocab_03 妄言
+vocab_04 妄信
+vocab_01 萎える
+vocab_02 萎縮する
+vocab_03 萎びる
+vocab_01 夫妻
+vocab_02 妻にする
+vocab_03 良妻
+vocab_04 森様御夫妻
+vocab_05 妻
+vocab_01 物凄い
+vocab_02 凄惨な
+vocab_03 凄くない
+vocab_01 腕章
+vocab_02 第一章
+vocab_03 紋章
+vocab_04 文章
+vocab_01 表彰する
+vocab_01 障害
+vocab_02 障る
+vocab_03 障子
+vocab_04 故障
+vocab_01 辛抱
+vocab_02 辛い
+vocab_03 辛苦
+vocab_04 塩辛い
+vocab_01 主宰する
+vocab_02 主宰者
+vocab_01 辣腕な
+vocab_02 辣油
+vocab_01 辞典
+vocab_02 会社を辞める
+vocab_03 辞職
+vocab_01 障壁
+vocab_02 言葉の壁
+vocab_03 壁紙
+vocab_04 城壁
+vocab_01 完璧な
+vocab_01 悪癖
+vocab_02 口癖
+vocab_03 癖
+vocab_01 避難
+vocab_02 避ける
+vocab_03 回避する
+vocab_05 幸いな
+vocab_06 幸せな夫婦
+vocab_03 克服する
+vocab_04 征服
+vocab_05 衣服
+vocab_06 服従
+vocab_01 情報
+vocab_02 報いる
+vocab_03 訃報
+vocab_04 報告する
+vocab_05 報償
+vocab_01 執着する
+vocab_02 執る
+vocab_03 執行する
+vocab_04 固執する
+vocab_05 執念
+vocab_01 真摯な
+vocab_01 達成する
+vocab_02 達する
+vocab_03 配達
+vocab_04 友達
+vocab_01 朗らかに笑う
+vocab_02 朗読
+vocab_03 明朗な
+vocab_01 浪人
+vocab_02 波浪
+vocab_03 流浪する
+vocab_01 呉れる
+vocab_02 呉国
+vocab_01 娯楽
+vocab_01 誤る
+vocab_02 誤解
+vocab_03 錯誤
+vocab_01 豊富な
+vocab_02 富む
+vocab_03 富裕
+vocab_04 富
+vocab_05 富の分配
+vocab_01 副作用
+vocab_02 副詞
+vocab_03 副産物
+vocab_04 副次的な
+vocab_05 副業
+vocab_01 振幅
+vocab_02 横幅
+vocab_03 幅が利く
+vocab_04 幅
+vocab_05 大幅に
+vocab_06 幅広い
+vocab_01 幸福な
+vocab_02 福音
+vocab_01 福祉
+vocab_01 禍福
+vocab_01 渦巻き
+vocab_02 渦中
+vocab_03 渦
+vocab_01 鍋蓋
+vocab_02 土鍋
+vocab_01 蘭学
+vocab_02 蘭を栽培する
+vocab_01 空欄
+vocab_02 スポーツ欄
+vocab_01 湿潤な
+vocab_02 潤う
+vocab_03 利潤
+vocab_04 潤い
+vocab_01 絶望の淵
+vocab_01 滑る
+vocab_02 円滑な
+vocab_03 滑走路
+vocab_04 潤滑油
+vocab_05 滑らかに
+vocab_01 滑稽な
+vocab_02 稽古
+vocab_01 肩凝り
+vocab_02 肩章
+vocab_03 肩に担ぐ
+vocab_01 脅かす
+vocab_02 脅迫する
+vocab_03 脅かす
+vocab_04 脅威
+vocab_05 脅迫状
+vocab_01 肯定
+vocab_02 肯定的
+vocab_01 双子
+vocab_02 双方
+vocab_03 双
+vocab_01 江湖
+vocab_02 入り江
+vocab_03 江戸
+vocab_01 東京湾
+vocab_02 台湾
+vocab_03 真珠湾
+vocab_03 港町
+vocab_01 選挙
+vocab_02 選ぶ
+vocab_03 選手
+vocab_04 当選
+vocab_01 二者択一
+vocab_01 沢地
+vocab_02 沢山
+vocab_03 沢
+vocab_01 通訳
+vocab_02 訳者
+vocab_03 直訳
+vocab_04 訳
+vocab_05 言い訳
+vocab_01 解釈
+vocab_02 釈放
+vocab_01 敷設
+vocab_02 敷く
+vocab_03 布団を敷く
+vocab_04 敷金
+vocab_05 屋敷
+vocab_01 傲慢
+vocab_01 贅沢
+vocab_01 審議
+vocab_02 陪審
+vocab_03 審判
+vocab_01 藩主
+vocab_02 藩閥
+vocab_03 幕藩体制
+vocab_01 翻訳する
+vocab_02 翻る
+vocab_03 翻案
+vocab_01 翔る
+vocab_02 飛翔
+vocab_03 滑翔機
+vocab_02 検査
+vocab_03 審査する
+vocab_01 租税
+vocab_01 粗い細工
+vocab_02 粗末な
+vocab_03 粗悪な
+vocab_04 粗造り
+vocab_01 道を阻む
+vocab_02 阻害する
+vocab_01 狙う
+vocab_02 狙撃
+vocab_01 便宜
+vocab_02 宜しい
+vocab_03 宜しくお伝え下さい
+vocab_01 畳む
+vocab_02 四畳半の部屋
+vocab_03 畳み椅子
+vocab_04 畳替え
+vocab_01 手の甲
+vocab_02 甲羅
+vocab_01 乙
+vocab_01 甲乙丙
+vocab_01 家柄
+vocab_02 間柄
+vocab_01 押す
+vocab_02 押収
+vocab_03 押さえる
+vocab_01 抽選
+vocab_02 抽象的
+vocab_03 抽出する
+vocab_01 捜査
+vocab_02 捜す
+vocab_01 届く
+vocab_02 届ける
+vocab_03 欠席届
+vocab_04 届け先
+vocab_01 宙返り
+vocab_01 警笛
+vocab_02 口笛
+vocab_03 笛
+vocab_01 半袖
+vocab_02 長袖
+vocab_01 襟を正す
+vocab_02 開襟シャツ
+vocab_03 襟
+vocab_01 衿
+vocab_01 裾裏
+vocab_02 裾
+vocab_01 据える
+vocab_01 握る
+vocab_02 握手
+vocab_03 お握り
+vocab_01 揃える
+vocab_02 揃う
+vocab_01 撫でる
+vocab_01 委託する
+vocab_02 託す
+vocab_01 住宅
+vocab_02 自宅
+vocab_03 お宅
+vocab_04 家宅捜査
+vocab_01 詫び状
+vocab_01 宇宙
+vocab_02 宇宙飛行士
+vocab_03 大宇宙
+vocab_01 焼き芋
+vocab_02 ジャガ芋
+vocab_01 新年の寿
+vocab_02 寿命
+vocab_03 寿
+vocab_04 寿司を握る
+vocab_05 長寿
+vocab_01 鋳る
+vocab_02 鋳造
+vocab_01 銘文
+vocab_02 感銘
+vocab_03 銘記する
+vocab_01 鏡に映る
+vocab_02 眼鏡
+vocab_03 鏡
+vocab_04 双眼鏡
+vocab_05 望遠鏡
+vocab_01 境目
+vocab_02 国境
+vocab_03 境
+vocab_04 境界
+vocab_01 環境
+vocab_02 環状の
+vocab_03 環状線
+vocab_01 返還
+vocab_02 還暦
+vocab_01 矛盾
+vocab_02 後ろ盾
+vocab_03 盾
+vocab_01 循環
+vocab_02 血液循環
+vocab_03 悪循環
+vocab_01 巡る
+vocab_02 巡礼
+vocab_03 血の巡り
+vocab_04 巡察する
+vocab_01 這う
+vocab_02 横這い
+vocab_01 逓信
+vocab_02 逓送
+vocab_01 息
+vocab_02 休息
+vocab_03 息子
+vocab_04 溜め息
+vocab_05 一息
+vocab_01 休憩する
+vocab_02 憩いの場
+vocab_03 小憩
+vocab_01 象の鼻
+vocab_02 鼻音
+vocab_03 鼻
+vocab_04 耳鼻
+vocab_05 鼻血
+vocab_01 気孔
+vocab_02 孔子
+vocab_03 鼻孔
+vocab_01 悪臭
+vocab_02 体臭
+vocab_01 嗅ぐ
+vocab_02 嗅覚
+vocab_03 嗅ぎ出す
+vocab_01 奥様
+vocab_02 奥行き
+vocab_03 奥
+vocab_01 尖鋭な
+vocab_02 尖る
+vocab_01 突破する
+vocab_02 突く
+vocab_03 突然
+vocab_04 突入する
+vocab_05 煙突
+vocab_01 窒息
+vocab_02 窒素
+vocab_01 窃取
+vocab_02 窃盗犯
+vocab_01 衝撃
+vocab_02 衝突する
+vocab_01 契る
+vocab_02 契約
+vocab_03 契機
+vocab_01 喫煙
+vocab_02 満喫する
+vocab_03 喫茶店
+vocab_01 潔い
+vocab_02 潔癖
+vocab_03 不潔な
+vocab_04 清潔な
+vocab_05 純潔な
+vocab_01 侮り難い敵
+vocab_02 侮言
+vocab_03 侮る
+vocab_01 梅干し
+vocab_02 梅雨
+vocab_03 梅
+vocab_04 梅酒
+vocab_01 後悔する
+vocab_02 悔しい
+vocab_03 悔恨
+vocab_01 敏感な
+vocab_02 鋭敏な
+vocab_01 繁栄する
+vocab_02 繁殖する
+vocab_03 繁忙
+vocab_01 手を繋ぐ
+vocab_02 繋がる
+vocab_01 茂る
+vocab_02 繁茂する
+vocab_03 生い茂る
+vocab_01 架橋
+vocab_02 吊り橋
+vocab_03 橋
+vocab_04 鉄橋
+vocab_05 高橋
+vocab_01 枝を矯める
+vocab_02 矯正
+vocab_03 矯め直す
+vocab_01 原稿
+vocab_02 投稿する
+vocab_01 縞模様
+vocab_02 縞
+vocab_03 縞馬
+vocab_01 便箋
+vocab_02 処方箋
+vocab_03 付箋
+vocab_05 残る
+vocab_01 桟橋
+vocab_01 銭湯
+vocab_02 銭入れ
+vocab_03 金銭
+vocab_01 実践する
+vocab_02 実践的
+vocab_01 浅い
+vocab_02 浅海
+vocab_03 浅薄
+vocab_01 洩れる
+vocab_02 洩らす
+vocab_03 水洩れ
+vocab_01 壮大な
+vocab_02 壮絶な
+vocab_01 別荘
+vocab_02 荘厳な
+vocab_03 山荘
+vocab_01 服装
+vocab_02 武装
+vocab_03 装う
+vocab_04 装置
+vocab_01 冥利
+vocab_02 冥福
+vocab_03 冥想
+vocab_01 暗号
+vocab_02 暗闇
+vocab_03 暗記する
+vocab_04 暗証番号
+vocab_01 脚韻
+vocab_02 頭韻
+vocab_01 損なう
+vocab_02 見損なう
+vocab_03 損失
+vocab_04 損害
+vocab_05 損な条件
+vocab_01 捕鯨
+vocab_02 魚を捕る
+vocab_03 捕手
+vocab_01 挿す
+vocab_02 挿入する
+vocab_01 欠陥を補う
+vocab_02 補欠
+vocab_03 補償する
+vocab_04 補充する
+vocab_01 浦
+vocab_01 哺乳類
+vocab_02 哺育する
+vocab_01 舗装
+vocab_02 店舗
+vocab_03 舗道
+vocab_04 老舗
+vocab_01 掴む
+vocab_01 捉える
+vocab_02 捕捉
+vocab_01 発達を促す
+vocab_02 促進する
+vocab_03 促す
+vocab_01 筆者
+vocab_02 筆先
+vocab_03 筆
+vocab_04 万年筆
+vocab_01 津波
+vocab_01 法律
+vocab_02 韻律
+vocab_01 逮捕
+vocab_02 逮捕状
+vocab_05 建立
+vocab_06 建設する
+vocab_01 健やかな体
+vocab_02 健全
+vocab_03 強健な
+vocab_01 健康
+vocab_02 小康
+vocab_03 健康保険
+vocab_01 庸才
+vocab_01 粛清する
+vocab_02 粛々と
+vocab_03 厳粛な
+style=""""color:
+vocab_01 唐様
+vocab_02 唐朝
+vocab_03 唐辛子
+vocab_01 砂糖
+vocab_02 果糖
+vocab_03 糖分
+vocab_04 無糖
+vocab_01 化粧
+vocab_02 化粧品
+vocab_03 化粧室
+vocab_01 食糧
+vocab_02 心の糧
+vocab_03 糧
+vocab_01 小麦粉
+vocab_02 粉薬
+vocab_03 粉末
+vocab_04 粉
+vocab_01 紛らわしい
+vocab_02 紛れる
+vocab_03 紛争
+vocab_04 紛らす
+vocab_01 糾問
+vocab_02 紛糾
+vocab_01 純粋な
+vocab_02 精粋
+vocab_01 粉砕する
+vocab_02 砕く
+vocab_03 砕ける
+vocab_01 枠組み
+vocab_02 枠
+vocab_03 窓枠
+vocab_01 麻酔
+vocab_02 酔う
+vocab_03 二日酔い
+vocab_04 船酔い
+vocab_05 酔っ払う
+vocab_01 覚醒剤
+vocab_02 醒める
+vocab_03 酔い醒める
+vocab_04 醒す
+vocab_01 報酬
+vocab_01 酷い
+vocab_02 残酷な
+vocab_01 平凡な
+vocab_02 凡人
+vocab_01 凧揚げ
+vocab_02 凧
+vocab_01 帆船
+vocab_02 帆走
+vocab_03 帆
+vocab_01 汎用の
+vocab_02 汎米
+vocab_01 恐れる
+vocab_02 恐慌
+vocab_03 恐ろしい
+vocab_04 恐竜
+vocab_01 怖い
+vocab_02 恐怖
+vocab_03 怖がる
+vocab_01 建築
+vocab_02 新築
+vocab_03 建築家
+vocab_01 尋ねる
+vocab_02 尋問
+vocab_03 尋ね人
+vocab_04 尋ね求める
+vocab_01 訊ねる
+vocab_02 道を訊く
+vocab_03 訊問する
+vocab_01 諮問する
+vocab_02 諮る
+vocab_01 抵抗する
+vocab_02 抗議
+vocab_01 航空券
+vocab_02 航行
+vocab_03 航空
+vocab_01 坑夫
+vocab_02 金坑
+vocab_01 拝見する
+vocab_02 参拝する
+vocab_03 拝む
+vocab_04 拝借する
+vocab_05 礼拝
+vocab_01 耕す
+vocab_02 耕作する
+vocab_01 消耗する
+vocab_02 損耗
+vocab_01 崇拝
+vocab_02 崇高な
+vocab_01 灰皿
+vocab_02 灰
+vocab_03 灰色
+vocab_01 炭素
+vocab_02 炭
+vocab_03 炭坑
+vocab_04 石炭
+vocab_01 海岸
+vocab_02 向こう岸
+vocab_03 沿岸
+vocab_04 岸
+vocab_01 岩登り
+vocab_02 岩石
+vocab_01 崩れる
+vocab_02 崩落する
+vocab_03 土砂崩れ
+vocab_01 嵐
+vocab_02 砂嵐
+vocab_01 断崖
+vocab_02 崖
+vocab_01 主催
+vocab_02 催促する
+vocab_03 開催する
+vocab_04 催眠
+vocab_05 催す
+vocab_01 焦点
+vocab_02 焦げる
+vocab_03 焦る
+vocab_04 焦熱
+vocab_05 焦心
+vocab_01 座礁
+vocab_02 環礁
+vocab_01 奮う
+vocab_02 興奮
+vocab_03 奮然と
+vocab_04 奮闘
+vocab_01 略奪
+vocab_02 奪う
+vocab_01 隻眼
+vocab_02 一隻
+vocab_01 獲物
+vocab_02 獲得する
+vocab_03 獲る
+vocab_04 乱獲
+vocab_05 捕獲する
+vocab_01 収穫する
+vocab_02 収穫期
+vocab_01 弁護士
+vocab_02 護る
+vocab_03 保護者
+vocab_04 看護師
+vocab_01 譲る
+vocab_02 譲歩
+vocab_01 お嬢さん
+vocab_02 老嬢
+vocab_01 酒を醸す
+vocab_02 醸造
+vocab_03 醸造所
+vocab_01 土壌
+vocab_01 崩壊する
+vocab_02 壊れる
+vocab_03 破壊する
+vocab_04 壊す
+vocab_01 懐かしむ
+vocab_02 懐郷
+vocab_03 懐
+vocab_04 懐中電灯
+vocab_01 道徳
+vocab_02 美徳
+vocab_03 徳川幕府
+vocab_04 徳義
+vocab_01 聴衆
+vocab_02 視聴者
+vocab_03 聴覚
+vocab_04 民の声を聴く
+vocab_01 無恥
+vocab_02 恥ずかしい
+vocab_03 恥じる
+vocab_04 恥毛
+vocab_05 恥知らず
+vocab_01 羞恥心
+vocab_01 爵位
+vocab_01 諸侯
+vocab_01 喉頭
+vocab_02 喉を潤す
+vocab_03 喉
+vocab_01 時候
+vocab_02 候補者
+vocab_03 天候
+vocab_01 修める
+vocab_02 研修
+vocab_03 修士
+vocab_01 悠々と
+vocab_01 是非
+vocab_01 提案
+vocab_02 提げる
+vocab_03 提供する
+vocab_04 提出する
+vocab_05 前提
+vocab_01 堤防
+vocab_02 防波堤
+vocab_03 堤
+vocab_05 表題
+vocab_06 議題
+vocab_01 茶匙
+vocab_02 大匙
+vocab_01 冒険
+vocab_02 危険を冒す
+vocab_01 繁昌
+vocab_01 唱える
+vocab_02 合唱
+vocab_01 結晶
+vocab_02 液晶
+vocab_01 帽子
+vocab_02 脱帽
+vocab_01 棟木
+vocab_02 病棟
+vocab_03 棟
+vocab_01 冷凍
+vocab_02 凍り付く
+vocab_03 凍傷
+vocab_04 凍る
+vocab_05 凍結
+vocab_01 氷河
+vocab_02 氷水
+vocab_03 氷山
+vocab_04 氷
+vocab_01 永い
+vocab_02 永久
+vocab_03 永住
+vocab_01 水泳
+vocab_02 泳ぐ
+vocab_03 背泳
+vocab_01 和歌を詠む
+vocab_02 詠唱
+vocab_03 朗詠
+vocab_01 標札
+vocab_02 改札口
+vocab_03 名札
+vocab_04 札
+vocab_02 何枚
+vocab_03 枚数
+vocab_01 一杯
+vocab_02 杯を干す
+vocab_03 杯
+vocab_01 分析
+vocab_02 解析
+vocab_01 骨折
+vocab_02 折り紙
+vocab_03 右折
+vocab_04 折る
+vocab_05 折り返し
+vocab_06 左折
+vocab_01 挫折
+vocab_02 挫傷
+vocab_03 挫ける
+vocab_04 挫く
+vocab_01 捻挫
+vocab_02 捻る
+vocab_01 誓う
+vocab_02 誓願
+vocab_01 逝去する
+vocab_02 逝く
+vocab_01 哲学
+vocab_01 斬る
+vocab_02 斬首
+vocab_01 漸進
+vocab_01 暫く
+vocab_02 暫定の
+vocab_01 排斥する
+vocab_01 起訴
+vocab_02 訴える
+vocab_03 上訴する
+vocab_01 訴訟
+vocab_02 刑事訴訟
+vocab_03 民事訴訟
+vocab_04 研究室
+vocab_01 窮める
+vocab_02 窮地
+vocab_03 貧窮
+vocab_01 南極圏
+vocab_02 極めて
+vocab_03 陽極
+vocab_04 極秘
+vocab_01 函館
+vocab_02 投函する
+vocab_01 探す
+vocab_02 探求
+vocab_03 探究
+vocab_04 探検
+vocab_05 探る
+vocab_01 深度
+vocab_02 深める
+vocab_03 深夜
+vocab_04 興味深い
+vocab_05 測深
+vocab_06 深い
+vocab_01 慄然として
+vocab_01 危惧
+vocab_02 絶滅危惧種
+vocab_01 慎重
+vocab_02 慎む
+vocab_03 慎み深い
+vocab_01 鎮める
+vocab_02 鎮痛剤
+vocab_03 鎮圧する
+vocab_04 鎮静剤
+vocab_01 充塡する
+vocab_03 結婚
+vocab_04 婚約
+vocab_05 未婚
+vocab_06 新婚旅行
+vocab_07 恋愛結婚
+vocab_01 獄囚
+vocab_01 困る
+vocab_02 困難
+vocab_03 生活に困る
+vocab_04 貧困
+vocab_05 困窮
+vocab_01 同梱する
+vocab_02 梱包
+vocab_01 原因
+vocab_02 に因る
+vocab_03 要因
+vocab_04 因果
+vocab_05 死因
+vocab_01 婚姻
+vocab_02 姻族
+vocab_01 耳鼻咽喉
+vocab_01 恩恵
+vocab_02 恩人
+vocab_03 恩返し
+vocab_04 恩知らず
+vocab_05 恩給
+vocab_01 細菌
+vocab_02 保菌者
+vocab_03 殺菌する
+vocab_04 病菌
+vocab_02 漢語
+vocab_03 漢方薬
+vocab_04 漢民族
+vocab_01 嘆く
+vocab_02 驚嘆する
+vocab_03 嘆声
+vocab_01 通勤する
+vocab_02 勤める
+vocab_03 転勤する
+vocab_04 勤め先
+vocab_01 謹む
+vocab_02 謹慎
+vocab_03 謹賀新年
+vocab_01 僅か
+vocab_01 検索する
+vocab_02 索引
+vocab_03 捜索する
+vocab_04 探索する
+vocab_01 牽く
+vocab_02 牽引力
+vocab_03 牽引する
+vocab_01 牢獄
+vocab_01 啓発する
+vocab_02 拝啓
+vocab_03 謹啓
+vocab_01 庶務
+vocab_02 庶務課
+vocab_03 庶事
+vocab_04 庶民
+vocab_01 遮る
+vocab_02 遮断する
+vocab_03 話を遮る
+vocab_04 道を遮る
+vocab_05 遮断器
+vocab_01 燕の巣
+vocab_02 燕麦
+vocab_01 雀の巣
+vocab_02 燕雀
+vocab_03 麻雀
+vocab_01 劣る
+vocab_02 劣等感
+vocab_01 抄録
+vocab_02 抄本
+vocab_01 秒読み
+vocab_02 秒針
+vocab_01 妙に思う
+vocab_02 絶妙な
+vocab_03 妙案
+vocab_04 巧妙な
+vocab_01 沙丘
+vocab_01 ご無沙汰しております
+vocab_01 煎る
+vocab_02 煎茶
+vocab_03 煎じる
+vocab_01 炒る
+vocab_02 肉を炒める
+vocab_03 炒飯
+vocab_01 炊事
+vocab_02 炊く
+vocab_03 自炊
+vocab_01 焚き火
+vocab_02 焚く
+vocab_01 薪拾い
+vocab_02 薪炭
+vocab_03 薪能
+vocab_01 ...乃至
+vocab_02 日乃丸
+vocab_01 鳥之巣
+vocab_01 此れ
+vocab_01 其れ
+vocab_01 乏しい
+vocab_02 欠乏
+vocab_03 金が乏しい
+vocab_01 芝生
+vocab_02 芝居小屋
+vocab_03 芝居
+vocab_01 ...及び
+vocab_02 及ぶ
+vocab_03 普及
+vocab_01 扱い方
+vocab_02 取扱
+vocab_03 扱う
+vocab_01 階級
+vocab_02 初級
+vocab_03 上級
+vocab_04 同級生
+vocab_05 等級
+vocab_01 吸引する
+vocab_02 タバコを吸う
+vocab_03 吸収
+vocab_01 吹き込む
+vocab_02 吹く
+vocab_03 吹雪
+vocab_04 風が吹いている
+vocab_01 医者を呼ぶ
+vocab_02 呼吸
+vocab_03 呼び出す
+vocab_01 吐息
+vocab_02 吐く
+vocab_03 吐き気
+vocab_04 吐き出す
+vocab_01 望みが叶う
+vocab_02 叶える
+vocab_03 叶う
+vocab_01 叱る
+vocab_01 叫ぶ
+vocab_02 叫喚
+vocab_03 叫び声
+vocab_01 吟詠
+vocab_01 包含する
+vocab_02 含む
+vocab_03 含める
+vocab_04 含有する
+vocab_01 心の琴線
+vocab_02 琴を弾く
+vocab_01 迷う
+vocab_02 迷宮
+vocab_03 低迷する
+vocab_04 迷信
+vocab_05 迷惑
+vocab_01 謎の
+vocab_02 謎
+vocab_03 謎を解く
+vocab_01 逆様
+vocab_02 逆転
+vocab_03 親に逆らう
+vocab_04 逆戻り
+vocab_05 逆説
+vocab_01 遡及する
+vocab_02 遡る
+vocab_03 遡及的
+vocab_01 塑造
+vocab_02 塑像
+vocab_01 勲功
+vocab_02 勲章
+vocab_01 薫り
+vocab_02 薫風
+vocab_01 芳しい
+vocab_02 芳気
+vocab_01 花の香り
+vocab_02 香水
+vocab_03 香る
+vocab_04 芳香
+vocab_05 薫香
+vocab_01 日本語に秀でる
+vocab_02 優秀な
+vocab_03 秀逸
+vocab_01 誘う
+vocab_02 誘惑
+vocab_03 誘導する
+vocab_01 誘拐
+vocab_01 透けるブラウス
+vocab_02 浸透
+vocab_03 透明な
+vocab_01 提携する
+vocab_02 携帯
+vocab_03 連携
+vocab_04 携える
+vocab_01 英雄
+vocab_02 雄犬
+vocab_03 雄牛
+vocab_04 雄
+vocab_01 雌犬
+vocab_02 雌牛
+vocab_03 雌
+vocab_01 些細な
+vocab_02 些とも面白くない
+vocab_01 柴
+vocab_02 柴犬
+vocab_01 紫外線
+vocab_02 紫色
+vocab_01 髪の毛
+vocab_02 散髪
+vocab_03 白髪
+vocab_01 髭を剃る
+vocab_02 無精髭
+vocab_03 髭
+vocab_01 詐称
+vocab_02 詐取
+vocab_01 詐欺
+vocab_02 欺く
+vocab_03 詐欺師
+vocab_01 将棋
+vocab_02 棋士
+vocab_01 碁盤
+vocab_02 碁を打つ
+vocab_01 甚大な
+vocab_02 甚だしい誤解
+vocab_01 勘違い
+vocab_02 勘弁する
+vocab_03 勘定
+vocab_04 勘の良い人
+vocab_01 堪える
+vocab_02 堪え難い
+vocab_03 堪忍する
+vocab_04 不幸に堪える
+vocab_05 堪らない
+vocab_01 犬五匹
+vocab_01 師匠
+vocab_02 名匠
+vocab_03 工匠
+vocab_01 匿名
+vocab_02 隠匿
+vocab_01 承諾
+vocab_02 受諾
+vocab_01 乞う
+vocab_02 乞食
+vocab_01 迄
+vocab_01 乾く
+vocab_02 乾杯する
+vocab_03 着物を乾かす
+vocab_04 乾季
+vocab_05 乾物
+vocab_01 幹部
+vocab_02 木の幹
+vocab_03 新幹線
+vocab_01 世論を操る
+vocab_02 操作
+vocab_03 操を守る
+vocab_04 体操
+vocab_05 操
+vocab_06 操縦する
+vocab_01 乾燥する
+vocab_02 乾燥機
+vocab_03 無味乾燥な
+vocab_01 繰り返す
+vocab_02 繰り延べる
+vocab_03 繰り上げる
+vocab_04 釣り糸を繰る
+vocab_05 繰る
+vocab_01 海藻
+vocab_02 藻草
+vocab_01 噴き出す
+vocab_02 噴火
+vocab_03 噴く
+vocab_04 噴出
+vocab_01 古墳
+vocab_01 憤る
+vocab_02 憤然と
+vocab_03 憤激する
+vocab_01 牙
+vocab_02 象牙
+vocab_01 芽生える
+vocab_02 発芽する
+vocab_03 若芽
+vocab_04 芽
+vocab_01 優雅な
+vocab_01 邪悪
+vocab_02 無邪気
+vocab_03 風邪
+vocab_01 既成の
+vocab_02 既往症
+vocab_03 既に
+vocab_04 既成事実
+vocab_05 既婚の
+vocab_01 概念
+vocab_02 概略
+vocab_03 概括する
+vocab_01 憤慨
+vocab_02 慨嘆する
+vocab_01 苗字
+vocab_02 苗
+vocab_01 描写
+vocab_02 描く
+vocab_03 描画する
+vocab_04 油絵を描く
+vocab_01 愛猫家
+vocab_02 猫
+vocab_03 子猫
+vocab_04 招き猫
+vocab_01 萌える
+vocab_02 萌す
+vocab_03 萌芽
+vocab_01 兆候
+vocab_02 兆す
+vocab_03 二兆円
+vocab_04 前兆
+vocab_05 凶事の兆し
+vocab_01 眺望
+vocab_02 海を眺める
+vocab_01 逃げる
+vocab_02 逃走
+vocab_03 逃がす
+vocab_04 逃避
+vocab_01 桃色
+vocab_02 桃
+vocab_01 跳ぶ
+vocab_02 跳ねる
+vocab_03 高跳び
+vocab_04 飛び跳ねる
+vocab_01 挑戦
+vocab_02 戦いを挑む
+vocab_01 拙劣な
+vocab_02 拙い
+vocab_01 屈折
+vocab_02 屈む
+vocab_03 屈する
+vocab_04 窮屈な
+vocab_01 掘る
+vocab_02 掘り返す
+vocab_03 採掘
+vocab_01 堀
+vocab_01 封建的な
+vocab_02 同封する
+vocab_03 封を切る
+vocab_04 封建制度
+vocab_01 封筒
+vocab_02 筒形
+vocab_03 円筒
+vocab_04 筒
+vocab_01 管理する
+vocab_02 気管
+vocab_03 鉄の管
+vocab_04 管状の
+vocab_05 管
+vocab_01 石棺
+vocab_02 棺
+vocab_01 管轄
+vocab_02 所轄
+vocab_03 分轄
+vocab_01 洞穴
+vocab_02 洞
+vocab_03 洞察
+vocab_01 岩窟
+vocab_02 巣窟
+vocab_01 淫乱な
+vocab_02 淫欲
+vocab_03 淫らな
+vocab_01 避妊
+vocab_02 不妊
+vocab_03 妊産婦
+vocab_04 妊婦
+vocab_01 妊娠する
+vocab_02 妊娠中絶
+vocab_01 上唇
+vocab_02 口唇
+vocab_03 下唇
+vocab_04 唇
+vocab_01 辱める
+vocab_02 屈辱
+vocab_03 侮辱する
+vocab_01 襲う
+vocab_02 世襲
+vocab_03 空襲
+vocab_04 襲撃
+vocab_01 伏す
+vocab_02 降伏
+vocab_03 伏せる
+vocab_04 潜伏
+vocab_01 吠える
+vocab_02 遠吠え
+vocab_03 吠え声
+vocab_01 噛む
+vocab_02 噛み切る
+vocab_03 噛み傷
+vocab_04 噛み合う
+vocab_01 班長
+vocab_02 救護班
+vocab_01 斑点
+vocab_02 雀斑
+vocab_01 先輩
+vocab_02 同輩
+vocab_03 後輩
+vocab_03 悲観的な
+vocab_04 悲惨な
+vocab_05 悲壮な
+vocab_06 悲嘆
+vocab_01 粗忽に
+vocab_02 忽ち
+vocab_01 惚ける
+vocab_02 惚れる
+vocab_03 自惚れる
+vocab_04 一目惚れ
+vocab_01 犬猿の仲
+vocab_02 類人猿
+vocab_03 猿真似
+vocab_04 猿
+vocab_01 哀れな
+vocab_02 哀愁
+vocab_03 哀れむ
+vocab_04 可哀相な
+vocab_01 衰える
+vocab_02 老衰
+vocab_03 衰退
+vocab_04 栄枯盛衰
+vocab_01 折衷
+vocab_02 和洋折衷
+vocab_01 喪服
+vocab_02 喪中
+vocab_03 喪神する
+vocab_04 喪
+vocab_05 喪失
+vocab_01 忌む
+vocab_02 忌むべき
+vocab_03 忌まわしい事件
+vocab_01 卓越
+vocab_02 卓上
+vocab_03 電卓
+vocab_04 食卓
+vocab_05 卓球
+vocab_01 死を悼む
+vocab_02 哀悼する
+vocab_01 貞節
+vocab_02 貞潔な
+vocab_03 貞操
+vocab_01 探偵
+vocab_02 内偵
+vocab_01 覇権
+vocab_02 連覇
+vocab_01 顔を覆う
+vocab_02 船を覆す
+vocab_03 転覆する
+vocab_01 履歴
+vocab_02 履く
+vocab_03 履行する
+vocab_04 履歴書
+vocab_05 草履
+vocab_01 金属
+vocab_02 付属する
+vocab_03 従属
+vocab_04 属する
+vocab_05 所属する
+vocab_01 嘱託する
+vocab_01 配偶者
+vocab_02 偶然に
+vocab_03 偶数
+vocab_04 偶発的な
+vocab_01 隅々
+vocab_02 片隅
+vocab_03 隅
+vocab_01 間隙
+vocab_02 寸隙
+vocab_03 隙
+vocab_01 遇う
+vocab_02 待遇する
+vocab_03 優遇する
+vocab_01 愚か
+vocab_02 愚劣な
+vocab_03 愚かしい
+vocab_04 愚鈍な
+vocab_05 愚問
+vocab_01 軍曹
+vocab_01 遭難する
+vocab_02 遭う
+vocab_01 浴槽
+vocab_02 油槽
+vocab_03 貯水槽
+vocab_01 妨げる
+vocab_02 妨害する
+vocab_03 睡眠を妨げる
+vocab_01 坊主
+vocab_02 坊ちゃん
+vocab_03 食いしん坊
+vocab_04 赤ん坊
+vocab_01 傍観者
+vocab_02 傍に
+vocab_03 勉強の傍らに音楽を聞く
+vocab_01 その点に於いて
+vocab_02 日本に於けるカナダ人
+vocab_01 冷房
+vocab_02 暖房
+vocab_03 一房の髪
+vocab_04 文房具
+vocab_05 房
+vocab_01 扇子
+vocab_02 扇風機
+vocab_03 換気扇
+vocab_04 扇
+vocab_01 扉を開く
+vocab_02 門扉
+vocab_03 扉
+vocab_04 自動扉
+vocab_01 雇う
+vocab_02 雇用する
+vocab_03 解雇
+vocab_04 雇い主
+vocab_05 雇い人
+vocab_01 顧みる
+vocab_02 回顧する
+vocab_03 顧問
+vocab_01 屑入れ
+vocab_02 パン屑
+vocab_03 切り屑
+vocab_04 削り屑
+vocab_01 糞便
+vocab_02 鼻糞
+vocab_03 糞
+vocab_01 糖尿病
+vocab_02 尿素
+vocab_03 尿検査
+vocab_04 排尿
+vocab_01 分泌
+vocab_02 泌尿器
+vocab_01 お尻
+vocab_02 尻上がり
+vocab_01 暖炉
+vocab_02 懐炉
+vocab_01 窯元
+vocab_02 窯業
+vocab_03 窯
+vocab_01 釜敷き
+vocab_02 釜
+vocab_01 お爺
+vocab_01 道の窪
+vocab_02 笑窪
+vocab_03 窪み
+vocab_01 佳作
+vocab_02 佳人
+vocab_01 生涯
+vocab_02 一生涯
+vocab_01 暇がない
+vocab_02 休暇
+vocab_03 暇潰し
+vocab_01 霞
+vocab_01 雰囲気
+vocab_01 濃霧注意報
+vocab_02 霧雨
+vocab_03 霧
+vocab_01 露天
+vocab_02 日露
+vocab_03 露の滴
+vocab_04 露出
+vocab_05 暴露
+vocab_06 露
+vocab_01 霜害
+vocab_02 霜焼け
+vocab_03 霜
+vocab_01 箱入りの
+vocab_02 箱
+vocab_01 国籍
+vocab_02 戸籍
+vocab_03 書籍
+vocab_01 貫く
+vocab_02 一貫して
+vocab_03 貫入
+vocab_01 慣れる
+vocab_02 習慣
+vocab_03 慣例
+vocab_01 頂く
+vocab_02 頂上
+vocab_03 頂点
+vocab_04 絶頂
+vocab_01 頂戴する
+vocab_01 項目
+vocab_02 事項
+vocab_03 要項
+vocab_01 若い頃は
+vocab_02 この頃
+vocab_03 昼頃
+vocab_01 傾向
+vocab_02 傾く
+vocab_03 傾げる
+vocab_04 傾聴する
+vocab_05 傾斜する
+vocab_01 頑固な
+vocab_01 頒布
+vocab_01 頓死
+vocab_02 頓に
+vocab_03 整頓する
+vocab_01 顕著な
+vocab_02 顕示する
+vocab_01 領土
+vocab_02 領域
+vocab_03 大統領
+vocab_04 領収書
+vocab_05 占領する
+vocab_01 頻りに
+vocab_02 頻繁に
+vocab_03 頻度
+vocab_04 頻出
+vocab_01 進捗する
+vocab_02 捗る
+vocab_01 順番
+vocab_02 順序
+vocab_03 順位
+vocab_04 順に
+vocab_01 馴染む
+vocab_02 馴化
+vocab_03 馴れる
+vocab_04 馴れ馴れしい
+vocab_05 馴らす
+vocab_01 教訓
+vocab_02 訓読み
+vocab_03 訓戒
+vocab_04 訓示
+vocab_01 必須の
+vocab_02 須要な
+vocab_01 金額
+vocab_02 額縁
+vocab_03 広い額
+vocab_04 額
+vocab_05 総額
+vocab_01 頼る
+vocab_02 頼む
+vocab_03 信頼する
+vocab_04 頼もしい
+vocab_05 依頼する
+vocab_01 瀬戸
+vocab_02 瀬戸内海
+vocab_03 瀬
+vocab_04 早瀬
+vocab_01 海峡
+vocab_02 峡谷
+vocab_03 峡湾
+vocab_04 地峡
+vocab_01 狭い部屋
+vocab_02 狭量な
+vocab_03 範囲を狭める
+vocab_04 狭苦しい
+vocab_01 挟む
+vocab_02 挟撃
+vocab_01 頰笑み
+vocab_02 頰骨
+vocab_03 頰
+vocab_01 上顎
+vocab_02 下顎
+vocab_03 二重顎
+vocab_04 顎
+vocab_05 顎骨
+vocab_01 煩わしい
+vocab_02 煩う
+vocab_03 心を煩わす
+vocab_01 串焼き
+vocab_02 串
+vocab_01 患う
+vocab_02 患者
+vocab_03 喉を患う
+vocab_04 長患い
+vocab_01 疾患
+vocab_02 疾走
+vocab_03 疾風
+vocab_01 痴漢
+vocab_02 愚痴
+vocab_01 免疫
+vocab_02 疫病
+vocab_03 検疫
+vocab_01 下痢
+vocab_01 痘苗
+vocab_01 潰瘍
+vocab_01 乳癌
+vocab_02 子宮癌
+vocab_03 喉頭癌
+vocab_04 発癌性
+vocab_05 抗癌剤
+vocab_01 痩せる
+vocab_02 痩身
+vocab_01 疲労
+vocab_02 疲れる
+vocab_03 疲れ果てる
+vocab_04 気疲れ
+vocab_01 損害を被る
+vocab_02 被告人
+vocab_03 被保険者
+vocab_01 披露宴
+vocab_02 披露する
+vocab_01 抜本的な
+vocab_02 抜く
+vocab_03 抜群の
+vocab_04 抜ける
+vocab_01 控えめな
+vocab_02 控える
+vocab_03 控え室
+vocab_01 扶養する
+vocab_02 扶助する
+vocab_01 抹殺する
+vocab_02 抹茶
+vocab_03 抹消する
+vocab_01 開拓
+vocab_02 拓殖
+vocab_01 拷問
+vocab_01 楼閣
+vocab_01 演壇
+vocab_02 教壇
+vocab_03 土壇場
+vocab_01 五重の塔
+vocab_02 エッフェル塔
+vocab_03 管制塔
+vocab_04 仏塔
+vocab_01 搭載する
+vocab_02 搭乗券
+vocab_03 搭乗する
+vocab_01 寡占
+vocab_02 寡婦
+vocab_01 賓客
+vocab_02 来賓
+vocab_03 国賓
+vocab_04 迎賓館
+vocab_01 修飾する
+vocab_02 飾る
+vocab_03 首飾り
+vocab_04 装飾する
+vocab_01 飽満
+vocab_02 飽きる
+vocab_03 飽食する
+vocab_04 飽きっぽい
+vocab_05 聞き飽きる
+vocab_01 餓死
+vocab_01 飢餓
+vocab_02 飢える
+vocab_03 飢え死に
+vocab_04 飢え
+vocab_01 机上
+vocab_02 机
+vocab_03 机上の空論
+vocab_01 冗長な
+vocab_02 冗員
+vocab_01 王冠
+vocab_02 ワ冠
+vocab_01 離婚
+vocab_02 離れる
+vocab_03 離陸
+vocab_01 胸部
+vocab_02 胸
+vocab_03 度胸
+vocab_04 胸囲
+vocab_05 胸毛
+vocab_06 胸郭
+vocab_01 悩ましい
+vocab_02 苦悩
+vocab_03 悩ます
+vocab_04 悩む
+vocab_01 首脳
+vocab_02 頭脳
+vocab_03 脳死
+vocab_01 臓器
+vocab_02 心臓
+vocab_01 胃袋
+vocab_02 胃潰瘍
+vocab_03 胃癌
+vocab_01 ろうそくの炎
+vocab_02 炎症
+vocab_03 脳炎
+vocab_04 炎
+vocab_01 相談する
+vocab_02 冗談
+vocab_03 座談会
+vocab_04 首脳会談
+vocab_05 談話
+vocab_01 淡色
+vocab_01 災いする
+vocab_02 災い
+vocab_03 震災
+vocab_04 天災
+vocab_01 肝臓
+vocab_02 肝炎
+vocab_03 肝に銘じる
+vocab_04 肝要な
+vocab_01 肺臓
+vocab_02 肺炎
+vocab_01 大胆
+vocab_02 胆力
+vocab_03 胆石
+vocab_04 胆汁
+vocab_01 涙腺
+vocab_02 唾液腺
+vocab_03 粘液腺
+vocab_04 甲状腺
+vocab_05 乳腺
+vocab_01 細胞
+vocab_01 胃腸
+vocab_02 腸炎
+vocab_03 小腸
+vocab_04 盲腸
+vocab_01 胎児
+vocab_02 母胎
+vocab_01 足腰
+vocab_02 腰
+vocab_03 腰巻き
+vocab_04 腰骨
+vocab_01 肘掛け
+vocab_02 肘
+vocab_01 膝掛け
+vocab_02 膝蓋骨
+vocab_03 膝
+vocab_01 股
+vocab_01 四肢
+vocab_02 前肢
+vocab_03 選択肢
+vocab_01 胴体
+vocab_01 脇に置く
+vocab_02 脇毛
+vocab_03 脇
+vocab_01 脂
+vocab_01 初詣
+vocab_02 詣でる
+vocab_01 脂肪
+vocab_01 肌着
+vocab_02 肌
+vocab_01 皮膚
+vocab_01 遠慮する
+vocab_02 考慮する
+vocab_03 配慮
+vocab_01 虐待
+vocab_02 虐げる
+vocab_03 虐殺
+vocab_04 残虐な
+vocab_01 失敗の虞
+vocab_02 虞
+vocab_01 劇場
+vocab_02 悲劇
+vocab_03 喜劇
+vocab_04 歌劇
+vocab_05 劇を演じる
+vocab_01 虚栄心
+vocab_02 虚偽
+vocab_01 捕虜
+vocab_02 虜囚
+vocab_01 胆勇
+vocab_02 勇気
+vocab_03 勇む
+vocab_01 湧出
+vocab_02 湧き起こる
+vocab_03 湧き上がる
+vocab_04 湧く
+vocab_01 遊戯
+vocab_02 戯れる
+vocab_01 繊細な
+vocab_02 繊切り
+vocab_03 化繊
+vocab_01 緻密な
+vocab_01 嘘をつく
+vocab_02 嘘
+vocab_03 嘘つき
+vocab_01 噂を流す
+vocab_02 噂話
+vocab_03 噂
+vocab_01 ビールの樽
+vocab_01 距離
+vocab_02 長距離
+vocab_03 短距離
+vocab_01 拒否する
+vocab_02 拒む
+vocab_03 拒絶する
+vocab_01 嬉しい
+vocab_01 鼓を打つ
+vocab_02 太鼓
+vocab_03 鼓
+vocab_04 鼓吹する
+vocab_01 樹木
+vocab_02 樹液
+vocab_03 樹脂
+vocab_01 膨大
+vocab_02 膨れる
+vocab_01 膨脹
+vocab_01 膨張
+vocab_02 張る
+vocab_03 頑張る
+vocab_04 伸張
+vocab_01 手帳
+vocab_02 帳簿
+vocab_03 貯金通帳
+vocab_01 腫脹
+vocab_02 腫れる
+vocab_03 癌腫
+vocab_04 腫瘍
+vocab_01 牛を肥やす
+vocab_02 肥料
+vocab_03 肥満になる
+vocab_01 把握する
+vocab_01 誇る
+vocab_02 誇張する
+vocab_03 誇らしい
+vocab_04 誇大
+vocab_01 一覧
+vocab_02 展覧する
+vocab_03 閲覧室
+vocab_04 観覧車
+vocab_05 御覧下さい
+vocab_01 監視する
+vocab_02 監獄
+vocab_01 年鑑
+vocab_02 鑑定する
+vocab_03 鑑みる
+vocab_04 鑑賞
+vocab_01 潜水艦
+vocab_02 軍艦
+vocab_03 戦艦
+vocab_04 航空母艦
+vocab_01 濫用する
+vocab_02 濫費
+vocab_03 濫伐
+vocab_04 濫獲
+vocab_01 藍染め
+vocab_02 藍に染める
+vocab_03 藍色
+vocab_01 賢明な
+vocab_02 賢い
+vocab_03 賢哲
+vocab_04 悪賢い
+vocab_05 良妻賢母
+vocab_01 肝腎な
+vocab_02 腎臓
+vocab_03 腎臓結石
+vocab_04 腎炎
+vocab_01 堅実な
+vocab_02 堅い
+vocab_03 手堅い
+vocab_01 緊急な
+vocab_02 緊張
+vocab_03 緊迫した
+vocab_01 勃発する
+vocab_02 勃起する
+vocab_03 勃然と
+vocab_01 奨励
+vocab_02 勉強に励む
+vocab_03 病人を励ます
+vocab_04 奮励
+vocab_05 激励する
+vocab_01 栃木県
+vocab_01 茨城県
+vocab_01 羨ましい
+vocab_02 羨む
+vocab_03 歳月
+vocab_04 万歳
+vocab_01 親戚
+vocab_01 叔父
+vocab_01 貞淑
+vocab_01 寂しい
+vocab_02 静寂
+vocab_03 寂
+vocab_01 監督
+vocab_02 督励する
+vocab_01 守銭奴
+vocab_02 奴等
+vocab_03 農奴
+vocab_04 奴
+vocab_05 ずるい奴
+vocab_01 努める
+vocab_02 努力
+vocab_03 激怒
+vocab_04 憤怒
+vocab_05 喜怒哀楽
+vocab_01 奴隷
+vocab_02 隷従
+vocab_03 隷属
+vocab_01 借款
+vocab_02 条款
+vocab_01 貝殻
+vocab_02 地殻
+vocab_03 卵の殻
+vocab_04 吸い殻
+vocab_01 穀物
+vocab_02 穀類
+vocab_01 石臼
+vocab_02 臼歯
+vocab_01 毀損する
+vocab_01 破廉恥な
+vocab_02 廉価な
+vocab_03 廉潔な
+vocab_04 廉恥心
+vocab_05 廉売
+vocab_01 鎌倉
+vocab_02 鎌
+vocab_01 機嫌
+vocab_02 嫌悪
+vocab_03 巨人が嫌い
+vocab_04 嫌な気持ち
+vocab_05 交際を嫌う
+vocab_01 謙譲
+vocab_02 謙譲語
+vocab_01 謙遜
+vocab_02 不遜な
+vocab_01 亀の甲羅
+vocab_02 亀裂
+vocab_03 海亀
+vocab_04 亀
+vocab_01 練る
+vocab_02 練習
+vocab_03 試練
+vocab_04 熟練
+vocab_05 訓練
+vocab_01 錬成
+vocab_02 精錬
+vocab_01 鍛える
+vocab_02 鍛錬する
+vocab_03 鍛冶
+vocab_04 鍛工
+vocab_01 鉱石
+vocab_02 鉱業
+vocab_03 炭鉱
+vocab_01 銅メダル
+vocab_02 銅山
+vocab_03 銅像
+vocab_01 鉛色
+vocab_02 鉛筆
+vocab_03 鉛
+vocab_04 鉛筆削り
+vocab_05 鉛毒
+vocab_01 銑鉄
+vocab_01 鋼色
+vocab_02 鋼
+vocab_03 製鋼
+vocab_01 剛健
+vocab_02 金剛石
+vocab_01 綱領
+vocab_02 横綱
+vocab_03 綱渡り
+vocab_04 綱
+vocab_05 手綱
+vocab_06 要綱
+vocab_01 通信網
+vocab_02 金網
+vocab_03 鉄道網
+vocab_04 網
+vocab_01 縄張り
+vocab_02 縄文
+vocab_03 縄跳び
+vocab_04 沖縄
+vocab_05 縄文時代
+vocab_01 植木鉢
+vocab_02 火鉢
+vocab_03 鉢巻き
+vocab_01 閉鎖する
+vocab_02 連鎖
+vocab_03 封鎖
+vocab_04 鎖
+vocab_05 鎖国
+vocab_01 絆
+vocab_01 鍵を掛ける
+vocab_02 鍵穴
+vocab_03 鍵盤
+vocab_04 鍵
+vocab_01 釘を打つ
+vocab_02 釘
+vocab_01 禁錮
+vocab_01 錠剤
+vocab_02 錠前
+vocab_03 手錠
+vocab_01 綻びる
+vocab_02 破綻
+vocab_03 綻び
+vocab_01 呼び鈴
+vocab_02 鈴木
+vocab_03 電鈴
+vocab_04 風鈴
+vocab_05 鈴
+vocab_01 警鐘
+vocab_02 鐘の音
+vocab_03 鐘楼
+vocab_01 瞳
+vocab_01 憧れ
+vocab_02 有名人に憧れる
+vocab_01 憧憬する
+vocab_01 卑しい
+vocab_02 卑屈な
+vocab_03 卑劣な
+vocab_04 卑しむ
+vocab_01 記念碑
+vocab_02 碑文
+vocab_03 石碑
+vocab_04 墓碑
+vocab_01 痺れる
+vocab_02 麻痺
+vocab_03 痺れ
+vocab_01 鬼神
+vocab_02 仕事の鬼
+vocab_03 鬼
+vocab_01 団塊
+vocab_02 塊
+vocab_03 土塊
+vocab_04 金塊
+vocab_01 醜悪な
+vocab_02 醜い
+vocab_03 醜聞
+vocab_01 大和魂
+vocab_02 闘魂
+vocab_03 魂
+vocab_01 魅力
+vocab_02 魅惑
+vocab_01 魔法
+vocab_02 悪魔
+vocab_03 邪魔
+vocab_01 畏れる
+vocab_01 印刷
+vocab_02 刷る
+vocab_01 擦過傷
+vocab_02 擦る
+vocab_03 擦れ違う
+vocab_04 擦れる
+vocab_01 摩擦
+vocab_02 摩耗する
+vocab_03 摩天楼
+vocab_01 磨く
+vocab_02 研磨する
+vocab_03 歯磨き
+vocab_01 凹面
+vocab_01 凸凹
+vocab_02 凸面
+vocab_03 凹凸
+vocab_04 お凸
+vocab_01 奉納する
+vocab_02 奉る
+vocab_03 奉献する
+vocab_01 演奏する
+vocab_02 ピアノを奏でる
+vocab_03 独奏
+vocab_04 吹奏楽
+vocab_05 伴奏
+vocab_01 泰平
+vocab_02 安泰
+vocab_01 俸給
+vocab_02 年俸
+vocab_01 鉄棒
+vocab_02 相棒
+vocab_03 棒で殴る
+vocab_01 捧げる
+vocab_02 捧げ物
+vocab_01 忍耐
+vocab_02 火に耐える
+vocab_03 耐久性
+vocab_04 耐水
+vocab_05 耐熱
+vocab_01 霊園
+vocab_02 霊送り
+vocab_03 霊魂
+vocab_01 需給
+vocab_02 需要
+vocab_01 濡れる
+vocab_02 濡らす
+vocab_01 儒教
+vocab_01 極端
+vocab_02 紐の端
+vocab_03 先端
+vocab_01 壱
+vocab_01 尼寺
+vocab_02 尼僧
+vocab_03 尼
+vocab_01 泥土
+vocab_02 泥沼
+vocab_03 泥棒
+vocab_04 泥
+vocab_01 漏洩
+vocab_02 ガスが漏れている
+vocab_03 漏電
+vocab_01 氾濫
+vocab_01 語彙
+vocab_01 某所
+vocab_01 謀略
+vocab_02 謀る
+vocab_03 陰謀
+vocab_04 共謀
+vocab_01 媒体
+vocab_02 触媒
+vocab_03 媒介
+vocab_01 大尉
+vocab_01 慰める
+vocab_02 慰霊
+vocab_03 慰霊祭
+vocab_01 酪製品
+vocab_02 酪農
+vocab_01 酵母
+vocab_02 発酵
+vocab_03 酵素
+vocab_01 醤油
+vocab_01 酢の物
+vocab_02 ポン酢
+vocab_01 焼酎
+vocab_01 媒酌
+vocab_02 酌む
+vocab_03 晩酌
+vocab_01 お釣り
+vocab_02 釣鐘
+vocab_03 釣り糸
+vocab_01 家畜
+vocab_02 畜生
+vocab_03 畜産業
+vocab_01 燃料を蓄える
+vocab_02 蓄積
+vocab_01 玄関
+vocab_02 玄米
+vocab_03 玄人
+vocab_01 眩い
+vocab_01 呟く
+vocab_01 囁く
+vocab_01 喋る
+vocab_02 お喋り
+vocab_01 比喩
+vocab_02 引喩
+vocab_03 隠喩
+vocab_04 直喩
+vocab_01 鬱病
+vocab_02 鬱々
+vocab_03 憂鬱
+vocab_04 鬱陶しい
+vocab_01 弦楽
+vocab_02 調弦
+vocab_03 弓弦
+vocab_04 管弦楽団
+vocab_01 左舷
+vocab_02 右舷
+vocab_03 舷窓
+vocab_01 舵を取る
+vocab_02 舵手
+vocab_03 舵
+vocab_04 舵取り
+vocab_01 幻覚
+vocab_02 幻滅
+vocab_03 幻
+vocab_04 幻想
+vocab_01 幽霊
+vocab_02 幽玄な
+vocab_03 幽谷
+vocab_01 幼馴染み
+vocab_02 幼児
+vocab_03 幼い
+vocab_01 幼稚園
+vocab_02 幼稚な
+vocab_03 稚気
+vocab_04 稚児
+vocab_01 維持する
+vocab_02 繊維
+vocab_03 明治維新
+vocab_04 維新
+vocab_01 推進する
+vocab_02 推測
+vocab_03 推定する
+vocab_01 堆積
+vocab_02 堆い
+vocab_01 椎骨
+vocab_01 脊椎
+vocab_02 脊椎動物
+vocab_01 雛人形
+vocab_02 雛鳥
+vocab_03 雛祭り
+vocab_01 誰
+vocab_02 誰でも
+vocab_01 唯一の
+vocab_01 鳴動
+vocab_02 鳴き声
+vocab_03 共鳴
+vocab_04 鳴く
+vocab_01 亥年
+vocab_01 刻む
+vocab_02 時刻
+vocab_03 彫刻する
+vocab_04 深刻な
+vocab_05 遅刻
+vocab_01 弾劾する
+vocab_01 中核
+vocab_02 細胞核
+vocab_03 核家族
+vocab_04 原子核
+vocab_05 核兵器
+vocab_01 骸骨
+vocab_02 死骸
+vocab_01 咳をする
+vocab_02 咳止め
+vocab_03 咳
+vocab_01 該当する
+vocab_02 該案
+vocab_03 当該
+vocab_01 診察する
+vocab_02 患者を診る
+vocab_03 診断
+vocab_04 打診する
+vocab_01 珍味
+vocab_02 珍しい
+vocab_03 珍品
+vocab_01 れん瓦
+vocab_02 瓦
+vocab_03 鬼瓦
+vocab_01 併せる
+vocab_02 合併する
+vocab_03 併用する
+vocab_01 花瓶
+vocab_02 瓶詰め
+vocab_03 魔法瓶
+vocab_01 屏風
+vocab_01 板塀
+vocab_01 煎餅
+vocab_02 焼き餅
+vocab_03 お餅
+vocab_01 餌で誘う
+vocab_02 牛の餌
+vocab_03 餌
+vocab_01 呑む
+vocab_02 併呑
+vocab_03 涙を呑む
+vocab_01 肥沃な
+vocab_01 妖術
+vocab_02 妖しい魅力
+vocab_01 呪術
+vocab_02 呪う
+vocab_03 呪う
+vocab_01 艶聞
+vocab_02 艶っぽい
+vocab_03 艶やかな
+vocab_04 艶かしい
+vocab_01 慈悲
+vocab_02 親が子を慈しむ
+vocab_03 慈善
+vocab_04 慈愛
+vocab_01 滋養
+vocab_02 滋賀県
+vocab_01 磁石
+vocab_02 磁気
+vocab_01 擁護する
+vocab_01 豆腐
+vocab_02 腐る
+vocab_03 腐食
+vocab_04 腐敗する
+vocab_05 腐らす
+vocab_01 鉛筆の芯
+vocab_02 芯まで腐っている
+vocab_01 蒔く
+vocab_01 撒き散らす
+vocab_02 撒く
+vocab_03 餌を撒く
+vocab_01 撤退
+vocab_02 撤兵する
+vocab_03 撤廃
+vocab_04 撤去
+vocab_05 撤回
+vocab_01 徹底的
+vocab_02 貫徹する
+vocab_03 徹夜
+vocab_01 顕微鏡
+vocab_02 微妙な
+vocab_03 微生物
+vocab_01 徴兵
+vocab_02 特徴
+vocab_03 徴収する
+vocab_04 象徴
+vocab_01 懲罰
+vocab_02 懲りる
+vocab_03 懲らす
+vocab_04 懲役
+vocab_01 殆ど毎週
+vocab_01 皇后
+vocab_02 皇后陛下
+vocab_01 垢だらけ
+vocab_02 耳の垢
+vocab_03 垢
+vocab_01 妃殿下
+vocab_01 姫様
+vocab_02 シンデレラ姫
+vocab_01 突如
+vocab_02 如実に
+vocab_01 茹でる
+vocab_02 茹で卵
+vocab_01 花婿
+vocab_02 婿
+vocab_01 一人娘
+vocab_01 嫁ぎ先
+vocab_02 嫁
+vocab_01 時間を稼ぐ
+vocab_02 稼働
+vocab_03 稼ぐ
+vocab_04 稼ぎ手
+vocab_01 貝塚
+vocab_02 塚
+vocab_01 豪華な
+vocab_02 豪傑
+vocab_03 豪壮な
+vocab_01 啓蒙
+vocab_02 蒙古
+vocab_01 開墾
+vocab_02 未墾の
+vocab_01 懇談
+vocab_02 懇ろな
+vocab_03 懇願する
+vocab_04 懇親会
+vocab_05 懇親
+vocab_01 変貌
+vocab_02 容貌
+vocab_01 駆逐する
+vocab_02 逐一
+vocab_03 逐次
+vocab_04 逐語訳
+vocab_05 放逐する
+vocab_01 遂げる
+vocab_02 自殺未遂
+vocab_03 遂に
+vocab_04 完遂する
+vocab_01 墜落
+vocab_02 撃墜する
+vocab_03 墜死する
+vocab_04 墜落事故
+vocab_01 堕落
+vocab_02 堕胎
+vocab_01 付随
+vocab_02 随分
+vocab_03 随意に
+vocab_01 附随
+vocab_01 骨髄
+vocab_02 脊髄
+vocab_03 精髄
+vocab_01 怠ける
+vocab_02 怠る
+vocab_03 怠け者
+vocab_01 怠惰
+vocab_02 惰気
+vocab_01 補佐する
+vocab_01 玩ぶ
+vocab_02 玩具
+vocab_01 弄ぶ
+vocab_02 玩弄する
+vocab_03 翻弄する
+vocab_01 嘲る
+vocab_02 嘲弄する
+vocab_01 奔走する
+vocab_01 弊害
+vocab_02 弊社
+vocab_03 悪弊
+vocab_01 御幣
+vocab_02 紙幣
+vocab_03 造幣
+vocab_01 隠蔽する
+vocab_01 朋友
+vocab_01 本棚
+vocab_02 網棚
+vocab_03 神棚
+vocab_01 鉄柵
+vocab_01 二桁
+vocab_02 橋桁
+vocab_03 桁違いの
+vocab_04 四桁の番号
+vocab_01 栓抜き
+vocab_02 風呂に栓をする
+vocab_03 瓶の栓
+vocab_04 コルク栓
+vocab_05 消火栓
+vocab_01 詮索
+vocab_02 所詮
+vocab_03 詮索好き
+vocab_01 塞がる
+vocab_02 閉塞
+vocab_03 穴を塞ぐ
+vocab_01 梗塞
+vocab_02 塞栓
+vocab_03 心筋梗塞
+vocab_04 脳梗塞
+vocab_01 渋柿
+vocab_02 柿
+vocab_01 藤棚
+vocab_02 藤
+vocab_03 佐藤
+vocab_01 騰貴
+vocab_02 高騰
+vocab_03 沸騰する
+vocab_04 暴騰
+vocab_01 謄写
+vocab_02 謄本
+vocab_01 麺類
+vocab_02 麺棒
+vocab_03 乾燥麺
+vocab_01 拉致する
+vocab_02 拉麺
+vocab_01 晃々たる
+vocab_01 札幌
+vocab_01 厘
+vocab_01 畝織り
+vocab_01 匁
+vocab_01 匂う
+vocab_02 匂わせる
+vocab_03 匂い袋
+vocab_01 勾配
+vocab_02 勾留する
+vocab_01 挨拶
+vocab_01 挨拶する
+vocab_02 無挨拶
+vocab_01 曖曖
+vocab_01 曖昧な
+vocab_01 瑠璃色
+vocab_01 瑠璃
+vocab_01 嫉妬深い
+vocab_01 嫉妬
+vocab_02 妬む
+vocab_01 馬鹿
+vocab_02 鹿
+vocab_03 鹿児島
+vocab_01 塵取り
+vocab_02 塵箱
+vocab_03 塵
+vocab_01 山麓
+vocab_01 奇麗な
+vocab_02 美麗な
+vocab_03 麗人
+vocab_01 推薦する
+vocab_02 薦める
+vocab_03 推薦状
+vocab_01 慶弔
+vocab_02 慶祝
+vocab_01 兜
+vocab_01 睨む
+vocab_01 鼠色
+vocab_02 鼠捕り
+vocab_03 鼠
+vocab_04 鼠穴
+vocab_05 栗鼠
+vocab_01 溺死する
+vocab_02 溺れる
+vocab_03 惑溺する
+vocab_01 新潟
+vocab_01 混濁した
+vocab_02 濁る
+vocab_03 清濁併せ呑む
+vocab_04 清濁
+vocab_05 濁す
+vocab_01 渇水
+vocab_02 喉が渇く
+vocab_03 枯渇する
+vocab_01 褐色
+vocab_01 葛藤
+vocab_01 大喝する
+vocab_02 喝采
+vocab_03 喝破する
+vocab_01 謁見
+vocab_01 掲げる
+vocab_02 掲示板
+vocab_03 国旗を掲げる
+vocab_04 掲揚する
+vocab_05 掲載する
+vocab_01 戌年
+vocab_01 尤度
+vocab_01 下駄
+vocab_02 駄目
+vocab_03 無駄な
+vocab_04 駄洒落
+vocab_05 駄作
+vocab_01 将棋の駒
+vocab_02 駒
+vocab_03 持ち駒
+vocab_01 危篤
+vocab_02 篤学の士
+vocab_03 懇篤な
+vocab_04 篤志家
+vocab_01 罵声
+vocab_02 罵る
+vocab_03 罵倒する
+vocab_01 軽蔑
+vocab_02 蔑む
+vocab_03 蔑称
+vocab_01 罠に落ちる
+vocab_01 烏が鳴いている
+vocab_02 烏竜茶
+vocab_03 烏
+vocab_04 烏合の衆
+vocab_01 鴨にする
+vocab_02 小鴨
+vocab_03 鴨
+vocab_01 鳩便
+vocab_02 鳩派
+vocab_03 伝書鳩
+vocab_04 鳩
+vocab_01 鶏肉
+vocab_02 鶏の餌
+vocab_03 鶏
+vocab_04 養鶏
+vocab_05 鶏卵
+vocab_01 渓谷
+vocab_01 鷹派
+vocab_02 鷹
+vocab_01 鷲掴み
+vocab_02 鷲
+vocab_01 御璽
+vocab_01 爽やかな風
+vocab_02 爽快な
+vocab_03 弁舌爽やか
+vocab_01 綴り
+vocab_02 綴じる
+vocab_01 桑畑
+vocab_02 桑
+vocab_01 蚕業
+vocab_02 蚕
+vocab_01 蛋白
+vocab_01 蟹の挟み
+vocab_02 蟹
+vocab_01 蚊取り線香
+vocab_02 蚊
+vocab_03 蚊帳
+vocab_01 巳年
+vocab_01 蛇行する
+vocab_02 蛇口
+vocab_03 毒蛇
+vocab_04 蛇
+vocab_01 繭糸
+vocab_02 繭を掛ける
+vocab_03 繭
+vocab_01 蝶々
+vocab_01 虹色
+vocab_02 虹
