@@ -1,0 +1,2300 @@
+1,"日","SUN; DAY; JAPAN",
+2,"一","ONE",
+3,"二","TWO",
+4,"三","THREE",
+5,"十","TEN",
+6,"四","FOUR",
+7,"五","FIVE",
+8,"六","SIX",
+9,"七","SEVEN",
+10,"八","EIGHT",
+11,"九","NINE",
+12,"丸","ROUND",
+13,"円","CIRCLE; YEN",
+14,"○","ZERO, placeholder; CIRCLE MARK; blank",
+15,"人","HUMAN BEING",
+16,"百","HUNDRED",
+17,"千","THOUSAND",
+18,"万","TEN THOUSAND",
+19,"口","MOUTH",
+20,"田","RICE FIELD",
+21,"目","EYE; ITEM; subdivision; order",
+22,"川","RIVER",
+23,"月","MOON; MONTH",
+24,"明","BRIGHT, cheerful; CLEAR",
+25,"曜","DAY OF THE WEEK",
+26,"火","FIRE",
+27,"水","WATER",
+28,"木","TREE; WOOD",
+29,"金","METAL; GOLD; MONEY",
+30,"土","SOIL, land",
+31,"本","BASIS; BOOK; THIS","origin, root"
+32,"東","EAST",
+33,"大","BIG; UNIVERSITY",
+34,"小","SMALL",
+35,"中","MIDDLE; IN; CHINA","throughout"
+36,"生","LIFE; BE BORN; STUDENT","grow; give birth to"
+37,"山","MOUNTAIN",
+38,"出","GO OUT; PUT OUT",
+39,"入","ENTER; PUT IN",
+40,"下","DOWN","lower, below"
+41,"上","UP","rise, raise, above"
+42,"止","STOP",
+43,"正","RIGHT","upright, correct, exact"
+44,"足","FOOT; SUFFICE","leg; step"
+45,"定","FIX","decide, settle"
+46,"手","HAND; PERFORMER OF AN ACTION","arm; labor; skill; -er"
+47,"用","EMPLOY; THINGS TO DO","use; business"
+48,"無","WITHOUT; NOTHING","nonexistence or lack"
+49,"不","NOT","negation: un-"
+50,"回","TURN ROUND; TIME",
+51,"言","SAY; SPEECH","word"
+52,"舌","TONGUE",
+53,"話","SPEAK",
+54,"活","ACTIVE; LIVE","lead one's life"
+55,"行","GO; ACT; LINE [of print]","proceed; perform"
+56,"心","HEART","mind, center, core"
+57,"耳","EAR",
+58,"又","AGAIN; OR","also; in other words"
+59,"取","TAKE",
+60,"身","BODY; ONE'S PERSON; SOCIAL POSITION",
+61,"休","(TO) REST","suspend"
+62,"体","BODY; FORM",
+63,"信","BELIEVE; MESSAGE","trust; signal"
+64,"付","ATTACH","be attached to; hand over"
+65,"受","RECEIVE","accept"
+66,"以","TO THE … OF; BY MEANS OF",
+67,"立","STAND; ESTABLISH",
+68,"部","SECTION","division, department"
+69,"倍","TIMES; DOUBLE","-fold"
+70,"成","BECOME; ACHIEVE","form"
+71,"代","REPLACE; GENERATION; CHARGE","substitute; age; fare)_x0011_"
+72,"王","KING",
+73,"玉","GEM","round or spherical object"
+74,"宝","TREASURE",
+75,"国","COUNTRY",
+76,"白","WHITE",
+77,"皇","EMPEROR",
+78,"全","WHOLE","all"
+79,"書","WRITE; BOOK",
+80,"事","AFFAIR; ABSTRACT THING",
+81,"自","SELF",
+82,"貝","SHELLFISH",
+83,"見","SEE",
+84,"力","POWER","strength, force"
+85,"刀","SWORD","one-edged"
+86,"切","CUT","sharp"
+87,"刃","BLADE",
+88,"分","DIVIDE; PART; MINUTE",
+89,"公","PUBLIC",
+90,"別","SEPARATE; ANOTHER",
+91,"長","LONG; CHIEF","senior"
+92,"男","MAN",
+93,"女","WOMAN",
+94,"子","CHILD; NOUN SUFFIX","son; small object"
+95,"好","LIKE; FAVORABLE",
+96,"安","PEACEFUL; INEXPENSIVE",
+97,"案","PROPOSAL","plan, idea"
+98,"字","CHARACTER; LETTER",
+99,"学","STUDY; SCHOOL",
+100,"父","FATHER",
+101,"文","WRITINGS; LETTER","learning, culture; script"
+102,"交","INTERCOURSE; CROSS","association; intersect, interchange"
+103,"校","SCHOOL; PROOFREAD",
+104,"母","MOTHER",
+105,"毎","EVERY; EACH",
+106,"海","SEA",
+107,"者","PERSON",
+108,"工","MANUFACTURE; CONSTRUCTION","work[manship"
+109,"式","FORM[ULA]; CEREMONY","style, manner; rite"
+110,"弐","TWO","formal / in legal documents"
+111,"武","MILITARY","warrior"
+112,"糸","THREAD",
+113,"前","BEFORE","ahead"
+114,"後","AFTER","late, rear; behind"
+115,"午","NOON; [sign of] THE HORSE",
+116,"牛","CATTLE",
+117,"年","YEAR",
+118,"件","MATTER","case"
+119,"条","ARTICLE","section, clause; strip"
+120,"化","CHANGE INTO","convert"
+121,"花","FLOWER",
+122,"北","NORTH",
+123,"比","COMPARE; PHONETIC [HI]","juxtapose, contrast, match"
+124,"背","BACK","stature"
+125,"車","VEHICLE; WHEEL","car"
+126,"気","GAS; SPIRIT",
+127,"汽","STEAM",
+128,"性","NATURE; SEX; -ITY","innate quality; gender"
+129,"畑","[cultivated] FIELD","one's speciality"
+130,"青","BLUE","green"
+131,"麦","WHEAT",
+132,"素","ELEMENT; PLAIN","bare"
+133,"毒","POISON",
+134,"先","AHEAD [of]","previous"
+135,"洗","WASH",
+136,"元","ORIGIN",
+137,"光","LIGHT","glow"
+138,"去","GO AWAY","leave; go by, elapse"
+139,"法","LAW; METHOD","way"
+140,"走","RUN",
+141,"当","THE PRESENT; HIT [the mark]","the said, this/that; correspond to; allot"
+142,"思","THINK","feel; wish"
+143,"早","EARLY; QUICK",
+144,"草","GRASS",
+145,"朝","MORNING; DYNASTY",
+146,"潮","TIDE","morning …"
+147,"形","SHAPE","material form"
+148,"発","OPEN UP; EMIT; START","generate; issue; develop"
+149,"廃","ABANDON; WASTE","abolish"
+150,"音","SOUND",
+151,"意","MIND; MEANING","thoughts; opinion; will; sense"
+152,"作","MAKE; WORK","produce, cultivate; do"
+153,"昨","YESTERDAY; LAST",
+154,"雨","RAIN",
+155,"電","ELECTRICITY",
+156,"頁","PAGE",
+157,"首","HEAD; NECK; LEADER",
+158,"道","WAY",
+159,"通","PASS [through]; COMMUNICATE",
+160,"乳","MILK","breast"
+161,"豆","BEAN","pea"
+162,"頭","HEAD","top, beginning"
+163,"予","IN ADVANCE",
+164,"矛","HALBERD",
+165,"預","DEPOSIT",
+166,"句","PHRASE; HAIKU",
+167,"旬","TEN-DAY PERIOD; BEST SEASON",
+168,"勺","SHAKU [0.018 liters]",
+169,"的","TARGET; ADJECTIVAL SUFFIX",
+170,"約","PROMISE; SHORTEN; APPROXIMATELY","summarize"
+171,"勿","DO NOT","not, never"
+172,"物","THING","usu. physical"
+173,"方","DIRECTION; WAY; SQUARE","side; locality; person; method"
+174,"防","DEFEND AGAINST",
+175,"面","FACE","facet; surface; mask"
+176,"画","PICTURE; DRAW UP A PLAN","draw; kanji stroke"
+177,"両","BOTH",
+178,"岡","HILL",
+179,"満","FULL","whole"
+180,"顔","FACE",
+181,"産","GIVE BIRTH; PRODUCE",
+182,"同","SAME","similar"
+183,"向","TURN TOWARD","direction; other side"
+184,"尚","STILL (MORE); VALUE HIGHLY",
+185,"高","HIGH; AMOUNT","tall; expensive; quantity"
+186,"圧","PRESSURE","overwhelm"
+187,"地","GROUND; PLACE","land"
+188,"池","POND","reservoir"
+189,"他","OTHER",
+190,"集","GATHER","collect"
+191,"進","ADVANCE",
+192,"込","MOVE INWARD [into]; EMPHATIC VERBAL SUFFIX",
+193,"斤","600 g UNIT; AXE",
+194,"近","NEAR; RECENT",
+195,"辺","VICINITY; BORDERLAND","side; outer region"
+196,"最","MOST","-est"
+197,"皿","PLATE",
+198,"血","BLOOD",
+199,"温","WARM","to touch, heartwarming"
+200,"湿","MOIST",
+201,"爪","CLAW","nail, plectrum"
+202,"瓜","MELON","gourd"
+203,"巾","CLOTH",
+204,"布","CLOTH; SPREAD",
+205,"市","CITY; MARKET",
+206,"吊","HANG","suspend"
+207,"泉","SPRING",
+208,"原","PLAIN; ORIGINAL","field; primitive"
+209,"源","SOURCE","origin"
+210,"線","LINE",
+211,"綿","COTTON",
+212,"絹","SILK",
+213,"錦","BROCADE",
+214,"願","WISH; ASK A FAVOR",
+215,"内","INSIDE",
+216,"肉","FLESH",
+217,"猪","WILD BOAR",
+218,"豚","PIG",
+219,"家","HOUSE; FAMILY","home; House"
+220,"吾","EGO",
+221,"我","SELF",
+222,"語","WORD; LANGUAGE; TELL",
+223,"伝","TRANSMIT",
+224,"転","TURN [into]","roll over"
+225,"芸","ART","craft; preformance"
+226,"会","MEET; SOCIETY","gather"
+227,"合","COMBINE; FIT","join"
+228,"今","PRESENT; THIS","now"
+229,"令","COMMAND",
+230,"念","THOUGHTS","mind, wish"
+231,"印","SEAL","mark"
+232,"命","ORDER; LIFE; FATE","command"
+233,"亡","DECEASED",
+234,"米","RICE; AMERICA",
+235,"粒","GRAIN",
+236,"和","HARMONIOUS; PEACE; JAPAN","calm"
+237,"私","PRIVATE; I",
+238,"広","WIDE","specious"
+239,"細","SLENDER; MINUTE",
+240,"林","FOREST",
+241,"森","THICK WOODS",
+242,"松","PINE",
+243,"竹","BAMBOO",
+244,"都","METROPOLIS [OF TŌKYŌ]","captial"
+245,"京","CAPITAL; TŌKYŌ; KYŌTO",
+246,"政","POLITICAL ADMINISTRATION",
+247,"府","URBAN PREFECTURE; GOVERNMENT OFFICE","Kyōto or Ōsaka"
+248,"戸","DOOR; HOUSEHOLD",
+249,"所","PLACE; PARTICLE OF NOMINALIZATION","point, part; -ation"
+250,"至","COME TO","utmost"
+251,"致","BRING ABOUT; DO HUMBLY","lead to"
+252,"屋","HOUSE; SMALL SHOP","roof"
+253,"室","ROOM","chamber"
+254,"古","OLD",
+255,"居","BE PRESENT; RESIDE",
+256,"局","BUREAU; LIMITED PART; SITUATION","office; locality"
+257,"故","OLD; INCIDENT; REASON","the late; cause"
+258,"胡","NATIVES OF ANCIENT CHINA",
+259,"湖","LAKE",
+260,"固","SOLID; FIRM",
+261,"箇","COUNTER FOR ITEMS","item"
+262,"個","GENERAL COUNTER; INDIVIDUAL","for things / articles; single unit"
+263,"且","AS WELL AS","moreover, both … and …"
+264,"組","ORGANIZE; ASSEMBLE",
+265,"夕","EVENING",
+266,"外","OUTSIDE","remove, come off"
+267,"多","MANY","most"
+268,"汐","(EVENING) TIDE",
+269,"名","NAME","fame; first-rate"
+270,"天","HEAVEN","weather; nature"
+271,"未","NOT YET","sth. undone or pending"
+272,"末","LAST PART","end"
+273,"味","TASTE","flavor; contents"
+274,"来","COME",
+275,"新","NEW",
+276,"親","PARENT; RELATIVES; INTIMATE","friendly"
+277,"欠","LACK","want"
+278,"次","NEXT","second[ary], [numerical] order"
+279,"席","SEAT",
+280,"度","DEGREE; TIME",
+281,"渡","CROSS","ford"
+282,"限","LIMIT","bounds"
+283,"銀","SILVER",
+284,"根","ROOT",
+285,"良","GOOD",
+286,"郎","YOUNG MAN; MALE NAME SUFFIX",
+287,"廊","CORRIDOR","gallery"
+288,"食","EAT; FOOD",
+289,"飲","DRINK",
+290,"官","GOVERNMENT [OFFICIAL]",
+291,"館","PUBLIC BUILDING",
+292,"宿","LODGE",
+293,"犬","DOG",
+294,"太","GREAT; THICK","extremely large"
+295,"器","VESSEL; INSTRUMENT","container"
+296,"凶","MISFORTUNE; EVIL",
+297,"区","DIVIDE INTO SECTIONS; DISTRICT; WARD","borough"
+298,"図","DRAWING","illustration, plan"
+299,"番","NUMERICAL ORDER; WATCH","duty"
+300,"号","NUMBER; DESIGNATION; SIGN","title, name; signal"
+301,"品","ARTICLE; CLASSIFICATION; GRADE OF EXCELLENCE",
+302,"楽","PLEASURE; COMFORTABLE; MUSIC",
+303,"薬","DRUG","chemical"
+304,"周","PERIPHERY","around; cycle"
+305,"週","WEEK",
+306,"調","TONE; INVESTIGATE; PREPARE","note, condition; make ready"
+307,"束","TIE UP; BUNDLE",
+308,"整","PUT IN ORDER",
+309,"数","NUMBER","quantity, count"
+310,"類","KIND","type"
+311,"示","SHOW",
+312,"禁","PROHIBIT",
+313,"礼","ETIQUETTE; RITE",
+314,"社","COMPANY; SOCIETY; SHINTŌ SHRINE",
+315,"申","REPORT [to a superior]; SPEAK HUMBLY",
+316,"神","GOD","spirit"
+317,"員","MEMBER","personnel"
+318,"質","QUALITY; MATTER; PAWN","nature; substance; hostage)"
+319,"党","PARTY",
+320,"堂","HALL","public building"
+321,"常","NORMAL; REGULAR",
+322,"賞","PRIZE","praise"
+323,"償","RECOMPENSE","make up for"
+324,"掌","PALM OF ONE'S HAND; TAKE CHARGE OF",
+325,"覚","PERCEIVE; WAKE UP; COMMIT TO MEMORY","sense; realize"
+326,"悟","AWAKE TO","comprehend"
+327,"感","SENSE","feel"
+328,"央","CENTER",
+329,"映","REFLECT; PROJECT",
+330,"決","DECIDE","resolve, settle"
+331,"快","PLEASANT","comfortable, quick"
+332,"英","DISTINGUISHED; ENGLAND",
+333,"並","LINE UP","place in a row; average, ordinary"
+334,"平","FLAT; CALM","impartial; plain"
+335,"半","HALF",
+336,"馬","HORSE",
+337,"尺","SHAKU (30.3 centimers)","measure"
+338,"尽","EXHAUST","use up"
+339,"駅","STATION",
+340,"鳥","BIRD",
+341,"島","ISLAND",
+342,"角","ANGLE; HORN","corner"
+343,"虫","INSECT","worm"
+344,"触","TOUCH","come in contact with"
+345,"解","TAKE APART; DISSOLVE; CLARIFY","solve"
+346,"独","ALONE","by oneself"
+347,"店","SHOP",
+348,"占","OCCUPY; DIVINE","hold"
+349,"点","POINT","dot"
+350,"士","MILITARY MAN; MAN OF LEARNING","professional suffix"
+351,"商","TRADE","commerce"
+352,"買","BUY",
+353,"売","SELL",
+354,"続","CONTINUE",
+355,"読","READ",
+356,"共","JOINT","together"
+357,"供","OFFER","submit"
+358,"洪","FLOOD",
+359,"昔","FORMER TIMES",
+360,"冬","WINTER",
+361,"寒","COLD",
+362,"春","SPRING",
+363,"夏","SUMMER",
+364,"秋","AUTUMN",
+365,"主","MAIN; LORD","master"
+366,"住","LIVE","inhabit"
+367,"駐","STATIONED",
+368,"注","POUR; CONCENTRATE","pay attention to"
+369,"志","AMBITION","aim"
+370,"誌","MAGAZINE","document"
+371,"仕","SERVE; DO",
+372,"任","OFFICE; ENTRUST","duty; leave [up] to"
+373,"支","BRANCH; SUPPORT; BE OBSTRUCTED","prop up"
+374,"反","COUNTER","against, anti-"
+375,"坂","SLOPE",
+376,"阪","ŌSAKA; SLOPE",
+377,"飯","COOKED RICE; MEAL",
+378,"返","RETURN","send back"
+379,"雑","MISCELLANEOUS; MIXED",
+380,"乱","DISORDERED","excessive"
+381,"寸","A BIT OF; SUN (3.03 cm)",
+382,"寺","BUDDHIST TEMPLE",
+383,"時","TIME",
+384,"持","HOLD","have, keep"
+385,"特","SPECIAL","particular"
+386,"待","WAIT [for]","treat"
+387,"得","ACQUIRE; GAIN","benefit"
+388,"侍","ATTEND UPON; SAMURAI",
+389,"詩","POETRY",
+390,"即","IMMEDIATE; NAMELY","that is"
+391,"節","JOINT; SECTION; SEASON OF THE YEAR","node; space [out], economize; time"
+392,"筋","MUSCLE; THREADLIKE STRUCTURE","sinew; thread"
+393,"等","EQUAL; CLASS","and the like, etc.; grade"
+394,"均","EQUAL","even, uniform"
+395,"季","SEASON",
+396,"委","COMMIT",
+397,"穴","HOLE","cave"
+398,"空","SKY; AIR; EMPTY",
+399,"友","FRIEND",
+400,"有","HAVE","exist, there is"
+401,"左","LEFT",
+402,"右","RIGHT",
+403,"石","STONE",
+404,"若","YOUNG",
+405,"苦","SUFFERING; BITTER","hardship"
+406,"在","BE","reside"
+407,"存","EXIST","be aware of, believe"
+408,"干","DRY",
+409,"刊","PUBLISH",
+410,"汗","SWEAT",
+411,"竿","POLE",
+412,"利","ADVANTAGE; PROFIT",
+413,"害","HARM","hinder"
+414,"益","BENEFIT","profit"
+415,"溢","SPILL OVER",
+416,"割","DIVIDE","cut, break"
+417,"憲","CONSTITUTION","code of laws"
+418,"羽","FEATHER; WING",
+419,"翌","THE FOLLOWING",
+420,"習","LEARN; CUSTOM","study; habit"
+421,"弓","BOW",
+422,"引","DRAW; REDUCE","draw toward, pull back"
+423,"強","STRONG",
+424,"弱","WEAK",
+425,"風","WIND; MANNER",
+426,"己","ONESELF",
+427,"記","WRITE DOWN",
+428,"紀","ERA; DISCIPLINE","age; morals"
+429,"改","REFORM","renew"
+430,"起","RISE","arise; occur"
+431,"姓","SURNAME",
+432,"由","REASON","cause"
+433,"油","OIL",
+434,"井","WELL",
+435,"囲","ENCLOSE",
+436,"丼","BOWL","of food"
+437,"丁","TOWN SUBSECTION; MISCELLANEOUS COUNTER",
+438,"寧","COURTEOUS","peaceful"
+439,"町","TOWN","~ section"
+440,"灯","LAMP",
+441,"庁","GOVERNMENT AGENCY",
+442,"貯","STORE UP","save"
+443,"易","EASY; EXCHANGE; FORTUNETELLING",
+444,"賜","DEIGN TO GIVE","bestow"
+445,"場","PLACE",
+446,"湯","HOT WATER",
+447,"門","GATE",
+448,"間","SPACE IN BETWEEN","interval"
+449,"閉","CLOSE",
+450,"開","OPEN",
+451,"関","CONNECT WITH; BARRIER","concern"
+452,"問","QUESTION","ask"
+453,"聞","HEAR","ask"
+454,"訪","VISIT",
+455,"送","SEND","transmit"
+456,"券","TICKET; CERTIFICATE",
+457,"包","WRAP; ENCOMPASS",
+458,"巻","ROLL UP; VOLUME","wind"
+459,"圏","SPHERE","circle, range"
+460,"勝","WIN; EXCEL",
+461,"戦","WAR","battle, contest"
+462,"単","SINGLE","simple, unit"
+463,"簡","SIMPLE",
+464,"過","PASS BY; EXCEED","over-"
+465,"骨","BONE",
+466,"昼","DAYTIME","midday"
+467,"夜","NIGHT",
+468,"液","LIQUID",
+469,"戒","CAUTION","warn"
+470,"幾","HOW MANY; SOME",
+471,"畿","CAPITAL REGION",
+472,"磯","ROCKY BEACH",
+473,"機","MACHINE; AIRCRAFT; OPPORTUNITY",
+474,"械","MECHANICAL CONTRIVANCE",
+475,"飛","FLY","leap"
+476,"氏","FAMILY; COURTESY TITLE","clan; surname"
+477,"民","PEOPLE","nation, race"
+478,"紙","PAPER",
+479,"低","LOW",
+480,"抵","RESIST","stand up to"
+481,"邸","STATELY RESIDENCE",
+482,"底","BOTTOM","base"
+483,"巨","GIANT",
+484,"臣","RETAINER","subject"
+485,"基","BASE","foundation"
+486,"期","TERM; EXPECT","period; anticipate"
+487,"毛","HAIR",
+488,"尾","TAIL",
+489,"育","RAISE",
+490,"羊","SHEEP","goat"
+491,"洋","OCEAN; WESTERN","foreign"
+492,"魚","FISH",
+493,"鮮","FRESH; VIVID",
+494,"蘇","REVIVE",
+495,"詳","DETAILED",
+496,"祥","AUSPICIOUS",
+497,"美","BEAUTIFUL",
+498,"業","WORK; BUSINESS; INDUSTRY",
+499,"実","REAL; FRUIT","actual, true; bear fruit"
+500,"養","FOSTER","cultivate, raise to maturity"
+501,"様","MODE; FORMAL TITLE","manner, way [of doing], style"
+502,"企","SCHEME","project, plan"
+503,"曲","MUSICAL COMPOSITION; CURVE",
+504,"典","STANDARD WORK; CANON","authority"
+505,"興","RISE TO PROSPERITY; AMUSEMENT","rouse up; interest"
+506,"輿","PALANQUIN",
+507,"竜","DRAGON",
+508,"滝","WATERFALL",
+509,"籠","BASKET","confine [onself] in"
+510,"辰","THE DRAGON","sign of …"
+511,"農","FARMING",
+512,"濃","THICK","concentrated"
+513,"豊","ABUNDANT",
+514,"吉","LUCKY",
+515,"詰","STUFF; REPRIMAND",
+516,"結","TIE; CONCLUDE",
+517,"投","THROW; SEND IN [to]","submit"
+518,"役","SERVICE","duty, office[r"
+519,"没","SINK","fall in"
+520,"設","SET UP","establish"
+521,"段","STEP","stage"
+522,"殺","KILL",
+523,"刹","BUDDHIST TEMPLE",
+524,"刈","CLIP","crop"
+525,"絵","PICTURE","painting"
+526,"給","SUPPLY; PAY",
+527,"巴","CIRCULAR COMMA PATTERN",
+528,"色","COLOR; EROS","character"
+529,"声","VOICE",
+530,"眉","EYEBROW",
+531,"里","VILLAGE; LEAGUE, RI (about 3.9 kilometers)","countryside; ~3.9 km unit"
+532,"理","REASON; BASIC PRINCIPLE; MANAGE","logic; law; put in order"
+533,"埋","BURY","be buried"
+534,"野","FIELD; WILD","rustic"
+535,"黒","BLACK",
+536,"墨","INDIA INK",
+537,"童","CHILD",
+538,"量","QUANTITY","weigh[t], measure"
+539,"重","HEAVY; PILE ON TOP OF","layer, -ply; duplicate"
+540,"動","MOVE",
+541,"働","WORK",
+542,"労","LABOR",
+543,"協","COOPERATE",
+544,"種","VARIETY; SEED","type"
+545,"亜","SUB-; PHONETIC [A]",
+546,"悪","BAD",
+547,"要","IMPORTANT; SUMMARIZE; REQUIRE","essential; required"
+548,"価","PRICE; VALUE",
+549,"必","WITHOUT FAIL","must"
+550,"証","PROVE; CERTIFICATE","guarantee"
+551,"歪","DISTORT","strain"
+552,"否","SAY NO; OR NOT",
+553,"処","DEAL WITH","dispose of"
+554,"拠","GROUNDS","basis"
+555,"計","PLAN; COMPUTE","calculate"
+556,"針","NEEDLE",
+557,"総","WHOLE; GENERAL","total"
+558,"窓","WINDOW",
+559,"矢","ARROW",
+560,"知","KNOW",
+561,"医","MEDICINE; DOCTOR",
+562,"短","SHORT",
+563,"失","LOSE; SLIP",
+564,"鉄","IRON",
+565,"夫","HUSBAND; MAN LABORER",
+566,"朱","VERMILION",
+567,"株","STOCK","stub"
+568,"族","FAMILY","tribe"
+569,"旅","TRAVEL",
+570,"遊","PLAY; TOUR",
+571,"施","EXECUTE; BESTOW",
+572,"旋","GYRATE",
+573,"旗","FLAG",
+574,"放","LET GO",
+575,"激","VIOLENT; AROUSE","intense; excite"
+576,"牧","PASTURE","tend cattle"
+577,"位","RANK; POSITION",
+578,"泣","CRY","lament"
+579,"笑","LAUGH","smile"
+580,"専","EXCLUSIVELY","entirely"
+581,"恵","FAVOR","kindness"
+582,"連","LINK; IN SUCCESSION","connect; in a row"
+583,"軍","ARMY","military"
+584,"運","CARRY; MOVE; FORTUNE","transport; fate"
+585,"蓮","LOTUS",
+586,"隊","PARTY","organized group: corps"
+587,"呈","PRESENT","display"
+588,"程","EXTENT; ESTABLISHED FORM",
+589,"聖","HOLY; SAINT",
+590,"丑","THE OX","sign of …"
+591,"紐","STRING","cord"
+592,"革","LEATHER; REFORM","change"
+593,"靴","SHOES",
+594,"鞄","SUITCASE","bag"
+595,"皮","SKIN","leather"
+596,"破","BREAK",
+597,"彼","THIRD PERSON PRONOUN","boy- / girlfriend"
+598,"波","WAVE","undulation"
+599,"果","FRUIT; ACCOMPLISH","result; come to an end"
+600,"課","ASSIGN[MENT]","task, lesson; impose, levy"
+601,"巣","NEST",
+602,"菓","CONFECTIONERY",
+603,"茶","TEA",
+604,"世","WORLD; AGE","public; generation"
+605,"葉","LEAF",
+606,"棄","ABANDON","throw away"
+607,"緑","GREEN",
+608,"録","RECORD","register"
+609,"剝","STRIP OFF","peel off, come off"
+610,"縁","RELATION; EDGE",
+611,"介","MEDIATE","lie between; shellfish"
+612,"界","WORLD; BOUNDS","area; boundary"
+613,"浮","FLOATING","transient"
+614,"将","GENERAL OFFICER",
+615,"奨","ENCOURAGE","promote"
+616,"状","FORM; CONDITION; LETTER","shape; state; note)"
+617,"病","ILLNESS",
+618,"症","PATHOLOGICAL CONDITION","-osis"
+619,"痛","PAIN; ACUTE",
+620,"憶","REMEMBER","speculate; think"
+621,"臆","FEEL TIMID","think"
+622,"億","HUNDRED MILLION",
+623,"視","LOOK AT","regard"
+624,"規","REGULATION","standard"
+625,"則","RULE","law"
+626,"側","SIDE",
+627,"測","MEASURE; CONJECTURE","gauge; estimate"
+628,"考","THINK","deliberate; study"
+629,"老","OLD",
+630,"孝","FILIAL PIETY",
+631,"厚","THICK; KIND",
+632,"教","TEACH; RELIGION","inform"
+633,"完","COMPLETE",
+634,"院","INSTITUTION",
+635,"奈","PHONETIC [NA]","etym.: Chinese crab apple"
+636,"宗","RELIGIOUS SECT",
+637,"祭","FESTIVAL","worship"
+638,"際","VERGE; OCCASION","edge"
+639,"察","INSPECT; GUESS","observe; judge"
+640,"祈","PRAY",
+641,"祖","ANCESTOR",
+642,"助","HELP","save"
+643,"仲","PERSONAL RELATIONS; INTERMEDIARY",
+644,"忠","LOYALTY","faithfulness"
+645,"沖","OPEN SEA; OFFING",
+646,"保","PRESERVE","maintain, guarantee"
+647,"呆","DUMB","…founded"
+648,"守","PROTECT","watch over, keep"
+649,"団","COLLECTIVE","group, organization"
+650,"対","OPPOSITE; OPPOSE","counter to; in relation to"
+651,"村","VILLAGE",
+652,"才","TALENT; -YEARS OLD",
+653,"財","WEALTH","property"
+654,"材","TIMBER; MATERIAL",
+655,"沈","SINK","submerge"
+656,"枕","PILLOW",
+657,"丈","STATURE; STOUT","measure"
+658,"杖","CANE","staff"
+659,"偉","GREAT","eminent"
+660,"緯","LATITUDE","woof / weft"
+661,"衛","GUARD",
+662,"韓","(SOUTH) KOREA",
+663,"違","DIFFER; VIOLATE","be wrong"
+664,"抱","HOLD","in one's arms"
+665,"砲","HEAVY GUN",
+666,"泡","BUBBLE","foam"
+667,"丹","CINNABAR RED","wholeheartedly"
+668,"舟","SMALL BOAT",
+669,"船","(LARGE) SHIP",
+670,"舶","OCEANGOING SHIP",
+671,"般","SORT","kind: of the same category"
+672,"搬","CARRY",
+673,"盤","DISK; BOARD",
+674,"歯","TOOTH",
+675,"冷","COLD","printed ≠ written style"
+676,"齢","AGE",
+677,"少","LITTLE","few"
+678,"砂","SAND",
+679,"歩","WALK","step"
+680,"渉","HAVE RELATIONS WITH",
+681,"省","MINISTRY; SAVE; INTROSPECT","cut down, leave out; reflect"
+682,"相","ASPECT; MUTUAL; MINISTER","physiognomy"
+683,"想","CONCEIVE","think"
+684,"称","APPELLATION",
+685,"弥","PHONETIC [MI] / [YA]","etym.: relax a bow"
+686,"互","RECIPROCAL",
+687,"務","DUTY","office, business"
+688,"柔","SOFT","supple, yielding, gentle"
+689,"軟","SOFT",
+690,"軌","TRACK","path"
+691,"軒","COUNTER FOR HOUSES; EAVES",
+692,"軸","AXLE; AXIS",
+693,"較","COMPARE",
+694,"庫","STORAGE CHAMBER",
+695,"蔵","STORE","-house"
+696,"倉","STOREHOUSE",
+697,"創","CREATE",
+698,"告","NOTIFY; ACCUSE",
+699,"造","MAKE","build"
+700,"衣","GARMENT","clothing"
+701,"依","DEPEND ON",
+702,"袋","BAG",
+703,"褒","COMMEND","praise"
+704,"裏","REAR","reverse, inside"
+705,"表","EXPRESS; SURFACE; TABLE","manifest; outside, front; chart"
+706,"現","ACTUAL; APPEAR","present"
+707,"著","AUTHOR; CONSPICUOUS",
+708,"制","SYSTEM; CONTROL",
+709,"製","MANUFACTURE",
+710,"初","FIRST",
+711,"裸","NAKED",
+712,"難","DIFFICULT; DISASTER; FAULT","criticize"
+713,"准","JUNIOR",
+714,"準","STANDARD; QUASI-","level"
+715,"備","PROVIDE [for]","furnish"
+716,"死","DIE",
+717,"葬","FUNERAL",
+718,"列","COLUMN","row"
+719,"烈","VEHEMENT","intense"
+720,"裂","SPLIT","tear"
+721,"例","EXAMPLE","precedent"
+722,"刑","PENALTY",
+723,"型","TYPE","model"
+724,"研","GRIND; RESEARCH",
+725,"厄","MISFORTUNE","trouble"
+726,"危","DANGEROUS",
+727,"範","MODEL","sth. to be followed"
+728,"怨","HOLD A GRUDGE","resent"
+729,"苑","IMPERIAL GARDEN",
+730,"宛","ADDRESS",
+731,"碗","CERAMIC BOWL","cup"
+732,"腕","ARM; ABILITY",
+733,"却","ELIMINATE","reject"
+734,"脚","LEG","foot"
+735,"犯","OFFENSE","violation"
+736,"狂","CRAZY","mad [about"
+737,"獄","PRISON",
+738,"非","IS NOT","contrariety: non-, un-, wrong"
+739,"排","EXCLUDE; DISCHARGE","reject; excrete"
+740,"俳","HAIKU","actor"
+741,"罪","CRIME","sin"
+742,"罰","PUNISHMENT","heaven's vengeance"
+743,"伴","ACCOMPANY",
+744,"判","JUDGE; PERSONAL SEAL","decide"
+745,"評","COMMENT","evaluate"
+746,"批","CRITICIZE","comment"
+747,"帥","COMMANDER IN CHIEF",
+748,"師","MASTER","teacher"
+749,"座","SEAT; SIT",
+750,"坐","SIT",
+751,"卒","GRADUATE; PRIVATE","come to an end; soldier"
+752,"率","RATE; LEAD","proportion; command"
+753,"傘","UMBRELLA",
+754,"笠","BAMBOO HAT",
+755,"星","STAR","celestrial body"
+756,"汁","JUICE; SOUP",
+757,"斗","DIPPER; TO (18 liters)",
+758,"料","FEE; MATERIALS",
+759,"科","SUBJECT OF STUDY",
+760,"然","-LIKE; SO [in that way]","modifier-forming suffix to one kanji: quality or states of being"
+761,"燃","BURN",
+762,"黙","SILENT","tacit"
+763,"獣","BEAST",
+764,"猟","HUNTING",
+765,"漁","FISHING",
+766,"狩","HUNT",
+767,"猛","FEROCIOUS","intensive"
+768,"煙","SMOKE",
+769,"焼","BURN","roast"
+770,"暁","DAWN",
+771,"旧","FORMER","old"
+772,"児","CHILD",
+773,"亦","ALSO",
+774,"赤","RED",
+775,"変","CHANGE; ABNORMAL","variation"
+776,"蛮","BARBARIAN",
+777,"恋","LOVE","romantic …"
+778,"愛","LOVE",
+779,"憂","BE ANXIOUS; GRIEF","worry"
+780,"優","SUPERIOR; KIND; ACTOR",
+781,"栗","CHESTNUT",
+782,"票","SLIP OF PAPER; BALLOT",
+783,"標","MARK","label, sign"
+784,"漂","DRIFT","float"
+785,"遷","TRANSFER",
+786,"各","EACH","every, all; various"
+787,"客","VISITOR; CUSTOMER",
+788,"路","ROAD","way"
+789,"格","NORM; STATUS; CHARACTER","standard; rank"
+790,"絡","INTERLINK; ENTWINE",
+791,"略","LEAVE OUT; STRATEGY","abridge; seize"
+792,"閣","GRAND BUILDING; CABINET [of a government]",
+793,"落","FALL","fail"
+794,"南","SOUTH",
+795,"西","WEST",
+796,"酉","THE ROOSTER","sign of the bird"
+797,"酒","ALCOHOLIC DRINK",
+798,"洒","SPRINKLE","wash"
+799,"配","DISTRIBUTE; PUT IN ORDER","manage"
+800,"酸","ACID; OXYGEN",
+801,"猶","DELAY",
+802,"尊","HONOR","esteem"
+803,"遵","OBEY",
+804,"導","GUIDE","conduct"
+805,"敬","RESPECT","revere"
+806,"警","GUARD AGAINST; WARN",
+807,"驚","SURPRISE",
+808,"散","SCATTER","disperse; unrestrained"
+809,"敢","BOLDLY",
+810,"厳","SEVERE; SOLEMN",
+811,"仏","BUDDHA",
+812,"払","CLEAR AWAY; PAY",
+813,"拡","ENLARGE","widen"
+814,"可","POSSIBLE; APPROVE","-able; worthy of"
+815,"何","WHAT; HOW MANY","several"
+816,"苛","TORMENT","severe"
+817,"荷","LOAD","cargo"
+818,"河","RIVER",
+819,"阿","PHONETIC [A]","etym.: big mound"
+820,"司","OFFICIATE","administer"
+821,"伺","INQUIRE","pay a visit"
+822,"詞","WORDS",
+823,"飼","RAISE ANIMALS",
+824,"冊","COUNTER FOR BOOKS",
+825,"嗣","HEIR",
+826,"覗","PEEK","come into view"
+827,"歌","SONG; JAPANESE POEM",
+828,"唄","DITTY",
+829,"負","BEAR; LOSE",
+830,"敗","BE DEFEATED",
+831,"責","RESPONSIBILITY; BLAME","censure)_x0003_"
+832,"積","ACCUMULATE",
+833,"債","DEBT; BOND",
+834,"漬","PICKLE","soak, immerse"
+835,"紡","SPIN","make yarn"
+836,"績","ACHIEVEMENTS","spin thread"
+837,"具","IMPLEMENT","tool"
+838,"真","TRUE","geniune"
+839,"直","STRAIGHT; PUT STRAIGHT","correct; direct, upright"
+840,"植","PLANT",
+841,"殖","MULTIPLY","cause to do] of its own accord"
+842,"値","VALUE",
+843,"置","PLACE","put in …, leave in …"
+844,"県","PREFECTURE",
+845,"州","STATE; SANDBAR","province"
+846,"洲","SANDBAR",
+847,"接","CONTACT","join, meet"
+848,"継","SUCCEED","follow"
+849,"断","CUT OFF; DECIDE","refuse; resolve"
+850,"応","RESPOND [to]","cor…"
+851,"床","BED; FLOOR",
+852,"麻","HEMP; BECOME NUMB",
+853,"歴","PERSONAL HISTORY",
+854,"暦","CALENDAR",
+855,"臨","ATTEND [to]; CONFRONT","be present at"
+856,"園","GARDEN",
+857,"遠","DISTANT",
+858,"与","GIVE; TAKE PART IN","grant"
+859,"写","COPY",
+860,"移","MOVE","shift"
+861,"卸","WHOLESALE",
+862,"御","GENERAL HONORIFIC TERM",
+863,"複","COMPOUND","double, duplicate"
+864,"腹","BELLY",
+865,"復","RETURN TO","repeat"
+866,"往","GO ON","proceed; pass away"
+867,"柱","PILLAR","mainstay"
+868,"征","CONQUER","invade"
+869,"従","FOLLOW","obey"
+870,"徒","FOLLOWER; FELLOW[S]; GOING ON FOOT","pupil"
+871,"縦","VERTICAL",
+872,"延","EXTEND; POSTPONE",
+873,"伸","STRETCH","grow"
+874,"紳","GENTLEMAN",
+875,"縮","SHRINK","curl up"
+876,"誕","BE BORN",
+877,"廷","COURT",
+878,"庭","COURTYARD; GARDEN",
+879,"艇","SMALL BOAT",
+880,"展","UNFOLD; DISPLAY","develop"
+881,"殿","PALACE; FORMAL HONORIFIC TITLE",
+882,"異","DIFFERENT",
+883,"翼","WING",
+884,"累","CUMULATE; ENCUMBER",
+885,"塁","BASE; SMALL FORT",
+886,"吏","OFFICIAL",
+887,"使","USE; ENVOY","dispatch"
+888,"史","HISTORY",
+889,"更","RENEW; FURTHERMORE; GROW LATE","replace"
+890,"便","CONVENIENT; POSTAL DELIVERY; EXCRETA","transportation service, flight"
+891,"硬","HARD","resisting pressure"
+892,"能","ABILITY; NOH DRAMA","function"
+893,"態","STATE; POSTURE","condition; attitute"
+894,"熊","BEAR",
+895,"罷","DISCONTINUE",
+896,"羅","LINE UP; PHONETIC [RA]","arrange"
+897,"雲","CLOUD",
+898,"曇","CLOUDY",
+899,"雪","SNOW",
+900,"雷","THUNDER",
+901,"零","ZERO; SPILL",
+902,"震","QUAKE","tremble"
+903,"振","SWING","wave, wield, pretend"
+904,"久","OF LONG DURATION",
+905,"賑","FLOURISH","be bustling"
+906,"丘","HILL",
+907,"兵","SOLDIER",
+908,"岳","HIGH MOUNTAIN","peak"
+909,"浜","BEACH",
+910,"舎","HUT","building"
+911,"再","ANOTHER TIME","again"
+912,"虎","TIGER",
+913,"寅","THE TIGER","sign of …"
+914,"演","PERFORM",
+915,"黄","YELLOW",
+916,"横","SIDEWAYS; ARBITRARY","across; despotic"
+917,"構","CONSTRUCT; MIND","frame; care about"
+918,"講","LECTURE",
+919,"購","PURCHASE",
+920,"溝","CHANNEL","ditch"
+921,"仮","TEMPORARY; FAKE","provisional"
+922,"片","FRAGMENT; ONE OF TWO",
+923,"版","PRINTING [PLATE]; PUBLISHING",
+924,"板","BOARD; PLATE",
+925,"販","ENGAGE IN SALES",
+926,"義","RIGHTEOUSNESS; MEANING; SUBSTITUTE","sense; artificial"
+927,"議","DISCUSS; LEGISLATIVE BODY",
+928,"儀","CEREMONY","rite"
+929,"犠","SACRIFICE",
+930,"牲","SACRIFICE",
+931,"旨","PURPORT","gist, aim"
+932,"指","FINGER; POINT [out]",
+933,"揮","BRANDISH","wield, wave"
+934,"輝","SHINE BRILLIANTLY",
+935,"刺","PIERCE","stab"
+936,"策","SCHEME; MEASURE","plan"
+937,"差","DIVERGENCE","difference"
+938,"着","PUT ON [cloths]; ARRIVE; STICK","adhere"
+939,"看","OBSERVE","keep an eye on"
+940,"到","ARRIVE",
+941,"倒","TOPPLE",
+942,"論","ARGUE; THEORY","discuss; view"
+943,"倫","MORALS",
+944,"輪","WHEEL; RING",
+945,"輸","TRANSPORT",
+946,"諭","ADMONISH","instruct"
+947,"愉","PLEASED",
+948,"癒","HEAL","soothe"
+949,"台","STAND; MACHINES AND VEHICLES COUNTER; TAIWAN","pedestral, platform"
+950,"治","GOVERN; CURE","bring under control"
+951,"冶","WORK METALS",
+952,"療","TREAT","medicate"
+953,"僚","COLLEAGUE","official"
+954,"瞭","CLEAR","obvious"
+955,"寮","DORMITORY",
+956,"始","BEGIN",
+957,"終","END",
+958,"了","FINISH; COMPREHEND",
+959,"承","AGREE TO; RECEIVE","be told"
+960,"蒸","STEAM","be steamed"
+961,"舞","DANCE",
+962,"隣","NEIGHBOR",
+963,"瞬","BLINK","instant"
+964,"夢","DREAM",
+965,"枝","BRANCH",
+966,"技","SKILL","craft"
+967,"伎","PERFORMANCE",
+968,"岐","DIVERGE","fork"
+969,"峠","MOUNTAIN PASS",
+970,"阜","MOUND",
+971,"急","URGENT; HURRY; SUDDEN",
+972,"争","CONTEND","struggle for"
+973,"情","EMOTION; ACTUAL CONDITIONS","feeling"
+974,"清","CLEAR","pure"
+975,"晴","CLEAR SKY",
+976,"精","REFINED; ESSENCE; SPIRIT","precise, meticulous"
+977,"請","REQUEST",
+978,"静","QUIET","still"
+979,"浄","CLEAN","pure"
+980,"算","CALCULATE",
+981,"答","ANSWER",
+982,"符","SYMBOL","mark; tally stick"
+983,"博","EXTENSIVE [knowledge]; DOCTOR, Ph.D.",
+984,"縛","BIND","restrain"
+985,"簿","RECORD BOOK",
+986,"薄","THIN","scanty"
+987,"采","GATHER",
+988,"菜","VEGETABLE",
+989,"採","PICK; GATHER",
+990,"彩","BEAUTIFUL COLORING",
+991,"杉","CRYPTOMERIA","Japanese cedar"
+992,"街","CITY QUARTER","city street"
+993,"術","PRACTICAL ART","technique"
+994,"述","STATE","mention"
+995,"余","REMAINING; EXCESS","left over"
+996,"除","RID OF",
+997,"徐","SLOWLY",
+998,"叙","DESCRIBE","explain"
+999,"斜","OBLIQUE",
+1000,"途","WAY","road"
+1001,"塗","APPLY ON A SURFACE","paint"
+1002,"漆","LACQUER",
+1003,"仙","HERMIT","immortal mountain fairy"
+1004,"垂","HANG DOWN","dangle"
+1005,"乗","RIDE","get on"
+1006,"兼","COMBINE; CANNOT","find it difficult to"
+1007,"剰","SURPLUS",
+1008,"睡","SLEEP",
+1009,"眠","SLEEP",
+1010,"郵","MAIL",
+1011,"錘","SPINDLE",
+1012,"華","FLOWER; MAGNIFICENT; CHINA",
+1013,"侵","INVADE","violate"
+1014,"浸","SOAK","immerse"
+1015,"寝","GO TO SLEEP",
+1016,"掃","SWEEP","… away"
+1017,"婦","ADULT WOMAN","wife"
+1018,"帰","RETURN [home]",
+1019,"戻","RETURN","give back"
+1020,"涙","TEAR",
+1021,"射","SHOOT","radiate"
+1022,"謝","THANK; APOLOGIZE",
+1023,"討","STUDY; SUPPRESS BY ARMED FORCE","examine"
+1024,"訂","REVISE","correct"
+1025,"打","STRIKE","emphatic verbal prefix"
+1026,"撃","STRIKE","attack; shoot"
+1027,"拭","WIPE",
+1028,"試","TRY","test"
+1029,"検","EXAMINE",
+1030,"験","TEST","examine"
+1031,"険","DANGEROUS; STEEP",
+1032,"倹","FRUGAL",
+1033,"剣","SWORD","double-edged"
+1034,"谷","VALLEY",
+1035,"欲","DESIRE",
+1036,"浴","BATHE",
+1037,"容","COUNTENANCE; CONTAIN","appearance; accommodate"
+1038,"溶","DISSOLVE; MELT",
+1039,"俗","POPULAR","common, vulgar"
+1040,"裕","ABUNDANT",
+1041,"寛","LENIENT",
+1042,"甘","SWEET",
+1043,"紺","DARK BLUE",
+1044,"紅","CRIMSON",
+1045,"攻","ATTACK",
+1046,"功","MERIT[s]","achievement"
+1047,"巧","SKILLFUL","ingenious"
+1048,"朽","DECAY",
+1049,"枯","WITHER",
+1050,"汚","DIRTY","defile"
+1051,"升","1.8 l UNIT",
+1052,"弁","SPEAK; MANAGE; VALVE","argue"
+1053,"昇","ASCEND","rise in rank"
+1054,"登","ASCEND; ATTEND; REGISTER","climb; appear"
+1055,"澄","LIMPID","lucid"
+1056,"充","FILL; ALLOT",
+1057,"銃","GUN","rifle"
+1058,"統","UNITE; INTERCONNECTED SYSTEM","subjugate"
+1059,"流","FLOW; CURRENT; STYLE",
+1060,"硫","SULFUR",
+1061,"盲","BLIND",
+1062,"忘","FORGET",
+1063,"忙","BUSY",
+1064,"荒","WILD","barren; devastated, ruined"
+1065,"慌","FLURRIED","hurried"
+1066,"望","HOPE; LOOK AFAR",
+1067,"希","RARE; ASPIRE",
+1068,"稀","RARE",
+1069,"括","LUMP TOGETHER",
+1070,"拘","ARREST",
+1071,"拾","PICK UP",
+1072,"捨","DISCARD",
+1073,"孤","SOLITARY",
+1074,"弧","ARC",
+1075,"弾","PROJECTILE; SPRING BACK","bullet; play on [stringed instruments"
+1076,"禅","ZEN",
+1077,"系","SYSTEM; LINEAGE","interrelated group; descent"
+1078,"係","CONNECT; PERSON IN CHARGE","relate to"
+1079,"孫","GRANDCHILD",
+1080,"懸","SUSPEND",
+1081,"偏","ONE-SIDED","partial"
+1082,"遍","TIMES [COUNTER]; ALL OVER","ubiquitous, everywhere"
+1083,"編","COMPILE; KNIT","edit"
+1084,"篇","VOLUME","piece of writing: chapter, part"
+1085,"普","WIDESPREAD","common"
+1086,"譜","SYSTEMATIC RECORD","musical score"
+1087,"職","EMPLOYMENT","post"
+1088,"織","WEAVE",
+1089,"識","DISCRIMINATE; KNOWLEDGE","discern; learning"
+1090,"殉","DIE A MARTYR",
+1091,"退","RETREAT",
+1092,"眼","EYE",
+1093,"智","WISDOM","intelligence"
+1094,"仁","HUMANENESS",
+1095,"忍","BEAR","endure; preform by stealth"
+1096,"認","RECOGNIZE","admit"
+1097,"求","SEEK",
+1098,"救","SAVE","rescue"
+1099,"球","BALL","globe"
+1100,"屯","STATION TROOPS",
+1101,"純","PURE",
+1102,"鈍","DULL",
+1103,"召","SUMMON",
+1104,"招","INVITE",
+1105,"沼","MUDDY POND",
+1106,"紹","INTRODUCE",
+1107,"詔","IMPERIAL EDICT",
+1108,"勅","IMPERIAL DECREE",
+1109,"昭","LUMINOUS","enlightened"
+1110,"照","ILLUMINATE; EXAMINE BY COMPARISON",
+1111,"超","SURPASS","super-, ultra-"
+1112,"越","GO BEYOND",
+1113,"趣","PURPORT; FLAVOR","gist, meaning; distinctive charm"
+1114,"赴","PROCEED TO",
+1115,"訃","DEATH REPORT",
+1116,"朴","SIMPLE",
+1117,"掛","SET [on]; HANG","fasten"
+1118,"摘","PICK","pluck"
+1119,"滴","DROP","fluit, …"
+1120,"嫡","LEGITIMATE WIFE/CHILD",
+1121,"適","FIT","suit"
+1122,"敵","ENEMY",
+1123,"授","CONFER; INSTRUCT",
+1124,"援","AID","give a hand"
+1125,"媛","DAMSEL","young lady of noble birth"
+1126,"緩","SLACK","loose"
+1127,"暖","WARM","weather, color, warmhearted"
+1128,"観","VIEW",
+1129,"勧","URGE","promote"
+1130,"権","RIGHT; POWER","authority"
+1131,"歓","JOYOUS",
+1132,"鶴","CRANE",
+1133,"確","CERTAIN","definite"
+1134,"慢","ARROGANT; SLUGGISH",
+1135,"漫","RAMBLING; COMIC",
+1136,"卯","THE HARE","sign of …"
+1137,"抑","SUPPRESS",
+1138,"仰","LOOK UP [to]",
+1139,"迎","WELCOME","go out to meet"
+1140,"柳","WILLOW",
+1141,"卵","EGG",
+1142,"疎","SCATTERED; ESTRANGED",
+1143,"速","QUICK",
+1144,"遅","SLOW; LATE",
+1145,"辻","CROSSROAD",
+1146,"迅","SWIFT",
+1147,"加","ADD [to]","join"
+1148,"減","DECREASE","substract"
+1149,"滅","EXTINGUISH","destroy"
+1150,"威","MIGHT; THREATEN BY FORCE","power; majesty"
+1151,"嚇","INTIMIDATE",
+1152,"或","A CERTAIN",
+1153,"惑","BEWILDERED","led astray"
+1154,"域","BOUNDED AREA","district"
+1155,"収","TAKE IN","gain, seize"
+1156,"納","PAY; PUT IN PLACE; ACCEPT",
+1157,"献","OFFER","donate"
+1158,"貢","TRIBUTE",
+1159,"貪","COVET",
+1160,"貰","GET",
+1161,"貧","POOR",
+1162,"賃","WAGES; CHARGES",
+1163,"貸","LEND","loan; rent out"
+1164,"貨","MONEY; GOODS","currency; freight"
+1165,"資","RESOURCES","capital"
+1166,"賛","APPROVE OF; PRAISE",
+1167,"替","REPLACE","substitute for"
+1168,"潜","SUBMERGE; LURK",
+1169,"貿","TRADE",
+1170,"留","KEEP IN PLACE; STAY","reside"
+1171,"溜","ACCUMULATE",
+1172,"賀","CONGRATULATE",
+1173,"架","LAY ACROSS",
+1174,"染","DYE","stain; infect"
+1175,"梨","PEAR",
+1176,"傑","PERSON OF EXCELLENCE",
+1177,"貴","NOBLE; YOUR HONORABLE","precious"
+1178,"潰","CRUSH","break"
+1179,"遺","LEAVE BEHIND","bequeath"
+1180,"遣","DISPATCH; USE","envoy"
+1181,"追","CHASE","follow"
+1182,"迫","PRESS","urge; draw near"
+1183,"泊","STAY OVERNIGHT",
+1184,"伯","OLDER SIBLING OF PARENT; COUNT","earl"
+1185,"拍","BEAT","rhythm"
+1186,"弔","CONDOLE","mourn"
+1187,"沸","BOIL [over]","… hot"
+1188,"煮","BOIL","cook"
+1189,"費","SPEND",
+1190,"弟","YOUNGER BROTHER",
+1191,"第","ORDINAL NUMBER PREFIX","order"
+1192,"剃","SHAVE",
+1193,"兄","OLDER BROTHER",
+1194,"只","FREE OF CHARGE; JUST","only, ordinary"
+1195,"税","TAX",
+1196,"鋭","SHARP",
+1197,"説","EXPLAIN; THEORY","preach; view"
+1198,"脱","REMOVE; ESCAPE FROM",
+1199,"閲","REVIEW","inspect"
+1200,"祝","CELEBRATE","congratulate"
+1201,"況","CONDITIONS","state of affairs"
+1202,"悦","DELIGHTED",
+1203,"克","OVERCOME",
+1204,"競","COMPETE",
+1205,"姉","OLDER SISTER",
+1206,"妹","YOUNGER SISTER",
+1207,"珠","PEARL",
+1208,"殊","SPECIAL","exceptionally"
+1209,"序","INTRODUCTORY PART; ORDER","beginning; sequence"
+1210,"秩","ORDER","regularity"
+1211,"迭","ALTERNATE",
+1212,"喜","HAPPY",
+1213,"善","GOOD",
+1214,"繕","MEND",
+1215,"膳","SMALL FOOD TABLE","legged tray; meal"
+1216,"憾","STRONGLY REGRET",
+1217,"恨","HOLD A GRUDGE","resent"
+1218,"惜","REGRET","begrudge, be sparing of"
+1219,"措","DISPOSE [of]","deal with, put in position, manage"
+1220,"借","BORROW","rent"
+1221,"錯","MIXED UP",
+1222,"曽","BEFORE","formerly"
+1223,"増","INCREASE",
+1224,"層","STRATUM",
+1225,"憎","HATE",
+1226,"僧","BONZE","priest"
+1227,"贈","PRESENT A GIFT",
+1228,"賄","BRIBE","supply"
+1229,"賂","BRIBE",
+1230,"賦","INSTALLMENT","payment"
+1231,"賊","BANDIT",
+1232,"帯","BELT; WEAR","sash; have"
+1233,"滞","STAGNATE; STAY","be left undone"
+1234,"渋","NOT GO SMOOTHLY; ASTRINGENT","juice [of unripe persimmons"
+1235,"摂","TAKE IN; ACT AS REGENT",
+1236,"為","DO; SAKE","act; benefit"
+1237,"偽","FALSIFY","deceive"
+1238,"参","PARTICIPATE; VISIT A HOLY PLACE","go somewhere; refer to"
+1239,"惨","MISERABLE; CRUEL","wretched"
+1240,"呂","PHONETIC [RO]",
+1241,"侶","COMPANION",
+1242,"宮","ROYAL PALACE; SHINTŌ SHRINE",
+1243,"営","OPERATE; BARRACKS","manage; camp"
+1244,"蛍","FIREFLY",
+1245,"栄","FLOURISH; GLORY","thrive"
+1246,"誉","HONOR","glory"
+1247,"挙","NOMINATE; RAISE [one's hand]; NOTEWORTHY ACT","cite"
+1248,"拳","FIST",
+1249,"桜","CHERRY",
+1250,"妥","COME TO TERMS",
+1251,"咲","BLOOM",
+1252,"朕","IMPERIAL WE","formal 1st person pronoun"
+1253,"茎","STEM","stalk"
+1254,"径","PATH; DIAMETER",
+1255,"怪","MYSTERIOUS",
+1256,"軽","LIGHT",
+1257,"経","PASS THROUGH; MANAGE; SUTRA","longitude; scripture"
+1258,"斉","EQUAL","uniform"
+1259,"斎","OBSERVE RELIGIOUS ABSTINENCE; STUDY [room]",
+1260,"済","SETTLE; RELIEVE","pay back, come to an end; save"
+1261,"剤","PREPARATION","medicine"
+1262,"剖","DISSECT",
+1263,"陪","ATTEND UPON A SUPERIOR",
+1264,"培","CULTIVATE",
+1265,"賠","COMPENSATE","indemnify"
+1266,"貼","STICK ON","paste"
+1267,"粘","STICKY",
+1268,"衡","BALANCE","weigh"
+1269,"換","EXCHANGE","replace"
+1270,"喚","CALL [out]",
+1271,"絶","BREAK OFF; COME TO AN END; WITHOUT MATCH","cut off"
+1272,"免","EXEMPTION","license, escape"
+1273,"逸","LET SLIP","deviate from the norm"
+1274,"勉","ENDEAVOR",
+1275,"晩","EVENING",
+1276,"許","PERMIT","authorize"
+1277,"象","PHENOMENON; ELEPHANT","outward manifestation; image"
+1278,"像","IMAGE","likeness"
+1279,"彫","CARVE","engrave"
+1280,"景","SCENE","outlook"
+1281,"影","SHADOW","image, silhouette"
+1282,"撮","PHOTOGRAPH",
+1283,"就","SET ABOUT","enter upon"
+1284,"涼","COOL",
+1285,"鯨","WHALE",
+1286,"隔","APART",
+1287,"融","FUSE; FINANCE",
+1288,"肖","LIKENESS",
+1289,"消","EXTINGUISH; SPEND","disappear; consume"
+1290,"硝","NITER",
+1291,"梢","TIP OF A TWIG",
+1292,"削","CUT BY CHIPPING",
+1293,"宵","EARLY EVENING",
+1294,"宴","BANQUET",
+1295,"郷","HOMETOWN",
+1296,"饗","BANQUET",
+1297,"響","REVERBERATE",
+1298,"城","CASTLE","fort"
+1299,"誠","SINCERITY","truth"
+1300,"盛","PROSPER","heap up"
+1301,"旺","ENERGETIC",
+1302,"盆","TRAY; BON FESTIVAL",
+1303,"蓋","LID",
+1304,"盗","STEAL",
+1305,"盟","ALLIANCE","pact"
+1306,"塩","SALT",
+1307,"傷","WOUND","scar"
+1308,"揚","RAISE HIGH; FRY","exalt"
+1309,"暢","FLUENT",
+1310,"陽","SUN; POSITIVE",
+1311,"陰","SHADOW; NEGATIVE",
+1312,"隠","HIDE",
+1313,"穏","CALM; MILD",
+1314,"穂","SPIKE","head of grain"
+1315,"稲","RICE PLANT",
+1316,"愁","MELANCHOLY",
+1317,"裁","CUT OUT; JUDGE","decide, rule"
+1318,"載","LOAD; PUT IN PRINT",
+1319,"栽","PLANTING",
+1320,"赦","AMNESTY",
+1321,"跡","TRACE","signs, marks"
+1322,"踪","FOOTPRINTS","trace"
+1323,"痕","SCAR","footprint"
+1324,"蹴","KICK",
+1325,"踊","DANCE",
+1326,"踏","TREAD","stand on"
+1327,"躍","LEAP","be active"
+1328,"濯","RINSE",
+1329,"奇","UNUSUAL","odd"
+1330,"寄","CONTRIBUTE; DRAW NEAR","call on"
+1331,"騎","RIDE ON HORSEBACK",
+1332,"椅","CHAIR",
+1333,"崎","PROMONTORY","cape"
+1334,"埼","PROMONTORY","cape"
+1335,"岬","CAPE","coast, promotory"
+1336,"模","PATTERN","… after"
+1337,"膜","MEMBRANE",
+1338,"漠","DESERT; OBSCURE",
+1339,"幕","CURTAIN; SHOGUNATE","tent"
+1340,"墓","GRAVE",
+1341,"募","RAISE","collect"
+1342,"暮","DUSK; LIVE",
+1343,"慕","ADORE",
+1344,"添","ADD TO","accompany"
+1345,"恭","RESPECTFUL",
+1346,"暴","VIOLENT; DISCLOSE","lay bare"
+1347,"爆","EXPLODE",
+1348,"沿","ALONG[SIDE]",
+1349,"礎","FOUNDATION STONE",
+1350,"疑","DOUBT","distrust"
+1351,"凝","CONGEAL","grow stif, become absorbed in"
+1352,"擬","IMITATE",
+1353,"倣","COPY AFTER",
+1354,"似","RESEMBLE",
+1355,"俵","STRAW SACK",
+1356,"俺","I","myself [masculine"
+1357,"庵","HERMITAGE",
+1358,"僕","I; MANSERVANT","familiar 1st p. male pronoun,addresses inferiors / peers"
+1359,"撲","DEAL A BLOW",
+1360,"叩","STRIKE","slap"
+1361,"伐","CUT DOWN",
+1362,"閥","CLIQUE","clan"
+1363,"闘","FIGHT",
+1364,"闇","DARK",
+1365,"閑","LEISURE; QUIET",
+1366,"脈","VEIN; PULSE",
+1367,"派","SECT; DISPATCH","fraction"
+1368,"缶","CAN",
+1369,"揺","SHAKE",
+1370,"謡","POPULAR SONG","chant"
+1371,"遥","FAR",
+1372,"陶","POTTERY",
+1373,"陳","SET FORTH","lay out"
+1374,"陣","BATTLE FORMATION; CAMP",
+1375,"陥","FALL IN[TO]",
+1376,"隆","PROSPER","rise"
+1377,"降","DESCEND","unload"
+1378,"峰","PEAK","high mountain"
+1379,"逢","MEET",
+1380,"縫","SEW",
+1381,"蜂","BEE","wasp"
+1382,"蜜","HONEY","nectar"
+1383,"密","CLOSE; SECRET","dense, tight"
+1384,"秘","SECRET",
+1385,"欧","EUROPE",
+1386,"枢","PIVOT",
+1387,"殴","BEAT","trash sth."
+1388,"駆","DRIVE",
+1389,"馳","GALLOP","run quickly"
+1390,"騒","CLAMOR",
+1391,"旭","RISING SUN","morning sun"
+1392,"旦","DAWN",
+1393,"但","PROVIDED THAT","however"
+1394,"担","[BEAR ON] SHOULDER; UNDERTAKE",
+1395,"亘","SPAN",
+1396,"恒","CONSTANT","permanent"
+1397,"垣","FENCE","wall"
+1398,"宣","PROCLAIM",
+1399,"喧","CLAMOROUS",
+1400,"嘩","NOISY",
+1401,"唾","SALIVA",
+1402,"壷","JAR","pot"
+1403,"坪","~3.3 m² UNIT",
+1404,"畔","WATERSIDE",
+1405,"衆","MULTITUDE",
+1406,"伊","PHONETIC [I]","etym.: 3rd p. pronoun / determiner"
+1407,"君","RULER; FAMILIAR TITLE; YOU",
+1408,"群","GROUP","crowd, flock"
+1409,"郡","COUNTY",
+1410,"那","PHONETIC [NA]","etym.: a city name;that, those"
+1411,"邦","STATE; JAPAN",
+1412,"郊","SUBURB",
+1413,"効","EFFECT",
+1414,"絞","STRANGLE; WRING",
+1415,"搾","SQUEEZE","extract"
+1416,"紋","CREST",
+1417,"菊","CHRYSANTHEMUM",
+1418,"帝","EMPEROR",
+1419,"締","CONCLUDE; TIGHTEN","contract"
+1420,"諦","GIVE UP",
+1421,"享","ENJOY","receive"
+1422,"郭","OUTER ENCLOSURE",
+1423,"亭","INN; PSEUDONYM SUFFIX","restaurant"
+1424,"停","STOP",
+1425,"昆","INSECT",
+1426,"混","MIX","…ed up"
+1427,"皆","ALL","everything, everyone"
+1428,"楷","BLOCK CHARACTER STYLE",
+1429,"諧","HARMONY",
+1430,"階","FLOOR; RANK","story; class"
+1431,"陛","IMPERIAL PALACE STEPS",
+1432,"陸","LAND",
+1433,"睦","FRIENDLY","intimate"
+1434,"勢","POWER; CONDITION","force; trend"
+1435,"熱","HEAT","hot"
+1436,"熟","MATURE","ripe"
+1437,"塾","PRIVATE SCHOOL",
+1438,"陵","IMPERIAL MAUSOLEUM","hill"
+1439,"菱","RHOMBUS",
+1440,"俊","BRILLIANT PERSON",
+1441,"唆","INSTIGATE",
+1442,"筈","TO BE EXPECTED",
+1443,"箸","CHOPSTICKS",
+1444,"暑","HOT","summer heat"
+1445,"署","GOVERNMENT OFFICE; SIGN ONE'S NAME",
+1446,"曙","DAWN",
+1447,"賭","WAGER",
+1448,"諸","VARIOUS","all kinds of"
+1449,"儲","PROFIT",
+1450,"緒","OUTSET; LINE","beginning; thread [of events"
+1451,"翁","OLD MAN",
+1452,"婆","OLD WOMAN",
+1453,"姿","FIGURE","appearance; posture"
+1454,"恣","ARBITRARY","self-indulgent"
+1455,"妄","RASH","outrageous"
+1456,"萎","WILT","wither"
+1457,"妻","WIFE",
+1458,"凄","TREMENDOUS","uncanny, terrible"
+1459,"章","CHAPTER; BADGE","writing"
+1460,"彰","PROCLAIM MERITS",
+1461,"障","HINDRANCE",
+1462,"辛","PUNGENT; HARD","spicy; painful"
+1463,"宰","PRESIDE","manage"
+1464,"辣","SHARP","bitter"
+1465,"辞","WORD; RESIGN","phrase"
+1466,"壁","WALL",
+1467,"璧","MAGNIFICENT JEWEL",
+1468,"癖","HABIT","quirk"
+1469,"避","AVOID",
+1470,"幸","GOOD FORTUNE; HAPPINESS",
+1471,"服","CLOTHES; SUBMIT",
+1472,"報","REPORT; REQUITE",
+1473,"執","EXECUTE; SEIZE","perform; hold fast to"
+1474,"摯","SINCERE",
+1475,"達","ATTAIN; PLURAL SUFFIX","reach; deliver"
+1476,"朗","CHEERFUL; CLEAR","bright"
+1477,"浪","BILLOW; ROAM","large wave; wander"
+1478,"呉","KINGDOM OF WU; GIVE","do for (someone)"
+1479,"娯","ENJOYMENT",
+1480,"誤","MISTAKE",
+1481,"富","RICH",
+1482,"副","SECONDARY","subordinate"
+1483,"幅","WIDTH","range"
+1484,"福","FORTUNE",
+1485,"祉","BLESSEDNESS",
+1486,"禍","CALAMITY",
+1487,"渦","WHIRLPOOL",
+1488,"鍋","POT","pan"
+1489,"蘭","ORCHID; HOLLAND",
+1490,"欄","COLUMN",
+1491,"潤","MOIST",
+1492,"淵","EDGE; DEEP POOL",
+1493,"滑","SLIDE; SMOOTH",
+1494,"稽","PRACTICE","train"
+1495,"肩","SHOULDER",
+1496,"脅","THREATEN",
+1497,"肯","ASSENT",
+1498,"双","SET OF TWO","pair"
+1499,"江","INLET",
+1500,"湾","BAY","curve"
+1501,"港","PORT",
+1502,"選","SELECT",
+1503,"択","SELECT",
+1504,"沢","SWAMP; ABUNDANT","marsh"
+1505,"訳","TRANSLATE; SENSE","meaning"
+1506,"釈","ELUCIDATE; RELEASE",
+1507,"敷","LAY",
+1508,"傲","ARROGANT",
+1509,"贅","LUXURY",
+1510,"審","EXAMINE CAREFULLY; TRY",
+1511,"藩","FEUDAL DOMAIN",
+1512,"翻","TURN OVER; RENDER","translate"
+1513,"翔","SOAR",
+1514,"査","LOOK INTO","inspect)_x0003_"
+1515,"租","LAND TAX",
+1516,"粗","COARSE",
+1517,"阻","HAMPER","obstruct"
+1518,"狙","AIM AT",
+1519,"宜","RIGHT","all …, suitable, good"
+1520,"畳","STRAW MAT; FOLD UP",
+1521,"甲","SHELL; FIRST IN A SERIES",
+1522,"乙","SECOND IN A SERIES",
+1523,"丙","THIRD IN A SERIES",
+1524,"柄","CHARACTER; STATUS; HANDLE","grap, shaft"
+1525,"押","PUSH","press [down"
+1526,"抽","DRAW OUT","pull"
+1527,"捜","LOOK FOR",
+1528,"届","DELIVER; REACH",
+1529,"宙","SPACE; MIDAIR",
+1530,"笛","FLUTE","whistle"
+1531,"袖","SLEEVE",
+1532,"襟","COLLAR",
+1533,"衿","COLLAR",
+1534,"裾","CUFF","hem"
+1535,"据","SET [up]","place"
+1536,"握","GRASP","seize"
+1537,"揃","MAKE UNIFORM",
+1538,"撫","STROKE; PACIFY","soothe"
+1539,"託","ENTRUST",
+1540,"宅","DWELLING HOUSE",
+1541,"詫","APOLOGIZE",
+1542,"宇","UNIVERSE",
+1543,"芋","POTATO",
+1544,"寿","LONGEVITY; CONGRATULATIONS",
+1545,"鋳","CAST","mint"
+1546,"銘","INSCRIPTION",
+1547,"鏡","MIRROR; OPTICAL INSTRUMENT",
+1548,"境","BOUNDARY; SITUATION",
+1549,"環","RING; SURROUND",
+1550,"還","RETURN",
+1551,"盾","SHIELD",
+1552,"循","CIRCULATE",
+1553,"巡","MAKE THE ROUNDS","go around"
+1554,"這","CRAWL",
+1555,"逓","RELAY",
+1556,"息","BREATH",
+1557,"憩","TAKE A REST",
+1558,"鼻","NOSE",
+1559,"孔","OPEN HOLE",
+1560,"臭","BAD SMELL",
+1561,"嗅","SMELL","sniff"
+1562,"奥","INNER PART","depths"
+1563,"尖","POINTY",
+1564,"突","THRUST","dash forward"
+1565,"窒","CHOKE; NITROGEN","plug up"
+1566,"窃","STEAL",
+1567,"衝","COLLIDE",
+1568,"契","PLEDGE",
+1569,"喫","INGEST",
+1570,"潔","IMMACULATE",
+1571,"侮","INSULT","disdain"
+1572,"梅","JAPANESE APRICOT",
+1573,"悔","REPENT","regret"
+1574,"敏","NIMBLE","alert"
+1575,"繁","THRIVE","be busy, numerous, manifold"
+1576,"繋","CONNECT","tie together"
+1577,"茂","GROW THICK",
+1578,"橋","BRIDGE",
+1579,"矯","RECTIFY",
+1580,"稿","MANUSCRIPT",
+1581,"縞","STRIPE",
+1582,"箋","WRITING PAPER","label"
+1583,"残","LEAVE BEHIND; RUTHLESS","remain"
+1584,"桟","PLANK BRIDGE",
+1585,"銭","MONEY",
+1586,"践","IMPLEMENT","practical effect)"
+1587,"浅","SHALLOW",
+1588,"洩","LEAK",
+1589,"壮","VIGOROUS; GRAND","robust; heroic"
+1590,"荘","VILLA; DIGNIFIED","solemn"
+1591,"装","DRESS; FIT OUT","disguise; equip"
+1592,"冥","DARK; WORLD OF THE DEAD",
+1593,"暗","DARK",
+1594,"韻","RHYME","melodious tone"
+1595,"損","LOSS","disadvantage"
+1596,"捕","CATCH","seize"
+1597,"挿","INSERT",
+1598,"補","SUPPLEMENT","replenish"
+1599,"浦","SEASIDE","small bay"
+1600,"哺","SUCKLE",
+1601,"舗","PAVE; SHOP",
+1602,"掴","GRASP","clutch"
+1603,"捉","CATCH","grasp"
+1604,"促","HASTEN","urge"
+1605,"筆","BRUSH; WRITING",
+1606,"津","HARBOR","ferry"
+1607,"律","LAW; RHYTHM","commandment; tone"
+1608,"逮","CATCH A CRIMINAL",
+1609,"建","BUILD",
+1610,"健","ROBUST","healthy"
+1611,"康","HEALTHY",
+1612,"庸","MEDIOCRE",
+1613,"粛","PURGE; HUSHED","solemnly"
+1614,"繍","EMBROIDERY","brocade"
+1615,"唐","TANG DYNASTY",
+1616,"糖","SUGAR",
+1617,"粧","APPLY MAKEUP",
+1618,"糧","FOOD PROVISIONS",
+1619,"粉","POWDER",
+1620,"紛","CONFUSED",
+1621,"糾","INQUIRE INTO",
+1622,"粋","REFINED",
+1623,"砕","CRUSH UP",
+1624,"枠","FRAME",
+1625,"酔","BECOME INTOXICATED",
+1626,"醒","WAKE UP","awake; sober up"
+1627,"酬","RECIPROCATE","recompense"
+1628,"酷","SEVERE","cruel"
+1629,"凡","COMMONPLACE","mediocre"
+1630,"凧","KITE",
+1631,"帆","SAIL",
+1632,"汎","PAN-","pan-"
+1633,"恐","FEAR",
+1634,"怖","FEARFUL",
+1635,"築","CONSTRUCT",
+1636,"尋","INQUIRE","look for"
+1637,"訊","INTERROGATE","inquire, ask"
+1638,"諮","CONSULT","ask for advice"
+1639,"抗","RESIST",
+1640,"航","NAVIGATE",
+1641,"坑","PIT","of a mine"
+1642,"拝","WORSHIP; HUMBLY",
+1643,"耕","TILL",
+1644,"耗","WEAR AWAY",
+1645,"崇","REVERENCE",
+1646,"灰","ASH",
+1647,"炭","[CHAR]COAL; CARBON",
+1648,"岸","SHORE","bank"
+1649,"岩","ROCK","crag"
+1650,"崩","CRUMBLE",
+1651,"嵐","STORM",
+1652,"崖","CLIFF",
+1653,"催","SPONSOR; PRESS FOR","hold an event, make happen"
+1654,"焦","SCORCH; BE IMPATIENT",
+1655,"礁","REEF",
+1656,"奮","ROUSE UP",
+1657,"奪","ROB","seize"
+1658,"隻","ONE OF A PAIR; COUNTER FOR SHIPS",
+1659,"獲","CATCH GAME",
+1660,"穫","HARVEST",
+1661,"護","PROTECT",
+1662,"譲","CEDE","yield"
+1663,"嬢","YOUNG LADY",
+1664,"醸","BREW",
+1665,"壌","ARABLE SOIL",
+1666,"壊","BREAK DOWN",
+1667,"懐","BOSOM; LONG FOR","embosom"
+1668,"徳","VIRTUE",
+1669,"聴","LISTEN",
+1670,"恥","SHAME",
+1671,"羞","SHY",
+1672,"爵","RANK OF NOBILITY",
+1673,"侯","FEUDAL LORD",
+1674,"喉","THROAT",
+1675,"候","SEASON; SEASONAL WEATHER","sign"
+1676,"修","CULTIVATE [oneself]; REPAIR","study"
+1677,"悠","LEISURELY","serene"
+1678,"是","RIGHT","correct"
+1679,"提","PRESENT; CARRY IN HAND","offer"
+1680,"堤","EMBANKMENT",
+1681,"題","HEADING; TOPIC; PROBLEM","headline; question"
+1682,"匙","SPOON",
+1683,"冒","RISK","defy"
+1684,"昌","PROSPERING","clear, bright"
+1685,"唱","SING","intone, chant"
+1686,"晶","CRYSTAL",
+1687,"帽","HEADGEAR",
+1688,"棟","BUILDING","building, ridgepole"
+1689,"凍","FREEZE",
+1690,"氷","ICE",
+1691,"永","ETERNAL","long"
+1692,"泳","SWIM",
+1693,"詠","RECITE POETRY","compose …"
+1694,"札","TAG","label"
+1695,"枚","COUNTER FOR FLAT THINGS",
+1696,"杯","CUP",
+1697,"析","ANALYZE",
+1698,"折","BREAK (OFF); FOLD","bend"
+1699,"挫","SPRAIN","break"
+1700,"捻","TWIST",
+1701,"誓","SWEAR","vow"
+1702,"逝","DEPART THIS LIFE",
+1703,"哲","WISE; PHILOSOPHY",
+1704,"斬","KILL","with a blade: cut down"
+1705,"漸","GRADUALLY",
+1706,"暫","SHORT WHILE",
+1707,"斥","EXPEL",
+1708,"訴","APPEAL TO; SUE","complain"
+1709,"訟","LITIGATE",
+1710,"究","STUDY EXHAUSTIVELY",
+1711,"窮","PUSHED TO THE LIMIT",
+1712,"極","EXTREME; POLE",
+1713,"函","BOX",
+1714,"探","PROBE; LOOK FOR","explore"
+1715,"深","DEEP",
+1716,"慄","TREMBLE","… with fear, shudder"
+1717,"惧","FEAR",
+1718,"慎","PRUDENT","discreet"
+1719,"鎮","QUELL","appease"
+1720,"塡","FILL [in]",
+1721,"婚","MARRY",
+1722,"囚","PRISONER",
+1723,"困","BE IN TROUBLE",
+1724,"梱","PACKAGE","bale"
+1725,"因","CAUSE",
+1726,"姻","MARRIAGE",
+1727,"咽","THROAT",
+1728,"恩","GRACE; DEBT OF GRATITUDE","favor"
+1729,"菌","BACTERIA","germ, fungus"
+1730,"漢","[ancient] CHINESE; FELLOW","Han dynasty; man"
+1731,"嘆","SIGH","lament"
+1732,"勤","SERVICE","work, employment"
+1733,"謹","RESPECTFULLY","carefully"
+1734,"僅","A LITTLE","little"
+1735,"索","SEARCH FOR",
+1736,"牽","DRAW",
+1737,"牢","PRISON; HARDNESS",
+1738,"啓","ENLIGHTEN; ADDRESS RESPECTFULLY",
+1739,"庶","MANIFOLD",
+1740,"遮","INTERRUPT","cut off"
+1741,"燕","SWALLOW","martin"
+1742,"雀","SPARROW; MAHJONG",
+1743,"劣","INFERIOR",
+1744,"抄","EXCERPT","select"
+1745,"秒","SECOND",
+1746,"妙","MARVELOUS","wonderful, strange"
+1747,"沙","SAND",
+1748,"汰","SIFT OUT",
+1749,"煎","BOIL","decoct; roast"
+1750,"炒","ROAST","parch"
+1751,"炊","COOK",
+1752,"焚","KINDLE","build a fire, burn"
+1753,"薪","FIREWOOD",
+1754,"乃","POSSESSIVE PARTICLE",
+1755,"之","POSSESSIVE PARTICLE",
+1756,"此","THIS",
+1757,"其","THAT",
+1758,"乏","SCANTY","poor"
+1759,"芝","LAWN GRASS",
+1760,"及","REACH TO","extend to; be equal to; as well as, and"
+1761,"扱","HANDLE","treat"
+1762,"級","GRADE","rank"
+1763,"吸","SUCK; BREATHE IN",
+1764,"吹","BLOW","breathe out"
+1765,"呼","CALL","send for"
+1766,"吐","SPEW","vomit"
+1767,"叶","BE FULFILLED","fulfill, grant"
+1768,"𠮟","SCOLD",
+1769,"叫","SHOUT",
+1770,"吟","RECITE",
+1771,"含","CONTAIN","include"
+1772,"琴","JAPANESE ZITHER","orig. for Chinese guqin, 7-stringed"
+1773,"迷","PERPLEXED","lost"
+1774,"謎","RIDDLE","enigma"
+1775,"逆","REVERSE","contrary"
+1776,"遡","GO BACK IN TIME","go upstream"
+1777,"塑","MODEL","mold"
+1778,"勲","MERITORIOUS SERVICE",
+1779,"薫","BALMY","fragrant"
+1780,"芳","FRAGRANT",
+1781,"香","SWEET SMELL",
+1782,"秀","EXCELLENT",
+1783,"誘","INDUCE","invite"
+1784,"拐","KIDNAP",
+1785,"透","PASS THROUGH; SEE-THROUGH","transparent"
+1786,"携","CARRY IN HAND","join hands"
+1787,"雄","MALE; HEROIC",
+1788,"雌","FEMALE",
+1789,"些","A LITTLE BIT",
+1790,"柴","BRUSHWOOD","firewood"
+1791,"紫","PURPLE",
+1792,"髪","HAIR",
+1793,"髭","BEARD","mustache"
+1794,"詐","SWINDLE",
+1795,"欺","DECEIVE",
+1796,"棋","SHOGI (Japanese chess)",
+1797,"碁","JAPANESE CHECKERS",
+1798,"甚","EXTREMELY",
+1799,"勘","CHECK; INTUITIVE PERCEPTION","consider"
+1800,"堪","ENDURE","tolerate"
+1801,"匹","COUNTER FOR ANIMALS",
+1802,"匠","CRAFTSMAN",
+1803,"匿","CONCEAL",
+1804,"諾","CONSENT",
+1805,"乞","BEG",
+1806,"迄","UP TO","until"
+1807,"乾","DRY",
+1808,"幹","TRUNK",
+1809,"操","MANIPULATE; FIDELITY",
+1810,"燥","DRY OUT",
+1811,"繰","REEL; SHIFT ONWARD","spin"
+1812,"藻","SEAWEED","algae"
+1813,"噴","SPOUT","gush out"
+1814,"墳","TUMULUS",
+1815,"憤","INDIGNATION",
+1816,"牙","FANG","tusk"
+1817,"芽","BUD",
+1818,"雅","ELEGANT",
+1819,"邪","EVIL",
+1820,"既","ALREADY","previous"
+1821,"概","GENERAL","roughly"
+1822,"慨","DEPLORE",
+1823,"苗","SEEDLING",
+1824,"描","DEPICT",
+1825,"猫","CAT",
+1826,"萌","GERMINATE","sprout"
+1827,"兆","SIGN; TRILLION","omen; show signs of"
+1828,"眺","GAZE",
+1829,"逃","ESCAPE",
+1830,"桃","PEACH",
+1831,"跳","JUMP","leap"
+1832,"挑","PROVOKE","challenge"
+1833,"拙","CLUMSY",
+1834,"屈","BEND","submit to"
+1835,"掘","DIG",
+1836,"堀","DITCH",
+1837,"封","SEAL; ENFEOFF","enclose"
+1838,"筒","TUBE",
+1839,"管","PIPE; EXERCISE CONTROL",
+1840,"棺","COFFIN",
+1841,"轄","EXERCISE JURISDICTION OVER",
+1842,"洞","CAVE",
+1843,"窟","CAVE",
+1844,"淫","LEWD",
+1845,"妊","BECOME PREGNANT",
+1846,"娠","CONCEIVE",
+1847,"唇","LIP",
+1848,"辱","HUMILIATE",
+1849,"襲","RAID; INHERIT",
+1850,"伏","PROSTRATE","turn over"
+1851,"吠","HOWL","bark"
+1852,"噛","BITE","chew"
+1853,"班","SQUAD","small group; common effort"
+1854,"斑","SPOT","speck, mottle"
+1855,"輩","FELLOW",
+1856,"悲","SAD",
+1857,"忽","SUDDENLY; CARELESS","at once, in an instant"
+1858,"惚","FALL IN LOVE WITH","grow senile"
+1859,"猿","MONKEY","ape"
+1860,"哀","SORROW; PITY",
+1861,"衰","DECLINE","weaken, degenerate"
+1862,"衷","INNER HEART",
+1863,"喪","MOURNING; LOSS",
+1864,"忌","MOURNING; ABHOR",
+1865,"卓","TABLE; PROMINENT",
+1866,"悼","MOURN",
+1867,"貞","CHASTE",
+1868,"偵","SPY",
+1869,"覇","SUPREMACY","domination"
+1870,"覆","COVER; OVERTURN","conceal"
+1871,"履","FULFILL; PUT ON FOOTWEAR",
+1872,"属","BELONG TO","be subordinate to"
+1873,"嘱","CHARGE WITH",
+1874,"偶","BY CHANCE; COUPLE",
+1875,"隅","NOOK",
+1876,"隙","GAP","space, spare time"
+1877,"遇","TREAT; ENCOUNTER","receive"
+1878,"愚","FOOLISH",
+1879,"曹","SERGEANT",
+1880,"遭","MEET WITH","come upon [esp. by accident"
+1881,"槽","TUB","tank)"
+1882,"妨","HINDER","obstruct"
+1883,"坊","SONNY; COLLOQUIAL PERSON SUFFIX",
+1884,"傍","BESIDE",
+1885,"於","AT","in, on"
+1886,"房","CHAMBER; TUFT","tassel"
+1887,"扇","FAN",
+1888,"扉","HINGED DOOR",
+1889,"雇","EMPLOY",
+1890,"顧","LOOK BACK [ON]","take into consideration"
+1891,"屑","SCRAPS","waste, scum"
+1892,"糞","DROPPINGS","shit"
+1893,"尿","URINE",
+1894,"泌","SECRETE",
+1895,"尻","BUTTOCKS",
+1896,"炉","FURNACE",
+1897,"窯","KILN",
+1898,"釜","IRON POT","cauldron"
+1899,"爺","OLD MAN","grandpa"
+1900,"窪","HOLLOW","cavity"
+1901,"佳","FINE","beautiful"
+1902,"涯","FAR END","outer limits"
+1903,"暇","FREE TIME",
+1904,"霞","MIST","haze"
+1905,"雰","ATMOSPHERE",
+1906,"霧","FOG",
+1907,"露","DEW; EXPOSE",
+1908,"霜","FROST",
+1909,"箱","BOX",
+1910,"籍","REGISTER",
+1911,"貫","PENETRATE","pierce through; carry out"
+1912,"慣","HABITUAL PRACTICE",
+1913,"頂","SUMMIT; RECEIVE HUMBLY","eat"
+1914,"戴","RECEIVE HUMBLY",
+1915,"項","CLAUSE",
+1916,"頃","TIME; ABOUT",
+1917,"傾","INCLINE","lean"
+1918,"頑","STUBBORN",
+1919,"頒","DISTRIBUTE WIDELY",
+1920,"頓","SUDDENLY","immediately"
+1921,"顕","MANIFEST",
+1922,"領","DOMINION",
+1923,"頻","REPEATEDLY","frequently"
+1924,"捗","MAKE PROGRESS",
+1925,"順","ORDER; OBEY","sequence"
+1926,"馴","BECOME TAME","get used to"
+1927,"訓","INSTRUCT","admonish"
+1928,"須","MUST","absolutely necessary"
+1929,"額","AMOUNT; PICTURE FRAME; FOREHEAD",
+1930,"頼","RELY ON; ASK",
+1931,"瀬","SHALLOWS","rapids"
+1932,"峡","GORGE",
+1933,"狭","NARROW","tight"
+1934,"挟","HOLD BETWEEN","pinch"
+1935,"頰","CHEEKS",
+1936,"顎","JAW","chin"
+1937,"煩","VEXED",
+1938,"串","SKEWER",
+1939,"患","AFFECTED BY DISEASE",
+1940,"疾","DISEASE; FAST",
+1941,"痴","STUPID; INFATUATED",
+1942,"疫","EPIDEMIC",
+1943,"痢","DIARRHEA",
+1944,"痘","SMALLPOX",
+1945,"瘍","ULCER","boil"
+1946,"癌","CANCER",
+1947,"痩","BECOME THIN",
+1948,"疲","TIRED",
+1949,"被","BE SUBJECTED TO","be covered in"
+1950,"披","OPEN OUT","one's heart, reveal"
+1951,"抜","PULL OUT; STAND OUT","above"
+1952,"控","HOLD BACK","deduct; note, memo"
+1953,"扶","LEND SUPPORT TO",
+1954,"抹","WIPE","erase"
+1955,"拓","OPEN UP","farmland, new frontiers"
+1956,"拷","TORTURE",
+1957,"楼","TALL BUILDING",
+1958,"壇","PLATFORM","rostrum"
+1959,"塔","TOWER","pagoda"
+1960,"搭","LOAD ON BOARD",
+1961,"寡","FEW; WIDOW[ER]",
+1962,"賓","GUEST",
+1963,"飾","DECORATE",
+1964,"飽","SATIATED","tired of"
+1965,"餓","STARVE",
+1966,"飢","STARVE",
+1967,"机","DESK",
+1968,"冗","REDUNDANT","superfluous"
+1969,"冠","CROWN",
+1970,"離","SEPARATE",
+1971,"胸","CHEST",
+1972,"悩","SUFFER","be troubled"
+1973,"脳","BRAIN",
+1974,"臓","INTERNAL ORGAN",
+1975,"胃","STOMACH",
+1976,"炎","FLAME; INFLAMMATION","-itis"
+1977,"談","TALK","converse"
+1978,"淡","LIGHT","faint"
+1979,"災","NATURAL CALAMITY",
+1980,"肝","LIVER",
+1981,"肺","LUNG",
+1982,"胆","GALL[BLADDER]",
+1983,"腺","GLAND",
+1984,"胞","MEMBRANOUS SAC",
+1985,"腸","INTESTINES",
+1986,"胎","WOMB; FETUS",
+1987,"腰","WAIST",
+1988,"肘","ELBOW",
+1989,"膝","KNEE","lap"
+1990,"股","CROTCH","thigh"
+1991,"肢","LIMB",
+1992,"胴","TRUNK","torso"
+1993,"脇","ARMPIT; ASIDE",
+1994,"脂","FAT",
+1995,"詣","VISIT A TEMPLE",
+1996,"肪","ANIMAL FAT",
+1997,"肌","SKIN",
+1998,"膚","SKIN",
+1999,"慮","CONSIDER",
+2000,"虐","CRUEL","tyrannical"
+2001,"虞","RISK","fears"
+2002,"劇","DRAMA",
+2003,"虚","EMPTY; FALSE","void"
+2004,"虜","CAPTIVE",
+2005,"勇","BRAVE","in high spirits"
+2006,"湧","WELL UP","gush out"
+2007,"戯","SPORT","play"
+2008,"繊","FINE; FIBER",
+2009,"緻","FINE","minute"
+2010,"嘘","LIE","fib"
+2011,"噂","RUMOR","gossip"
+2012,"樽","BARREL",
+2013,"距","DISTANCE",
+2014,"拒","REFUSE","reject"
+2015,"嬉","GLAD",
+2016,"鼓","DRUM",
+2017,"樹","STANDING TREE",
+2018,"膨","EXPAND",
+2019,"脹","SWELL",
+2020,"張","SPREAD [out]; STRAIN","extend [over]; stretch"
+2021,"帳","NOTEBOOK","curtain"
+2022,"腫","TUMOR","swelling"
+2023,"肥","FATTEN",
+2024,"把","GRIP",
+2025,"誇","BOAST",
+2026,"覧","LOOK OVER","view"
+2027,"監","OVERSEE",
+2028,"鑑","APPRAISE; REFER TO",
+2029,"艦","WARSHIP",
+2030,"濫","EXCESSIVE",
+2031,"藍","INDIGO",
+2032,"賢","WISE","intelligent"
+2033,"腎","KIDNEY",
+2034,"堅","FIRM","solid"
+2035,"緊","TIGHTEN; EXIGENT",
+2036,"勃","SUDDENLY RISING",
+2037,"励","WORK HARD","urge on"
+2038,"栃","HORSE CHESTNUT","tree"
+2039,"茨","BRIER","thorn"
+2040,"羨","ENVIOUS",
+2041,"歳","YEAR; -YEARS OLD",
+2042,"戚","KIN",
+2043,"叔","YOUNGER SIBLING OF PARENT",
+2044,"淑","GRACEFUL","refined"
+2045,"寂","LONESOME","desolate; elegant simplicity"
+2046,"督","SUPERVISE; COMMANDER","urge on"
+2047,"奴","SLAVE; GUY",
+2048,"努","EXERT",
+2049,"怒","GET ANGRY",
+2050,"隷","UNDERLING",
+2051,"款","ARTICLE; FRIENDLY RELATIONS","subsection"
+2052,"殻","HUSK","shell"
+2053,"穀","GRAIN","cereal"
+2054,"臼","MORTAR",
+2055,"毀","BREAK","chip"
+2056,"廉","HONEST; CHEAP",
+2057,"鎌","SICKLE",
+2058,"嫌","DISLIKE",
+2059,"謙","HUMBLE","modest"
+2060,"遜","HUMBLE","modest"
+2061,"亀","TURTLE",
+2062,"練","TRAIN","drill"
+2063,"錬","REFINE","train"
+2064,"鍛","FORGE","train"
+2065,"鉱","ORE; MINE",
+2066,"銅","COPPER","bronze"
+2067,"鉛","LEAD",
+2068,"銑","PIG IRON",
+2069,"鋼","STEEL",
+2070,"剛","TOUGH","strong"
+2071,"綱","ROPE; MAIN POINTS",
+2072,"網","NET",
+2073,"縄","ROPE",
+2074,"鉢","BOWL",
+2075,"鎖","CHAIN",
+2076,"絆","BONDS","fetters"
+2077,"鍵","KEY",
+2078,"釘","NAIL",
+2079,"錮","LOCK DOWN",
+2080,"錠","LOCK; PILL",
+2081,"綻","COME APART AT THE SEEMS",
+2082,"鈴","BELL",
+2083,"鐘","BELL",
+2084,"瞳","PUPIL","of the eye"
+2085,"憧","YEARN AFTER",
+2086,"憬","YEARN AFTER",
+2087,"卑","MEAN","despicable"
+2088,"碑","MONUMENT",
+2089,"痺","PARALYSIS",
+2090,"鬼","DEMON","ghost"
+2091,"塊","LUMP","mass"
+2092,"醜","UGLY",
+2093,"魂","SOUL","spirit"
+2094,"魅","CHARM",
+2095,"魔","DEMON","devil"
+2096,"畏","FEAR",
+2097,"刷","PRINT",
+2098,"擦","RUB","chafe"
+2099,"摩","RUB AGAINST",
+2100,"磨","POLISH",
+2101,"凹","CONCAVE","curved inward like a sphere's inner surface"
+2102,"凸","CONVEX","curved outward like a sphere's outside surface"
+2103,"奉","DEDICATE","offer"
+2104,"奏","PLAY MUSIC",
+2105,"泰","TRANQUIL",
+2106,"俸","SALARY",
+2107,"棒","ROD","stick"
+2108,"捧","DEDICATE","offer respectfully"
+2109,"耐","WITHSTAND","endure"
+2110,"霊","SPIRIT","soul"
+2111,"需","DEMAND","need"
+2112,"濡","WET",
+2113,"儒","CONFUCIANISM",
+2114,"端","EDGE","extremity"
+2115,"壱","ONE","in legal documents"
+2116,"尼","BUDDHIST NUN",
+2117,"泥","MUD",
+2118,"漏","LEAK",
+2119,"氾","FLOOD","spread out wide"
+2120,"彙","CATALOG","assemblage of the same kind"
+2121,"某","A CERTAIN",
+2122,"謀","SCHEME","plot"
+2123,"媒","MEDIATE",
+2124,"尉","OFFICER","company …"
+2125,"慰","CONSOLE","cheer up"
+2126,"酪","DAIRY PRODUCTS",
+2127,"酵","FERMENT",
+2128,"醤","SOY SAUCE","salted/fermented food"
+2129,"酢","VINEGAR",
+2130,"酎","JAPANESE DISTILLED LIQUOR",
+2131,"酌","POUR WINE",
+2132,"釣","ANGLE",
+2133,"畜","[RAISE] LIVESTOCK",
+2134,"蓄","STORE UP",
+2135,"玄","PROFOUND","occult"
+2136,"眩","DAZZLING","dizzying"
+2137,"呟","MUTTER",
+2138,"囁","WHISPER",
+2139,"喋","SPEAK","chant"
+2140,"喩","METAPHOR","liken"
+2141,"鬱","DEPRESSION; CONGESTED","gloom; pent up"
+2142,"弦","STRING","of a bow / musical instrument"
+2143,"舷","GUNWALE",
+2144,"舵","RUDDER","helm"
+2145,"幻","PHANTOM","illusion"
+2146,"幽","QUIET AND SECLUDED","deep hidden"
+2147,"幼","VERY YOUNG",
+2148,"稚","CHILD",
+2149,"維","FIBER","hold together"
+2150,"推","INFER; PUSH FORWARD",
+2151,"堆","PILE UP",
+2152,"椎","SPINE; CHINQUAPIN",
+2153,"脊","SPINE",
+2154,"雛","CHICK","doll"
+2155,"誰","WHO",
+2156,"唯","MERELY","only"
+2157,"鳴","CRY; SOUND","chirp"
+2158,"亥","THE BOAR","sign of …"
+2159,"刻","ENGRAVE; POINT IN TIME","carve"
+2160,"劾","EXPOSE CRIMES",
+2161,"核","NUCLEUS","core"
+2162,"骸","BODY","skeleton"
+2163,"咳","COUGH",
+2164,"該","CORRESPOND TO",
+2165,"診","EXAMINE A PATIENT",
+2166,"珍","RARE","curious"
+2167,"瓦","TILE","brick"
+2168,"併","PUT TOGETHER",
+2169,"瓶","BOTTLE","jar"
+2170,"屏","FENCE","folding screen"
+2171,"塀","FENCE","wall"
+2172,"餅","RICE CAKE",
+2173,"餌","FEED; BAIT",
+2174,"呑","SWALLOW","gulp"
+2175,"沃","FERTILITY",
+2176,"妖","BEWITCHING",
+2177,"呪","CHARM","curse"
+2178,"艶","CHARMING; ROMANCE","voluptuous; glossy"
+2179,"慈","AFFECTIONATE","compassionate"
+2180,"滋","NOURISH",
+2181,"磁","MAGNETISM",
+2182,"擁","EMBRACE","protect"
+2183,"腐","ROT","decay"
+2184,"芯","CORE","wick"
+2185,"蒔","SOW","scatter"
+2186,"撒","SCATTER",
+2187,"撤","WITHDRAW",
+2188,"徹","GO THROUGH [with]",
+2189,"微","SLIGHT","minute"
+2190,"徴","LEVY; SIGN","impose; symptom"
+2191,"懲","CHASTISE",
+2192,"殆","ALMOST","quite, really"
+2193,"后","EMPRESS",
+2194,"垢","DIRT",
+2195,"妃","PRINCESS","married …"
+2196,"姫","DAUGHTER OF NOBLE BIRTH",
+2197,"如","AS [if]","like"
+2198,"茹","BOIL","seethe"
+2199,"婿","SON-IN-LAW",
+2200,"娘","DAUGHTER; GIRL",
+2201,"嫁","WED A MAN; BRIDE",
+2202,"稼","WORK","… for a living"
+2203,"塚","MOUND","hillock"
+2204,"豪","GREAT MAN; MAGNIFICENT",
+2205,"蒙","IGNORANCE; PHONETIC [MŌ]","darkness"
+2206,"墾","CLEAR LAND FOR FARMING","clear land for farming"
+2207,"懇","FAMILIAR; EARNEST","intimate"
+2208,"貌","APPEARANCE","form"
+2209,"逐","DRIVE OUT; ONE BY ONE",
+2210,"遂","ACCOMPLISH","carry out"
+2211,"墜","DROP DOWN",
+2212,"堕","DEGENERATE","descend"
+2213,"随","FOLLOW",
+2214,"附","ATTACH","be attached to, hand over"
+2215,"髄","MARROW",
+2216,"怠","IDLE","remiss"
+2217,"惰","LAZY",
+2218,"佐","ASSIST; FIELD OFFICER",
+2219,"玩","PLAY WITH",
+2220,"弄","PLAY WITH",
+2221,"嘲","RIDICULE",
+2222,"奔","RUSH","run"
+2223,"弊","EVIL PRACTICE",
+2224,"幣","CURRENCY; SHINTŌ PAPER OFFERING",
+2225,"蔽","COVER",
+2226,"朋","COMRADE",
+2227,"棚","SHELF",
+2228,"柵","FENCE","palisade"
+2229,"桁","DIGIT; BEAM","girder"
+2230,"栓","STOPPER","spigot"
+2231,"詮","INQUIRY","expound"
+2232,"塞","PLUG UP","stop up, obstruct; fort"
+2233,"梗","BLOCK","stop up)"
+2234,"柿","PERSIMMON",
+2235,"藤","WISTERIA",
+2236,"騰","RISE","jump up"
+2237,"謄","TRANSCRIBE","copy"
+2238,"麺","NOODLES",
+2239,"拉","KIDNAP","pull"
+2240,"晃","DAZZLING",
+2241,"幌","AWNING","cover for vehicles, hood"
+2242,"厘","RIN (0.001 yen)","former monetary unit"
+2243,"畝","RIDGE; 99.17 m² UNIT",
+2244,"匁","3.75 g UNIT",
+2245,"匂","SMELL","fragrance: esp. sweet, agreeable"
+2246,"勾","BENT","sloping"
+2247,"挨","GREET",
+2248,"拶","GREET",
+2249,"曖","NOT CLEAR",
+2250,"昧","DARK",
+2251,"瑠","LAPIS LAZULI",
+2252,"璃","GLASSY SUBSTANCE",
+2253,"嫉","BE JEALOUS","envy"
+2254,"妬","ENVY",
+2255,"鹿","DEER",
+2256,"塵","DUST","trash"
+2257,"麓","FOOT OF A MOUNTAIN",
+2258,"麗","OF GRACEFUL BEAUTY",
+2259,"薦","RECOMMEND","a product; person to post"
+2260,"慶","FELICITATION","rejoicing"
+2261,"兜","HELMET",
+2262,"睨","GLARE AT",
+2263,"鼠","RAT","mouse"
+2264,"溺","DROWN","indulge in"
+2265,"潟","LAGOON",
+2266,"濁","TURBID",
+2267,"渇","RUN DRY; THIRST",
+2268,"褐","BROWN",
+2269,"葛","ARROWROOT",
+2270,"喝","SHOUT AT",
+2271,"謁","BE GRANTED AN AUDIENCE",
+2272,"掲","PUT UP","display"
+2273,"戌","THE DOG","sign of …"
+2274,"尤","REASONABLE","plausible"
+2275,"駄","GOOD FOR NOTHING; CLOGS",
+2276,"駒","HORSE; CHESS PIECE","pony"
+2277,"篤","SERIOUS; KIND",
+2278,"罵","SPEAK ILL OF",
+2279,"蔑","SCORN",
+2280,"罠","TRAP",
+2281,"烏","RAVEN","crow"
+2282,"鴨","DUCK",
+2283,"鳩","PIGEON",
+2284,"鶏","CHICKEN",
+2285,"渓","RAVINE",
+2286,"鷹","HAWK",
+2287,"鷲","EAGLE",
+2288,"璽","IMPERIAL SEAL",
+2289,"爽","REFRESHING",
+2290,"綴","STITCH TOGETHER; COMPOSE","bind; spell"
+2291,"桑","MULBERRY",
+2292,"蚕","SILKWORM",
+2293,"蛋","EGG",
+2294,"蟹","CRAB",
+2295,"蚊","MOSQUITO",
+2296,"巳","THE SERPENT","sign of …"
+2297,"蛇","SNAKE",
+2298,"繭","COCOON",
+2299,"蝶","BUTTERFLY",
+2300,"虹","RAINBOW",
