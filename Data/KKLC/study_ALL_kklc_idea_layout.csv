@@ -1,0 +1,23 @@
+"This is an ID for all the questions in this spreadsheet","This is the KKLC # for the Character that is being used",,,"Reading examples","See the Kanji, then write the kanji on the back","This gives a sentence in English, and allows the user to draw the kanji required",,"if READING has content, it is a vocabulary word used to build up the previous CHARACTER",,,
+,,"Kanji","Vocab","Reading Examples","Write","Recognition",,,,,
+"ID","ENTRY #","K","V","E","W","Re","CHARACTER","KANA","PRIMARY_MEANING","SECONDARY_MEANING","EXAMPLE"
+1,1,"x",,,,,"日",,"SUN * DAY * JAPAN",,
+2,1,,"x",,,,"日々","ひび","daily; days",,
+3,1,,"x",,,,"日にち","ひにち","date; number of days",,
+4,1,,"x",,,,"日に日に","ひにひに","day by day, every day",,
+5,1,,"x",,,,"ある日","あるひ","one day, a certain day",,
+6,1,,"x",,,,"日ソ","にっソ","Japan and the Soviet Union, Japanese-Soviet",,
+7,,,,"x",,,"１日ごとに。",,"「ーごとに」[“every __ “]",,"１（にち）　ごと　に。"
+8,,,,"x",,,"１日がすぎた。",,"「が」[subject marker]",,"１（にち）　が　すぎた。"
+9,2,"x",,,,,"一",,"ONE",,
+10,2,,"x",,,,"一日","いちにち","one day",,
+11,2,,"x",,,,"一日","ついたち","1st of the month",,
+12,2,,"x",,,,"一々","いちいち","one by one; in detail",,
+13,2,,"x",,,,"一つ","ひとつ","one (of something)",,
+14,2,,"x",,,,"一つずつ","ひとつずつ","one at a time",,
+15,3,"x",,,,,"二",,"TWO",,
+16,3,,"x",,,,"二日","ふつか","two days; 2nd of the month ",,
+17,3,,"x",,,,"二メートル","にメートル","2 meters",,
+18,3,,"x",,,,"二ラウンド","にラウンド","two rounds, Round 2",,
+19,3,,"x",,,,"レモン二つ","レモンふたつ","two lemons",,
+20,3,,"x",,,,"一つ二つ","ひとつふたつ","one or two",,
