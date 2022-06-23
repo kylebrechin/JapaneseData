@@ -1166,16 +1166,16 @@ Share on:　Reddit　Twitter　Facebook　LinkedIn See the website for a full li
 99-15.  このやりかたを、「学ぶ」より、身に付けるのだ。 この　やりかた　を、　「学ぶ(まなぶ)」　より、　身(み)　に　付ける(つける)　の　だ。 Instead of "learning" this method, it's better to just practice until it's second nature. 「-かた」　{-方　173} ["way of __"; "how to __"]: DJG v1 p183; Genki ch23. 
 99-16.  大切なのはどの大学を出たかではなくて、大学でなにを学んだかである。 大切(たいせつ)　な　の　は　どの　大学(だいがく)　を　出(で)た　か　で　は　なくて、　大学(だいがく)　で　なに　を　学ん(まなん)だ　か　で　ある。 What is important is not which university you've graduated from but what you've learned in the university. (87) 「〜のは〜だ」　[statement about a clause]: DJG v1 p337. 「〜を」　[indicates place from which one exits]: DJG v1 p351. 「-なくて」　["not __, so __"]: DJG v1 p279; Marx v1 day39; Tobira ch2 #15. 
 100：父 1
-00-1.  父は50代です。 父(ちち)　は　50代(だい)　です。 My father is in his fifties. (87) 1
-00-2.  父はタバコを止めた。 父(ちち)　は　タバコ　を　止め(やめ)た。 Father gave up cigarettes. (87) 1
-00-3.  お父さんがいますか。 お父さん(おとうさん)　が　います　か。 Is your father in? 「〜いますか」　{〜居ますか* 255} [inquire as to __'s existence or presence]: Genki ch4; Marx v1 day15. 1
-00-4.  父はハムを切り分けた。 父(ちち)　は　ハム　を　切り分け(きりわけ)た。 Father carved the ham. (101) 1
-00-5.  父は中国に行きました。 父(ちち)　は　中国(ちゅうごく)　に　行き(いき)ました。 My father went to China. (87) 1
-00-6.  父が大金を出してくれた。 父(ちち)　が　大金(たいきん)　を　出し(だし)て　くれた。 My father gave me a lot of money. 「-てくれる」　{-て呉れる** 1478} ["do __ for (me)"]: DJG v1 p216; Genki ch16; Marx v2 day31; Tobira ch3 #12. 1
-00-7.  お父さんにそっくりだね。 お父さん(おとうさん)　に　そっくり　だ　ね。 You're just like your father. (87) 1
-00-8.  お父さんには話しましたか？ お父さん(おとうさん)　に　は　話し(はなし)ました　か？ Did you tell your father? (4) 1
-00-9.  お父さんはオーストラリア人です。 お父さん(おとうさん)　は　オーストラリア人(じん)　です。 Father is Australian. 1
-00-10.  長田さんは父子二人で生活しています。 長田(ながた)さん　は　父子(ふし)　二人(ふたり)　で　生活(せいかつ)　して　います。 The Nagatas live together as father and child. 1
-00-11.  このあいだ父が書いた本を見つけ出した。 この　あいだ　父(ちち)　が　書い(かい)た　本(ほん)　を　見つけ出し(みつけだし)た。 The other day I discovered a book written by my father. (87) 「この〜」　{此の〜** 1756} ["this (past) __"; "this (coming) __"]: DJG v2 p127. 1
-00-12.  父の代わりに代父が受付してもいいですか？ 父(ちち)　の　代わり(かわり)　に　代父(だいふ)　が　受付(うけつけ)　して　も　いい　です　か？ May my godfather receive it in my father's place? 「〜(の)かわりに」　{〜(の)代わりに　71} ["in place of __"; "in compensation for __"]: DJG v1 p184, v2 p116; Marx v2 day26; Tobira ch2 #5. 「-てもいい」　["all right if __"]: DJG v1 p471; Marx v1 day56. 1
-00-13.  子どものとき、父から自分自身の行いを正すことを学んだ。 子(こ)ども　の　とき、　父(ちち)　から　自分(じぶん)　自身(じしん)　の　行(おこな)い　を　正(ただ)す　こと　を　学(まな)んだ。 When I was a child, I learned from my father to correct my own behavior. 「〜とき」　{〜時* 383} ["when __"]: DJG v1 p490; Genki ch16. 「-じしん」　{-自身　81; 60} ["__ oneself"]: DJG v3 p174 & 553 (covered under -じたい　and そのもの). 
+100-1.  父は50代です。 父(ちち)　は　50代(だい)　です。 My father is in his fifties. (87) 1
+100-2.  父はタバコを止めた。 父(ちち)　は　タバコ　を　止め(やめ)た。 Father gave up cigarettes. (87) 1
+100-3.  お父さんがいますか。 お父さん(おとうさん)　が　います　か。 Is your father in? 「〜いますか」　{〜居ますか* 255} [inquire as to __'s existence or presence]: Genki ch4; Marx v1 day15. 1
+100-4.  父はハムを切り分けた。 父(ちち)　は　ハム　を　切り分け(きりわけ)た。 Father carved the ham. (101) 1
+100-5.  父は中国に行きました。 父(ちち)　は　中国(ちゅうごく)　に　行き(いき)ました。 My father went to China. (87) 1
+100-6.  父が大金を出してくれた。 父(ちち)　が　大金(たいきん)　を　出し(だし)て　くれた。 My father gave me a lot of money. 「-てくれる」　{-て呉れる** 1478} ["do __ for (me)"]: DJG v1 p216; Genki ch16; Marx v2 day31; Tobira ch3 #12. 1
+100-7.  お父さんにそっくりだね。 お父さん(おとうさん)　に　そっくり　だ　ね。 You're just like your father. (87) 1
+100-8.  お父さんには話しましたか？ お父さん(おとうさん)　に　は　話し(はなし)ました　か？ Did you tell your father? (4) 1
+100-9.  お父さんはオーストラリア人です。 お父さん(おとうさん)　は　オーストラリア人(じん)　です。 Father is Australian. 1
+100-10.  長田さんは父子二人で生活しています。 長田(ながた)さん　は　父子(ふし)　二人(ふたり)　で　生活(せいかつ)　して　います。 The Nagatas live together as father and child. 1
+100-11.  このあいだ父が書いた本を見つけ出した。 この　あいだ　父(ちち)　が　書い(かい)た　本(ほん)　を　見つけ出し(みつけだし)た。 The other day I discovered a book written by my father. (87) 「この〜」　{此の〜** 1756} ["this (past) __"; "this (coming) __"]: DJG v2 p127. 1
+100-12.  父の代わりに代父が受付してもいいですか？ 父(ちち)　の　代わり(かわり)　に　代父(だいふ)　が　受付(うけつけ)　して　も　いい　です　か？ May my godfather receive it in my father's place? 「〜(の)かわりに」　{〜(の)代わりに　71} ["in place of __"; "in compensation for __"]: DJG v1 p184, v2 p116; Marx v2 day26; Tobira ch2 #5. 「-てもいい」　["all right if __"]: DJG v1 p471; Marx v1 day56. 1
+100-13.  子どものとき、父から自分自身の行いを正すことを学んだ。 子(こ)ども　の　とき、　父(ちち)　から　自分(じぶん)　自身(じしん)　の　行(おこな)い　を　正(ただ)す　こと　を　学(まな)んだ。 When I was a child, I learned from my father to correct my own behavior. 「〜とき」　{〜時* 383} ["when __"]: DJG v1 p490; Genki ch16. 「-じしん」　{-自身　81; 60} ["__ oneself"]: DJG v3 p174 & 553 (covered under -じたい　and そのもの). 
