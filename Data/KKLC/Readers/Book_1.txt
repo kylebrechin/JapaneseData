@@ -1,3 +1,6 @@
+
+CURRENTLY WORKING ON: 23
+
 2-1.  
 一つになる。 
 一つ(ひとつ)　に　なる。 
@@ -64,7 +67,9 @@ I'll give you another chance. (7)
 「もう　+ (numeral) + (counter)」　["__ more"]. 
 「の」　[marks end of modifying phrase]: DJG v1 p312; Genki ch10. 
 「Volitional」　["let's __"; "I'll __"]: DJG v1 p576 & 578 second column from right; Genki ch15; Marx v1 day29. 
-3-1.  二日ごとに。 
+
+3-1.  
+二日ごとに。 
 二日(ふつか)　ごと　に。 
 Every other day. 
 「〜に」　[time of occurrence]: DJG v1 p289 & 303. 
@@ -100,6 +105,7 @@ Tom readily [unhesitatingly] accepted.
 「〜に」　[location of existence]: DJG v1 p299 & 303. 
 「の」　[marks end of modifying phrase]: DJG v1 p312; Genki ch10. 
 「ある」　{有る　400} ["exist"; "have"]: DJG v1 p73.
+
 4-1.  
 まだ三日あります。 
 まだ　三日(みっか)　あります。 
@@ -133,6 +139,7 @@ It's already three days since I've logged in.
 「もう〜」　[changed state]: DJG v1 p254; Marx v1 day87. 
 「Irregular verb: する」　: DJG v1 p5 
 「-ている」　["be __ing"; "have (done) __"]: DJG v1 p155; Genki ch7; Marx v1 day36. 
+
 5-1.  
 十ぶんだ。 
 十ぶん(じゅうぶん)　だ。 
@@ -179,6 +186,7 @@ Must I spell out every little thing?
 かれはそれに十シリング十一ペンスついやした。 
 かれ　は　それ　に　十(じゅう)　シリング　十一(じゅういち)　ペンス　ついやした。 
 It had cost him ten and elevenpence. (51) 
+
 6-1.  
 四つんばい。 
 四つんばい(よつんばい)。 
@@ -213,6 +221,7 @@ I want a square table.
 四(よん)ぶん　の　一(いち)　が　イギリス　じん。 
 A quarter are English. 
 「の」　[marks end of modifying phrase]: DJG v1 p312; Genki ch10. 
+
 7-1.  
 バナナを五つください。 
 バナナ　を　五つ(いつつ)　ください。 
@@ -242,6 +251,7 @@ Nello is fifteen now, and Alois is twelve. (29)
 アントワープ　まで　は　五(ご)　マイル　ありました。 
 Antwerp was a good five miles off. (29) 
 「〜まで」　{〜迄** 1806} ["until __"]: DJG v1 p225; Genki ch23. 
+
 8-1.  
 六ぶんの一。 
 六(ろく)ぶん　の　一(いち)。 
@@ -275,7 +285,7 @@ Please see page six.
 That is not a four-ton truck. It's a six-ton truck. 
 「こ　/ そ　/ あ　/ ど」　: DJG v1 p600; Genki ch2; Marx v1 day
 「AはBだ」　["A is B"]: DJG v1 p521; Genki ch1; Marx v1 day8. 
-9：七
+
 9-1.  
 七ぶんの一。 
 七(なな)ぶん　の　一(いち)。 
@@ -316,6 +326,7 @@ This container is seven tons.
 七日にフリーマーケットがある。 
 七日(なのか)　に　フリー　マーケット　が　ある。 
 There's a flea market on the 7th. 
+
 10-1.  
 八十日でいける。 
 八十日(はちじゅうにち)　で　いける。 
@@ -358,6 +369,7 @@ There were only twenty-eight days left. (7)
 この　ケーキ　を　八(はち)　きれ　に　きって　ください。 
 Please cut this cake into eight slices. 
 「〜に」　["to __", "toward __"]: DJG v1 p302 & 303. 
+
 11-1.  
 五十九です。 
 五十九(ごじゅうきゅう)　です。 
@@ -387,6 +399,7 @@ Erika is a girl of nineteen.
 ココナッツを九つください。 
 ココナッツ　を　九(ここの)つ　ください。 
 Nine coconuts, please. 
+
 12-1.  
 丸くする。 
 丸く(まるく)　する。 
@@ -425,24 +438,39 @@ The possum is all rolled up in a ball.
 チーム　一丸(いちがん)　と　なって　たたかう。 
 We fight as a team. 
 「〜となる」　["become __"]: DJG v2 p511. 
-「-て　/ -で」　[connective form of verbs]: DJG v1 p464, v2 p64 of front matter; Genki ch6; Marx v1 day30. Note: Look for any differences between the appearance of the “chôonpu” (ー) in「チーム」and the “ichi” (一) in「一丸」. In gothic (sans serif) fonts, the two may be identical. 
+「-て　/ -で」　[connective form of verbs]: DJG v1 p464, v2 p64 of front matter; Genki ch6; Marx v1 day30. Note: Look for any differences between the appearance of the “chôonpu” (ー) in「チーム」and the “ichi” (一) in「一丸」.
 12-9.  
 この丸いくすりはなんですか。 
 この　丸い(まるい)　くすり　は　なん　です　か。 
 What is this round medication? 
-13-1.  円をかく。 円(えん)　を　かく。 
+
+
+13-1.  
+円をかく。 
+円(えん)　を　かく。 
 Draw a circle. 
-13-2.  円のかたち。 円(えん)　の　かたち。 
+13-2.  
+円のかたち。 
+円(えん)　の　かたち。 
 A circular shape. 
-13-3.  円をつくる。 円(えん)　を　つくる。 
+13-3.  
+円をつくる。 
+円(えん)　を　つくる。 
 Form a circle. 
-13-4.  円いクモのす。 円い(まるい)　クモ　の　す。 
+13-4.  
+円いクモのす。 
+円い(まるい)　クモ　の　す。 
 A circular spider web (す　= nest). 
-13-5.  これは五十円です。 これ　は　五十円(ごじゅうえん)　です。 
+13-5. 
+これは五十円です。 
+これ　は　五十円(ごじゅうえん)　です。 
 This costs fifty yen. 
-13-6.  たったの九十円です。 たった　の　九十円(きゅうじゅうえん)　です。 
+13-6. 
+たったの九十円です。 
+たった　の　九十円(きゅうじゅうえん)　です。 
 It's only ninety yen. 
 「たった〜」　["just __", "only __"]: DJG v2 p448 (covered under ただ〜); Tobira ch15 #7. 
+
 14-1.  
 アンケートに〇をつけた。 
 アンケート　に　〇(まる)　を　つけた。 
@@ -463,6 +491,7 @@ Let's just call him "Mr. X" for now.
 「とりあえず〜」　{取り敢えず〜* 59; 809} ["__ at once"; "__ for now"]. 
 「と」　[marks sound/manner or quoted speech]: DJG v1 p478. 
 「-ましょう」　["I/we shall __"; "let's __"]: DJG v1 p240; Genki ch5; Marx v1 day29. 
+
 15-1. 
 一人につき十円。 
 一人(ひとり)　につき　十円(じゅうえん)。 
@@ -595,6 +624,7 @@ In soccer, all eleven players compete as one unit.
 ロシア人(じん)　は　astronaut　を　cosmonaut　と　よぶ。 
 The Russians call their astronauts cosmonauts. (101) 
 「と」　[marks sound/manner or quoted speech]: DJG v1 p478. 
+
 16-1.  
 九百トン。 
 九百(きゅうひゃく)　トン。 
@@ -624,6 +654,7 @@ What do you say we just order the three hundred yen cake?
 「〜にする」　["opt for __"]: DJG v1 p310; Marx v2 day80. 
 「Irregular verb: する」　: DJG v1 p5
 「Volitional」　["let's __"; "I'll __"]: DJG v1 p576 & 578 second column from right; Genki ch15; Marx v1 day29. 
+
 17-1.  
 八千円のワイン。 
 八千円(はっせんえん)　の　ワイン。 
@@ -649,89 +680,181 @@ I paid 2,800 yen!
 ホンコン　から　千(せん)　六百(ろっぴゃく)　六十(ろくじゅう)　マイル　だ。 
 It is sixteen hundred and sixty miles from Hong Kong. (7) 
 「〜から」　["from __"]: DJG v1 p176. 
-18-1.  一千万円。 一千万円(いっせんまんえん)。 Ten million yen. (100) 
-18-2.  百万ぶんの一。 百万(ひゃくまん)ぶん　の　一(いち)。 One millionth. 
-18-3.  1万円でたりる？ 1万円(まんえん)　で　たりる？ Is ten thousand yen enough? (87) 
-18-4.  六千万円のヨット。 六千万円(ろくせんまんえん)　の　ヨット。 A sixty million yen yacht. 
-18-5.  五万五千ポンドですよ！ 五万(ごまん)　五千(ごせん)　ポンド　です　よ！ Fifty-five thousand pounds! (7) 
-「〜よ」　[assertion]: DJG v1 p
-46-47 examples 
-12-13 and 15; Genki ch2; Marx v1 day11. 
-18-6.  一万円おあずかりします。 一万円(いちまんえん)　おあずかり　します。 [Cashier, when receiving cash from a customer] Out of ten thousand yen. 
+
+18-1. 一千万円。 
+一千万円(いっせんまんえん)。 
+Ten million yen. (100) 
+18-2. 
+百万ぶんの一。 
+百万(ひゃくまん)ぶん　の　一(いち)。 
+One millionth. 
+18-3. 
+1万円でたりる？ 
+1万円(まんえん)　で　たりる？ 
+Is ten thousand yen enough? (87) 
+18-4. 
+六千万円のヨット。 
+六千万円(ろくせんまんえん)　の　ヨット。 
+A sixty million yen yacht. 
+18-5. 五万五千ポンドですよ！ 
+五万(ごまん)　五千(ごせん)　ポンド　です　よ！ 
+Fifty-five thousand pounds! (7) 
+「〜よ」　[assertion]: DJG v1 p46-47 examples 12-13 and 15; Genki ch2; Marx v1 day11. 
+18-6. 
+一万円おあずかりします。 
+一万円(いちまんえん)　おあずかり　します。 
+[Cashier, when receiving cash from a customer] Out of ten thousand yen. 
 「お-〜する」　[polite description of action by oneself or another ingroup person]: DJG v1 p39 bottom; Genki ch20. 
-18-7.  このアパートは三千万円かかる。 この　アパート　は　三千万円(さんぜんまんえん)　かかる。 This apartment costs thirty million yen. 
+18-7. 
+このアパートは三千万円かかる。 
+この　アパート　は　三千万円(さんぜんまんえん)　かかる。 
+This apartment costs thirty million yen. 
 「かかる」　{掛かる* 1117} ["hang"; "be caught"]: Marx v1 day52. 
-18-8.  万一いけなかったら、メールする。 万一(まんいち)　いけなかったら、　メール　する。 If by some chance I’m unable to go, I’ll text you. 
+18-8. 
+万一いけなかったら、メールする。 
+万一(まんいち)　いけなかったら、　メール　する。 
+If by some chance I’m unable to go, I’ll text you. 
 「Verbs of potential」　["can __"]: DJG v1 p370; Genki ch13; Marx v1 day50. 
-「-たら」　["if __"; "when __"]: DJG v1 p452; Genki ch17; Marx v2 day21. 
-19：口 
-19-1.  一口のエール。 一口(ひとくち)　の　エール。 A sup of ale. (101) 
-19-2.  おいしい一口。 おいしい　一口(ひとくち)。 A tasty morsel. (101) 
-19-3.  一口ちょうだい。 一口(ひとくち)　ちょうだい。 Let me have a small piece. 
-19-4.  一口だけたべる。 一口(ひとくち)　だけ　たべる。 Take small bites of. (100) 
+「-たら」　["if __"; "when __"]: DJG v1 p452; Genki ch17; Marx v2 day21.  
+
+19-1.  
+一口のエール。 
+一口(ひとくち)　の　エール。 
+A sup of ale. (101) 
+19-2.  
+おいしい一口。 
+おいしい　一口(ひとくち)。 
+A tasty morsel. (101) 
+19-3.  
+一口ちょうだい。 
+一口(ひとくち)　ちょうだい。 
+Let me have a small piece. 
+19-4.  
+一口だけたべる。 
+一口(ひとくち)　だけ　たべる。 
+Take small bites of. (100) 
 「〜だけ」　["just __"]: DJG v1 p93; Marx v2 day39. 
-19-5.  人口六百九十五人。 人口(じんこう)　六百(ろっぴゃく)　九十(きゅうじゅう)　五人(ごにん)。 Population six hundred ninety-five. 
-19-6.  そんなことは口にするなよ。 そんな　こと　は　口(くち)　に　する　な　よ。 Don’t say such a thing. 
-「こ　/ そ　/ あ　/ ど」　: DJG v1 p600; Genki ch2; Marx v1 day
-16-17. 
+19-5.  
+人口六百九十五人。 
+人口(じんこう)　六百(ろっぴゃく)　九十(きゅうじゅう)　五人(ごにん)。 
+Population six hundred ninety-five. 
+19-6.  
+そんなことは口にするなよ。 
+そんな　こと　は　口(くち)　に　する　な　よ。 
+Don’t say such a thing. 
+「こ　/ そ　/ あ　/ ど」　: DJG v1 p600; Genki ch2; Marx v1 day16-17. 
 「こと」　{事　80} [intangible thing]: DJG v1 p191; Marx v1 day34; Tobira ch7 (first page). 
 「infinitive + な」　[prohibitive: "don't __"]: DJG v1 p266; Marx v1 day40. 
-「〜よ」　[assertion]: DJG v1 p
-46-47 examples 
-12-13 and 15; Genki ch2; Marx v1 day11. 
-19-7.  ジョージアのスラブ人の人口。 ジョージア　の　スラブ人(じん)　の　人口(じんこう)。 The Slav population of Georgia. (101) 
-19-8.  フランスの人口はなん人ですか？ フランス　の　人口(じんこう)　は　なん人(にん)　です　か？ What is the population of France? (87) 
-20：田 
-20-1.  田んぼみち。 田んぼ(たんぼ)　みち。 A path passing between rice paddies. 
-20-2.  ガス田をいかす。 ガス田(でん)　を　いかす。 Exploit a gas field. 
-20-3.  あの人は田口さんです。 あの　人(ひと)　は　田口(たぐち)さん　です。 That's Taguchi-san. Note: This series usually leaves untranslated the name suffix “-san” and the title “-sensei”, as these terms often don’t translate smoothly into English, and in any event are commonly understood. Leaving “-san” untranslated also prevents the awkwardness of gendering the translation (with “Mr.” or “Ms.”) when the original is ungendered. 
-20-4.  三田の人口は六百九十五万人です。 三田(みた)　の　人口(じんこう)　は　六百(ろっぴゃく)　九十(きゅうじゅう)　五万人(ごまんにん)　です。 The population of Mita is six million nine hundred fifty thousand (6,950,000). 
-21-30 
-21：目 
-21-1.  ラマダンの10日目。 ラマダン　の　10日目(とおかめ)。 The tenth day of Ramadan. (100) 
-21-2.  人目をひくポスター。 人目(ひとめ)　を　ひく　ポスター。 Eye-catching posters.  (101) 
-21-3.  あなたで六人目です。 あなた　で　六人目(ろくにんめ)　です。 You're the sixth person. 
+「〜よ」　[assertion]: DJG v1 p46-47 examples 12-13 and 15; Genki ch2; Marx v1 day11. 
+19-7.  
+ジョージアのスラブ人の人口。 
+ジョージア　の　スラブ人(じん)　の　人口(じんこう)。 
+The Slav population of Georgia. (101) 
+19-8.  
+フランスの人口はなん人ですか？ 
+フランス　の　人口(じんこう)　は　なん人(にん)　です　か？ 
+What is the population of France? (87) 
+
+20-1.  
+田んぼみち。 
+田んぼ(たんぼ)　みち。 
+A path passing between rice paddies. 
+20-2.  
+ガス田をいかす。 
+ガス田(でん)　を　いかす。 
+Exploit a gas field. 
+20-3.  
+あの人は田口さんです。 
+あの　人(ひと)　は　田口(たぐち)さん　です。 
+That's Taguchi-san. 
+20-4.  
+三田の人口は六百九十五万人です。 
+三田(みた)　の　人口(じんこう)　は　六百(ろっぴゃく)　九十(きゅうじゅう)　五万人(ごまんにん)　です。 
+The population of Mita is six million nine hundred fifty thousand (6,950,000). 21-30 
+
+21-1.  
+ラマダンの10日目。 
+ラマダン　の　10日目(とおかめ)。 
+The tenth day of Ramadan. (100) 
+21-2.  
+人目をひくポスター。 
+人目(ひとめ)　を　ひく　ポスター。 
+Eye-catching posters.  (101) 
+21-3.  
+あなたで六人目です。 
+あなた　で　六人目(ろくにんめ)　です。 
+You're the sixth person. 
 「あなた」　{貴方　1177; 173} [formal: "you"]: DJG v1 p28. 
-21-4.  ひどい目にあいますよ。 ひどい　目(め)　に　あいます　よ。 You'll have a rough time. (87) 
+21-4.  
+ひどい目にあいますよ。 
+ひどい　目(め)　に　あいます　よ。 
+You'll have a rough time. (87) 
 「〜に」　["to __", "toward __"]: DJG v1 p302 & 303. 
-「〜よ」　[assertion]: DJG v1 p
-46-47 examples 
-12-13 and 15; Genki ch2; Marx v1 day11. 
-21-5.  丸い田んぼがすぐ目についた。 丸い(まるい)　田んぼ(たんぼ)　が　すぐ　目(め)　に　ついた。 The round rice paddy caught my eye immediately. (10) 
+「〜よ」　[assertion]: DJG v1 p46-47 examples 12-13 and 15; Genki ch2; Marx v1 day11. 
+21-5.  
+丸い田んぼがすぐ目についた。 
+丸い(まるい)　田んぼ(たんぼ)　が　すぐ　目(め)　に　ついた。 
+The round rice paddy caught my eye immediately. (10) 
 「すぐ」　["immediately"; "directly"]: DJG v2 p439. 
 「〜に」　["to __", "toward __"]: DJG v1 p302 & 303. 
-21-6.  わたしの目がヒリヒリしている。 わたし　の　目(め)　が　ヒリヒリ　して　いる。 My eyes are burning. (101) 
+21-6.  
+わたしの目がヒリヒリしている。 
+わたし　の　目(め)　が　ヒリヒリ　して　いる。 
+My eyes are burning. (101) 
 「-ている」　["be __ing"; "have (done) __"]: DJG v1 p155; Genki ch7; Marx v1 day36. 
-21-7.  またいつかお目にかかりましょう。 また　いつか　お目にかかり(おめにかかり)ましょう。 I hope to see you sometime. (87) 
+21-7.  
+またいつかお目にかかりましょう。 
+また　いつか　お目にかかり(おめにかかり)ましょう。 
+I hope to see you sometime. (87) 
 「いつか」　{何時か** 815; 383} ["sometime"]: Marx v1 day18. 
 「〜に」　[marks agent/source]: DJG v1 p292 & 303. 
 「かかる」　{掛かる* 1117} ["hang"; "be caught"]: Marx v1 day52. 
 「-ましょう」　["I/we shall __"; "let's __"]: DJG v1 p240; Genki ch5; Marx v1 day29. 
 「Irregular humble polite forms」　: DJG v1 p40; Genki ch20. 
-21-8.  人目につかないロマンチックなスポット。 人目(ひとめ)　に　つかない　ロマンチック　な　スポット。 A secluded romantic spot. (101) 
+21-8.  
+人目につかないロマンチックなスポット。 
+人目(ひとめ)　に　つかない　ロマンチック　な　スポット。 
+A secluded romantic spot. (101) 
 「〜に」　[marks agent/source]: DJG v1 p292 & 303. 
-21-9.  えらいオズにお目にかかりにきたのです。 えらい　オズ　に　お目にかかり(おめにかかり)　に　きた　の　です。 We came here to see the Great Oz. (99) 
+21-9.  
+えらいオズにお目にかかりにきたのです。 
+えらい　オズ　に　お目にかかり(おめにかかり)　に　きた　の　です。 
+We came here to see the Great Oz. (99) 
 「Verb stem + に　+ verb of motion」　["(go) __ing"; "(go) to (do) __"]: DJG v1 p297; Genki ch7; Tobira ch3 #9. 
 「くる」　{来る　274} ["come"]: DJG v1 p219. 
-「Irregular verb: くる」　: DJG v1 p5
-78-79. 
+「Irregular verb: くる」　: DJG v1 p578-79. 
 「のである　/ のです　/ のだ　/ んだ」　[explanation or assertion]: DJG v1 p325; Genki ch12. 
-21-10.  ここから一千の田んぼが一目でみえるのです。 ここ　から　一千(いっせん)　の　田(た)んぼ　が　一目(ひとめ)　で　みえる　の　です。 From here you can look out on one thousand rice fields. 
+21-10.  
+ここから一千の田んぼが一目でみえるのです。 
+ここ　から　一千(いっせん)　の　田(た)んぼ　が　一目(ひとめ)　で　みえる　の　です。 
+From here you can look out on one thousand rice fields. 
 「〜で」　[instrument]: DJG v1 p106; Genki ch10. 
 「〜みえる」　{〜見える　83} ["__ can be seen"; "looks __"]: DJG v1 p243; Marx v1 day50, v2 day69. 
 「のである　/ のです　/ のだ　/ んだ」　[explanation or assertion]: DJG v1 p325; Genki ch12. 
-22：川 
-22-1.  あの川は千田川です。 あの　川(かわ)　は　千田川(せんだがわ)　です。 That's the Sendagawa (River). 
-22-2.  田川さんは川口にすんでいる。 田川(たがわ)さん　は　川口(かわぐち)　に　すんで　いる。 Tagawa-san lives in Kawaguchi (municipality). 
+
+22-1.  
+あの川は千田川です。 
+あの　川(かわ)　は　千田川(せんだがわ)　です。 
+That's the Sendagawa (River). 
+22-2.  
+田川さんは川口にすんでいる。 
+田川(たがわ)さん　は　川口(かわぐち)　に　すんで　いる。 
+Tagawa-san lives in Kawaguchi (municipality). 
 「〜に」　[location of existence]: DJG v1 p299 & 303. 
 「〜にすむ」　{〜に住む　366} ["live in (a particular place)" - generally conjugated in -ている　form]. 
 「-ている」　["be __ing"; "have (done) __"]: DJG v1 p155; Genki ch7; Marx v1 day36. 
-22-3.  田口さんは四川にすんでいる。 田口(たぐち)さん　は　四川(しせん)　に　すんで　いる。 Taguchi-san lives in Sichuan (Chinese province). 
-22-4.  ここから川口が一目でみえるんだ。 ここ　から　川口(かわぐち)　が　一目(ひとめ)　で　みえる　ん　だ。 From here you can look out over the river mouth. 
+22-3.  
+田口さんは四川にすんでいる。 
+田口(たぐち)さん　は　四川(しせん)　に　すんで　いる。 
+Taguchi-san lives in Sichuan (Chinese province). 
+22-4.  
+ここから川口が一目でみえるんだ。 
+ここ　から　川口(かわぐち)　が　一目(ひとめ)　で　みえる　ん　だ。 
+From here you can look out over the river mouth. 
 「〜で」　[instrument]: DJG v1 p106; Genki ch10. 
 「〜みえる」　{〜見える　83} ["__ can be seen"; "looks __"]: DJG v1 p243; Marx v1 day50, v2 day69. 
 「のである　/ のです　/ のだ　/ んだ」　[explanation or assertion]: DJG v1 p325; Genki ch12. 
-23：月 
+
 23-1.  三日月。 三日月(みかづき)。 A falcate [crescent] moon. (101) 
 23-2.  きょうは3月8日です。 きょう　は　3月(がつ)　8日(ようか)　です。 Today is March 8. 
 23-3.  きょうは十月一日です。 きょう　は　十月(じゅうがつ)　一日(ついたち)　です。 Today is October 1. 
@@ -2281,7 +2404,8 @@ The traditional form of 宝　is 寶. A portion of the traditional form is the �
 99-9.  
 入学生は、大学に入学した人だ。 
 入学生(にゅうがくせい)　は、　大学(だいがく)　に　入学(にゅうがく)　した　人(ひと)　だ。 "Matriculants" are persons who have been admitted to a college or university. (100) 
-99-10.  男子学生たちはイジメを止めることにした。 男子(だんし)　学生(がくせい)たち　は　イジメ　を　止める(やめる)　こと　に　した。 The schoolboys decided to give up bullying. 
+99-10.  
+男子学生たちはイジメを止めることにした。 男子(だんし)　学生(がくせい)たち　は　イジメ　を　止める(やめる)　こと　に　した。 The schoolboys decided to give up bullying. 
 「〜ことにする」　{〜事にする* 80} ["decide to __"]: DJG v1 p204; Genki ch23; Marx v2 day80. 
 99-11.  
 あの男の学生はなにを学んでいるのですか。 
@@ -2306,7 +2430,6 @@ The traditional form of 宝　is 寶. A portion of the traditional form is the �
 「〜のは〜だ」　[statement about a clause]: DJG v1 p337. 
 「〜を」　[indicates place from which one exits]: DJG v1 p351. 
 「-なくて」　["not __, so __"]: DJG v1 p279; Marx v1 day39; Tobira ch2 #15. 
-100：父 1
 100-1.  
 父は50代です。 
 父(ちち)　は　50代(だい)　です。 My father is in his fifties. (87) 1
@@ -2338,18 +2461,22 @@ The traditional form of 宝　is 寶. A portion of the traditional form is the �
 お父さん(おとうさん)　は　オーストラリア人(じん)　です。 Father is Australian. 1
 100-10.  
 長田さんは父子二人で生活しています。 
-長田(ながた)さん　は　父子(ふし)　二人(ふたり)　で　生活(せいかつ)　して　います。 The Nagatas live together as father and child. 1
+長田(ながた)さん　は　父子(ふし)　二人(ふたり)　で　生活(せいかつ)　して　います。 
+The Nagatas live together as father and child. 1
 100-11.  
 このあいだ父が書いた本を見つけ出した。 
-この　あいだ　父(ちち)　が　書い(かい)た　本(ほん)　を　見つけ出し(みつけだし)た。 The other day I discovered a book written by my father. (87) 
+この　あいだ　父(ちち)　が　書い(かい)た　本(ほん)　を　見つけ出し(みつけだし)た。 
+The other day I discovered a book written by my father. (87) 
 「この〜」　{此の〜** 1756} ["this (past) __"; "this (coming) __"]: DJG v2 p127. 1
 100-12.  
 父の代わりに代父が受付してもいいですか？ 
-父(ちち)　の　代わり(かわり)　に　代父(だいふ)　が　受付(うけつけ)　して　も　いい　です　か？ May my godfather receive it in my father's place? 
+父(ちち)　の　代わり(かわり)　に　代父(だいふ)　が　受付(うけつけ)　して　も　いい　です　か？ 
+May my godfather receive it in my father's place? 
 「〜(の)かわりに」　{〜(の)代わりに　71} ["in place of __"; "in compensation for __"]: DJG v1 p184, v2 p116; Marx v2 day26; Tobira ch2 #5. 
 「-てもいい」　["all right if __"]: DJG v1 p471; Marx v1 day56. 1
 100-13.  
 子どものとき、父から自分自身の行いを正すことを学んだ。 
-子(こ)ども　の　とき、　父(ちち)　から　自分(じぶん)　自身(じしん)　の　行(おこな)い　を　正(ただ)す　こと　を　学(まな)んだ。 When I was a child, I learned from my father to correct my own behavior. 
+子(こ)ども　の　とき、　父(ちち)　から　自分(じぶん)　自身(じしん)　の　行(おこな)い　を　正(ただ)す　こと　を　学(まな)んだ。 
+When I was a child, I learned from my father to correct my own behavior. 
 「〜とき」　{〜時* 383} ["when __"]: DJG v1 p490; Genki ch16. 
 「-じしん」　{-自身　81; 60} ["__ oneself"]: DJG v3 p174 & 553 (covered under -じたい　and そのもの). 
