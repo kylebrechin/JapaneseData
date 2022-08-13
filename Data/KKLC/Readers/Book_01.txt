@@ -4352,178 +4352,391 @@ Ueda-san started talking to his girlfriend about breaking up. (87)
 Wise folks across the country don’t believe a word out of Trump’s mouth. 
 「いっさい〜ない」　{一切〜ない　2; 86} ["no __ whatsoever"]: DJG v3 p159. 
 
-91-1.  四ミリ長いです。 四(よん)ミリ　長い(ながい)　です。 It's four millimeters too long. 
-91-2.  人の体の長さだ。 人(ひと)　の　体(からだ)　の　長(なが)さ　だ。 It's the length of a person's body. (100) 
+91-1.  
+四ミリ長いです。 
+四(よん)ミリ　長い(ながい)　です。 
+It's four millimeters too long. 
+91-2.  
+人の体の長さだ。 
+人(ひと)　の　体(からだ)　の　長(なが)さ　だ。 
+It's the length of a person's body. (100) 
 「-さ」　["__ness"]: DJG v1 p381; Marx v1 day67; Tobira ch1 #2. 
-91-3.  長話はもう止めたら？ 長話(ながばなし)　は　もう　止め(やめ)たら？ How about giving your tongue a rest? 
+91-3.  
+長話はもう止めたら？ 
+長話(ながばなし)　は　もう　止め(やめ)たら？ 
+How about giving your tongue a rest? 
 「-たら(どうですか)」　["why not __"]: DJG v1 p457; Genki ch14. 
-91-4.  長い目で見て下さい。 長い(ながい)　目(め)　で　見(み)て　下さい(ください)。 I hope you won't expect results immediately. (87) 
-91-5.  話せば長くなります。 話せ(はなせ)ば　長く(ながく)　なります。 It's a long story. (99) 
+91-4.  
+長い目で見て下さい。 
+長い(ながい)　目(め)　で　見(み)て　下さい(ください)。 
+I hope you won't expect results immediately. (87) 
+91-5.  
+話せば長くなります。 
+話せ(はなせ)ば　長く(ながく)　なります。 
+It's a long story. (99) 
 「-ば」　["if __"]: DJG v1 p81; Genki ch22. 
-91-6.  部長を長くじっと見た。 部長(ぶちょう)　を　長く(ながく)　じっと　見(み)た。 I gave the Division Chief a long, fixed look. (100) 
-91-7.  川上部長は身長190センチです。 川上(かわかみ)　部長(ぶちょう)　は　身長(しんちょう)　190　センチ　です。 Division Chief Kawakami is 1.9 meters tall. 
-91-8.  あんな生活で白田さんは長生きしないだろう。 あんな　生活(せいかつ)　で　白田(しらた)さん　は　長生き(ながいき)　しない　だろう。 With that lifestyle, I don't expect Shirata-san to make it to old age. 
+91-6.  
+部長を長くじっと見た。 
+部長(ぶちょう)　を　長く(ながく)　じっと　見(み)た。 
+I gave the Division Chief a long, fixed look. (100) 
+91-7.  
+川上部長は身長190センチです。 
+川上(かわかみ)　部長(ぶちょう)　は　身長(しんちょう)　190　センチ　です。 
+Division Chief Kawakami is 1.9 meters tall. 
+91-8.  
+あんな生活で白田さんは長生きしないだろう。 
+あんな　生活(せいかつ)　で　白田(しらた)さん　は　長生き(ながいき)　しない　だろう。 
+With that lifestyle, I don't expect Shirata-san to make it to old age. 
 「〜だろう　/ 〜でしょう」　["probably __"]: DJG v1 p100; Genki ch12; Tobira ch2 #9. 
-91-9.  取り出されないならば、ポリープは成長できる。 取り出さ(とりださ)れない　ならば、　ポリープ　は　成長(せいちょう)　できる。 Polyps can vegetate if not removed. (101) 
+91-9.  
+取り出されないならば、ポリープは成長できる。 
+取り出さ(とりださ)れない　ならば、　ポリープ　は　成長(せいちょう)　できる。 
+Polyps can vegetate if not removed. (101) 
 「〜なら(ば)」　["if __"]: DJG v1 p281; Genki ch13; Marx v2 day23; Tobira ch3 #5. 
-91-10.  長いハイキングで、下田さんの足は、水ぶくれになった。 長い(ながい)　ハイキング　で、　下田(しもだ)さん　の　足(あし)　は、　水(みず)ぶくれ　に　なった。 Shimoda-san's feet blistered during the long hike. (101) 
+91-10.  
+長いハイキングで、下田さんの足は、水ぶくれになった。 
+長い(ながい)　ハイキング　で、　下田(しもだ)さん　の　足(あし)　は、　水(みず)ぶくれ　に　なった。 
+Shimoda-san's feet blistered during the long hike. (101) 
 「〜で」　["due to __"]: DJG v1 p107. 
-91-11.  コドモはすぐに自分が成長するものだという事が分かるのです。 コドモ　は　すぐ　に　自分(じぶん)　が　成長(せいちょう)　する　もの　だ　という　事(こと)　が　分かる(わかる)　の　です。 Children soon know that they will grow up. (64) 
+91-11.  
+コドモはすぐに自分が成長するものだという事が分かるのです。 
+コドモ　は　すぐ　に　自分(じぶん)　が　成長(せいちょう)　する　もの　だ　という　事(こと)　が　分かる(わかる)　の　です。 
+Children soon know that they will grow up. (64) 
 「すぐ」　["immediately"; "directly"]: DJG v2 p439. 
 「〜という」　{〜と言う* 51} [links identifier with identified]: DJG v1 p486; Genki ch20; Tobira ch10 (first page). 
-91-12.  日本のいちばん長い川は三百六十七キロメートルの長さがあります。 日本(にほん)　の　いちばん　長い(ながい)　川(かわ)　は　三百(さんびゃく)　六十(ろくじゅう)　七(なな)　キロメートル　の　長(なが)さ　が　あります。 Japan's longest river is three hundred sixty-seven kilometers long. 
+91-12.  
+日本のいちばん長い川は三百六十七キロメートルの長さがあります。 
+日本(にほん)　の　いちばん　長い(ながい)　川(かわ)　は　三百(さんびゃく)　六十(ろくじゅう)　七(なな)　キロメートル　の　長(なが)さ　が　あります。 
+Japan's longest river is three hundred sixty-seven kilometers long. 
 「いちばん」　{一番　2; 299} [superlative]: DJG v1 p148; Genki ch10; Marx v1 day70. 
 
-92-1.  いまは白い男が見える。 いま　は　白い(しろい)　男(おとこ)　が　見える(みえる)。 I see a white man this time. (25) 
-92-2.  川上さんは男らしい人だ。 川上(かわかみ)さん　は　男らしい(おとこらしい)　人(ひと)　だ。 Kawakami-san is a masculine type. 
+92-1.  
+いまは白い男が見える。 
+いま　は　白い(しろい)　男(おとこ)　が　見える(みえる)。 
+I see a white man this time. (25) 
+92-2. 
+川上さんは男らしい人だ。 
+川上(かわかみ)さん　は　男らしい(おとこらしい)　人(ひと)　だ。 
+Kawakami-san is a masculine type. 
 「〜らしい」　["(it) seems (that) __", "I heard (that) __"; "__-like"]: DJG v1 p373; Marx v2 day70; Tobira ch5 #13. 
-92-3.  二人は男に付いて行った。 二人(ふたり)　は　男(おとこ)　に　付い(つい)て　行っ(いっ)た。 Two followed the man. (9) 
-92-4.  大男はとても分別のある人だ。 大男(おおおとこ)　は　とても　分別(ふんべつ)　の　ある　人(ひと)　だ。 The Giant is a sensible man. 
-92-5.  三人の男が手に手を取って行った。 三人(さんにん)　の　男(おとこ)　が　手(て)　に　手(て)　を　取っ(とっ)て　行っ(いっ)た。 Three men went together, hand in hand. (90) 
-92-6.  その男はアンテナを取り付けようとした。 その　男(おとこ)　は　アンテナ　を　取り付けよ(とりつけよ)う　と　した。 The man tried to install his own antenna. (87) 
+92-3.  
+二人は男に付いて行った。 
+二人(ふたり)　は　男(おとこ)　に　付い(つい)て　行っ(いっ)た。 
+Two followed the man. (9) 
+92-4.  
+大男はとても分別のある人だ。 
+大男(おおおとこ)　は　とても　分別(ふんべつ)　の　ある　人(ひと)　だ。 
+The Giant is a sensible man. 
+92-5.  
+三人の男が手に手を取って行った。 
+三人(さんにん)　の　男(おとこ)　が　手(て)　に　手(て)　を　取っ(とっ)て　行っ(いっ)た。 
+Three men went together, hand in hand. (90) 
+92-6.  
+その男はアンテナを取り付けようとした。 
+その　男(おとこ)　は　アンテナ　を　取り付けよ(とりつけよ)う　と　した。 
+The man tried to install his own antenna. (87) 
 「-ようとする」　["try to __"]: DJG v1 p246 (covered under みる). 
-92-7.  上田さんの長男は東大に受かったんだよ。 上田(うえだ)さん　の　長男(ちょうなん)　は　東大(とうだい)　に　受かっ(うかっ)た　ん　だ　よ。 Ueda-san's eldest son passed the Tokyo University entrance exam. 
-92-8.  その男は明らかに目が見えないようだった。 その　男(おとこ)　は　明(あき)らか　に　目(め)　が　見え(みえ)ない　よう　だった。 He was plainly blind. (90) 
+92-7.  
+上田さんの長男は東大に受かったんだよ。 
+上田(うえだ)さん　の　長男(ちょうなん)　は　東大(とうだい)　に　受かっ(うかっ)た　ん　だ　よ。 
+Ueda-san's eldest son passed the Tokyo University entrance exam. 
+92-8.  
+その男は明らかに目が見えないようだった。 
+その　男(おとこ)　は　明(あき)らか　に　目(め)　が　見え(みえ)ない　よう　だった。 
+He was plainly blind. (90) 
 「〜ようだ」　["looks like __"; "seems (that) __"]: DJG v1 p547; Marx v2 day66. 
-92-9.  長田さんは、ブラジル出身の男にひかれた。 長田(ながた)さん　は、　ブラジル　出身(しゅっしん)　の　男(おとこ)　に　ひかれた。 Nagata-san fell for a man from Brazil. (101) 
+92-9.  
+長田さんは、ブラジル出身の男にひかれた。 
+長田(ながた)さん　は、　ブラジル　出身(しゅっしん)　の　男(おとこ)　に　ひかれた。 
+Nagata-san fell for a man from Brazil. (101) 
 「〜に」　[marks agent/source]: DJG v1 p292 & 303. 
-92-10.  大男は、ほかの男を足して二倍くらいすごかった。 大男(おおおとこ)　は、　ほか　の　男(おとこ)　を　足し(たし)て　二倍(にばい)　くらい　すごかった。 The Giant was twice the man all the rest were. (75) 
+92-10.  
+大男は、ほかの男を足して二倍くらいすごかった。 
+大男(おおおとこ)　は、　ほか　の　男(おとこ)　を　足し(たし)て　二倍(にばい)　くらい　すごかった。 
+The Giant was twice the man all the rest were. (75) 
 「〜くらい」　{〜位* 577} ["to __ extent"]: DJG v2 p151. 
-92-11.  むかしは、
-「男なら男らしくしっかりしなさい」と言うことをよくきかされた。 むかし　は、　
-「男(おとこ)　なら　男らしく(おとこらしく)　しっかり　し　なさい」　と　言う(いう)　こと　を　よく　きかされた。 In the past, one would often hear people say "Act like a man". 
+92-11.  
+むかしは、「男なら男らしくしっかりしなさい」と言うことをよくきかされた。 
+むかし　は、「男(おとこ)　なら　男らしく(おとこらしく)　しっかり　し　なさい」　と　言う(いう)　こと　を　よく　きかされた。 
+In the past, one would often hear people say "Act like a man". 
 「〜なら(ば)」　["if __"]: DJG v1 p281; Genki ch13; Marx v2 day23; Tobira ch3 #5. 
 「〜という」　{〜と言う* 51} [links identifier with identified]: DJG v1 p486; Genki ch20; Tobira ch10 (first page). 
  
-93-1.  女中の千代でした。 女中(じょちゅう)　の　千代(ちよ)　でした。 It was the housemaid, Chiyo. (1) 
-93-2.  正男さんは女を見る目がない。 正男(まさお)さん　は　女(おんな)　を　見る(みる)　目(め)　が　ない。 Masao has no eye for women. (87) 
-93-3.  長人さんがじっと女の人を見る。 長人(ながと)さん　が　じっと　女(おんな)　の　人(ひと)　を　見る(みる)。 Nagato stares at women. (10) 
-93-4.  男女一人ずつ受付をすればどうですか？ 男女(だんじょ)　一人(ひとり)ずつ　受付(うけつけ)　を　すれば　どう　です　か？ How about we put one man and one woman at the reception? 
+93-1.  
+女中の千代でした。 
+女中(じょちゅう)　の　千代(ちよ)　でした。 
+It was the housemaid, Chiyo. (1) 
+93-2.  
+正男さんは女を見る目がない。 
+正男(まさお)さん　は　女(おんな)　を　見る(みる)　目(め)　が　ない。 
+Masao has no eye for women. (87) 
+93-3.  
+長人さんがじっと女の人を見る。 
+長人(ながと)さん　が　じっと　女(おんな)　の　人(ひと)　を　見る(みる)。 
+Nagato stares at women. (10) 
+93-4.  
+男女一人ずつ受付をすればどうですか？ 
+男女(だんじょ)　一人(ひとり)ずつ　受付(うけつけ)　を　すれば　どう　です　か？ 
+How about we put one man and one woman at the reception? 
 「-ずつ」　["__ each"]: DJG v1 p572; Tobira ch11 #9. 
 「どう」　{如何** 2197; 815} ["how"]: DJG v1 p114. 
-93-5.  千代さんの長女は明日から休みを取るらしい。 千代(ちよ)さん　の　長女(ちょうじょ)　は　明日(あした)　から　休み(やすみ)　を　取る(とる)　らしい。 It looks like Chiyo's eldest girl starts her vacation tomorrow. 
+93-5.  
+千代さんの長女は明日から休みを取るらしい。 
+千代(ちよ)さん　の　長女(ちょうじょ)　は　明日(あした)　から　休み(やすみ)　を　取る(とる)　らしい。 
+It looks like Chiyo's eldest girl starts her vacation tomorrow. 
 「〜らしい」　["(it) seems (that) __", "I heard (that) __"; "__-like"]: DJG v1 p373; Marx v2 day70; Tobira ch5 #13. 
 
-94-1.  男の子、女の子？ 男の子(おとこのこ)、　女の子(おんなのこ)？ Boy or girl? (64) 
-94-2.  DNAは分子の王である。 DNA　は　分子(ぶんし)　の　王(おう)　で　ある。 DNA is the king of molecules. (101) 
-94-3.  月子ちゃんは一人っ子だ。 月子(つきこ)ちゃん　は　一人っ子(ひとりっこ)　だ。 Tsukiko is an only child. Note: 
-「-ちゃん」is a diminutive and affectionate name suffix. 
-94-4.  日本で子どもが生まれた。 日本(にほん)　で　子ども(こども)　が　生まれ(うまれ)た。 We had a baby in Japan. (10) 
-94-5.  王子の心はよく分かっていた。 王子(おうじ)　の　心(こころ)　は　よく　分かっ(わかっ)て　いた。 She knew the prince's feelings well. (55) 
-94-6.  別々のクラスの女の子と男の子。 別々(べつべつ)　の　クラス　の　女の子(おんなのこ)　と　男の子(おとこのこ)。 Girls and boys in separate classes. (101) 
-94-7.  一つの玉子を二人で分けましょう。 一つ(ひとつ)　の　玉子(たまご)　を　二人(ふたり)　で　分け(わけ)ましょう。 Let's split one egg between the two of us. 
-94-8.  このクラスに男子はなん人いますか？ この　クラス　に　男子(だんし)　は　なん人(にん)　います　か？ How many boys are there in this class? (87) 
+94-1.  
+男の子、女の子？ 
+男の子(おとこのこ)、　女の子(おんなのこ)？ 
+Boy or girl? (64) 
+94-2.  
+DNAは分子の王である。 
+DNA　は　分子(ぶんし)　の　王(おう)　で　ある。 
+DNA is the king of molecules. (101) 
+94-3.  
+月子ちゃんは一人っ子だ。 
+月子(つきこ)ちゃん　は　一人っ子(ひとりっこ)　だ。 
+Tsukiko is an only child. Note: 
+「-ちゃん」 is a diminutive and affectionate name suffix. 
+94-4.  
+日本で子どもが生まれた。 
+日本(にほん)　で　子ども(こども)　が　生まれ(うまれ)た。 
+We had a baby in Japan. (10) 
+94-5.  
+王子の心はよく分かっていた。 
+王子(おうじ)　の　心(こころ)　は　よく　分かっ(わかっ)て　いた。 
+She knew the prince's feelings well. (55) 
+94-6.  
+別々のクラスの女の子と男の子。 
+別々(べつべつ)　の　クラス　の　女の子(おんなのこ)　と　男の子(おとこのこ)。 
+Girls and boys in separate classes. (101) 
+94-7.  
+一つの玉子を二人で分けましょう。 
+一つ(ひとつ)　の　玉子(たまご)　を　二人(ふたり)　で　分け(わけ)ましょう。 
+Let's split one egg between the two of us. 
+94-8.  
+このクラスに男子はなん人いますか？ 
+この　クラス　に　男子(だんし)　は　なん人(にん)　います　か？ 
+How many boys are there in this class? (87) 
 「〜いますか」　{〜居ますか* 255} [inquire as to __'s existence or presence]: Genki ch4; Marx v1 day15. 
-94-9.  ぼくは男の子だし、きみは女の子だから。 ぼく　は　男の子(おとこのこ)　だ　し、　きみ　は　女の子(おんなのこ)　だ　から。 Because I am a boy and you are a girl. (64) 
+94-9.  
+ぼくは男の子だし、きみは女の子だから。 
+ぼく　は　男の子(おとこのこ)　だ　し、　きみ　は　女の子(おんなのこ)　だ　から。 
+Because I am a boy and you are a girl. (64) 
 「し」　["and", "besides"]: DJG v1 p395; Genki ch13. 
 「きみ」　{君　1407} [informal: "you"]: DJG v1 p28. 
-94-10.  このクラスには女子は三人しかいません。 この　クラス　に　は　女子(じょし)　は　三人(さんにん)　しか　いません。 There are only three girls in the class. (87) 
+94-10.  
+このクラスには女子は三人しかいません。 
+この　クラス　に　は　女子(じょし)　は　三人(さんにん)　しか　いません。 
+There are only three girls in the class. (87) 
 「しか〜ない」　["no more than __/no other than __"]: DJG v1 p398; Genki ch14; Marx v2 day40. 
-94-11.  きみのお子さんは男の子ですか、女の子ですか？ きみ　の　お子さん(おこさん)　は　男の子(おとこのこ)　です　か、　女の子(おんなのこ)　です　か？ Is your child a boy or a girl? (87) 
-94-12.  ドアのところに立っているあの男の子はだれですか。 ドア　の　ところ　に　立っ(たっ)て　いる　あの　男の子(おとこのこ)　は　だれ　です　か。 Who's that boy standing at the door? (87) 
-94-13.  ヨーロッパ人、中国人、日本人の男、女、子どもたち。 ヨーロッパ人(じん)、　中国人(ちゅうごくじん)、　日本人(にほんじん)　の　男(おとこ)、　女(おんな)、　子ども(こども)たち。 Europeans and natives, Chinese and Japanese, men, women and children. (7) 
-「-ども」　{-共　356} [plural personal pronoun suffix]: DJG v1 p28 bottom & 440, v3 p47 & 
-50-51 of front matter (covered under -たち). 
+94-11.  
+きみのお子さんは男の子ですか、女の子ですか？ 
+きみ　の　お子さん(おこさん)　は　男の子(おとこのこ)　です　か、　女の子(おんなのこ)　です　か？ 
+Is your child a boy or a girl? (87) 
+94-12.  
+ドアのところに立っているあの男の子はだれですか。 
+ドア　の　ところ　に　立っ(たっ)て　いる　あの　男の子(おとこのこ)　は　だれ　です　か。 
+Who's that boy standing at the door? (87) 
+94-13.  
+ヨーロッパ人、中国人、日本人の男、女、子どもたち。 
+ヨーロッパ人(じん)、　中国人(ちゅうごくじん)、　日本人(にほんじん)　の　男(おとこ)、　女(おんな)、　子ども(こども)たち。 
+Europeans and natives, Chinese and Japanese, men, women and children. (7) 
+「-ども」　{-共　356} [plural personal pronoun suffix]: DJG v1 p28 bottom & 440, v3 p47 & 50-51 of front matter (covered under -たち). 
 
-95-1.  長人さんは女好きだ。 長人(ながと)さん　は　女好き(おんなずき)　だ。 Nagato is a womanizer. 
-95-2.  月子さんの全部が好き。 月子(つきこ)さん　の　全部(ぜんぶ)　が　好き(すき)。 I like every part of Tsukiko. (87) 
-95-3.  人それぞれの好みがあります。 人(ひと)　それぞれ　の　好み(このみ)　が　あります。 Each person has his or her own preferences. 
+95-1.  
+長人さんは女好きだ。 
+長人(ながと)さん　は　女好き(おんなずき)　だ。 
+Nagato is a womanizer. 
+95-2.  
+月子さんの全部が好き。 
+月子(つきこ)さん　の　全部(ぜんぶ)　が　好き(すき)。 
+I like every part of Tsukiko. (87) 
+95-3.  
+人それぞれの好みがあります。 
+人(ひと)　それぞれ　の　好み(このみ)　が　あります。 
+Each person has his or her own preferences. 
 「それぞれ」　{其々** 1757} ["each"; "respectively"]: DJG v2 p436; Tobira ch6 #6. 
-95-4.  明子さんのことが大好きです。 明子(あきこ)さん　の　こと　が　大好き(だいすき)　です。 I really like Akiko. 
+95-4. 
+明子さんのことが大好きです。 
+明子(あきこ)さん　の　こと　が　大好き(だいすき)　です。 
+I really like Akiko. 
 「〜のこと」　{〜の事* 80} ["about __"]: DJG v2 p304. 
-95-5.  正男さんはコーヒーを好まない。 正男(まさお)さん　は　コーヒー　を　好ま(このま)ない。 Masao doesn't care for coffee. 
-95-6.  長田さんはコーヒーが大好きです。 長田(ながた)さん　は　コーヒー　が　大好き(だいすき)　です。 Nagata-san loves coffee. 
+95-5.  
+正男さんはコーヒーを好まない。 
+正男(まさお)さん　は　コーヒー　を　好ま(このま)ない。 
+Masao doesn't care for coffee. 
+95-6.  
+長田さんはコーヒーが大好きです。 
+長田(ながた)さん　は　コーヒー　が　大好き(だいすき)　です。 
+Nagata-san loves coffee. 
 「すきだ」　{好きだ　95} ["be fond of"]: DJG v1 p426; Genki ch5; Marx v1 day41. 
-95-7.  成田さんはなっとうが大好きです。 成田(なりた)さん　は　なっとう　が　大好き(だいすき)　です。 Narita-san loves natto. 
-95-8.  日本人の大部分は生玉子を好みます。 日本人(にほんじん)　の　大部分(だいぶぶん)　は　生玉子(なまたまご)　を　好み(このみ)ます。 Most Japanese like raw eggs. 
-95-9.  好きなだけテレビを見ていて下さい。 好き(すき)　な　だけ　テレビ　を　見(み)て　いて　下さい(ください)。 Please watch as much TV as you like. 
-「〜だけ」　["just __"]: DJG v1 p93; Marx v2 day39. Note: Here
-「だけ」does not mean “just”/”only”, but “that much”/”as much as”. See Makino & Tsutsui's Dictionary of Basic Japanese Grammar, page 96 note 4. 
-95-10.  人生または成長にとって好ましくない。 人生(じんせい)　または　成長(せいちょう)　に　とって　好ましく(このましく)ない。 Unfavorable to life or growth. (100) 
+95-7.  
+成田さんはなっとうが大好きです。 
+成田(なりた)さん　は　なっとう　が　大好き(だいすき)　です。 
+Narita-san loves natto. 
+95-8.  
+日本人の大部分は生玉子を好みます。 
+日本人(にほんじん)　の　大部分(だいぶぶん)　は　生玉子(なまたまご)　を　好み(このみ)ます。 
+Most Japanese like raw eggs. 
+95-9.  
+好きなだけテレビを見ていて下さい。 
+好き(すき)　な　だけ　テレビ　を　見(み)て　いて　下さい(ください)。 
+Please watch as much TV as you like. 
+「〜だけ」　["just __"]: DJG v1 p93; Marx v2 day39. 
+Note: Here 「だけ」 does not mean “just”/”only”, but “that much”/”as much as”. See Makino & Tsutsui's Dictionary of Basic Japanese Grammar, page 96 note 4. 
+95-10.  
+人生または成長にとって好ましくない。 
+人生(じんせい)　または　成長(せいちょう)　に　とって　好ましく(このましく)ない。 
+Unfavorable to life or growth. (100) 
 「〜にとって」　["as far as __ is concerned", "for/to __"]: DJG v2 p278; Marx v2 day82; Tobira ch2 #4. 
-95-11.  大体で言うと、アメリカ人はコーヒーを好む。 大体(だいたい)　で　言う(いう)　と、　アメリカ人(じん)　は　コーヒー　を　好む(このむ)。 Generally speaking, Americans like coffee. (87) 
-95-12.  やっとボク好みの丸メガネを手に入れました。 やっと　ボク　好み(ごのみ)　の　丸(まる)メガネ　を　手(て)　に　入れ(いれ)ました。 I finally got the round glasses I love. (10) 
-95-13.  わたしは女の子が一人で出かけるのを好まない。 わたし　は　女の子(おんなのこ)　が　一人(ひとり)　で　出かける(でかける)　の　を　好ま(このま)ない。 I don't like girls going out alone. (87) 
+95-11.  
+大体で言うと、アメリカ人はコーヒーを好む。 
+大体(だいたい)　で　言う(いう)　と、　アメリカ人(じん)　は　コーヒー　を　好む(このむ)。 
+Generally speaking, Americans like coffee. (87) 
+95-12.  
+やっとボク好みの丸メガネを手に入れました。 
+やっと　ボク　好み(ごのみ)　の　丸(まる)メガネ　を　手(て)　に　入れ(いれ)ました。 
+I finally got the round glasses I love. (10) 
+95-13.  
+わたしは女の子が一人で出かけるのを好まない。 
+わたし　は　女の子(おんなのこ)　が　一人(ひとり)　で　出かける(でかける)　の　を　好ま(このま)ない。 
+I don't like girls going out alone. (87) 
 「の」　[nominalizer]: DJG v1 p318; Genki ch8. 
-95-14.  休日には好きなだけ月子さんと話すことができます。 休日(きゅうじつ)　に　は　好き(すき)　な　だけ　月子(つきこ)さん　と　話す(はなす)　こと　が　できます。 On my days off I get to talk with Tsukiko as much as I like. (87) 
+95-14.  
+休日には好きなだけ月子さんと話すことができます。 
+休日(きゅうじつ)　に　は　好き(すき)　な　だけ　月子(つきこ)さん　と　話す(はなす)　こと　が　できます。 
+On my days off I get to talk with Tsukiko as much as I like. (87) 
 「〜ことができる」　{〜事ができる* 80} ["be able to __"]: DJG v1 p200; Marx v1 day50. 
-95-15.  千代子さんはあの白いドレスが大好きだと言っている。 千代子(ちよこ)さん　は　あの　白い(しろい)　ドレス　が　大好き(だいすき)　だ　と　言っ(いっ)て　いる。 Chiyoko says she loves that white dress. (87) 
+95-15.  
+千代子さんはあの白いドレスが大好きだと言っている。 
+千代子(ちよこ)さん　は　あの　白い(しろい)　ドレス　が　大好き(だいすき)　だ　と　言っ(いっ)て　いる。 
+Chiyoko says she loves that white dress. (87) 
 
-96-1.  不安定な生活。 不安定(ふあんてい)　な　生活(せいかつ)。 An unsettled lifestyle. (101) 
-96-2.  安心して下さい。 安心(あんしん)　して　下さい(ください)。 Please rest easy. 
-96-3.  円はドルより安い。 円(えん)　は　ドル　より　安い(やすい)。 The yen is weaker than the dollar. (87) 
-96-4.  大体この国は安全だ。 大体(だいたい)　この　国(くに)　は　安全(あんぜん)　だ。 In general this country is safe. 
-96-5.  これから安らかな生活をしたい。 これ　から　安らか(やすらか)　な　生活(せいかつ)　を　したい。 I'd like to lead a peaceful lifestyle from now on. 
-96-6.  そこで二人はやっと安心しました。 そこで　二人(ふたり)　は　やっと　安心(あんしん)　しました。 And so with that, the two were quite relieved. (71) 
+96-1.  
+不安定な生活。 
+不安定(ふあんてい)　な　生活(せいかつ)。 
+An unsettled lifestyle. (101) 
+96-2. 
+安心して下さい。 
+安心(あんしん)　して　下さい(ください)。 
+Please rest easy. 
+96-3.  
+円はドルより安い。 
+円(えん)　は　ドル　より　安い(やすい)。 
+The yen is weaker than the dollar. (87) 
+96-4.  
+大体この国は安全だ。 
+大体(だいたい)　この　国(くに)　は　安全(あんぜん)　だ。 
+In general this country is safe. 
+96-5.  
+これから安らかな生活をしたい。 
+これ　から　安らか(やすらか)　な　生活(せいかつ)　を　したい。 
+I'd like to lead a peaceful lifestyle from now on. 
+96-6.  
+そこで二人はやっと安心しました。 
+そこで　二人(ふたり)　は　やっと　安心(あんしん)　しました。 
+And so with that, the two were quite relieved. (71) 
 「そこで〜」　{其処で〜** 1757; 553} ["(and) so __"]: DJG v2 p401 & 405; Tobira ch9 #8. 
-96-7.  安田さんはカラオケが大好きです。 安田(やすだ)さん　は　カラオケ　が　大好き(だいすき)　です。 Yasuda-san loves karaoke. 
-96-8.  安部さんの心は不安でいっぱいになった。 安部(あべ)さん　の　心(こころ)　は　不安(ふあん)　で　いっぱい　に　なった。 Abe-san's mind was filled with worry. (101) 
-96-9.  金子さんの手は白ワインをそそいだときに安定していなかった。 金子(かねこ)さん　の　手(て)　は　白(しろ)　ワイン　を　そそいだ　とき　に　安定(あんてい)　して　いなかった。 Kaneko-san's hand was unsteady as she poured the wine. (101) 
+96-7.  
+安田さんはカラオケが大好きです。 
+安田(やすだ)さん　は　カラオケ　が　大好き(だいすき)　です。 
+Yasuda-san loves karaoke. 
+96-8.  
+安部さんの心は不安でいっぱいになった。 
+安部(あべ)さん　の　心(こころ)　は　不安(ふあん)　で　いっぱい　に　なった。 
+Abe-san's mind was filled with worry. (101) 
+96-9.  
+金子さんの手は白ワインをそそいだときに安定していなかった。 
+金子(かねこ)さん　の　手(て)　は　白(しろ)　ワイン　を　そそいだ　とき　に　安定(あんてい)　して　いなかった。 
+Kaneko-san's hand was unsteady as she poured the wine. (101) 
 「〜とき」　{〜時* 383} ["when __"]: DJG v1 p490; Genki ch16. 
-96-10.  このきれいな小さい人々には、なにか安心させるようなものがありました。 この　きれい　な　小(ちい)さい　人々(ひとびと)　に　は、　なに　か　安心(あんしん)　させる　よう　な　もの　が　ありました。 There was something in these pretty little people that inspired confidence. (89) 
+96-10.  
+このきれいな小さい人々には、なにか安心させるようなものがありました。 
+この　きれい　な　小(ちい)さい　人々(ひとびと)　に　は、　なに　か　安心(あんしん)　させる　よう　な　もの　が　ありました。 
+There was something in these pretty little people that inspired confidence. (89) 
 「なにか」　{何か* 815} ["something"; "anything"]: Genki ch8; Marx v1 day18. 
 「〜ような」　["like __"]: DJG v2 p340 bottom (covered under -っぽい); Genki ch22. 
-96-11.  それから、見下ろして、自分がつかまっている不安定なフックを見なければなりませんでした。 それから、　見下ろし(みおろし)て、　自分(じぶん)　が　つかまって　いる　不安定(ふあんてい)　な　フック　を　見(み)なければ　なりません　でした。 Then I had to look down at the unstable hooks to which I clung. (89) 
+96-11.  
+それから、見下ろして、自分がつかまっている不安定なフックを見なければなりませんでした。 
+それから、　見下ろし(みおろし)て、　自分(じぶん)　が　つかまって　いる　不安定(ふあんてい)　な　フック　を　見(み)なければ　なりません　でした。 
+Then I had to look down at the unstable hooks to which I clung. (89) 
 「それから〜」　{其れから〜** 1757} ["and then __"]: DJG v1 p416. 
 「-なければならない」　[imperative]: DJG v1 p274; Genki ch12; Marx v1 day54; Tobira ch2 #1. 
 
 97-1.  
 安田さんの案はよさそうだね。 
-安田(やすだ)さん　の　案(あん)　は　よさそう　だ　ね。 Yasuda-san's idea sounds good. 
+安田(やすだ)さん　の　案(あん)　は　よさそう　だ　ね。 
+Yasuda-san's idea sounds good. 
 「-そう(だ)」　["look __"; "__-looking"]: DJG v1 p410; Genki ch13; Marx v2 day67. 
 97-2.  
 これを立案した人はだれですか。 
-これ　を　立案(りつあん)　した　人(ひと)　は　だれ　です　か。 Who devised this plan? 
+これ　を　立案(りつあん)　した　人(ひと)　は　だれ　です　か。 
+Who devised this plan? 
 97-3.  
 案の定、金子さんが部長になった。 
-案の定(あんのじょう)、　金子(かねこ)さん　が　部長(ぶちょう)　に　なった。 As expected, Kaneko-san became the division chief. 
+案の定(あんのじょう)、　金子(かねこ)さん　が　部長(ぶちょう)　に　なった。 
+As expected, Kaneko-san became the division chief. 
 97-4.  
 金曜日までにこの案を立てないといけない。 
-金曜日(きんようび)　まで　に　この　案(あん)　を　立て(たて)ない　と　いけない。 We have to draft this proposal by Friday. 
+金曜日(きんようび)　まで　に　この　案(あん)　を　立て(たて)ない　と　いけない。 
+We have to draft this proposal by Friday. 
 「〜までに」　{〜迄に** 1806} ["by (a point in time)"]: DJG v1 p228. 
 「-ないといけない」　[imperative]: DJG v1 p274; Marx v1 day55. 
 97-5.  
 ぼくはあたらしいアイデアを案出してみた。 
-ぼく　は　あたらしい　アイデア　を　案出(あんしゅつ)　して　みた。 I came up with a new idea. 
+ぼく　は　あたらしい　アイデア　を　案出(あんしゅつ)　して　みた。 
+I came up with a new idea. 
 「-てみる」　["try (out) __"; "check out __"]: DJG v1 p246; Genki ch13; Marx v2 day35. 
 97-6.  
 そんな小さな事、案ずることはないですよ。 
-そんな　小(ちい)さな　事(こと)、　案ずる(あんずる)　こと　は　ない　です　よ。 Such a trifle is not something to worry about. 
+そんな　小(ちい)さな　事(こと)、　案ずる(あんずる)　こと　は　ない　です　よ。 
+Such a trifle is not something to worry about. 
 「〜ことはない」　{〜事はない* 80} ["__ is not necessary"; "__ is not possible"]: DJG v2 p146; Tobira ch10 #15. 
 97-7.  
 安部さんはなにかを案出しているらしいんだ。 
-安部(あべ)さん　は　なに　か　を　案出(あんしゅつ)　して　いる　らしい　ん　だ。 Abe-san appears to be devising some plan. 
+安部(あべ)さん　は　なに　か　を　案出(あんしゅつ)　して　いる　らしい　ん　だ。 
+Abe-san appears to be devising some plan. 
 「なにか」　{何か* 815} ["something"; "anything"]: Genki ch8; Marx v1 day18. 
 「〜らしい」　["(it) seems (that) __", "I heard (that) __"; "__-like"]: DJG v1 p373; Marx v2 day70; Tobira ch5 #13. 
 97-8.  
 部長がなにか不正な事を案出しているかと部下たちは案じている。 
-部長(ぶちょう)　が　なに　か　不正(ふせい)　な　事(こと)　を　案出(あんしゅつ)　して　いる　か　と　部下(ぶか)たち　は　案じ(あんじ)て　いる。 The staff is concerned that the division chief is devising something unjust. 
+部長(ぶちょう)　が　なに　か　不正(ふせい)　な　事(こと)　を　案出(あんしゅつ)　して　いる　か　と　部下(ぶか)たち　は　案じ(あんじ)て　いる。 
+The staff is concerned that the division chief is devising something unjust. 
 97-9.  
 月子さんが案じているのは、正男さんが別の女の人を好きかどうかと言うことです。 
-月子(つきこ)さん　が　案じ(あんじ)て　いる　の　は、　正男(まさお)さん　が　別(べつ)　の　女(おんな)　の　人(ひと)　を　好き(すき)　か　どうか　と　言う(いう)　こと　です。 What Tsukiko is worried about is whether Masao favors another woman. 
+月子(つきこ)さん　が　案じ(あんじ)て　いる　の　は、　正男(まさお)さん　が　別(べつ)　の　女(おんな)　の　人(ひと)　を　好き(すき)　か　どうか　と　言う(いう)　こと　です。 
+What Tsukiko is worried about is whether Masao favors another woman. 
 「〜のは〜だ」　[statement about a clause]: DJG v1 p337. 
 「〜かどうか」　["whether __ (or not)"]: DJG v1 p168; Marx v2 day26. 
 「〜という」　{〜と言う* 51} [links identifier with identified]: DJG v1 p486; Genki ch20; Tobira ch10 (first page). 
 
 98-1.  
 これだれの字か分かる？ 
-これ　だれ　の　字(じ)　か　分かる(わかる)？ Do you know whose handwriting this is? (87) 
+これ　だれ　の　字(じ)　か　分かる(わかる)？ 
+Do you know whose handwriting this is? (87) 
 「だれの」　{誰の　2155} ["whose"]: Genki ch2. 
 98-2.  
 ちがう字体にしましょう。 
-ちがう　字体(じたい)　に　しましょう。 Let's use a different type [character form] (e.g., italics, bold, etc.). 
+ちがう　字体(じたい)　に　しましょう。 
+Let's use a different type [character form] (e.g., italics, bold, etc.). 
 98-3.  
 大きな字を用いて下さい。 
-大(おお)きな　字(じ)　を　用い(もちい)て　下さい(ください)。 Please use large letters [characters]. 
+大(おお)きな　字(じ)　を　用い(もちい)て　下さい(ください)。 
+Please use large letters [characters]. 
 98-4.  
 千代子ちゃんは字が上手だ。 
-千代子(ちよこ)ちゃん　は　字(じ)　が　上手(じょうず)　だ。 Chiyoko has good handwriting. (87) 
+千代子(ちよこ)ちゃん　は　字(じ)　が　上手(じょうず)　だ。 
+Chiyoko has good handwriting. (87) 
 98-5.  
 この部分はローマ字を入れて下さい。 
-この　部分(ぶぶん)　は　ローマ字(ろーまじ)　を　入れ(いれ)て　下さい(ください)。 Please fill in Roman letters for this part. 
+この　部分(ぶぶん)　は　ローマ字(ろーまじ)　を　入れ(いれ)て　下さい(ください)。 
+Please fill in Roman letters for this part. 
 98-6.  
 この大きさの活字は見ることができますか。 
-この　大き(おおき)さ　の　活字(かつじ)　は　見る(みる)　こと　が　できます　か。 Are you able to read print of this size? 
+この　大き(おおき)さ　の　活字(かつじ)　は　見る(みる)　こと　が　できます　か。 
+Are you able to read print of this size? 
 「〜ことができる」　{〜事ができる* 80} ["be able to __"]: DJG v1 p200; Marx v1 day50. 
 98-7.  
 「宝」の正字は「寶」である。正字の一部としては「宝貝」の「貝」が入っている。 
@@ -4533,87 +4746,112 @@ The traditional form of 宝　is 寶. A portion of the traditional form is the �
 
 99-1.  
 学生の身分。 
-学生(がくせい)　の　身分(みぶん)。 The position of student. (100) 
+学生(がくせい)　の　身分(みぶん)。 
+The position of student. (100) 
 99-2.  
 日本の学生さんですか？ 
-日本(にほん)　の　学生(がくせい)さん　です　か？ Are you a Japanese student? (87) 
+日本(にほん)　の　学生(がくせい)さん　です　か？ 
+Are you a Japanese student? (87) 
 99-3.  
 あの女の人は学生です。 
-あの　女(おんな)　の　人(ひと)　は　学生(がくせい)　です。 That woman is a student. 
+あの　女(おんな)　の　人(ひと)　は　学生(がくせい)　です。 
+That woman is a student. 
 99-4.  
 正男くんは中学生になった。 
-正男(まさお)くん　は　中学生(ちゅうがくせい)　に　なった。 Masao entered junior high school. 
+正男(まさお)くん　は　中学生(ちゅうがくせい)　に　なった。 
+Masao entered junior high school. 
 99-5.  
 明日学力テストがあります。 
-明日(あした)　学力(がくりょく)　テスト　が　あります。 Tomorrow is the scholastic aptitude test. 
+明日(あした)　学力(がくりょく)　テスト　が　あります。 
+Tomorrow is the scholastic aptitude test. 
 99-6.  
 学生は全部でなん人ですか？ 
-学生(がくせい)　は　全部(ぜんぶ)　で　なん人(にん)　です　か？ What is the total number of students? (87) 
+学生(がくせい)　は　全部(ぜんぶ)　で　なん人(にん)　です　か？ 
+What is the total number of students? (87) 
 99-7.  
 日々学んで、成長したいです。 
-日々(ひび)　学ん(まなん)で、　成長(せいちょう)　したい　です。 I hope to study and learn each day. 
+日々(ひび)　学ん(まなん)で、　成長(せいちょう)　したい　です。 
+I hope to study and learn each day. 
 99-8.  
 かれらの大部分は大学生だった。 
-かれら　の　大部分(だいぶぶん)　は　大学生(だいがくせい)　だった。 Most of them were university students. (87) 
+かれら　の　大部分(だいぶぶん)　は　大学生(だいがくせい)　だった。 
+Most of them were university students. (87) 
 99-9.  
 入学生は、大学に入学した人だ。 
-入学生(にゅうがくせい)　は、　大学(だいがく)　に　入学(にゅうがく)　した　人(ひと)　だ。 "Matriculants" are persons who have been admitted to a college or university. (100) 
+入学生(にゅうがくせい)　は、　大学(だいがく)　に　入学(にゅうがく)　した　人(ひと)　だ。 
+"Matriculants" are persons who have been admitted to a college or university. (100) 
 99-10.  
-男子学生たちはイジメを止めることにした。 男子(だんし)　学生(がくせい)たち　は　イジメ　を　止める(やめる)　こと　に　した。 The schoolboys decided to give up bullying. 
+男子学生たちはイジメを止めることにした。 男子(だんし)　学生(がくせい)たち　は　イジメ　を　止める(やめる)　こと　に　した。 
+The schoolboys decided to give up bullying. 
 「〜ことにする」　{〜事にする* 80} ["decide to __"]: DJG v1 p204; Genki ch23; Marx v2 day80. 
 99-11.  
 あの男の学生はなにを学んでいるのですか。 
-あの　男(おとこ)　の　学生(がくせい)　は　なに　を　学ん(まなん)で　いる　の　です　か。 What is that male student studying? 
+あの　男(おとこ)　の　学生(がくせい)　は　なに　を　学ん(まなん)で　いる　の　です　か。 
+What is that male student studying? 
 99-12.  
 入学するために、全力で学ぶしかありません。 
-入学(にゅうがく)　する　ため　に、　全力(ぜんりょく)　で　学ぶ(まなぶ)　しか　ありません。 The only way to gain admission is to study as hard as you can. 
+入学(にゅうがく)　する　ため　に、　全力(ぜんりょく)　で　学ぶ(まなぶ)　しか　ありません。 
+The only way to gain admission is to study as hard as you can. 
 「〜で」　[instrument]: DJG v1 p106; Genki ch10. 
 99-13.  
 木の下で本をよんでいる学生は金子さんです。 
-木(き)　の　下(した)　で　本(ほん)　を　よんで　いる　学生(がくせい)　は　金子(かねこ)さん　です。 The student reading a book under the tree is Kaneko-san. 
+木(き)　の　下(した)　で　本(ほん)　を　よんで　いる　学生(がくせい)　は　金子(かねこ)さん　です。 
+The student reading a book under the tree is Kaneko-san. 
 99-14.  
 無学の人々は子どもが学ぶことを大切にする。 
-無学(むがく)　の　人々(ひとびと)　は　子ども(こども)　が　学ぶ(まなぶ)　こと　を　大切(たいせつ)　に　する。 Unlearned persons place much importance on their children's studies. 
+無学(むがく)　の　人々(ひとびと)　は　子ども(こども)　が　学ぶ(まなぶ)　こと　を　大切(たいせつ)　に　する。 
+Unlearned persons place much importance on their children's studies. 
 99-15.  
 このやりかたを、「学ぶ」より、身に付けるのだ。 
-この　やりかた　を、「学ぶ(まなぶ)」　より、　身(み)　に　付ける(つける)　の　だ。 Instead of "learning" this method, it's better to just practice until it's second nature. 
+この　やりかた　を、「学ぶ(まなぶ)」　より、　身(み)　に　付ける(つける)　の　だ。 
+Instead of "learning" this method, it's better to just practice until it's second nature. 
 「-かた」　{-方　173} ["way of __"; "how to __"]: DJG v1 p183; Genki ch23. 
 99-16.  
 大切なのはどの大学を出たかではなくて、大学でなにを学んだかである。 
-大切(たいせつ)　な　の　は　どの　大学(だいがく)　を　出(で)た　か　で　は　なくて、　大学(だいがく)　で　なに　を　学ん(まなん)だ　か　で　ある。 What is important is not which university you've graduated from but what you've learned in the university. (87) 
+大切(たいせつ)　な　の　は　どの　大学(だいがく)　を　出(で)た　か　で　は　なくて、　大学(だいがく)　で　なに　を　学ん(まなん)だ　か　で　ある。 
+What is important is not which university you've graduated from but what you've learned in the university. (87) 
 「〜のは〜だ」　[statement about a clause]: DJG v1 p337. 
 「〜を」　[indicates place from which one exits]: DJG v1 p351. 
 「-なくて」　["not __, so __"]: DJG v1 p279; Marx v1 day39; Tobira ch2 #15. 
 
 100-1.  
 父は50代です。 
-父(ちち)　は　50代(だい)　です。 My father is in his fifties. (87) 1
+父(ちち)　は　50代(だい)　です。 
+My father is in his fifties. (87) 1
 100-2.  
 父はタバコを止めた。 
-父(ちち)　は　タバコ　を　止め(やめ)た。 Father gave up cigarettes. (87) 1
+父(ちち)　は　タバコ　を　止め(やめ)た。 
+Father gave up cigarettes. (87) 1
 100-3.  
 お父さんがいますか。 
-お父さん(おとうさん)　が　います　か。 Is your father in? 
+お父さん(おとうさん)　が　います　か。 
+Is your father in? 
 「〜いますか」　{〜居ますか* 255} [inquire as to __'s existence or presence]: Genki ch4; Marx v1 day15. 1
 100-4.  
 父はハムを切り分けた。 
-父(ちち)　は　ハム　を　切り分け(きりわけ)た。 Father carved the ham. (101) 1
+父(ちち)　は　ハム　を　切り分け(きりわけ)た。 
+Father carved the ham. (101) 1
 100-5.  
 父は中国に行きました。 
-父(ちち)　は　中国(ちゅうごく)　に　行き(いき)ました。 My father went to China. (87) 1
+父(ちち)　は　中国(ちゅうごく)　に　行き(いき)ました。 
+My father went to China. (87) 1
 100-6.  
 父が大金を出してくれた。 
-父(ちち)　が　大金(たいきん)　を　出し(だし)て　くれた。 My father gave me a lot of money. 
+父(ちち)　が　大金(たいきん)　を　出し(だし)て　くれた。 
+My father gave me a lot of money. 
 「-てくれる」　{-て呉れる** 1478} ["do __ for (me)"]: DJG v1 p216; Genki ch16; Marx v2 day31; Tobira ch3 #12. 1
 100-7.  
 お父さんにそっくりだね。 
-お父さん(おとうさん)　に　そっくり　だ　ね。 You're just like your father. (87) 1
+お父さん(おとうさん)　に　そっくり　だ　ね。 
+You're just like your father. (87) 1
 100-8.  
 お父さんには話しましたか？ 
-お父さん(おとうさん)　に　は　話し(はなし)ました　か？ Did you tell your father? (4) 1
+お父さん(おとうさん)　に　は　話し(はなし)ました　か？ 
+Did you tell your father? (4) 1
 100-9.  
 お父さんはオーストラリア人です。 
-お父さん(おとうさん)　は　オーストラリア人(じん)　です。 Father is Australian. 1
+お父さん(おとうさん)　は　オーストラリア人(じん)　です。 
+Father is Australian. 1
 100-10.  
 長田さんは父子二人で生活しています。 
 長田(ながた)さん　は　父子(ふし)　二人(ふたり)　で　生活(せいかつ)　して　います。 
