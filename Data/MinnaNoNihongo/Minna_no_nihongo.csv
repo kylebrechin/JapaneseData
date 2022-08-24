@@ -1,0 +1,2228 @@
+1,"私","わたし","I",1,1
+2,"私たち","わたしたち","We",1,2
+3,,"あなた","You",1,3
+4,"あの人","あのひと","That person",1,4
+5,"あの方","あのかた","Polite equivalent of あのひと",1,5
+6,,"みなさん","Everybody, all of you",1,6
+7,,"～さん","Mr./Mrs. Title of respect added to a name",1,7
+8,,"～ちゃん","Suffix added to child’s names instead of ～さん",1,8
+9,,"～くん","Suffix often added to boy’s names",1,9
+10,"～人","～じん","Suffix meaning nationality",1,10
+11,"先生","せんせい","Teacher, instructor ( not used when referring to one’s own job)",1,11
+12,"教師","きょうし","Teacher, instructor",1,12
+13,"学生","がくせい","Student",1,13
+14,"会社員","かいしゃいん","company employee",1,14
+15,"社員","しゃいん","employee of…company (used with a company’s name)",1,15
+16,"銀行員","ぎんこういん","bank employee",1,16
+17,"医者","いしゃ","medical doctor",1,17
+18,"研究者","けんきゅうしゃ","researcher, scholar",1,18
+19,,"エンジニア","engineer",1,19
+20,"大学","だいがく","university",1,20
+21,"病院","びょういん","hospital",1,21
+22,"電気","でんき","electricity, light",1,22
+23,"誰","だれ（どなた）","who (どなた is the polite equivalent of だれ)",1,23
+24,"～歳","―さい","― years old",1,24
+25,"何歳","なんさい","how old (おいくつ is is the polite equivalent of  なんさい)",1,25
+26,,"はい","yes",1,26
+27,,"いいえ","no",1,27
+28,"失礼ですが","しつれいですが","Excuse me, but",1,28
+29,"お名前は","おなまえは？","May I have your name?",1,29
+30,"初めて","はじめまして。","How do you do (lit. I’m meeting you for the first time. Usually used as the first phrase when introducing oneself)",1,30
+31,"どうぞよろしく「お願いします」。","どうぞよろしく[おねがいします]。","Pleased to meet you. (lit. Please be nice to me. Usually used at the end of a self-introduction)",1,31
+32,,"こちらは～さんです。","This is Mr./Ms/…",1,32
+33,"～から来ました","～からきました。","I came (come) from…",1,33
+34,,"アメリカ","USA",1,34
+35,,"イギリス","U.K",1,35
+36,,"インド","India",1,36
+37,,"インドネシア","Indonesia",1,37
+38,"韓国","かんこく","Korean",1,38
+39,,"タイ","Thailand",1,39
+40,"中国","ちゅうごく","China",1,40
+41,,"ドイツ","Germany",1,41
+42,"日本","にほん","Japan",1,42
+43,,"フランス","France",1,43
+44,,"ブラジル","Brazil",1,44
+45,"桜大学","さくらだいがく","fictitious university",1,45
+46,"富士大学","ふじだいがく","fictitious university",1,46
+47,"ＩＭＣ ／ パワー電気／ブラジルエアー","ＩＭＣ ／ パワーでんき ／ブラジルエアー","fictitious company",1,47
+48,,"ＡＫＣ","fictitious university",1,48
+49,"神戸病院","こうべびょういん","fictitious hospital",1,49
+50,"私","わたし","I",2,1
+51,"私たち","わたしたち","We",2,2
+52,,"あなた","You",2,3
+53,"あの人","あのひと","That person",2,4
+54,"あの方","あのかた","Polite equivalent of あのひと",2,5
+55,,"みなさん","Everybody, all of you",2,6
+56,,"～さん","Mr./Mrs. Title of respect added to a name",2,7
+57,,"～ちゃん","Suffix added to child’s names instead of ～さん",2,8
+58,,"～くん","Suffix often added to boy’s names",2,9
+59,"～人","～じん","Suffix meaning nationality",2,10
+60,"先生","せんせい","Teacher, instructor ( not used when referring to one’s own job)",2,11
+61,"教師","きょうし","Teacher, instructor",2,12
+62,"学生","がくせい","Student",2,13
+63,"会社員","かいしゃいん","company employee",2,14
+64,"社員","しゃいん","employee of…company (used with a company’s name)",2,15
+65,"銀行員","ぎんこういん","bank employee",2,16
+66,"医者","いしゃ","medical doctor",2,17
+67,"研究者","けんきゅうしゃ","researcher, scholar",2,18
+68,,"エンジニア","engineer",2,19
+69,"大学","だいがく","university",2,20
+70,"病院","びょういん","hospital",2,21
+71,"電気","でんき","electricity, light",2,22
+72,"誰","だれ（どなた）","who (どなた is the polite equivalent of だれ)",2,23
+73,"～歳","―さい","― years old",2,24
+74,"何歳","なんさい","how old (おいくつ is is the polite equivalent of  なんさい)",2,25
+75,,"はい","yes",2,26
+76,,"いいえ","no",2,27
+77,"失礼ですが","しつれいですが","Excuse me, but",2,28
+78,"お名前は","おなまえは？","May I have your name?",2,29
+79,"初めて","はじめまして。","How do you do (lit. I’m meeting you for the first time. Usually used as the first phrase when introducing oneself)",2,30
+80,"どうぞよろしく「お願いします」。","どうぞよろしく[おねがいします]。","Pleased to meet you. (lit. Please be nice to me. Usually used at the end of a self-introduction)",2,31
+81,,"こちらは～さんです。","This is Mr./Ms/…",2,32
+82,"～から来ました","～からきました。","I came (come) from…",2,33
+83,,"アメリカ","USA",2,34
+84,,"イギリス","U.K",2,35
+85,,"インド","India",2,36
+86,,"インドネシア","Indonesia",2,37
+87,"韓国","かんこく","Korean",2,38
+88,,"タイ","Thailand",2,39
+89,"中国","ちゅうごく","China",2,40
+90,,"ドイツ","Germany",2,41
+91,"日本","にほん","Japan",2,42
+92,,"フランス","France",2,43
+93,,"ブラジル","Brazil",2,44
+94,"桜大学","さくらだいがく","fictitious university",2,45
+95,"富士大学","ふじだいがく","fictitious university",2,46
+96,"ＩＭＣ ／ パワー電気／ブラジルエアー","ＩＭＣ ／ パワーでんき ／ブラジルエアー","fictitious company",2,47
+97,,"ＡＫＣ","fictitious university",2,48
+98,"神戸病院","こうべびょういん","fictitious hospital",2,49
+99,,"ここ","here, this place",3,1
+100,,"そこ","there, that place near you",3,2
+101,,"あそこ","that place over there",3,3
+102,,"どこ","where, what place",3,4
+103,,"こちら","this way, this place (the polite equivalent of ここ)",3,5
+104,,"そちら","that way, that place near you (the polite equivalent of そこ)",3,6
+105,,"あちら","that way, that place over there (the polite equivalent of あそこ)",3,7
+106,,"どちら","which way, where (the polite equivalent of どこ)",3,8
+107,"教室","きょうしつ","classroom",3,9
+108,"食堂","しょくどう","the dining hall, canteen",3,10
+109,"事務所","じむしょ","office",3,11
+110,"会議室","かいぎしつ","conference room, assembly room",3,12
+111,"受付","うけつけ","reception desk",3,13
+112,,"ロビー","lobby",3,14
+113,"部屋","へや","room",3,15
+114,"（お手洗い）","トイレ（おてあらい）","toilet, rest room",3,16
+115,"階段","かいだん","staircase",3,17
+116,,"エレベーター","elevator, lift",3,18
+117,,"エスカレーター","escalator",3,19
+118,"[お]国","[お]くに","country",3,20
+119,"会社","かいしゃ","company",3,21
+120,,"うち","house, home",3,22
+121,"電話","でんわ","telephone, telephone call",3,23
+122,"靴","くつ","shoes",3,24
+123,,"ネクタイ","necktie",3,25
+124,,"ワイン","wine",3,26
+125,,"たばこ","tobacco, cigarette",3,27
+126,"売り場","うりば","department, counter (in a department store",3,28
+127,"地下","ちか","basement",3,29
+128,"－階","―かい（－がい）","-th floor",3,30
+129,"何階","なんがい","what floor",3,31
+130,"―円","―えん","-yen",3,32
+131,,"いくら","how much",3,33
+132,"百","ひゃく","hundred",3,34
+133,"千","せん","thousand",3,35
+134,"万","まん","ten thousand",3,36
+135,,"すみません","Excuse me",3,37
+136,,"～でございます","(the polite equivalent of です)",3,38
+137,"[～を]見せてください","みせてください","Please show me [∼]",3,39
+138,,"じゃ","well, then, in that case",3,40
+139,,"[～を]ください","Give me [∼], please.",3,41
+140,"新大阪","しんおおさか","name of a station in Osaka",3,42
+141,,"イタリア","Italy",3,43
+142,,"スイス","Switzerland",3,44
+143,,"ＭＴ/ヨーネン/アキックス","fictitious companies",3,45
+144,"起きます","おきます","get up, wake up",4,1
+145,"寝ます","ねます","sleep, go to bed",4,2
+146,"働きます","はたらきます","work",4,3
+147,"休みます","やすみます","take a rest, take a holiday",4,4
+148,"勉強します","べんきょうします","study",4,5
+149,"終わります","おわります","finish",4,6
+150,,"デパート","department store",4,7
+151,"銀行","ぎんこう","bank",4,8
+152,"郵便局","ゆうびんきょく","post office",4,9
+153,"図書館","としょかん <","library",4,10
+154,"美術館","びじゅつかん","art museum",4,11
+155,"電話番号","でんわばんごう","telephone number",4,12
+156,"何番","なんばん","what number",4,13
+157,"今","いま","now",4,14
+158,"～時","～じ","～o’clock",4,15
+159,"～分","～ふん（～ぷん）","～minute",4,16
+160,"半","はん","half",4,17
+161,"何時","なんじ","what time",4,18
+162,"何分","なんぷん","what minute",4,19
+163,"午前","ごぜん","a.m, morning",4,20
+164,"午後","ごご","p.m, afternoon",4,21
+165,"朝","あさ","morning",4,22
+166,"昼","ひる","daytime, noon",4,23
+167,"晩","ばん","night, evening",4,24
+168,"夜","よる","night, evening",4,25
+169,,"おととい","the day before yesterday",4,26
+170,,"きのう","yesterday",4,27
+171,,"きょう","today",4,28
+172,,"あした","tomorrow",4,29
+173,,"あさって","the day after tomorrow",4,30
+174,,"けさ","this morning",4,31
+175,"今晩","こんばん","this evening, tonight",4,32
+176,,"そちら","your place",4,33
+177,"休み","やすみ","rest, holiday, a day off",4,34
+178,"昼休み","ひるやすみ","lunchtime",4,35
+179,"毎朝","まいあさ","every morning",4,36
+180,"毎晩","まいばん","every night",4,37
+181,"毎日","まいにち","everyday",4,38
+182,"大変ですね","たいへんですね","That’s tough, isn’t it? (used when expressing sympathy)",4,39
+183,,"ばんごうあんない","Directory assistance",4,40
+184,"お問い合わせの番号","おといあわせのばんご","the number being inquired about",4,41
+185,,"～を おねがいします","Please. (lit.ask for a favor)",4,42
+186,,"かしこまりました","Certainly (sir, madam)",4,43
+187,"月曜日","げつようび","Monday",4,44
+188,"火曜日","かようび","Tuesday",4,45
+189,"水曜日","すいようび","Wednesday",4,46
+190,"木曜日","もくようび","Thursday",4,47
+191,"金曜日","きんようび","Friday",4,48
+192,"土曜日","どようび","Saturday",4,49
+193,"日曜日","にちようび","Sunday",4,50
+194,"何曜日","なんようび","What day of the week",4,51
+195,,"～から","from～",4,52
+196,,"～まで","to～",4,53
+197,,"～と～","～and～",4,54
+198,,"ニューヨーク","New York",4,55
+199,,"ペキン","Beijing",4,56
+200,,"ロンドン","London",4,57
+201,,"バンコク","Bangkok",4,58
+202,,"ロサンゼルス","Los Angeles",4,59
+203,,"えーと","well, let me see",4,60
+204,"行きます","いきます","go",5,1
+205,"来ます","きます","come",5,2
+206,"帰ります","かえります","go home, return",5,3
+207,"学校","がっこう","school",5,4
+208,,"スーパー","supermarket",5,5
+209,"駅","えき","station",5,6
+210,"飛行機","ひこうき","airplane",5,7
+211,"船","ふね","ship",5,8
+212,"電車","でんしゃ","electric train",5,9
+213,"地下鉄","ちかてつ","subway, underground",5,10
+214,"新幹線","しんかんせん","the Shinkansen, the bullet train",5,11
+215,,"バス","bus",5,12
+216,,"タクシー","taxi",5,13
+217,"自転車","じてんしゃ","bicycle",5,14
+218,"歩いて","あるいて（いきます）","on foot",5,15
+219,"人","ひと","person, people",5,16
+220,"友達","ともだち","friend",5,17
+221,"彼","かれ","he, boyfriend, lover",5,18
+222,"彼女","かのじょ","she, girlfriend, lover",5,19
+223,"家族","かぞく","family",5,20
+224,"一人で","ひとりで","alone, by oneself",5,21
+225,"先週","せんしゅう","last week",5,22
+226,"今週","こんしゅう","this week",5,23
+227,"来週","らいしゅう","next week",5,24
+228,"先月","せんげつ","last month",5,25
+229,"来月","らいげつ","next month",5,26
+230,"今月","こんげつ","this month",5,27
+231,"去年","きょねん","last year",5,28
+232,"今年","ことし","this year",5,29
+233,"来年","らいねん","next year",5,30
+234,"～月","～がつ","-th month of the year",5,31
+235,"何月","なんがつ","what month",5,32
+236,"一日","いちにち","-th day, -days",5,33
+237,"何日","なんにち","which day of the month, how many days",5,34
+238,,"いつ","when",5,35
+239,"誕生日","たんじょうび","birthday",5,36
+240,"普通","ふつう","local (train)",5,37
+241,"急行","きゅうこう","rapid",5,
+242,"特急","とっきゅう","express",5,39
+243,"次の","つぎの","next",5,40
+244,,"ありがとう ございました","Thank you",5,41
+245,,"どう いたしまして","You’re welcome./ Don’t mention it`",5,42
+246,"～番線","～ばんせん","platform -, – th platform",5,43
+247,"１日","ついたち","the first day of the month",5,44
+248,"2日","ふつか","the second, two days",5,45
+249,"3日","みっか","the third day, three days",5,46
+250,"4日","よっか","fourth, four days",5,47
+251,"5日","いつか","fifth, five days",5,48
+252,"6日","むいか","sixth, six days",5,49
+253,"7日","なのか","seventh, seven days",5,50
+254,"8日","ようか","eighth, eight days",5,51
+255,"9日","ここのか","ninth, nine days",5,52
+256,"10日","とおか","tenth, ten days",5,53
+257,"14日","じゅうよっか","fourteenth, fourteen days",5,54
+258,"20日","はつか","twentieth, twenty days",5,55
+259,"24日","にじゅうよっか","twenty-fourth, twenty-four days",5,56
+260,"吸います","すいます","smoke",6,1
+261,,"たばこをすいます。","smoke a cigarette",6,2
+262,"飲みます","のみます","drink",6,3
+263,"食べます","たべます","eat",6,4
+264,"見ます","みます","see, look at, watch",6,5
+265,"聞きます","ききます","hear, listen",6,6
+266,"読みます","よみます","read",6,7
+267,"書きます","かきます","write, draw, paint",6,8
+268,"買います","かいます","buy",6,9
+269,"撮ります","とります","take [a photo]",6,10
+270,"写真を撮りす。","しゃしんをとります。","take [a photo]",6,11
+271,,"します","do",6,12
+272,"会います","あいます","meet",6,13
+273,"友達に会いす。","ともだちにあいます。","meet [a friend]",6,14
+274,"ご飯","ごはん","a meal, cooked rice",6,15
+275,"朝ご飯","あさごはん","breakfast",6,16
+276,"昼ご飯","ひるごはん","lunch",6,17
+277,"晩ご飯","ばんごはん","supper",6,18
+278,,"パン","bread",6,19
+279,"卵","たまご","egg",6,20
+280,"肉","にく","meat",6,21
+281,"魚","さかな","fish",6,22
+282,"野菜","やさい","vegetable",6,23
+283,"果物","くだもの","fruit",6,24
+284,"水","みず","water",6,25
+285,"お茶","おちゃ","tea, green tea",6,26
+286,"紅茶","こうちゃ","black tea",6,27
+287,"牛乳","ぎゅうにゅう","milk",6,28
+288,,"ミルク","milk",6,29
+289,,"ジュース","juice",6,30
+290,,"ビール","beer",6,31
+291,"お酒","（お）さけ","alcohol, Japanese rice wine",6,32
+292,,"サッカー","football, soccer",6,33
+293,,"テニス","tennis",6,34
+294,,"CD","CD",6,35
+295,,"ビデオ","videotape, video deck",6,36
+296,"何","なに","what",6,37
+297,,"それから","after that, and then",6,38
+298,,"ちょっと","a little while, a little bit",6,39
+299,"店","みせ","store, shop",6,40
+300,,"レストラン","restaurant",6,41
+301,"手紙","てがみ","letter",6,42
+302,"映画","えいが","movie",6,43
+303,"写真","しゃしん","photograph",6,44
+304,"庭","にわ","garden",6,45
+305,"宿題","しゅくだい [をします]","(do) homework",6,46
+306,,"レポート","report",6,47
+307,,"ときどき","sometimes",6,48
+308,,"いつも","always, usually",6,49
+309,,"いっしょに","together",6,50
+310,,"いいですね","That’s good.",6,51
+311,,"ええ","yes",6,52
+312,"公園","こうえん","park",6,53
+313,"何ですか。","なんですか","Yes?",6,54
+314,"お花見","（お）はなみ [をす]","cherry-blossom viewing",6,55
+315,"大阪城公園","おおさかじょうこうえん","Osaka Castle Park",6,56
+316,"分かりまた。","わかりました。","I see",6,57
+317,,"じゃ、また。","See you [tomorrow]",6,58
+318,"切ります","きります","cut, slice",7,1
+319,,"もらいます","receive",7,2
+320,,"あげます","give",7,3
+321,"送ります","おくります","send",7,4
+322,"貸します","かします","lend",7,5
+323,"借ります","かります","borrow",7,6
+324,"教えます","おしえます","teach",7,7
+325,"習います","ならいます","learn",7,8
+326,,"かけます","make",7,9
+327,"電話をかけます。","「でんわをかけます。」","make [a telephone call]",7,10
+328,"手","て","hand, arm",7,11
+329,,"はし","chopsticks",7,12
+330,,"スプーン","spoon",7,13
+331,,"ナイフ","knife",7,14
+332,,"フォーク","folk",7,15
+333,,"はさみ","scissors",7,16
+334,,"ファクス （ファッス）","fax",7,17
+335,,"ワープロ","word processor",7,18
+336,,"パソコン","personal computer",7,19
+337,,"パンチ","punch",7,20
+338,,"ホッチキス","stapler",7,21
+339,,"セロテープ","Scotch tape, clear adhesive tape",7,22
+340,"消しゴム","けしゴム","eraser",7,23
+341,"紙","かみ","paper",7,24
+342,"花","はな","flower",7,25
+343,,"シャツ","shirt",7,26
+344,,"プレゼント","present, gift",7,27
+345,"荷物","にもつ","baggage, parcel",7,28
+346,"お金","おかね","money",7,29
+347,"切符","きっぷ","ticket",7,30
+348,,"クリスマス","Christmas",7,31
+349,"父","ちち","(my) father",7,32
+350,"母","はは","(my) mother",7,33
+351,"お父さん","おとうさん","(someone else’s) father",7,34
+352,"お母さん","おかあさん","(someone else’s) mother",7,35
+353,,"もう","already",7,36
+354,,"まだ","not yet",7,37
+355,,"これから","from now on, soon",7,38
+356,,"すてきですね。","What a nice [∼]",7,39
+357,,"ごめんください。","Excuse me./Anybody home?/May I come in? (an expression used by a visitor)",7,40
+358,,"いらっしゃい","How nice of you to come. (lit. Welcome.)",7,41
+359,,"どうぞおあがりくい。","Do come in.",7,42
+360,,"しつれいします","Thank you./May I? (lit. I’m afraid I’ll be disturbing you.)",7,43
+361,,"（～は）いかがですか。","Won’t you have [∼]?/Would you like to have [∼]? (used when offering something)",7,44
+362,,"いただきます。","Thank you./I accept. (said before starting to eat or drink)",7,45
+363,,"りょこう(をします)","trip, tour",7,46
+364,"お土産","おみやげ","souvenir, present",7,47
+365,,"ヨーロッパ","Europe",7,48
+366,,"スペイン","Spain",7,49
+367,"静か[な]","しずかな","quiet",8,1
+368,,"きれいな","beautiful, clean",8,2
+369,,"ハンサムな","handsome",8,3
+370,,"にぎやかな","lively",8,4
+371,"有名[な]","ゆうめいな","famous",8,5
+372,"親切[な]","しんせつな","kind",8,6
+373,"元気[な]","げんきな","healthy, sound, cheerful",8,7
+374,"暇[な]","ひまな","free (time)",8,8
+375,"忙しい","いそがしい","busy",8,9
+376,"便利[な]","べんりな","convenient",8,10
+377,,"すてきな","fine, nice, wonderful",8,11
+378,"大きい","おおきい","big, large",8,12
+379,"小さい","ちいさい","small, little",8,13
+380,"新しい","あたらしい","new",8,14
+381,"古い","ふるい","old (not of age)",8,15
+382,,"いい","good",8,16
+383,"悪い","わるい","bad",8,17
+384,"暑い、熱い","あつい","hot",8,18
+385,"冷たい","つめたい","cold (referring to temperature)",8,19
+386,"寒い","さむい","cold (referring to touch)",8,20
+387,"難しい","むずかしい","difficult",8,21
+388,"優しい","やさしい","easy",8,22
+389,"厳しい","きびしい","strict",8,23
+390,"安い","やすい","inexpensive",8,24
+391,"高い","たかい","expensive, tall, high",8,25
+392,"低い","ひくい","low",8,26
+393,,"おもしろい","interesting",8,27
+394,,"つまらない","boring",8,28
+395,,"おいしい","delicious, tasty",8,29
+396,"楽しい","たのしい","enjoyable",8,30
+397,"白い","しろい","white",8,31
+398,"黒い","くろい","black",8,32
+399,"赤い","あかい","red",8,33
+400,"青い","あおい","blue",8,34
+401,"桜","さくら","cherry (blossom)",8,35
+402,"山","やま","mountain",8,36
+403,"町","まち","town, city",8,37
+404,"食べ物","たべもの","food",8,38
+405,"車","くるま","car",8,39
+406,"所","ところ","car",8,40
+407,"寮","りょう","dormitory",8,41
+408,"勉強","べんきょう","study",8,42
+409,"生活","せいかつ","life",8,43
+410,"[お] 仕事","(お)しごと [をします]","work, business (do one’s job, work)",8,44
+411,,"どう","how",8,45
+412,,"どんな","what kind of…",8,46
+413,,"どれ","which one (of three or more)",8,47
+414,,"とても","very",8,48
+415,,"あまり～ません(くない)","not so (used with negatives)",8,49
+416,,"そして","and (used to connect sentence)",8,50
+417,,"～が、","but",8,51
+418,"お元気ですか。","おげんきですか","How are you?",8,52
+419,,"そうですね","Well, let me see. (pausing)",8,53
+420,,"ふじさん","Mt. Fuji, the highest mountain in Japan.",8,54
+421,,"びわこ","Lake Biwa, the biggest lake in Japan",8,55
+422,,"シャンハイ","Shanghai",8,56
+423,,"しちにんのさむらい","“The Seven Samurai”, a classic movie by Akira Kurosawa.",8,57
+424,,"きんかくじ","Kinkakuji Temple (the Golden Pavilion)",8,58
+425,"日本の生活に慣れましたか。","にほんのせいかつになれましたか","Have you got used to life in Japan?",8,59
+426,,"もう いっぱいいかがですか","Won’t you have another cup of [∼]?",8,60
+427,,"いいえ、けっこうです","No, thank you.",8,61
+428,,"そろそろ、しつれいします","It’s almost time to leave now.",8,62
+429,,"また いらっしゃってください","Please come again.",8,63
+430,"分かります","わかります","understand",9,1
+431,"嫌いな","きらいな","dislike",9,2
+432,"好きな","すきな","like",9,3
+433,,"あります","have",9,4
+434,"上手な","じょうずな","good at",9,5
+435,"下手な","へたな","poor at",9,6
+436,"料理","りょうり","dish (cooked food), cooking",9,7
+437,"飲み物","のみもの","drinks",9,8
+438,,"スポーツ","sport (∼を します: play sports)",9,9
+439,"野球","やきゅう","baseball (∼を します: play baseball)",9,10
+440,,"ダンス","dance (∼を します: dance)",9,11
+441,"音楽","おんがく","music",9,12
+442,"歌","うた","song",9,13
+443,,"クラシック","classic music",9,14
+444,,"ジャズ","jazz",9,15
+445,,"コンサート","concert",9,16
+446,,"カラオケ","karaoke",9,17
+447,"歌舞伎","かぶき","Kabuki (traditional Japanese musical drama)",9,18
+448,"絵","え","picture, drawing",9,19
+449,"字","じ","letter, characters",9,20
+450,"漢字","かんじ","Chinese characters",9,21
+451,,"ひらがな","Hiragana characters",9,22
+452,,"かたかな","Katakana characters",9,23
+453,"ローマ字","ローマじ","the Roman alphabet",9,24
+454,"細かいお金","こまかいおかね","small change",9,25
+455,,"チケット","ticket",9,26
+456,"時間","じかん","time",9,27
+457,"用事","ようじ","something to do, errand",9,28
+458,"約束","やくそく","appointment, promise",9,29
+459,"ご主人","ごしゅじん","(someone else’s) husband",9,30
+460,"夫/ 主人","おっと / しゅじん","(my) husband",9,31
+461,"奥さん","おくさん","(someone else’s) wife",9,32
+462,"妻/ 家内","つま / かない","(my) wife",9,33
+463,"子供","こども","child",9,34
+464,,"よく (わかります）","well, much",9,35
+465,,"だいがく","university",9,36
+466,"大学","たくさん","many, much",9,37
+467,"少し","すこし","a little, a few",9,38
+468,"全然～ない","ぜんぜん～ない","not at all (used with negatives)",9,39
+469,,"だいたい","mostly, roughly",9,40
+470,"早く、速く","はやく","early, quickly, fast",9,41
+471,,"～から","because ～",9,42
+472,,"どうして","why",9,43
+473,,"ざんねんです[ね]。","I’m sorry [to hear that]./That’s a pity.",9,44
+474,,"もしもし","hello (used on the phone)",9,45
+475,"一緒に～いかがですか。","いっしょに～いかがですか。","Won’t you join me (us)?",9,46
+476,,"(～は) ちょっと…..","[～] is a bit difficult. (a euphemism used when declining an invitation)",9,47
+477,,"だめですか。","So you cannot (come)?",9,48
+478,"また今度お願いします。","またこんどおねがいします","Please ask me again some other time. (used when refusing an invitation indirectly, considering someone’s feelings)",9,49
+479,,"います","exist, be ( referring to animate things )",10,1
+480,,"あります","exist, be ( referring to inanimate things )",10,2
+481,,"いろいろ「な」","various",10,3
+482,"男の人","おとこのひと","Man",10,4
+483,"女の人","おんなのひと","Woman",10,5
+484,"男の子","おとこのこ","Boy",10,6
+485,"女の子","おんなのこ","Girl",10,7
+486,"犬","いぬ","Dog",10,8
+487,"猫","ねこ"," Cat",10,9
+488,"木","き","Tree",10,10
+489,"物","もの","Thing",10,11
+490,,"フイルム","Film",10,12
+491,"電池","でんち","Battery",10,13
+492,"箱","はこ","Box",10,14
+493,,"スイッチ","Switch",10,15
+494,"冷蔵庫","れいぞうこ","Refrigerator",10,16
+495,,"テーブル","Table",10,17
+496,,"ベッド","Bed",10,18
+497,"棚","たな","Shelf",10,19
+498,,"ドア","Door",10,20
+499,"窓","まど","Window",10,21
+500,,"ポスト","Mailbox, postbox",10,22
+501,,"ビル","Building",10,23
+502,"公園","こうえん","Park",10,24
+503,"喫茶店","きっさてん","Coffee shop",10,25
+504,"本屋","ほんや","Bookstore",10,26
+505," ～屋","～や","~Store",10,27
+506,"乗り場","のりば","A Fixed place to catch taxis, trains.etc",10,28
+507,"県","けん","Prefecture",10,29
+508,"上","うえ","On, above, over",10,30
+509,"下","した","Under, Below, Beneath",10,31
+510,"前","まえ","Front, Before",10,32
+511,,"うしろ","Back, behind",10,33
+512,"右","みぎ","Right[ side ]",10,34
+513,"左","ひだり","Left [ side ]",10,35
+514,"中","なか","In, inside",10,36
+515,"外","そと","Outside",10,37
+516,"隣","となり","Next, next door",10,38
+517,"近く","ちかく","Near, vicinity",10,39
+518,"間","あいだ","Between, among",10,40
+519,,"～や～「など」","~,~ and so on",10,41
+520,,"いちばん～","the most ~ ( いちばん うえ: the top )",10,42
+521,"ー段目","ーだんめ","The -th shelf (だん is the counter for shelves)",10,43
+522,,"「どうも」すみません。","Thank you",10,44
+523,,"チリソース","Chilli sauce",10,45
+524,,"奥","The back",10,46
+525,,"スパイス コーナー","Spice corner",10,47
+526,,"東京ディズニーランド","Tokyo Disneyland",10,48
+527,,"ユニューや ストア","Fictitious supermarket",10,49
+528,"休みます","やすみます","Take a day off",11,1
+529,"かかります","かかります","Take ( referring to time or money)",11,2
+530,"日本にいます","[にほんにいます]","Stay, be ( in Japan)",11,3
+531," います","います","Have",11,4
+532,"一つ","ひとつ","One ( Used when counting things)",11,5
+533,"二つ","ふたつ","two",11,6
+534,"三つ","みっつ","three",11,7
+535,"四つ","よっつ","four",11,8
+536,"五つ","いつつ","five",11,9
+537,"六つ","むっつ","six",11,10
+538,"七つ","ななつ","seven",11,11
+539,"八つ","やっつ","eight",11,12
+540,"九つ","ここのつ","nine",11,13
+541,"とお","とお","ten",11,14
+542,"いくつ","いくつ","How many",11,15
+543,"一人","ひとり","One person",11,16
+544,"二人","ふたり","two person",11,17
+545,"～人","～にん","～people",11,18
+546,"～だい","～だい","～Counter for machines , cars, etc.)",11,19
+547,"～まい","～まい","～Counters for paper, stamps, etc.)",11,20
+548,"～かい","～かい","～Times",11,21
+549,"りんご","りんご","Apple",11,22
+550,"みかん","みかん","Mandarin Orange",11,23
+551,,"サンドイッチ","sandwich",11,24
+552,,"カレー(ライス)","Curry ( and rice )",11,25
+553,,"アイスクリーム","Ice cream",11,26
+554,"切手","きって","Postage Stamp",11,27
+555,"葉書","はがき","Post card",11,28
+556,"封筒","ふうとう","Envelope",11,29
+557,"速達","そくたつ","Special delivery",11,30
+558,"書留","かきとめ","Registered mail",11,31
+559,,"エアメール","Airmail",11,32
+560,"船便","ふなびん","Sea mail",11,33
+561,"両親","りょうしん","Parents",11,34
+562,"兄弟","きょうだい","Brothers and sisters",11,35
+563,"兄","あに","(my) elder brother",11,36
+564,"お兄さん","おにいさん","(someone else’s) elder brother",11,37
+565,"姉","あね","(my) elder sister",11,38
+566,"お姉さん","おねえさん","(someone else’s) elder sister",11,39
+567,"弟","おとうと","(my) younger brother",11,40
+568,"弟さん","おとうとさん","(someone else’s) younger brother",11,41
+569,"妹","いもうと","(my) younger sister",11,42
+570,"妹さん","いもうとさん","(someone else’s) younger sister",11,43
+571,"外国","がいこく","Foreign country",11,44
+572,"<～時間","～じかん","～Hours",11,45
+573,"<～週間>","～しゅうかん","～Weeks",11,46
+574,"<～ヶ月>","～かげつ","～Months",11,47
+575,"<～年>","～ねん","～Years",11,48
+576,,"～ぐらい","About～",11,49
+577,,"どのくらい","How long",11,50
+578,"全部で","ぜんぶで","In total",11,51
+579,"みんな","みんな","All, everything",11,52
+580,,"～だけ","～Only",11,53
+581,,"いらっしゃいませ","Welcome/ May I help you?( A greeting to a customer or a guest entering a shop, etc)",11,54
+582,"いいお天気ですね","いい (お)てんきですね","Nice weather, isn’t it?",11,55
+583,"お出かけですか","おでかけですか","Are you going out?",11,56
+584,,"ちょっと ～まで","I’m just going to~",11,57
+585,,"いってらっしゃい","So long. ( Go and come back)",11,58
+586,,"いって いらっしゃい","So long. ( I’m going and coming back)",11,59
+587,,"いって まいります","So long. ( I’m going and coming back)",11,60
+588,,"いってきます","I’m going",11,61
+589,,"それから","And, further more",11,62
+590,,"オーストラリア","Australia",11,63
+591,"簡単","かんたん","Simple",12,1
+592,"近い","ちかい","Near",12,2
+593,"遠い","とおい","Far",12,3
+594,"早い","はやい","Quick, early",12,4
+595,"遅い","おそい","Slow, late",12,5
+596,"多い","おおい","Many( people)",12,6
+597,"少ない","すくない","Few ( people)",12,7
+598,"暖かい","あたたかい","Warm",12,8
+599,"涼しい","すずしい","Cool",12,9
+600,"甘い","あまい","Sweet",12,10
+601,"辛い","からい","Spicy",12,11
+602,"重い","おもい","Heavy",12,12
+603,"軽い","かるい","Light",12,13
+604,,"いい","Prefer",12,14
+605,"季節","きせつ","Season",12,15
+606,"春","はる","Spring",12,16
+607,"夏","なつ","Summer",12,17
+608,"秋","あき","Autumn",12,18
+609,"冬","ふゆ","Winter",12,19
+610,"天気","てんき","Weather",12,20
+611,"雨","あめ","Rain",12,21
+612,"雪","ゆき","Snow",12,22
+613,"曇","くもり","Cloudy",12,23
+614,,"ホテル","Hotel",12,24
+615,"空港","くうこう","Airport",12,25
+616,"海","うみ","Sea",12,26
+617,"世界","せかい","World",12,27
+618,,"パーテイー","Party",12,28
+619,"祭り","まつり","Festival",12,29
+620,"試験","しけん","Examination",12,30
+621,,"すきやき","Sukiyaki",12,31
+622,,"さしみ","Sashimi",12,32
+623,,"すし","sushi",12,33
+624,"天ぷら","てんぷら","Tempura",12,34
+625,"生け花","いけばな","Flower arrangement",12,35
+626,,"もみじ","Red leaves",12,36
+627,,"どちら","Which one ( between two things)",12,37
+628,,"どちらも","Both",12,38
+629,,"ずっと","By far",12,39
+630,,"はじめて","For the first time",12,40
+631,"遊びます","あそびます","Enjoy oneself, play",13,1
+632,"泳ぎます","およぎます","Swimming",13,2
+633,"迎えます","むかえます","Go to meet",13,3
+634,"疲れます","つかれます","Get tired",13,4
+635,"出します","だします","Send",13,5
+636,"入ります","はいります","Enter",13,6
+637,"出ます","でます","Go out",13,7
+638,"結婚します","けっこんします","Get married",13,8
+639,"買い物します","かいものします","Do shopping",13,9
+640,"食事します","しょくじします","Have a meal",13,10
+641,"散歩します","さんぽします","Take a walk",13,11
+642,"大変","たいへん","Hard, Tough",13,12
+643,"欲しい","ほしい","Want",13,13
+644,"寂しい","さびしい","Lonely",13,14
+645,"広い","ひろい","Wide, spacious",13,15
+646,"狭い","せまい","Narrow",13,16
+647,"市役所","しやくしょ","City Hall",13,17
+648,,"プール","Swimming pool",13,18
+649,"川","かわ","River",13,19
+650,"経済","けいざい","Economy",13,20
+651,"美術","びじゅつ","Fine arts",13,21
+652,"釣り","つり","Fishing",13,22
+653,,"スキー","Skiing",13,23
+654,"会議","かいぎ","Meeting, Conference",13,24
+655,"登録","とうろく","Registration",13,25
+656,"週末","しゅうまつ","Weekend",13,26
+657,"何か","なにか","Something",13,27
+658,,"どこか","Somewhere",13,28
+659,"お腹がすきました","おなかがすきました","I’m hungry",13,29
+660,"お腹がいっぱいです","おなかがいっぱいです","I’m full",13,30
+661,"喉が渇きました","のどがかわきました","I’m thirsty",13,31
+662,,"そうですね","I agree with you",13,32
+663,,"そう しましょう","Let’s do that( used when agreeing with someone’s suggestion)",13,33
+664,"定食","ていしょく","Set meal",13,34
+665,"牛丼","ぎゅうどん","Bowl of rice topped with beef",13,35
+666,"別々に","べつべつに","Separately",13,36
+667,"付けます","つけます","    Turn on",14,1
+668,"消します","けします","    Turn off",14,2
+669,"開けます","あけます","    Open",14,3
+670,"閉めます","しめます","     Close, shut",14,4
+671,"急ぎます","いそぎます","    Hurry",14,5
+672,"待ちます","まちます","    Wait",14,6
+673,"止めます","とめます","    Stop, park",14,7
+674,"曲がります","まがります","    Turn",14,8
+675,"持ちます","もちます","    Hold",14,9
+676,"取ります","とります","    Take, pass",14,10
+677,"手伝います","てつだいます","    Help",14,11
+678,"呼びます","よびます","    Call",14,12
+679,"話します","はなします","    Speak, talk",14,13
+680,"見せます","みせます","    Show",14,14
+681,"教えます","おしえます","    Tell",14,15
+682,"始めます","はじめます","    Start, begin",14,16
+683,"降ります","ふります","    Rain",14,17
+684,,"コピーします","    Copy",14,18
+685,,"エアコン","     Air conditioner",14,19
+686,,"パスポート","    Passport",14,20
+687,"名前","なまえ","   Name",14,21
+688,"住所","じゅうしょ","   Address",14,22
+689,"地図","ちず","    Map",14,23
+690,"栞","しお","    Salt",14,24
+691,"砂糖","さとう","    Sugar",14,25
+692,"読み方","よみかた","    How to read, way of reading",14,26
+693,,"ゆっくり","    Slowly, leisurely",14,27
+694,,"すぐ","    Immediately",14,28
+695,,"また","    Again",14,29
+696,"後で","あとで","    Later",14,30
+697,"もう少し","もうすこし","    ~more, another~",14,31
+698,"立ちます","たちます","stand up",15,1
+699,"座ります","すわります","sit down",15,2
+700,"使います","つかいます","use",15,3
+701,"起きます","おきます","put",15,4
+702,"作ります","つくります","make, produce",15,5
+703,"売ります","うります","sell",15,6
+704,"知ります","しります","get to know",15,7
+705,"住みます","すみます","be going to live",15,8
+706,"研究します","けんきゅうします","do research",15,9
+707,"知っています","しっています","know",15,10
+708,"住んでいます","すんでいます","live [in somewhere]",15,11
+709,"資料","しりょう","materials,data",15,12
+710,"時刻表","じこくひょう","timetable",15,13
+711,"服","ふく","clothes",15,14
+712,"製品","せいひん","products",15,15
+713,,"ソフト","software",15,16
+714,"専門","せんもん","speciality, a field of study",15,17
+715,"歯医者","はいしゃ","dentist, dentist’s",15,18
+716,"床屋","とこや","barber, barber’s",15,19
+717,,"プレイガイド","(theatre) ticket agency",15,20
+718,"独身","どくしん","single, unmarried",15,21
+719,"特に","とくに","especially",15,22
+720,"思い出します","おもいだします","remember, recollect",15,23
+721,"ご家族","ごかぞく","your family",15,24
+722,,"いらっしゃいます","be (honorific equivalent of います)",15,25
+723,"高校","こうこう","senior high school",15,26
+724,"日本橋","にっぽんばし","the name of a shopping district in Osaka",15,27
+725,"乗ります","のります","    Get on",16,1
+726,"降ります","おります","    Get off",16,2
+727,"乗り換えます","のりかえます","    Change",16,3
+728,"浴びます","あびます","    Take ( a shower )",16,4
+729,"入れます","いれます","    Insert, put in",16,5
+730,"出します","だします","    Take out, withdraw",16,6
+731,"入ります","はいります","    Enter [University]",16,7
+732,"出ます","でます","    Graduate",16,8
+733,,"やめます","    Give up, Quit",16,9
+734,"押します","おします","    Push, press",16,10
+735,"若い","わかい","    Young",16,11
+736,"長い","ながい","    Long",16,12
+737,"短い","みじかい","    Short",16,13
+738,"明るい","あかるい","    Bright, light",16,14
+739,"暗い","くらい","    Dark",16,15
+740,"背が高い","せがたかい","    Tall",16,16
+741,"頭がいい","あたまがいい","    Smart, clever",16,17
+742,"体","からだ","    Body",16,18
+743,"頭","あたま","    Head",16,19
+744,"髪","かみ","    Hair",16,20
+745,"顔","かお","    Face",16,21
+746,"目","め","    Eye",16,22
+747,"耳","みみ","    Ear",16,23
+748,"口","くち","    Mouth",16,24
+749,"歯","は","     Tooth",16,25
+750,"お腹","おなか","    Stomach",16,26
+751,"足","あし","    Foot, leg",16,27
+752,,"サービス","    Service",16,28
+753,,"ジョギング","    Jogging",16,29
+754,,"シャワー","    Shower",16,30
+755,"緑","みどり","    Green",16,31
+756,"お寺","おてら","    Buddhist shrine",16,32
+757,"神社","じんじゃ","    Shinto shrine",16,33
+758,"留学生","りゅうがくせい","    Foreign student",16,34
+759,"一番","いちばん","    Number one",16,35
+760,,"どうやって","    How, in what way",16,36
+761,,"どの~","    Which~(used for three or more)",16,37
+762,"お引き出しですか","おひきだしですか","    Are you making a withdrawal?",16,38
+763,,"まず","    First of all",16,39
+764,,"キャッシュカード","    Cash dispensing card",16,40
+765,"暗証番号","あんしょうばんごう","    personal identification number, PIN",16,41
+766,,"つぎに","    Next",16,42
+767,"金閣","きんがく","     amount of money",16,43
+768,"確認","かくにん","    Confirmation",16,44
+769,,"ボタン","    Button",16,45
+770,"覚えます","おぼえます","memorize",17,1
+771,"忘れます","わすれます","forget",17,2
+772,,"なくします","lose",17,3
+773,"出します","だします[レポートを～]","hand in (a report)",17,4
+774,"払います","はらいます","pay",17,5
+775,"返します","かえします","give back, return",17,6
+776,"出かけます","でかけます","go out",17,7
+777,"脱ぎます","ぬぎます","take off (clothes, shoes, etc.)",17,8
+778,"持って行きます","もっていきます","take (something)",17,9
+779,"持って来ます","もってきます","bring (something)",17,10
+780,"心配します","しんぱいします","worry",17,11
+781,"残業します","ざんぎょうします","work overtime",17,12
+782,"出張します","しゅっちょうします","go on a business trip",17,13
+783,"飲みます[薬を～]","のみます[くすりを～]","take (medicine)",17,14
+784,"入ります","はいります[おふろに～]","take (a bath)",17,15
+785,"大切[な]","たいせつ[な]","important, precious",17,16
+786,"大丈夫[な]","だいじょうぶ[な]","all right",17,17
+787,"危ない","あぶない","dangerous",17,18
+788,"問題","もんだい","question, problem, trouble",17,19
+789,"答え","こたえ","answer",17,20
+790,"禁煙","きんえん","no smoking",17,21
+791,"[健康]保険証","[けんこう]ほけんしょう","(health) insurance card",17,22
+792,,"かぜ","cold, flu",17,23
+793,"熱","ねつ","fever",17,24
+794,"病気","びょうき","illness, disease",17,25
+795,"薬","くすり","medicine",17,26
+796,,"[お]ふろ","bath",17,27
+797,"上着","うわぎ","jacket, outwear",17,28
+798,"下着","したぎ","underwear",17,29
+799,"先生","せんせい","doctor (used when addressing a medical doctor)",17,30
+800,"2，3日","2，3にち","a few days",17,31
+801,"2，3～","2，3～","a few ~ (~is a counter suffix)",17,32
+802,,"～までに","before ~, by ~ (indicating time limit)",17,33
+803,,"ですから","therefore, so",17,34
+804,,"どうしましたか","What’s the matter?",17,35
+805,"[～が]痛いです","[～が]いたいです","(I) have a pain (in my ~)",17,36
+806,,"のど","throat",17,37
+807,"お大事に","おだいじに","Take care of yourself (said to people who are ill)",17,38
+808,,"できます","be able to, can",18,1
+809,"洗います","あらいます","wash",18,2
+810,"弾きます","ひきます","play (stringed or keyboard instruments)",18,3
+811,"歌います","うたいます","sing",18,4
+812,"集めます","あつめます","collect, gather",18,5
+813,"捨てます","すてます","throw away",18,6
+814,"換えます","かえます","exchange, change",18,7
+815,"運転します","うんてんします","drive",18,8
+816,"予約します","よやくします","reserve, book",18,9
+817,"見学します","けんがくします","visit some place for study",18,10
+818,,"ピアノ","piano",18,11
+819,,"～メートル","~ meter",18,12
+820,"国際","こくさい","international",18,13
+821,"現金","げんきん","cash",18,14
+822,"趣味","しゅみ","hobby",18,15
+823,"日記","にっき","diary",18,16
+824,"[お]祈り[～をします]","[お]いのり[をします]","prayer (pray)",18,17
+825,"課長","かちょう","section chief",18,18
+826,"部長","ぶちょう","department chief",18,19
+827,"社長","しゃちょう","president of a company",18,20
+828,"動物","どうぶつ","animal",18,21
+829,"馬","うま","horse",18,22
+830,,"へえ","Really! (used when expressing surprise)",18,23
+831,,"それはおもしろいですね","That must be interesting",18,24
+832,,"なかなか","not easily (used with negatives)",18,25
+833,"牧場","ぼくじょう","ranch, stock farm",18,26
+834,,"ほんとうですか","Really?",18,27
+835,,"ぜひ","by all means",18,28
+836,,"ビートルズ","the Beatles, famous British music group",18,29
+837,"登ります[山に～]","のぼります[やまに～]","climb (a mountain)",19,1
+838,"泊まります","とまります[ホテルに～]","stay (at a hotel)",19,2
+839,"掃除します","そうじします","clean (a room)",19,3
+840,"洗濯します","せんたくします","wash (clothes)",19,4
+841,"練習します","れんしゅうします","practice",19,5
+842,,"なります","become",19,6
+843,"眠い","ねむい","sleepy",19,7
+844,"強い","つよい","strong",19,8
+845,"弱い","よわい","weak",19,9
+846,"調子がいい","ちょうしがいい","be in good condition",19,10
+847,"調子が悪い","ちょうしがわるい","be in bad condition",19,11
+848,"調子","ちょうし","condition",19,12
+849,,"ゴルフ[をします]","golf (play golf)",19,13
+850,"相撲","すもう","sumo wrestling",19,14
+851,,"パチンコ[をします]","pinball game (play pachinko)",19,15
+852,"お茶","おちゃ","tea ceremony",19,16
+853,"日","ひ","day, date",19,17
+854,"一度","いちど","once",19,18
+855,"一度も","いちども","not once, never (used with negatives)",19,19
+856,,"だんだん","gradually",19,20
+857,,"もうすぐ","soon",19,21
+858,,"おかげさまで","Thank you (used when expressing gratitude for help received)",19,22
+859,"乾杯","かんぱい","Bottoms up / Cheers!",19,23
+860,"実は","じつは","Actually, to tell the truth",19,24
+861,,"ダイエット[をします]","diet (go on a diet)",19,25
+862,"何回も","なんかいも","many times",19,26
+863,,"しかし","but, however",19,27
+864,"無理[な]","むり[な]","excessive, impossible",19,28
+865,"体にいい","からだにいい","good for one’s health",19,29
+866,,"ケーキ","cake",19,30
+867,"葛飾北斎","かつしかほくさい","famous Edo period wood block artist and painter (1760 – 1849)",19,31
+868,"要ります","いります[ビザが～]","need, require (a visa)",20,1
+869,"調べます","しらべます","check, investigate",20,2
+870,"直します","なおします","repair, correct",20,3
+871,"修理します","しゅうりします","repair",20,4
+872,"電話します","でんわします","phone",20,5
+873,"僕","ぼく","I (an informal equivalent of わたしused by men)",20,6
+874,"君","きみ","you (an informal equivalent ofあなた used by men)",20,7
+875,"～君","～くん","Mr. (an informal equivalent of～さん used by men)",20,8
+876,,"うん","yes (an informal equivalent ofはい)",20,9
+877,,"ううん","no (an informal equivalent ofいいえ)",20,10
+878,,"サラリーマン","salaried worker, office worker",20,11
+879,,"ことば","word, language",20,12
+880,"物価","ぶっか","commodity prices",20,13
+881,"着物","きもの","kimono (traditional Japanese attire)",20,14
+882,,"ビザ","visa",20,15
+883,"初め","はじめ","the beginning",20,16
+884,"終わり","おわり","the end",20,17
+885,,"こっち","this way, this place (an informal equivalent ofこちら)",20,18
+886,,"そっち","that way, that place (an informal equivalent of そちら)",20,19
+887,,"あっち","that way, that place over there (an informal equivalent ofあちら)",20,20
+888,,"どっち","which one (between two things), which way, where (an informal equivalent ofどちら)",20,21
+889,"この間","このあいだ","the other day, lately, recently",20,22
+890,,"みんなで","all together",20,23
+891,,"～けど","~, but (an informal equivalent ofが)",20,24
+892,"国へ帰るの","くにへかえるの","Are you going back to your country?",20,25
+893,,"どうするの","What will you do?",20,26
+894,,"どうしようかな","What shall I do?",20,27
+895,,"よかったら","if you like",20,28
+896,,"いろいろ","various",20,29
+897,"思います","おもいます","think",21,1
+898,"言います","いいます","say",21,2
+899,"足ります","たります","be enough, be sufficient",21,3
+900,"勝ちます","かちます","win",21,4
+901,"負けます","まけます","lose, be beaten",21,5
+902,"[お祭りが～]","あります[おまつりが～]","(a festival) be held, take place",21,6
+903,"役に立ちます","やくにたちます","be useful",21,7
+904,,"むだ[な]","wasteful",21,8
+905,"不便[な]","ふべん[な]","inconvenient",21,9
+906,"同じ","おなじ","the same",21,10
+907,,"すごい","awful, great (expresses astonishment or admiration)",21,11
+908,"首相","しゅしょう","prime minister",21,12
+909,"大統領","だいとうりょう","president",21,13
+910,"政治","せいじ","politics",21,14
+911,,"ニュース","news",21,15
+912,,"スピーチ[をします]","speech (make a speech)",21,16
+913,"試合","しあい","game, match",21,17
+914,,"アルバイト[をします]","side job (work part time)",21,18
+915,"意見","いけん","opinion",21,19
+916,"[お]話","[お]はなし[をします]","talk, speech, story (talk, tell a story)",21,20
+917,,"ユーモア","humor",21,21
+918,,"むだ","waste",21,22
+919,,"デザイン","design",21,23
+920,"交通","こうつう","transportation, traffic",21,24
+921,,"ラッシュ","rush hour",21,25
+922,"最近","さいきん","recently, these days",21,26
+923,,"たぶん","probably, perhaps, maybe",21,27
+924,,"きっと","surely",21,28
+925,,"ほんとうに","really",21,29
+926,,"そんなに","not so much (used with negatives)",21,30
+927,,"～について","about ~, concerning ~",21,31
+928,,"しかたがありません","There is no other choice / It can’t be helped",21,32
+929,,"しばらくですね","It’s been a long time (since I last saw you) / Long time no see",21,33
+930,"～でも飲みませんか","～でものみませんか","How about drinking ~ or something?",21,34
+931,"見ないと","みないと","I’ve got to watch it",21,35
+932,,"もちろん","of course",21,36
+933,,"カンガルー","kangaroo",21,37
+934,,"キャプテン・クック","Captain James Cook (1728 – 79)",21,38
+935,"着ます","きます[シャツを～]","put on (a shirt, etc.)",22,1
+936,"[靴を～]","はきます[くつを～]","put on (shoes, trousers, etc.)",22,2
+937,"[帽子を～]","かぶります[ぼうし～]","put on (a hat, etc.)",22,3
+938,"[眼鏡を～]","かけます[めがねを～]","put on (glasses)",22,4
+939,"生まれます","うまれます","be born",22,5
+940,,"コート","coat",22,6
+941,,"スーツ","suit",22,7
+942,,"セーター","sweater",22,8
+943,"帽子","ぼうし","hat, cap",22,9
+944,"眼鏡","めがね","glasses",22,10
+945,,"よく","often",22,11
+946,,"おめでとうございます","Congratulations (used on birthdays, at weddings, New Year’s Day, etc.)",22,12
+947,,"こちら","this (polite equivalent of これ)",22,13
+948,"家賃","やちん","house rent",22,14
+949,,"うーん","Let me see",22,15
+950,,"ダイニングキチン","kitchen with a dining area",22,16
+951,"和室","わしつ","Japanese-style room",22,17
+952,"押入れ","おしいれ","Japanese-style closet",22,18
+953,"布団","ふとん","Japanese-style mattress and quilt",22,19
+954,,"アパート","apartment",22,20
+955,,"パリ","Paris",22,21
+956,"万里の長城","ばんりのちょうじょう","the Great Wall of China",22,22
+957,"余暇開発センター","よかかいはつセンター","Center for Developing Leisure Activities",22,23
+958,"レジャー白書","レジャーはくしょ","white paper on leisure",22,24
+959,"聞きます[先生に～]","ききます[せんせいに～]","ask (the teacher)",23,1
+960,"回します","まわします","turn",23,2
+961,"引きます","ひきます","pull",23,3
+962,"変えます","かえます","change",23,4
+963,"触ります","さわります[ドアに～]","touch (a door)",23,5
+964,"出ます[お釣りが～]","でます[おつりが～]","(change) come out",23,6
+965,"動きます[時計が～]","うごきます[とけいが～]","(a watch) move, work",23,7
+966,"歩きます[道を～]","あるきます[みちを～]","walk (along a road)",23,8
+967,"渡ります[橋を～]","わたります[はしを～]","cross (a bridge)",23,9
+968,"気をつけます[車に～]","きをつけます[くるまに～]","pay attention (to cars), take care",23,10
+969,"引っ越しします","ひっこしします","move (house)",23,11
+970,"電気屋","でんきや","electric appliance store",23,12
+971,"～屋","～や","~ store, shop",23,13
+972,,"サイズ","size",23,14
+973,"音","おと","sound",23,15
+974,"機械","きかい","machine",23,16
+975,,"つまみ","knob",23,17
+976,"故障","こしょう（～します）","breakdown (break down)",23,18
+977,"道","みち","road, way",23,19
+978,"交差点","こうさてん","crossroad",23,20
+979,"信号","しんごう","traffic light",23,21
+980,"角","かど","corner",23,22
+981,"橋","はし","bridge",23,23
+982,"駐車場","ちゅうしゃじょう","parking lot, car park",23,24
+983,"～目","～め","the ~ th (indicating order)",23,25
+984,"[お]正月","[お]しょうがつ","New Year’s Day",23,26
+985,,"ごちそうさま[でした]","That was delicious (said after eating or drinking)",23,27
+986,"建物","たてもの","building",23,28
+987,"外国人登録証","がいこくじんとうろくしょう","alien registration card",23,29
+988,"聖徳太子","しょうとくたいし","Prince Shotoku (574 – 622)",23,30
+989,"法隆寺","ほうりゅうじ","Horyuji Temple, a temple in Nara Prefecture built by Prince Shotoku at the beginning of the 7th century",23,31
+990,"元気茶","げんきちゃ","fictitious tea",23,32
+991,"本田駅","ほんだえき","fictitious station",23,33
+992,"図書館前","としょかんまえ","fictitious bus stop (in front of library)",23,34
+993,,"くれます","give (me)",24,1
+994,"連れて行きます","つれていきます","take (someone)",24,2
+995,"連れて来ます","つれてきます","bring (someone)",24,3
+996,"送ります[人を～]","おくります[ひとを～]","escort (someone), go with",24,4
+997,"紹介します","しょうかいします","introduce",24,5
+998,"案内します","あんないします","show around, show the way",24,6
+999,"説明します","せつめいします","explain",24,7
+1000,,"いれます[コーヒーを]","make (coffee)",24,8
+1001,,"おじいさん／おじいちゃん","grandfather, old man",24,9
+1002,,"おばあさん／おばあちゃん","grandmother, old woman",24,10
+1003,"準備[～します]","じゅんび[～します]","preparation (prepare)",24,11
+1004,"意味","いみ","meaning",24,12
+1005,"[お]菓子","[お]かし","sweets, snacks",24,13
+1006,"全部","ぜんぶ","all",24,14
+1007,"自分で","じぶんで","by oneself",24,15
+1008,,"ほかに","besides",24,16
+1009,"ワゴン車","ワゴンしゃ","station wagon",24,17
+1010,"[お]弁当","[お]べんとう","box lunch",24,18
+1011,"母の日","ははのひ","Mother’s Day",24,19
+1012,"考えます","かんがえます","think, consider",25,1
+1013,"着きます[駅に～]","つきます[えきに～]","arrive (at the station)",25,2
+1014,"留学します","りゅうがくします","study abroad",25,3
+1015,"取ります[年を～]","とります[としを～]","grow old",25,4
+1016,"田舎","いなか","countryside, hometown",25,5
+1017,"大使館","たいしかん","embassy",25,6
+1018,,"グループ","group",25,7
+1019,,"チャンス","chance",25,8
+1020,"億","おく","hundred million",25,9
+1021,,"もし[～たら]","if ~",25,10
+1022,,"いくら[～ても]","however ~, even if ~",25,11
+1023,"転勤します","てんきんします","be transferred to another office",25,12
+1024,,"こと[～のこと]","thing, matter (thing about ~)",25,13
+1025,"一杯飲みましょう","いっぱいのみましょう","Let’s have a drink together",25,14
+1026,"お世話になりました","[いろいろ]おせわになりました","Thank you for everything you have done for me",25,15
+1027,"頑張ります","がんばります","do one’s best",25,16
+1028,"どうぞお元気で","どうぞおげんきで","Best of luck (said when expecting a long separation)",25,17
+1029,"見ます，診ます","みます","check",26,1
+1030,"探します、捜します","さがします","look for, search",26,2
+1031,"遅れます[時間に～]","おくれます[じかんに～]","be late (for an appointment, etc.)",26,3
+1032,"間に合います[時間に～]","まにあいます[じかんに～]","be in time (for an appointment, etc.)",26,4
+1033," ","やります","do",26,5
+1034,"参加します","さんかします[パーティーに～]","attend (a party)",26,6
+1035,"申し込みます","もうしこみます","apply for, enter for",26,7
+1036,"都合がいい","つごうがいい","convenient (concerning time)",26,8
+1037,"都合が悪い","つごうがわるい","inconvenient (concerning time)",26,9
+1038,"気分がいい","きぶんがいい","feel well",26,10
+1039,"気分が悪い","きぶんがわるい","feel ill",26,11
+1040,"新聞社","しんぶんしゃ","newspaper publishing company",26,12
+1041,"柔道","じゅうどう","judo",26,13
+1042,"運動会","うんどうかい","athletic meeting",26,14
+1043,"場所","ばしょ","place",26,15
+1044," ","ボランティア","volunteer",26,16
+1045,"～弁","～べん","~ dialect",26,17
+1046,"今度","こんど","next time, another time",26,18
+1047," ","ずいぶん","pretty, very",26,19
+1048,"直接","ちょくせつ","directly",26,20
+1049," ","いつでも","anytime",26,21
+1050," ","どこでも","anywhere",26,22
+1051," ","だれでも","anybody",26,23
+1052,"何でも","なんでも","anything",26,24
+1053," ","こんな～","~ like this",26,25
+1054," ","そんな～","~ like that (near the listener)",26,26
+1055," ","あんな～","~ like that (far from both the listener and the speaker)",26,27
+1056," ","NHK","Nippon Hoso Kyokai (broadcasting company)",26,28
+1057,"こどもの日","こどものひ","Children’s Day",26,29
+1058," ","エドヤストア","fictitious store",26,30
+1059,"片づきます","かたづきます","(boxes) be put in order",26,31
+1060," ","ごみ","garbage, trash, dust",26,32
+1061,"出します","だします[ごみを～]","put out (trash)",26,33
+1062,"燃えます","もえます[ごみが～]","(trash) burn",26,34
+1063,"月・水・金","げつ・すい・きん","Monday, Wednesday and Friday",26,35
+1064,"置き場","おきば","place where something is put",26,36
+1065,"横","よこ","side",26,37
+1066,"瓶","びん","bottle",26,38
+1067,"缶","かん","can",26,39
+1068,"[お]湯","[お]ゆ","hot water",26,40
+1069," ","ガス","gas",26,41
+1070,"～会社","～がいしゃ","~ company",26,42
+1071,"連絡します","れんらくします","contact",26,43
+1072,"困ったなあ","こまったなあ","What shall I do?",26,44
+1073,"電子メール","でんしメール","electronic mail",26,45
+1074,"宇宙","うちゅう","space, universe",26,46
+1075,"怖い","こわい","be afraid of",26,47
+1076,"宇宙船","うちゅうせん","spaceship",26,48
+1077,"別の","べつの","another",26,49
+1078,"宇宙飛行士","うちゅうひこうし","astronaut",26,50
+1079,"土井隆雄","どいたかお","Japanese astronaut (1955 –  )",26,51
+1080,"飼います","かいます","keep (a pet), raise (an animal)",27,1
+1081,"建てます","たてます","build",27,2
+1082,"走ります[道を～]","はしります[みちを～]","run, drive (along a road)",27,3
+1083,"取ります[休みを～]","とります[やすみを～]","take (a holiday)",27,4
+1084,"見えます[山が～]","みえます[やまが～]","(a mountain) can be seen",27,5
+1085,"聞こえます[音が～]","きこえます[おとが～]","(a sound) can be heard",27,6
+1086,"[空港が～]","できます[くうこうが～]","(an airport) be made, be completed, come into existence",27,7
+1087,"開きます[教室を～]","ひらきます[きょうしつを～]","set up (a class), open, hold",27,8
+1088,,"ペット","pet",27,9
+1089,"鳥","とり","bird",27,10
+1090,"声","こえ","voice",27,11
+1091,"波","なみ","wave",27,12
+1092,"花火","はなび","fireworks",27,13
+1093,"景色","けしき","scenery, view",27,14
+1094,"昼間","ひるま","daytime",27,15
+1095,"昔","むかし","old days, ancient times",27,16
+1096,"道具","どうぐ","tool, instrument, equipment",27,17
+1097,"自動販売機","じどうはんばいき","vending machine",27,18
+1098,"通信販売","つうしんはんばい","mail order, mail-order sales",27,19
+1099,,"クリーニング","(dry) cleaning, laundry",27,20
+1100,,"マンション","condominium, apartment house",27,21
+1101,"台所","だいどころ","kitchen",27,22
+1102,"～教室","～きょうしつ","~ class",27,23
+1103,,"パーティールーム","party room",27,24
+1104,"～後","～ご","after ~ (duration of time)",27,25
+1105,,"～しか","only ~ (used with negatives)",27,26
+1106,,"ほかの","other",27,27
+1107,,"はっきり","clearly",27,28
+1108,,"ほとんど","almost all (in affirmative sentences), hardly, scarcely (in negative sentences)",27,29
+1109,"関西空港","かんさいくうこう","Kansai International Airport",27,30
+1110,"秋葉原","あきはばら","name of a shopping district in Tokyo with many electrical stores",27,31
+1111,"伊豆","いず","peninsula in Shizuoka Prefecture",27,32
+1112,"日曜大工","にちようだいく","Sunday carpenter",27,33
+1113,"本棚","ほんだな","bookshelf",27,34
+1114,"夢","ゆめ","dream",27,35
+1115,,"いつか","someday, sometime",27,36
+1116,"家","いえ","house, home",27,37
+1117,,"すばらしい","marvelous, wonderful",27,38
+1118,"子どもたち","こどもたち","children",27,39
+1119,"大好き[な]","だいすき[な]","like very much",27,40
+1120,"漫画","まんが","comics",27,41
+1121,"主人公","しゅじんこう","hero, heroine",27,42
+1122,"形","かたち","shape",27,43
+1123,,"ロボット","robot",27,44
+1124,"不思議[な]","ふしぎ[な]","fantastic, mysterious",27,45
+1125,,"ポケット","pocket",27,46
+1126,"例えば","たとえば","for example",27,47
+1127,"付けます","つけます","attach, put on",27,48
+1128,"自由に","じゆうに","freely",27,49
+1129,"空","そら","sky",27,50
+1130,"飛びます","とびます","fly",27,51
+1131,"自分","じぶん","oneself",27,52
+1132,"将来","しょうらい","future",27,53
+1133,,"ドラえもん","name of a cartoon character",27,54
+1134,"売れます","うれます[パンが～]","(bread) sell well",28,1
+1135,"踊ります","おどります","dance",28,2
+1136,,"かみます","chew, bite",28,3
+1137,"選びます","えらびます","choose",28,4
+1138,"違います","ちがいます","be different",28,5
+1139,"通います[大学に～]","かよいます[だいがくに～]","go to and from (university)",28,6
+1140,,"メモします","take a memo",28,7
+1141,,"まじめ[な]","serious",28,8
+1142,"熱心[な]","ねっしん[な]","earnest",28,9
+1143,"優しい","やさしい","gentle, kind",28,10
+1144,"偉い","えらい","great, admirable",28,11
+1145,,"ちょうどいい","proper, just right",28,12
+1146,"習慣","しゅうかん","custom",28,13
+1147,"経験","けいけん","experience",28,14
+1148,"力","ちから","power",28,15
+1149,"人気","にんき","popularity",28,16
+1150,"形","かたち","form, shape",28,17
+1151,"色","いろ","color",28,18
+1152,"味","あじ","taste",28,19
+1153,,"ガム","chewing gum",28,20
+1154,"品物","しなもの","goods",28,21
+1155,"値段","ねだん","price",28,22
+1156,"給料","きゅうりょう","salary",28,23
+1157,,"ボーナス","bonus",28,24
+1158,"番組","ばんぐみ","program",28,25
+1159,,"ドラマ","drama",28,26
+1160,"小説","しょうせつ","novel",28,27
+1161,"小説家","しょうせつか","novelist",28,28
+1162,"歌手","かしゅ","singer",28,29
+1163,"管理人","かんりにん","janitor",28,30
+1164,"息子","むすこ","(my) son",28,31
+1165,"息子さん","むすこさん","(someone else’s) son",28,32
+1166,"娘","むすめ","(my) daughter",28,33
+1167,"娘さん","むすめさん","(someone else’s) daughter",28,34
+1168,"自分","じぶん","oneself",28,35
+1169,"将来","しょうらい","future",28,36
+1170,,"しばらく","a little while",28,37
+1171,,"たいてい","usually, mostly",28,38
+1172,,"それに","in addition",28,39
+1173,,"それで","and so",28,40
+1174,"お願いがあるんですが","[ちょっと]おねがいがるんですが","I have a favor to ask",28,41
+1175,,"ホームステイ","homestay",28,42
+1176,,"おしゃべりします","chat",28,43
+1177,"お知らせ","おしらせ","notice",28,44
+1178,"日にち","ひにち","date",28,45
+1179,"土","ど","Saturday",28,46
+1180,"体育館","たいいくかん","gymnasium",28,47
+1181,"無料","むりょう","free of charge",28,48
+1182,"開きます","あきます[ドアが～]","(a door) open",29,1
+1183,"閉まります","しまります[ドアが～]","(a door) close, shut",29,2
+1184,"[電気が～]","つきます[でんきが～]","(a light) come one",29,3
+1185,"消えます[電気が～]","きえます[でんきが～]","(a light) go off, disappear",29,4
+1186,"込みます[道が～]","こみます[みちが～]","(a road) get crowded",29,5
+1187,"[道が～]","すきます[みちが～]","(a road) get empty",29,6
+1188,"壊れます","こわれます[いすが～]","(a chair) break",29,7
+1189,"割れます","われます[コップが～]","(a glass) break, smash",29,8
+1190,"折れます[木が～]","おれます[きが～]","(a tree) break, snap",29,9
+1191,"破れます[紙が～]","やぶれます[かみが～]","(the paper) tear",29,10
+1192,"汚れます[服が～]","よごれます[ふくが～]","(the clothes) get dirty",29,11
+1193,"付きます","つきます[ポケットが～]","(a pocket) be attached",29,12
+1194,"外れます","はずれます[ボタンが～]","(a button) be undone",29,13
+1195,"止まります","とまります[エレベーターが～]","(an elevator) stop",29,14
+1196,,"まちがえます","make a mistake",29,15
+1197,"落とします","おとします","drop, lose",29,16
+1198,"掛かります","かかります[かぎが～]","be locked",29,17
+1199,"[お]皿","[お]さら","plate, dish",29,18
+1200,,"[お]ちゃわん","rice bowl",29,19
+1201,,"コップ","glass (vessel)",29,20
+1202,,"ガラス","glass (material)",29,21
+1203,"袋","ふくろ","bag",29,22
+1204,"財布","さいふ","wallet, purse",29,23
+1205,"枝","えだ","branch, twig",29,24
+1206,"駅員","えきいん","station employee",29,25
+1207,"この辺","このへん","this neighborhood, around here",29,26
+1208,"～辺","～へん","the place around ~",29,27
+1209,,"このくらい","about this size",29,28
+1210,"お先にどうぞ","おさきにどうぞ","After you/Go ahead, please",29,29
+1211,,"[ああ]よかった","Thank goodness!",29,30
+1212,"今の電車","いまのでんしゃ","the train which has just left",29,31
+1213,"忘れ物","わすれもの","things left behind, lost property",29,32
+1214,"～側","～がわ","~ side",29,33
+1215,,"ポケット","pocket",29,34
+1216,"覚えていません","おぼえていません","I don’t remember",29,35
+1217,"網棚","あみだな","rack",29,36
+1218,"確か","たしか","I suppose, if I am correct",29,37
+1219,"四ツ谷","よつや","name of a station in Tokyo",29,38
+1220,"地震","じしん","earthquake",29,39
+1221,"壁","かべ","wall",29,40
+1222,"針","はり","hands (of a clock)",29,41
+1223,"指します","さします","point",29,42
+1224,"駅前","えきまえ","the area in front of a station",29,43
+1225,"倒れます","たおれます","fall down",29,44
+1226,"西","にし","west",29,45
+1227,"方","ほう","direction",29,46
+1228,"三宮","さんのみや","name of a place in Kobe",29,47
+1229,,"はります","put up, post, paste",30,1
+1230,"掛けます","かけます","hang",30,2
+1231,"飾ります","かざります","decorate, ornament",30,3
+1232,"並べます","ならべます","arrange, line up",30,4
+1233,"植えます","うえます","plant",30,5
+1234,"戻します","もどします","return, put ~ back",30,6
+1235,,"まとめます","put ~ together, put ~ in shape, sum up",30,7
+1236,"片づけます","かたづけます","put things in order, tidy up",30,8
+1237,,"しまいます","put things in their proper place",30,9
+1238,"決めます","きめます","decide",30,10
+1239,"知らせます","しらせます","inform",30,11
+1240,"相談します","そうだんします","consult, discuss",30,12
+1241,"予習します","よしゅうします","prepare one’s lesson",30,13
+1242,"復習します","ふくしゅうします","review one’s lesson",30,14
+1243,,"そのままにします","leave things as they are",30,15
+1244,"お子さん","おこさん","(someone else’s) child",30,16
+1245,"授業","じゅぎょう","class",30,17
+1246,"講義","こうぎ","lecture",30,18
+1247,,"ミーティング","meeting",30,19
+1248,"予定","よてい","plan, schedule",30,20
+1249,"お知らせ","おしらせ","notice",30,21
+1250,"案内書","あんないしょ","guidebook",30,22
+1251,,"カレンダー","calendar",30,23
+1252,,"ポスター","poster",30,24
+1253,"ごみ箱","ごみばこ","trash can, dustbin",30,25
+1254,"人形","にんぎょう","doll",30,26
+1255,"花瓶","かびん","vase",30,27
+1256,"鏡","かがみ","mirror",30,28
+1257,"引き出し","ひきだし","drawer",30,29
+1258,"玄関","げんかん","front door, porch, entrance hall",30,30
+1259,"廊下","ろうか","corridor, hallway",30,31
+1260,"壁","かべ","wall",30,32
+1261,"池","いけ","pond",30,33
+1262,"交番","こうばん","police box",30,34
+1263,"元の所","もとのところ","original place",30,35
+1264,"周り","まわり","round, around",30,36
+1265,"真ん中","まんなか","center",30,37
+1266,"隅","すみ","corner",30,38
+1267,,"まだ","still",30,39
+1268,,"～ほど","about ~",30,40
+1269,"予定表","よていひょう","schedule",30,41
+1270,"ご苦労さま","ごくろうさま","Thank you for your hard work (used by a superior or older person to express appreciation for a subordinate’s work)",30,42
+1271,"希望","きぼう","hope, request",30,43
+1272,"何かご希望がありますか","なにかごきぼうがありますか","Do you have any requests?",30,44
+1273,,"ミュージカル","musical",30,45
+1274,,"それはいいですね","That’s a good idea/That sounds nice",30,46
+1275,,"ブロードウェイ","Broadway",30,47
+1276,"丸い","まるい","round",30,48
+1277,"月","つき","moon",30,49
+1278,,"ある～","one ~, a certain ~",30,50
+1279,"地球","ちきゅう","earth",30,51
+1280,,"うれしい","glad, happy",30,52
+1281,"嫌[な]","いや[な]","hateful, disagreeable",30,53
+1282,,"すると","and, then",30,54
+1283,"目が覚めます","めがさめます","wake up",30,55
+1284,"始まります[式が～]","はじまります[しきが～]","[ a ceremony] begin, start",31,1
+1285,"続けます","つづけます","continue",31,2
+1286,"見つけます","みつけます","find",31,3
+1287,"受けます","うけます[しけんを]","take [an examination]",31,4
+1288,"入学します[大学に～]","にゅうがくします
+[だいがくに～]","enter [a university]",31,5
+1289,"卒業します[大学を～]","そつぎょうします[だいがくを～]","graduate [from a university]",31,6
+1290,"出席します[会議に～]","しゅっせきします[かいぎに～]","attend [a meeting]",31,7
+1291,"休憩します","きゅうけいします","take a break, take a rest",31,8
+1292,"連休","れんきゅう","consecutive holidays",31,9
+1293,"作文","さくぶん","essay, composition",31,10
+1294,"展覧会","てんらんかい","exhibition",31,11
+1295,"結婚式","けっこんしき","wedding ceremony",31,12
+1296,"[お]葬式","[お]そうしき","funeral",31,13
+1297,"式","しき","ceremony",31,14
+1298,"本社","ほんしゃ","head office",31,15
+1299,"支店","してん","branch office",31,16
+1300,"教会","きょうかい","church",31,17
+1301,"大学院","だいがくいん","graduate school",31,18
+1302,"動物園","どうぶつえん","zoo",31,19
+1303,"温泉","おんせん","hot spring, spa",31,20
+1304,"お客[さん]","おきゃく[さん]","visitor, guest, customer, client",31,21
+1305,,"だれか","somebody",31,22
+1306,"～の方","～のほう","place toward ~, direction of ~",31,23
+1307,,"ずっと","all the time",31,24
+1308,,"ピカソ","Pablo Picasso, Spanish painter (1881 – 1973)",31,25
+1309,"上野公園","うえのこうえん","Ueno Park (in Tokyo)",31,26
+1310,"残ります","のこります","remain, be left",31,27
+1311,"月に","つきに","per month",31,28
+1312,"普通の","ふつうの","ordinary, common, usual",31,29
+1313,,"インターネット","Internet",31,30
+1314,"村","むら","village",31,31
+1315,"映画館","えいがかん","movie theater",31,32
+1316,"嫌[な]","いや[な]","hateful, disagreeable",31,33
+1317,"空","そら","sky",31,34
+1318,"閉じます","とじます","close",31,35
+1319,"都会","とかい","city",31,36
+1320,"子どもたち","こどもたち","children",31,37
+1321,"自由に","じゆうに","freely",31,38
+1322,"世界中","せかいじゅう","all over the world",31,39
+1323,"集まります","あつまります","gather",31,40
+1324,"美しい","うつくしい","beautiful",31,41
+1325,"自然","しぜん","nature",31,42
+1326,,"すばらしさ","goodness, virtue",31,43
+1327,"気がつきます","きがつきます","notice, become aware of",31,44
+1328,"運動します","うんどうします","take exercise",32,1
+1329,"成功します","せいこうします","succeed",32,2
+1330,"失敗します[試験に～]
+ ","しっぱいします[しけんに～]","fail (an examination)",32,3
+1331,"合格します[試験に～]","ごうかくします[しけんに～]","pass (an examination)",32,4
+1332,"戻ります","もどります","return",32,5
+1333,"[雨が～]","やみます[あめが～]","(rain) stop",32,6
+1334,"晴れます","はれます","clear up",32,7
+1335,"曇ります","くもります","get cloudy",32,8
+1336,"吹きます[風が～]","ふきます[かぜが～]","(wind) blow",32,9
+1337,"治ります、直ります[病気が～]
+[故障が～]","なおります
+[びょうきが～]
+[こしょうが～]","recover from (sickness), get well, be fixed, be repaired",32,10
+1338,"続きます[熱が～]","つづきます[ねつが～]","(high temperature) continue",32,11
+1339,,"ひきます[かぜを]","catch (a cold)",32,12
+1340,"冷やします","ひやします","cool",32,13
+1341,"心配[な]","しんぱい[な]","worried, anxious",32,14
+1342,"十分[な]","じゅうぶん[な]","enough, sufficient",32,15
+1343,,"おかしい","strange, funny",32,16
+1344,,"うるさい","noisy",32,17
+1345,,"やけど[～をします]","burning (get burned)",32,18
+1346,,"けが[～をします]","injury (get injured)",32,19
+1347,,"せき[～がでます]","cough (get a cough)",32,20
+1348,,"インフルエンザ","influenza",32,21
+1349,"空","そら","sky",32,22
+1350,"太陽","たいよう","sun",32,23
+1351,"星","ほし","star",32,24
+1352,"月","つき","moon",32,25
+1353,"風","かぜ","wind",32,26
+1354,"北","きた","north",32,27
+1355,"南","みなみ","south",32,28
+1356,"西","にし","west",32,29
+1357,"東","ひがし","east",32,30
+1358,"水道","すいどう","faucet, tap, water supply",32,31
+1359,,"エンジン","engine",32,32
+1360,,"チーム","team",32,33
+1361,"今夜","こんや","this evening",32,34
+1362,"夕方","ゆうがた","late afternoon",32,35
+1363,,"まえ","a time in the past, before",32,36
+1364,"遅く","おそく","(late) time",32,37
+1365,,"こんなに","like this",32,38
+1366,,"そんなに","like that (concerning a matter related to the listener)",32,39
+1367,,"あんなに","like that (concerning a matter not related to the speaker or the listener), that much",32,40
+1368,,"もしかしたら","possibly, perhaps",32,41
+1369,,"それはいけませんね","That’s too bad",32,42
+1370,,"オリンピック","Olympic Games",32,43
+1371,"元気","げんき","vigor",32,44
+1372,"胃","い","stomach",32,45
+1373,"働きすぎ","はたらきすぎ","working too much",32,46
+1374,,"ストレス","stress",32,47
+1375,"無理をします","むりをします","work more than one’s capacity",32,48
+1376,,"ゆっくりします","take one’s time",32,49
+1377,"星占い","ほしうらない","horoscope",32,50
+1378,"牡牛座","おうしざ","Taurus",32,51
+1379,"困ります","こまります","be in trouble, have a problem",32,52
+1380,"宝くじ","たからくじ","lottery",32,53
+1381,"当たります[宝くじが～]","あたります[たからくじが～]","win (a lottery)",32,54
+1382,"健康","けんこう","health",32,55
+1383,"恋愛","れんあい","romantic love",32,56
+1384,"恋人","こいびと","sweetheart, boyfriend, girlfriend",32,57
+1385,"[お]金持ち","[お]かねもち","rich person",32,58
+1386,"逃げます","にげます","run away",33,1
+1387,"騒ぎます","さわぎます","make a noise",33,2
+1388,,"あきらめます","give up",33,3
+1389,"投げます","なげます","throw",33,4
+1390,"守ります","まもります","keep, follow, obey",33,5
+1391,"上げます","あげます","raise, lift up",33,6
+1392,"下げます","さげます","lower, pull down",33,7
+1393,"伝えます","つたえます","convey (a message)",33,8
+1394,"注意します[車に～]","ちゅういします[くるまに～]","be careful (of the cars)",33,9
+1395,"外します[席を～]","はずします[せきを～]","be away (from one’s desk)",33,10
+1396,,"だめ[な]","no good, not permitted, impossible",33,11
+1397,"席","せき","seat",33,12
+1398,,"ファイト","fight",33,13
+1399,,"マーク","mark",33,14
+1400,,"ボール","ball",33,15
+1401,"洗濯機","せんたくき","washing machine",33,16
+1402,"～機","～き","~ machine",33,17
+1403,"規則","きそく","regulation, rule",33,18
+1404,"使用禁止","しようきんし","Do not use",33,19
+1405,"立入禁止","たちいりきんし","Keep out",33,20
+1406,"入口","いりぐち","entrance",33,21
+1407,"出口","でぐち","exit",33,22
+1408,"非常口","ひじょうぐち","emergency exit",33,23
+1409,"無料","むりょう","free of charge",33,24
+1410,"本日休業","ほんじつきゅうぎょう","closed today",33,25
+1411,"営業中","えいぎょうちゅう","open for business",33,26
+1412,"使用中","しようちゅう","in use",33,27
+1413,"～中","～ちゅう","~ ing",33,28
+1414,,"どういう～","what kind of ~",33,29
+1415,,"もう","(not) any longer (used with negatives)",33,30
+1416,,"あと","~ left",33,31
+1417,"駐車違反","ちゅうしゃいはん","parking violation",33,32
+1418,,"そりゃあ","well",33,33
+1419,"～以内","～いない","within ~",33,34
+1420,"警察","けいさつ","police station",33,35
+1421,"罰金","ばっきん","fine",33,36
+1422,"電報","でんぽう","telegram",33,37
+1423,"人々","ひとびと","people",33,38
+1424,"急用","きゅうよう","urgent business",33,39
+1425,"打ちます[電報を～]","うちます[でんぽうを～]","send (a telegram)",33,40
+1426,"電報代","でんぽうだい","telegram charge",33,41
+1427,,"できるだけ","as much as possible",33,42
+1428,"短く","みじかく","shortly, briefly",33,43
+1429,,"また","and",33,44
+1430,"例えば","たとえば","for example",33,45
+1431,"危篤","きとく","in a critical situation",33,46
+1432,"重い病気","おもいびょうき","serious illness",33,47
+1433,"明日","あす","tomorrow",33,48
+1434,"留守","るす","absence",33,49
+1435,"留守番","るすばん","looking after a house during the owner’s absence",33,50
+1436,"[お]祝い","[お]いわい","celebration",33,51
+1437,"亡くなります","なくなります","pass away, die",33,52
+1438,"悲しみ","かなしみ","sorrow, sadness",33,53
+1439,"利用します","りようします","use",33,54
+1440,"磨きます[歯を～]","みがきます[はを～]","brush (one’s teeth), polish",34,1
+1441,"組み立てます","くみたてます","assemble",34,2
+1442,"折ります","おります","bend, fold, break, snap",34,3
+1443,"気がつきます[忘れ物に～]","きがつきます[わすれものに～]","notice, become aware of (things left behind)",34,4
+1444,,"つけます[しょうゆを～]","put (in soy sauce)",34,5
+1445,"見つかります","みつかります[かぎが～]","(a key) be found",34,6
+1446,,"します[ネクタイを～]","put on, wear (a tie)",34,7
+1447,"質問します","しつもんします","ask a question",34,8
+1448,"細い","ほそい","thin (of small diameter)",34,9
+1449,"太い","ふとい","thick (of large diameter)",34,10
+1450,"盆踊り","ぼんおどり","Bon Festival dance",34,11
+1451,,"スポーツクラブ","sports club",34,12
+1452,"家具","かぐ","furniture",34,13
+1453,,"キー","key",34,14
+1454,,"シートベルト","seat belt",34,15
+1455,"説明書","せつめいしょ","explanatory pamphlet, instruction book",34,16
+1456,"図","ず","figure, drawing",34,17
+1457,"線","せん","line",34,18
+1458,"矢印","やじるし","arrow (sign)",34,19
+1459,"黒","くろ","black (noun)",34,20
+1460,"白","しろ","white (noun)",34,21
+1461,"赤","あか","red (noun)",34,22
+1462,"青","あお","blue (noun)",34,23
+1463,"紺","こん","navy blue, dark blue (noun)",34,24
+1464,"黄色","きいろ","yellow (noun)",34,25
+1465,"茶色","ちゃいろ","brown (noun)",34,26
+1466,,"しょうゆ","soy sauce",34,27
+1467,,"ソース","sauce",34,28
+1468,,"～か～","~ or ~",34,29
+1469,,"ゆうべ","last night",34,30
+1470,,"さっき","a short while ago",34,31
+1471,"茶道","さどう","tea ceremony",34,32
+1472,"お茶をたてます","おちゃをたてます","make green tea",34,33
+1473,"先に","さきに","first (when doing something before something else)",34,34
+1474,"載せます","のせます","place on, load onto",34,35
+1475,,"これでいいですか","Is this all right?",34,36
+1476,"苦い","にがい","bitter",34,37
+1477,"親子どんぶり","おやこどんぶり","a bowl of cooked rice with chicken and egg",34,38
+1478,"材料","ざいりょう","material, ingredient",34,39
+1479,"～分","～ぶん","portion for ~ (used for indicating quantity)",34,40
+1480,"鳥肉","とりにく","chicken",34,41
+1481,,"～グラム","~ gram",34,42
+1482,"～個","～こ","(counter for small objects)",34,43
+1483,,"たまねぎ","onion",34,44
+1484,"４分の１","よんぶんのいち","one fourth",34,45
+1485,"調味料","ちょうみりょう","seasoning, flavoring",34,46
+1486,,"なべ","pan, pot",34,47
+1487,"火","ひ","fire, heating",34,48
+1488,"火にかけます","ひにかけます","put on the stove",34,49
+1489,"煮ます","にます","cook, boil",34,50
+1490,"煮えます","にえます","be cooked, be boiled",34,51
+1491,,"どんぶり","porcelain bowl, bowl of rice with food on top",34,52
+1492,"咲きます[花が～]","さきます[はなが～]","(flowers) bloom",35,1
+1493,"変わります[色が～]","かわります[いろが～]","(the color) change",35,2
+1494,"困ります","こまります","be in trouble, have a problem",35,3
+1495,"付けます[丸を～]","つけます[まるを～]","draw (a circle), mark (with a circle)",35,4
+1496,"拾います","ひろいます","pick up",35,5
+1497,"[電話が～]","かかります[でんわが～]","get through (on the telephone), have (a phone call)",35,6
+1498,"楽[な]","らく[な]","comfortable, easy",35,7
+1499,"正しい","ただしい","correct, right",35,8
+1500,"珍しい","めずらしい","rare, uncommon",35,9
+1501,"方","かた","person (respectful equivalent ofひと )",35,10
+1502,"向こう","むこう","over there, the other side",35,11
+1503,"島","しま","island",35,12
+1504,"村","むら","village",35,13
+1505,"港","みなと","port, harbor",35,14
+1506,"近所","きんじょ","neighborhood, vicinity",35,15
+1507,"屋上","おくじょう","rooftop",35,16
+1508,"海外","かいがい","overseas",35,17
+1509,"山登り","やまのぼり","mountain climbing",35,18
+1510,,"ハイキング","hiking",35,19
+1511,"機会","きかい","chance, opportunity",35,20
+1512,"許可","きょか","permission",35,21
+1513,"丸","まる","circle",35,22
+1514,"操作","そうさ","operation",35,23
+1515,"方法","ほうほう","method",35,24
+1516,"設備","せつび","equipment, facilities",35,25
+1517,,"カーテン","curtain",35,26
+1518,,"ひも","string",35,27
+1519,,"ふた","lid, cover, cap",35,28
+1520,"葉","は","leaf",35,29
+1521,"曲","きょく","a piece of music",35,30
+1522,"楽しみ","たのしみ","pleasure, enjoyment, expectation",35,31
+1523,,"もっと","more",35,32
+1524,"初めに","はじめに","first",35,33
+1525,"これで終わります","これでおわります","We’ll finish now",35,34
+1526,"箱根","はこね","resort in Kanagawa Prefecture",35,35
+1527,"日光","にっこう","tourist spot in Tochigi Prefecture",35,36
+1528,"白馬","はくば","resort in Nagano Prefecture",35,37
+1529,,"アフリカ","Africa",35,38
+1530,,"それなら","in that case",35,39
+1531,"夜行バス","やこうバス","night bus",35,40
+1532,"旅行者","りょこうしゃ","travel agency",35,41
+1533,"詳しい","くわしい","detailed",35,42
+1534,"スキー場","スキーじょう","ski resort, ski ground",35,43
+1535,"草津","くさつ","resort in Gunma Prefecture",35,44
+1536,"志賀高原","しがこうげん","national park in Nagano Prefecture",35,45
+1537,"朱","しゅ","red",35,46
+1538,"交わります","まじわります","keep company with",35,47
+1539,,"ことわざ","proverb",35,48
+1540,"仲よくします","なかよくします","be on good terms with",35,49
+1541,"必要[な]","ひつよう[な]","necessary, essential",35,50
+1542,"届きます[荷物が～]","とどきます[にもつが～]","(parcels) be delivered",36,1
+1543,"出ます[試合に～]","でます[しあいに～]","participate (in the game)",36,2
+1544,"打ちます","うちます[ワープロを～]","type (on a word processor)",36,3
+1545,"貯金します","ちょきんします","save money",36,4
+1546,"太ります","ふとります","get flat",36,5
+1547,,"やせます","get slim, lose weight",36,6
+1548,"過ぎます[７時を～]","すぎます[７じを～]","pass (7 o’clock)",36,7
+1549,"慣れます[習慣に～]","なれます[しゅうかんに～]","get accustomed to (the customs)",36,8
+1550,"硬い","かたい","hard, tough, solid",36,9
+1551,"軟らかい","やわらかい","soft, tender",36,10
+1552,"電子～","でんし～","electronic ~",36,11
+1553,"携帯～","けいたい～","portable ~",36,12
+1554,"工場","こうじょう","factory",36,13
+1555,"健康","けんこう","health",36,14
+1556,"剣道","けんどう","kendo (Japanese style fencing)",36,15
+1557,"毎週","まいしゅう","every week",36,16
+1558,"毎月","まいつき","every month",36,17
+1559,"毎年","まいとし（まいねん）","every year",36,18
+1560,,"やっと","finally",36,19
+1561,,"かなり","fairly",36,20
+1562,"必ず","かならず","without fail, by any means",36,21
+1563,"絶対に","ぜったいに","absolutely (used with negatives)",36,22
+1564,"上手に","じょうずに","well, skillfully",36,23
+1565,,"できるだけ","as much as possible",36,24
+1566,,"このごろ","these days",36,25
+1567,,"～ずつ","~ (some amount) per (some suit)",36,26
+1568,,"そのほうが～","That is more ~",36,27
+1569,,"ショパン","Chopin, Polish musician (1810-49)",36,28
+1570,"お客様","おきゃくさま","guest, customer",36,29
+1571,"特別[な]","とくべつ[な]","special",36,30
+1572,,"していらっしゃいます","be doing (respectful equivalent of しています)",36,31
+1573,"水泳","すいえい","swimming",36,32
+1574,,"～とか、～とか","~, ~, and so on",36,33
+1575,,"タンゴ","tango",36,34
+1576,,"チャレンジします","challenge",36,35
+1577,"気持ち","きもち","feeling, enthusiasm",36,36
+1578,"乗り物","のりもの","vehicle, means of transportation",36,37
+1579,"歴史","れきし","history",36,38
+1580,"～世紀","～せいき","-th century",36,39
+1581,"遠く","とおく","far, remote place",36,40
+1582,"汽車","きしゃ","locomotive",36,41
+1583,"汽船","きせん","steamboat",36,42
+1584,"大勢の～","おおぜいの～","many (people)",36,43
+1585,"運びます","はこびます","carry, transport",36,44
+1586,"飛びます","とびます","fly",36,45
+1587,"安全[な]","あんぜん[な]","safe",36,46
+1588,"宇宙","うちゅう","space, universe",36,47
+1589,"地球","ちきゅう","earth",36,48
+1590,"ライト兄弟","ライトきょうだい","Wright brothers, American pioneers in aviation",36,49
+1591,"褒めます","ほめます","praise",37,1
+1592,,"しかります","scold",37,2
+1593,"誘います","さそいます","invite, ask someone to join",37,3
+1594,"起こします","おこします","wake (someone) up",37,4
+1595,"招待します","しょうたいします","invite",37,5
+1596,"頼みます","たのみます","ask, request",37,6
+1597,"注意します","ちゅういします","warn, advise",37,7
+1598,,"とります","rob, steal",37,8
+1599,"踏みます","ふみます","step on (someone’s foot)",37,9
+1600,"壊します","こわします","break, destroy",37,10
+1601,"汚します","よごします","make ~ dirty",37,11
+1602,"行います","おこないます","hold, carry out, practice",37,12
+1603,"輸出します","ゆしゅつします","export",37,13
+1604,"輸入します","ゆにゅうします","import",37,14
+1605,"翻訳します","ほんやくします","translate",37,15
+1606,"発明します","はつめいします","invent",37,16
+1607,"発見します","はっけんします","discover",37,17
+1608,"設計します","せっけいします","design, plan",37,18
+1609,"米","こめ","rice",37,19
+1610,"麦","むぎ","barley, wheat",37,20
+1611,"石油","せきゆ","oil",37,21
+1612,"原料","げんりょう","raw material",37,22
+1613,,"デート","date",37,23
+1614,"泥棒","どろぼう","thief, robber",37,24
+1615,"警官","けいかん","policeman",37,25
+1616,"建築家","けんちくか","architect",37,26
+1617,"科学者","かがくしゃ","scientist",37,27
+1618,"漫画","まんが","comics",37,28
+1619,"世界中","せかいじゅう","all over the world",37,29
+1620,"～中","～じゅう","all over ~",37,30
+1621,,"～によって","by ~",37,31
+1622,,"よかったですね","That’s lucky, isn’t it",37,32
+1623,,"ドミニカ","Dominica",37,33
+1624,"源氏物語","げんじものがたり","“The Tale of Genji” (Japanese novel)",37,34
+1625,"紫式部","むらさきしきぶ","Heian Period (9th century) female novelist who wrote “The Tale of Genji” (973?-1014?)",37,35
+1626,,"グラハム・ベル","Alexander Graham Bell, American inventor (1847-1922)",37,36
+1627,"東照宮","とうしょうぐう","shrine dedicated to Tokugawa Ieyasu in Nikko, Tochigi Prefecture",37,37
+1628,"江戸時代","えどじだい","Edo Period (1603-1868)",37,38
+1629,,"サウジアラビア","Saudi Arabia",37,39
+1630,"埋め立てます","うめたてます","reclaim",37,40
+1631,"技術","ぎじゅつ","technology, technique",37,41
+1632,"土地","とち","land",37,42
+1633,"騒音","そうおん","noise",37,43
+1634,"利用します","りようします","use",37,44
+1635,,"アクセス","access",37,45
+1636,"豪華[な]","ごうか[な]","gorgeous",37,46
+1637,"彫刻","ちょうこく","engraving, carving, sculpture",37,47
+1638,"眠ります","ねむります","sleep",37,48
+1639,"彫ります","ほります","engrave, carve",37,49
+1640,"仲間","なかま","colleague, friend",37,50
+1641,,"そのあと","after that",37,51
+1642,"一生懸命","いっしょうけんめい","with all one’s effort",37,52
+1643,,"ねずみ","mouse",37,53
+1644,"一匹もいません","いっぴきもいません","There is not a single (mouse)",37,54
+1645,"眠り猫","ねむりねこ","The sleeping cat",37,55
+1646,"左甚五郎","ひだりじんごろう","famous Japanese sculptor of the Edo Period (1594-1651)",37,56
+1647,"育てます","そだてます","breed, bring up",38,1
+1648,"運びます","はこびます","carry, transport",38,2
+1649,"亡くなります","なくなります","pass away (euphemistic expression for しにます)",38,3
+1650,"入院します","にゅういんします","enter hospital",38,4
+1651,"退院します","たいいんします","leave hospital",38,5
+1652,"入れます[電源を～]","いれます[でんげんを～]","turn on (the power switch)",38,6
+1653,"切ります[電源を～]","きります[でんげん～
+]","turn off (the power switch)",38,7
+1654,"掛けます","かけます[かぎを～]","lock",38,8
+1655,"気持ちがいい","きもちがいい","pleasant, agreeable",38,9
+1656,"気持ちが悪い","きもちがわるい","unpleasant, disgusting",38,10
+1657,"大きな～","おおきな～","large ~",38,11
+1658,"小さな～","ちいさな～","small ~",38,12
+1659,"赤ちゃん","あかちゃん","baby",38,13
+1660,"小学校","しょうがっこう","elementary school",38,14
+1661,"中学校","ちゅうがっこう","junior high school",38,15
+1662,"駅前","えきまえ","the area in front of the station",38,16
+1663,"海岸","かいがん","seaside, seashore",38,17
+1664,,"うそ","lie, fib",38,18
+1665,"書類","しょるい","document, papers",38,19
+1666,"電源","でんげん","power switch",38,20
+1667,"～製","～せい","made in ~",38,21
+1668,,"[あ]いけない","Oops!/ Oh, no! (used when one has made a mistake)",38,22
+1669,"お先に[失礼します]","おさきに[しつれいします]","Excuse me (for leaving before you)",38,23
+1670,"原爆ドーム","げんばくドーム","dome commemorating the atomic bombing of Hiroshima",38,24
+1671,"回覧","かいらん","circular, sending around",38,25
+1672,"研究室","けんきゅうしつ","study room, professor’s office, laboratory",38,26
+1673,,"きちんと","neatly, tidily",38,27
+1674,"整理します","せいりします","put (things) in order, tidy up",38,28
+1675,"～という本","～というほん","the book titled ~, the book named ~",38,"2 9"
+1676,"～冊","～さつ","(counter for books, etc.)",38,30
+1677,,"はんこ","seal stamp",38,31
+1678,"押します","おします[はんこを～]","affix (a seal)",38,32
+1679,"双子","ふたご","twins",38,33
+1680,"姉妹","しまい","sisters",38,34
+1681,"５年生","５ねんせい","fifth grade, fifth year",38,35
+1682,"似ています","にています","resemble, be like",38,36
+1683,"性格","せいかく","character",38,37
+1684,,"おとなしい","quiet",38,38
+1685,"世話をします","せわをします","take care",38,39
+1686,"時間がたちます","じかんがたちます","time pass by",38,40
+1687,"大好き[な]","だいすき[な]","like very much",38,41
+1688,"～点","～てん","~ points",38,42
+1689,,"クラス","class",38,43
+1690,,"けんかします","quarrel, fight",38,44
+1691,"不思議[な]","ふしぎ[な]","mysterious, strange",38,45
+1692,"答えます[質問に～]","こたえます[しつもんに～]","answer (a question)",39,1
+1693,"倒れます","たおれます[ビルが～]","(a building) fall down",39,2
+1694,"焼けます
+ 
+ 
+[肉が～]","やけます
+[うちが～]
+[パンが～]
+[にくが～]"," 
+(a house) burn down
+(bread) be baked
+(meat) be roasted, be grilled
+ ",39,3
+1695,"通ります[道を～]","とおります[みちを～]","pass (a long street)",39,4
+1696,"死にます","しにます","die",39,5
+1697,,"びっくりします","be surprised",39,6
+1698,,"がっかりします","be disappointed",39,7
+1699,"安心します","あんしんします","be relieved",39,8
+1700,"遅刻します","ちこくします","be late, come late",39,9
+1701,"早退します","そうたいします","leave (work or school) earlier than usual",39,10
+1702,,"けんかします","quarrel, fight",39,11
+1703,"離婚します","りこんします","divorce",39,12
+1704,"複雑[な]","ふくざつ[な]","complicated, complex",39,13
+1705,"邪魔[な]","じゃま[な]","obstructive, in the way",39,14
+1706,"汚い","きたない","dirty",39,15
+1707,,"うれしい","glad, happy",39,16
+1708,"悲しい","かなしい","sad",39,17
+1709,"恥ずかしい","はずかしい","embarrassed, ashamed",39,18
+1710,"地震","じしん","earthquake",39,19
+1711,"台風","たいふう","typhoon",39,20
+1712,"火事","かじ","fire",39,21
+1713,"事故","じこ","accident",39,22
+1714,"[お]見合い","[お]みあい","interview with a view to marriage",39,23
+1715,"電話代","でんわだい","telephone charge",39,24
+1716,"～代","～だい","charge, fare, fee",39,25
+1717,,"フロント","front desk, reception desk",39,26
+1718,"～号室","～ごうしつ","room number ~",39,27
+1719,"汗","あせ[～をかきます]","perspiration (perspire)",39,28
+1720,,"タオル","towel",39,29
+1721,,"せっけん","soap",39,30
+1722,"大勢","おおぜい","a great number of people",39,31
+1723,"お疲れさまでした","おつかれさまでした","Thank you for your hard work (used to express appreciation for a colleague’s or subordinate’s work)",39,32
+1724,"伺います","うかがいます","I’m coming (humble way of saying いきます)",39,33
+1725,"途中で","とちゅうで","on the way, in the midst of",39,34
+1726,,"トラック","truck, lorry",39,35
+1727,,"ぶつかります","bump, collide",39,36
+1728,"並びます","ならびます","stand in a queue, line up",39,37
+1729,"大人","おとな","adult",39,38
+1730,"洋服","ようふく","Western clothes",39,39
+1731,"西洋化します","せいようかします","be Westernized",39,40
+1732,"合います","あいます","fit, suit",39,41
+1733,"今では","いまでは","now",39,42
+1734,"成人式","せいじんしき","coming-of-age celebration",39,43
+1735,"数えます","かぞえます","count",40,1
+1736,"測ります、量ります","はかります","measure, weigh",40,2
+1737,"確かめます","たしかめます","confirm, make sure",40,3
+1738,"合います","あいます[サイズが～]","(the size) fit",40,4
+1739,"出発します","しゅっぱつします","depart",40,5
+1740,"到着します","とうちゃくします","arrive",40,6
+1741,"酔います","よいます","get drunk",40,7
+1742,"危険[な]","きけん[な]","dangerous",40,8
+1743,"必要[な]","ひつよう[な]","necessary",40,9
+1744,"宇宙","うちゅう","space, universe",40,10
+1745,"地球","ちきゅう","earth",40,11
+1746,"忘年会","ぼうねんかい","year-end party",40,12
+1747,"新年会","しんねんかい","New Year’s party",40,13
+1748,"二次回","にじかい","second party",40,14
+1749,"大会","たいかい","mass meeting, convention",40,15
+1750,,"マラソン","marathon",40,16
+1751,,"コンテスト","contest",40,17
+1752,"表","おもて","face, front",40,18
+1753,"裏","うら","back (side)",40,19
+1754,"返事","へんじ","reply",40,20
+1755,"申し込み","もうしこみ","application",40,21
+1756,,"ほんとう","truth, fact",40,22
+1757,,"まちがい","mistake",40,23
+1758,"傷","きず","defect, wound, scratch",40,24
+1759,,"ズボン","trousers",40,25
+1760,"長さ","ながさ","length",40,26
+1761,"重さ","おもさ","weight",40,27
+1762,"高さ","たかさ","height",40,28
+1763,"大きさ","おおきさ","size, scale",40,29
+1764,"～便","～びん","flight, flight number",40,30
+1765,"～号","～ごう","train number, typhoon number, etc.",40,31
+1766,"～個","～こ","(counter for small objects)",40,32
+1767,"本","～ほん、ぼん、ぽん","(counter for long objects)",40,33
+1768,"杯","～はい、ばい、ぱい","glass or cup of (counter for full cups,  glasses, etc.)",40,34
+1769,,"キロ","kilograms, kilometers",40,35
+1770,,"グラム","grams",40,36
+1771,,"センチ","centimeters",40,37
+1772,,"ミリ","millimeters",40,38
+1773,"～以上","～いじょう","not less than ~, over ~",40,39
+1774,"～以下","～いか","no more than ~, under ~",40,40
+1775,,"さあ","well, let me see (used when unsure of something)",40,41
+1776,,"ゴッホ","Vincent van Gogh, Dutch painter (1853-90)",40,42
+1777,"雪祭り","ゆきまつり","Snow Festival in Sapporo",40,43
+1778,,"のぞみ","name of Shinkansen train",40,44
+1779,,"JL","Japan Airlines",40,45
+1780,,"どうでしょうか","How is ~ ? (polite way of saying どうですか)",40,46
+1781,,"クラス","class",40,47
+1782,,"テスト","text, examination",40,48
+1783,"成績","せいせき","performance, score, result",40,49
+1784,,"ところで","by the way",40,50
+1785,,"いっらしゃいます","come (respectful equivalent of きます)",40,51
+1786,"様子","ようす","situation, condition, appearance",40,52
+1787,"事件","じけん","incident, case",40,53
+1788,,"オートバイ","motorcycle",40,54
+1789,"爆弾","ばくだん","bomb",40,55
+1790,"積みます","つみます","load, pile up",40,56
+1791,"運転手","うんてんしゅ","driver",40,57
+1792,"離れた","はなれた","remote",40,58
+1793,"急に","きゅうに","suddenly",40,59
+1794,"動かします","うごかします","start, operate, move",40,60
+1795,"一生懸命","いっしょうけんめい","will all one’s effort",40,61
+1796,"犯人","はんにん","suspect, criminal",40,62
+1797,"手に入れます","てにいれます","obtain, get",40,63
+1798,"今でも","いまでも","even now",40,64
+1799,,"うわさします","gossip",40,65
+1800,,"いただきます","receive (humble equivalent ofもらいます)",41,1
+1801,,"くださいます","give (respectful equivalent ofくれます)",41,2
+1802,,"やります","give (to a younger person or subordinate)",41,3
+1803,"呼びます","よびます","invite",41,4
+1804,"取り替えます","とりかえます","exchange",41,5
+1805,"親切にします","しんせつにします","be kind to",41,6
+1806,,"かわいい","lovely, cute",41,7
+1807,"お祝い","おいわい","celebration, gift",41,8
+1808,"お年玉","おとしだま","money given as New Year’s gift",41,9
+1809,"[お]見舞い","[お]みまい","expression of sympathy, consolatory gift to a sick person",41,10
+1810,"興味","きょうみ","interest",41,11
+1811,"情報","じょうほう","information",41,12
+1812,"文法","ぶんぽう","grammar",41,13
+1813,"発音","はつおん","pronunciation",41,14
+1814,,"さる","ape, monkey",41,15
+1815,,"えさ","feed, bait",41,16
+1816,,"おもちゃ","toy",41,17
+1817,"絵本","えほん","picture book",41,18
+1818,"絵はがき","えはがき","picture postcard",41,19
+1819,,"ドライバー","screwdriver",41,20
+1820,,"ハンカチ","handkerchief",41,21
+1821,"靴下","くつした","socks, stockings",41,22
+1822,"手袋","てぶくろ","gloves",41,23
+1823,"指輪","ゆびわ","ring",41,24
+1824,,"バッグ","bag",41,25
+1825,"祖父","そふ","(my) grandfather",41,26
+1826,"祖母","そぼ","(my) grandmother",41,27
+1827,"孫","まご","grandchild",41,28
+1828,,"おじ","(my) uncle",41,29
+1829,,"おじさん","(someone else’s) uncle",41,30
+1830,,"おば","(my) aunt",41,31
+1831,,"おばさん","(someone else’s) aunt",41,32
+1832,,"おととし","the year before last",41,33
+1833,,"はあ","yes, I see",41,34
+1834,"申し訳ありません","もうしわけありません","I’m sorry / Excuse me",41,35
+1835,"預かります","あずかります","keep, receive (a thing) in trust",41,36
+1836,"先日","せんじつ","the other day",41,37
+1837,"助かります","たすかります","be of help",41,38
+1838,"昔話","むかしばなし","old tale, folklore",41,39
+1839,,"ある～","a certain ~, one ~",41,40
+1840,"男","おとこ","man",41,41
+1841,"子どもたち","こどもたち","children",41,42
+1842,,"いじめます","bully, abuse, ill-treat",41,43
+1843,,"かめ","turtle, tortoise",41,44
+1844,"助けます","たすけます","save, help",41,45
+1845,"[お]城","[お]しろ","castle",41,46
+1846,"お姫様","おひめさま","princess",41,47
+1847,"楽しく","たのしく","happily, merrily",41,48
+1848,"暮らします","くらします","live, lead a life",41,49
+1849,"陸","りく","land, shore",41,50
+1850,,"すると","and, then",41,51
+1851,"煙","けむり","smoke",41,52
+1852,"真っ白[な]","まっしろ[な]","pure white",41,53
+1853,"中身","なかみ","content",41,54
+1854,"包みます","つつみます","wrap",42,1
+1855,"沸かします","わかします","boil",42,2
+1856,"混ぜます","まぜます","mix",42,3
+1857,"計算します","けいさんします","calculate",42,4
+1858,"厚い","あつい","thick",42,5
+1859,"薄い","うすい","thin",42,6
+1860,"弁護士","べんごし","lawyer, attorney",42,7
+1861,"音楽家","おんがくか","musician",42,8
+1862,"二人","ふたり","couple",42,9
+1863,"教育","きょういく","education",42,10
+1864,"歴史","れきし","history",42,11
+1865,"文化","ぶんか","culture",42,12
+1866,"社会","しゃかい","society",42,13
+1867,"法律","ほうりつ","law",42,14
+1868,"戦争","せんそう","war",42,15
+1869,"平和","へいわ","peace",42,16
+1870,"目的","もくてき","purpose",42,17
+1871,"安全","あんぜん","safety",42,18
+1872,"論文","ろんぶん","thesis, academic paper",42,19
+1873,"関係","かんけい","relation, connection",42,20
+1874,,"ミキサー","mixer, blender",42,21
+1875,,"やかん","kettle",42,22
+1876,"栓抜き","せんねき","cap opener",42,23
+1877,"缶切り","かんきり","can opener",42,24
+1878,"缶詰","かんづめ","canned food, tinned food",42,25
+1879,,"ふろしき","wrapping cloth used to carry things",42,26
+1880,,"そろばん","abacus",42,27
+1881,"体温計","たいおんけい","(clinical) thermometer",42,28
+1882,"材料","ざいりょう","material, ingredient",42,29
+1883,"石","いし","stone",42,30
+1884,,"ピラミッド","pyramid",42,31
+1885,,"データ","date",42,32
+1886,,"ファイル","file",42,33
+1887,"国連","こくれん","United Nations",42,34
+1888,,"エリーゼのために","For Elise",42,35
+1889,,"ベートーベン","Ludwig van Beethoven, German composer (1770-1827)",42,36
+1890,,"ポーランド","Poland",42,37
+1891,,"ローン","loan",42,38
+1892,,"セット","set",42,39
+1893,,"あと","the amount left unused, the rest",42,40
+1894,,"カップラーメン","instant Chinese noodles sold in a ready-to-use disposable container",42,41
+1895,,"インスタントラーメン","instant Chinese noodles",42,42
+1896,,"なべ","pan, pot",42,43
+1897,,"どんぶり","porcelain bowl, bowl of rice with food on top",42,44
+1898,"食品","しょくひん","food",42,45
+1899,"調査","ちょうさ","investigation, survey",42,46
+1900,,"カップ","cup",42,47
+1901,,"また","and",42,48
+1902,"～の代わりに","～のかわりに","in place of ~, instead of ~",42,49
+1903,,"どこでも","in any place",42,50
+1904,"今では","いまでは","now",42,51
+1905,"増えます[輸出が～]","ふえます[ゆしゅつが～]","(exports) increase",43,1
+1906,"減ります[輸出が～]","へります[ゆしゅつが～]","(exports) decrease",43,2
+1907,"上がります[値段が～]","あがります[ねだんが～]","(the price) rise",43,3
+1908,"下がります[値段が～]","さがります[ねだんが～]","(the price) fall",43,4
+1909,"切れます","きれます[ひもが～]","(a string) break, snap",43,5
+1910,,"とれます[ボタンが～]","(a button) come off",43,6
+1911,"落ちます[荷物が～]","おちます[にもつが～]","(baggage) fall down",43,7
+1912,,"なくなります[ガソリンが～]","(petrol, gasoline) run out, be lost",43,8
+1913,"丈夫[な]","じょうぶ[な]","strong, healthy",43,9
+1914,"変[な]","へん[な]","strange, peculiar",43,10
+1915,"幸せ[な]","しあわせ[な]","happy",43,11
+1916,,"うまい","tasty, good at",43,12
+1917,,"まずい","not tasty",43,13
+1918,,"つまらない","boring, uninteresting",43,14
+1919,,"ガソリン","petrol, gasoline",43,15
+1920,"火","ひ","fire",43,16
+1921,"暖房","だんぼう","heating",43,17
+1922,"冷房","れいぼう","air-conditioning",43,18
+1923,,"センス（[ふくの]～があります）","taste, sense (have good taste in [clothing])",43,19
+1924,"今にも","いまにも","at any moment (used to describe a situation just before it changes)",43,20
+1925,,"わあ","Oh! / Wow!",43,21
+1926,"会員","かいいん","member",43,22
+1927,"適当[な]","てきとう[な]","suitable, proper",43,23
+1928,"年齢","ねんれい","age",43,24
+1929,"収入","しゅうにゅう","income",43,25
+1930,,"ぴったり","exactly, just right",43,26
+1931,,"そのうえ","in addition to that, moreover",43,27
+1932,,"～といいます","(one’s name) is ~",43,28
+1933,,"ばら","rose",43,29
+1934,,"ドライブ","driving",43,30
+1935,"泣きます","なきます","cry",44,1
+1936,"笑います","わらいます","laugh, smile",44,2
+1937,"乾きます","かわきます","dry",44,3
+1938,"濡れます","ぬれます","get wet",44,4
+1939,"滑ります","すべります","slip",44,5
+1940,"起きます[事故が～]","おきます[じこが～]","(an accident) happen",44,6
+1941,"調節します","ちょうせつします","adjust",44,7
+1942,"安全[な]","あんぜん[な]","safe",44,8
+1943,"丁寧[な]","ていねい[な]","polite, courteous, careful",44,9
+1944,"細かい","こまかい","small, fine",44,10
+1945,"濃い","こい","strong (taste), dark (color)",44,11
+1946,"薄い","うすい","weak (taste), light (color)",44,12
+1947,"空気","くうき","air",44,13
+1948,"涙","なみだ","tear",44,14
+1949,"和食","わしょく","Japanese dish",44,15
+1950,"洋食","ようしょく","Western dish",44,16
+1951,,"おかず","side dish",44,17
+1952,"量","りょう","quantity",44,18
+1953,"～倍","～ばい","times",44,19
+1954,"半分","はんぶん","half",44,20
+1955,,"シングル","single room",44,21
+1956,,"ツイン","twin-bedded room",44,22
+1957,,"たんす","chest of drawers",44,23
+1958,"洗濯物","せんたくもの","washing, laundry",44,24
+1959,"理由","りゆう","reason",44,25
+1960,,"どうなさいますか","What can I do for you?",44,26
+1961,,"カット","haircut",44,27
+1962,,"シャンプー","shampoo",44,28
+1963,,"どういうふうになさいますか","How would you like it done?",44,29
+1964,,"ショート","short",44,30
+1965,,"～みたいにしてください","Do it like ~",44,31
+1966,,"これでよろしいでしょうか","Would this be all right?",44,32
+1967,,"[どうも]おつかれさまでした","Thank you for being patient",44,33
+1968,"嫌がります","いやがります","dislike",44,34
+1969,,"また","and",44,35
+1970,"順序","じゅんじょ","order",44,36
+1971,"表現","ひょうげん","expression",44,37
+1972,"例えば","たとえば","for example",44,38
+1973,"別れます","わかれます","part, separate",44,39
+1974,,"これら","these things",44,40
+1975,"縁起が悪い","えんぎがわるい","unlucky, ill-omened",44,41
+1976,"謝ります","あやまります","apologize",45,1
+1977,"[事故～]","あいます[じこに～]","encounter (an accident)",45,2
+1978,"信じます","しんじます","believe, trust",45,3
+1979,"用意します","よういします","prepare",45,4
+1980,,"キャンセルします","cancel",45,5
+1981,,"うまくいきます","go well",45,6
+1982,"保証書","ほしょうしょ","guarantee",45,7
+1983,"領収書","りょうしゅうしょ","receipt",45,8
+1984,"贈り物","おくりもの[～をします]","gift, present (give a present)",45,9
+1985,"まちがい電話","まちがいでんわ","wrong (telephone) number",45,10
+1986,,"キャンプ","camp",45,11
+1987,"係","かかり","person in charge",45,12
+1988,"中止","ちゅうし","calling off, cancelling, suspension",45,13
+1989,"点","てん","point, score",45,14
+1990,,"レバー","lever",45,15
+1991,"[～円]札","[～えん]さつ","(~ yen) note, bill",45,16
+1992,,"ちゃんと","regularly, properly",45,17
+1993,"急に","きゅうに","suddenly",45,18
+1994,"楽しみにしています","たのしみにしています","be looking forward to, be expecting",45,19
+1995,"以上です","いじょうです","That’s all",45,20
+1996,"係員","かかりいん","person in charge, attendant",45,21
+1997,,"コース","course",45,22
+1998,,"スタート","start",45,23
+1999,"～位","～い","~ th (ranking)",45,24
+2000,"優勝します","ゆうしょうします","win the championship",45,25
+2001,"悩み","なやみ","trouble, worry",45,26
+2002,"目覚まし[時計]","めざまし[どけい]","alarm clock",45,27
+2003,"眠ります","ねむります","sleep",45,28
+2004,"目が覚めます","めがさめます","wake up",45,29
+2005,"大学生","だいがくせい","university student",45,30
+2006,"回答","かいとう","answer, reply",45,31
+2007,"鳴ります","なります","ring",45,32
+2008,,"セットします","set",45,33
+2009,,"それでも","nevertheless, for all that",45,34
+2010,"焼きます","やきます","bake, grill, toast",46,1
+2011,"渡します","わたします","hand over",46,2
+2012,"帰って来ます","かえってきます","come back",46,3
+2013,"出ます","でます[バスが～]","(a bus) leave, depart",46,4
+2014,"留守","るす","absence",46,5
+2015,"宅配便","たくはいびん","delivery service",46,6
+2016,"原因","げんいん","cause",46,7
+2017,"注射","ちゅうしゃ","injection",46,8
+2018,"食欲","しょくよく","appetite",46,9
+2019,,"パンフレット","pamphlet",46,10
+2020,,"ステレオ","stereo",46,11
+2021,,"こちら","my place, my side",46,12
+2022,"～の所","～のところ","the place around ~",46,13
+2023,,"ちょうど","just, exactly",46,14
+2024,"たった今","たったいま","just now (used with the past tense; indicates completion)",46,15
+2025,"今いいでしょうか","いまいいでしょうか","May I bother you now?",46,16
+2026,,"ガスサービスセンター","gas service center",46,17
+2027,,"ガスレンジ","gas range, gas cooker",46,18
+2028,"具合","ぐあい","condition",46,19
+2029,"どちら様でしょうか","どちらさまでしょうか","Who is this, please?",46,20
+2030,"向かいます","むかいます","head for",46,21
+2031,"お待たせしました","おまたせしました","Sorry to have kept you waiting",46,22
+2032,"知識","ちしき","knowledge",46,23
+2033,"宝庫","ほうこ","treasury",46,24
+2034,"手に入ります[情報が～]","てにはいります[じょうほうが～]","(information) come in, reach",46,25
+2035,,"システム","system",46,26
+2036,"例えば","たとえば","for example",46,27
+2037,,"キーワード","key word",46,28
+2038,"一部分","いちぶぶん","one part",46,29
+2039,"入力します","にゅうりょくします","input",46,30
+2040,"秒","びょう","second",46,31
+2041,"出ます[本が～]","でます[ほんが～]","(a book) be published",46,32
+2042,"集まります[人が～]","あつまります[ひとが～]","(people) gather",47,1
+2043,"別れます[人が～]","わかれます[ひとが～]","(people) part, separate",47,2
+2044,"長生きします","ながいきします","live long",47,3
+2045," 
+[音/声が～]
+[味が～]
+ ","します
+[おと/こえが～]
+[あじが～]
+[においが～]"," 
+(song/voice) be heard
+taste
+smell
+ ",47,4
+2046,"[傘を～]","さします[かさを～]","put up (an umbrella)",47,5
+2047,,"ひどい","terrible, severe",47,6
+2048,"怖い","こわい","frightening, horrible",47,7
+2049,"天気予報","てんきよほう","weather forecast",47,8
+2050,"発表","はっぴょう","announcement, presentation",47,9
+2051,"実験","じっけん","experiment",47,10
+2052,"人口","じんこう","population",47,11
+2053,,"におい","smell",47,12
+2054,"科学","かがく","science",47,13
+2055,"医学","いがく","medicine, medical science",47,14
+2056,"文学","ぶんがく","literature",47,15
+2057,,"パトカー","patrol car",47,16
+2058,"救急車","きゅうきゅうしゃ","ambulance",47,17
+2059,"賛成","さんせい","approval, agreement",47,18
+2060,"反対","はんたい","objection, opposition",47,19
+2061,"男性","だんせい","male, man",47,20
+2062,"女性","じょせい","female, woman",47,21
+2063,,"どうも","it appears that (used when making a tentative judgement)",47,22
+2064,,"～によると","according to ~ (indicate the source of information)",47,23
+2065,"[島]","バリ[とう]","Bali (island) (in Indonesia)",47,24
+2066,,"イラン","Iran",47,25
+2067,,"カリフォルニア","California (in the USA)",47,26
+2068,,"グアム","Guam",47,27
+2069,"恋人","こいびと","sweetheart, girlfriend, boyfriend",47,28
+2070,"婚約します","こんやくします","get engaged",47,29
+2071,"相手","あいて","the other person",47,30
+2072,"知り合います","しりあいます","get acquainted",47,31
+2073,"平均寿命","へいきんじゅみょう","average lifespan",47,32
+2074,"比べます[男性と～]","くらべます[だんせいと～]","compare (with men)",47,33
+2075,"博士","はかせ","doctor",47,34
+2076,"脳","のう","brain",47,35
+2077,,"ホルモン","hormone",47,36
+2078,"化粧品","けしょうひん","cosmetics",47,37
+2079,"調べ","しらべ","survey, research",47,38
+2080,"化粧","けしょう[～をします]","makeup (put on makeup)",47,39
+2081,"降ろします，下ろします","おろします","put down, lower",48,1
+2082,"届けます","とどけます","deliver, report",48,2
+2083,"世話をします","せわをします","take care of  ~",48,3
+2084,"嫌[な]","いや[な]","unwilling, reluctant",48,4
+2085,"厳しい","きびしい","strict, hard",48,5
+2086,"塾","じゅく","cram school",48,6
+2087,,"スケジュール","schedule",48,7
+2088,"生徒","せいと","pupil",48,8
+2089,"者","もの","person (referring to one’s relatives or subordinates)",48,9
+2090,"入管","にゅうかん","Immigration Bureau",48,10
+2091,"再入国ビザ","さいにゅうこくビザ","re-entry visa",48,11
+2092,"自由に","じゆうに","freely",48,12
+2093,"～間","～かん","for ~ (referring to duration)",48,13
+2094,,"いいことですね","That’s good",48,14
+2095,"お忙しいですか","おいそがしいですか","Are you busy? (used when talking to someone senior or older)",48,15
+2096,"久しぶり","ひさしぶり","after a long time",48,16
+2097,"営業","えいぎょう","business, sales",48,17
+2098,,"これまでに","by that time",48,18
+2099,,"かまいません","It’s all right / It doesn’t matter",48,19
+2100,"楽しみます","たのしみます","enjoy yourself",48,20
+2101,,"もともと","originally",48,21
+2102,"～世紀","～せいき","~ th century",48,22
+2103,"代わりをします","かわりをします","be a substitute, be a replacement",48,23
+2104,,"スピード","speed",48,24
+2105,"競走します","きょうそうします","race",48,25
+2106,,"サーカス","circus",48,26
+2107,"芸","げい","performance, trick",48,27
+2108,"美しい","うつくしい","beautiful",48,28
+2109,"姿","すがた","figure, appearance",48,29
+2110,"心","こころ","heart, mind",48,30
+2111,,"とらえます","catch",48,31
+2112,,"～にとって","for ~",48,32
+2113,"勤めます[会社に～]","つとめます[かいしゃに～]","work (for a company)",49,1
+2114,"休みます","やすみます","go to bed, sleep",49,2
+2115,"掛けます","かけます[いすに～]","sit on (a chair)",49,3
+2116,"過ごします","すごします","spend (time), pass (time)",49,4
+2117,"寄ります[銀行に～]","よります[ぎんこうに～]","drop into (a bank)",49,5
+2118,,"いらっしゃいます","be, go, come (respectful equivalent of います, いきますandきます)",49,6
+2119,"召し上がります","めしあがります","eat, drink (respectful equivalent of たべますand のみます)",49,7
+2120,,"おっしゃいます","say (respectful equivalent of いいます)",49,8
+2121,,"なさいます","do (respectful equivalent of します)",49,9
+2122,"ご覧になります","ごらんになります","see, look at (respectful equivalent of みます)",49,10
+2123,"ご存じです","ごぞんじです","know (respectful equivalent of しっています)",49,11
+2124,,"あいさつ[～をします]","greeting, address (greet, give an address)",49,12
+2125,"灰皿","はいざら","ashtray",49,13
+2126,"旅館","りょかん","Japanese-style hotel or inn",49,14
+2127,"会場","かいじょう","meeting place, hall",49,15
+2128,"バス停","バスてい","bus stop",49,16
+2129,"貿易","ぼうえき","trade",49,17
+2130,"～様","～さま","(respectful equivalent of ～さん)",49,18
+2131,"帰りに","かえりに","on the way back",49,19
+2132,,"たまに","once in a while",49,20
+2133,,"ちょっとも","not at all (used with negatives)",49,21
+2134,"遠慮なく","えんりょなく","without reserve, without hesitation",49,22
+2135,"～年～組","～ねん～くみ","class ~ of ~ th grade",49,23
+2136,,"では","well, then (polite equivalent of じゃ)",49,24
+2137,"出します[熱を～]","だします[ねつを～]","run (a fever)",49,25
+2138,"よろしくお伝えください","よろしくおつたえください","Give my best regards / Please say hello",49,26
+2139,"失礼いたします","しつれいいたします","Good-bye (humble equivalent ofしつれいします )",49,27
+2140,"ひまわり小学校","ひまわりしょうがっこう","fictitious elementary school",49,28
+2141,"講師","こうし","lecturer",49,29
+2142,"多くの～","おおくの～","many ~, much ~",49,30
+2143,"作品","さくひん","work (of art, etc.)",49,31
+2144,"受賞します","じゅしょうします","be awarded a prize",49,32
+2145,"世界的に","せかいてきに","world-wide",49,33
+2146,"作家","さっか","novelist, writer",49,34
+2147,,"～でいらっしゃいます","be (respectful equivalent of です)",49,35
+2148,"長男","ちょうなん","one’s eldest son",49,36
+2149,"障害","しょうがい","handicap, defect",49,37
+2150,"お持ちです","おもちです","have (equivalent way of saying もっています)",49,38
+2151,"作曲","さっきょく","composition (music)",49,39
+2152,"活動","かつどう","activity",49,40
+2153,,"それでは","well, so (indicating an end or beginning)",49,41
+2154,"大江健三郎","おおえけんざぶろう","Japanese novelist (1935 – )",49,42
+2155,"東京大学","とうきょうだいがく","Tokyo University",49,43
+2156,"ノーベル文学賞","ノーベルぶんがくしょう","Nobel Prize for literature",49,44
+2157,"参ります","まいります","go, come (humble equivalent of いきますand きます)",50,1
+2158,,"おります","be (humble equivalent of います)",50,2
+2159,,"いただきます","eat, drink, receive (humble equivalent of たべます, のみますand もらいます)",50,3
+2160,"申します","もうします","say (humble equivalent of いいます)",50,4
+2161,,"いたします","do (humble equivalent of します)",50,5
+2162,"拝見します","はいけんします","see (humble equivalent of みます)",50,6
+2163,"存じます","ぞんじます","know (humble equivalent of しります)",50,7
+2164,"伺います","うかがいます","ask, hear, visit (humble equivalent of ききますandいきます )",50,8
+2165,"お目にかかります","おめにかかります","meet (humble equivalent of あいます)",50,9
+2166,,"ございます","be (polite equivalent of あります)",50,10
+2167,,"～でございます","be (polite equivalent of ～です)",50,11
+2168,"私","わたくし","I (humble equivalent of わたし)",50,12
+2169,,"ガイド","guide",50,13
+2170,"お宅","おたく","someone else’s house",50,14
+2171,"郊外","こうがい","suburbs",50,15
+2172,,"アルバム","album",50,16
+2173,"さ来週","さらいしゅう","the week after next",50,17
+2174,"さ来月","さらいげつ","the month after next",50,18
+2175,"さ来年","さらいねん","the year after next",50,19
+2176,"半年","はんとし","half a year",50,20
+2177,"最初に","さいしょに","first of all",50,21
+2178,"最後に","さいごに","lastly",50,22
+2179,"ただ今","ただいま","now",50,23
+2180,"江戸東京博物館","えどとうきょうはくぶつかん","Edo-Tokyo Museum",50,24
+2181,"緊張します","きんちょうします","become tense, be strained",50,25
+2182,"放送します","ほうそうします","broadcast",50,26
+2183,"撮ります","とります[ビデオに～]","record (on video)",50,27
+2184,"賞金","しょうきん","prize money",50,28
+2185,"自然","しぜん","nature",50,29
+2186,,"きりん","giraffe",50,30
+2187,"象","ぞう","elephant",50,31
+2188,,"ころ","times, days",50,32
+2189,"[夢が～]","かないます[ゆめが～]","(dream) be realized",50,33
+2190,,"ひとことよろしいでしょうか","May I say one word?",50,34
+2191,"協力します","きょうりょくします","cooperate",50,35
+2192,"心から","こころから","from my heart",50,36
+2193,"感謝します","かんしゃします","be grateful, be thankful",50,37
+2194,"[お]礼","[お]れい","gratitude, thanks",50,38
+2195,"拝啓","はいけい","Dear ~",50,39
+2196,"美しい","うつくしい","beautiful",50,40
+2197,"お元気でいらっしゃいますか","おげんきでいらっしゃいますか","How are you doing? (respectful equivalent of おげんきですか)",50,41
+2198,"迷惑をかけます","めいわくをかけます","trouble, annoy, inconvenience",50,42
+2199,"生かします","いかします","make good use of",50,43
+2200,"[お]城","[お]しろ","castle",50,44
+2201,"敬具","けいぐ","Sincerely yours",50,45
+,,"ミュンヘン","Munich (in Germany)",50,46
