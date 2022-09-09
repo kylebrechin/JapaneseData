@@ -1,356 +1,270 @@
 
 CURRENTLY WORKING ON: 91
 
-2-1.  
- 
- 
-
- 
-2-2.  
- 
- 
- 
-2-3.  
- 
- 
- 
- 
-2-4.  
- 
- 
- 
- 
-2-5.  
- 
- 
- 
- 
-2-6.  
+.  
  
  
  
 
-2-7.  
- 
- 
-
-2-8.  
+.  
  
  
  
 
-2-9.  
+.  
  
  
- (87) 
-
-2-10.  
+ 
+.  
  
  
- (7) 
+ 
+
+.  
+ 
+ 
+ 
+
+.  
+ 
+ 
+ 
+
+.  
+ 
+ 
+ 
 
 
-3-1.  
-二日ごとに。 
-二日(ふつか)　ごと　に。 
-Every other day. 
-「〜に」 [time of occurrence]: DJG v1 p289 & 303. 
-3-2.  
-これを二つあげます。 
-これ　を　二つ(ふたつ)　あげます。 
-I'll give you two of these. 
-「〜を」 [indicates direct object]: DJG v1 p347; Genki ch3; Marx v1 day9. 
-「Counters」 : DJG v1 p604; Genki ch9; Marx v1 day81. 
-「あげる」 {上げる* 41} ["give (to someone)"]: DJG v1 p63; Genki ch14; Marx v2 day30. 
-3-3.  
-みかんを二つください。 
-みかん　を　二つ(ふたつ)　ください。 
-Two tangerines please. 
-3-4.  
-はなしが一つ二つあります。 
-はなし　が　一つ(ひとつ)　二つ(ふたつ)　あります。 
-I have a couple of things to speak with you about. 
-「ある」 {有る　400} ["exist"; "have"]: DJG v1 p73. 
-3-5.  
-ジムとジョージはうり二つだ。 
-ジム　と　ジョージ　は　うり二つ(うりふたつ)　だ。 
-Jim and George are exactly alike (うり二つ　= a pair of melons). 
-「と」 ["and" within an exhaustive list; cf. や]: DJG v1 p473; Genki ch4; Marx v1 day57. 
-「AはBだ」 ["A is B"]: DJG v1 p521; Genki ch1; Marx v1 day8. 
-3-6.  
-トムは一も二もなくひきうけた。 
-トム　は　一(いち)　も　二(に)　も　なく　ひきうけた。 
-Tom readily [unhesitatingly] accepted. 
-「〜も〜も」 ["both __ and __"; "neither __ nor __"]: DJG v1 p255, v2 p185; Marx v2 day14; Tobira ch6 #3. 
-「Past tense verbs」 : DJG v1 p576; Genki ch4&9; Marx v1 day31. 
-3-7.  ラクダには一つか二つのこぶがある。 ラクダ　に　は　一つ(ひとつ)　か　二つ(ふたつ)　の　こぶ　が　ある。 Camels have either one or two humps (こぶ). (87) 
-「〜に」 [location of existence]: DJG v1 p299 & 303. 
-「の」 [marks end of modifying phrase]: DJG v1 p312; Genki ch10. 
-「ある」 {有る　400} ["exist"; "have"]: DJG v1 p73.
+.  
+ 
+ 
+ 
+ 
+.  
+ 
+ 
+ 
+.  
+ 
+ 
+ 
 
-4-1.  
-まだ三日あります。 
-まだ　三日(みっか)　あります。 
-We still have three days. 
-「まだ〜」 ["still __"; "not yet __"]: DJG v1 p224; Genki ch9; Marx v1 day87. 
-4-2.  
-これを三つください。 
-これ　を　三つ(みっつ)　ください。 
-I'd like three of these please. (87) 
-4-3.  
-二、三日のあいだには、…… 
-二、三日(に、さんにち)　の　あいだ　に　は、…… 
-In just a few days, … 
-「の」 [marks end of modifying phrase]: DJG v1 p312; Genki ch10. 
-「〜あいだに」 {〜間に　448} ["while __"]: DJG v1 p67; Genki ch21; Marx v1 day88. 
-「〜に」 [time of occurrence]: DJG v1 p289 & 303. 
-4-4.  
-まだ三グラムたりません。 
-まだ　三(さん)　グラム　たりません。 
-It's still three grams short. 
-「まだ〜」 ["still __"; "not yet __"]: DJG v1 p224; Genki ch9; Marx v1 day87. 
-4-5.  
-ここ二、三日はあたたかいです。 
-ここ　二、三日(に、さんにち)　は　あたたかい　です。 
-It's been warm the last few days. (87) 
-「AはBだ」 ["A is B"]: DJG v1 p521; Genki ch1; Marx v1 day8. 
-4-6.  
-もう三日もログインしていません。 
-もう　三日(みっか)　も　ログイン　して　いません。 
-It's already three days since I've logged in. 
-「もう〜」 [changed state]: DJG v1 p254; Marx v1 day87. 
-「Irregular verb: する」 : DJG v1 p5 
-「-ている」 ["be __ing"; "have (done) __"]: DJG v1 p155; Genki ch7; Marx v1 day36. 
+.  
+ 
+ 
+ 
+ 
+.  
+ 
+ 
+ 
+ 
+.  
+ 
+ 
+ 
+ 
 
-5-1.  
-十ぶんだ。 
-十ぶん(じゅうぶん)　だ。 
-That's plenty. 
-5-2.  
-二十キロやせた。 
-二十(にじゅっ)　キロ　やせた。 
-I lost twenty kilos. 
-「Numerals」 : DJG v1 p602; Genki ch1-2; Marx v1 day
-「Past tense verbs」 : DJG v1 p576; Genki ch4&9; Marx v1 day31. 
-5-3.  
-二十になりました。 
-二十(はたち)　に　なりました。 
-I've turned twenty. 
-「Past tense verbs」 : DJG v1 p576; Genki ch4&9; Marx v1 day31. 
-5-4.  
-きょうは十日です。 
-きょう　は　十日(とおか)　です。 
-Today is the 10th. 
-「AはBだ」 ["A is B"]: DJG v1 p521; Genki ch1; Marx v1 day8. 
-5-5.  
-一から十までうるさい！ 
-一(いち)　から　十(じゅう)　まで　うるさい！ 
-I don't need all those details! 
-「〜から〜まで」 ["from __ to __"]: DJG v2 p99. 
-5-6.  
-一から十まで一々うるさい。 
-一(いち)　から　十(じゅう)　まで　一々(いちいち)　うるさい。 
-Fussy about every little thing. 
-5-7.  
-トムは一をきいて十をしる。 
-トム　は　一(いち)　を　きいて　十(じゅう)　を　しる。 
-Tom can deduce a lot of information from the smallest clue. 
-「〜を」 [indicates direct object]: DJG v1 p347; Genki ch3; Marx v1 day9. 
-「-て　/ -で」 [connective form of verbs]: DJG v1 p464, v2 p64 of front matter; Genki ch6; Marx v1 day30. 
-5-8.  
-一から十までいわないとわからないの？ 
-一(いち)　から　十(じゅう)　まで　いわない　と　わからない　の？ 
-Must I spell out every little thing? 
-「〜と」 ["if __"; "when __"]: DJG v1 p480; Genki ch18; Marx v2 day24. 
-「わかる」 {分かる　88} ["understand"]: DJG v1 p529. 
-「の(?)」 [female: question marker]: DJG v1 p48; Marx v1 day11. 
-5-9.  
-かれはそれに十シリング十一ペンスついやした。 
-かれ　は　それ　に　十(じゅう)　シリング　十一(じゅういち)　ペンス　ついやした。 
-It had cost him ten and elevenpence. (51) 
+.  
+ 
+ 
+ 
+.  
+ 
+ 
+ 
 
-6-1.  
-四つんばい。 
-四つんばい(よつんばい)。 
-On all fours. 
-6-2.  
-四日ぶりです。 
-四日(よっか)ぶり　です。 
-It's been four days. 
-「-ぶり」 {-振り* 903} ["for the first time in __"]: DJG v2 p343 (covered under -らい). 
-6-3.  
-四ミリながいです。 
-四(よん)　ミリ　ながい　です。 
-It's four millimeters too long. 
-6-4.  
-四グラムにしてください。 
-四(よん)　グラム　に　して　ください。 
-Please make it four grams. 
-「Irregular verb: する」 : DJG v1 p5
-「〜にする」 ["opt for __"]: DJG v1 p310; Marx v2 day80. 
-「-てください」 {-て下さい　40} ["please __"]: DJG v1 p209; Genki ch6. 
-6-5.  
-ドーナツを四つください。 
-ドーナツ　を　四つ(よっつ)　ください。 
-I'll have four doughnuts please. 
-6-6.  
-四かくいテーブルがほしい。 
-四かくい(しかくい)　テーブル　が　ほしい。 
-I want a square table. 
-「〜がほしい」 {〜が欲しい　1035} ["want __"]: DJG v1 p144; Genki ch14; Marx v1 day48. 
-6-7.  
-四ぶんの一がイギリスじん。 
-四(よん)ぶん　の　一(いち)　が　イギリス　じん。 
-A quarter are English. 
-「の」 [marks end of modifying phrase]: DJG v1 p312; Genki ch10. 
+.  
+ 
+ 
+ 
+ 
+.  
+ 
+ 
+ 
+ 
+.  
+ 
+ 
+ 
+ 
+.  
+ 
+ 
+ 
+.  
+ 
+ 
+ 
+ 
+.  
+ 
+ 
+ 
+ 
+.  
+ 
+ 
+ 
 
-7-1.  
-バナナを五つください。 
-バナナ　を　五つ(いつつ)　ください。 
-Five bananas please. 
-7-2.  
-二十五リットルあります。 
-二十(にじゅう)　五(ご)　リットル　あります。 
-We've got 25 liters. 
-7-3.  
-とうとう、十五になりました。 
-とうとう、　十五(じゅうご)　に　なりました。 
-At last her fifteenth birthday came. (55) 
-「とうとう〜」 ["finally __"]: DJG v2 p528; Tobira ch8 #17. 
-「Past tense verbs」 : DJG v1 p576; Genki ch4&9; Marx v1 day31. 
-7-4.  
-ハンバーガーを五つください。 
-ハンバーガー　を　五つ(いつつ)　ください。 
-Five hamburgers please. 
-7-5.  
-ネロは十五で、アロアは十二だ。 
-ネロ　は　十五(じゅうご)　で、　アロア　は　十二(じゅうに)　だ。 
-Nello is fifteen now, and Alois is twelve. (29) 
-「AはBだ」 ["A is B"]: DJG v1 p521; Genki ch1; Marx v1 day8. 
-「-て　/ -で」 [connective form of verbs]: DJG v1 p464, v2 p64 of front matter; Genki ch6; Marx v1 day30. 
-7-6.  
-アントワープまでは五マイルありました。 
-アントワープ　まで　は　五(ご)　マイル　ありました。 
-Antwerp was a good five miles off. (29) 
-「〜まで」 {〜迄** 1806} ["until __"]: DJG v1 p225; Genki ch23. 
+.  
+ 
+ 
+ 
+.  
+ 
+ 
+ 
+ 
+.  
+ 
+ 
+ 
+.  
+ 
+ 
+ 
+ 
+.  
+ 
+ 
+ 
+.  
+ 
+ 
+ 
+ 
+.  
+ 
+ 
+ 
+ 
 
-8-1.  
-六ぶんの一。 
-六(ろく)ぶん　の　一(いち)。 
-One-sixth.
-8-2.  
-五、六日ある。 
-五(ご)、　六(ろく)　日(にち)　ある。 
-We have five or six days.
-8-3.  
-むすめは十六です。 
-むすめ　は　十六(じゅうろく)　です。 
-My daughter is sixteen. 
-「AはBだ」 ["A is B"]: DJG v1 p521; Genki ch1; Marx v1 day8.
-8-4.  
-六グラムふえました。 
-六(ろく)　グラム　ふえました。 
-It's increased by six grams.
-8-5.  
-六メートルでいいですか。 
-六(ろく)　メートル　で　いい　です　か。 
-Is six meters OK? 
-「〜で」 [instrument]: DJG v1 p106.
-8-6.  
-六ページをみてください。 
-六(ろく)　ページ　を　みて　ください。 
-Please see page six. 
-「-てください」 {-て下さい　40} ["please __"]: DJG v1 p209; Genki ch6.
-8-7.  
-あれは四トントラックではありません。六トントラックです。 
-あれ　は　四(よん)　トン　トラック　で　は　ありません。　六(ろく)　トン　トラック　です。 
-That is not a four-ton truck. It's a six-ton truck. 
-「こ　/ そ　/ あ　/ ど」 : DJG v1 p600; Genki ch2; Marx v1 day
-「AはBだ」 ["A is B"]: DJG v1 p521; Genki ch1; Marx v1 day8. 
+.  
+ 
+ 
+ 
+.  
+ 
+ 
+ 
+.  
+ 
+ 
+ 
+ 
+.  
+ 
+ 
+ 
+.  
+ 
+ 
+ 
+ 
+.  
+ 
+ 
+ 
+ 
 
-9-1.  
-七ぶんの一。 
-七(なな)ぶん　の　一(いち)。 
-One-seventh.
-9-2.  
-十七になりました。 
-十七(じゅうなな)　に　なりました。 
-I've turned seventeen.
-9-3.  
-きょうは七五三だ。 
-きょう　は　七五三(しちごさん)　だ。 
-Today is Shichi-go-san.
-9-4.  
-十七日にあいましょう。 
-十七日(じゅうしちにち)　に　あいましょう。 
-Let's meet on the 17th. 
-「〜に」 [time of occurrence]: DJG v1 p289 & 303.
-9-5.  
-二かける七は十四です。 
-二(に)　かける　七(なな)　は　十四(じゅうよん)　です。 
-Two times seven is fourteen. (87)
-9-6.  
-七十五メートルのロープ。 
-七十五(ななじゅうご)　メートル　の　ロープ。 
-A seventy-five meter rope. 
-「の」 [marks end of modifying phrase]: DJG v1 p312; Genki ch10.
-9-7.  
-七つのだいざいの一つだ。 
-七つ(ななつ)　の　だいざい　の　一つ(ひとつ)　だ。 
-It's one of the seven deadly sins.
-9-8.  
-このコンテナは七トンだ。 
-この　コンテナ　は　七(なな)　トン　だ。 
-This container is seven tons. 
-「こ　/ そ　/ あ　/ ど」 : DJG v1 p600; Genki ch2; Marx v1 day
-「AはBだ」 ["A is B"]: DJG v1 p521; Genki ch1; Marx v1 day8.
-9-9.  
-七日にフリーマーケットがある。 
-七日(なのか)　に　フリー　マーケット　が　ある。 
-There's a flea market on the 7th. 
+.  
+ 
 
-10-1.  
-八十日でいける。 
-八十日(はちじゅうにち)　で　いける。 
-I can get there in eighty days. 
-「〜で」 [time]: DJG v1 p109. 
-「Verbs of potential」 ["can __"]: DJG v1 p370; Genki ch13; Marx v1 day50.
-10-2.  
-八十日のあいだに。 
-八十日(はちじゅうにち)　の　あいだ　に。 
-In the space of eighty days. 
-「〜あいだに」 {〜間に　448} ["while __"]: DJG v1 p67; Genki ch21; Marx v1 day88. 
-「の」 [marks end of modifying phrase]: DJG v1 p312; Genki ch10.
-10-3.  
-一か八かのチャンス。 
-一(いち)　か　八(ばち)　か　の　チャンス。 
-A sporting chance. (101)
-10-4.  
-十八日、ひまですか。 
-十八日(じゅうはちにち)、　ひま　です　か。 
-Are you free on the eighteenth?
-10-5.  
-きょうは十八日です。 
-きょう　は　十八日(じゅうはちにち)　です。 
-Today is the eighteenth.
-10-6.  
-ネコはお八つがほしい。 
-ネコ　は　お八つ(おやつ)　が　ほしい。 
-The cat wants a snack. 
-「AはBがC」 [C describes something about B, as an attribute of subject A]: DJG v1 p525. 
-「お-」 [prefix expressing politeness]: DJG v1 p343. 
-「〜がほしい」 {〜が欲しい　1035} ["want __"]: DJG v1 p144; Genki ch14; Marx v1 day48.
-10-7.  
-のこりはもう二十八日しかなかった。 
-のこり　は　もう　二十八日(にじゅうはちにち)　しか　なかった。 
-There were only twenty-eight days left. (7) 
-「もう〜」 [changed state]: DJG v1 p254; Marx v1 day87. 
-「しか〜ない」 ["no more than __/no other than __"]: DJG v1 p398; Genki ch14; Marx v2 day40.
-10-8.  
-このケーキを八きれにきってください。 
-この　ケーキ　を　八(はち)　きれ　に　きって　ください。 
-Please cut this cake into eight slices. 
-「〜に」 ["to __", "toward __"]: DJG v1 p302 & 303. 
+.
+.  
+ 
+ 
+ 
+.
+.  
+ 
+ 
+.
+.
+ 
+ 
+ 
+
+.  
+ 
+ 
+.
+.  
+ 
+ 
+.
+.  
+ 
+ 
+.
+.  
+ 
+ 
+ 
+.
+.  
+ 
+ 
+)
+.  
+ 
+ 
+ 
+.
+.  
+ 
+ 
+.
+.  
+ 
+ 
+ 
+
+.  
+ 
+ 
+ 
+
+.  
+ 
+ 
+ 
+
+.  
+ 
+ 
+ 
+
+.  
+ 
+ 
+)
+.  
+ 
+ 
+?
+.  
+ 
+ 
+.
+.  
+ 
+ 
+ 
+
+.  
+ 
+ 
+ 
+
+.  
+ 
+ 
+ 
+ 
 
 11-1.  
 五十九です。 
