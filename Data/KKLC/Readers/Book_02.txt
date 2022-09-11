@@ -2,8 +2,6 @@
 中国文明の全体。 
 中国(ちゅうごく)　文明(ぶんめい)　の　全体(ぜんたい)。 
 Chinese civilization in its entirety. 
-Note: 
-Whichever ebook reader you are using, I recommend that you use “Scrolling View” or “Continuous Scrolling” (as opposed to “Page View”), so that you will be able to read the plain Japanese text at the bottom of the window while leaving the phonetic and English glosses out of view. 
 101-2
 日本文学が好きですか。 
 日本(にほん)　文学(ぶんがく)　が　好き(すき)　です　か。 
@@ -15,7 +13,7 @@ Please put that plan in writing.
 101-4
 ギリシャ文字で書かれた文書。 
 ギリシャ　文字(もじ)　で　書か(かか)れた　文書(ぶんしょ)。 
-Documents written in the Greek alphabet. (100) 
+Documents written in the Greek alphabet.  
 101-5
 いいえ、日本文学より中国文学が好きです。 
 いいえ、　日本(にほん)　文学(ぶんがく)　より　中国(ちゅうごく)　文学(ぶんがく)　が　好き(すき)　です。 
@@ -23,7 +21,7 @@ No, I prefer Chinese literature to Japanese literature.
 101-6
 スクロールダウンして、全文を見て下さい。 
 スクロール　ダウン　して、　全文(ぜんぶん)　を　見(み)て　下さい(ください)。 
-Please scroll down to see the entire text. (101) 
+Please scroll down to see the entire text.  
 
 102-1
 明子さんと交代します。 
@@ -42,10 +40,9 @@ The checks are issued at the reception desk.
 日本(にほん)　は　中国(ちゅうごく)　と　国交(こっこう)　を　成立(せいりつ)　した。 
 Japan established diplomatic relations with China. 
 102-5
-父とは大体
-Eメールで交信する。 
-父(ちち)　と　は　大体(だいたい)　
-Eメール　で　交信(こうしん)　する。 I generally communicate with my father by email. 
+父とは大体Eメールで交信する。 
+父(ちち)　と　は　大体(だいたい)　Eメール　で　交信(こうしん)　する。 
+I generally communicate with my father by email. 
 102-6
 人目をさけるため、二人はひそかに交信した。 
 人目(ひとめ)　を　さける　ため、　二人(ふたり)　は　ひそか　に　交信(こうしん)　した。 
@@ -68,11 +65,11 @@ Shiroki-san summarized the plans exchanged at the meeting.
 103-1
 明日学校に行きたくない。 
 明日(あした)　学校(がっこう)　に　行き(いき)たくない。 
-I don't want to go to school tomorrow. (87) 
+I don't want to go to school tomorrow.  
 103-2
 土曜日に学校はありますか。 
 土曜日(どようび)　に　学校(がっこう)　は　あります　か。 
-Do you have school on Saturdays? (87) 
+Do you have school on Saturdays?  
 103-3
 校正のしごとを受け入れた。 
 校正(こうせい)　の　しごと　を　受け入れ(うけいれ)た。 
@@ -80,7 +77,7 @@ I accepted a proofreading job.
 103-4
 白木さんはよく学校を休む。 
 白木(しろき)さん　は　よく　学校(がっこう)　を　休む(やすむ)。 
-Shiroki-san is often absent from school. (87) 
+Shiroki-san is often absent from school.  
 103-5
 校長の話はいつも分りやすい。 
 校長(こうちょう)　の　話(はなし)　は　いつも　分り(わかり)やすい。 
@@ -97,11 +94,11 @@ The boy students were late for school.
 103-8
 四月には学校行事がたくさんある。 
 四月(しがつ)　に　は　学校(がっこう)　行事(ぎょうじ)　が　たくさん　ある。 
-In April we have a lot of school events. (87) 
+In April we have a lot of school events.  
 103-9
 本校の成り立ちをお話しましょう。 
 本校(ほんこう)　の　成り立ち(なりたち)　を　お話(おはなし)　しましょう。 
-Let me tell you about the origin of this school. (87) 
+Let me tell you about the origin of this school.  
 103-10
 この本を8月までに校正してほしい。 
 この　本(ほん)　を　8月(がつ)　まで　に　校正(こうせい)　して　ほしい。 
@@ -138,7 +135,7 @@ Mother attended a girls' high school.
 104-2
 母は父より二つ下です。 
 母(はは)　は　父(ちち)　より　二つ(ふたつ)　下(した)　です。 
-My mom is two years younger than my dad. (87) 
+My mom is two years younger than my dad.  
 104-3
 明日母校に行ってみます。 
 明日(あした)　母校(ぼこう)　に　行っ(いっ)て　みます。 
@@ -162,7 +159,7 @@ How did your mother take the matter? (4)
 104-7
 母はケーキを八つ切れに分けました。 
 母(はは)　は　ケーキ　を　八つ切れ(やっつぎれ)　に　分け(わけ)ました。 
-Mother divided the cake into eight slices. (87) 
+Mother divided the cake into eight slices.  
 104-8
 安部さんのお母さんはアメリカ人です。 
 安部(あべ)さん　の　お母さん(おかあさん)　は　アメリカ人(じん)　です。 
@@ -197,7 +194,7 @@ That supermarket puts bread on sale on the tenth of every month.
 105-5
 毎日で、あぁ、一日に二回も三回もです。 
 毎日(まいにち)　で、　あぁ、　一日(いちにち)　に　二回(にかい)　も　三回(さんかい)　も　です。 
-Every day, ay, and twice and thrice in the same day. (84) 
+Every day, ay, and twice and thrice in the same day.  
 105-6
 毎土曜日にはカフェに行ってレポートを書きます。 
 毎(まい)　土曜日(どようび)　に　は　カフェ　に　行っ(いっ)て　レポート　を　書き(かき)ます。 
@@ -233,7 +230,7 @@ At our school we learn about life at sea.
 106-5
 いま、お日さまは、海の上にのぼりました。 
 いま、　お日(ひ)さま　は、　海(うみ)　の　上(うえ)　に　のぼりました。 
-Now the sun rose from the sea. (55) 
+Now the sun rose from the sea.  
 106-6
 公海上で用いられるラジオ交信を学んでいる。 
 公海(こうかい)　上(じょう)　で　用い(もちい)られる　ラジオ　交信(こうしん)　を　学ん(まなん)で　いる。 
@@ -252,7 +249,7 @@ Natives of Eastern China.
 107-2
 七海さんは文学者だ。 
 七海(ななみ)さん　は　文学者(ぶんがくしゃ)　だ。 
-Nanami is a woman of letters. (101) 
+Nanami is a woman of letters.  
 107-3
 小海さんは全くのばか者だ。 
 小海(こうみ)さん　は　全く(まったく)　の　ばか者(もの)　だ。 
@@ -264,8 +261,8 @@ There are few believers among academics.
 「すくない」　{少ない　677} ["few"; "little"]: DJG v1 p427. 
 107-5
 「話者」とは、話す人のことを言う。 
-「話者(わしゃ)」　と　は、　話す(はなす)　人(ひと)　の　こと　を　言う(いう)。 "
-Washa" just refers to the person who is speaking. 
+「話者(わしゃ)」　と　は、　話す(はなす)　人(ひと)　の　こと　を　言う(いう)。 
+"Washa" just refers to the person who is speaking. 
 107-6
 ライオンはサバンナの王者だ。 
 ライオン　は　サバンナ　の　王者(おうじゃ)　だ。 
@@ -283,17 +280,15 @@ Abe-san was long treated like an outsider.
 本校(ほんこう)　は　もともと　プロテスタント　信者(しんじゃ)　の　学校(がっこう)　だった。 
 This school was originally for Protestants. 
 107-10
-四十くらいの男の人が
-「本校の者です」と言って学校に入りこんだ。 
-四十(よんじゅう)　くらい　の　男(おとこ)　の　人(ひと)　が　
-「本校(ほんこう)　の　者(もの)　です」と　言っ(いっ)て　学校(がっこう)　に　入りこん(はいりこん)だ。 
+四十くらいの男の人が「本校の者です」と言って学校に入りこんだ。 
+四十(よんじゅう)　くらい　の　男(おとこ)　の　人(ひと)　が　「本校(ほんこう)　の　者(もの)　です」と　言っ(いっ)て　学校(がっこう)　に　入りこん(はいりこん)だ。 
 A man of roughly forty years snuck into the school by claiming "I'm from this school". 
 「〜くらい」　{〜位* 577} ["about __"]: DJG v1 p212; Marx v2 day78. 
 
 108-1
 六ヶ月ずっと工事中です。 
 六ヶ月(ろっかげつ)　ずっと　工事中(こうじちゅう)　です。 
-This construction work has been going continuously for six months. (100) 
+This construction work has been going continuously for six months.  
 108-2
 母は校長だが、父は大工です。 
 母(はは)　は　校長(こうちょう)　だ　が、　父(ちち)　は　大工(だいく)　です。 
@@ -327,11 +322,11 @@ Formal official documents.
 109-2
 スタンド式のバー。 
 スタンド式(しき)　の　バー。 
-A stand-up bar. (101) 
+A stand-up bar.  
 109-3
 ゴルフクラブ一式。 
 ゴルフ　クラブ　一式(いっしき)。 
-One set of golf clubs. (101) 
+One set of golf clubs.  
 109-4
 入学式は明日です。 
 入学式(にゅうがくしき)　は　明日(あした)　です。 
@@ -400,7 +395,7 @@ The king appealed to arms.
 111-3
 武田さんは5月5日に生まれた。 
 武田(たけだ)さん　は　5月(がつ)　5日(いつか)　に　生まれ(うまれ)た。 
-Takeda-san was born on May 5. (87) 
+Takeda-san was born on May 5.  
 111-4
 東武バスで入学式に行けますか。 
 東武(とうぶ)　バス　で　入学式(にゅうがくしき)　に　行け(いけ)ます　か。 
@@ -426,7 +421,7 @@ Nanami is sewing with gold thread.
 112-3
 男子学生たちは糸をつくることを学んだ。 
 男子(だんし)　学生(がくせい)たち　は　糸(いと)　を　つくる　こと　を　学ん(まなん)だ。 
-The schoolboys studied how to make thread. (100) 
+The schoolboys studied how to make thread.  
 「こと」　{事　80} [nominalizer]: DJG v1 p193. 
 112-4
 人工の糸を用いるより生糸を用いるのを好む。 
@@ -450,16 +445,16 @@ A single serving of soup.
 113-4
 以前言ったように、…… 
 以前(いぜん)　言っ(いっ)た　よう　に、…… 
-As I said before, ... (101) 
+As I said before, ...  
 「〜ように」　["as __", "as if __"]: DJG v1 p554; Genki ch22; Tobira ch1 #3. 
 113-5
 式の前日に自分で書いた。 
 式(しき)　の　前日(ぜんじつ)　に　自分(じぶん)　で　書い(かい)た。 
-He wrote it himself the day before the ceremony. (30) 
+He wrote it himself the day before the ceremony.  
 113-6
 その前の木曜日も行った。 
 その　前(まえ)　の　木曜日(もくようび)　も　行っ(いっ)た。 
-I also went the Thursday before that. (89) 
+I also went the Thursday before that.  
 「〜も」　["also __"]: DJG v1 p247; Genki ch2&4. 
 113-7
 事前に話をしましょう。 
@@ -468,32 +463,33 @@ Let's talk beforehand.
 113-8
 レースでかなり前に出る。 
 レース　で　かなり　前(まえ)　に　出る(でる)。 
-Get way out front in the race. (101) 
+Get way out front in the race.  
 113-9
 お前は人を信じすぎだよ。 
 お前(おまえ)　は　人(ひと)　を　信じ(しんじ)すぎ　だ　よ。 
-You trust people too much. (87) 
+You trust people too much.  
 「おまえ」　{お前　113} [very informal: "you"]: DJG v1 p28. 
 「-すぎる」　{-過ぎる　464} ["__ too much", "over-__"]: DJG v1 p423; Genki ch12; Marx v1 day61. 
 113-10
 目の前に一人の男が立った。 
 目(め)　の　前(まえ)　に　一人(ひとり)　の　男(おとこ)　が　立っ(たっ)た。 
-A man stood in front of me. (10) 
+A man stood in front of me.  
 113-11
 フォックストロットの前身。 
 フォックストロット　の　前身(ぜんしん)。 
-Precursor to the fox-trot. (100) 
+Precursor to the fox-trot.  
 113-12
 はたが目の前に立てられた。 
 はた　が　目(め)　の　前(まえ)　に　立て(たて)られた。 
 The flag was raised before our eyes. 
 113-13
-20代はずいぶん前のことだ。 20代(だい)　は　ずいぶん　前(まえ)　の　こと　だ。 
+20代はずいぶん前のことだ。 
+20代(だい)　は　ずいぶん　前(まえ)　の　こと　だ。 
 My twenties were a long time ago. 
 113-14
 それぞれ二人前ずつ十分にある。 
 それぞれ　二(に)人前(にんまえ)　ずつ　十分(じゅうぶん)　に　ある。 
-There's enough for two servings each. (101) 
+There's enough for two servings each.  
 「それぞれ」　{其々** 1757} ["each"; "respectively"]: DJG v2 p436; Tobira ch6 #6. 
 「-ずつ」　["__ each"]: DJG v1 p572; Tobira ch11 #9. 
 113-15
@@ -511,22 +507,22 @@ Father returned home before sunrise.
 113-18
 ある学者は人前で話すことになれていない。 
 ある　学者(がくしゃ)　は　人前(ひとまえ)　で　話す(はなす)　こと　に　なれて　いない。 
-Some scholars are not accustomed to speaking in public. (87) 
+Some scholars are not accustomed to speaking in public.  
 113-19
 安田さんは五日前から学校を休んでいます。 
 安田(やすだ)さん　は　五日(いつか)　前(まえ)　から　学校(がっこう)　を　休ん(やすん)で　います。 
-Yasuda-san has been absent from school for five days. (87) 
+Yasuda-san has been absent from school for five days.  
 113-20
 おい、一体やつはお前になにを言ってたんだ？ 
 おい、　一体(いったい)　やつ　は　お前(おまえ)　に　なに　を　言っ(いっ)てた　ん　だ？ 
-Hey, what the devil was he saying to you? (90) 
+Hey, what the devil was he saying to you?  
 「おまえ」　{お前　113} [very informal: "you"]: DJG v1 p28. 
 「-てた」　[colloquial contraction of -ていた: "was __ing"; "had (done) __"]: DJG v1 p155; Genki ch7; Marx v1 day36. 
 「のである　/ のです　/ のだ　/ んだ」　[explanation or assertion]: DJG v1 p325; Genki ch12. 
 113-21
 「前書き」とは、本の本文の前にある文書のことを言う。 
 「前書き(まえがき)」　と　は、　本(ほん)　の　本文(ほんぶん)　の　前(まえ)　に　ある　文書(ぶんしょ)　の　こと　を　言う(いう)。 
-A "preface" is a piece of writing that precedes the main text of a book. (100) 
+A "preface" is a piece of writing that precedes the main text of a book.  
 113-22
 金曜日の式は前に中止された行事の代わりに行われる。 
 金曜日(きんようび)　の　式(しき)　は　前(まえ)　に　中止(ちゅうし)　された　行事(ぎょうじ)　の　代わり(かわり)　に　行わ(おこなわ)れる。 
@@ -534,7 +530,7 @@ Friday's ceremony is being held to substitute for a previously canceled event.
 113-23
 おれはラムで生き長らえてるんだ、お前にも言っとくぞ。 
 おれ　は　ラム　で　生き長らえ(いきながらえ)てる　ん　だ、　お前(おまえ)　に　も　言っ(いっ)とく　ぞ。 
-I’ve been living on rum, I tell you. (90) 
+I’ve been living on rum, I tell you.  
 「おれ」　{俺　1356} [very informal: "I"]: DJG v1 p28. 
 「-てる」　[colloquial contraction of -ている: "be __ing"; "have (done) __"]: DJG v1 p155; Genki ch7; Marx v1 day36. 
 「-とく」　[colloquial contraction of -ておく: indicates act of prudence/getting something done]. 
@@ -542,7 +538,7 @@ I’ve been living on rum, I tell you. (90)
 113-24
 パスポートが切れる前にもう一回オーストラリア行きたい。 
 パスポート　が　切れる(きれる)　前(まえ)　に　もう　一回(いっかい)　オーストラリア　行き(いき)たい。 
-I want to go to Australia once again before my passport expires. (87) 
+I want to go to Australia once again before my passport expires.  
 「もう　+ (numeral) + (counter)」　["__ more"]. 
 
 114-1
@@ -552,7 +548,7 @@ About sixty or so.
 114-2
 後ろから行きます。 
 後ろ(うしろ)　から　行き(いき)ます。 
-I'll pick up the rear. (25) 
+I'll pick up the rear.  
 114-3
 後ろから火が付いた。 
 後ろ(うしろ)　から　火(ひ)　が　付い(つい)た。 
@@ -560,7 +556,7 @@ It was lit from behind.
 114-4
 セーター後ろ前だよ。 
 セーター　後ろ前(うしろまえ)　だ　よ。 
-Your sweater is on backwards. (87) 
+Your sweater is on backwards.  
 114-5
 これ後回しにしないでよ。 
 これ　後回し(あとまわし)　に　しないで　よ。 
@@ -583,7 +579,7 @@ There's not much difference between the former and the latter.
 114-9
 お金は2、3日後に無くなった。 
 お金(おかね)　は　2、3日(にち)　後(ご)　に　無くなっ(なくなっ)た。 
-The money had gone after a few days. (101) 
+The money had gone after a few days.  
 114-10
 前田さんはすぐ後ろに付いている。 
 前田(まえだ)さん　は　すぐ　後ろ(うしろ)　に　付い(つい)て　いる。 
@@ -592,12 +588,12 @@ Maeda-san is hot on our trail.
 114-11
 クーデターの後、全てが不安定だった。 
 クーデター　の　後(あと)、　全て(すべて)　が　不安定(ふあんてい)　だった。 
-Everything was unstable following the coup. (101) 
+Everything was unstable following the coup.  
 「〜あと」　{〜後　114} ["after __"]. 
 114-12
 アルファベットを後ろから言って下さい。 
 アルファベット　を　後ろ(うしろ)　から　言っ(いっ)て　下さい(ください)。 
-Please say the alphabet in reverse. (87) 
+Please say the alphabet in reverse.  
 114-13
 安田さんはステージの後部に立っていた。 
 安田(やすだ)さん　は　ステージ　の　後部(こうぶ)　に　立っ(たっ)て　いた。 
@@ -605,7 +601,7 @@ Yasuda-san stood at the rear part of the stage.
 114-14
 生後80日から90日にかけて、この子はいろんなものを口に入れた。 
 生後(せいご)　80日(にち)　から　90日(にち)　にかけて、　この　子(こ)　は　いろんな　もの　を　口(くち)　に　入れ(いれ)た。 
-Between 80 and 90 days old, this child put all sorts of objects into his mouth. (12) 
+Between 80 and 90 days old, this child put all sorts of objects into his mouth.  
 「〜から〜にかけて」　["from __ through __"]: DJG v2 p101; Tobira ch11 #3. 
 
 115-1
@@ -619,7 +615,7 @@ Let's talk about that matter in the afternoon.
 115-3
 午後に用事がたくさんある。 
 午後(ごご)　に　用事(ようじ)　が　たくさん　ある。 
-I have a lot of things to do this afternoon. (87) 
+I have a lot of things to do this afternoon.  
 115-4
 式は午後の中ごろに行われた。 
 式(しき)　は　午後(ごご)　の　中ごろ(なかごろ)　に　行わ(おこなわ)れた。 
@@ -636,7 +632,7 @@ The ceremony ended just before noon.
 115-7
 あめは午後には上がるだろうか？ 
 あめ　は　午後(ごご)　に　は　上がる(あがる)　だろう　か？ 
-Will the rain clear up this afternoon? (87) 
+Will the rain clear up this afternoon?  
 「〜だろうか　/ 〜でしょうか」　["I wonder __"]: DJG v3 p715; Tobira ch6 #4. 
 115-8
 武者たちは午前中に案を交わした。 
@@ -645,12 +641,12 @@ The warriors exchanged plans in the morning.
 115-9
 その長い午後の話を全てお話しすることはできない。 
 その　長い(ながい)　午後(ごご)　の　話(はなし)　を　全て(すべて)　お話し(おはなし)　する　こと　は　できない。 
-I cannot tell you the whole story of that long afternoon. (89) 
+I cannot tell you the whole story of that long afternoon.  
 
 116-1
 ロースト用の子牛の切り身。 
 ロースト用(よう)　の　子牛(こうし)　の　切り身(きりみ)。 
-A cut of veal suitable for roasting. (100) 
+A cut of veal suitable for roasting.  
 116-2
 牛は午前中に子牛を生んだ。 
 牛(うし)　は　午前中(ごぜんちゅう)　に　子牛(こうし)　を　生ん(うん)だ。 
@@ -662,29 +658,29 @@ The grass tickled the calf's whole body.
 116-4
 サーロインは牛の後部の一部である。 
 サーロイン　は　牛(うし)　の　後部(こうぶ)　の　一部(いちぶ)　で　ある。 
-Sirloin is one part of the rear of an ox. (101) 
+Sirloin is one part of the rear of an ox.  
 116-5
 武田さんは前川さんを牛耳っている。 
 武田(たけだ)さん　は　前川(まえかわ)さん　を　牛耳っ(ぎゅうじっ)て　いる。 
-Takeda-san has Maekawa-san under her thumb. (87) 
+Takeda-san has Maekawa-san under her thumb.  
 116-6
 牛たちが大きな目でわたしたちをじっと見ている。 
 牛(うし)たち　が　大(おお)きな　目(め)　で　わたしたち　を　じっと　見(み)て　いる。 
-The oxen are staring at us with big eyes. (10) 
+The oxen are staring at us with big eyes.  
 
 117-1
 二年前、だって？ 
 二年前(にねんまえ)、　だって？ 
-Two years ago, wasn't it? (51) 
+Two years ago, wasn't it?  
 「-って」　[colloquial quote marker]: DJG v1 p510; Genki ch17; Tobira ch1 #16. 
 117-2
 自分より年上の人。 
 自分(じぶん)　より　年上(としうえ)　の　人(ひと)。 
-A person who is older than oneself. (100) 
+A person who is older than oneself.  
 117-3
 一四八四年の話でした。 
 一四八四(せんよんひゃくはちじゅうよ)　年(ねん)　の　話(はなし)　でした。 
-It happened in 1484. (52) 
+It happened in 1484.  
 117-4
 年月日を入れて下さい。 
 年月日(ねんがっぴ)　を　入れ(いれ)て　下さい(ください)。 
@@ -696,7 +692,7 @@ A handsome middle-aged man was there.
 117-6
 成田さんは年に見えない。 
 成田(なりた)さん　は　年(とし)　に　見え(みえ)ない。 
-Narita-san doesn't look his age. (87) 
+Narita-san doesn't look his age.  
 「〜みえる」　{〜見える　83} ["__ can be seen"; "looks __"]: DJG v1 p243; Marx v1 day50, v2 day69. 
 117-7
 生年月日を書いて下さい。 
@@ -717,12 +713,12 @@ I go to China two or three times a year.
 117-11
 十年というのは、長い年月だ。 
 十年(じゅうねん)　という　の　は、　長い(ながい)　年月(ねんげつ)　だ。 
-Ten years is a long time. (87) 
+Ten years is a long time.  
 「〜のは〜だ」　[statement about a clause]: DJG v1 p337. 
 117-12
 公式に一年年を取った！ 
 公式(こうしき)　に　一年(いちねん)　年(とし)　を　取っ(とっ)た！ 
-I'm officially one year older! (100) 
+I'm officially one year older!  
 117-13
 二十年もこんなゆきはなかった。 
 二十(にじゅう)　年(ねん)　も　こんな　ゆき　は　なかった。 
@@ -743,11 +739,11 @@ Most Japanese convenience stores are open all year round.
 117-17
 立川さんが五年前の事を言っている。 
 立川(たちかわ)さん　が　五(ご)　年(ねん)　前(まえ)　の　事(こと)　を　言っ(いっ)て　いる。 
-Tachikawa-san is talking about what happened five years ago. (10) 
+Tachikawa-san is talking about what happened five years ago.  
 117-18
 安倍さんは1950年代の生まれです。 
 安倍(あべ)さん　は　1950年代(ねんだい)　の　生まれ(うまれ)　です。 
-Abe-san was born in the 1950s. (87) 
+Abe-san was born in the 1950s.  
 117-19
 日本では年金の受取人は二千万人を上回る。 
 日本(にほん)　で　は　年金(ねんきん)　の　受取人(うけとりにん)　は　二千万(にせんまん)　人(にん)　を　上回る(うわまわる)。 
@@ -768,7 +764,7 @@ Narita-san and Adachi-san didn't last a year together.
 117-23
 三十年、もっとにもなるな、お前さんと別れてから。 
 三十(さんじゅう)　年(ねん)、　もっと　に　も　なる　な、　お前(おまえ)さん　と　別れ(わかれ)て　から。 
-Why, it's been thirty years and more since I saw you last. (35) 
+Why, it's been thirty years and more since I saw you last.  
 「-てから」　["after __ing"; "since __"]: DJG v1 p177. 
 
 118-1
@@ -805,7 +801,7 @@ Articles [clauses] in official documents.
 119-2
 パブロフの条件付け。 
 パブロフ　の　条件(じょうけん)付け(づけ)。 
-Pavlovian conditioning.  (101) 
+Pavlovian conditioning.   
 119-3
 この条件でアパートがありますか？ 
 この　条件(じょうけん)　で　アパート　が　あります　か？ 
@@ -822,29 +818,28 @@ Tashiro-san accepted the proofreading job without conditions.
 120-1
 文化行事。 
 文化(ぶんか)　行事(ぎょうじ)。 
-Cultural events.  (101) 
+Cultural events.   
 120-2
 お化けって信じる？ 
 お化け(おばけ)　って　信じる(しんじる)？ 
-Do you believe in ghosts? (87) 
+Do you believe in ghosts?  
 「-って」　[colloquial topic marker]: DJG v1 p507; Tobira ch1 #15. 
 120-3
 ベルギーの中立化。 
 ベルギー　の　中立化(ちゅうりつか)。 
-The neutralization of Belgium. (101) 
+The neutralization of Belgium.  
 120-4
 王子が子牛に化けた。 
 王子(おうじ)　が　子牛(こうし)　に　化け(ばけ)た。 
 The prince transmogrified into a calf. 
 120-5
-水の化学式は
-H₂Oである。 
-水(みず)　の　化学式(かがくしき)　は　
-H₂O　で　ある。 The chemical formula for water is H₂O. (87) 
+水の化学式はH₂Oである。 
+水(みず)　の　化学式(かがくしき)　は　H₂O　で　ある。 
+The chemical formula for water is H₂O.  
 120-6
 土田さんはずるさの化身だ。 
 土田(つちだ)さん　は　ずるさ　の　化身(けしん)　だ。 
-Tsuchida-san is the personification of cunning. (101) 
+Tsuchida-san is the personification of cunning.  
 「-さ」　["__ness"]: DJG v1 p381; Marx v1 day67; Tobira ch1 #2. 
 120-7
 四川が文明化された以前の話だ。 
@@ -853,8 +848,7 @@ We're talking about before the civilization of Sichuan.
 120-8
 ヒトラーは1930年代にドイツをナチ化した。 
 ヒトラー　は　1930年代(ねんだい)　に　ドイツ　を　ナチ化(か)　した。 
-Hitler nazified Germany in the 1930's. (101) 
-121-130 
+Hitler nazified Germany in the 1930's.  
 
 121-1
 日本の国花はなんですか？ 
@@ -863,7 +857,7 @@ What is the national flower of Japan?
 121-2
 白い花をつける中国のフジ。 
 白い(しろい)　花(はな)　を　つける　中国(ちゅうごく)　の　フジ。 
-A wisteria of China having white flowers. (100) 
+A wisteria of China having white flowers.  
 121-3
 母は生け花が大好きだった。 
 母(はは)　は　生け花(いけばな)　が　大好き(だいすき)　だった。 
@@ -875,15 +869,15 @@ We go to view the blossoms each April.
 121-5
 本田さんは花が好きだと言います。 
 本田(ほんだ)さん　は　花(はな)　が　好き(すき)　だ　と　言い(いい)ます。 
-Honda-san says she likes flowers. (87) 
+Honda-san says she likes flowers.  
 121-6
 明子さんが午前と午後の二回、花に水をやります。 
 明子(あきこ)さん　が　午前(ごぜん)　と　午後(ごご)　の　二回(にかい)、　花(はな)　に　水(みず)　を　やります。 
-Akiko waters the flowers twice, once in the morning and once in the afternoon. (10) 
+Akiko waters the flowers twice, once in the morning and once in the afternoon.  
 121-7
 こんな花火なんと言うものを、以前に見た事はなかった。 
 こんな　花火(はなび)　なんと　言う(いう)　もの　を、　以前(いぜん)　に　見(み)た　事(こと)　は　なかった。 
-She had not seen such magic fireworks before. (55) 
+She had not seen such magic fireworks before.  
 「〜という」　{〜と言う* 51} [links identifier with identified]: DJG v1 p486; Genki ch20; Tobira ch10 (first page). 
 
 122-1
@@ -906,7 +900,7 @@ My father goes to Tohoku many times each year.
 122-5
 むき出しの北東部のフロンティア。 
 むき出し(むきだし)　の　北東部(ほくとうぶ)　の　フロンティア。 
-The exposed northeast frontier. (101) 
+The exposed northeast frontier.  
 122-6
 日本の北部ってどこからですか？ 
 日本(にほん)　の　北部(ほくぶ)　って　どこ　から　です　か？ 
@@ -919,7 +913,7 @@ The third-year middle schoolers watched the fireworks from the north entrance to
 122-8
 ダマーヴァンド山はイラン北部の大きな活火山である。 
 ダマーヴァンド山(さん)　は　イラン　北部(ほくぶ)　の　大(おお)きな　活火山(かっかざん)　で　ある。 
-Mt. Damavand is a large active volcano in northern Iran. (100) 
+Mt. Damavand is a large active volcano in northern Iran.  
 
 123-1
 子どもを比べてはいけない。 
@@ -928,25 +922,25 @@ It's not right to compare one child with another.
 123-2
 東北チームの無比のセンター。 
 東北(とうほく)　チーム　の　無比(むひ)　の　センター。 
-The Tohoku team's nonpareil center fielder. (101) 
+The Tohoku team's nonpareil center fielder.  
 123-3
 花田さんの足は立川さんと比べて小さい。 
 花田(はなだ)さん　の　足(あし)　は　立川(たちかわ)さん　と　比べ(くらべ)て　小(ちい)さい。 
-Hanada-san's feet are smaller than Tachikawa-san's. (87) 
+Hanada-san's feet are smaller than Tachikawa-san's.  
 123-4
 長田さんはどんなサルと比べてもばか者だ。 
 長田(ながた)さん　は　どんな　サル　と　比べ(くらべ)て　も　ばか者(もの)　だ。 
-Nagata-san is more foolish than any monkey. (89) 
+Nagata-san is more foolish than any monkey.  
 123-5
 お父さんは、お母さんに比べてしっかりしていました。 
 お父さん(おとうさん)　は、　お母さん(おかあさん)　に　比べ(くらべ)て　しっかり　して　いました。 
-Dad had his act together more than Mom did. (64) 
+Dad had his act together more than Mom did.  
 「〜にくらべると　/ 〜にくらベて」　{〜に比べると　/ 〜に比べて　123} ["compared to __"]: DJG v2 p256. 
 
 124-1
 足の背部。 
 足(あし)　の　背部(はいぶ)。 
-The dorsum of the foot. (101) 
+The dorsum of the foot.  
 124-2
 ドングリの背比べ。 
 ドングリ　の　背比べ(せいくらべ)。 
@@ -975,7 +969,7 @@ Hanako turned her eyes away when the Queen entered.
 124-8
 花子さんがそっと、おれの背中に手を回した。 
 花子(はなこ)さん　が　そっと、　おれ　の　背中(せなか)　に　手(て)　を　回し(まわし)た。 
-Hanako gently put her arms around me. (10) 
+Hanako gently put her arms around me.  
 「おれ」　{俺　1356} [very informal: "I"]: DJG v1 p28. 
 「〜に」　["on __"]: DJG v1 p295 & 303. 
 
@@ -990,7 +984,7 @@ Kitagawa-san's car is white.
 125-3
 千花さんの車は二年目です。 
 千花(ちか)さん　の　車(くるま)　は　二年目(にねんめ)　です。 
-Chika's car is two years old. (87) 
+Chika's car is two years old.  
 125-4
 水車は水のながれの力で回る。 
 水車(すいしゃ)　は　水(みず)　の　ながれ　の　力(ちから)　で　回る(まわる)。 
@@ -1007,11 +1001,11 @@ Where can you still see rickshaws?
 125-7
 自分の車と北川さんの車を比べた。 
 自分(じぶん)　の　車(くるま)　と　北川(きたがわ)さん　の　車(くるま)　を　比べ(くらべ)た。 
-I compared my car with Kitagawa-san's. (87) 
+I compared my car with Kitagawa-san's.  
 125-8
 だから車で行くなと言ったんですよ。 
 だ　から　車(くるま)　で　行く(いく)　な　と　言っ(いっ)た　ん　です　よ。 
-That's why I told you not to go by car. (87) 
+That's why I told you not to go by car.  
 「infinitive + な」　[prohibitive: "don't __"]: DJG v1 p266; Marx v1 day40. 
 125-9
 マストが一本車体に取り付けられていた。 
@@ -1021,21 +1015,21 @@ A mast was fixed on the frame. (7)
 125-10
 金子さんの車は五人には十分な大きさだ。 
 金子(かねこ)さん　の　車(くるま)　は　五人(ごにん)　に　は　十分(じゅうぶん)　な　大き(おおき)さ　だ。 
-Kaneko-san's car is large enough to carry five people. (87) 
+Kaneko-san's car is large enough to carry five people.  
 「〜には」　["for the purpose of __"]: DJG v2 p289; Tobira ch13 #11. 
 
 126-1
 気取るな。 
 気取る(きどる)　な。 
-Don't put on airs. (101) 
+Don't put on airs.  
 126-2
 お前正気か？ 
 お前(おまえ)　正気(しょうき)　か？ 
-Have you lost your mind? (87) 
+Have you lost your mind?  
 126-3
 無気力な学生。 
 無気力(むきりょく)　な　学生(がくせい)。 
-A shiftless student. (101) 
+A shiftless student.  
 126-4
 その気がする。 
 その　気(き)　が　する。 
@@ -1044,20 +1038,20 @@ It seems like that's the case.
 126-5
 不安定な大気。 
 不安定(ふあんてい)　な　大気(たいき)。 
-An unsettled atmosphere. (100) 
+An unsettled atmosphere.  
 126-6
 よく気が付いた。 
 よく　気(き)　が　付い(つい)た。 
-You're catching on. (76) 
+You're catching on.  
 「〜にきがつく」　["notice __"]: Tobira ch6 #1. 
 126-7
 これは本気ですか？ 
 これ　は　本気(ほんき)　です　か？ 
-Are you in earnest about this? (89) 
+Are you in earnest about this?  
 126-8
 気に入りませんな。 
 気に入り(きにいり)ません　な。 
-I don't like them. (90) 
+I don't like them.  
 「な」　[male alternative to ね]: DJG v1 p46 examples 9-11. 
 126-9
 とても気分がいい。 
@@ -1066,7 +1060,7 @@ I feel great.
 126-10
 気にしないで下さい。 
 気(き)　に　しないで　下さい(ください)。 
-Don't bother, please. (101) 
+Don't bother, please.  
 126-11
 話をする気にはならない。 
 話(はなし)　を　する　気(き)　に　は　ならない。 
@@ -1078,11 +1072,11 @@ I've taken a liking to this book.
 126-13
 北山さんの案は不人気だ。 
 北山(きたやま)さん　の　案(あん)　は　不人気(ふにんき)　だ。 
-Kitayama-san's proposal has few fans. (101) 
+Kitayama-san's proposal has few fans.  
 126-14
 ロマンスの活気がない人生。 
 ロマンス　の　活気(かっき)　が　ない　人生(じんせい)。 
-A life unenlivened by romance. (101) 
+A life unenlivened by romance.  
 126-15
 きょうは気分がよくなった。 
 きょう　は　気分(きぶん)　が　よく　なった。 
@@ -1094,7 +1088,7 @@ I prefer a more lively literary style.
 126-17
 なにかが見える気がします。 
 なに　か　が　見える(みえる)　気(き)　が　します。 
-I think I see something. (87) 
+I think I see something.  
 「なにか」　{何か* 815} ["something"; "anything"]: Genki ch8; Marx v1 day18. 
 「〜きがする」　["I get the impression that __", "I think __"]: Marx v2 day74; Tobira ch5 #17. 
 126-18
@@ -1108,7 +1102,7 @@ Please take care of your health.
 126-20
 花田さんは気前よく金を出す。 
 花田(はなだ)さん　は　気前(きまえ)　よく　金(かね)　を　出す(だす)。 
-Hanada-san is generous with his money. (87) 
+Hanada-san is generous with his money.  
 126-21
 オゾンは不安定な気体である。 
 オゾン　は　不安定(ふあんてい)　な　気体(きたい)　で　ある。 
@@ -1134,7 +1128,7 @@ I really don't like affected literary styles.
 126-26
 千代さんが正しいような気がする。 
 千代(ちよ)さん　が　正しい(ただしい)　よう　な　気(き)　が　する。 
-It appears that Chiyo is right. (87) 
+It appears that Chiyo is right.  
 「〜ような」　["like __"]: DJG v2 p340 bottom (covered under -っぽい); Genki ch22. 
 126-27
 母は生け花が大のお気に入りの事だった。 
@@ -1147,20 +1141,21 @@ I realized that Kitagawa-san meant what he said.
 126-29
 きみのお父さんが言う事なんて気にしないで。 
 きみ　の　お父さん(おとうさん)　が　言う(いう)　事(こと)　なんて　気(き)　に　しないで。 
-Don't pay any attention to what your father says. (87) 
+Don't pay any attention to what your father says.  
 「きみ」　{君　1407} [informal: "you"]: DJG v1 p28. 
 「〜なんて」　["such (things)/such (a thing)"]: DJG v3 p339; Tobira ch4 #3. 
 126-30
 以前花子さんが言ってたことは、本気で言ってた。 
 以前(いぜん)　花子(はなこ)さん　が　言っ(いっ)てた　こと　は、　本気(ほんき)　で　言っ(いっ)てた。 
-Hanako meant what she said before. (87) 
+Hanako meant what she said before.  
 126-31
 花子さんはすごくやる気を出して生花を学ぶ。 
 花子(はなこ)さん　は　すごく　やる気(やるき)　を　出し(だし)て　生花(いけばな)　を　学ぶ(まなぶ)。 
-Hanako-san gets really motivated when it comes to studying ikebana. (10) 
+Hanako-san gets really motivated when it comes to studying ikebana.  
 126-32
-1920年代と1930年代に人気のあった文体。 1920年代(ねんだい)　と　1930年代(ねんだい)　に　人気(にんき)　の　あった　文体(ぶんたい)。 
-A literary style that was popular in the 1920s and 1930s. (100) 
+1920年代と1930年代に人気のあった文体。 
+1920年代(ねんだい)　と　1930年代(ねんだい)　に　人気(にんき)　の　あった　文体(ぶんたい)。 
+A literary style that was popular in the 1920s and 1930s.  
 126-33
 目に見えない気体にニオイを付けるのが大事です。 
 目(め)　に　見え(みえ)ない　気体(きたい)　に　ニオイ　を　付ける(つける)　の　が　大事(だいじ)　です。 
@@ -1168,12 +1163,12 @@ It is important to give an odor to invisible gases.
 126-34
 花田さんがいま気に入っているのは、ゴルフを学ぶことだ。 
 花田(はなだ)さん　が　いま　気に入っ(きにいっ)て　いる　の　は、　ゴルフ　を　学ぶ(まなぶ)　こと　だ。 
-What Hanada-san is into now is learning to play golf. (101) 
+What Hanada-san is into now is learning to play golf.  
 
 127-1
 汽車の中で話すよ。 
 汽車(きしゃ)　の　中(なか)　で　話す(はなす)　よ。 
-You shall hear it all in the train. (88) 
+You shall hear it all in the train.  
 127-2
 汽車が出て行くところ、…… 
 汽車(きしゃ)　が　出(で)て　行く(いく)　ところ、…… 
@@ -1194,24 +1189,24 @@ The party was in no mood to take a steam train.
 127-6
 七十分のあいだはこの汽車で止まる事なく行けるのだ。 
 七十分(ななじゅっぷん)　の　あいだ　は　この　汽車(きしゃ)　で　止まる(とまる)　事(こと)　なく　行ける(いける)　の　だ。 
-We have a clear run here of seventy minutes by steam train. (88) 
+We have a clear run here of seventy minutes by steam train.  
 
 128-1
 成人した女性。 
 成人(せいじん)　した　女性(じょせい)。 
-A grown woman. (101) 
+A grown woman.  
 128-2
 女々しい男性。 
 女々しい(めめしい)　男性(だんせい)。 
-An effeminate man. (100) 
+An effeminate man.  
 128-3
 女性の百万長者。 
 女性(じょせい)　の　百万長者(ひゃくまんちょうじゃ)。 
-A female millionaire. (100) 
+A female millionaire.  
 128-4
 男性の性交をする力。 
 男性(だんせい)　の　性交(せいこう)　を　する　力(ちから)。 
-A male's strength for sexual intercourse. (100) 
+A male's strength for sexual intercourse.  
 128-5
 本校の校長は女性だ。 
 本校(ほんこう)　の　校長(こうちょう)　は　女性(じょせい)　だ。 
@@ -1219,11 +1214,11 @@ Our school's headmaster is female.
 128-6
 性交をお金にかえる人。 
 性交(せいこう)　を　お金(おかね)　に　かえる　人(ひと)。 
-A person who exchanges sex for money. (100) 
+A person who exchanges sex for money.  
 128-7
 花田さんは女性を見下している。 
 花田(はなだ)さん　は　女性(じょせい)　を　見下し(みくだし)て　いる。 
-Hanada-san looks down on women. (87) 
+Hanada-san looks down on women.  
 128-8
 それ以後女性の人口は倍になった。 
 それ　以後(いご)　女性(じょせい)　の　人口(じんこう)　は　倍(ばい)　に　なった。 
@@ -1235,12 +1230,12 @@ He's talking about the activization of gases.
 128-10
 このヘアスタイルは男性を女っぽく見せる。 
 この　ヘアスタイル　は　男性(だんせい)　を　女(おんな)っぽく　見せる(みせる)。 
-This hairdo feminizes the man. (101) 
+This hairdo feminizes the man.  
 「-っぽい」　[" __like"]: DJG v2 p337; Marx v2 day68. 
 128-11
 「女子」とは、性別が女である子どものことを言う。 
 「女子(じょし)」　と　は、　性別(せいべつ)　が　女(おんな)　で　ある　子ども(こども)　の　こと　を　言う(いう)。 "
-Girl" means a female child. (100) 
+Girl" means a female child.  
 128-12
 クリプトンは六つの不活性気体の一つである。 
 クリプトン　は　六つ(むっつ)　の　不活性(ふかっせい)　気体(きたい)　の　一つ(ひとつ)　で　ある。 
@@ -1248,12 +1243,12 @@ Krypton is one of the six inert gases.
 128-13
 ファッション・デザイナーは、1990年代に女性の見た目を男性化した。 
 ファッション・デザイナー　は、　1990年代(ねんだい)　に　女性(じょせい)　の　見た目(みため)　を　男性化(だんせいか)　した。 
-Fashion designers masculinized women's looks in the 1990s. (101) 
+Fashion designers masculinized women's looks in the 1990s.  
 
 129-1
 田畑に水をやる。 
 田畑(たはた)　に　水(みず)　を　やる。 
-Water the fields. (101) 
+Water the fields.  
 129-2
 田畑さんは大学生です。 
 田畑(たばた)さん　は　大学生(だいがくせい)　です。 
@@ -1277,7 +1272,7 @@ The Butchart Gardens were created approximately one hundred years ago according 
 130-1
 分別のある青年。 
 分別(ふんべつ)　の　ある　青年(せいねん)。 
-A sensible young man. (101) 
+A sensible young man.  
 130-2
 かおが青白く見えるけど。 
 かお　が　青白く(あおじろく)　見える(みえる)　けど。 
@@ -1289,7 +1284,7 @@ Kawabata-san loves blue dresses.
 130-4
 畑山さんは明るい青の目をしていた。 
 畑山(はたけやま)さん　は　明るい(あかるい)　青(あお)　の　目(め)　を　して　いた。 
-Hatakeyama-san had eyes of bright blue. (101) 
+Hatakeyama-san had eyes of bright blue.  
 130-5
 学校の入口で青い目をしている男性を見た。 
 学校(がっこう)　の　入口(いりぐち)　で　青い(あおい)　目(め)　を　して　いる　男性(だんせい)　を　見(み)た。 
@@ -1306,23 +1301,22 @@ Blue cheese" is a cheese that contains a blue mold.
 130-8
 この東の国ではみんな青がいちばん好きだったからです。 
 この　東(ひがし)　の　国(くに)　で　は　みんな　青(あお)　が　いちばん　好き(すき)　だった　から　です。 
-For in this country of the East blue was the favorite color. (99) 
+For in this country of the East blue was the favorite color.  
 「いちばん」　{一番　2; 299} [superlative]: DJG v1 p148; Genki ch10; Marx v1 day70. 
 130-9
 ハイドとか言う青年に付いてちょっと耳にしたものだからね。 
 ハイド　とか　言う(いう)　青年(せいねん)　に　付い(つい)て　ちょっと　耳(みみ)　に　した　もの　だ　から　ね。 
-I have been learning something of young Hyde. (84) 
-「〜もの(だ)」　["(is) something that __"]: DJG v2 p189. 
-131-140 
+I have been learning something of young Hyde.  
+「〜もの(だ)」　["(is) something that __"]: DJG v2 p189.  
 
 131-1
 小さな丸い玉にひいた大麦。 
 小(ちい)さな　丸い(まるい)　玉(たま)　に　ひいた　大麦(おおむぎ)。 
-Barley ground into small round pellets. (100) 
+Barley ground into small round pellets.  
 131-2
 もみがらから麦をより分ける。 
 もみがら　から　麦(むぎ)　を　より分ける(よりわける)。 
-Separate the wheat from the chaff. (101) 
+Separate the wheat from the chaff.  
 131-3
 ここの蕎×麦はイチバンおいしい。 
 ここ　の　蕎×麦(そば)　は　イチバン　おいしい。 
@@ -1374,11 +1368,11 @@ This snake is not venomous.
 133-2
 中毒性のないくすり。 
 中毒性(ちゅうどくせい)　の　ない　くすり。 
-Nonaddictive medicines.  (100) 
+Nonaddictive medicines.   
 133-3
 気の毒にな、オハラは！ 
 気の毒(きのどく)　に　な、　オハラ　は！ 
-Poor O'Hara!  (51) 
+Poor O'Hara!   
 133-4
 青木さんはコカイン中毒だ。 
 青木(あおき)さん　は　コカイン　中毒(ちゅうどく)　だ。 
@@ -1390,7 +1384,7 @@ It's because Kawabata-san has such a sharp tongue.
 133-6
 コップには毒が入っているのです。 
 コップ　に　は　毒(どく)　が　入っ(はいっ)て　いる　の　です。 
-The cup was poisoned. (64) 
+The cup was poisoned.  
 133-7
 その事件以後、青山さんは毒舌になった。 
 その　事件(じけん)　以後(いご)、　青山(あおやま)さん　は　毒舌(どくぜつ)　に　なった。 
@@ -1411,28 +1405,28 @@ A hundred fifty years ago, there were many opium addicts in China.
 134-1
 まだ先は長い。 
 まだ　先(さき)　は　長い(ながい)。 
-We have a long way to go yet. (87) 
+We have a long way to go yet.  
 134-2
 口先ばかりの話者。 
 口先(くちさき)　ばかり　の　話者(わしゃ)。 
-Speakers who are all talk. (101) 
+Speakers who are all talk.  
 「〜ばかり」　["just __"]: DJG v1 p84 & 402; Marx v2 day39; Tobira ch4 #18. 
 134-3
 先日はごめんなさい。 
 先日(せんじつ)　は　ごめん　なさい。 
-I'm sorry about the other day. (87) 
+I'm sorry about the other day.  
 134-4
 学校は2キロ先にある。 
 学校(がっこう)　は　2キロ　先(さき)　に　ある。 
-The school is two kilometers ahead. (87) 
+The school is two kilometers ahead.  
 134-5
 口先の上手いコマーシャル。 
 口先(くちさき)　の　上手い(うまい)　コマーシャル。 
-A slick commercial. (101) 
+A slick commercial.  
 134-6
 先が全く見えませんでした。 
 先(さき)　が　全く(まったく)　見え(みえ)ません　でした。 
-I didn't know what was going to happen. (10) 
+I didn't know what was going to happen.  
 134-7
 川畑さんは大学の先生です。 
 川畑(かわばた)さん　は　大学(だいがく)　の　先生(せんせい)　です。 
@@ -1445,8 +1439,6 @@ Is your father a schoolteacher?
 青田先生は先見の明がなかった。 
 青田(あおた)　先生(せんせい)　は　先見(せんけん)　の　明(めい)　が　なかった。 
 Aota-sensei did not have the gift of foresight. 
-Note: 
-As explained in Volume 1, this series usually leaves the title “-sensei” untranslated. The presence of 先生　(and other titles introduced later) will help you distinguish names from other nouns. 
 134-10
 畑山さんは先生ではありません。 
 畑山(はたけやま)さん　は　先生(せんせい)　で　は　ありません。 
@@ -1481,7 +1473,7 @@ Aoyama-san left without even saying where he was going.
 134-17
 先生はなにかと言うと人のことに口出しする。 
 先生(せんせい)　は　なに　か　と　言う(いう)　と　人(ひと)　の　こと　に　口出し(くちだし)　する。 
-The teacher pokes his nose into everything. (87) 
+The teacher pokes his nose into everything.  
 「〜というと」　{〜と言うと* 51} ["at the mention of __", "when (one) says __"]: DJG v2 p492. 
 「〜のこと」　{〜の事* 80} ["about __"]: DJG v2 p304. 
 134-18
@@ -1504,7 +1496,7 @@ The teachers washed themselves in the river.
 135-3
 この男の子は自分で体を洗う。 
 この　男の子(おとこのこ)　は　自分(じぶん)　で　体(からだ)　を　洗う(あらう)。 
-This boy bathes himself on his own. (100) 
+This boy bathes himself on his own.  
 135-4
 このシャツは洗いにくいです。 
 この　シャツ　は　洗い(あらい)にくい　です。 
@@ -1522,7 +1514,7 @@ This sweater is easy to wash.
 135-7
 水のながれにより水洗するトイレ。 
 水(みず)　の　ながれ　に　より　水洗(すいせん)　する　トイレ。 
-A toilet that is cleaned of waste by the flow of water through it. (100) 
+A toilet that is cleaned of waste by the flow of water through it.  
 「〜によって　/ 〜により」　{〜に依って* / 〜に依り* 701} ["based on/depending on __"; "due to __"]: DJG v2 p292; Marx v2 day43; Tobira ch8 #2. 
 135-8
 田畑さんは自分の車を前川さんに洗わせた。 
@@ -1543,19 +1535,19 @@ Synthetic elements.
 136-2
 不活性元素。 
 不活性(ふかっせい)　元素(げんそ)。 
-Inert elements.  (100) 
+Inert elements.   
 136-3
 身元不明の人。 
 身元(みもと)　不明(ふめい)　の　人(ひと)。 
-Unidentified person.  (87) 
+Unidentified person.   
 136-4
 メタロイド元素。 
 メタロイド　元素(げんそ)。 
-Metalloid elements.  (100) 
+Metalloid elements.   
 136-5
 元気なこんにちは。 
 元気(げんき)　な　こんにちは。 
-A cheery hello. (101) 
+A cheery hello.  
 136-6
 元々どこの出身ですか。 
 元々(もともと)　どこ　の　出身(しゅっしん)　です　か。 
@@ -1567,14 +1559,11 @@ He was energetic, yet taciturn.
 136-8
 元気よく生き生きと。 
 元気(げんき)　よく　生き生き(いきいき)　と。 
-Lively with spirit. (100) 
+Lively with spirit.  
 136-9
 足元はぬかるんでいた。 
 足元(あしもと)　は　ぬかるんで　いた。 
-It was slushy underfoot. (25) 
-Note: 
-ぬかるんで　
-is the continuative form of ぬかるむ, equivalent to ぬかる　(“be slushy”). 
+It was slushy underfoot.  
 136-10
 火の元を用心して下さい。 
 火の元(ひのもと)　を　用心(ようじん)　して　下さい(ください)。 
@@ -1582,7 +1571,7 @@ Please be careful with potential fire sources.
 136-11
 生気、活力または元気のある。 
 生気(せいき)、　活力(かつりょく)　または　元気(げんき)　の　ある。 
-Having life or vigor or spirit. (100) 
+Having life or vigor or spirit.  
 136-12
 元々前川さんはやさしい男だ。 
 元々(もともと)　前川(まえかわ)さん　は　やさしい　男(おとこ)　だ。 
@@ -1590,15 +1579,15 @@ Maekawa-san has always been a good guy.
 136-13
 手元にあるお金はこれだけです。 
 手元(てもと)　に　ある　お金(おかね)　は　これ　だけ　です。 
-This is all the money I have. (87) 
+This is all the money I have.  
 136-14
 ローン全体の元金の1パーセント。 
 ローン　全体(ぜんたい)　の　元金(がんきん)　の　1パーセント。 
-One percent of the total principal of a loan. (100) 
+One percent of the total principal of a loan.  
 136-15
 二、三日したら元どおり元気になるよ。 
 二、三日(に、さんにち)　したら　元(もと)どおり　元気(げんき)　に　なる　よ。 
-You will be all right again in a couple of days. (87) 
+You will be all right again in a couple of days.  
 「-たら」　["if __"; "when __"]: DJG v1 p452; Genki ch17; Marx v2 day21. 
 「〜とおり(に) / 〜どおり(に)」　{〜通りに　159} ["just as __"]: DJG v2 p514; Marx v2 day3; Tobira ch8 #4. 
 136-16
@@ -1613,11 +1602,11 @@ The teacher spoke without revealing her identity.
 136-18
 足元がしっかりしたロバの上にのって行った。 
 足元(あしもと)　が　しっかり　した　ロバ　の　上(うえ)　に　のって　行っ(いっ)た。 
-We went on surefooted donkeys. (101) 
+We went on surefooted donkeys.  
 136-19
 まだ学校へ行けるほど元気にはなっていません。 
 まだ　学校(がっこう)　へ　行ける(いける)　ほど　元気(げんき)　に　は　なって　いません。 
-I'm not strong enough yet to go to school. (87) 
+I'm not strong enough yet to go to school.  
 「まだ〜」　["still __"; "not yet __"]: DJG v1 p224; Genki ch9; Marx v1 day87. 
 「〜ほど」　{〜程* 588} ["to __ extent"]: DJG v1 p135, v2 p57; Marx v2 day57; Tobira ch10 #1. 
 136-20
@@ -1629,11 +1618,11 @@ I plan to cash this million-yen check and start an Internet business.
 137-1
 光るのこり火。 
 光る(ひかる)　のこり火(び)。 
-Glowing embers.  (101) 
+Glowing embers.   
 137-2
 安定した明るい青い光。 
 安定(あんてい)　した　明るい(あかるい)　青い(あおい)　光(ひかり)。 
-A steady bright blue light. (100) 
+A steady bright blue light.  
 137-3
 中から明るい光がもれた。 
 中(なか)　から　明るい(あかるい)　光(ひかり)　が　もれた。 
@@ -1641,56 +1630,54 @@ A bright light escaped from its interior. (7)
 137-4
 二人は月光にてらされた。 
 二人(ふたり)　は　月光(げっこう)　に　てらされた。 
-The pair was drenched in moonlight. (101) 
+The pair was drenched in moonlight.  
 「〜に」　[marks agent/source]: DJG v1 p292 & 303. 
 137-5
 この休みは日光に行きたい。 
 この　休み(やすみ)　は　日光(にっこう)　に　行き(いき)たい。 
-We would like to visit Nikko during this break. (87) 
+We would like to visit Nikko during this break.  
 137-6
 水上の光のちらつきを見ていた。 
 水上(すいじょう)　の　光(ひかり)　の　ちらつき　を　見(み)て　いた。 
-I was watching the play of light on the water. (101) 
+I was watching the play of light on the water.  
 137-7
 花子さんは日光の海に立っていた。 
 花子(はなこ)さん　は　日光(にっこう)　の　海(うみ)　に　立っ(たっ)て　いた。 
-Hanako stood in a pool of sunlight. (101) 
+Hanako stood in a pool of sunlight.  
 137-8
 畑山さんはついに光明を見い出した。 
 畑山(はたけやま)さん　は　ついに　光明(こうみょう)　を　見い出し(みいだし)た。 
-Hatakeyama-san at last found brightness. (101) 
+Hatakeyama-san at last found brightness.  
 「ついに〜」　{遂に〜* 2210} ["at last __", "at length __"]: DJG v2 p531 (covered under とうとう〜); Tobira ch5 #7. 
 137-9
 木は、全ての日光をさえぎっていた。 
 木(き)　は、　全て(すべて)　の　日光(にっこう)　を　さえぎって　いた。 
-The trees were shutting out all sunlight. (101) 
+The trees were shutting out all sunlight.  
 137-10
-ベートーベンの
-「月光」が大好きです。 
-ベートーベン　の　
-「月光(げっこう)」　が　大好き(だいすき)　です。 
+ベートーベンの「月光」が大好きです。 
+ベートーベン　の　「月光(げっこう)」　が　大好き(だいすき)　です。 
 I am very fond of Beethoven's Moonlight Sonata. 
 137-11
 車の前部の光はちかちかと光っていた。 
 車(くるま)　の　前部(ぜんぶ)　の　光(ひかり)　は　ちかちか　と　光っ(ひかっ)て　いた。 
-The car's front lights were flashing. (101) 
+The car's front lights were flashing.  
 137-12
 一パーセクとは、3.262光年とおなじ。 
 一(いち)　パーセク　と　は、　3.262光年(こうねん)　と　おなじ。 
-One parsec is equivalent to 3.262 light years. (100) 
+One parsec is equivalent to 3.262 light years.  
 137-13
 青山さんはキラキラ光るアクセサリーを身に付けていた。 
 青山(あおやま)さん　は　キラキラ　光る(ひかる)　アクセサリー　を　身(み)　に　付け(つけ)て　いた。 
-Aoyama-san was loaded with bling. (101) 
+Aoyama-san was loaded with bling.  
 137-14
 やがて、お日さまの光が、海の上に光り出したとき、目がさめました。 
 やがて、　お日(ひ)さま　の　光(ひかり)　が、　海(うみ)　の　上(うえ)　に　光り出し(ひかりだし)た　とき、　目(め)　が　さめました。 
-When the sun rose on the sea she woke up. (55) 
+When the sun rose on the sea she woke up.  
 「〜とき」　{〜時* 383} ["when __"]: DJG v1 p490; Genki ch16. 
 137-15
 王子が、自分一人でいるつもりで、明るいお月さまの光の中に立っていました。 
 王子(おうじ)　が、　自分(じぶん)　一人(ひとり)　で　いる　つもり　で、　明るい(あかるい)　お月(つき)さま　の　光(ひかり)　の　中(なか)　に　立っ(たっ)て　いました。 
-The prince thought he was quite alone in the clear moonlight. (55) 
+The prince thought he was quite alone in the clear moonlight.  
 「〜つもり」　{〜積もり* 832} [intention/conviction]: DJG v1 p503; Genki ch10; Marx v1 day63. 
 
 138-1
@@ -1700,20 +1687,20 @@ We already had enough of that last year.
 138-2
 ほかの部分が取り去られた後。 
 ほか　の　部分(ぶぶん)　が　取り去ら(とりさら)れた　後(あと)。 
-After other parts have been taken away. (100) 
+After other parts have been taken away.  
 「〜あと」　{〜後　114} ["after __"]. 
 138-3
 ビンからキャップを取り去る。 
 ビン　から　キャップ　を　取り去る(とりさる)。 
-Remove the cap from a bottle. (100) 
+Remove the cap from a bottle.  
 138-4
 元気の無い足取りで立ち去った。 
 元気(げんき)　の　無い(ない)　足取り(あしどり)　で　立ち去っ(たちさっ)た。 
-He went off with springless steps. (101) 
+He went off with springless steps.  
 138-5
 気付かれないうちに、立ち去った。 
 気付か(きづか)れない　うち　に、　立ち去っ(たちさっ)た。 
-He managed to slip away unobserved. (101) 
+He managed to slip away unobserved.  
 「〜うちに」　{〜内に* 215} ["while __", "before __ ends"]: DJG v1 p512; Tobira ch4 #16. 
 138-6
 去年八月に中国の東北部に行った。 
@@ -1722,44 +1709,42 @@ Last August I went to Northeastern China.
 138-7
 お前たちみんな、ここから立ち去れ。 
 お前(おまえ)たち　みんな、　ここ　から　立ち去れ(たちされ)。 
-Get out of here, all of you! (87) 
+Get out of here, all of you!  
 「Imperative verb ending」　: DJG v1 p577 & 579 right column, v2 p70; Marx v1 day28 ("-E form verbs"). 
 138-8
 大部分の人がもうすでに去って行ったんです。 
 大部分(だいぶぶん)　の　人(ひと)　が　もう　すでに　去っ(さっ)て　行っ(いっ)た　ん　です。 
-Almost everyone has already left. (87) 
+Almost everyone has already left.  
 138-9
-光さんは
-「さよなら」も言わずに立ち去った。 
-光(ひかる)さん　は　
-「さよなら」　も　言わ(いわ)ず　に　立ち去っ(たちさっ)た。 
-Hikaru took off without so much as saying "goodbye". (87) 
+光さんは「さよなら」も言わずに立ち去った。 
+光(ひかる)さん　は　「さよなら」　も　言わ(いわ)ず　に　立ち去っ(たちさっ)た。 
+Hikaru took off without so much as saying "goodbye".  
 「-ずに」　["without __ing"]: DJG v1 p271 (covered under -ないで); Tobira ch4 #9. 
 
 139-1
 海事法。 
 海事法(かいじほう)。 
-Maritime law.  (101) 
+Maritime law.   
 139-2
 無法者。 
 無法者(むほうもの)。 
-Outlaw.  (100) 
+Outlaw.   
 139-3
 成文法。 
 成文法(せいぶんほう)。 
-Statutory law.  (101) 
+Statutory law.   
 139-4
 不法な性交。 
 不法(ふほう)　な　性交(せいこう)。 
-Illicit sexual intercourse. (100) 
+Illicit sexual intercourse.  
 139-5
 不法なお金。 
 不法(ふほう)　な　お金(おかね)。 
-Unlawful money.  (101) 
+Unlawful money.   
 139-6
 公正でない法。 
 公正(こうせい)　で　ない　法(ほう)。 
-An unrighteous law. (101) 
+An unrighteous law.  
 139-7
 日本人の法学者。 
 日本人(にほんじん)　の　法学者(ほうがくしゃ)。 
@@ -1767,12 +1752,10 @@ A Japanese jurist.
 139-8
 クレオールの文法。 
 クレオール　の　文法(ぶんぽう)。 
-Creole grammars.  (101) 
+Creole grammars.   
 139-9
-山口大学は
-「国立大学法人」である。 
-山口大学(やまぐちだいがく)　は　
-「国立(こくりつ)　大学(だいがく)　法人(ほうじん)」　で　ある。 
+山口大学は「国立大学法人」である。 
+山口大学(やまぐちだいがく)　は　「国立(こくりつ)　大学(だいがく)　法人(ほうじん)」　で　ある。 
 Yamaguchi University is a "national university corporation". 
 139-10
 北川さんはあたらしい法案を案出した。 
@@ -1789,7 +1772,7 @@ America has adopted ikebana technique from Japan.
 139-13
 ユスティニアヌスは529年にローマ法を成文化した。 
 ユスティニアヌス　は　529年(ねん)　に　ローマ法(ほう)　を　成文化(せいぶんか)　した。 
-Justinian codified Roman law in 529. (100) 
+Justinian codified Roman law in 529.  
 139-14
 千花さんは法学部へ行く前、なん年も本を書こうとした。 
 千花(ちか)さん　は　法学部(ほうがくぶ)　へ　行く(いく)　前(まえ)、　なん年(ねん)　も　本(ほん)　を　書こ(かこ)う　と　した。 
@@ -1799,11 +1782,11 @@ Chika spent years trying to write a book before going to law school.
 140-1
 自走式の車。 
 自走式(じそうしき)　の　車(くるま)。 
-A self-propelled vehicle. (101) 
+A self-propelled vehicle.  
 140-2
 走者がタックルされた。 
 走者(そうしゃ)　が　タックル　された。 
-The runner was tackled. (101) 
+The runner was tackled.  
 140-3
 大きな車で走り去った。 
 大(おお)きな　車(くるま)　で　走り去っ(はしりさっ)た。 
@@ -1811,11 +1794,11 @@ They drove off in a large car.
 140-4
 毎日走っているのですか？ 
 毎日(まいにち)　走っ(はしっ)て　いる　の　です　か？ 
-Do you go running every day? (87) 
+Do you go running every day?  
 140-5
 花子ちゃんは全力で走った。 
 花子(はなこ)ちゃん　は　全力(ぜんりょく)　で　走っ(はしっ)た。 
-Hanako ran as fast as she could. (87) 
+Hanako ran as fast as she could.  
 140-6
 青山さんは毎日十二キロ走っている。 
 青山(あおやま)さん　は　毎日(まいにち)　十二(じゅうに)　キロ　走っ(はしっ)て　いる。 
@@ -1831,33 +1814,32 @@ I hurriedly wrote down Hikaru's story.
 140-9
 小さな男の子が走っているのを見ました。 
 小(ちい)さな　男の子(おとこのこ)　が　走っ(はしっ)て　いる　の　を　見(み)ました。 
-I saw a little boy running. (87) 
+I saw a little boy running.  
 140-10
 アプリケーションを走らせるために入力するコマンド。 
 アプリケーション　を　走ら(はしら)せる　ため　に　入力(にゅうりょく)　する　コマンド。 
-Commands one types in order to run an application. (100) 
-141-150 
+Commands one types in order to run an application.  
 
 141-1
 本当の話。 
 本当(ほんとう)　の　話(はなし)。 
-A true story. (100) 
+A true story.  
 141-2
 一人当たり5千円。 
 一人当たり(ひとりあたり)　5千円(せんえん)。 
-Five thousand yen per person. (100) 
+Five thousand yen per person.  
 141-3
 正当化できる行い。 
 正当化(せいとうか)　できる　行い(おこない)。 
-An act that is capable of being justified. (100) 
+An act that is capable of being justified.  
 141-4
 本当に本気ですか？ 
 本当に(ほんとうに)　本気(ほんき)　です　か？ 
-Are you perfectly serious? (89) 
+Are you perfectly serious?  
 141-5
 本当にすごい男です。 
 本当に(ほんとうに)　すごい　男(おとこ)　です。 
-A very remarkable man. (90) 
+A very remarkable man.  
 141-6
 本当にお見事でした。 
 本当に(ほんとうに)　お見事(みごと)　でした。 
@@ -1865,23 +1847,23 @@ You really did it very well. (4)
 141-7
 当たり前のこと言うなよ。 
 当たり前(あたりまえ)　の　こと　言う(いう)　な　よ。 
-Don't state the obvious. (87) 
+Don't state the obvious.  
 141-8
 光さんは人当たりがいい。 
 光(ひかる)さん　は　人当たり(ひとあたり)　が　いい。 
-Hikaru is friendly to everybody. (87) 
+Hikaru is friendly to everybody.  
 141-9
 本当のところはこうです： 
 本当(ほんとう)　の　ところ　は　こう　です： 
-The truth is this: (64) 
+The truth is this:  
 141-10
 本当のことを言えば、…… 
 本当(ほんとう)　の　こと　を　言え(いえ)ば、…… 
-To tell you the truth. (84) 
+To tell you the truth.  
 141-11
 オレに八つ当たりするなよ。 
 オレ　に　八つ当たり(やつあたり)　する　な　よ。 
-Don't take it out on me. (87) 
+Don't take it out on me.  
 141-12
 そうだろうと見当は付いていた。 
 そう　だろう　と　見当(けんとう)　は　付い(つい)て　いた。 
@@ -1889,7 +1871,7 @@ I guessed as much. (4)
 141-13
 田畑さんは上手く言い当てた。 
 田畑(たばた)さん　は　上手く(うまく)　言い当て(いいあて)た。 
-Tabata-san's guess was right on. (101) 
+Tabata-san's guess was right on.  
 141-14
 先生の言ったことは本当です。 
 先生(せんせい)　の　言っ(いっ)た　こと　は　本当(ほんとう)　です。 
@@ -1905,19 +1887,19 @@ I'd like to win the lottery someday.
 141-17
 いよいよ当日まで10日を切りました。 
 いよいよ　当日(とうじつ)　まで　10日(とおか)　を　切り(きり)ました。 
-There are less than 10 days until the day. (10) 
+There are less than 10 days until the day.  
 141-18
 光さんは先日本当に大目玉をくらった！ 
 光(ひかる)さん　は　先日(せんじつ)　本当に(ほんとうに)　大目玉(おおめだま)　を　くらった！ 
-Hikaru really got a good scolding the other day! (101) 
+Hikaru really got a good scolding the other day!  
 141-19
 当事者は二つのグループに分けられた。 
 当事者(とうじしゃ)　は　二つ(ふたつ)　の　グループ　に　分け(わけ)られた。 
-The parties concerned were separated into two groups. (87) 
+The parties concerned were separated into two groups.  
 141-20
 そのような行いは公正じゃない、そして正当じゃないわ。 
 その　よう　な　行い(おこない)　は　公正(こうせい)　じゃ　ない、　そして　正当(せいとう)　じゃ　ない　わ。 
-Such an act is not just, and it's not right. (25) 
+Such an act is not just, and it's not right.  
 「〜ような」　["like __"]: DJG v2 p340 bottom (covered under -っぽい); Genki ch22. 
 「そして」　["and"]: DJG v1 p422. 
 「わ」　[female speech marker]: DJG v1 p47 & 520; Marx v2 day1. 
@@ -1925,94 +1907,92 @@ Such an act is not just, and it's not right. (25)
 142-1
 金を思わせる。 
 金(きん)　を　思わ(おもわ)せる。 
-Suggestive of gold. (100) 
+Suggestive of gold.  
 142-2
 大事な思い出だ。 
 大事(だいじ)　な　思い出(おもいで)　だ。 
-It's a precious memory. (101) 
+It's a precious memory.  
 142-3
 当たり前だと思う。 
 当たり前(あたりまえ)　だ　と　思う(おもう)。 
-I take that for granted. (101) 
+I take that for granted.  
 「〜とおもう」　{〜と思う　142} ["think(s) (that) __"]: Genki ch9&10. 
 142-4
 気の毒に思える人。 
 気の毒(きのどく)　に　思える(おもえる)　人(ひと)。 
-Someone you feel sorry for. (100) 
+Someone you feel sorry for.  
 142-5
 それで思い出した！ 
 それで　思い出し(おもいだし)た！ 
-That reminds me! (89) 
+That reminds me!  
 142-6
 思いやりのある行い。 
 思いやり(おもいやり)　の　ある　行い(おこない)。 
-A kindly act. (101) 
+A kindly act.  
 142-7
 本当とは思えない話。 
 本当(ほんとう)　と　は　思え(おもえ)ない　話(はなし)。 
-An implausible story. (100) 
+An implausible story.  
 142-8
 二人とも正しいと思う。 
 二人(ふたり)　とも　正しい(ただしい)　と　思う(おもう)。 
-I think both of them are right. (87) 
+I think both of them are right.  
 「〜とも」　["both/all __"; "(n)either (of) __"]. 
 142-9
 本当に思い出せないんです。 
 本当に(ほんとうに)　思い出せ(おもいだせ)ない　ん　です。 
-I really can't remember. (87) 
+I really can't remember.  
 142-10
 この案は上手く行くと思うよ。 
 この　案(あん)　は　上手く(うまく)　行く(いく)　と　思う(おもう)　よ。 
-I think this plan will work out well. (87) 
+I think this plan will work out well.  
 142-11
 男の子は思い切り走っていた。 
 男の子(おとこのこ)　は　思い切り(おもいきり)　走っ(はしっ)て　いた。 
-The boys were running at full stretch. (101) 
+The boys were running at full stretch.  
 142-12
 先生は本当にいい人だと思うよ。 
 先生(せんせい)　は　本当に(ほんとうに)　いい　人(ひと)　だ　と　思う(おもう)　よ。 
-I think the teacher is a really good person. (87) 
+I think the teacher is a really good person.  
 142-13
 北口は後からの思い付きだった。 
 北口(きたぐち)　は　後(あと)　から　の　思い付き(おもいつき)　だった。 
-The north entrance was an afterthought. (101) 
+The north entrance was an afterthought.  
 142-14
 わたしは思うところを口に出した。 
 わたし　は　思う(おもう)　ところ　を　口(くち)　に　出し(だし)た。 
-I gave voice to my feelings. (101) 
+I gave voice to my feelings.  
 142-15
 心さえあれば、大好きになると思う。 
 心(こころ)　さえ　あれば、　大好き(だいすき)　に　なる　と　思う(おもう)。 
-If I only had a heart, I should love them. (99) 
+If I only had a heart, I should love them.  
 「〜さえ」　["even __"; "(if) just __"]: DJG v2 p363; Marx v2 day60-61; Tobira ch5 #6. 
 142-16
 わたしはオズが火の玉だと思っていた。 
 わたし　は　オズ　が　火の玉(ひのたま)　だ　と　思っ(おもっ)て　いた。 
-I thought Oz was a Ball of Fire. (99) 
+I thought Oz was a Ball of Fire.  
 142-17
 山田さんはみんなに好かれるタイプの人だと思う。 
 山田(やまだ)さん　は　みんな　に　好か(すか)れる　タイプ　の　人(ひと)　だ　と　思う(おもう)。 
-I think that Yamada-san is the type everybody likes. (10) 
+I think that Yamada-san is the type everybody likes.  
 142-18
 以前からお目にかかりたいと思っていました。 
 以前(いぜん)　から　お目にかかり(おめにかかり)たい　と　思っ(おもっ)て　いました。 
-I've always wanted to meet you. (87) 
+I've always wanted to meet you.  
 「〜たいとおもっている」　{〜たいと思っている　142} ["would like to __"]. 
 142-19
-かれはあの話を
-「見事なウソ」だと思っていた。 
-かれ　は　あの　話(はなし)　を　
-「見事(みごと)　な　ウソ」　だ　と　思っ(おもっ)て　いた。 
-He thought the tale a 'gaudy lie'. (89) 
+かれはあの話を「見事なウソ」だと思っていた。 
+かれ　は　あの　話(はなし)　を　「見事(みごと)　な　ウソ」　だ　と　思っ(おもっ)て　いた。 
+He thought the tale a 'gaudy lie'.  
 142-20
 入口のちょっと手前で止まり、入ろうか思案しました。 
 入口(いりぐち)　の　ちょっと　手前(てまえ)　で　止まり(とまり)、　入ろう(はいろう)　か　思案(しあん)　しました。 
-I stopped just before the entrance, hesitating to enter. (89) 
+I stopped just before the entrance, hesitating to enter.  
 「Verbal connectives akin to -て」　: DJG v1 p464, v2 p64 of front matter; Tobira ch1 #5. 
 142-21
 そこで用を足すとともに、日の出を見ようと思いました。 
 そこで　用(よう)　を　足す(たす)　とともに、　日の出(ひので)　を　見よ(みよ)う　と　思い(おもい)ました。 
-And so with that, I thought I would make a virtue of necessity and see the sunrise. (89) 
+And so with that, I thought I would make a virtue of necessity and see the sunrise.  
 「そこで〜」　{其処で〜** 1757; 553} ["(and) so __"]: DJG v2 p401 & 405; Tobira ch9 #8. 
 「〜とともに」　{〜と共に　356} ["along with __"]: DJG v2 p532; Marx v2 day48; Tobira ch11 #8. 
 「Volitional + とおもう」　{Volitional + と思う　142} ["think about __ing"]: Genki ch15. 
@@ -2024,33 +2004,33 @@ Shirakawa-san boldly made a public declaration of her beliefs.
 142-23
 ちょっとでも思案していたら、先生も思い止まったかもしれない。 
 ちょっと　でも　思案(しあん)　して　いたら、　先生(せんせい)　も　思い止まっ(おもいとどまっ)た　かも　しれない。 
-A moment's deliberation might have deterred the teacher. (101) 
+A moment's deliberation might have deterred the teacher.  
 「〜でも」　["even __"]: DJG v1 p111; Marx v1 day18. 
 「-たら」　["if __"; "when __"]: DJG v1 p452; Genki ch17; Marx v2 day21. 
 「〜かもしれない」　{〜かも知れない* 560} ["might __"]: DJG v1 p173, v3 p513; Genki ch14. 
 142-24
 自信はないけど、花田さんは前川さんのことが好きなんだと思う。 
 自信(じしん)　は　ない　けど、　花田(はなだ)さん　は　前川(まえかわ)さん　の　こと　が　好き(すき)　なん　だ　と　思う(おもう)。 
-I can't be sure, but I think Hanada-san likes Maekawa-san. (87) 
+I can't be sure, but I think Hanada-san likes Maekawa-san.  
 「〜のこと」　{〜の事* 80} ["about __"]: DJG v2 p304. 
 142-25
 そんなすばらしい国が目の前にあるので、みんなうれしく思いました。 
 そんな　すばらしい　国(くに)　が　目(め)　の　前(まえ)　に　ある　ので、　みんな　うれしく　思い(おもい)ました。 
-They were greatly pleased to see this delightful country before them. (99) 
+They were greatly pleased to see this delightful country before them.  
 「〜ので」　["because __"]: DJG v1 p328; Genki ch12; Marx v1 day60. 
 
 143-1
 手早く行われた。 
 手早く(てばやく)　行わ(おこなわ)れた。 
-It was done with dispatch. (101) 
+It was done with dispatch.  
 143-2
 タイムズの早出し。 
 タイムズ　の　早出し(はやだし)。 
-An early edition of the Times. (88) 
+An early edition of the Times.  
 143-3
 早ければ早いほどいい。 
 早けれ(はやけれ)ば　早い(はやい)　ほど　いい。 
-The sooner, the better. (87) 
+The sooner, the better.  
 「AばBほど」　{AばB程* 588} ["the more A, the more B"]: DJG v2 p6; Marx v2 day58; Tobira ch8 #5. 
 143-4
 学長は話すのを早まった。 
@@ -2059,12 +2039,12 @@ The dean spoke prematurely.
 143-5
 早く大学生になりたいなあ。 
 早く(はやく)　大学生(だいがくせい)　に　なりたい　なあ。 
-I can't wait to go to college. (87) 
+I can't wait to go to college.  
 「なあ」　[exclamation]: DJG v1 p47 bottom, v2 p193. 
 143-6
 成田さんは足早に立ち去った。 
 成田(なりた)さん　は　足早(あしばや)　に　立ち去っ(たちさっ)た。 
-Narita-san went off in a hurry. (87) 
+Narita-san went off in a hurry.  
 143-7
 青木先生は素早く学校に走った。 
 青木(あおき)　先生(せんせい)　は　素早く(すばやく)　学校(がっこう)　に　走っ(はしっ)た。 
@@ -2072,7 +2052,7 @@ Aoki-sensei ran quickly to school.
 143-8
 もっと早く気付けばよかったなあ。 
 もっと　早く(はやく)　気付け(きづけ)ば　よかった　なあ。 
-I wish I had noticed earlier. (87) 
+I wish I had noticed earlier.  
 「-ばよかった」　{-ば良かった* 285} ["should have __ed"; "wish had __ed"]: DJG v1 p87; Genki ch18. 
 「なあ」　[exclamation]: DJG v1 p47 bottom, v2 p193. 
 143-9
@@ -2092,30 +2072,25 @@ If you will need to serve more than ten, please let us know ahead of time.
 「もし(も)〜」　["if __"]: DJG v3 p205 bottom (covered under かりに〜); Marx v2 day21. 
 「いる」　{要る* 547} ["need"]: DJG v1 p157. 
 「〜なら(ば)」　["if __"]: DJG v1 p281; Genki ch13; Marx v2 day23; Tobira ch3 #5. 
-Note: 
-In case you have received this book without purchasing it, please be sure to purchase your own copy, if you would be so kind. Making these materials for learners is a difficult and most precarious livelihood, and I depend on each user’s contribution to be able to cover my household’s basic living expenses. Thank you for your kind understanding and support. - Andrew 
 143-12
 午前中に上海のミィーティングに出るなら、その日は早立ちしないと。 
 午前中(ごぜんちゅう)　に　上海(シャンハイ)　の　ミィーティング　に　出る(でる)　なら、　その　日(ひ)　は　早立ち(はやだち)　しない　と。 
 If you want to attend a meeting in Shanghai in the morning, you'll need to leave very early. 
 「-ないといけない」　[imperative]: DJG v1 p274; Marx v1 day55. 
-Note: 
-「-ないと」　
-is a colloquial abbreviation of 
-「-ないといけない」. 
+「-ないと」　is a colloquial abbreviation of 「-ないといけない」. 
 
 144-1
 水生草本。 
 水生(すいせい)　草本(そうほん)。 
-Aquatic herbs.  (100) 
+Aquatic herbs.   
 144-2
 花がある一年生草本。 
 花(はな)　が　ある　一年生(いちねんせい)　草本(そうほん)。 
-An annual herb that flowers. (100) 
+An annual herb that flowers.  
 144-3
 本当に草木の成長が早い。 
 本当に(ほんとうに)　草木(くさき)　の　成長(せいちょう)　が　早い(はやい)。 
-The plants grow very fast. (10) 
+The plants grow very fast.  
 144-4
 草書体を用いて書いた本だった。 
 草書体(そうしょたい)　を　用い(もちい)て　書い(かい)た　本(ほん)　だった。 
@@ -2142,7 +2117,7 @@ A verandah that gets the morning sun.
 145-2
 父は毎朝ジョギングしに行く。 
 父(ちち)　は　毎朝(まいあさ)　ジョギング　し　に　行く(いく)。 
-My father goes jogging every morning. (87) 
+My father goes jogging every morning.  
 145-3
 青山先生は王朝文学を学んでいる。 
 青山(あおやま)　先生(せんせい)　は　王朝(おうちょう)　文学(ぶんがく)　を　学ん(まなん)で　いる。 
@@ -2157,17 +2132,15 @@ I would like to finish this errand within the early morning.
 月曜日の早朝にアメリカへたたなければならない。 
 月曜日(げつようび)　の　早朝(そうちょう)　に　アメリカ　へ　たたなければ　ならない。 
 Early Monday I must leave for the U.S. 
-「-なければならない」　[imperative]: DJG v1 p274; Genki ch12; Marx v1 day54; Tobira ch2 #1. 
-Note: 
-See KLC entry #148 for the verb たつ　(“leave for”). 
+「-なければならない」　[imperative]: DJG v1 p274; Genki ch12; Marx v1 day54; Tobira ch2 #1.  
 145-6
 元朝は1279年から1368年までの中国の王朝だった。 
 元朝(がんちょう)　は　1279年(ねん)　から　1368年(ねん)　まで　の　中国(ちゅうごく)　の　王朝(おうちょう)　だった。 
-The Yuan Dynasty was the imperial dynasty of China from 1279 to 1368. (100) 
+The Yuan Dynasty was the imperial dynasty of China from 1279 to 1368.  
 145-7
 明朝は1368年から1644年までの中国の王朝だった。 
 明朝(ミンちょう)　は　1368年(ねん)　から　1644年(ねん)　まで　の　中国(ちゅうごく)　の　王朝(おうちょう)　だった。 
-The Ming Dynasty was the imperial dynasty of China from 1368 to 1644. (100) 
+The Ming Dynasty was the imperial dynasty of China from 1368 to 1644.  
 
 146-1
 明日の朝、潮が入る前に出かける。 
@@ -2181,7 +2154,7 @@ Kitagawa-san's student drank a lot of seawater on their beach trip.
 147-1
 無定形。 
 無定形(むていけい)。 
-Formless.  (100) 
+Formless.   
 147-2
 花形走者。 
 花形(はながた)　走者(そうしゃ)。 
@@ -2193,53 +2166,53 @@ A circular field of wheat.
 147-4
 形式だけのこと。 
 形式(けいしき)　だけ　の　こと。 
-A matter of form only. (100) 
+A matter of form only.  
 147-5
 土手を形成する。 
 土手(どて)　を　形成(けいせい)　する。 
-Form a mound over. (100) 
+Form a mound over.  
 147-6
 形成された取っ手。 
 形成(けいせい)　された　取っ手(とって)。 
-A shaped handgrip. (101) 
+A shaped handgrip.  
 147-7
 ボタン形の白い花。 
 ボタン形(がた)　の　白い(しろい)　花(はな)。 
-Button-shaped white flowers. (101) 
+Button-shaped white flowers.  
 147-8
 中心部に形成する。 
 中心部(ちゅうしんぶ)　に　形成(けいせい)　する。 
-Form into a nucleus. (100) 
+Form into a nucleus.  
 147-9
 十字のような形の花。 
 十字(じゅうじ)　の　よう　な　形(かたち)　の　花(はな)。 
-A flower shaped like a cross. (100) 
+A flower shaped like a cross.  
 「〜ような」　["like __"]: DJG v2 p340 bottom (covered under -っぽい); Genki ch22. 
 147-10
 元々手で成形された。 
 元々(もともと)　手(て)　で　成形(せいけい)　された。 
-Originally molded by hand. (100) 
+Originally molded by hand.  
 147-11
 舌のような形をした海。 
 舌(した)　の　よう　な　形(かたち)　を　した　海(うみ)。 
-A sea shaped like a tongue. (100) 
+A sea shaped like a tongue.  
 「〜ような」　["like __"]: DJG v2 p340 bottom (covered under -っぽい); Genki ch22. 
 147-12
 身体を丸めた形にする。 
 身体(しんたい)　を　丸め(まるめ)た　形(かたち)　に　する。 
-Shape one's body into a curl. (100) 
+Shape one's body into a curl.  
 147-13
 刀身のような形をした。 
 刀身(とうしん)　の　よう　な　形(かたち)　を　した。 
-Shaped like a sword blade. (100) 
+Shaped like a sword blade.  
 147-14
 後にこれをちょっとは形式化した。 
 後に(のちに)　これ　を　ちょっと　は　形式化(けいしきか)　した。 
-Later on we formalized this a little bit. (72) 
+Later on we formalized this a little bit.  
 147-15
 キャベツ畑人形は、もはや人気がない。 
 キャベツ畑(ばたけ)　人形(にんぎょう)　は、　もはや　人気(にんき)　が　ない。 
-Cabbage patch dolls are no longer popular. (101) 
+Cabbage patch dolls are no longer popular.  
 147-16
 日本人形は大体、大きい目をしている。 
 日本(にほん)　人形(にんぎょう)　は　大体(だいたい)、　大(おお)きい　目(め)　を　して　いる。 
@@ -2247,7 +2220,7 @@ Japanese dolls generally have big eyes.
 147-17
 かろうじてそれらの形を見分けることができた。 
 かろうじて　それら　の　形(かたち)　を　見分ける(みわける)　こと　が　できた。 
-We could barely make out their shapes. (101) 
+We could barely make out their shapes.  
 「〜ことができる」　{〜事ができる* 80} ["be able to __"]: DJG v1 p200; Marx v1 day50. 
 147-18
 千花さんは体形が大学のころから全くかわってない。 
@@ -2256,7 +2229,7 @@ Chika's figure has not changed at all since university.
 147-19
 ところが日本では、別のファンネットワークが形成された。 
 ところが　日本(にほん)　で　は、　別(べつ)　の　ファン　ネットワーク　が　形成(けいせい)　された。 
-In Japan, however, another fan network was formed. (69) 
+In Japan, however, another fan network was formed.  
 「ところが〜」　["however, __"]: DJG v2 p503; Tobira ch5 #9. 
 
 148-1
@@ -2270,28 +2243,29 @@ Dr. Hayakawa left two days later.
 148-3
 早川先生は三日後に出発する。 
 早川(はやかわ)　先生(せんせい)　は　三日(みっか)　後(ご)　に　出発(しゅっぱつ)　する。 
-Dr. Hayakawa is leaving in three days. (87) 
+Dr. Hayakawa is leaving in three days.  
 148-4
 子牛は活発な足取りで走った。 
 子牛(こうし)　は　活発(かっぱつ)　な　足取り(あしどり)　で　走っ(はしっ)た。 
-The calf ran with a lively gait. (101) 
+The calf ran with a lively gait.  
 148-5
 先日父が書いた本を発見した。 
 先日(せんじつ)　父(ちち)　が　書い(かい)た　本(ほん)　を　発見(はっけん)　した。 
-The other day I discovered a book written by my father. (87) 
+The other day I discovered a book written by my father.  
 148-6
 去年早川さんの本が発行された。 
 去年(きょねん)　早川(はやかわ)さん　の　本(ほん)　が　発行(はっこう)　された。 
 Hayakawa-san's book came out last year. 
 148-7
-30分早く出発すればよかったのに。 30分(ぷん)　早く(はやく)　出発(しゅっぱつ)　すれば　よかった　のに。 
-You should have left half an hour earlier. (87) 
+30分早く出発すればよかったのに。 
+30分(ぷん)　早く(はやく)　出発(しゅっぱつ)　すれば　よかった　のに。 
+You should have left half an hour earlier.  
 「-ばよかった」　{-ば良かった* 285} ["should have __ed"; "wish had __ed"]: DJG v1 p87; Genki ch18. 
 「〜のに」　["even though __"]: DJG v1 p331; Genki ch22; Marx v2 day12. 
 148-8
 クリップは百年以上前に発明された。 
 クリップ　は　百年(ひゃくねん)　以上(いじょう)　前(まえ)　に　発明(はつめい)　された。 
-The paper clip was invented more than a hundred years ago. (101) 
+The paper clip was invented more than a hundred years ago.  
 148-9
 上海を発つところだった。 
 上海(シャンハイ)　を　発つ(たつ)　ところ　だった。 
@@ -2309,7 +2283,7 @@ When are you heading to Shanghai?
 148-12
 パラフィンは以前は発光体として用いられた。 
 パラフィン　は　以前(いぜん)　は　発光体(はっこうたい)　として　用い(もちい)られた。 
-Paraffin was formerly used as an illuminant. (100) 
+Paraffin was formerly used as an illuminant.  
 「〜として」　["in the capacity of __"]: DJG v1 p501; Tobira ch3 #6. 
 148-13
 月は明るいは明るいですが、発光はしません。 
@@ -2332,27 +2306,25 @@ Has Tobu Bus canceled this route?
 149-3
 そのシステムは去年廃止されたと思っていた。 
 その　システム　は　去年(きょねん)　廃止(はいし)　された　と　思っ(おもっ)て　いた。 
-I thought that system was abolished last year. (87) 
+I thought that system was abolished last year.  
 149-4
-日本はむかしは
-「皇国」とよばれたが、そのよびかたはずいぶん前に廃れた。 
-日本(にほん)　は　むかし　は　
-「皇国(こうこく)」　と　よばれた　が、　その　よびかた　は　ずいぶん　前(まえ)　に　廃れ(すたれ)た。 
+日本はむかしは「皇国」とよばれたが、そのよびかたはずいぶん前に廃れた。 
+日本(にほん)　は　むかし　は 「皇国(こうこく)」　と　よばれた　が、　その　よびかた　は　ずいぶん　前(まえ)　に　廃れ(すたれ)た。 
 Japan was once called "the Imperial State", but that name was discarded a long time ago. 
 「-かた」　{-方　173} ["way of __"; "how to __"]: DJG v1 p183; Genki ch23. 
 
 150-1
 音を発する。 
 音(おと)　を　発する(はっする)。 
-Emit a sound. (100) 
+Emit a sound.  
 150-2
 光さんは本音を出した。 
 光(ひかる)さん　は　本音(ほんね)　を　出し(だし)た。 
-Hikaru showed what he meant. (87) 
+Hikaru showed what he meant.  
 150-3
 音を小さくして下さい。 
 音(おと)　を　小(ちい)さく　して　下さい(ください)。 
-Turn down the volume, please. (87) 
+Turn down the volume, please.  
 150-4
 北川さんの発音は正しい。 
 北川(きたがわ)さん　の　発音(はつおん)　は　正しい(ただしい)。 
@@ -2360,35 +2332,33 @@ Kitagawa-san's pronunciation is correct.
 150-5
 パタパタ音を立てて走る小さい足。 
 パタパタ　音(おと)　を　立て(たて)て　走る(はしる)　小(ちい)さい　足(あし)。 
-Tiny feet running with a pitter-patter. (101) 
+Tiny feet running with a pitter-patter.  
 150-6
 千代さんは舌足らずの発音で話した。 
 千代(ちよ)さん　は　舌足らず(したたらず)　の　発音(はつおん)　で　話し(はなし)た。 
-Chiyo spoke lispingly. (101) 
+Chiyo spoke lispingly.  
 150-7
 お父さんかどうかは、足音で分かるんだよ。 
 お父さん(おとうさん)　か　どう　か　は、　足音(あしおと)　で　分かる(わかる)　ん　だ　よ。 
-I can tell whether it's Dad or not by the sound of his footsteps. (87) 
+I can tell whether it's Dad or not by the sound of his footsteps.  
 150-8
 上海は車のクラクションの音がうるさいな。 
 上海(シャンハイ)　は　車(くるま)　の　クラクション　の　音(おと)　が　うるさい　な。 
-In Shanghai the car horns make a lot of noise. (101) 
+In Shanghai the car horns make a lot of noise.  
 「な」　[male alternative to ね]: DJG v1 p46 examples 9-11. 
 150-9
-「
-Y」と言う文字は、母音ですか、子音ですか？ 
-「
-Y」　と　言(い)う　文字(もじ)　は、　母音(ぼいん)　です　か、　子音(しいん)　です　か？ Is the letter “Y” a vowel, or is it a consonant? 
-151-160 
+「Y」と言う文字は、母音ですか、子音ですか？ 
+「Y」　と　言(い)う　文字(もじ)　は、　母音(ぼいん)　です　か、　子音(しいん)　です　か？ 
+Is the letter “Y” a vowel, or is it a consonant? 
 
 151-1
 意見が分かれている。 
 意見(いけん)　が　分かれ(わかれ)て　いる。 
-Opinions are divided. (101) 
+Opinions are divided.  
 151-2
 生意気な口をたたくな！ 
 生意気(なまいき)　な　口(くち)　を　たたく　な！ 
-Don't sass me! (101) 
+Don't sass me!  
 151-3
 お前たちの用意はできてないの？ 
 お前(おまえ)たち　の　用意(ようい)　は　できてない　の？ 
@@ -2415,12 +2385,6 @@ I unexpectedly found the document the dean had written.
 花音(かのん)さん　の　好意(こうい)　を　ありがたく　受け入れ(うけいれ)ました。 
 I accepted Kanon's kindness with appreciation. 
 「-がたい」　{-難い* 712} ["un__able"]: DJG v2 p50. 
-Note: 
-「-がたく」　
-is the -く　form of 
-「-がたい」. A literal translation of 
-「ありがたい」　would be “hard to exist” (in the sense of being out of the ordinary), but the meaning it conveys is “grateful” or “obliged”. Hence 
-「ありがたく受け入れる」　means “to gratefully accept”. 
 151-9
 花音さん、レポートのこの部分は文意不明ですよ。 
 花音(かのん)さん、　レポート　の　この　部分(ぶぶん)　は　文意(ぶんい)　不明(ふめい)　です　よ。 
@@ -2428,71 +2392,71 @@ Kanon, the meaning of this part of your report is not clear.
 151-10
 不意に思い当たって、部長は思わず立ち上がった。 
 不意(ふい)　に　思い当たっ(おもいあたっ)て、　部長(ぶちょう)　は　思わず(おもわず)　立ち上がっ(たちあがっ)た。 
-Suddenly another thought pulled the division chief up off his seat. (16) 
+Suddenly another thought pulled the division chief up off his seat.  
 「-ず」　["not __, so __"; "not __, but __"]: DJG v2 p214 & 315 (covered under -なく　and -ぬ). 
 
 152-1
 せきの発作。 
 せき　の　発作(ほっさ)。 
-A fit of coughing. (101) 
+A fit of coughing.  
 152-2
 女性らしい作法。 
 女性(じょせい)　らしい　作法(さほう)。 
-Ladylike manners.  (101) 
+Ladylike manners.   
 「〜らしい」　["(it) seems (that) __", "I heard (that) __"; "__-like"]: DJG v1 p373; Marx v2 day70; Tobira ch5 #13. 
 152-3
 本当に無作法な者だ。 
 本当に(ほんとうに)　無作法(ぶさほう)　な　者(もの)　だ。 
-He's a real boor. (100) 
+He's a real boor.  
 152-4
 その年は不作だった。 
 その　年(とし)　は　不作(ふさく)　だった。 
-That year there was a crop failure. (101) 
+That year there was a crop failure.  
 152-5
 全く無作法なホステス。 
 全く(まったく)　無作法(ぶさほう)　な　ホステス。 
-A totally graceless hostess. (101) 
+A totally graceless hostess.  
 152-6
 ギザギザの刃先を作る。 
 ギザギザ　の　刃先(はさき)　を　作る(つくる)。 
-Make a jagged cutting edge. (100) 
+Make a jagged cutting edge.  
 152-7
 文書のメモを作成する。 
 文書(ぶんしょ)　の　メモ　を　作成(さくせい)　する。 
-Make a written note of. (100) 
+Make a written note of.  
 152-8
 作者はハッカーである。 
 作者(さくしゃ)　は　ハッカー　で　ある。 
-The author is a hacker. (53) 
+The author is a hacker.  
 152-9
 作り話だと思って下さい。 
 作り話(つくりばなし)　だ　と　思っ(おもっ)て　下さい(ください)。 
-Please take it as a lie. (89) 
+Please take it as a lie.  
 152-10
 この人形、自分で作ったの？ 
 この　人形(にんぎょう)、　自分(じぶん)　で　作っ(つくっ)た　の？ 
-Did you make this doll by yourself? (87) 
+Did you make this doll by yourself?  
 「の(?)」　[female: question marker]: DJG v1 p48; Marx v1 day11. 
 152-11
 それはすでに作成中だった。 
 それ　は　すでに　作成中(さくせいちゅう)　だった。 
-It was already in the making. (101) 
+It was already in the making.  
 152-12
 作者は自分の本にサインした。 
 作者(さくしゃ)　は　自分(じぶん)　の　本(ほん)　に　サイン　した。 
-The author autographed his book. (101) 
+The author autographed his book.  
 152-13
 この車は日本で作られました。 
 この　車(くるま)　は　日本(にほん)　で　作ら(つくら)れました。 
-This car was made in Japan. (87) 
+This car was made in Japan.  
 152-14
 それは自分自身で作ったんですか？ 
 それ　は　自分(じぶん)　自身(じしん)　で　作っ(つくっ)た　ん　です　か？ 
-Did you make it by yourself? (87) 
+Did you make it by yourself?  
 152-15
 男子学生たちは糸を作ることを学んだ。 
 男子(だんし)　学生(がくせい)たち　は　糸(いと)　を　作る(つくる)　こと　を　学ん(まなん)だ。 
-The schoolboys studied how to make thread. (100) 
+The schoolboys studied how to make thread.  
 「こと」　{事　80} [nominalizer]: DJG v1 p193. 
 152-16
 学校で母の日のために手作りのケーキを作った。 
@@ -2501,26 +2465,26 @@ For Mother's Day I made a cake from scratch at school.
 152-17
 花音ちゃんは自分の無作法に全く気付いていない。 
 花音(かのん)ちゃん　は　自分(じぶん)　の　無作法(ぶさほう)　に　全く(まったく)　気付い(きづい)て　いない。 
-Kanon is utterly unconscious of her bad manners. (87) 
+Kanon is utterly unconscious of her bad manners.  
 152-18
 明らかにわたし一人だけのために作られたものです。 
 明(あき)らか　に　わたし　一人(ひとり)　だけ　の　ため　に　作ら(つくら)れた　もの　です。 
-Evidently it has been made for me and me alone. (89) 
+Evidently it has been made for me and me alone.  
 152-19
 きみはこの作文を明日の正午までには書いてしまうよね。 
 きみ　は　この　作文(さくぶん)　を　明日(あした)　の　正午(しょうご)　まで　に　は　書い(かい)て　しまう　よ　ね。 
-You'll have this composition written by noon tomorrow, won't you? (87) 
+You'll have this composition written by noon tomorrow, won't you?  
 「〜までに」　{〜迄に** 1806} ["by (a point in time)"]: DJG v1 p228. 
 「-てしまう」　["do (something regrettable)"; "finish __ing"]: DJG v1 p403; Genki ch18; Marx v2 day28. 
 
 153-1
 昨日の花火見た？ 
 昨日(きのう)　の　花火(はなび)　見(み)た？ 
-Did you see yesterday's fireworks? (87) 
+Did you see yesterday's fireworks?  
 153-2
 昨日の朝出発した。 
 昨日(きのう)　の　朝(あさ)　出発(しゅっぱつ)　した。 
-They departed yesterday morning. (90) 
+They departed yesterday morning.  
 153-3
 一昨年日光に行きました。 
 一昨年(いっさくねん)　日光(にっこう)　に　行き(いき)ました。 
@@ -2532,47 +2496,43 @@ Yesterday was Thursday, right?
 153-5
 光さんは一昨日七海さんと別れた。 
 光(ひかる)さん　は　一昨日(おととい)　七海(ななみ)さん　と　別れ(わかれ)た。 
-Hikaru broke up with Nanami two days ago. (10) 
+Hikaru broke up with Nanami two days ago.  
 153-6
 つい昨日、千花ちゃんは元気だった。 
 つい　昨日(きのう)、　千花(ちか)ちゃん　は　元気(げんき)　だった。 
-As late as yesterday Chika was fine. (101) 
+As late as yesterday Chika was fine.  
 153-7
 わたしは昨日生まれたわけではない。 
 わたし　は　昨日(きのう)　生まれ(うまれ)た　わけ　で　は　ない。 
-I was not born yesterday! (101) 
+I was not born yesterday!  
 「〜わけだ」　{〜訳だ* 1505} ["the fact is/was that __"]: DJG v1 p531, v2 p570; Marx v2 day77; Tobira ch6 #11. 
 「〜わけではない」　{〜訳ではない* 1505} ["it is/was not the case that __"]: DJG v2 p574; Tobira ch7 #15. 
-Note: 
-The structure 
-「〜わけだ」　is glossed here by itself and also as part of the structure 
-「〜わけではない」. Such nested glosses will be presented whenever the nested item has not been introduced previously by itself. 
 153-8
 なぜきみは昨日学校を休んだのですか。 
 なぜ　きみ　は　昨日(きのう)　学校(がっこう)　を　休ん(やすん)だ　の　です　か。 
-Why were you absent from school yesterday? (87) 
+Why were you absent from school yesterday?  
 
 154-1
 雨のない月。 
 雨(あめ)　の　ない　月(つき)。 
-A rainless month. (101) 
+A rainless month.  
 154-2
 昨日の朝は小雨がふった。 
 昨日(きのう)　の　朝(あさ)　は　小雨(こさめ)　が　ふった。 
-There was a light rain yesterday. (87) 
+There was a light rain yesterday.  
 154-3
 先月から雨が不足している。 
 先月(せんげつ)　から　雨(あめ)　が　不足(ふそく)　して　いる。 
-Since last month we've lacked rain. (100) 
+Since last month we've lacked rain.  
 154-4
 雨はまだ止んでいませんね。 
 雨(あめ)　は　まだ　止ん(やん)で　いません　ね。 
-The rain hasn't stopped yet, has it? (87) 
+The rain hasn't stopped yet, has it?  
 「まだ〜」　["still __"; "not yet __"]: DJG v1 p224; Genki ch9; Marx v1 day87. 
 154-5
 午後、雨になるでしょうか。 
 午後(ごご)、　雨(あめ)　に　なる　でしょう　か。 
-Will it rain this afternoon? (87) 
+Will it rain this afternoon?  
 154-6
 日本中部では雨がもう止んだ。 
 日本(にほん)　中部(ちゅうぶ)　で　は　雨(あめ)　が　もう　止ん(やん)だ。 
@@ -2580,50 +2540,50 @@ In Central Japan the rain has already stopped.
 154-7
 二人は雨の中で口付けを交わした。 
 二人(ふたり)　は　雨(あめ)　の　中(なか)　で　口付け(くちづけ)　を　交わし(かわし)た。 
-The two kissed in the rain. (87) 
+The two kissed in the rain.  
 154-8
 大雨のため、海へ行けませんでした。 
 大雨(おおあめ)　の　ため、　海(うみ)　へ　行け(いけ)ません　でした。 
-Because of a downpour we didn't make it to the beach. (87) 
+Because of a downpour we didn't make it to the beach.  
 「〜ため(に)」　{〜為に* 1236} ["because of __"]: DJG v1 p447; Tobira ch2 #7. 
 154-9
 前田さんは雨で全身ビショビショになった。 
 前田(まえだ)さん　は　雨(あめ)　で　全身(ぜんしん)　ビショビショ　に　なった。 
-Maeda-san was completely soaked by the rain. (87) 
+Maeda-san was completely soaked by the rain.  
 154-10
 花はしめやかな雨によってキスされました。 
 花(はな)　は　しめやか　な　雨(あめ)　に　よって　キス　されました。 
-The blossoms were kissed by the soft rain. (101) 
+The blossoms were kissed by the soft rain.  
 「〜によって　+ passive」　{〜に依って* 701} ["(done) by __"]: DJG v1 p366. 
 
 155-1
 水力発電タービン。 
 水力(すいりょく)　発電(はつでん)　タービン。 
-A hydroelectric turbine. (100) 
+A hydroelectric turbine.  
 155-2
 明日の朝電話するね。 
 明日(あした)　の　朝(あさ)　電話(でんわ)　する　ね。 
-I'll call tomorrow morning. (87) 
+I'll call tomorrow morning.  
 155-3
 電気をつけて下さい。 
 電気(でんき)　を　つけて　下さい(ください)。 
-Please turn on the light. (87) 
+Please turn on the light.  
 155-4
 電力を用いるカミソリ。 
 電力(でんりょく)　を　用いる(もちいる)　カミソリ。 
-A razor powered by electricity. (100) 
+A razor powered by electricity.  
 155-5
 化学作用で発生した電気。 
 化学(かがく)　作用(さよう)　で　発生(はっせい)　した　電気(でんき)。 
-Electricity produced by chemical action. (100) 
+Electricity produced by chemical action.  
 155-6
 お手洗の電気がつきません。 
 お手洗(てあらい)　の　電気(でんき)　が　つきません。 
-The lights in the bathroom aren't working. (87) 
+The lights in the bathroom aren't working.  
 155-7
 電話はベルによって発明された。 
 電話(でんわ)　は　ベル　に　よって　発明(はつめい)　された。 
-The telephone was invented by Bell. (87) 
+The telephone was invented by Bell.  
 「〜によって　+ passive」　{〜に依って* 701} ["(done) by __"]: DJG v1 p366. 
 155-8
 上海に四回も電話した。 
@@ -2632,16 +2592,17 @@ I called Shanghai four times.
 155-9
 電車とはレールの上を電気で走る車のことを言う。 
 電車(でんしゃ)　と　は　レール　の　上(うえ)　を　電気(でんき)　で　走る(はしる)　車(くるま)　の　こと　を　言う(いう)。 
-An electric train is a wheeled vehicle that runs on rails and is propelled by electricity. (100) 
+An electric train is a wheeled vehicle that runs on rails and is propelled by electricity.  
 
 156-1
-10頁を見て下さい。 10頁(ページ)　を　見(み)て　下さい(ください)。 
+10頁を見て下さい。 
+10頁(ページ)　を　見(み)て　下さい(ください)。 
 Please see page 10. 
 
 157-1
 部長は首になった。 
 部長(ぶちょう)　は　首(くび)　に　なった。 
-The division chief was fired. (87) 
+The division chief was fired.  
 157-2
 女王は国の元首である。 
 女王(じょおう)　は　国(くに)　の　元首(げんしゅ)　で　ある。 
@@ -2649,7 +2610,7 @@ The Queen is the head of state.
 157-3
 花音さんは手首を切った。 
 花音(かのん)さん　は　手首(てくび)　を　切っ(きっ)た。 
-Kanon slashed her wrists. (101) 
+Kanon slashed her wrists.  
 157-4
 昨日元首にお目にかかった。 
 昨日(きのう)　元首(げんしゅ)　に　お目にかかっ(おめにかかっ)た。 
@@ -2657,7 +2618,7 @@ Yesterday I met the sovereign.
 157-5
 バンジョーには長い首がある。 
 バンジョー　に　は　長い(ながい)　首(くび)　が　ある。 
-The banjo has a long neck. (101) 
+The banjo has a long neck.  
 157-6
 手首をもっと早く回して下さい。 
 手首(てくび)　を　もっと　早く(はやく)　回し(まわし)て　下さい(ください)。 
@@ -2669,25 +2630,15 @@ In all there are some two hundred-odd radicals.
 157-8
 走者は止まるときに足首をねんざした。 
 走者(そうしゃ)　は　止まる(とまる)　とき　に　足首(あしくび)　を　ねんざ　した。 
-The baserunner wrenched his ankle when he came to a stop. (101) 
+The baserunner wrenched his ankle when he came to a stop.  
 「〜とき」　{〜時* 383} ["when __"]: DJG v1 p490; Genki ch16. 
 157-9
 先月のコンサートの前に光さんのバイオリンの首がおれた。 
 先月(せんげつ)　の　コンサート　の　前(まえ)　に　光(ひかる)さん　の　バイオリン　の　首(くび)　が　おれた。 
 Before last month's concert the neck of Hikaru's violin broke. 
 157-10
-「潮」の部首は、
-「水」である。
-「朝」の部首は、
-「月」である。そして
-「早」の部首は、
-「日」である。 
-「潮(しお)」　の　部首(ぶしゅ)　は、　
-「水(みず)」　で　ある。　
-「朝(あさ)」　の　部首(ぶしゅ)　は、　
-「月(つき)」　で　ある。　そして　
-「早(はや)」　の　部首(ぶしゅ)　は、　
-「日(ひ)」　で　ある。 
+「潮」の部首は、「水」である。「朝」の部首は、「月」である。そして「早」の部首は、「日」である。 
+「潮(しお)」　の　部首(ぶしゅ)　は、 「水(みず)」　で　ある。「朝(あさ)」　の　部首(ぶしゅ)　は、「月(つき)」　で　ある。　そして　「早(はや)」　の　部首(ぶしゅ)　は、「日(ひ)」　で　ある。 
 The radical of 潮　is "water". The radical of 朝　is "moon". And the radical of 早　is "sun". 
 「そして」　["and"]: DJG v1 p422. 
 
@@ -2702,7 +2653,7 @@ I'd like to go my own way.
 158-3
 昨日水道を止められた。 
 昨日(きのう)　水道(すいどう)　を　止め(とめ)られた。 
-The water was cut off yesterday. (87) 
+The water was cut off yesterday.  
 158-4
 北山さんは北海道出身だ。 
 北山(きたやま)さん　は　北海道(ほっかいどう)　出身(しゅっしん)　だ。 
@@ -2737,7 +2688,7 @@ Exactly right!
 159-2
 通り道に立つ。 
 通り道(とおりみち)　に　立つ(たつ)。 (
-Physically) stand in the way. (100) 
+Physically) stand in the way.  
 159-3
 交通は全て止まった。 
 交通(こうつう)　は　全て(すべて)　止まっ(とまっ)た。 
@@ -2745,19 +2696,19 @@ All the traffic stopped.
 159-4
 雨を通さないコート。 
 雨(あめ)　を　通さ(とおさ)ない　コート。 
-A coat impermeable to rain. (101) 
+A coat impermeable to rain.  
 159-5
 パッケージを糸に通す。 
 パッケージ　を　糸(いと)　に　通す(とおす)。 
-String a package. (101) 
+String a package.  
 159-6
 通りの明かりで十分だ。 
 通り(とおり)　の　明かり(あかり)　で　十分(じゅうぶん)　だ。 
-We have light enough from the street. (25) 
+We have light enough from the street.  
 159-7
 すみません、前通ります。 
 すみません、　前(まえ)　通り(とおり)ます。 
-Excuse me, I'm coming through. (87) 
+Excuse me, I'm coming through.  
 159-8
 電気通信のための大事な発明。 
 電気(でんき)　通信(つうしん)　の　ため　の　大事(だいじ)　な　発明(はつめい)。 
@@ -2765,34 +2716,34 @@ An important invention for telecommunications.
 159-9
 事前に見通しを立てることなしにした。 
 事前(じぜん)　に　見通し(みとおし)　を　立てる(たてる)　こと　なし　に　した。 
-I did it without forethought. (100) 
+I did it without forethought.  
 「〜なしに」　["without __ing"]: DJG v3 p362. 
 159-10
 小麦はよく通気されるべきだ。 
 小麦(こむぎ)　は　よく　通気(つうき)　される　べき　だ。 
-Wheat should be well aerated. (101) 
+Wheat should be well aerated.  
 「〜べきだ」　["should __"; "must __"]: DJG v2 p11; Marx v1 day53; Tobira ch11 #12. 
 159-11
 前にも言った通り、小男だった。 
 前(まえ)　に　も　言っ(いっ)た　通り(とおり)、　小男(こおとこ)　だった。 
-He was small, as I have said. (84) 
+He was small, as I have said.  
 「〜とおり(に) / 〜どおり(に)」　{〜通りに　159} ["just as __"]: DJG v2 p514; Marx v2 day3; Tobira ch8 #4. 
 159-12
 通信ネットワークの一部分である。 
 通信(つうしん)　ネットワーク　の　一部分(いちぶぶん)　で　ある。 
-It's part of the communications network. (101) 
+It's part of the communications network.  
 159-13
 金さんはそれを文字通り言ったよ。 
 金(キム)さん　は　それ　を　文字通り(もじどおり)　言っ(いっ)た　よ。 
-Kim-san said so literally. (101) 
+Kim-san said so literally.  
 159-14
 学生の中には車で通学する者もいる。 
 学生(がくせい)　の　中(なか)　に　は　車(くるま)　で　通学(つうがく)　する　者(もの)　も　いる。 
-Some of the students come to school by car. (87) 
+Some of the students come to school by car.  
 159-15
 光ファイバーケーブルを用いた通信システム。 
 光(ひかり)ファイバー　ケーブル　を　用い(もちい)た　通信(つうしん)　システム。 
-A communication system using fiber optic cables. (100) 
+A communication system using fiber optic cables.  
 159-16
 法は、きみの言う通り、きみに手出しできない。 
 法(ほう)　は、　きみ　の　言う(いう)　通り(とおり)、　きみ　に　手出し(てだし)　できない。 
@@ -2800,22 +2751,22 @@ The law cannot, as you say, touch you. (4)
 159-17
 前川さんはどうしても自分の思い通りにしようとする。 
 前川(まえかわ)さん　は　どうしても　自分(じぶん)　の　思い通り(おもいどおり)　に　しよう　と　する。 
-Maekawa-san will try to have his way no matter what. (87) 
+Maekawa-san will try to have his way no matter what.  
 159-18
 青白い光が水をよぎって、つま先立ちで通りすぎました。 
 青白い(あおじろい)　光(ひかり)　が　水(みず)　を　よぎって、　つま先立ち(つまさきだち)　で　通り(とおり)すぎました。 
-Pale rays of light tiptoed across the waters. (64) 
+Pale rays of light tiptoed across the waters.  
 159-19
 「受信する」とは、だれかから通信を受け取ることを言う。 
 「受信(じゅしん)　する」　と　は、　だれ　か　から　通信(つうしん)　を　受け取る(うけとる)　こと　を　言う(いう)。 "
-Jushin suru" means to receive a communication from someone. (100) 
+Jushin suru" means to receive a communication from someone.  
 「だれか」　{誰か　2155} ["someone"]: Marx v1 day18. 
 「こと」　{事　80} [nominalizer]: DJG v1 p193. 
 
 160-1
 水っぽい牛乳。 
 水っぽい(みずっぽい)　牛乳(ぎゅうにゅう)。 
-Watery milk.  (101) 
+Watery milk.   
 「-っぽい」　[" __like"]: DJG v2 p337; Marx v2 day68. 
 160-2
 乳母は毎朝早くきてくれる。 
@@ -2834,17 +2785,16 @@ I don't know whether there's enough milk.
 160-5
 七海さんは本当に乳母のカガミだった。 
 七海(ななみ)さん　は　本当に(ほんとうに)　乳母(うば)　の　カガミ　だった。 
-Nanami-san was a treasure of a nurse. (64) 
+Nanami-san was a treasure of a nurse.  
 160-6
 乳首は乳ぶさの先のつき出した部分である。 
 乳首(ちくび)　は　乳(ちち)ぶさ　の　先(さき)　の　つき出し(だし)た　部分(ぶぶん)　で　ある。 
 The nipple is the part of the breast that sticks out at the front. 
-161-170 
 
 161-1
 豆の畑。 
 豆(まめ)　の　畑(はたけ)。 
-A bean plot. (101) 
+A bean plot.  
 161-2
 ゆで小豆がきらいなんだ。 
 ゆで　小豆(あずき)　が　きらい　なん　だ。 
@@ -2861,12 +2811,10 @@ They've been making these small "mamehon" books for ages.
 161-5
 川畑さんは毎朝自分でコーヒー豆をひく。 
 川畑(かわばた)さん　は　毎朝(まいあさ)　自分(じぶん)　で　コーヒー豆(まめ)　を　ひく。 
-Kawabata-san grinds his own coffee beans every morning. (87) 
+Kawabata-san grinds his own coffee beans every morning.  
 161-6
-「青豆」は
-「グリンピース」とも言われる。 
-「青豆(あおまめ)」　は　
-「グリンピース」　と　も　言わ(いわ)れる。 "
+「青豆」は「グリンピース」とも言われる。 
+「青豆(あおまめ)」　は　「グリンピース」　と　も　言わ(いわ)れる。 "
 Aomame" are also called "green peas". 
 「と」　[marks sound/manner or quoted speech]: DJG v1 p478. 
 「〜も」　["also __"]: DJG v1 p247; Genki ch2&4. 
@@ -2874,15 +2822,15 @@ Aomame" are also called "green peas".
 162-1
 頭に当たる。 
 頭(あたま)　に　当たる(あたる)。 
-Hit on the head. (100) 
+Hit on the head.  
 162-2
 うちには十頭の牛がいる。 
 うち　に　は　十頭(じゅっとう)　の　牛(うし)　が　いる。 
-We have ten head of cattle. (87) 
+We have ten head of cattle.  
 162-3
 王子は王の前で頭を下げた。 
 王子(おうじ)　は　王(おう)　の　前(まえ)　で　頭(あたま)　を　下げ(さげ)た。 
-The Prince bowed before the King. (101) 
+The Prince bowed before the King.  
 162-4
 足元と頭上にお気を付け下さい。 
 足元(あしもと)　と　頭上(ずじょう)　に　お気(き)　を　付け(つけ)　下さい(ください)。 
@@ -2891,27 +2839,27 @@ Please watch your head and your step.
 162-5
 男の子は水の上に頭を出した。 
 男の子(おとこのこ)　は　水の上(みずのうえ)　に　頭(あたま)　を　出し(だし)た。 
-The boy kept his head above the water. (87) 
+The boy kept his head above the water.  
 162-6
 二つの頭は一つの頭にまさる。 
 二つ(ふたつ)　の　頭(あたま)　は　一つ(ひとつ)　の　頭(あたま)　に　まさる。 
-Two heads are better than one. (87) 
+Two heads are better than one.  
 162-7
 先頭の〇にチェックが入ります。 
 先頭(せんとう)　の　〇(まる)　に　チェック　が　入り(はいり)ます。 
-The first circle is supposed to be checked. (10) 
+The first circle is supposed to be checked.  
 162-8
 トムは頭にきつい一発を受けた。 
 トム　は　頭(あたま)　に　きつい　一発(いっぱつ)　を　受け(うけ)た。 
-Tom received a heavy blow on the head. (87) 
+Tom received a heavy blow on the head.  
 162-9
 そこの長男はとても頭のいい子だ。 
 そこ　の　長男(ちょうなん)　は　とても　頭(あたま)　の　いい　子(こ)　だ。 
-Their eldest is a very smart boy. (87) 
+Their eldest is a very smart boy.  
 162-10
 立ち上がったら頭がくらくらした。 
 立ち上がっ(たちあがっ)たら　頭(あたま)　が　くらくら　した。 
-When I stood up, my head was swimming. (87) 
+When I stood up, my head was swimming.  
 162-11
 部長に自分の意見を口頭でつたえた。 
 部長(ぶちょう)　に　自分(じぶん)　の　意見(いけん)　を　口頭(こうとう)　で　つたえた(つたえた)。 
@@ -2933,12 +2881,9 @@ After that affair occurred the individual in question turned himself in.
 この　こと　を　よく　頭(あたま)　に　入れ(いれ)て、　工事(こうじ)　を　はじめて　下さい(ください)。 
 Please be sure to have this well in mind before beginning the construction work. 
 162-16
-「
-SEAL」とは
-「Sea, 
-Air, and Land」の頭文字である。 
-「SEAL」　と　は　
-「Sea, Air, and Land」　の　頭文字(かしらもじ)　で　ある。 "SEAL" is an acronym for "Sea, Air and Land". (101) 
+「SEAL」とは「Sea, Air, and Land」の頭文字である。 
+「SEAL」　と　は　「Sea, Air, and Land」　の　頭文字(かしらもじ)　で　ある。 
+"SEAL" is an acronym for "Sea, Air and Land".  
 
 163-1
 これを予め定めた。 
@@ -2947,7 +2892,7 @@ We determined this in advance.
 163-2
 母の予言は全て当たった。 
 母(はは)　の　予言(よげん)　は　全て(すべて)　当たっ(あたっ)た。 
-All of Mother's predictions came true. (87) 
+All of Mother's predictions came true.  
 163-3
 明日の朝は予定があります。 
 明日(あした)　の　朝(あさ)　は　予定(よてい)　が　あります。 
@@ -2955,11 +2900,11 @@ I have plans for tomorrow morning.
 163-4
 予言者の長はモーセだった。 
 予言者(よげんしゃ)　の　長(ちょう)　は　モーセ　だった。 
-The chief prophet was Moses. (86) 
+The chief prophet was Moses.  
 163-5
 土曜日って、なにか予定ある？ 
 土曜日(どようび)　って、　なに　か　予定(よてい)　ある？ 
-Do you have any plans for Saturday? (87) 
+Do you have any plans for Saturday?  
 163-6
 花子さんは立山に行く予定です。 
 花子(はなこ)さん　は　立山(たてやま)　に　行く(いく)　予定(よてい)　です。 
@@ -2967,7 +2912,7 @@ Hanako-san is planning to go to Tateyama.
 163-7
 明日アメリカへ出発する予定です。 
 明日(あした)　アメリカ　へ　出発(しゅっぱつ)　する　予定(よてい)　です。 
-I am leaving for the United States tomorrow. (87) 
+I am leaving for the United States tomorrow.  
 163-8
 前川さんが事件の発生を予見したんですか？ 
 前川(まえかわ)さん　が　事件(じけん)　の　発生(はっせい)　を　予見(よけん)　した　ん　です　か？ 
@@ -2989,7 +2934,7 @@ The division chief directed his anger at Yasuda-san.
 165-1
 ヘブライの小預言者。 
 ヘブライ　の　小預言者(しょうよげんしゃ)。 
-A minor Hebrew prophet. (100) 
+A minor Hebrew prophet.  
 165-2
 一万円お預かりします。 
 一万(いちまん)　円(えん)　お預かり(あずかり)　します。 [
@@ -2997,15 +2942,16 @@ Cashier, when receiving cash from a customer] Out of ten thousand yen.
 165-3
 この本預かってくれる？ 
 この　本(ほん)　預かっ(あずかっ)て　くれる？ 
-May I leave this book with you? (87) 
+May I leave this book with you?  
 「-てくれる」　{-て呉れる** 1478} ["do __ for (me)"]: DJG v1 p216; Genki ch16; Marx v2 day31; Tobira ch3 #12. 
 165-4
 UFJに一千ドルの預金がある。 
-UFJ　に　一千(いっせん)　ドル　の　預金(よきん)　が　ある。 I have a thousand dollars deposited at UFJ. (87) 
+UFJ　に　一千(いっせん)　ドル　の　預金(よきん)　が　ある。 
+I have a thousand dollars deposited at UFJ.  
 165-5
 土曜日に子どもたちを預けることができますか？ 
 土曜日(どようび)　に　子ども(こども)たち　を　預ける(あずける)　こと　が　できます　か？ 
-Can I give you the children for the weekend? (101) 
+Can I give you the children for the weekend?  
 「〜ことができる」　{〜事ができる* 80} ["be able to __"]: DJG v1 p200; Marx v1 day50. 
 
 166-1
@@ -3039,8 +2985,9 @@ Chiyoko is very good at composing haiku.
 To tell you the truth, I don't know the correct pronunciation of this phrase. 
 
 167-1
-4月の中旬。 4月(がつ)　の　中旬(ちゅうじゅん)。 
-The middle part of April. (100) 
+4月の中旬。 
+4月(がつ)　の　中旬(ちゅうじゅん)。 
+The middle part of April.  
 167-2
 上旬までに入金の日にちを定めよう。 
 上旬(じょうじゅん)　まで　に　入金(にゅうきん)　の　日にち(ひにち)　を　定めよ(さだめよ)う。 
@@ -3068,31 +3015,31 @@ Please give me one shaku of soybeans.
 169-1
 公的に行う。 
 公的(こうてき)　に　行う(おこなう)。 
-Do officially.  (100) 
+Do officially.   
 169-2
 文学的な文化。 
 文学的(ぶんがくてき)　な　文化(ぶんか)。 
-Literary culture.  (100) 
+Literary culture.   
 169-3
 予言的な文書。 
 予言的(よげんてき)　な　文書(ぶんしょ)。 
-Prophetic writings.  (101) 
+Prophetic writings.   
 169-4
 自発的に話す。 
 自発的(じはつてき)　に　話す(はなす)。 
-Speak voluntarily.  (100) 
+Speak voluntarily.   
 169-5
 目的のために十分。 
 目的(もくてき)　の　ため　に　十分(じゅうぶん)。 
-Adequate for the purpose. (100) 
+Adequate for the purpose.  
 169-6
 化学的に不活発な。 
 化学的(かがくてき)　に　不活発(ふかっぱつ)　な。 
-Chemically inactive.  (100) 
+Chemically inactive.   
 169-7
 発明的セラミックス。 
 発明的(はつめいてき)　セラミックス。 
-Inventive ceramics.  (101) 
+Inventive ceramics.   
 169-8
 ボールが的に当たった。 
 ボール　が　的(まと)　に　当たっ(あたっ)た。 
@@ -3104,7 +3051,7 @@ What's Hayakawa-san's objective?
 169-10
 本田さんは的にねらいを定めた。 
 本田(ほんだ)さん　は　的(まと)　に　ねらい　を　定め(さだめ)た。 
-Honda-san took aim at the target. (87) 
+Honda-san took aim at the target.  
 169-11
 公的メールを毎日見ることはない。 
 公的(こうてき)　メール　を　毎日(まいにち)　見る(みる)　こと　は　ない。 
@@ -3113,21 +3060,19 @@ It's not necessary to check the official email account every day.
 169-12
 先生がアダルト的な発言をしました。 
 先生(せんせい)　が　アダルト的(てき)　な　発言(はつげん)　を　しました。 
-The teacher made an obscene remark. (10) 
+The teacher made an obscene remark.  
 169-13
 山本さんの本当の目的はなんだろう？ 
 山本(やまもと)さん　の　本当(ほんとう)　の　目的(もくてき)　は　なん　だろう？ 
-What are Yamamoto-san's true intentions, I wonder? (87) 
+What are Yamamoto-san's true intentions, I wonder?  
 169-14
 月子さんはとても文学的な話しかたをする。 
 月子(つきこ)さん　は　とても　文学的(ぶんがくてき)　な　話し(はなし)かた　を　する。 
 Tsukiko has a very literary way of talking. 
 「-かたをする」　{-方をする　173} ["in (such a) way"]: DJG v2 p109. 
 169-15
-法的には、山口大学は
-「国立大学法人」である。 
-法的(ほうてき)　に　は、　山口(やまぐち)　大学(だいがく)　は　
-「国立(こくりつ)　大学(だいがく)　法人(ほうじん)」　で　ある。 
+法的には、山口大学は「国立大学法人」である。 
+法的(ほうてき)　に　は、　山口(やまぐち)　大学(だいがく)　は 「国立(こくりつ)　大学(だいがく)　法人(ほうじん)」　で　ある。 
 In legal terms, Yamaguchi University is a "national university corporation". 
 169-16
 全体的に見ると花田さんの話が前田さんのより正しい、と言う気がします。 
@@ -3139,41 +3084,40 @@ In general I get the impression that Hanada-san's story is more accurate than Ma
 170-1
 約300万年前から。 
 約(やく)　300万(まん)　年(ねん)　前(まえ)　から。 
-From about 3 million years ago. (100) 
+From about 3 million years ago.  
 170-2
 千花さんは先約があった。 
 千花(ちか)さん　は　先約(せんやく)　が　あった。 
-Chika had a previous engagement. (87) 
+Chika had a previous engagement.  
 170-3
 中国の人口は日本の約8倍です。 
 中国(ちゅうごく)　の　人口(じんこう)　は　日本(にほん)　の　約(やく)　8倍(ばい)　です。 
-China’s population is about eight times Japan’s. (87) 
+China’s population is about eight times Japan’s.  
 170-4
 予約を受け入れないレストラン。 
 予約(よやく)　を　受け入れ(うけいれ)ない　レストラン。 
-A restaurant that does not accept reservations. (100) 
+A restaurant that does not accept reservations.  
 170-5
 予約を火曜日から月曜日に早めた。 
 予約(よやく)　を　火曜日(かようび)　から　月曜日(げつようび)　に　早め(はやめ)た。 
-I moved the appointment ahead from Tuesday to Monday. (101) 
+I moved the appointment ahead from Tuesday to Monday.  
 170-6
 カナダの人口は約二千六百万人です。 
 カナダ　の　人口(じんこう)　は　約(やく)　二千(にせん)　六百(ろっぴゃく)　万(まん)　人(にん)　です。 
-The population of Canada is about 26 million. (87) 
+The population of Canada is about 26 million.  
 170-7
 お気に入りのレストランにテーブルを予約した。 
 お気に入り(おきにいり)　の　レストラン　に　テーブル　を　予約(よやく)　した。 
-I reserved a table at my favorite restaurant. (101) 
+I reserved a table at my favorite restaurant.  
 170-8
 ドイツ人はベルサイユ条約が不当であると本当に信じていた。 
 ドイツ人(じん)　は　ベルサイユ　条約(じょうやく)　が　不当(ふとう)　で　ある　と　本当に(ほんとうに)　信じ(しんじ)て　いた。 
-The Germans truly believed that the Treaty of Versailles was unjust. (101) 
+The Germans truly believed that the Treaty of Versailles was unjust.  
 170-9
 一昨日、川畑先生は学長の公約について発言した。それから昨日、前田さんは川畑先生の発言を約言した。 
 一昨日(おととい)、川畑(かわばた)　先生(せんせい)　は　学長(がくちょう)　の　公約(こうやく)　について　発言(はつげん)　した。　それから　昨日(きのう)、　前田(まえだ)さん　は　川畑(かわばた)　先生(せんせい)　の　発言(はつげん)　を　約言(やくげん)　した。 
 Two days ago Kawabata-sensei commented on the dean’s public pledge. And then yesterday, Maeda-san summarized Kawabata-sensei’s remarks. 
 「それから〜」　{其れから〜** 1757} ["and then __"]: DJG v1 p416. 
-171-180 
 
 171-1
 花音さんは勿体らしい身ぶりをしていた。 
@@ -3194,11 +3138,11 @@ Akiko is much too talented to be a waitress!
 172-1
 無生物。 
 無生物(むせいぶつ)。 
-Inanimate objects.  (101) 
+Inanimate objects.   
 172-2
 無生物体。 
 無生(むせい)　物体(ぶったい)。 
-An inanimate body. (101) 
+An inanimate body.  
 172-3
 人工公物。 
 人工(じんこう)　公物(こうぶつ)。 
@@ -3206,15 +3150,15 @@ Human-made public good (roads, etc.).
 172-4
 全身性毒物。 
 全身性(ぜんしんせい)　毒物(どくぶつ)。 
-A systemic poison (a poison that circulates through a body). (101) 
+A systemic poison (a poison that circulates through a body).  
 172-5
 本物のピカソ。 
 本物(ほんもの)　の　ピカソ。 
-A genuine Picasso. (101) 
+A genuine Picasso.  
 172-6
 好意などの無形物。 
 好意(こうい)　など　の　無形物(むけいぶつ)。 
-Intangible assets such as good will. (101) 
+Intangible assets such as good will.  
 「〜など」　{〜等* 393} ["such as __"]: DJG v1 p267; Tobira ch2 #2. 
 172-7
 小切手は本物でした。 
@@ -3223,115 +3167,115 @@ The cheque was genuine.
 172-8
 わしは宝物を見つけた。 
 わし　は　宝物(たからもの)　を　見つけ(みつけ)た。 
-I found the treasure. (90) 
+I found the treasure.  
 172-9
 別の物を見せて下さい。 
 別(べつ)　の　物(もの)　を　見せ(みせ)て　下さい(ください)。 
-Please show me another one. (87) 
+Please show me another one.  
 「もの」　{物　172} [tangible thing]: DJG v1 p193 (covered under こと); Marx v1 day34; Tobira ch7 (first page). 
 172-10
 月には生き物がいない。 
 月(つき)　に　は　生き物(いきもの)　が　いない。 
-There is no life on the moon. (101) 
+There is no life on the moon.  
 172-11
 首長は小さな人物でした。 
 首長(しゅちょう)　は　小(ちい)さな　人物(じんぶつ)　でした。 
-The emir was a slight creature. (89) 
+The emir was a slight creature.  
 172-12
 ホタルは生物発光性である。 
 ホタル　は　生物(せいぶつ)　発光性(はっこうせい)　で　ある。 
-Fireflies are bioluminescent. (101) 
+Fireflies are bioluminescent.  
 172-13
 お父さんは物分かりがいい。 
 お父さん(おとうさん)　は　物分かり(ものわかり)　が　いい。 
-Dad is very understanding. (87) 
+Dad is very understanding.  
 172-14
 その2つの本は比べ物にならない。 
 その　2つ　の　本(ほん)　は　比べ物(くらべもの)　に　ならない。 
-There is no comparison between the two books. (101) 
+There is no comparison between the two books.  
 172-15
 花子さんは安物は身につけません。 
 花子(はなこ)さん　は　安物(やすもの)　は　身(み)　に　つけません。 
-Hanako-san doesn't wear the cheap stuff. (87) 
+Hanako-san doesn't wear the cheap stuff.  
 172-16
 大山さんは自分は大物だと思っている。 
 大山(おおやま)さん　は　自分(じぶん)　は　大物(おおもの)　だ　と　思っ(おもっ)て　いる。 
-Oyama-san thinks he's a big shot. (101) 
+Oyama-san thinks he's a big shot.  
 172-17
 花子ちゃんはアイスクリームが大好物だ。 
 花子(はなこ)ちゃん　は　アイス　クリーム　が　大好物(だいこうぶつ)　だ。 
-Hanako loves ice cream. (101) 
+Hanako loves ice cream.  
 172-18
 のこり物を電子レンジにかけることができる。 
 のこり物(もの)　を　電子(でんし)　レンジ　に　かける　こと　が　できる。 
-You can microwave the leftovers. (101) 
+You can microwave the leftovers.  
 「〜ことができる」　{〜事ができる* 80} ["be able to __"]: DJG v1 p200; Marx v1 day50. 
 
 173-1
 行方不明者。 
 行方(ゆくえ)　不明(ふめい)　者(しゃ)。 
-A missing person. (101) 
+A missing person.  
 173-2
 前方を見る。 
 前方(ぜんぽう)　を　見る(みる)。 
-See ahead.  (100) 
+See ahead.   
 173-3
 北東の方へ。 
 北東(ほくとう)　の　方(ほう)　へ。 
-Toward the northeast. (100) 
+Toward the northeast.  
 173-4
 光電の方法で。 
 光電(こうでん)　の　方法(ほうほう)　で。 
-By photoelectric means. (100) 
+By photoelectric means.  
 173-5
 法的な方法で。 
 法的(ほうてき)　な　方法(ほうほう)　で。 
-In a legal manner. (100) 
+In a legal manner.  
 173-6
 正当な方法で。 
 正当(せいとう)　な　方法(ほうほう)　で。 
-In a valid manner. (100) 
+In a valid manner.  
 173-7
 心休まる方法で。 
 心(こころ)　休まる(やすまる)　方法(ほうほう)　で。 
-In a soothing manner. (100) 
+In a soothing manner.  
 173-8
 自発的な方法で。 
 自発的(じはつてき)　な　方法(ほうほう)　で。 
-In a willing manner. (100) 
+In a willing manner.  
 173-9
 不信心な方法で。 
 不信心(ふしんじん)　な　方法(ほうほう)　で。 
-In an impious manner. (100) 
+In an impious manner.  
 173-10
 立方体に切られる。 
 立方体(りっぽうたい)　に　切ら(きら)れる。 
-Cut into cubes. (100) 
+Cut into cubes.  
 173-11
 あなたの話し方が好き。 
 あなた　の　話し方(はなしかた)　が　好き(すき)。 
-I like the way you talk. (87) 
+I like the way you talk.  
 「-かた」　{-方　173} ["way of __"; "how to __"]: DJG v1 p183; Genki ch23. 
 173-12
 明らかに目立つ方法で。 
 明(あき)らか　に　目立つ(めだつ)　方法(ほうほう)　で。 
-In a clearly noticeable manner. (100) 
+In a clearly noticeable manner.  
 173-13
 母方のいとこが三人います。 
 母方(ははかた)　の　いとこ　が　三人(さんにん)　います。 
-I have three cousins on my mother's side. (87) 
+I have three cousins on my mother's side.  
 173-14
 話し方で正男さんだと分かる。 
 話し方(はなしかた)　で　正男(まさお)さん　だ　と　分かる(わかる)。 
-I can tell it's Masao by the way he speaks. (87) 
+I can tell it's Masao by the way he speaks.  
 173-15
 明子さんは後方をちらっと見た。 
 明子(あきこ)さん　は　後方(こうほう)　を　ちらっと　見(み)た。 
-Akiko stole a rearward glance. (101) 
+Akiko stole a rearward glance.  
 173-16
 活発であるか活気がある方法で。 
 活発(かっぱつ)　で　ある　か　活気(かっき)　が　ある　方法(ほうほう)　で。 
-In a spirited or lively manner. (100) 
+In a spirited or lively manner.  
 「か」　["or"]: DJG v1 p164. 
 173-17
 毎年、電気代が安くなる一方だ。 
@@ -3347,21 +3291,21 @@ My mother has less energy every day.
 173-19
 話者が正しいと信じている方法で。 
 話者(わしゃ)　が　正しい(ただしい)　と　信じ(しんじ)て　いる　方法(ほうほう)　で。 
-In a manner that the speaker believes is correct. (100) 
+In a manner that the speaker believes is correct.  
 173-20
 どちらの方が正しいと思いますか。 
 どちら　の　方(ほう)　が　正しい(ただしい)　と　思い(おもい)ます　か。 
-Which one do you think is correct? (87) 
+Which one do you think is correct?  
 173-21
 前もって予約しといた方がいいですよ。 
 前もって(まえもって)　予約(よやく)　し　といた　方(ほう)　が　いい　です　よ。 
-You had better make a reservation in advance. (87) 
+You had better make a reservation in advance.  
 「-といた」　[colloquial contraction of -ておいた, past tense of -ておく: indicates act of prudence/getting something done]. 
 「〜ほうがいい」　{〜方がいい　/ 〜方が良い* 173} ["had better __"]: DJG v1 p138; Genki ch12; Marx v1 day53. 
 173-22
 ついに長人さんはその作り方を発見した。 
 ついに　長人(ながと)さん　は　その　作り方(つくりかた)　を　発見(はっけん)　した。 
-At last Nagato found out how to make it. (87) 
+At last Nagato found out how to make it.  
 「ついに〜」　{遂に〜* 2210} ["at last __", "at length __"]: DJG v2 p531 (covered under とうとう〜); Tobira ch5 #7. 
 173-23
 その一方で、父は全く文句を言わなかった。 
@@ -3371,25 +3315,25 @@ Meanwhile, Dad complained not a word.
 173-24
 田畑さんがいつも自分なりの方法を見付けます。 
 田畑(たばた)さん　が　いつも　自分(じぶん)　なり　の　方法(ほうほう)　を　見付け(みつけ)ます。 
-Tabata-san always finds his own way of doing things. (10) 
+Tabata-san always finds his own way of doing things.  
 「なりの〜」　["(one's) own particular __"]: DJG v2 p227. 
 173-25
 回りくどい言い方は止めてはっきり言ってよ！ 
 回りくどい(まわりくどい)　言い方(いいかた)　は　止め(やめ)て　はっきり　言っ(いっ)て　よ！ 
-Stop beating around the bush and give it to me straight! (87) 
+Stop beating around the bush and give it to me straight!  
 173-26
 行き止まりとは一方からしか出入りのできない通りのことを言う。 
 行き止まり(いきどまり)　と　は　一方(いっぽう)　から　しか　出入り(でいり)　の　できない　通り(とおり)　の　こと　を　言う(いう)。 
-A cul-de-sac is a street with only one way in or out. (100) 
+A cul-de-sac is a street with only one way in or out.  
 173-27
 あなたの女の子についての話し方は、ものすごくいいと思うわ。 
 あなた　の　女の子(おんなのこ)　について　の　話し方(はなしかた)　は、　ものすごく　いい　と　思う(おもう)　わ。 
-The way you talk about girls is very good. (64) 
+The way you talk about girls is very good.  
 「わ」　[female speech marker]: DJG v1 p47 & 520; Marx v2 day1. 
 173-28
 文法的には正しいのですが、ネイティブはこのような言い方はしません。 
 文法的(ぶんぽうてき)　に　は　正しい(ただしい)　の　です　が、　ネイティブ　は　この　よう　な　言い方(いいかた)　は　しません。 
-It's grammatically correct, but a native would never say it like that. (87) 
+It's grammatically correct, but a native would never say it like that.  
 「〜ような」　["like __"]: DJG v2 p340 bottom (covered under -っぽい); Genki ch22. 
 
 174-1
@@ -3399,7 +3343,7 @@ Antifungal.
 174-2
 発生を防ぐ。 
 発生(はっせい)　を　防ぐ(ふせぐ)。 
-Prevent the occurrence of. (100) 
+Prevent the occurrence of.  
 174-3
 予防はなにより大切だ。 
 予防(よぼう)　は　なに　より　大切(たいせつ)　だ。 
@@ -3407,7 +3351,7 @@ Prevention is the most important thing.
 174-4
 花形ドラマーはアパートを防音にした。 
 花形(はながた)　ドラマー　は　アパート　を　防音(ぼうおん)　に　した。 
-The star drummer had his apartment soundproofed. (101) 
+The star drummer had his apartment soundproofed.  
 174-5
 アメリカの国防はペンタゴンを中心とする。 
 アメリカ　の　国防(こくぼう)　は　ペンタゴン　を　中心(ちゅうしん)　と　する。 
@@ -3421,23 +3365,23 @@ The atmosphere is very unstable, so please make sure to waterproof the veranda.
 175-1
 首の後面。 
 首(くび)　の　後面(こうめん)。 
-The back side of the neck. (100) 
+The back side of the neck.  
 175-2
 面白い話者。 
 面白い(おもしろい)　話者(わしゃ)。 
-An amusing speaker. (101) 
+An amusing speaker.  
 175-3
 当面の目的。 
 当面(とうめん)　の　目的(もくてき)。 
-An immediate objective. (100) 
+An immediate objective.  
 175-4
 月面で目立つクレーター。 
 月面(げつめん)　で　目立つ(めだつ)　クレーター。 
-A conspicuous crater on the Moon. (100) 
+A conspicuous crater on the Moon.  
 175-5
 物事の明るい面を見よう。 
 物事(ものごと)　の　明るい(あかるい)　面(めん)　を　見よ(みよ)う。 
-Look on the bright side. (101) 
+Look on the bright side.  
 「-めん」　{-面　175} ["aspect of __"]: DJG v2 p176. 
 175-6
 お手洗いは通りに面する。 
@@ -3446,11 +3390,11 @@ The restroom faces the street.
 175-7
 これが面白いとは思わない。 
 これ　が　面白い(おもしろい)　と　は　思わ(おもわ)ない。 
-I don't think this is funny. (87) 
+I don't think this is funny.  
 175-8
 面白みのない元気のない青年。 
 面白み(おもしろみ)　の　ない　元気(げんき)　の　ない　青年(せいねん)。 
-An insipid and bloodless young man. (101) 
+An insipid and bloodless young man.  
 175-9
 明日学校の正面入口であおう。 
 明日(あした)　学校(がっこう)　の　正面(しょうめん)　入口(いりぐち)　で　あおう。 
@@ -3475,7 +3419,8 @@ A lifelike landscape painting.
 How many strokes are used to write 画? 
 176-3
 iPadの画面は見やすいです。 
-iPad　の　画面(がめん)　は　見やすい(みやすい)　です。 The iPad screen is easy to see. 
+iPad　の　画面(がめん)　は　見やすい(みやすい)　です。 
+The iPad screen is easy to see. 
 176-4
 この山水画は画一的で面白くないですね。 
 この　山水画(さんすいが)　は　画一的(かくいつてき)　で　面白く(おもしろく)ない　です　ね。 
@@ -3485,32 +3430,31 @@ I find this landscape painting unappealing for being too uniform.
 177-1
 車両交通。 
 車両(しゃりょう)　交通(こうつう)。 
-Vehicular traffic.  (101) 
+Vehicular traffic.   
 177-2
 両方通行の通り。 
 両方(りょうほう)　通行(つうこう)　の　通り(とおり)。 
-Two-way streets.  (101) 
+Two-way streets.   
 177-3
 車両の後ろの入口。 
 車両(しゃりょう)　の　後ろ(うしろ)　の　入口(いりぐち)。 
-A gate at the rear of a vehicle. (100) 
+A gate at the rear of a vehicle.  
 177-4
 大きい両刃のだんびら。 
 大(おお)きい　両刃(りょうば)　の　だんびら。 
-A large double-edged broadsword. (100) 
+A large double-edged broadsword.  
 177-5
 両面コピーを三部下さい。 
 両面(りょうめん)　コピー　を　三部(さんぶ)　下さい(ください)。 
-Three double-sided copies please. (101) 
+Three double-sided copies please.  
 177-6
-両面が
-S字形になっている。 
-両面(りょうめん)　が　
-S　字形(じけい)　に　なって　いる。 Both sides have an S-shape. (100) 
+両面がS字形になっている。 
+両面(りょうめん)　が　S　字形(じけい)　に　なって　いる。 
+Both sides have an S-shape.  
 177-7
 部長は2通のメールを両方見た。 
 部長(ぶちょう)　は　2通(つう)　の　メール　を　両方(りょうほう)　見(み)た。 
-The division chief looked at both the emails. (87) 
+The division chief looked at both the emails.  
 177-8
 ボストンのツアーバスの一部は水りく両用車を用いている。 
 ボストン　の　ツアー　バス　の　一部(いちぶ)　は　水りく(すいりく)　両用車(りょうようしゃ)　を　用い(もちい)て　いる。 
@@ -3532,18 +3476,15 @@ The train headed for Okayama departs from platform 2.
 179-1
 不満足な方法で。 
 不満足(ふまんぞく)　な　方法(ほうほう)　で。 
-In an unsatisfactory manner. (100) 
+In an unsatisfactory manner.  
 179-2
 自信に満ちた話者。 
 自信(じしん)　に　満ち(みち)た　話者(わしゃ)。 
-A confident speaker. (101) 
+A confident speaker.  
 179-3
 十分に満たない雨。 
 十分(じゅうぶん)　に　満(み)たない　雨(あめ)。 
 An inadequate rainfall. 
-Note: 
-「満たない」　
-is a negative form of the archaic verb 満つ, equivalent to the modern 満ちる. 満つ　is still used in modern Japanese in expressions of negation. 
 179-4
 車を満タンにした。 
 車(くるま)　を　満(まん)タン　に　した。 
@@ -3551,31 +3492,31 @@ I filled up the tank of the car.
 179-5
 活気に満ちたパーティ。 
 活気(かっき)　に　満ち(みち)た　パーティ。 
-A lively party. (101) 
+A lively party.  
 179-6
 海は生物で満ちている。 
 海(うみ)　は　生物(せいぶつ)　で　満ち(みち)て　いる。 
-The oceans are teeming with life. (101) 
+The oceans are teeming with life.  
 179-7
 あなたに不満があります。 
 あなた　に　不満(ふまん)　が　あります。 
-I have a bone to pick with you. (87) 
+I have a bone to pick with you.  
 179-8
 女の子はカップを満たした。 
 女の子(おんなのこ)　は　カップ　を　満たし(みたし)た。 
-The girl topped off the cup. (101) 
+The girl topped off the cup.  
 179-9
 活発で自信満々な先生だった。 
 活発(かっぱつ)　で　自信満々(じしんまんまん)　な　先生(せんせい)　だった。 
-He was a lively and confident teacher. (100) 
+He was a lively and confident teacher.  
 179-10
 あの日見えたのは満月でした。 
 あの　日(ひ)　見え(みえ)た　の　は　満月(まんげつ)　でした。 
-It was a full moon that was seen that day. (87) 
+It was a full moon that was seen that day.  
 179-11
 岡田さんはビンに水を満たした。 
 岡田(おかだ)さん　は　ビン　に　水(みず)　を　満たし(みたし)た。 
-Okada-san filled the bottle with water. (87) 
+Okada-san filled the bottle with water.  
 179-12
 明日の朝、満潮とともに出ます。 
 明日(あした)　の　朝(あさ)、　満潮(まんちょう)　とともに　出(で)ます。 
@@ -3584,7 +3525,7 @@ We shall head out tomorrow morning with the high tide. (7)
 179-13
 それでも、二人は満ち足りていました。 
 それでも、　二人(ふたり)　は　満ち足り(みちたり)て　いました。 
-And yet they had been so well content. (29) 
+And yet they had been so well content.  
 「それでも〜」　{其れでも〜** 1757} ["yet __"]: DJG v2 p418; Marx v2 day13. 
 179-14
 一日中不満で満ちた文句ばかりを言ってた。 
@@ -3606,11 +3547,11 @@ This treaty adequately fulfills the conditions the two sides had fixed.
 179-18
 性的に自分自身を満足させる。 
 性的(せいてき)　に　自分(じぶん)　自身(じしん)　を　満足(まんぞく)　させる。 
-Sexually satisfy oneself. (100) 
+Sexually satisfy oneself.  
 179-19
 ガソリンを満タンにして、ついでにオイルも見てくれませんか？ 
 ガソリン　を　満(まん)タン　に　して、　ついで　に　オイル　も　見(み)て　くれません　か？ 
-Could you fill up the tank and take a look at the oil, too? (87) 
+Could you fill up the tank and take a look at the oil, too?  
 「ついでに」　{序でに** 1209} ["while you're at it, __"]: DJG v3 p671. 
 「-てくれる」　{-て呉れる** 1478} ["do __ for (me)"]: DJG v1 p216; Genki ch16; Marx v2 day31; Tobira ch3 #12. 
 「-ませんか」　["won't you __"]: Genki ch3; Marx v1 day49. 
@@ -3618,11 +3559,11 @@ Could you fill up the tank and take a look at the oil, too? (87)
 180-1
 顔を背ける。 
 顔(かお)　を　背ける(そむける)。 
-Avert one's face. (101) 
+Avert one's face.  
 180-2
 ショックで青ざめた顔。 
 ショック　で　青ざめ(あおざめ)た　顔(かお)。 
-A face livid with shock. (101) 
+A face livid with shock.  
 180-3
 毎日洗顔するのを止めた。 
 毎日(まいにち)　洗顔(せんがん)　する　の　を　止め(やめ)た。 
@@ -3635,11 +3576,11 @@ I washed my face three times yesterday.
 180-5
 光は月子さんの顔に当たった。 
 光(ひかり)　は　月子(つきこ)さん　の　顔(かお)　に　当たっ(あたっ)た。 
-Light fell on Tsukiko's face. (101) 
+Light fell on Tsukiko's face.  
 180-6
 シルバーの顔は明るくなった。 
 シルバー　の　顔(かお)　は　明るく(あかるく)　なった。 
-Silver's face was radiant. (90) 
+Silver's face was radiant.  
 180-7
 青白い顔をしているね、ネリー。 
 青白い(あおじろい)　顔(かお)　を　して　いる　ね、　ネリー。 
@@ -3647,7 +3588,7 @@ How pale you look, Nellie! (8)
 180-8
 火の光が、かれらの顔に当たった。 
 火(ひ)　の　光(ひかり)　が、　かれら　の　顔(かお)　に　当たっ(あたっ)た。 
-The fire beamed on their faces. (101) 
+The fire beamed on their faces.  
 180-9
 素顔はとてもお見せできません。 
 素顔(すがお)　は　とても　お見せ(みせ)　できません。 
@@ -3655,7 +3596,7 @@ There's no way I can show my face without putting makeup on.
 180-10
 学校へ行く前に顔を洗いなさい。 
 学校(がっこう)　へ　行く(いく)　前(まえ)　に　顔(かお)　を　洗い(あらい)　なさい。 
-Wash your face before you go to school. (87) 
+Wash your face before you go to school.  
 「-なさい」　[imperative]: DJG v1 p284; Genki ch22; Marx v1 day40. 
 180-11
 山岡さんの顔面が青白くなった。 
@@ -3674,32 +3615,31 @@ Do you think round-faced men look boyish?
 180-14
 顔は見えなかったが、頭の形ははっきりと分かった。 
 顔(かお)　は　見え(みえ)なかった　が、　頭(あたま)　の　形(かたち)　は　はっきり　と　分かっ(わかっ)た。 
-His face could not be seen, but the shape of his head was unmistakable. (30) 
+His face could not be seen, but the shape of his head was unmistakable.  
 180-15
 ナイフを手にして、勿体らしい顔付きでパンを切りにかかった。 
 ナイフ　を　手(て)　に　して、　勿体らしい(もったいらしい)　顔付き(かおつき)　で　パン　を　切り(きり)　に　かかった。 
-He took a knife into his hand, assumed an air of importance, and cut the roll open. (61) 
+He took a knife into his hand, assumed an air of importance, and cut the roll open.  
 「かかる」　{掛かる* 1117} ["hang"; "be caught"]: Marx v1 day52. 
 180-16
 なぜなら前にも子どものいない女の人の顔に、その男の子を見たことがある気がしたからでした。 
 なぜなら　前(まえ)　に　も　子ども(こども)　の　いない　女(おんな)　の　人(ひと)　の　顔(かお)　に、　その　男の子(おとこのこ)　を　見(み)た　こと　が　ある　気(き)　が　した　から　でした。 
-For she thought she had seen the boy before in the faces of many women who have no children. (64) 
+For she thought she had seen the boy before in the faces of many women who have no children.  
 「なぜなら(ば)〜からだ」　{何故なら(ば)〜からだ** 815; 257} ["because __"]: DJG v3 p371; Marx v2 day11. 
-「〜ことがある」　{〜事がある* 80} ["__ has occurred"]: DJG v1 p196; Genki ch11; Marx v1 day62; Tobira ch1 #6. 
-181-190 
+「〜ことがある」　{〜事がある* 80} ["__ has occurred"]: DJG v1 p196; Genki ch11; Marx v1 day62; Tobira ch1 #6.  
 
 181-1
 生産的な方法で。 
 生産的(せいさんてき)　な　方法(ほうほう)　で。 
-In a productive way. (100) 
+In a productive way.  
 181-2
 出産予定日はいつなの？ 
 出産(しゅっさん)　予定日(よていび)　は　いつ　な　の？ 
-When are you expecting? (87) 
+When are you expecting?  
 181-3
 元気な男の子が産まれましたよ。 
 元気(げんき)　な　男の子(おとこのこ)　が　産まれ(うまれ)ました　よ。 
-They just had a healthy baby boy. (87) 
+They just had a healthy baby boy.  
 181-4
 牛乳は岡山北部の物産の一つだ。 
 牛乳(ぎゅうにゅう)　は　岡山(おかやま)　北部(ほくぶ)　の　物産(ぶっさん)　の　一(ひと)つ　だ。 
@@ -3711,7 +3651,7 @@ The star dancer is expecting in September.
 181-6
 昨日一人の女性が子どもを三人産んだ。 
 昨日(きのう)　一人(ひとり)　の　女性(じょせい)　が　子ども(こども)　を　三人(さんにん)　産ん(うん)だ。 
-Yesterday one woman gave birth to three children. (10) 
+Yesterday one woman gave birth to three children.  
 181-7
 国産ワインはわたしの好物だとは言えない。 
 国産(こくさん)　ワイン　は　わたし　の　好物(こうぶつ)　だ　と　は　言え(いえ)ない。 
@@ -3720,29 +3660,29 @@ I wouldn't say domestic wines are my favorite.
 182-1
 同じ方法で。 
 同じ(おなじ)　方法(ほうほう)　で。 
-In an identical manner. (100) 
+In an identical manner.  
 182-2
 口頭による同意。 
 口頭(こうとう)　に　よる　同意(どうい)。 
-An oral agreement. (101) 
+An oral agreement.  
 「〜による」　{〜に依る* 701} ["based on __"; "by __"]. 
 182-3
 先生も同意見だ。 
 先生(せんせい)　も　同意見(どういけん)　だ。 
-The doctor thinks so too. (90) 
+The doctor thinks so too.  
 「〜も」　["also __"]: DJG v1 p247; Genki ch2&4. 
 182-4
 文化的に同化する。 
 文化的(ぶんかてき)　に　同化(どうか)　する。 
-Assimilate culturally.  (100) 
+Assimilate culturally.   
 182-5
 無言の同意をした。 
 無言(むごん)　の　同意(どうい)　を　した。 
-I gave silent consent. (101) 
+I gave silent consent.  
 182-6
 心から同意します。 
 心(こころ)　から　同意(どうい)　します。 
-I wholeheartedly agree. (87) 
+I wholeheartedly agree.  
 182-7
 同上の条件により。 
 同上(どうじょう)　の　条件(じょうけん)　に　より。 
@@ -3750,15 +3690,15 @@ In accordance with the foregoing conditions.
 182-8
 自分と同じ国の出身の人。 
 自分(じぶん)　と　同じ(おなじ)　国(くに)　の　出身(しゅっしん)　の　人(ひと)。 
-A person from your own country. (100) 
+A person from your own country.  
 182-9
 一年中いつも同じでした。 
 一年中(いちねんじゅう)　いつも　同じ(おなじ)　でした。 
-It was the same all year round. (87) 
+It was the same all year round.  
 182-10
 おれが昨日見た同じ男性。 
 おれ　が　昨日(きのう)　見(み)た　同じ(おなじ)　男性(だんせい)。 
-The same man I saw yesterday. (101) 
+The same man I saw yesterday.  
 「おれ」　{俺　1356} [very informal: "I"]: DJG v1 p28. 
 182-11
 ジキルとハイドは同一の人物である。 
@@ -3767,88 +3707,88 @@ Jekyll and Hyde are one and the same person.
 182-12
 先生は大体ぼくと同じくらいの身長です。 
 先生(せんせい)　は　大体(だいたい)　ぼく　と　同じ(おなじ)　くらい　の　身長(しんちょう)　です。 
-The teacher is about the same height as I. (87) 
+The teacher is about the same height as I.  
 「〜くらい」　{〜位* 577} ["about __"]: DJG v1 p212; Marx v2 day78. 
 182-13
 だから一人前の男と同じように話をするんだぞ。 
 だ　から　一人前(いちにんまえ)　の　男(おとこ)　と　同じ(おなじ)　よう　に　話(はなし)　を　する　ん　だ　ぞ。 
-I'll talk to you in the same way as a man. (90) 
+I'll talk to you in the same way as a man.  
 「〜ように」　["as __", "as if __"]: DJG v1 p554; Genki ch22; Tobira ch1 #3. 
 「〜ぞ」　["__, I'm telling you"]: DJG v1 p47, v2 p609; Marx v2 day1. 
 182-14
 目の前にいるのはマンチキンたちと同じくらいの大きさの小男でした。 
 目(め)　の　前(まえ)　に　いる　の　は　マンチキンたち　と　同じ(おなじ)　くらい　の　大き(おおき)さ　の　小男(こおとこ)　でした。 
-Before them stood a little man about the same size as the Munchkins. (99) 
+Before them stood a little man about the same size as the Munchkins.  
 
 183-1
 北方向に。 
 北(きた)　方向(ほうこう)　に。 
-In a northern direction. (100) 
+In a northern direction.  
 183-2
 東へ向かう電車。 
 東(ひがし)　へ　向かう(むかう)　電車(でんしゃ)。 
-Eastbound trains.  (101) 
+Eastbound trains.   
 183-3
 下方を向いている。 
 下方(かほう)　を　向い(むい)て　いる。 
-Directed downward.  (100) 
+Directed downward.   
 183-4
 上向きにジャンプする。 
 上向き(うわむき)　に　ジャンプ　する。 
-Jump upward.  (100) 
+Jump upward.   
 183-5
 そのスタジオは北向きだ。 
 その　スタジオ　は　北向き(きたむき)　だ。 
-The studio had a northern exposure. (101) 
+The studio had a northern exposure.  
 183-6
 チームは大いに向上した。 
 チーム　は　大いに(おおいに)　向上(こうじょう)　した。 
-The team improved greatly. (101) 
+The team improved greatly.  
 183-7
 背を向けるのはこわかった。 
 背(せ)　を　向ける(むける)　の　は　こわかった。 
-I was afraid to turn. (89) 
+I was afraid to turn.  
 183-8
 二人は面と向かって話した。 
 二人(ふたり)　は　面(めん)　と　向かっ(むかっ)て　話し(はなし)た。 
-The two spoke face to face. (101) 
+The two spoke face to face.  
 183-9
 わたしの方を向いて下さい。 
 わたし　の　方(ほう)　を　向い(むい)て　下さい(ください)。 
-Turn toward me, please. (87) 
+Turn toward me, please.  
 183-10
 長岡さんは先生に向いてない。 
 長岡(ながおか)さん　は　先生(せんせい)　に　向い(むい)てない。 
-Nagaoka-san is not cut out for teaching. (87) 
+Nagaoka-san is not cut out for teaching.  
 183-11
 向こうに大きな山が見えます。 
 向こう(むこう)　に　大(おお)きな　山(やま)　が　見え(みえ)ます。 
-We can see a big mountain over there. (87) 
+We can see a big mountain over there.  
 183-12
 学校はうちの向かいにあります。 
 学校(がっこう)　は　うち　の　向かい(むかい)　に　あります。 
-The school is across from our house. (87) 
+The school is across from our house.  
 183-13
 この子は明白に大学向きだった。 
 この　子(こ)　は　明白(めいはく)　に　大学向き(だいがくむき)　だった。 
-This kid was clearly university material. (101) 
+This kid was clearly university material.  
 183-14
 そしてまた別の方を向きました。 
 そして　また　別(べつ)　の　方(ほう)　を　向き(むき)ました。 
-With that, he turned away. (60) 
+With that, he turned away.  
 「そして」　["and"]: DJG v1 p422. 
 183-15
 先生は立ち上がってドアに向かった。 
 先生(せんせい)　は　立ち上がっ(たちあがっ)て　ドア　に　向かっ(むかっ)た。 
-The teacher stood up and headed for the door. (87) 
+The teacher stood up and headed for the door.  
 183-16
 パトカーが止まって素早く向きをかえた。 
 パトカー　が　止まっ(とまっ)て　素早く(すばやく)　向き(むき)　を　かえた。 
-The police car pulled up short and then turned around fast. (101) 
+The police car pulled up short and then turned around fast.  
 183-17
 車両交通が両方向のどちらにも走れる通り。 
 車両(しゃりょう)　交通(こうつう)　が　両方向(りょうほうこう)　の　どちら　に　も　走れる(はしれる)　通り(とおり)。 
-A street on which vehicular traffic can move in either of two directions. (100) 
+A street on which vehicular traffic can move in either of two directions.  
 183-18
 青木さんはミーティングで交わされた意向をまとめた。 
 青木(あおき)さん　は　ミーティング　で　交わさ(かわさ)れた　意向(いこう)　を　まとめた。 
@@ -3886,15 +3826,15 @@ In that case it's all the more important that you tell Okada-san.
 185-1
 高年の男性。 
 高年(こうねん)　の　男性(だんせい)。 
-A man of advanced age. (101) 
+A man of advanced age.  
 185-2
 母は高校の先生です。 
 母(はは)　は　高校(こうこう)　の　先生(せんせい)　です。 
-My mother is a high school teacher. (87) 
+My mother is a high school teacher.  
 185-3
 当事者は高校2年生だ。 
 当事者(とうじしゃ)　は　高校(こうこう)　2年生(ねんせい)　だ。 
-The party concerned is in the eleventh grade. (87) 
+The party concerned is in the eleventh grade.  
 185-4
 去年の生産高と同じだ。 
 去年(きょねん)　の　生産高(せいさんだか)　と　同じ(おなじ)　だ。 
@@ -3902,7 +3842,7 @@ It's the same production level as last year.
 185-5
 これは高すぎると思います。 
 これ　は　高(たか)すぎる　と　思い(おもい)ます。 
-I think this is too expensive. (87) 
+I think this is too expensive.  
 「-すぎる」　{-過ぎる　464} ["__ too much", "over-__"]: DJG v1 p423; Genki ch12; Marx v1 day61. 
 185-6
 背が高くやせている男だった。 
@@ -3911,17 +3851,17 @@ A lean, long man he was.
 185-7
 自分より年上で身分が高い人。 
 自分(じぶん)　より　年上(としうえ)　で　身分(みぶん)　が　高い(たかい)　人(ひと)。 
-A person who is older and higher in rank than oneself. (100) 
+A person who is older and higher in rank than oneself.  
 185-8
 部下は手足が長く、背が高くてやせていた。 
 部下(ぶか)　は　手足(てあし)　が　長く(ながく)、　背(せ)　が　高く(たかく)て　やせて　いた。 
-The assistant was very tall and thin, with long arms and legs. (87) 
+The assistant was very tall and thin, with long arms and legs.  
 「-く」　["and"; "so"]: DJG v2 p148. 
 「-て　/ -で」　[connective form of adjectives]: DJG v1 p464; Marx v1 day66. 
 185-9
 一昨日きみが背の高い男の子といるのを見たよ。 
 一昨日(おととい)　きみ　が　背(せ)　の　高い(たかい)　男の子(おとこのこ)　と　いる　の　を　見(み)た　よ。 
-I saw you with a tall boy two days ago. (87) 
+I saw you with a tall boy two days ago.  
 「の」　[nominalizer]: DJG v1 p318; Genki ch8. 
 185-10
 人気が高まってライブのチケットが取りづらい。 
@@ -3947,15 +3887,15 @@ From twenty years ago until two years ago, milk production in Northern Okayama s
 186-1
 水圧方法で。 
 水圧(すいあつ)　方法(ほうほう)　で。 
-By hydraulic means. (100) 
+By hydraulic means.  
 186-2
 ピーク電圧。 
 ピーク　電圧(でんあつ)。 
-Peak voltage.  (101) 
+Peak voltage.   
 186-3
 物体に圧力を生じさせる力。 
 物体(ぶったい)　に　圧力(あつりょく)　を　生じ(しょうじ)させる　力(ちから)。 
-A force that produces strain on a physical body. (100) 
+A force that produces strain on a physical body.  
 186-4
 大豆を圧して取ったあぶら。 
 大豆(だいず)　を　圧し(おし)て　取っ(とっ)た　あぶら。 
@@ -3967,12 +3907,12 @@ Pressure built inside the engine.
 186-6
 高圧的なセールスマンの饒×舌さ。 
 高圧的(こうあつてき)　な　セールスマン　の　饒×舌(じょうぜつ)さ。 
-The glibness of a high-pressure salesman. (101) 
+The glibness of a high-pressure salesman.  
 「-さ」　["__ness"]: DJG v1 p381; Marx v1 day67; Tobira ch1 #2. 
 186-7
 海面での気圧は1013ミリバールである。 
 海面(かいめん)　で　の　気圧(きあつ)　は　1013ミリバール　で　ある。 
-Atmospheric pressure at sea level is 1013 millibars. (101) 
+Atmospheric pressure at sea level is 1013 millibars.  
 186-8
 わたしたちは発電するために水圧方法を用いる。 
 わたしたち　は　発電(はつでん)　する　ため　に　水圧(すいあつ)　方法(ほうほう)　を　用いる(もちいる)。 
@@ -3990,35 +3930,35 @@ Local products.
 187-2
 花は草地をおおった。 
 花(はな)　は　草地(くさち)　を　おおった。 
-Flowers carpeted the meadows. (101) 
+Flowers carpeted the meadows.  
 187-3
 高地で成長する草木。 
 高地(こうち)　で　成長(せいちょう)　する　草木(くさき)。 
-Plants that grow at high altitudes. (100) 
+Plants that grow at high altitudes.  
 187-4
 火山で作り出された地形。 
 火山(かざん)　で　作り出さ(つくりださ)れた　地形(ちけい)。 
-Volcanically created landscape. (101) 
+Volcanically created landscape.  
 187-5
 火は、心地よい音を出した。 
 火(ひ)　は、　心地よい(ここちよい)　音(おと)　を　出し(だし)た。 
-The fire crackled cozily. (101) 
+The fire crackled cozily.  
 187-6
 この土地は作物がよくできる。 
 この　土地(とち)　は　作物(さくもつ)　が　よく　できる。 
-This land crops well. (101) 
+This land crops well.  
 187-7
 パン生地にレーズンを入れる。 
 パン　生地(きじ)　に　レーズン　を　入れる(いれる)。 
-Work the raisins into the dough. (101) 
+Work the raisins into the dough.  
 187-8
 地面は足元がぐしょぐしょだった。 
 地面(じめん)　は　足元(あしもと)　が　ぐしょぐしょ　だった。 
-The ground was boggy under foot. (101) 
+The ground was boggy under foot.  
 187-9
 両手で地面をたたき、立ち上がった。 
 両手(りょうて)　で　地面(じめん)　を　たたき、　立ち上がっ(たちあがっ)た。 
-I beat the ground with both hands, and got up. (89) 
+I beat the ground with both hands, and got up.  
 「Verbal connectives akin to -て」　: DJG v1 p464, v2 p64 of front matter; Tobira ch1 #5. 
 187-10
 地元の生産高を別の見地から見よう。 
@@ -4027,32 +3967,32 @@ Let's view the local output from another perspective.
 187-11
 水は百五十日のあいだ地上にみなぎった。 
 水(みず)　は　百(ひゃく)　五十(ごじゅう)　日(にち)　の　あいだ　地上(ちじょう)　に　みなぎった。 
-And the waters prevailed upon the earth for a hundred and fifty days. (33) 
+And the waters prevailed upon the earth for a hundred and fifty days.  
 187-12
 地元チームには、十分なリードがあった。 
 地元(じもと)　チーム　に　は、　十分(じゅうぶん)　な　リード　が　あった。 
-The home team had a comfortable lead. (101) 
+The home team had a comfortable lead.  
 187-13
 二月二十七日になって、地は全くかわいた。 
 二月(にがつ)　二十七日(にじゅうしちにち)　に　なって、　地(ち)　は　全く(まったく)　かわいた。 
-In the second month, on the seven and twentieth day, the earth was dried. (33) 
+In the second month, on the seven and twentieth day, the earth was dried.  
 187-14
 顔をうつむかせて、目は地面を見つめていました。 
 顔(かお)　を　うつむかせて、　目(め)　は　地面(じめん)　を　見つめ(みつめ)て　いました。 
-She had her head bowed and her eyes upon the ground. (99) 
+She had her head bowed and her eyes upon the ground.  
 
 188-1
 電池式ラジオ。 
 電池式(でんちしき)　ラジオ。 
-A battery-powered radio. (101) 
+A battery-powered radio.  
 188-2
 道は池を回して行く。 
 道(みち)　は　池(いけ)　を　回し(まわし)て　行く(いく)。 
-The road goes around the pond. (101) 
+The road goes around the pond.  
 188-3
 カメラ用の電池を下さい。 
 カメラ用(よう)　の　電池(でんち)　を　下さい(ください)。 
-Please give me batteries for a camera. (87) 
+Please give me batteries for a camera.  
 188-4
 山火事を防ぐための用水池。 
 山火事(やまかじ)　を　防ぐ(ふせぐ)　ため　の　用水池(ようすいいけ)。 
@@ -4060,45 +4000,45 @@ A reservoir for fighting forest fires.
 188-5
 この池には以前カエルがたくさんいた。 
 この　池(いけ)　に　は　以前(いぜん)　カエル　が　たくさん　いた。 
-There used to be a lot of frogs in this pond. (87) 
+There used to be a lot of frogs in this pond.  
 188-6
 約1.5ボルトを生じさせるボルタ電池。 
 約(やく)　1.5ボルト　を　生じ(しょうじ)させる　ボルタ　電池(でんち)。 
-A voltaic cell that produces approximately 1.5 volts. (100) 
+A voltaic cell that produces approximately 1.5 volts.  
 
 189-1
 他方では、... 
 他方(たほう)　で　は、... 
-On the other hand, … (100) 
+On the other hand, …  
 189-2
 他に方法がないんだ。 
 他(ほか)　に　方法(ほうほう)　が　ない　ん　だ。 
-There is no other way. (64) 
+There is no other way.  
 189-3
 先生は他の方向を見た。 
 先生(せんせい)　は　他(ほか)　の　方向(ほうこう)　を　見(み)た。 
-The teacher looked off in another direction. (101) 
+The teacher looked off in another direction.  
 189-4
 他に取るべき道は無い。 
 他(ほか)　に　取る(とる)　べき　道(みち)　は　無い(ない)。 
-There is no good alternative. (87) 
+There is no good alternative.  
 「〜べきだ」　["should __"; "must __"]: DJG v2 p11; Marx v1 day53; Tobira ch11 #12. 
 189-5
 なにか他の言い方はある？ 
 なに　か　他(ほか)　の　言い方(いいかた)　は　ある？ 
-Can it be phrased in another way? (87) 
+Can it be phrased in another way?  
 189-6
 当事者には他に方法が無かった。 
 当事者(とうじしゃ)　に　は　他(ほか)　に　方法(ほうほう)　が　無かっ(なかっ)た。 
-There was nothing else the parties could have done. (10) 
+There was nothing else the parties could have done.  
 189-7
 生物が他の生物から生まれること。 
 生物(せいぶつ)　が　他(ほか)　の　生物(せいぶつ)　から　生まれる(うまれる)　こと。 
-The production of living organisms from other living organisms. (100) 
+The production of living organisms from other living organisms.  
 189-8
 その他全ては、光もなく見えません。 
 その　他(た)　全て(すべて)　は、　光(ひかり)　も　なく　見え(みえ)ません。 
-All else is rayless obscurity. (89) 
+All else is rayless obscurity.  
 189-9
 他国では日本のラーメンが大人気だ。 
 他国(たこく)　で　は　日本(にほん)　の　ラーメン　が　大人気(だいにんき)　だ。 
@@ -4111,36 +4051,37 @@ That teacher is easy to follow, but on the other hand he can go on and on.
 189-11
 他の女の子より一足先に自分の意思で成長した。 
 他(ほか)　の　女の子(おんなのこ)　より　一足(ひとあし)　先(さき)　に　自分(じぶん)　の　意思(いし)　で　成長(せいちょう)　した。 
-She grew up of her own free will a step quicker than other girls. (64) 
+She grew up of her own free will a step quicker than other girls.  
 189-12
 他人を正そうと言う者は一人だっていなかった。 
 他人(たにん)　を　正そ(ただそ)う　と　言う(いう)　者(もの)　は　一人(ひとり)　だって　いなかった。 
-There was not one man aboard to mend another's ways. (90) 
+There was not one man aboard to mend another's ways.  
 「〜だって」　["__ too"; "even __"]: DJG v3 p63. 
 189-13
 本当に生きたいなら、あなた自身と他人を受け入れなければならない。 
 本当に(ほんとうに)　生き(いき)たい　なら、　あなた　自身(じしん)　と　他人(たにん)　を　受け入れ(うけいれ)なければ　ならない。 
-You must accept yourself and others if you really want to live. (101) 
+You must accept yourself and others if you really want to live.  
 
 190-1
 バルカン国王の集まり。 
 バルカン　国王(こくおう)　の　集まり(あつまり)。 
-A gathering of Balkan monarchs. (100) 
+A gathering of Balkan monarchs.  
 190-2
 ベランダで女性が集まった。 
 ベランダ　で　女性(じょせい)　が　集まっ(あつまっ)た。 
-The fair sex gathered on the veranda. (101) 
+The fair sex gathered on the veranda.  
 190-3
 通りに人がたくさん集まっている。 
 通り(とおり)　に　人(ひと)　が　たくさん　集まっ(あつまっ)て　いる。 
-There is a crowd of people on the street. (87) 
+There is a crowd of people on the street.  
 190-4
 女性に人気のサイトを集めました。 
 女性(じょせい)　に　人気(にんき)　の　サイト　を　集め(あつめ)ました。 
-We made a list of websites that are the most popular with women. (10) 
+We made a list of websites that are the most popular with women.  
 190-5
 NHKの集金ならまた後でおねがいします。 
-NHK　の　集金(しゅうきん)　なら　また　後で(あとで)　おねがい　します。 If you're collecting for NHK please return another time. 
+NHK　の　集金(しゅうきん)　なら　また　後で(あとで)　おねがい　します。 
+If you're collecting for NHK please return another time. 
 「ねがう　/ ねがいます」　{願う　/ 願います　214} [request]: DJG v3 p377. 
 190-6
 地元のサラリーマンが集う地方のスナック。 
@@ -4149,50 +4090,49 @@ Local snack bars where resident salarymen gather.
 190-7
 物体に光を集中させるのに用いられるレンズ。 
 物体(ぶったい)　に　光(ひかり)　を　集中(しゅうちゅう)　させる　の　に　用い(もちい)られる　レンズ。 
-Lens used to concentrate light on an object. (100) 
+Lens used to concentrate light on an object.  
 「〜のに」　["in order to __"]: DJG v1 p335. 
 190-8
 小池さんは大学のために十分なお金をかき集めた。 
 小池(こいけ)さん　は　大学(だいがく)　の　ため　に　十分(じゅうぶん)　な　お金(おかね)　を　かき集め(かきあつめ)た。 
-Koike-san scraped together enough money for college. (101) 
-191-200 
+Koike-san scraped together enough money for college.  
 
 191-1
 十進法。 
 十進法(じゅっしんほう)。 
-The decimal system. (101) 
+The decimal system.  
 191-2
 進化生物学。 
 進化(しんか)　生物学(せいぶつがく)。 
-Evolutionary biology.  (101) 
+Evolutionary biology.   
 191-3
 前方への進行。 
 前方(ぜんぽう)　へ　の　進行(しんこう)。 
-Forward movement.  (100) 
+Forward movement.   
 191-4
 前に進んで下さい。 
 前(まえ)　に　進ん(すすん)で　下さい(ください)。 
-Please step forward. (101) 
+Please step forward.  
 191-5
 予定より進んでいる。 
 予定(よてい)　より　進ん(すすん)で　いる。 
-It's ahead of schedule. (87) 
+It's ahead of schedule.  
 191-6
 道なりに進んで下さい。 
 道(みち)なり　に　進ん(すすん)で　下さい(ください)。 
-Please just follow the road where it leads. (101) 
+Please just follow the road where it leads.  
 191-7
 交通はのろのろと進んだ。 
 交通(こうつう)　は　のろのろ　と　進ん(すすん)だ。 
-The traffic advanced at a crawl. (101) 
+The traffic advanced at a crawl.  
 191-8
 事が面白い方向へ進んだ。 
 事(こと)　が　面白い(おもしろい)　方向(ほうこう)　へ　進ん(すすん)だ。 
-Things worked out in an interesting way. (101) 
+Things worked out in an interesting way.  
 191-9
 光は音よりもずっと早く進む。 
 光(ひかり)　は　音(おと)　より　も　ずっと　早(はや)く　進む(すすむ)。 
-Light travels much faster than sound. (87) 
+Light travels much faster than sound.  
 191-10
 車のコンピューター化を進める。 
 車(くるま)　の　コンピューター化(か)　を　進(すす)める。 
@@ -4200,15 +4140,15 @@ Advance the computerization of cars.
 191-11
 行進する足のリズミカルな足音。 
 行進(こうしん)　する　足(あし)　の　リズミカル　な　足音(あしおと)。 
-The cadenced crunch of marching feet. (101) 
+The cadenced crunch of marching feet.  
 191-12
 わたしたちは別々の道を進んだ。 
 わたしたち　は　別々(べつべつ)　の　道(みち)　を　進ん(すすん)だ。 
-We went our separate ways. (101) 
+We went our separate ways.  
 191-13
 全てが父の予言通りに進んでいる。 
 全て(すべて)　が　父(ちち)　の　予言通り(よげんどおり)　に　進ん(すすん)で　いる。 
-Everything is working out just as my father predicted. (87) 
+Everything is working out just as my father predicted.  
 191-14
 池田さんの長女は高校に進学した。 
 池田(いけだ)さん　の　長女(ちょうじょ)　は　高校(こうこう)　に　進学(しんがく)　した。 
@@ -4216,39 +4156,39 @@ Ikeda-san's eldest daughter has gone on to high school.
 191-15
 小池さんは父と同じ道には進まない。 
 小池(こいけ)さん　は　父(ちち)　と　同じ(おなじ)　道(みち)　に　は　進ま(すすま)ない。 
-Koike-san won't step into his father's footsteps. (101) 
+Koike-san won't step into his father's footsteps.  
 191-16
 もうそれ以上先へ進みたくなかった。 
 もう　それ　以上(いじょう)　先(さき)　へ　進み(すすみ)たくなかった。 
-They did not wish to go any farther. (87) 
+They did not wish to go any farther.  
 191-17
 かれらは生産性を大いに前進させた。 
 かれら　は　生産性(せいさんせい)　を　大いに(おおいに)　前進(ぜんしん)　させた。 
-They made big strides in productivity. (101) 
+They made big strides in productivity.  
 191-18
 なんだか分からない方向に話が進んだ。 
 なんだか　分から(わから)ない　方向(ほうこう)　に　話(はなし)　が　進ん(すすん)だ。 
-The talk went off in odd directions. (10) 
+The talk went off in odd directions.  
 191-19
 サードギアで発進しようとしてはいけない。 
 サード　ギア　で　発進(はっしん)　しよう　と　して　は　いけない。 
-You shouldn't try to start in third gear. (101) 
+You shouldn't try to start in third gear.  
 「-てはいけない」　["must not __"]: DJG v1 p528, v2 p70; Genki ch6. 
 191-20
 エンジンは通りを下ってポッポッと音を出して進んだ。 
 エンジン　は　通り(とおり)　を　下っ(くだっ)て　ポッポッ　と　音(おと)　を　出し(だし)て　進ん(すすん)だ。 
-The engine chugged down the street. (101) 
+The engine chugged down the street.  
 191-21
 ピーターの足は水の中に入っても全く気付きもしないかのように、水の中を進んで行きました。 
 ピーター　の　足(あし)　は　水(みず)　の　中(なか)　に　入っ(はいっ)て　も　全く(まったく)　気付き(きづき)　も　しない　か　の　よう　に、　水(みず)　の　中(なか)　を　進ん(すすん)で　行き(いき)ました。 
-Peter's legs encountered the water as if quite unaware that they had entered a new element. (64) 
+Peter's legs encountered the water as if quite unaware that they had entered a new element.  
 「-ても」　["even if __"]: DJG v1 p468; Genki ch23; Marx v2 day25. 
 「〜ように」　["as __", "as if __"]: DJG v1 p554; Genki ch22; Tobira ch1 #3. 
 
 192-1
 全身の力を込めて。 
 全身(ぜんしん)　の　力(ちから)　を　込め(こめ)て。 
-With all your strength. (100) 
+With all your strength.  
 192-2
 そっと中へ入り込む。 
 そっと　中(なか)　へ　入り込む(はいりこむ)。 
@@ -4260,19 +4200,19 @@ Lovingly made quilts.
 192-4
 光によって入り込めない。 
 光(ひかり)　に　よって　入り込め(はいりこめ)ない。 
-Not penetrable by light. (100) 
+Not penetrable by light.  
 192-5
 日付は自分で書き込みなさい。 
 日付(ひづけ)　は　自分(じぶん)　で　書き込み(かきこみ)　なさい。 
-Write in the date yourself. (87) 
+Write in the date yourself.  
 192-6
 全てがまだよくなる見込みがある。 
 全て(すべて)　が　まだ　よく　なる　見込み(みこみ)　が　ある。 
-All will yet be well. (99) 
+All will yet be well.  
 192-7
 なにかの上に入り込めないカバーを形成する。 
 なに　か　の　上(うえ)　に　入り込め(はいりこめ)ない　カバー　を　形成(けいせい)　する。 
-Form an impenetrable cover over something. (100) 
+Form an impenetrable cover over something.  
 192-8
 力を込めてひっぱったが取れなかった。 
 力(ちから)　を　込め(こめ)て　ひっぱった　が　取れ(とれ)なかった。 
@@ -4280,7 +4220,7 @@ I pulled hard but I couldn't get it.
 192-9
 高岡さんが生きている見込みは全くない。 
 高岡(たかおか)さん　が　生き(いき)て　いる　見込み(みこみ)　は　全く(まったく)　ない。 
-There is no hope of Takaoka-san's being alive. (87) 
+There is no hope of Takaoka-san's being alive.  
 
 193-1
 パンを一斤切って下さい。 
@@ -4290,7 +4230,7 @@ Please cut me one kin of bread.
 194-1
 正午近くに。 
 正午(しょうご)　近く(ちかく)　に。 
-Close to noon. (101) 
+Close to noon.  
 194-2
 近東の出身。 
 近東(きんとう)　の　出身(しゅっしん)。 
@@ -4298,24 +4238,24 @@ Native to the Near East.
 194-3
 大体この付近で。 
 大体(だいたい)　この　付近(ふきん)　で。 
-In this general vicinity. (100) 
+In this general vicinity.  
 194-4
 近代化された方法。 
 近代化(きんだいか)　された　方法(ほうほう)。 
-Modernized methods.  (101) 
+Modernized methods.   
 194-5
 不作法に近い行いだ。 
 不作法(ぶさほう)　に　近い(ちかい)　行い(おこない)　だ。 
-This conduct is verging on rude. (100) 
+This conduct is verging on rude.  
 194-6
 だれも火に近づけるな。 
 だれ　も　火(ひ)　に　近づける(ちかづける)　な。 
-Don't let anyone come near the fire. (87) 
+Don't let anyone come near the fire.  
 「だれも」　{誰も　2155} ["no one"; "anyone"]: DJG v1 p250; Marx v1 day18. 
 194-7
 正方形の形に近いもの。 
 正方形(せいほうけい)　の　形(かたち)　に　近い(ちかい)　もの。 
-Something approximating the shape of a square. (100) 
+Something approximating the shape of a square.  
 194-8
 高木さんはわたしの身近な人ではない。 
 高木(たかぎ)さん　は　わたし　の　身近(みぢか)　な　人(ひと)　で　は　ない。 
@@ -4323,7 +4263,7 @@ Takagi-san is not someone I'm close to.
 194-9
 その音はだんだんと近づいてきました。 
 その　音(おと)　は　だんだん　と　近づい(ちかづい)て　きました。 
-The sound came steadily nearer. (64) 
+The sound came steadily nearer.  
 194-10
 近年における化学の前進は信じられません。 
 近年(きんねん)　に　おける　化学(かがく)　の　前進(ぜんしん)　は　信じ(しんじ)られません。 
@@ -4332,27 +4272,27 @@ I can't believe the recent advances in chemistry.
 194-11
 またぜひ近いうちにお目にかかりましょう。 
 また　ぜひ　近い(ちかい)　うち　に　お目にかかり(おめにかかり)ましょう。 
-We should definitely meet again soon. (87) 
+We should definitely meet again soon.  
 「〜うちに」　{〜内に* 215} ["while __", "before __ ends"]: DJG v1 p512; Tobira ch4 #16. 
 194-12
 そこで行進してドロシーの近くにやってきました。 
 そこで　行進(こうしん)　して　ドロシー　の　近く(ちかく)　に　やって　きました。 
-So they marched away until they came near to Dorothy. (99) 
+So they marched away until they came near to Dorothy.  
 「そこで〜」　{其処で〜** 1757; 553} ["(and) so __"]: DJG v2 p401 & 405; Tobira ch9 #8. 
 「やってくる」　{やって来る　274} ["come (to)", "approach"; "come around"; "turn up"]. 
 
 195-1
 この辺りだと思います。 
 この　辺り(あたり)　だ　と　思い(おもい)ます。 
-I think it's around here. (87) 
+I think it's around here.  
 195-2
 正方形には四つの辺がある。 
 正方形(せいほうけい)　に　は　四つ(よっつ)　の　辺(へん)　が　ある。 
-A square has four sides. (87) 
+A square has four sides.  
 195-3
 池上さんはシカゴ近辺の出身だ。 
 池上(いけがみ)さん　は　シカゴ　近辺(きんぺん)　の　出身(しゅっしん)　だ。 
-Ikegami-san comes from a place near Chicago. (101) 
+Ikegami-san comes from a place near Chicago.  
 195-4
 進さんはその事件をおこした後、辺地へ行かされた。 
 進(すすむ)さん　は　その　事件(じけん)　を　おこした　後(あと)、　辺地(へんち)　へ　行かさ(いかさ)れた。 
@@ -4370,57 +4310,57 @@ From the riverside I could see something in the river emitting light.
 196-1
 最大圧力。 
 最大(さいだい)　圧力(あつりょく)。 
-Maximum pressure.  (101) 
+Maximum pressure.   
 196-2
 最高の目的。 
 最高(さいこう)　の　目的(もくてき)。 
-The supreme aim. (100) 
+The supreme aim.  
 196-3
 最大の毒ヘビ。 
 最大(さいだい)　の　毒(どく)ヘビ。 
-The largest venomous snake. (100) 
+The largest venomous snake.  
 196-4
 最後まで生きる。 
 最後(さいご)　まで　生きる(いきる)。 
-Live to the end. (100) 
+Live to the end.  
 196-5
 元首の最後の日。 
 元首(げんしゅ)　の　最後(さいご)　の　日(ひ)。 
-The monarch's last days. (101) 
+The monarch's last days.  
 196-6
 最近雨で洗われた草。 
 最近(さいきん)　雨(あめ)　で　洗わ(あらわ)れた　草(くさ)。 
-Grass newly washed by the rain. (101) 
+Grass newly washed by the rain.  
 196-7
 最大の生きている生物。 
 最大(さいだい)　の　生き(いき)て　いる　生物(せいぶつ)。 
-Largest living organism. (100) 
+Largest living organism.  
 196-8
 これが最後の一切れだ。 
 これ　が　最後(さいご)　の　一切れ(ひときれ)　だ。 
-This is the last slice. (90) 
+This is the last slice.  
 196-9
 とにかく、それが最後だった。 
 とにかく、　それ　が　最後(さいご)　だった。 
-That was, at any rate, the end of that. (90) 
+That was, at any rate, the end of that.  
 「とにかく」　["anyway"]: DJG v2 p216 (covered under なにしろ); Marx v2 day4. 
 196-10
 大地さんは学校で最も背が高い。 
 大地(だいち)さん　は　学校(がっこう)　で　最も(もっとも)　背(せ)　が　高い(たかい)。 
-Daichi is the tallest in the school. (87) 
+Daichi is the tallest in the school.  
 196-11
 最後のランナーはずっと後ろであった。 
 最後(さいご)　の　ランナー　は　ずっと　後ろ(うしろ)　で　あった。 
-The final runners were far behind. (101) 
+The final runners were far behind.  
 196-12
 岡本さんは最後には目的の物を見付けた。 
 岡本(おかもと)さん　は　最後(さいご)　に　は　目的(もくてき)　の　物(もの)　を　見付け(みつけ)た。 
-Okamoto-san finally found what he was aiming for. (10) 
+Okamoto-san finally found what he was aiming for.  
 
 197-1
 進さんは皿洗いをしていた。 
 進(すすむ)さん　は　皿洗い(さらあらい)　を　して　いた。 
-Susumu was washing the dishes. (87) 
+Susumu was washing the dishes.  
 197-2
 光さん、その受け皿をわたしてくれる？ 
 光(ひかる)さん、　その　受け皿(うけざら)　を　わたして　くれる？ 
@@ -4433,11 +4373,11 @@ Ikegami-san served us spaghetti on ceramic plates.
 198-1
 高血圧です。 
 高血圧(こうけつあつ)　です。 
-I have high blood pressure. (87) 
+I have high blood pressure.  
 198-2
 無血クーデター。 
 無血(むけつ)　クーデター。 
-A bloodless coup. (101) 
+A bloodless coup.  
 198-3
 顔から出血する。 
 顔(かお)　から　出血(しゅっけつ)　する。 
@@ -4445,11 +4385,11 @@ Bleed from the face.
 198-4
 血圧は上が155で下が105です。 
 血圧(けつあつ)　は　上(うえ)　が　155　で　下(した)　が　105　です。 
-My blood pressure is 155 over 105. (87) 
+My blood pressure is 155 over 105.  
 198-5
 あなたのスカーフは血だらけである。 
 あなた　の　スカーフ　は　血(ち)　だらけ　で　ある。 
-Your scarf is all bloody. (101) 
+Your scarf is all bloody.  
 「-だらけ」　["covered all over with __"; "full of __"]: DJG v2 p25. 
 198-6
 また出血したら、この血止め用のくすりを付けて下さい。 
@@ -4459,11 +4399,11 @@ If it starts bleeding again, please apply this hemostat.
 199-1
 気温が下がっている。 
 気温(きおん)　が　下がっ(さがっ)て　いる。 
-The temperature is going down. (101) 
+The temperature is going down.  
 199-2
 子どもは大人よりも体温が高い。 
 子(こ)ども　は　大人(おとな)　よりも　体温(たいおん)　が　高(たか)い。 
-Children have a higher body temperature than adults. (87) 
+Children have a higher body temperature than adults.  
 199-3
 ネコの体温は人より高い。 
 ネコ　の　体温(たいおん)　は　人(ひと)　より　高い(たかい)。 
@@ -4475,22 +4415,22 @@ It causes trouble for aquatic creatures if the water temperature increases very 
 199-5
 スープは、ストーブ上でゆっくり温められた。 
 スープ　は、　ストーブ上(じょう)　で　ゆっくり　温め(あたため)られた。 
-The soup warmed slowly on the stove. (101) 
+The soup warmed slowly on the stove.  
 199-6
 ミラーは土曜日のゲームでは、ベンチを温めていた。 
 ミラー　は　土曜日(どようび)　の　ゲーム　で　は、　ベンチ　を　温め(あたため)て　いた。 
-Miller was warming the bench in Saturday's game. (101) 
+Miller was warming the bench in Saturday's game.  
 199-7
 田辺さんは心温かく、分別があり、ショックを受けない。 
 田辺(たなべ)さん　は　心(こころ)　温かく(あたたかく)、　分別(ふんべつ)　が　あり、　ショック　を　受け(うけ)ない。 
-Tanabe-san is warmhearted, sensible and unshockable. (101) 
+Tanabe-san is warmhearted, sensible and unshockable.  
 「-く」　["and"; "so"]: DJG v2 p148. 
 「Verbal connectives akin to -て」　: DJG v1 p464, v2 p64 of front matter; Tobira ch1 #5. 
 
 200-1
 大気の湿気。 
 大気(たいき)　の　湿気(しっけ)。 
-Atmospheric moisture.  (100) 
+Atmospheric moisture.   
 200-2
 湿地に足を取られた。 
 湿地(しっち)　に　足(あし)　を　取ら(とら)れた。 
@@ -4498,7 +4438,7 @@ I lost control of my leg in a bog.
 200-3
 地面はまだ湿っている。 
 地面(じめん)　は　まだ　湿っ(しめっ)て　いる。 
-The ground is still wet. (87) 
+The ground is still wet.  
 200-4
 シーツに水を湿して火をけした。 
 シーツ　に　水(みず)　を　湿し(しめし)て　火(ひ)　を　けした。 
@@ -4506,7 +4446,7 @@ I used a moist sheet to put out the fire.
 200-5
 かのじょの手は温かく湿っていた。 
 かのじょ　の　手(て)　は　温かく(あたたかく)　湿っ(しめっ)て　いた。 
-Her hand was warm and moist. (25) 
+Her hand was warm and moist.  
 200-6
 日本の六月は雨がおおくて湿気が高いです。 
 日本(にほん)　の　六月(ろくがつ)　は　雨(あめ)　が　おおくて　湿気(しっけ)　が　高い(たかい)　です。 
