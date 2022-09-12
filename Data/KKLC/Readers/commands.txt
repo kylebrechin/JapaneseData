@@ -24,3 +24,20 @@ $1\n
 
 \n\n(「)
 \n$1
+
+
+
+
+
+
+
+CLEAN FRESH BOOK OF (xxx) at end of meaning sentence
+\([[:digit:]]{1,3}\) \n
+
+replace with \n
+
+Highlight Examples
+[[:digit:]]{3}-[[:digit:]]{1,2}
+
+IF NOT START OF LINE
+(?<!^)「

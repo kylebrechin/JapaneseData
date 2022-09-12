@@ -230,7 +230,8 @@ ScrollScreenRowsDown() {
 }
 
 GetRowCount() {
-	InputBox, AddRows, Rows, How many rows to add:, , 300, 300
+	InputBox, AddRows, Rows, How many rows to add:, , 300, 100
+	Sleep, 100
 	Loop, %AddRows% {
 		Send {Alt} 
 		Sleep, 50
@@ -367,14 +368,14 @@ EndSound() {
 }
 
 ; Useful to double click and delete last stuff in a line
-;F4::
-	;Click, 2
-	;Send {Shift down}
-	;Send {End}
-	;Send {Shift up}
-	;Send {Backspace}
-	;Send {Enter}
-;return
+; F4::
+	; Click, 2
+	; Send {Shift down}
+	; Send {End}
+	; Send {Shift up}
+	; Send {Backspace}
+	; Send {Enter}
+; return
 
 
 ; F5::
