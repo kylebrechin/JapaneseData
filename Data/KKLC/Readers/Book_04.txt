@@ -5848,10 +5848,8 @@ Unshorn sheep.
 新た(あらた)　に　刈ら(から)れた　干し草(ほしくさ)　の　におい。
 The smell of newly mown hay. 
 524-5.
-農業機械の
-「バインダー」は、作物を刈り取り束にする機械である。 
-農業(のうぎょう)　機械(きかい)　の　
-「バインダー」　は、　作物(さくもつ)　を　刈り取り(かりとり)　束(たば)　に　する　機械(きかい)　で　ある。
+農業機械の「バインダー」は、作物を刈り取り束にする機械である。 
+農業(のうぎょう)　機械(きかい)　の　「バインダー」　は、　作物(さくもつ)　を　刈り取り(かりとり)　束(たば)　に　する　機械(きかい)　で　ある。
 The farm implement known as the "binder" is a machine that cuts grain and binds it into sheaves. 
 
 525-1.
@@ -5997,7 +5995,8 @@ Wherever a man is, a man can do for himself.
 「なんとか」　{何とか* 815} ["somehow"]: DJG v3 p341.  
 
 527-1.
-お神輿にかかれた三つ巴は三つのコンマのような形から成っている。 お神輿(みこし)　に　かかれた　三つ巴(みつどもえ)　は　三つ(みっつ)　の　コンマ　の　よう　な　形(かたち)　から　成(な)って　いる。
+お神輿にかかれた三つ巴は三つのコンマのような形から成っている。 
+お神輿(みこし)　に　かかれた　三つ巴(みつどもえ)　は　三つ(みっつ)　の　コンマ　の　よう　な　形(かたち)　から　成(な)って　いる。
 The mittsudomoe pattern painted on the mikoshi is composed of three comma-like marks.  
 
 528-1.
