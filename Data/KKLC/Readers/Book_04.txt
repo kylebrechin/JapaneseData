@@ -2,7 +2,7 @@
 401-1.
 左手用のはさみ。 
 左手用(ひだりてよう)　の　はさみ。
-Left-handed scissors.  (101) 
+Left-handed scissors.  
 401-2.
 左の方を行くんだよ！ 
 左(ひだり)　の　方(ほう)　を　行く(いく)　ん　だ　よ！
@@ -18,7 +18,7 @@ Sora nosed the car into the left lane.
 401-5.
 それから左足で立つと、ゆっくりとこう言いました： 
 それから　左足(ひだりあし)　で　立つ(たつ)　と、　ゆっくり　と　こう　言い(いい)ました：
-Then she stood upon her left foot and said slowly: (99)  
+Then she stood upon her left foot and said slowly: 
 
 402-1.
 右回り。 
@@ -39,7 +39,7 @@ Kosaka-san looked right and left.
 402-5.
 右上から左下にかけての線。 
 右上(みぎうえ)　から　左下(ひだりした)　に　かけて　の　線(せん)。
-Lines from top right to bottom left. (100) 
+Lines from top right to bottom left. 
 「〜から〜にかけて」　["from __ through __"]: DJG v2 p101; Tobira ch11 #3. 
 402-6.
 英語を書くときの方向は左から右である。 
@@ -60,7 +60,7 @@ A "slice" is a shot that curves to the right for a right-handed golfer.
 402-10.
 全地はあなたの前にあるではありませんか。どうか私と別れて下さい。あなたが左に行けば私は右に行きます。あなたが右に行けば私は左に行きます。 
 全地(ぜんち)　は　あなた　の　前(まえ)　に　ある　で　は　ありません　か。　どうか　私(わたし)　と　別れ(わかれ)て　下さい(ください)。　あなた　が　左(ひだり)　に　行け(いけ)ば　私(わたし)　は　右(みぎ)　に　行き(いき)ます。　あなた　が　右(みぎ)　に　行け(いけ)ば　私(わたし)　は　左(ひだり)　に　行き(いき)ます。
-Is not the whole land before thee? Separate thyself, I pray thee, from me: if thou wilt take the left hand, then I will go to the right; or if thou depart to the right hand, then I will go to the left. (33) 
+Is not the whole land before thee? Separate thyself, I pray thee, from me: if thou wilt take the left hand, then I will go to the right; or if thou depart to the right hand, then I will go to the left. 
 「どうか〜」　{如何か〜** 2197; 815} ["please by all means __"; "pray __"]: DJG v3 p82.  
 
 403-1.
@@ -90,12 +90,12 @@ A stone tool from the Neolithic Age.
 403-7.
 阪本さんの顔面は、石と同じくらい固かった。 
 阪本(さかもと)さん　の　顔面(がんめん)　は、　石(いし)　と　同じ(おなじ)　くらい　固かっ(かたかっ)た。
-Sakamoto-san's face was as hard as stone. (101) 
+Sakamoto-san's face was as hard as stone. 
 「〜くらい」　{〜位* 577} ["to __ extent"]: DJG v2 p151. 
 403-8.
 入り口は見当たらないし、大きな石ひとつさえありません。 
 入り口(いりぐち)　は　見当たら(みあたら)ない　し、　大(おお)きな　石(いし)　ひとつ　さえ　ありません。
-There is no entrance to be seen, not so much as a large stone. (64) 
+There is no entrance to be seen, not so much as a large stone. 
 「〜さえ」　["even __"; "(if) just __"]: DJG v2 p363; Marx v2 day60-61; Tobira ch5 #6. 
 403-9.
 日本にはたくさんの温泉地がありますが、池田さんが最も好んでいるのは石川の山中温泉です。
@@ -145,7 +145,7 @@ Our company's showroom was a hit with the young ladies.
 404-11.
 若い男だもの、もちろん若気の至りから道楽をしたこともあった。 
 若い(わかい)　男(おとこ)　だ　もの、　もちろん　若気(わかげ)　の　至り(いたり)　から　道楽(どうらく)　を　した　こと　も　あった。
-As a young man he had sown his wild oats, of course. (15) 
+As a young man he had sown his wild oats, of course. 
 「〜もの(だ)」　[emphasis on a particular situation]: DJG v1 p257. 
 404-12.
 我々が自分の生活条件を、他の国若しくは他の時代とやりとりするだろう等と言うことを私は信じない。 
@@ -199,7 +199,7 @@ Wakamatsu-san stared gloweringly at this morning's headlines.
 405-12.
 私はまだ意思が二つに分かれていることに苦しんでいた。 
 私(わたし)　は　まだ　意思(いし)　が　二つ(ふたつ)　に　分かれ(わかれ)て　いる　こと　に　苦しん(くるしん)で　いた。
-I was still cursed with my duality of purpose. (84)  
+I was still cursed with my duality of purpose. 
 
 406-1.
 英国政府の所在地。 
@@ -237,7 +237,7 @@ Unidentified survivors.
 407-5.
 あとはご存じの通りです。 
 あと　は　ご存じ(ごぞんじ)　の　通り(とおり)　です。
-You know the rest. (89) 
+You know the rest. 
 「Honorific verbs」　: DJG v1 p36; Genki ch19; Marx v1 day89; Tobira ch2 (main body of chapter). 
 407-6.
 神は存在すると思いますか。 
@@ -246,7 +246,7 @@ Do you believe that God exists?
 407-7.
 お名前はよく存じあげています。 
 お名前(なまえ)　は　よく　存じ(ぞんじ)あげて　います。
-I am well familiar with your name. (87) 
+I am well familiar with your name. 
 「Irregular humble polite forms」　: DJG v1 p40; Genki ch20. 
 407-8.
 存続に最も好都合ではない条件だった。 
@@ -259,12 +259,12 @@ Ishihara-san is like a father to me.
 407-10.
 私たちはできるだけ長くその仕事を存続させた。 
 私(わたし)たち　は　できる　だけ　長く(ながく)　その　仕事(しごと)　を　存続(そんぞく)　させた。
-We kept the work going as long as we could. (101) 
+We kept the work going as long as we could. 
 「できるだけ〜」　["as __ as possible", "as much as possible __"]: Marx v2 day4. 
 407-11.
 身の回りには昔ながらの工作室が、以前とまったく同じ形で存在していました。 
 身の回り(みのまわり)　に　は　昔ながら(むかしながら)　の　工作室(こうさくしつ)　が、　以前(いぜん)　と　まったく　同じ(おなじ)　形(かたち)　で　存在(そんざい)　して　いました。
-Around me was my old workshop again, exactly as it had been. (89)  
+Around me was my old workshop again, exactly as it had been. 
 
 408-1.
 干し牛肉。 
@@ -285,12 +285,12 @@ The creek dried up every summer.
 408-5.
 お前の不注意で、おれらは首を吊られて天日干しだ。 
 お前(まえ)　の　不注意(ふちゅうい)　で、　おれら　は　首(くび)　を　吊ら(つら)れて　天日干し(てんぴぼし)　だ。
-We'll all swing and sun-dry for your negligence. (90)  
+We'll all swing and sun-dry for your negligence. 
 
 409-1.
 新刊〚文学作品などで〛。 
 新刊(しんかん)　〚文学(ぶんがく)　作品(さくひん)　など　で〛。
-A fresh publication (as of a literary work). (100) 
+A fresh publication (as of a literary work). 
 「〜など」　{〜等* 393} ["such as __"]: DJG v1 p267; Tobira ch2 #2. 
 409-2.
 大石さんは駅の売店で週刊誌を買った。 
@@ -299,7 +299,7 @@ Oishi-san bought a weekly magazine at a station kiosk.
 409-3.
 その日誌が生のままなので発刊できなかった。 
 その　日誌(にっし)　が　生(なま)　の　まま　な　ので　発刊(はっかん)　できなかった。
-The rawness of his diary made it unpublishable. (101) 
+The rawness of his diary made it unpublishable. 
 「〜なので」　["since __"]: DJG v1 p322; Marx v1 day60. 
 409-4.
 小寺さんが毎週読んでいる雑誌は廃刊になった。 
@@ -350,12 +350,12 @@ Dorothy reached up with both hands and lifted the scarecrow off the pole.
 411-3.
 足が地面にとどかなくて、あの竿の上に居続けるしかなかった。 
 足(あし)　が　地面(じめん)　に　とどかなくて、　あの　竿(さお)　の　上(うえ)　に　居続ける(いつづける)　しか　なかった。
-My feet would not touch the ground, so I was forced to stay on that pole. (99) 
+My feet would not touch the ground, so I was forced to stay on that pole. 
 「-なくて」　["not __, so __"]: DJG v1 p279; Marx v1 day39; Tobira ch2 #15. 
 411-4.
 あのトウモロコシ畑の竿から持ち上げて、エメラルドの都につれてきてくれたんだ。 
 あの　トウモロコシ畑(ばたけ)　の　竿(さお)　から　持ち上げ(もちあげ)て、　エメラルド　の　都(みやこ)　に　つれて　きて　くれた　ん　だ。
-She lifted me from the pole in the cornfield and brought me to the Emerald City. (99)  
+She lifted me from the pole in the cornfield and brought me to the Emerald City. 
 
 412-1.
 名目金利。 
@@ -372,7 +372,7 @@ Bar access to.
 412-4.
 だれかの不利に。 
 だれ　か　の　不利(ふり)　に。
-To someone's disadvantage. (100) 
+To someone's disadvantage. 
 「だれか」　{誰か　2155} ["someone"]: Marx v1 day18. 
 412-5.
 利発で快活な子供。 
@@ -385,7 +385,7 @@ Right-handed scissors.
 412-7.
 元金のみにかかる利子。 
 元金(がんきん)　のみ　に　かかる　利子(りし)。
-Interest paid on the principal alone. (100) 
+Interest paid on the principal alone. 
 「〜のみ」　["only __"]: DJG v2 p307. 
 412-8.
 学生は図書館の本を利用すべきだ。 
@@ -410,7 +410,7 @@ We took advantage of the good weather to play tennis.
 412-13.
 利口な人でも時にはぼんやりすることがある。 
 利口(りこう)　な　人(ひと)　でも　時には(ときには)　ぼんやり　する　こと　が　ある。
-Even intelligent people are sometimes absent-minded. (87) 
+Even intelligent people are sometimes absent-minded. 
 「〜ことがある」　{〜事がある* 80} ["__ does occur"]: DJG v1 p198. 
 412-14.
 節子さんは左利きだが、字を書くときは右手だ。 
@@ -423,7 +423,7 @@ A young Parsee, with an intelligent face, offered his services.
 412-16.
 仕事を得るために、仕立て屋は有力な友人を利用する。 
 仕事(しごと)　を　得る(える)　ため　に、　仕立て屋(したてや)　は　有力(ゆうりょく)　な　友人(ゆうじん)　を　利用(りよう)　する。
-The tailor uses influential friends to get jobs. (101)  
+The tailor uses influential friends to get jobs. 
 
 413-1.
 公害防止法。 
@@ -444,7 +444,7 @@ They examined the child's head for vermin.
 413-5.
 ほどほどに飲めば、アルコールは害にはならない。 
 ほどほど　に　飲め(のめ)ば、　アルコール　は　害(がい)　に　は　ならない。
-Drunk in moderation, alcohol is not harmful. (100)  
+Drunk in moderation, alcohol is not harmful. 
 
 414-1.
 国益。 
@@ -497,7 +497,7 @@ I predict that our company will make increasing profits next year.
 414-13.
 ファンサブ屋で、自分の作品から利益を得た人物はいなかった。 
 ファン　サブ　屋(や)　で、　自分(じぶん)　の　作品(さくひん)　から　利益(りえき)　を　得(え)た　人物(じんぶつ)　は　いなかった。
-No fansubber made a profit off of his or her work. (69)  
+No fansubber made a profit off of his or her work. 
 
 415-1.
 溢血をおさめる薬。 
@@ -530,7 +530,7 @@ Akiko's washbasin overflowed with blood.
 415-8.
 このため、カリフォルニアには新しいアニメクラブが溢れかえった。 
 この　ため、　カリフォルニア　に　は　新(あたら)しい　アニメ　クラブ　が　溢れ(あふれ)かえった。
-This action prompted the overabundant formation of new anime clubs in California. (69) 
+This action prompted the overabundant formation of new anime clubs in California. 
 「〜ため(に)」　{〜為に* 1236} ["because of __"]: DJG v1 p447; Tobira ch2 #7.  
 
 416-1.
@@ -564,7 +564,7 @@ Natsuki always cuts in!
 416-8.
 コップを割らないように注意しなさい。 
 コップ　を　割ら(わら)ない　よう　に　注意(ちゅうい)　し　なさい。
-Take care not to break the glasses. (87) 
+Take care not to break the glasses. 
 「〜ようにする」　["make sure (that) __"; "(act) so as to __"]: DJG v1 p562; Marx v2 day72; Tobira ch3 #13. 
 416-9.
 その多くはひびが入り、割れていました。 
@@ -573,7 +573,7 @@ Many of them had cracked and broken.
 416-10.
 若林さんは年の割りには平均的な身長だ。 
 若林(わかばやし)さん　は　年(とし)　の　割り(わり)　に　は　平均的(へいきんてき)　な　身長(しんちょう)　だ。
-Wakabayashi-san is of average height for his age. (101) 
+Wakabayashi-san is of average height for his age. 
 「〜わりに(は)」　{〜割に(は) / 〜割りに(は) 416} ["considering __", "for (a) __"]: DJG v3 p697. 
 416-11.
 アラブ半島は、英国人によって分割された。 
@@ -604,15 +604,13 @@ Natsuki's always breaking into our conversation.
 空(そら)さん　は　自分(じぶん)　の　割り当て(わりあて)られた　雑用(ざつよう)　を　素早く(すばやく)　仕上げ(しあげ)た。
 Sora quickly finished her allotted chores. 
 416-18.
-お前が不注意にお皿を割ったんだから、
-「お皿が割れた」と言うなよ。 
-お前(まえ)　が　不注意(ふちゅうい)　に　お皿(さら)　を　割っ(わっ)た　ん　だ　から、　
-「お皿(さら)　が　割れ(われ)た」　と　言う(いう)　な　よ。
+お前が不注意にお皿を割ったんだから、「お皿が割れた」と言うなよ。 
+お前(まえ)　が　不注意(ふちゅうい)　に　お皿(さら)　を　割っ(わっ)た　ん　だ　から、 「お皿(さら)　が　割れ(われ)た」　と　言う(いう)　な　よ。
 You broke the plate due to your own carelessness, so don't just say "the plate broke". 
 416-19.
 ライオンが返事をしようとした時、またもや別の地割れにつき当たった。 
 ライオン　が　返事(へんじ)　を　しよう　と　した　時(とき)、　またもや　別(べつ)　の　地割れ(じわれ)　に　つき当たっ(あたっ)た。
-The Lion was about to reply when yet again they came to a crack in the road. (99)  
+The Lion was about to reply when yet again they came to a crack in the road. 
 
 417-1.
 立憲政体。 
@@ -629,7 +627,7 @@ The framers of the Constitution.
 417-4.
 上原先生の法案は憲法と一致しないのです。 
 上原(うえはら)　先生(せんせい)　の　法案(ほうあん)　は　憲法(けんぽう)　と　一致(いっち)　しない　の　です。
-Dr. Uehara's proposed bill is inconsistent with the Constitution. (100)  
+Dr. Uehara's proposed bill is inconsistent with the Constitution. 
 
 418-1.
 白鳥の綿羽。 
@@ -646,7 +644,7 @@ I see a bird on the roof.
 418-4.
 一羽だけでなく、小鳥が数羽いた。 
 一羽(いちわ)　だけ　で　なく、　小鳥(ことり)　が　数羽(すうわ)　いた。
-There was not one little bird but several. (70) 
+There was not one little bird but several. 
 「〜だけで(は)なく　/ 〜だけじゃなくて」　["not just __"]: Tobira ch1 #14. 
 418-5.
 目が覚めてみると部屋に1羽の鳥がいた。 
@@ -655,7 +653,7 @@ I awoke to find a bird in my room.
 418-6.
 四方八方には見事な花々の土手があり、あざやかな羽根の鳥たちは木々の中ではためいていました。 
 四方八方(しほうはっぽう)　に　は　見事(みごと)　な　花々(はなばな)　の　土手(どて)　が　あり、　あざやか　な　羽根(はね)　の　鳥(とり)たち　は　木々(きぎ)　の　中(なか)　で　はためいて　いました。
-Banks of gorgeous flowers were on every hand, and birds with brilliant plumage fluttered in the trees. (99)  
+Banks of gorgeous flowers were on every hand, and birds with brilliant plumage fluttered in the trees. 
 
 419-1.
 私は翌朝パリに向かう予定だった。 
@@ -676,7 +674,7 @@ They waited until Dorothy awoke the next morning.
 419-5.
 ラングーン号は翌日午前四時に下田にいかりを下ろした。 
 ラングーン号(ごう)　は　翌日(よくじつ)　午前(ごぜん)　四時(よじ)　に　下田(しもだ)　に　いかり　を　下ろし(おろし)た。
-The Rangoon weighed anchor at Shimoda the next day at four A.M. (7)  
+The Rangoon weighed anchor at Shimoda the next day at four A.M. 
 
 420-1.
 集中学習。 
@@ -705,7 +703,7 @@ You should follow Setsuko's example.
 420-7.
 本を読むことにより学習する。 
 本(ほん)　を　読む(よむ)　こと　に　より　学習(がくしゅう)　する。
-Learn by reading books. (100) 
+Learn by reading books. 
 「〜によって　/ 〜により」　{〜に依って* / 〜に依り* 701} ["based on/depending on __"; "due to __"]: DJG v2 p292; Marx v2 day43; Tobira ch8 #2. 
 420-8.
 受賞者は二年未満で日本語を習得した。 
@@ -730,12 +728,12 @@ Ivanka acquired Russian quickly.
 420-13.
 ラテン語は母国語としてもはや習得されていない。 
 ラテン語(らてんご)　は　母国語(ぼこくご)　として　もはや　習得(しゅうとく)　されて　いない。
-Latin is no longer acquired as a native language. (100) 
+Latin is no longer acquired as a native language. 
 「〜として」　["in the capacity of __"]: DJG v1 p501; Tobira ch3 #6. 
 420-14.
 古代ギリシャ語を、ホメロスやプラトン自身の口から習えるかも。 
 古代(こだい)　ギリシャ語(ご)　を、　ホメロス　や　プラトン　自身(じしん)　の　口(くち)　から　習える(ならえる)　かも。
-One might get one's Ancient Greek from the very lips of Homer and Plato. (89) 
+One might get one's Ancient Greek from the very lips of Homer and Plato. 
 「や」　["and" within a non-exhaustive list; cf. と]: DJG v1 p536; Genki ch11; Marx v1 day57. 
 「-じしん」　{-自身　81; 60} ["__ oneself"]: DJG v3 p174 & 553 (covered under -じたい　and そのもの). If you feel that other learners would benefit from knowing about the KLC & KLC Graded Reading Sets, won’t you please take a moment to share a few words on Reddit’s Learn Japanese forum? Thanks so very much. 
 
@@ -863,7 +861,7 @@ The men retired to the library.
 422-25.
 新入生は、引っ込みがちである。 
 新入生(しんにゅうせい)　は、　引っ込み(ひっこみ)がち　で　ある。
-The new student keeps to herself. (101) 
+The new student keeps to herself. 
 「-がち」　{-勝ち　460} ["tend to __"]: DJG v2 p47; Marx v2 day64. 
 422-26.
 利用できる以上のお金を引き出す。 
@@ -892,7 +890,7 @@ We retraced the route we took last summer.
 422-32.
 正午前でさえ、そこには多くの取引があった。 
 正午(しょうご)　前(まえ)　で　さえ、　そこ　に　は　多く(おおく)　の　取引(とりひき)　が　あった。
-Even before noon there was a considerable patronage. (101) 
+Even before noon there was a considerable patronage. 
 「〜さえ」　["even __"; "(if) just __"]: DJG v2 p363; Marx v2 day60-61; Tobira ch5 #6. 
 422-33.
 寺田神父は左手でチョークを上に向かって線を引いた。 
@@ -905,7 +903,7 @@ He opened the drawer again and laid his right hand on the revolver.
 422-35.
 手が引き出しに触れた時から、自分がそうすることは分かっていた。 
 手(て)　が　引き出し(ひきだし)　に　触れ(ふれ)た　時(とき)　から、　自分(じぶん)　が　そう　する　こと　は　分かっ(わかっ)て　いた。
-He had known he would do so from the moment his hand touched the drawer. (16)  
+He had known he would do so from the moment his hand touched the drawer. 
 
 423-1.
 強い薬。 
@@ -974,12 +972,12 @@ This snake's poison is a thousand-fold more toxic.
 423-17.
 どんなに強い圧力でも私は同意しないだろう。 
 どんなに　強い(つよい)　圧力(あつりょく)　でも　私(わたし)　は　同意(どうい)　しない　だろう。
-No amount of arm-twisting will get me to agree. (101) 
+No amount of arm-twisting will get me to agree. 
 「どんなに〜」　["no matter how __"]: DJG v3 p135 & 138. 
 423-18.
 私のこの個性の特質は成長するとともにだんだん強くなり、大人になってからは自分の主な楽しみの源泉の一つとなったのであった。 
 私(わたし)　の　この　個性(こせい)　の　特質(とくしつ)　は　成長(せいちょう)　する　とともに　だんだん　強く(つよく)　なり、　大人(おとな)　に　なって　から　は　自分(じぶん)　の　主(おも)　な　楽しみ(たのしみ)　の　源泉(げんせん)　の　一つ(ひとつ)　と　なった　の　で　あった。
-This peculiarity of character grew with my growth, and in my manhood, I derived from it one of my principal sources of pleasure. (13) 
+This peculiarity of character grew with my growth, and in my manhood, I derived from it one of my principal sources of pleasure. 
 「〜とともに」　{〜と共に　356} ["along with __"]: DJG v2 p532; Marx v2 day48; Tobira ch11 #8. 
 「-てから」　["after __ing"; "since __"]: DJG v1 p177. 
 「のである　/ のです　/ のだ　/ んだ」　[explanation or assertion]: DJG v1 p325; Genki ch12.  
@@ -1007,7 +1005,7 @@ Ishikawa-san is weak physically, but his mind is strong.
 424-6.
 この弱点は年を取るにつれて大きくなった。 
 この　弱点(じゃくてん)　は　年(とし)　を　取る(とる)　につれて　大(おお)きく　なった。
-This weakness increased as he became older. (101) 
+This weakness increased as he became older. 
 「〜につれて　/ 〜につれ」　{〜に連れて* / 〜に連れ* 582} ["as __"; "in proportion to __"]: DJG v2 p285; Tobira ch13 #6. 
 424-7.
 両親は年を取るにつれて身体が弱まっているようだ。 
@@ -1038,7 +1036,7 @@ A weathered old hut.
 425-6.
 風雨にさらされた面。 
 風雨(ふうう)　に　さらされた　面(めん)。
-A weather-beaten face. (101) 
+A weather-beaten face. 
 「〜にさらされる」　[passive form of さらす　("expose"): "be exposed to __"]. 
 425-7.
 身を切るように寒い風。 
@@ -1079,7 +1077,7 @@ After living a year in Shimane, I was thoroughly Nipponified.
 425-16.
 どちらに話したものかと思案した風に我々二人を比べ見た。 
 どちら　に　話し(はなし)た　もの　か　と　思案(しあん)　した　風(ふう)　に　我々(われわれ)　二人(ふたり)　を　比べ見(くらべみ)た。
-He looked from one to the other of us, as if uncertain which to address. (73) 
+He looked from one to the other of us, as if uncertain which to address. 
 「〜もの(だろう)か」　[expression of uncertainty or wish]: DJG v3 p268. 
 425-17.
 お母さんがこんな風だったら、子供たちはそれを利用するのです。 
@@ -1088,7 +1086,7 @@ So long as mothers are like this their children will take advantage of them.
 425-18.
 子豚は、草が青々と生えた岡の上の古びた風車小屋の中に住んでいた。 
 子豚(こぶた)　は、　草(くさ)　が　青々(あおあお)　と　生え(はえ)た　岡(おか)　の　上(うえ)　の　古び(ふるび)た　風車小屋(ふうしゃごや)　の　中(なか)　に　住ん(すん)で　いた。
-The piglet lived inside the old red mill atop the grass-grown mound. (29)  
+The piglet lived inside the old red mill atop the grass-grown mound. 
 
 426-1.
 自己と他の者への感受性。 
@@ -1113,7 +1111,7 @@ Akiyama-san leads a selfish existence.
 426-6.
 己は、己の一生を通じて、生命のひみつを見出そうとしたのだ。 
 己(おのれ)　は、　己(おのれ)　の　一生(いっしょう)　を　通じて(つうじて)、　生命(せいめい)　の　ひみつ　を　見出(みいだ)そう　と　した　の　だ。
-I have sought through all my life to find the secret of life. (39) 
+I have sought through all my life to find the secret of life. 
 「〜をつうじて　/ 〜をとおして」　{〜を通じて　/ 〜を通して　159} [duration: "throughout __"]: DJG v2 p330.  
 
 427-1.
@@ -1135,7 +1133,7 @@ I keep a diary in English.
 427-5.
 古代ローマの記数法における記号。 
 古代(こだい)　ローマ　の　記数法(きすうほう)　に　おける　記号(きごう)。
-A symbol in the Ancient Roman numeral notation. (100) 
+A symbol in the Ancient Roman numeral notation. 
 「〜において　/ 〜における」　{〜に於いて* / 〜に於ける* 1885} ["in/on/at/to __"]: DJG v2 p265; Tobira ch13 #13. 
 427-6.
 お名前とご住所を記入して下さい。 
@@ -1152,7 +1150,7 @@ Okajima-san became a reporter for Time magazine.
 427-9.
 この記事がどこまで本当か調べてくれ。 
 この　記事(きじ)　が　どこ　まで　本当(ほんとう)　か　調べ(しらべ)て　くれ。
-Check up on the accuracy of this article. (87) 
+Check up on the accuracy of this article. 
 「〜くれ」　{〜呉れ** 1478} [impolite request]: DJG v1 p210. 
 427-10.
 昔私が若かった時には毎日日記をつけていた。 
@@ -1185,25 +1183,24 @@ Just as the clerk was calling the next case, he rose, and said:
 427-17.
 目白さんは親友の記者がその翌日まで出発できないと分かっていた。 
 目白(めじろ)さん　は　親友(しんゆう)　の　記者(きしゃ)　が　その　翌日(よくじつ)　まで　出発(しゅっぱつ)　できない　と　分かっ(わかっ)て　いた。
-Mejiro-san knew that his good friend the journalist could not depart until the next day. (30)  
-4
-28-1.
-デボン紀。 デボン　紀(き)。
+Mejiro-san knew that his good friend the journalist could not depart until the next day. 
+
+428-1.
+デボン紀。 
+デボン　紀(き)。
 Devonian period.  
-428-
-2.
-武士たちの風紀が乱れている。 武士(ぶし)たち　の　風紀(ふうき)　が　乱れ(みだれ)て　いる。
+428-2.
+武士たちの風紀が乱れている。 
+武士(ぶし)たち　の　風紀(ふうき)　が　乱れ(みだれ)て　いる。
 The warriors' morals are collapsing. 
-428-
-3.
-ネルヴァルが『東方紀行』を書いた。 ネルヴァル　が　『東方(とうほう)　紀行(きこう)』　を　書い(かい)た。
+428-3.
+ネルヴァルが『東方紀行』を書いた。 
+ネルヴァル　が　『東方(とうほう)　紀行(きこう)』　を　書い(かい)た。
 Nerval wrote Journey to the East. 
-428-
-4.
-紀元前221―206年、古代中国王朝の首都。 紀元前(きげんぜん)　221―206年(ねん)、　古代(こだい)　中国(ちゅうごく)　王朝(おうちょう)　の　首都(しゅと)。
-Capital of ancient Chinese empire, 
-BC.
-(100)  
+428-4.
+紀元前221―206年、古代中国王朝の首都。 
+紀元前(きげんぜん)　221―206年(ねん)、　古代(こだい)　中国(ちゅうごく)　王朝(おうちょう)　の　首都(しゅと)。
+Capital of ancient Chinese empire, BC.
 
 429-1.
 品行を改める。 
@@ -1220,7 +1217,7 @@ Nakahara-san is from overseas, but he changed his name to a Japanese name.
 429-4.
 元来英国で発明されたが、その後日本で改良された。 
 元来(がんらい)　英国(えいこく)　で　発明(はつめい)　された　が、　その　後(ご)　日本(にほん)　で　改良(かいりょう)　された。
-It was originally invented in Britain, but it was later improved in Japan. (100)  
+It was originally invented in Britain, but it was later improved in Japan. 
 
 430-1.
 事故を引き起こす。 
@@ -1347,7 +1344,7 @@ The Munchkins were good farmers and able to raise brimming crops.
 431-6.
 お百姓さんのトウモロコシ畑で一生をすごしていたかもしれない。 
 お百姓(ひゃくしょう)さん　の　トウモロコシ畑(ばたけ)　で　一生(いっしょう)　を　すごして　いた　かも　しれない。
-I might have passed my whole life in the farmer's cornfield. (99) 
+I might have passed my whole life in the farmer's cornfield. 
 「〜かもしれない」　{〜かも知れない* 560} ["might __"]: DJG v1 p173, v3 p513; Genki ch14.  
 
 432-1.
@@ -1393,7 +1390,7 @@ Many of the deaf use sign language.
 432-11.
 都会を見たがっている自由気ままな青年。 
 都会(とかい)　を　見(み)たがって　いる　自由(じゆう)　気まま(きまま)　な　青年(せいねん)。
-A footloose young man eager to see the big city. (101) 
+A footloose young man eager to see the big city. 
 「-がる」　[have or express a feeling; pretend]: DJG v1 p123; Marx v2 day63. 
 432-12.
 若者たちは由無く親に強く反発する時がある。 
@@ -1434,7 +1431,8 @@ An oil obtained from tuna.
 Oily puddles in the streets. 
 433-9.
 OPECは油を独占したがっている。 
-OPEC　は　油(あぶら)　を　独占(どくせん)　したがって　いる。 OPEC wants to monopolize oil. 
+OPEC　は　油(あぶら)　を　独占(どくせん)　したがって　いる。 
+OPEC wants to monopolize oil. 
 433-10.
 油田は高温と高圧によって形成される。 
 油田(ゆでん)　は　高温(こうおん)　と　高圧(こうあつ)　に　よって　形成(けいせい)　される。
@@ -1446,7 +1444,7 @@ All three countries in North America are oil-producing powers.
 433-12.
 きちんと油をさせば、すぐに元通りになりますから。 
 きちんと　油(あぶら)　を　させば、　すぐ　に　元通り(もとどおり)　に　なります　から。
-If I am well oiled I shall soon be all right again. (99)  
+If I am well oiled I shall soon be all right again. 
 
 434-1.
 アーチ形天井。 
@@ -1467,7 +1465,7 @@ I saw a fly on the ceiling.
 434-5.
 島根さんは車の天井に頭をぶつけた。 
 島根(しまね)さん　は　車(くるま)　の　天井(てんじょう)　に　頭(あたま)　を　ぶつけた。
-Shimane-san bumped his head on the roof of the car. (87)  
+Shimane-san bumped his head on the roof of the car. 
 
 435-1.
 豚の囲い。 
@@ -1516,7 +1514,7 @@ A transient air pressure greater than the surrounding atmospheric pressure.
 435-12.
 性器やその周囲にできる小さな良性のいぼ。 
 性器(せいき)　や　その　周囲(しゅうい)　に　できる　小(ちい)さな　良性(りょうせい)　の　いぼ。
-A small benign wart on or around the genitals. (100) 
+A small benign wart on or around the genitals. 
 「や」　["and" within a non-exhaustive list; cf. と]: DJG v1 p536; Genki ch11; Marx v1 day57. 
 435-13.
 男性が馬小屋から出てきて、一行を囲いの中へ案内した。 
@@ -1525,7 +1523,7 @@ A gentleman emerged from the stable and conducted the group within the enclosure
 435-14.
 かれらは周囲にいる同じ特性の人たちより30％から100％も多い日当を受け取っている。 
 かれら　は　周囲(しゅうい)　に　いる　同じ(おなじ)　特性(とくせい)　の　人(ひと)たち　より　30％(パーセント)　から　100％(パーセント)　も　多い(おおい)　日当(にっとう)　を　受け取っ(うけとっ)て　いる。
-They are receiving from 30 per cent to 100 per cent higher wages daily than are paid to men of similar caliber with whom they are surrounded. (68)  
+They are receiving from 30 per cent to 100 per cent higher wages daily than are paid to men of similar caliber with whom they are surrounded. 
 
 436-1.
 天丼の入った器を割ってしまった。 
@@ -1536,10 +1534,8 @@ I broke a bowl filled with tendon.
 日本(にほん)　の　チェーン店(てん)　の　牛丼(ぎゅうどん)　は　安く(やすく)て　おいしい　です。
 The chain-store gyudon in Japan is tasty and cheap. 
 436-3.
-丼に器以上のご飯を入れることを
-「丼飯」と言う。 
-丼(どんぶり)　に　器(うつわ)　以上(いじょう)　の　ご飯(ごはん)　を　入れる(いれる)　こと　を　
-「丼飯(どんぶりめし)」　と　言う(いう)。
+丼に器以上のご飯を入れることを「丼飯」と言う。 
+丼(どんぶり)　に　器(うつわ)　以上(いじょう)　の　ご飯(ごはん)　を　入れる(いれる)　こと　を　「丼飯(どんぶりめし)」　と　言う(いう)。
 Donburimeshi is a meal of rice heaping over the top of a donburi bowl. 
 436-4.
 「親子丼」は鳥肉と玉子を組み合わせているからそう言うふうによばれる。 
@@ -1558,7 +1554,7 @@ We were just talking about you when you called.
 437-3.
 今我々二人は、それぞれ二丁ずつピストルを持っている。 
 今(いま)　我々(われわれ)　二人(ふたり)　は、　それぞれ　二丁(にちょう)ずつ　ピストル　を　持っ(もっ)て　いる。
-Here are two of us, each holding a brace of pistols. (90) 
+Here are two of us, each holding a brace of pistols. 
 「それぞれ」　{其々** 1757} ["each"; "respectively"]: DJG v2 p436; Tobira ch6 #6.  
 
 438-1.
@@ -1576,12 +1572,12 @@ An act of gracious kindness.
 438-4.
 丁寧な神のおかげで。 
 丁寧(ていねい)　な　神(かみ)　の　おかげ　で。
-Thanks to the gracious gods. (101) 
+Thanks to the gracious gods. 
 「〜おかげ」　{〜お陰* 1311} ["thanks to __"]: DJG v2 p382 (covered under せい); Marx v2 day44; Tobira ch8 #14. 
 438-5.
 節子さんが丁寧に先生に頭を下げた。 
 節子(せつこ)さん　が　丁寧(ていねい)　に　先生(せんせい)　に　頭(あたま)　を　下げ(さげ)た。
-Setsuko politely bowed to the teacher. (10)  
+Setsuko politely bowed to the teacher. 
 
 439-1.
 町の外れの外れ。 
@@ -1618,7 +1614,7 @@ After dinner, we wandered around the old downtown district.
 439-9.
 買い物をしながら、町を十分見て回った。 
 買い物(かいもの)　を　しながら、　町(まち)　を　十分(じゅうぶん)　見(み)て　回っ(まわっ)た。
-As I made my purchases, I took a good look around the city. (7) 
+As I made my purchases, I took a good look around the city. 
 「〜ながら」　["while __"]: DJG v1 p269; Genki ch18; Marx v1 day88. 
 439-10.
 白石さんの住居はワシのように町全体に広がる。 
@@ -1627,7 +1623,7 @@ Shiraishi-san’s residences spread-eagle the entire town.
 439-11.
 これは廃れた町だ。なにもここで起こったことがない。 
 これ　は　廃れ(すたれ)た　町(まち)　だ。　なに　も　ここ　で　起こっ(おこっ)た　こと　が　ない。
-This is a dead town; nothing ever happens here. (101)  
+This is a dead town; nothing ever happens here. 
 
 440-1.
 電灯をつける。 
@@ -1710,12 +1706,12 @@ Wakamatsu-san had accumulated some savings, and had gone to film school.
 442-8.
 このプレセントを買うために貯金に手を出さなくてはならなかった。 
 この　プレセント　を　買う(かう)　ため　に　貯金(ちょきん)　に　手(て)　を　出さ(ださ)なくて　は　ならなかった。
-I had to dip into my savings to buy this present. (101) 
+I had to dip into my savings to buy this present. 
 「-なくてはならない　/ -なくてはいけない　/ -なくてはだめ」　[imperative]: DJG v1 p274; Genki ch12; Marx v1 day54; Tobira ch2 #1. 
 442-9.
 私はコクソンの店にいる時は、週に三ポンドも得ていたので、それを貯金して七十ポンドを持っていました。 
 私(わたし)　は　コクソン　の　店(みせ)　に　いる　時(とき)　は、　週(しゅう)　に　三(さん)　ポンド　も　得(え)て　いた　ので、　それ　を　貯金(ちょきん)　して　七十(ななじゅう)　ポンド　を　持っ(もっ)て　いました。
-I had then been taking three pounds a week at Coxon's store, and I had saved about seventy of them. (88)  
+I had then been taking three pounds a week at Coxon's store, and I had saved about seventy of them. 
 
 443-1.
 易しくする。 
@@ -1736,7 +1732,7 @@ The fortune teller is satisfied with his work.
 443-5.
 あなたは付き合い易いですか？ 
 あなた　は　付き合い易い(つきあいやすい)　です　か？
-Are you easy to get along with? (101) 
+Are you easy to get along with? 
 「-やすい」　{-易い* 443} ["easy to __"]: DJG v1 p541; Genki ch20; Marx v1 day61. 
 443-6.
 十万円ぐらいなら貯め易いだろう。 
@@ -1757,7 +1753,7 @@ It seems so ridiculously simple.
 443-10.
 昨日の易者の占いなんか気にすることはないよ。 
 昨日(きのう)　の　易者(えきしゃ)　の　占い(うらない)　なんか　気(き)　に　する　こと　は　ない　よ。
-What that fortuneteller said yesterday is nothing to be concerned about. (87) 
+What that fortuneteller said yesterday is nothing to be concerned about. 
 「〜なんか」　["such (things)/such (a thing)"]: DJG v3 p341 (covered under 〜なんて). 
 「〜ことはない」　{〜事はない* 80} ["__ is not necessary"; "__ is not possible"]: DJG v2 p146; Tobira ch10 #15. 
 443-11.
@@ -1776,7 +1772,7 @@ We sincerely thank you for your regular patronage.
 444-3.
 神が私と共にいまし、私の行くこの道で私をまもり、食べるパンを賜い。 
 神(かみ)　が　私(わたし)　と　共に(ともに)　いまし、　私(わたし)　の　行く(いく)　この　道(みち)　で　私(わたし)　を　まもり、　食べる(たべる)　パン　を　賜い(たまい)。
-God will be with me, and keep me in this way I go, and give me bread to eat. (33)  
+God will be with me, and keep me in this way I go, and give me bread to eat. 
 
 445-1.
 仕事場。 
@@ -1929,7 +1925,7 @@ It was a large, airy place, with a little spring and a pool of clear water.
 445-38.
 特に今近づきつつあるのは、この島でも一番気持ちのいい場所だった。 
 特に(とくに)　今(いま)　近づき(ちかづき)つつ　ある　の　は、　この　島(しま)　でも　一番(いちばん)　気持ち(きもち)　の　いい　場所(ばしょ)　だった。
-It was, indeed, a most pleasant portion of the island that we were now approaching. (90) 
+It was, indeed, a most pleasant portion of the island that we were now approaching. 
 「-つつある」　["__ing"]: DJG v2 p542. 
 445-39.
 チェルノブイリは1986年に原子力発電所の大事故があった場所である。 
@@ -1938,7 +1934,7 @@ Chernobyl was the site of a major disaster at a nuclear power plant in 1986.
 445-40.
 石井さんはいつだって自分が命令する立場にいないと気がすまないのです。 
 石井(いしい)さん　は　いつ　だって　自分(じぶん)　が　命令(めいれい)　する　立場(たちば)　に　いない　と　気(き)　が　すまない　の　です。
-Ishii-san always has to be the one giving orders. (87) 
+Ishii-san always has to be the one giving orders. 
 「〜(っ)たって　/ 〜だって」　["even if __"]: DJG v3 p594.  
 
 446-1.
@@ -1964,7 +1960,7 @@ Yuki spoke softly to the pup and bathed its head in lukewarm water.
 446-6.
 良平はその電灯の光で、頭から汗の湯気が立つのが、かれ自身にもはっきり分かった。 
 良平(りょうへい)　は　その　電灯(でんとう)　の　光(ひかり)　で、　頭(あたま)　から　汗(あせ)　の　湯気(ゆげ)　が　立つ(たつ)　の　が、　かれ　自身(じしん)　に　も　はっきり　分かっ(わかっ)た。
-Under those lights, Ryohei clearly saw steam from his sweat rising off of his head. (93)  
+Under those lights, Ryohei clearly saw steam from his sweat rising off of his head. 
 
 447-1.
 水門水。 
@@ -2001,7 +1997,7 @@ A government with three discrete divisions.
 447-9.
 その後、みんなは門口を通ってエメラルドの都に入ったのです。 
 その　後(ご)、　みんな　は　門口(かどぐち)　を　通っ(とおっ)て　エメラルド　の　都(みやこ)　に　入っ(はいっ)た　の　です。
-Afterward they passed on through the gate into the Emerald City. (99)  
+Afterward they passed on through the gate into the Emerald City. 
 
 448-1.
 半時間。 
@@ -2106,7 +2102,7 @@ The phone was tied up for almost an hour.
 448-26.
 間もなく見えなくなってしまいます。 
 間もなく(まもなく)　見え(みえ)なく　なって　しまいます。
-In a moment he was out of sight. (99) 
+In a moment he was out of sight. 
 「-なくなる」　["no longer __"]: DJG v1 p277. 
 448-27.
 左官と部長の間には門番が多すぎる。 
@@ -2119,7 +2115,7 @@ The innkeeper got up an hour early this morning.
 448-29.
 私は春休みの間仕事をするつもりです。 
 私(わたし)　は　春休み(はるやすみ)　の　間(あいだ)　仕事(しごと)　を　する　つもり　です。
-I am going to work during the spring vacation. (87) 
+I am going to work during the spring vacation. 
 「〜つもり」　{〜積もり* 832} [intention/conviction]: DJG v1 p503; Genki ch10; Marx v1 day63. 
 448-30.
 平均で一週間に一回は映画に行きます。 
@@ -2160,12 +2156,12 @@ The TV program has a new time slot.
 448-39.
 坂井さんは、バスに間に合うように全力で走った。 
 坂井(さかい)さん　は、　バス　に　間に合う(まにあう)　よう　に　全力(ぜんりょく)　で　走っ(はしっ)た。
-Sakai-san ran flat out to catch the bus. (101) 
+Sakai-san ran flat out to catch the bus. 
 「〜ように」　["so that __"]: DJG v1 p553; Marx v2 day71; Tobira ch4 #6. 
 448-40.
 その会社の社長は、夏の間、決して仕事を休まない。 
 その　会社(かいしゃ)　の　社長(しゃちょう)　は、　夏(なつ)　の　間(あいだ)、　決して(けっして)　仕事(しごと)　を　休ま(やすま)ない。
-The president of the company never manages to get away during the summer. (101)  
+The president of the company never manages to get away during the summer. 
 
 449-1.
 門を閉める時間だ。 
@@ -2218,7 +2214,7 @@ If the library is closed today, I'll go again tomorrow.
 449-13.
 ほとんどの家の雨戸はまだ閉まったままだったが、いくつかの家の人はもう起きていました。 
 ほとんど　の　家(いえ)　の　雨戸(あまど)　は　まだ　閉ま(しま)った　まま　だった　が、　いくつ　か　の　家(いえ)　の　人(ひと)　は　もう　起き(おき)て　いました。
-Most of the shutters were still closed, but some of the villagers were about. (29)  
+Most of the shutters were still closed, but some of the villagers were about. 
 
 450-1.
 開店時間。 
@@ -2311,12 +2307,12 @@ A few people were gathered about the stalls which were still open.
 450-23.
 すると私たちは入口の戸が半分開きかかっている部屋の前に出た。 
 すると　私(わたし)たち　は　入口(いりぐち)　の　戸(と)　が　半分(はんぶん)　開き(ひらき)かかって　いる　部屋(へや)　の　前(まえ)　に　出(で)た。
-Upon which we found ourselves outside a half-opened door. (88) 
+Upon which we found ourselves outside a half-opened door. 
 「すると〜」　["then __"]: DJG v1 p437; Tobira ch8 #3. 
 450-24.
 すぐにドアは開き、快活そうな若者がお入り下さいと言いました。 
 すぐ　に　ドア　は　開き(ひらき)、　快活(かいかつ)　そう　な　若者(わかもの)　が　お入り(はいり)　下さい(ください)　と　言(い)いました。
-The door was instantly opened by a bright-looking young fellow, who said to step in. (4) 
+The door was instantly opened by a bright-looking young fellow, who said to step in. 
 「Verbal connectives akin to -て」　: DJG v1 p464, v2 p64 of front matter; Tobira ch1 #5. 
 
 451-1.
@@ -2354,7 +2350,7 @@ The competition aroused nationwide interest.
 451-9.
 関口先生は特にスペルに関してうるさい。 
 関口(せきぐち)　先生(せんせい)　は　特に(とくに)　スペル　に関して(にかんして)　うるさい。
-Sekiguchi-sensei is particularly fussy about spelling. (101) 
+Sekiguchi-sensei is particularly fussy about spelling. 
 「〜にかんして　/ 〜にかんする」　{〜に関して　/ 〜に関する　451} ["with regard to __", "about __"]: DJG v2 p252; Marx v2 day42; Tobira ch12 #4. 
 451-10.
 ジキルは父親以上に関心をはらっていた。 
@@ -2363,12 +2359,12 @@ Jekyll had more than a father's interest.
 451-11.
 この件に関する私たちの意見は一致した。 
 この　件(けん)　に関する(にかんする)　私(わたし)たち　の　意見(いけん)　は　一致(いっち)　した。
-Our views on this matter coincided. (101) 
+Our views on this matter coincided. 
 「〜にかんして　/ 〜にかんする」　{〜に関して　/ 〜に関する　451} ["with regard to __", "about __"]: DJG v2 p252; Marx v2 day42; Tobira ch12 #4. 
 451-12.
 「大関」とは、二等の力士のことを示す。 
-「大関(おおぜき)」　と　は、　二等(にとう)　の　力士(りきし)　の　こと　を　示(しめ)す。 “Ozeki”
-refers to a sumo wrestler of the second rank. 
+「大関(おおぜき)」　と　は、　二等(にとう)　の　力士(りきし)　の　こと　を　示(しめ)す。 
+“Ozeki” refers to a sumo wrestler of the second rank. 
 451-13.
 そこに住んでいる人すべてに関わりがある。 
 そこ　に　住ん(すん)で　いる　人(ひと)　すべて　に　関わり(かかわり)　が　ある。
@@ -2376,7 +2372,7 @@ It concerns all the people living there.
 451-14.
 私の主たる関心事はあなたの身の安全なのです。 
 私(わたし)　の　主たる(しゅたる)　関心事(かんしんじ)　は　あなた　の　身(み)　の　安全(あんぜん)　な　の　です。
-My primary concern is your safety. (87)  
+My primary concern is your safety. 
 
 452-1.
 問いにこたえる。 
@@ -2397,7 +2393,7 @@ I found that one question very easy.
 452-5.
 犬は、物問いたげにネロの顔を見上げました。 
 犬(いぬ)　は、　物問い(ものとい)たげ　に　ネロ　の　顔(かお)　を　見上げ(みあげ)ました。
-The dog looked up wistfully in Nello's face. (29) 
+The dog looked up wistfully in Nello's face. 
 「-げ」　["__-looking", "__-like"]: Marx v2 day68. 
 452-6.
 私たちは出席者全員について問い合わせを行った。 
@@ -2406,17 +2402,15 @@ We made inquiries of all those in attendance.
 452-7.
 この本が図書館にあるかどうか問い合わせて下さい。 
 この　本(ほん)　が　図書館(としょかん)　に　ある　か　どう　か　問い合わせ(といあわせ)て　下さい(ください)。
-Please ask whether they have this book at the library. (87) 
+Please ask whether they have this book at the library. 
 「〜かどうか」　["whether __ (or not)"]: DJG v1 p168; Marx v2 day26. 
 452-8.
 私たちはこの質問について見解が全く一致しなかった。 
 私(わたし)たち　は　この　質問(しつもん)　について　見解(けんかい)　が　全く(まったく)　一致(いっち)　しなかった。
 We never saw eye to eye on this question. 
 452-9.
-社員が
-「このやり方で本当に正しかったのか」を、自分に問う。 
-社員(しゃいん)　が　
-「この　やり方(やりかた)　で　本当に(ほんとうに)　正しかっ(ただしかっ)た　の　か」　を、　自分(じぶん)　に　問う(とう)。
+社員が「このやり方で本当に正しかったのか」を、自分に問う。 
+社員(しゃいん)　が　「この　やり方(やりかた)　で　本当に(ほんとうに)　正しかっ(ただしかっ)た　の　か」　を、　自分(じぶん)　に　問う(とう)。
 The staffperson asks himself, "Did I really take the correct approach"? 
 452-10.
 共産党のせいで、今日の中国大学は学問の自由を強調しません。 
@@ -2455,7 +2449,7 @@ I listened to the music with my eyes closed.
 453-8.
 雑音でなにも聞こえません。 
 雑音(ざつおん)　で　なに　も　聞こえ(きこえ)ません。
-I can't hear anything because of the noise. (87) 
+I can't hear anything because of the noise. 
 「〜きこえる」　{〜聞こえる　453} ["__ can be heard"; "sounds __"]: DJG v1 p188; Marx v1 day50. 
 453-9.
 私は、口頭でそれを聞いた。 
@@ -2496,7 +2490,7 @@ I'll tell you what I've heard myself.
 453-18.
 通りからのはっきり聞こえない雑音。 
 通り(とおり)　から　の　はっきり　聞こえ(きこえ)ない　雑音(ざつおん)。
-The muffled noise from the street. (101) 
+The muffled noise from the street. 
 「〜きこえる」　{〜聞こえる　453} ["__ can be heard"; "sounds __"]: DJG v1 p188; Marx v1 day50. 
 453-19.
 あなたの名前に聞き覚えがあります。 
@@ -2517,7 +2511,7 @@ Next time, please ask me before you use my car.
 453-23.
 その待合室はあまりにうるさくて、自分の名前がよばれるのが聞こえなかった。 
 その　待合室(まちあいしつ)　は　あまり　に　うるさくて、　自分(じぶん)　の　名前(なまえ)　が　よばれる　の　が　聞こえ(きこえ)なかった。
-The waiting room was so noisy that I couldn't hear my name called. (87) 
+The waiting room was so noisy that I couldn't hear my name called. 
 「あまりに(も)〜　/ あんまりに(も)〜」　{余りに(も)〜　995} ["too __"]: Tobira ch13 #10. 
 453-24.
 今日新聞でそのことを読んだのですが、半分も物事は明らかになっていなかった。 
@@ -2530,7 +2524,7 @@ If you put your ear to the ground now, you would hear the whole island seething 
 453-26.
 その若者は両手の中に顔をうずめるようにしておりましたので、鳥の羽ばたきは聞こえませんでした。 
 その　若者(わかもの)　は　両手(りょうて)　の　中(なか)　に　顔(かお)　を　うずめる　よう　に　して　おりました　ので、　鳥(とり)　の　羽ばたき(はばたき)　は　聞こえ(きこえ)ません　でした。
-The young man had his head buried in his hands, so he did not hear the flutter of the bird's wings. (37)  
+The young man had his head buried in his hands, so he did not hear the flutter of the bird's wings. 
 
 454-1.
 神の訪問。 
@@ -2555,7 +2549,7 @@ Iguchi-san visits her aunt weekly.
 454-6.
 社交上、あるいは商売上の訪問者。 
 社交上(しゃこうじょう)、　あるいは　商売上(しょうばいじょう)　の　訪問者(ほうもんしゃ)。
-A social or business visitor. (100) 
+A social or business visitor. 
 「-じょう」　{-上　41} ["for __"]: DJG v2 p76. 
 「あるいは」　{或は* 1152} ["or"]: DJG v3 p16; Tobira ch9 #5. 
 454-7.
@@ -2573,7 +2567,7 @@ Every year twenty million foreigners visit Japan.
 454-10.
 それからとうとう訪問者は口を開きました。 
 それから　とうとう　訪問者(ほうもんしゃ)　は　口(くち)　を　開き(ひらき)ました。
-Then at last the visitor spoke. (64) 
+Then at last the visitor spoke. 
 「とうとう〜」　["finally __"]: DJG v2 p528; Tobira ch8 #17. 
 454-11.
 毎夏、我々は1ヵ月の間いなかの親類を訪ねた。 
@@ -2586,12 +2580,12 @@ The highlight of last week’s tour was our visit to the Vatican.
 454-13.
 春になるとなん百羽のナイチンゲールがその場所を訪れます。 
 春(はる)　に　なる　と　なん百(びゃく)　羽(わ)　の　ナイチンゲール　が　その　場所(ばしょ)　を　訪れ(おとずれ)ます。
-Hundreds of nightingales visit it every spring. (98) 
+Hundreds of nightingales visit it every spring. 
 「〜になると」　["when __ comes"]: DJG v2 p262; Genki ch18. 
 454-14.
 来年の今ごろまでには日本の有名な場所をほとんど訪れたことになるだろう。 
 来年(らいねん)　の　今(いま)ごろ　まで　に　は　日本(にほん)　の　有名(ゆうめい)　な　場所(ばしょ)　を　ほとんど　訪れ(おとずれ)た　こと　に　なる　だろう。
-By this time next year, you will have visited almost all the famous places in Japan. (87) 
+By this time next year, you will have visited almost all the famous places in Japan. 
 「〜ことになる」　{〜事になる* 80} ["end up that __"]: DJG v2 p140; Marx v2 day73.  
 
 455-1.
@@ -2655,8 +2649,9 @@ The factory sent out large orders to many places.
 商品(しょうひん)　は、　ご注文(ごちゅうもん)　メール　受け取り(うけとり)　後(ご)、　1週間(しゅうかん)　以内(いない)　に　発送(はっそう)　します。
 We will ship your order within a week of receiving your e-mail order. 
 455-16.
-C/
-FO支部は、アニメが本当にほしくて、それを他の親友たちと共有するであろう人々にしかテープを送らなかった。 C/FO　支部(しぶ)　は、　アニメ　が　本当に(ほんとうに)　ほしくて、　それ　を　他(ほか)　の　親友(しんゆう)たち　と　共有(きょうゆう)　する　で　あろう　人々(ひとびと)　に　しか　テープ　を　送ら(おくら)なかった。 C/FO chapters only sent material to people who really wanted anime and who would share it with other close friends. (69) 
+C/FO支部は、アニメが本当にほしくて、それを他の親友たちと共有するであろう人々にしかテープを送らなかった。 
+C/FO　支部(しぶ)　は、　アニメ　が　本当に(ほんとうに)　ほしくて、　それ　を　他(ほか)　の　親友(しんゆう)たち　と　共有(きょうゆう)　する　で　あろう　人々(ひとびと)　に　しか　テープ　を　送ら(おくら)なかった。 
+C/FO chapters only sent material to people who really wanted anime and who would share it with other close friends. 
 「〜であろう」　[expression of conjecture or resoluteness]: DJG v2 p29. 
 
 456-1.
@@ -2666,7 +2661,7 @@ Do you have same-day tickets?
 456-2.
 ぴんとしたドルの新券。 
 ぴんと　した　ドル　の　新券(しんけん)。
-Crisp new dollar bills. (101) 
+Crisp new dollar bills. 
 「〜とする」　[follows description of an impression or sensation]: DJG v2 p523; Marx v2 day35. 
 456-3.
 入場券はいくらですか？ 
@@ -2716,7 +2711,7 @@ The cutler downtown sells knives that are perfect for slicing pig meat.
 457-10.
 ギリシャ人はトロイアの包囲が続いた10年間ずっとこの小屋に住み続けたんだ。 
 ギリシャ人(じん)　は　トロイア　の　包囲(ほうい)　が　続い(つづい)た　10年間(ねんかん)　ずっと　この　小屋(こや)　に　住み続け(すみつづけ)た　ん　だ。
-In these huts the Greeks lived all through the ten years that the siege of Troy lasted. (86)  
+In these huts the Greeks lived all through the ten years that the siege of Troy lasted. 
 
 458-1.
 タバコを巻く。 
@@ -2756,8 +2751,8 @@ He robbed me of every cent I had.
 Sekine-san made heaps of money by ripping off people for being nice. 
 458-10.
 ロドリーゴが人の注意を引くところは、すごい巻き舌でRを発音することだ。 
-ロドリーゴ　が　人(ひと)　の　注意(ちゅうい)　を　引く(ひく)　ところ　は、　すごい　巻き舌(まきじた)　で
-R　を　発音(はつおん)　する　こと　だ。 What draws people's attention to Rodrigo is the way he pronounces his R's with a distinct trill. (101)  
+ロドリーゴ　が　人(ひと)　の　注意(ちゅうい)　を　引く(ひく)　ところ　は、　すごい　巻き舌(まきじた)　でR　を　発音(はつおん)　する　こと　だ。 
+What draws people's attention to Rodrigo is the way he pronounces his R's with a distinct trill.
 
 459-1.
 フランス語圏。 
@@ -2778,7 +2773,7 @@ Eastern Germany got caught into the Communist sphere.
 459-5.
 チューリヒはスイスのドイツ語圏の中心地だ。 
 チューリヒ　は　スイス　の　ドイツ語圏(ごけん)　の　中心地(ちゅうしんち)　だ。
-Zurich is the center of the German-speaking part of Switzerland. (101)  
+Zurich is the center of the German-speaking part of Switzerland. 
 
 460-1.
 楽々勝つ。 
@@ -2795,7 +2790,7 @@ A look of triumph.
 460-4.
 得意げな勝者。 
 得意げ(とくいげ)　な　勝者(しょうしゃ)。
-The elated winner. (101) 
+The elated winner. 
 「-げ」　["__-looking", "__-like"]: Marx v2 day68. 
 460-5.
 見つけた者勝ち。 
@@ -2832,12 +2827,12 @@ All hope of winning the game vanished.
 460-13.
 次長のポストが早い者勝ちだって聞いたか？ 
 次長(じちょう)　の　ポスト　が　早い者(はやいもの)　勝ち(がち)　だって　聞い(きい)た　か？
-Did you hear that the assistant manager post is up for grabs? (87) 
+Did you hear that the assistant manager post is up for grabs? 
 「-って」　[colloquial quote marker]: DJG v1 p510; Genki ch17; Tobira ch1 #16. 
 460-14.
 今のところ、私たちが勝つ見込みは十分にある。 
 今(いま)　の　ところ、　私(わたし)たち　が　勝つ(かつ)　見込み(みこみ)　は　十分(じゅうぶん)　に　ある。
-Our prospects for victory are excellent at the moment. (87) 
+Our prospects for victory are excellent at the moment. 
 「〜ところ」　["when __"]: DJG v2 p500; Marx v2 day46. 
 460-15.
 勝利点はのこり時間1分を切ったところで取られた。 
@@ -2899,7 +2894,7 @@ Both sides agreed on cease-fire terms.
 461-11.
 命ある限り戦ってみせよう。 
 命(いのち)　ある　限り(かぎり)　戦っ(たたかっ)て　みせよう。
-I will fight them as long as I am alive. (99) 
+I will fight them as long as I am alive. 
 「-てみせる」　{-て見せる* 83} ["am determined to __"]: DJG v2 p177. 
 461-12.
 かれらは内戦戦場のツアーをした。 
@@ -2916,7 +2911,7 @@ I'm struggling with French grammar.
 461-15.
 戦う人の中には女性や子供でさえ見て取れました。 
 戦う(たたかう)　人(ひと)　の　中(なか)　に　は　女性(じょせい)　や　子供(こども)　で　さえ　見て取れ(みてとれ)ました。
-Even women and children were to be found among the combatants. (98) 
+Even women and children were to be found among the combatants. 
 「や」　["and" within a non-exhaustive list; cf. と]: DJG v1 p536; Genki ch11; Marx v1 day57. 
 「〜さえ」　["even __"; "(if) just __"]: DJG v2 p363; Marx v2 day60-61; Tobira ch5 #6. 
 461-16.
@@ -2954,8 +2949,8 @@ Nothing is so monotonous as the sea.
 The reporter’s answer was a mere punctuation mark. 
 462-8.
 「入って下さい」と単調に言った。 
-「入っ(はいっ)て　下さい(ください)」　と　単調(たんちょう)　に　言っ(いっ)た。 ‘Come
-in’, she said tonelessly. 
+「入っ(はいっ)て　下さい(ください)」　と　単調(たんちょう)　に　言っ(いっ)た。 
+‘Come in’, she said tonelessly. 
 462-9.
 新しい単車が買いたくてうずうずしている。 
 新(あたら)しい　単車(たんしゃ)　が　買い(かい)たくて　うずうず　して　いる。
@@ -3016,7 +3011,7 @@ Takai-san solved the puzzle with ease.
 463-11.
 簡単な解決方法は、ハンドブックで調べることだ。 
 簡単(かんたん)　な　解決(かいけつ)　方法(ほうほう)　は、　ハンドブック　で　調べる(しらべる)　こと　だ。
-The easy solution is to look it up in the handbook. (101)  
+The easy solution is to look it up in the handbook.
 
 464-1.
 近い過去。 
@@ -3029,7 +3024,7 @@ Through traffic.
 464-3.
 やり過ぎる。 
 やり過ぎる(すぎる)。
-Carry too far. (101) 
+Carry too far. 
 「-すぎる」　{-過ぎる　464} ["__ too much", "over-__"]: DJG v1 p423; Genki ch12; Marx v1 day61. 
 464-4.
 過度な支出。 
@@ -3086,7 +3081,7 @@ We wintered on the Riviera.
 464-17.
 同じ過ちをしないように注意しよう。 
 同じ(おなじ)　過ち(あやまち)　を　しない　よう　に　注意(ちゅうい)　しよう。
-Let us take care not to make the same mistake. (62) 
+Let us take care not to make the same mistake. 
 「〜ように」　["so that __"]: DJG v1 p553; Marx v2 day71; Tobira ch4 #6. 
 464-18.
 町田さんは大会で楽しい時間を過ごした。 
@@ -3103,7 +3098,7 @@ I saw you driving by my house this morning.
 464-21.
 しかし十時を過ぎたし、全くのところ出発する時間だ。 
 しかし　十時(じゅうじ)　を　過ぎ(すぎ)た　し、　全く(まったく)　の　ところ　出発(しゅっぱつ)　する　時間(じかん)　だ。
-It is past ten, however, and quite time that we started. (4) 
+It is past ten, however, and quite time that we started. 
 「しかし」　["but"]: DJG v1 p120, v2 p18; Marx v1 day59. 
 464-22.
 子供のころの時間の過ごし方が、その後の人生を左右する。 
@@ -3112,7 +3107,7 @@ What you spend time doing in your childhood affects the rest of your life.
 464-23.
 過去二十年のあいだ、物質も空間も、時間も大昔からのそれと同じであったことはなかった。 
 過去(かこ)　二十年(にじゅうねん)　の　あいだ、　物質(ぶっしつ)　も　空間(くうかん)　も、　時間(じかん)　も　大昔(おおむかし)　から　の　それ　と　同じ(おなじ)　で　あった　こと　は　なかった。
-For the last twenty years neither matter nor space nor time has been what it was from time immemorial. (102)  
+For the last twenty years neither matter nor space nor time has been what it was from time immemorial.
 
 465-1.
 中手骨。 
@@ -3149,7 +3144,7 @@ The cold pierced him to the bone.
 465-9.
 これこそ、ついに私の骨の骨、私の肉の肉。 
 これ　こそ、　ついに　私(わたし)　の　骨(ほね)　の　骨(ほね)、　私(わたし)　の　肉(にく)　の　肉(にく)。
-This is now bone of my bones, and flesh of my flesh. (33) 
+This is now bone of my bones, and flesh of my flesh. 
 「〜こそ」　[places focus on the particular person, object, place, time, etc. that was just mentioned]: DJG v2 p132; Tobira ch12 #9. 
 465-10.
 夕飯に骨付き豚肉一ポンド出前を取るダブリン市長をどう思う？ 
@@ -3158,7 +3153,7 @@ What do you think of a Lord Mayor of Dublin sending out for a pound of pork chop
 465-11.
 我々の間に入って来た英国人などは、全くどこの馬の骨でしょう？ 
 我々(われわれ)　の　間(あいだ)　に　入っ(はいっ)て　来(き)た　英国人(えいこくじん)　など　は、　全く(まったく)　どこ　の　馬の骨(うまのほね)　でしょう？
-Who was this Englishman that he should come between us? (1)  
+Who was this Englishman that he should come between us? 
 
 466-1.
 戸外の昼食。 
@@ -3231,7 +3226,7 @@ We have an hour's recess for lunch from twelve to one.
 466-18.
 図書館の前の木の下で昼食を食べている男性がなん人かいた。 
 図書館(としょかん)　の　前(まえ)　の　木の下(きのした)　で　昼食(ちゅうしょく)　を　食べ(たべ)て　いる　男性(だんせい)　が　なん人(にん)　か　いた。
-There were some men eating their lunches under the trees in front of the library. (87)  
+There were some men eating their lunches under the trees in front of the library. 
 
 467-1.
 楽しい一夜。 
@@ -3276,7 +3271,7 @@ Last night there was a fire in the neighborhood.
 467-11.
 こうして夜が過ぎていった。 
 こうして　夜(よる)　が　過ぎ(すぎ)て　いった。
-Thus the night passed. (7) 
+Thus the night passed. 
 「こうして」　["like this"]: DJG v2 p131. 
 467-12.
 今夜はとても楽しかったです。 
@@ -3353,7 +3348,7 @@ It was nearer to the dawn than to midnight.
 467-30.
 さて、今夜はどっちの映画を見ましょうか？ 
 さて、　今夜(こんや)　は　どっち　の　映画(えいが)　を　見(み)ましょう　か？
-Let's see, which movie should we see tonight? (101) 
+Let's see, which movie should we see tonight? 
 「さて」　[initiates a new matter]: DJG v3 p543; Tobira ch8 #6. 
 「-ましょうか」　["shall I/we __"]: Genki ch6; Marx v1 day49. 
 467-31.
@@ -3367,17 +3362,15 @@ A "nighter" (night game) is a ballgame played at night.
 467-33.
 昼間開花する花は、日中に開いて夜になると閉じる。 
 昼間(ちゅうかん)　開花(かいか)　する　花(はな)　は、　日中(にっちゅう)　に　開い(ひらい)て　夜(よる)　に　なる　と　閉じる(とじる)。
-Diurnal flowers are open during the day and closed at night. (101) 
+Diurnal flowers are open during the day and closed at night. 
 「〜になると」　["when __ comes"]: DJG v2 p262; Genki ch18. 
 467-34.
 勝さんは今夜成田から広東へ発ちます。 
 勝(まさる)さん　は　今夜(こんや)　成田(なりた)　から　広東(カントン)　へ　発ち(たち)ます。
 Masaru is leaving Narita for Guangdong this evening. 
 467-35.
-今夜のメインの上映作品は
-「カサブランカ」である。 
-今夜(こんや)　の　メイン　の　上映(じょうえい)　作品(さくひん)　は　
-「カサブランカ」　で　ある。
+今夜のメインの上映作品は「カサブランカ」である。 
+今夜(こんや)　の　メイン　の　上映(じょうえい)　作品(さくひん)　は　「カサブランカ」　で　ある。
 The feature tonight is 'Casablanca'. 
 467-36.
 私のスパイが昨夜あなたはいい時間を過ごしたと私に言う。 
@@ -3388,11 +3381,9 @@ My spies tell me that you had a good time last night.
 12日(にち)　の　朝(あさ)　7時(じ)　から　21日(にち)　の　夜(よる)　8時(じ)　45分(ふん)　まで　の　間(あいだ)　は、　9日(ここのか)　と　13時間(じかん)　45分(ふん)　あった。
 From seven in the morning of the 12th to a quarter before nine in the evening of the 21st there were nine days, thirteen hours, and forty-five minutes. 
 467-38.
-神はまた言われた、
-「天の大空に光があって昼と夜とを分け、印のため、季節のため、日のため、年のためになり。 
-神(かみ)　は　また　言わ(いわ)れた、　
-「天(てん)　の　大空(おおぞら)　に　光(ひかり)　が　あって　昼(ひる)　と　夜(よる)　と　を　分け(わけ)、　印(しるし)　の　ため、　季節(きせつ)　の　ため、　日(にち)　の　ため、　年(とし)　の　ため　に　なり。
-And God said, "Let there be lights in the firmament of the heaven to divide the day from the night; and let them be for signs, and for seasons, and for days, and years". (33)  
+神はまた言われた、「天の大空に光があって昼と夜とを分け、印のため、季節のため、日のため、年のためになり。 
+神(かみ)　は　また　言わ(いわ)れた、　「天(てん)　の　大空(おおぞら)　に　光(ひかり)　が　あって　昼(ひる)　と　夜(よる)　と　を　分け(わけ)、　印(しるし)　の　ため、　季節(きせつ)　の　ため、　日(にち)　の　ため、　年(とし)　の　ため　に　なり。
+And God said, "Let there be lights in the firmament of the heaven to divide the day from the night; and let them be for signs, and for seasons, and for days, and years". 
 
 468-1.
 液化石油ガス。 
@@ -3429,7 +3420,7 @@ The two liquids were homogenized in the blender.
 468-9.
 古代人は血液は気持ちの源であると信じた。 
 古代人(こだいじん)　は　血液(けつえき)　は　気持(きも)ち　の　源(みなもと)　で　ある　と　信(しん)じた。
-The ancients believed that blood was the seat of the emotions. (101)  
+The ancients believed that blood was the seat of the emotions. 
 
 469-1.
 次回戒心すべき。 
@@ -3447,7 +3438,7 @@ The branch manager waved his hand back and forth in admonition.
 469-4.
 モーセはシナイ山で神から十戒をさずかった。 
 モーセ　は　シナイ山(さん)　で　神(かみ)　から　十戒(じっかい)　を　さずかった。
-Moses received the Ten Commandments from God on Mount Sinai. (100)  
+Moses received the Ten Commandments from God on Mount Sinai. 
 
 470-1.
 幾分苦い。 
@@ -3460,7 +3451,7 @@ Somewhat hard.
 470-3.
 幾時間もこうして待っていた。 
 幾時間(いくじかん)　も　こうして　待っ(まっ)て　いた。
-For hours he waited this way. (82) 
+For hours he waited this way. 
 「こうして」　["like this"]: DJG v2 p131. 
 470-4.
 私は幾度も注意されたのです。 
@@ -3472,7 +3463,8 @@ I was warned numerous times.
 The butcher has several shops. 
 
 471-1.
-日本は八地方に区分されている、即ち北海道・東北・関東・中部・近畿・中国・四国・九しゅう。 日本(にほん)　は　八(はち)　地方(ちほう)　に　区分(くぶん)　されて　いる、　即ち(すなわち)　北海道(ほっかいどう)　・　東北(とうほく)　・　関東(かんとう)　・　中部(ちゅうぶ)　・　近畿(きんき)　・　中国(ちゅうごく)　・　四国(しこく)　・　九しゅう(きゅうしゅう)。
+日本は八地方に区分されている、即ち北海道・東北・関東・中部・近畿・中国・四国・九しゅう。 
+日本(にほん)　は　八(はち)　地方(ちほう)　に　区分(くぶん)　されて　いる、　即ち(すなわち)　北海道(ほっかいどう)　・　東北(とうほく)　・　関東(かんとう)　・　中部(ちゅうぶ)　・　近畿(きんき)　・　中国(ちゅうごく)　・　四国(しこく)　・　九しゅう(きゅうしゅう)。
 Japan is divided into eight regions, namely Hokkaido, Tohoku, Kanto, Chubu, Kinki, Chugoku, Shikoku, and Kyushu. 
 「すなわち〜」　{即ち〜* 390} ["namely, __", "that is, __"]: DJG v2 p538 (covered under つまり); Tobira ch14 #2.  
 
@@ -3560,7 +3552,7 @@ I have not had a chance to see that movie.
 473-17.
 その休日は我々がワシントンを訪れる好機となった。 
 その　休日(きゅうじつ)　は　我々(われわれ)　が　ワシントン　を　訪れる(おとずれる)　好機(こうき)　と　なった。
-The holiday gave us the opportunity to visit Washington. (101)  
+The holiday gave us the opportunity to visit Washington. 
 
 474-1.
 布地を作る機械。 
@@ -3589,7 +3581,7 @@ The Americans were machining while others still hand-made cars.
 474-7.
 湿った口は時々だらりと開いて、閉じるたびに機械的に一、二度もぐもぐした。 
 湿っ(しめっ)た　口(くち)　は　時々(ときどき)　だらり　と　開い(ひらい)て、　閉じる(とじる)　たび　に　機械的(きかいてき)　に　一(いち)、　二(に)　度(ど)　もぐもぐ　した。
-The moist mouth fell open at times, munching once or twice mechanically when it closed. (49)  
+The moist mouth fell open at times, munching once or twice mechanically when it closed. 
 
 475-1.
 持続飛行。 
@@ -3614,7 +3606,7 @@ Pass by while flying.
 475-6.
 飛行機は、頭上を飛んでいた。 
 飛行機(ひこうき)　は、　頭上(ずじょう)　を　飛ん(とん)で　いた。
-Planes were flying overhead. (101) 
+Planes were flying overhead. 
 「〜を」　[indicates space of motion]: DJG v1 p349. 
 475-7.
 両親は飛行機事故で亡くなった。 
@@ -3647,7 +3639,7 @@ When does your plane depart?
 475-14.
 独りぼっちの一羽の鳥が空を飛んでいた。 
 独りぼっち(ひとりぼっち)　の　一羽(いちわ)　の　鳥(とり)　が　空(そら)　を　飛ん(とん)で　いた。
-One lonely bird flew across the sky. (87) 
+One lonely bird flew across the sky. 
 「〜を」　[indicates space of motion]: DJG v1 p349. 
 475-15.
 私たちはかろうじて飛行機に間に合った。 
@@ -3688,7 +3680,7 @@ In truth nothing could have been easier than to fly off.
 475-24.
 あらあら、時は飛ぶように過ぎ去ってしまうものね！ 
 あらあら、　時(とき)　は　飛ぶ(とぶ)　よう　に　過ぎ去っ(すぎさっ)て　しまう　もの　ね！
-Ah me, how time flies! (64) 
+Ah me, how time flies! 
 「〜もの(だ)」　[emphasis on a particular situation]: DJG v1 p257. 
 475-25.
 磯部さんは、飛行機で、2人の太った男性の間にはさまれた。 
@@ -3701,7 +3693,7 @@ As soon as Yuki opened the door, a white dog ran out of the house.
 475-27.
 ドロシーはベッドから飛び出て、トトをすぐ後ろに続かせて走り、戸を開けました。 
 ドロシー　は　ベッド　から　飛び出(とびで)て、　トト　を　すぐ　後ろ(うしろ)　に　続か(つづか)せて　走り(はしり)、　戸(と)　を　開け(あけ)ました。
-Dorothy sprang from her bed and with Toto at her heels ran and opened the door. (99)  
+Dorothy sprang from her bed and with Toto at her heels ran and opened the door. 
 
 476-1.
 そこが故小坂氏の住居でした。 
@@ -3730,7 +3722,7 @@ It was afternoon when Mr. Utterson found his way to Dr. Jekyll's door.
 476-7.
 フィッツパトリック氏は楽しんでいるようだった。 
 フィッツパトリック　氏(し)　は　楽しん(たのしん)で　いる　よう　だった。
-Mr. Fitzpatrick seemed to enjoy himself. (58) 
+Mr. Fitzpatrick seemed to enjoy himself. 
 「〜ようだ」　["looks like __"; "seems (that) __"]: DJG v1 p547; Marx v2 day66. 
 476-8.
 志願者は住所・氏名・年令・電話番号を明記する。 
@@ -3743,7 +3735,7 @@ This substance is stable between 768 and 906 degrees centigrade.
 476-10.
 ダーシー氏は首を入念に包みながら顔をしかめて立っていた。 
 ダーシー　氏(し)　は　首(くび)　を　入念(にゅうねん)　に　包み(つつみ)ながら　顔(かお)　を　しかめて　立っ(たっ)て　いた。
-Mr. D'Arcy stood swathing his neck carefully and frowning. (25) 
+Mr. D'Arcy stood swathing his neck carefully and frowning. 
 「〜ながら」　["while __"]: DJG v1 p269; Genki ch18; Marx v1 day88. 
 476-11.
 フォッグ氏たちは、この時間を利用してリノを訪ねることにした。 
@@ -3756,12 +3748,12 @@ At this moment a man who had been observing Mr. Fogg attentively approached.
 476-13.
 ハイド氏の過去の大部分は明るみに出されたが、まことにひどいものだった。 
 ハイド　氏(し)　の　過去(かこ)　の　大部分(だいぶぶん)　は　明るみ(あかるみ)　に　出さ(ださ)れた　が、　まことに　ひどい　もの　だった。
-Much of Mr. Hyde's past was unearthed, and it was disreputable indeed. (84) 
+Much of Mr. Hyde's past was unearthed, and it was disreputable indeed. 
 「〜もの(だ)」　[emphasis on a particular situation]: DJG v1 p257. 
 476-14.
 ぼくも一、二回クレイ氏と手合わせをしたが、きみの言うとおりその道のトップだ。 
 ぼく　も　一(いち)、　二回(にかい)　クレイ　氏(し)　と　手合わせ(てあわせ)　を　した　が、　きみ　の　言う(いう)　とおり　その道(そのみち)　の　トップ　だ。
-I too have had one or two turns with Mr. Clay, and I agree with you that he is at the head of his profession. (4)  
+I too have had one or two turns with Mr. Clay, and I agree with you that he is at the head of his profession. 
 
 477-1.
 国民性。 
@@ -3802,7 +3794,7 @@ The date of the next meeting was decided democratically.
 477-10.
 井戸水を飲まないよう市が住民に注意をよびかける。 
 井戸水(いどみず)　を　飲ま(のま)ない　よう　市(し)　が　住民(じゅうみん)　に　注意(ちゅうい)　を　よびかける。
-The city alerts all residents not to drink well water. (10)  
+The city alerts all residents not to drink well water. 
 
 478-1.
 有力紙。 
@@ -3843,7 +3835,7 @@ I got a letter from an old friend yesterday.
 478-10.
 来週手紙書くか電話かけるかするよ。 
 来週(らいしゅう)　手紙(てがみ)　書く(かく)　か　電話(でんわ)　かける　か　する　よ。
-I'll either write to you or phone you next week. (87) 
+I'll either write to you or phone you next week. 
 「〜か〜か」　["either __ or __"]: DJG v1 p164; Marx v2 day14. 
 478-11.
 私たちは1年間手紙のやり取りをしている。 
@@ -3865,13 +3857,13 @@ Do you have anything that will hold together these loose notepapers?
 478-15.
 こういう上等の和紙は一束半クラウン以下では買えまい。 
 こういう　上等(じょうとう)　の　和紙(わし)　は　一束(いっそく)　半(はん)クラウン　以下(いか)　では　買え(かえ)まい。
-Such high-end Japanese paper could not be bought under half a crown a packet. (4) 
+Such high-end Japanese paper could not be bought under half a crown a packet. 
 「こういう〜　/ こういった〜」　{こう言う〜　/ こう言った〜　51} ["such __"]: DJG v2 p131; Tobira ch4 #10. 
 「〜まい」　["isn't/aren't/won't __"]: DJG v2 p161. 
 478-16.
 私は若松神父に手紙を出した。しかし、返事はくれなかった。 
 私(わたし)　は　若松(わかまつ)　神父(しんぷ)　に　手紙(てがみ)　を　出し(だし)た。しかし、　返事(へんじ)　は　くれなかった。
-I wrote to Father Wakamatsu. However, I got no answer. (1) 
+I wrote to Father Wakamatsu. However, I got no answer. 
 「しかし」　["but"]: DJG v1 p120, v2 p18; Marx v1 day59. 
 「〜くれる」　{〜呉れる** 1478} ["give"]: DJG v1 p213; Genki ch14; Marx v2 day30. 
 478-17.
@@ -3879,10 +3871,8 @@ I wrote to Father Wakamatsu. However, I got no answer. (1)
 その　二日目(ふつかめ)　の　夕方(ゆうがた)、　やっと　キュービット　氏(し)　から、　一通(いっつう)　の　手紙(てがみ)　が　来(き)た。
 At last on the evening of the second there came a letter from Mr. Cubitt. 
 478-18.
-気を付けて、中国語では
-「手紙」とはトイレットペーパーを言うからね。 
-気(き)　を　付け(つけ)て、　中国語(ちゅうごくご)　で　は　
-「手紙(てがみ)」　と　は　トイレット　ペーパー　を　言う(いう)　から　ね。
+気を付けて、中国語では「手紙」とはトイレットペーパーを言うからね。 
+気(き)　を　付け(つけ)て、　中国語(ちゅうごくご)　で　は　「手紙(てがみ)」　と　は　トイレット　ペーパー　を　言う(いう)　から　ね。
 Be careful, in Chinese the Japanese word for "letter" means "toilet paper". 
 478-19.
 それからの一時間でジキル氏が私に話したことは、紙に記す気がしない。 
@@ -3891,7 +3881,7 @@ What Mr. Jekyll told me in the next hour, I cannot bring my mind to set on paper
 478-20.
 弓子ちゃんは紙飛行機を作るのが下手くそ。かのじょが作った飛行機はどれも飛ばん。 
 弓子(ゆみこ)ちゃん　は　紙飛行機(かみひこうき)　を　作る(つくる)　の　が　下手くそ(へたくそ)。　かのじょ　が　作っ(つくっ)た　飛行機(ひこうき)　は　どれ　も　飛ば(とば)ん。
-Yumiko sucks at making paper airplanes. None of the planes she made flies. (87) 
+Yumiko sucks at making paper airplanes. None of the planes she made flies. 
 「-ん」　[colloquial contraction of -ない: "not __"].  
 
 479-1.
@@ -3961,7 +3951,7 @@ The slow roasting took several hours.
 479-17.
 磯部氏の地所は季節的に水につかる低地にある。 
 磯部(いそべ)　氏(し)　の　地所(じしょ)　は　季節的(きせつてき)　に　水(みず)　に　つかる　低地(ていち)　に　ある。
-Mr. Isobe's land is in a low-lying area that is seasonally flooded. (100)  
+Mr. Isobe's land is in a low-lying area that is seasonally flooded. 
 
 480-1.
 向井さんは法に抵触した。 
@@ -4008,7 +3998,7 @@ Mr. March had planned to go with his friend Mr. Fisher to Willowood Place.
 481-4.
 スーツケースを持って、川べりにあるウィローウッド邸の畑の前門にたどりついた。 
 スーツケース　を　持っ(もっ)て、　川べり(かわべり)　に　ある　ウィローウッド　邸(てい)　の　畑(はたけ)　の　前門(ぜんもん)　に　たどりついた。
-With his suitcase in hand, he at last arrived before the gate of the long riverside orchards of Willowood Place. (30)  
+With his suitcase in hand, he at last arrived before the gate of the long riverside orchards of Willowood Place. 
 
 482-1.
 底なしの穴。 
@@ -4045,7 +4035,7 @@ Oil was discovered beneath the North Sea in 1970.
 482-9.
 底に、大きな穴がぽっかり口を開けています。 
 底(そこ)　に、　大(おお)きな　穴(あな)　が　ぽっかり　口(くち)　を　開け(あけ)て　います。
-There is a giant, gaping hole on the bottom. (10)  
+There is a giant, gaping hole on the bottom. 
 
 483-1.
 巨大な飛行機。 
@@ -4062,13 +4052,13 @@ The giant splayed his huge hands over the table.
 483-4.
 さてかかしは、ドロシーが話してくれた巨大な頭に会うものと思っていたので、たいへん安心しました。 
 さて　かかし　は、　ドロシー　が　話し(はなし)て　くれた　巨大(きょだい)　な　頭(あたま)　に　会う(あう)　もの　と　思っ(おもっ)て　いた　ので、　たいへん　安心(あんしん)　しました。
-Now the Scarecrow, who had expected to see the great Head Dorothy had told him of, was much relieved. (99) 
+Now the Scarecrow, who had expected to see the great Head Dorothy had told him of, was much relieved. 
 「さて」　[initiates a new matter]: DJG v3 p543; Tobira ch8 #6.  
 
 484-1.
 近臣として仕える。 
 近臣(きんしん)　として　仕える(つかえる)。
-Serve as a personal attendant to. (100) 
+Serve as a personal attendant to. 
 「〜として」　["in the capacity of __"]: DJG v1 p501; Tobira ch3 #6. 
 484-2.
 大臣は長年王に仕えた。 
@@ -4098,7 +4088,7 @@ Unexpended funds.
 485-4.
 アルファベット文字に基づく書記法。 
 アルファベット　文字(もじ)　に　基づく(もとづく)　書記法(しょきほう)。
-A writing system based on alphabetic characters. (100) 
+A writing system based on alphabetic characters. 
 「〜にもとづいて　/ 〜にもとづく」　{〜に基づいて　/ 〜に基づく　485} ["based on __"]: DJG v2 p261. 
 485-5.
 中国語の官話は北京方言を基にしている。 
@@ -4216,12 +4206,12 @@ We agreed tentatively on a dinner date.
 486-26.
 私どもはもっとよい条件を期待していました。 
 私(わたし)ども　は　もっと　よい　条件(じょうけん)　を　期待(きたい)　して　いました。
-We expected better terms. (87) 
+We expected better terms. 
 「-ども」　{-共　356} [plural personal pronoun suffix]: DJG v1 p28 bottom & 440, v3 p47 & 50-51 of front matter (covered under -たち). 
 486-27.
 キャバレーでおいしい食事に期待してはいけない。 
 キャバレー　で　おいしい　食事(しょくじ)　に　期待(きたい)　して　は　いけない。
-Don't expect a good meal at a cabaret. (101) 
+Don't expect a good meal at a cabaret. 
 「-てはいけない」　["must not __"]: DJG v1 p528, v2 p70; Genki ch6. 
 486-28.
 両親は私が大学に入学することを期待している。 
@@ -4234,7 +4224,7 @@ Through the third quarter, domestic oil production surpassed last year's results
 486-30.
 クリスマスの時期にはあっという間に満席になるから早く飛行機の予約をしなさい。 
 クリスマス　の　時期(じき)　に　は　あっという間に(あっというまに)　満席(まんせき)　に　なる　から　早く(はやく)　飛行機(ひこうき)　の　予約(よやく)　を　し　なさい。
-Make your airplane reservations early since flights fill up quickly around Christmas. (87)  
+Make your airplane reservations early since flights fill up quickly around Christmas. 
 
 487-1.
 不毛の土地。 
@@ -4267,7 +4257,7 @@ I looked down upon the great plain covered with coarse grass, and upon the barre
 487-8.
 由紀さんはベッドから毛布を取り、自分の体に巻き付けた。 
 由紀(ゆき)さん　は　ベッド　から　毛布(もうふ)　を　取り(とり)、　自分(じぶん)　の　体(からだ)　に　巻き付け(まきつけ)た。
-Yuki took a blanket off the bed and wrapped it around herself. (87)  
+Yuki took a blanket off the bed and wrapped it around herself. 
 
 488-1.
 末尾音節。 
@@ -4288,7 +4278,7 @@ Wakamatsu-san kept moving ahead along the mountain ridge road.
 488-5.
 お母さんは手紙の末尾に、いつもなんらかの戒めを書く。 
 お母(かあ)さん　は　手紙(てがみ)　の　末尾(まつび)　に、　いつも　なんらかの　戒め(いましめ)　を　書く(かく)。
-Mother always writes some kind of admonition at the end of her letters. (101) 
+Mother always writes some kind of admonition at the end of her letters. 
 「なんらかの〜」　{何らかの〜* 815} ["some (kind of) __"]: DJG v3 p333.  
 
 489-1.
@@ -4322,7 +4312,7 @@ I was born in Osaka, but was brought up in Tokyo.
 489-8.
 アメリカ人の大多数は単一言語で育てられる。 
 アメリカ人(じん)　の　大多数(だいたすう)　は　単一(たんいつ)　言語(げんご)　で　育て(そだて)られる。
-The vast majority of Americans are reared monolingually. (101)  
+The vast majority of Americans are reared monolingually. 
 
 490-1.
 子羊は午後に生まれた。 
@@ -4380,7 +4370,7 @@ The Battle of Midway was one of the greatest victories of the Pacific campaign f
 491-10.
 松尾学長はなんといっても読めるし、東洋学者としてはなかなかだし、分別もありますよ。 
 松尾(まつお)　学長(がくちょう)　は　なんと　いって　も　読める(よめる)　し、　東洋(とうよう)　学者(がくしゃ)　として　は　なかなか　だ　し、　分別(ふんべつ)　も　あります　よ。
-Dean Matsuo is well read, a remarkable Oriental scholar, and has a good judgment. (98)  
+Dean Matsuo is well read, a remarkable Oriental scholar, and has a good judgment. 
 
 492-1.
 骨の多い魚。 
@@ -4437,12 +4427,12 @@ Air is to man what water is to fish.
 492-14.
 そんな糸を切るほどの強い魚なら、川に引き込まれてしまうでしょうな。 
 そんな　糸(いと)　を　切る(きる)　ほど　の　強い(つよい)　魚(さかな)　なら、　川(かわ)　に　引き込ま(ひきこま)れて　しまう　でしょう　な。
-If this fish were strong enough to break my line, he'd be strong enough to pull me into the river. (30) 
+If this fish were strong enough to break my line, he'd be strong enough to pull me into the river. 
 「な」　[male alternative to ね]: DJG v1 p46 examples 9-11. 
 492-15.
 他の人魚たちと同じように、足と言う物の代わりに、お魚の尾になっていました。 
 他(ほか)　の　人魚(にんぎょ)たち　と　同じ(おなじ)　よう　に、　足(あし)　と　言う(いう)　物(もの)　の　代わり(かわり)　に、　お魚(さかな)　の　尾(お)　に　なって　いました。
-Like other mermaids, she had a fish's tail instead of legs. (55)  
+Like other mermaids, she had a fish's tail instead of legs. 
 
 493-1.
 新鮮な切り花。 
@@ -4492,7 +4482,7 @@ Revived from ancient Hebrew.
 494-4.
 新鮮な胡瓜巻きの一切れは私を蘇生させるであろう。 
 新鮮(しんせん)　な　胡瓜巻き(きゅうりまき)　の　一切れ(ひときれ)　は　私(わたし)　を　蘇生(そせい)　させる　で　あろう。
-A fresh slice of cucumber roll should revive me. (101) 
+A fresh slice of cucumber roll should revive me. 
 「-よう」　[conjecture]: DJG v2 p599. 
 494-5.
 その映画はいろいろな思春期の思い出を蘇らせた。 
@@ -4505,7 +4495,7 @@ Our class reunion brought back old memories of when we were students.
 494-7.
 あれを見たとたん、はなはだしく不快な思い出が蘇ってきたからだ。 
 あれ　を　見(み)た　とたん、　はなはだしく　不快(ふかい)　な　思い出(おもいで)　が　蘇っ(よみがえっ)て　きた　から　だ。
-Seeing it quickly revived memories that were exceedingly disagreeable. (43) 
+Seeing it quickly revived memories that were exceedingly disagreeable. 
 「〜とたん(に)」　{〜途端に* 1000; 2114} ["the moment __"]: DJG v2 p525.  
 
 495-1.
@@ -4523,7 +4513,7 @@ Petty little details.
 495-4.
 詳細に関する念入りな注意。 
 詳細(しょうさい)　に関する(にかんする)　念入り(ねんいり)　な　注意(ちゅうい)。
-Painstaking attention to details. (100) 
+Painstaking attention to details. 
 「〜にかんして　/ 〜にかんする」　{〜に関して　/ 〜に関する　451} ["with regard to __", "about __"]: DJG v2 p252; Marx v2 day42; Tobira ch12 #4. 
 495-5.
 長尾学長は近代英国文学に詳しい。 
@@ -4540,7 +4530,7 @@ Party Chief Hosokawa spoke in detail about the proposed bill.
 495-8.
 井口支店長はたくさんある欠点の詳細を聞かされた。 
 井口(いぐち)　支店長(してんちょう)　は　たくさん　ある　欠点(けってん)　の　詳細(しょうさい)　を　聞かさ(きかさ)れた。
-Branch Manager Iguchi was forced to listen to a recital of his many shortcomings. (101)  
+Branch Manager Iguchi was forced to listen to a recital of his many shortcomings. 
 
 496-1.
 文明の発祥地。 
@@ -4557,7 +4547,7 @@ Site of several ancient civilizations.
 496-4.
 神や人間の立場から不祥事と見なされている。 
 神(かみ)　や　人間(にんげん)　の　立場(たちば)　から　不祥事(ふしょうじ)　と　見(み)なされて　いる。
-Regarded as scandalous by God and man. (62)  
+Regarded as scandalous by God and man. 
 
 497-1.
 美食家。 
@@ -4582,7 +4572,7 @@ Youth's transient beauty.
 497-6.
 この美人をよく見てみろ。 
 この　美人(びじん)　を　よく　見(み)て　みろ。
-Get a load of this pretty woman! (101) 
+Get a load of this pretty woman! 
 「Imperative verb ending」　: DJG v1 p577 & 579 right column, v2 p70; Marx v1 day28 ("-E form verbs"). 
 497-7.
 ニューイングランド美食法。 
@@ -4631,7 +4621,7 @@ Celia began to perceive her cousin had fallen in love with the handsome young wr
 497-18.
 王子の顔は月光の中でとても美しく、小さなツバメはかわいそうな気持ちでいっぱいになりました。 
 王子(おうじ)　の　顔(かお)　は　月光(げっこう)　の　中(なか)　で　とても　美しく(うつくしく)、　小(ちい)さな　ツバメ　は　かわいそう　な　気持ち(きもち)　で　いっぱい　に　なりました。
-The Prince's face was so beautiful in the moonlight that the little Swallow was filled with pity. (37)  
+The Prince's face was so beautiful in the moonlight that the little Swallow was filled with pity. 
 
 498-1.
 手作業。 
@@ -4664,7 +4654,7 @@ A company that performs a public service.
 498-8.
 電気通信産業がのびはじめた。 
 電気(でんき)　通信(つうしん)　産業(さんぎょう)　が　のびはじめた。
-The telecommunications industry started to pick up. (69) 
+The telecommunications industry started to pick up. 
 「-はじめる」　{-始める　956} ["begin to __"]: DJG v1 p131; Tobira ch1 #8. 
 498-9.
 私がいない間も作業を続けなさい。 
@@ -4681,7 +4671,7 @@ Nagoya is one of Japan's primary commercial and industrial centers.
 498-12.
 テレビ番組を作るための映画会社同士の共同事業。 
 テレビ　番組(ばんぐみ)　を　作る(つくる)　ため　の　映画(えいが)　会社(がいしゃ)　同士(どうし)　の　共同(きょうどう)　事業(じぎょう)。
-A joint venture between the film companies to produce TV shows. (101) 
+A joint venture between the film companies to produce TV shows. 
 「-どうし」　{-同士　182; 350} ["fellow __"; "between/among __"]: DJG v3 p94; Tobira ch11 #11. 
 498-13.
 今では学校の近くにあるほとんどの店が土曜休業だ。 
@@ -4690,7 +4680,7 @@ Most shops near the school are closed on Saturdays now.
 498-14.
 どれだけの作業がかかったかを聞いて、夏美さんは身を引いた。 
 どれ　だけ　の　作業(さぎょう)　が　かかった　か　を　聞い(きい)て、　夏美(なつみ)さん　は　身(み)　を　引い(ひい)た。
-Natsumi bowed out when she heard how much work was involved. (101)  
+Natsumi bowed out when she heard how much work was involved. 
 
 499-1.
 実社会。 
@@ -4719,7 +4709,7 @@ What actually had happened was very simple.
 499-7.
 実生活に基づく映画。 
 実生活(じっせいかつ)　に　基づく(もとづく)　映画(えいが)。
-A film based on real life. (101) 
+A film based on real life. 
 「〜にもとづいて　/ 〜にもとづく」　{〜に基づいて　/ 〜に基づく　485} ["based on __"]: DJG v2 p261. 
 499-8.
 人民の決定を実行する。 
@@ -4784,7 +4774,7 @@ Practice greatly improves proficiency.
 499-23.
 この物語は実話に基づいています。 
 この　物語(ものがたり)　は　実話(じつわ)　に　基づい(もとづい)て　います。
-This story is based on a true story. (87) 
+This story is based on a true story. 
 「〜にもとづいて　/ 〜にもとづく」　{〜に基づいて　/ 〜に基づく　485} ["based on __"]: DJG v2 p261. 
 499-24.
 実物そっくりの立体的なキャラクター。 
@@ -4813,12 +4803,12 @@ Akemi still lives with her parents.
 499-30.
 我々はどのようにして正しい事実を得るのだろう。 
 我々(われわれ)　は　どの　よう　に　して　正しい(ただしい)　事実(じじつ)　を　得る(える)　の　だろう。
-How are we supposed to get the real truth? (76) 
+How are we supposed to get the real truth? 
 「〜ように」　["as __", "as if __"]: DJG v1 p554; Genki ch22; Tobira ch1 #3. 
 499-31.
 ここは古生物学室で、実に美しい化石の集合だったことでしょう。 
 ここ　は　古生物学(こせいぶつがく)　室(しつ)　で、　実に(じつに)　美しい(うつくしい)　化石(かせき)　の　集合(しゅうごう)　だった　こと　でしょう。
-Here was the Palaeontology Room, and a very beautiful array of fossils it must have been. (89)  
+Here was the Palaeontology Room, and a very beautiful array of fossils it must have been. 
 
 500-1.
 磯部次長は実の子供を養育しない。 
@@ -4839,11 +4829,8 @@ Mr. Baba is training our Olympic team.
 500-5.
 関根さんには養っていかねばならない養子がたくさんいた。 
 関根(せきね)さん　に　は　養っ(やしなっ)て　いかねば　ならない　養子(ようし)　が　たくさん　いた。
-The Sekines had a lot of adopted children to provide for. (87) 
-「-ねばならない」　[imperative]: DJG v2 p232. ㊗ 　Congratulations!  ㊗ You have now attained the sixth dan:
-キ
-RISING Let us know at the KLC user group on Facebook! Share on:　Reddit　Twitter　Facebook　LinkedIn
-See the website for a full list of KLC kanji dan (ranks). Paste your own kanji dan badges to give yourself positive reinforcement as you progress. Reviewing: Remember to re-read each set to reinforce your learning while it’s fresh. If you prefer to do your reviews away from an electronic screen, please consider ordering the paperback version of this volume. The paperback format has been optimized in various ways to offer a superior experience to reading a printout of the electronic version, and to require much less paper. 
+The Sekines had a lot of adopted children to provide for. 
+「-ねばならない」　[imperative]: DJG v2 p232.
 
 501-1.
 一様に。 
@@ -4892,7 +4879,7 @@ I can't thank you enough.
 501-12.
 仕事上、様々な人々と出会います。 
 仕事上(しごとじょう)、　様々(さまざま)　な　人々(ひとびと)　と　出会い(であい)ます。
-I come into contact with all kinds of people in my work. (87) 
+I come into contact with all kinds of people in my work. 
 「-じょう」　{-上　41} ["for __"]: DJG v2 p76. 
 501-13.
 お父様にもよろしくお伝え下さい。 
@@ -4933,7 +4920,7 @@ For birds love the open country where there is plenty of sunshine.
 501-22.
 お日様がさすと、ドロシーは顔を小川で洗い、間もなく一行はエメラルドの都に出発しました。 
 お日様(ひさま)　が　さす　と、　ドロシー　は　顔(かお)　を　小川(おがわ)　で　洗い(あらい)、　間もなく(まもなく)　一行(いっこう)　は　エメラルド　の　都(みやこ)　に　出発(しゅっぱつ)　しました。
-When it was daylight, Dorothy bathed her face in a little brook, and soon after they all started toward the Emerald City. (99)  
+When it was daylight, Dorothy bathed her face in a little brook, and soon after they all started toward the Emerald City. 
 
 502-1.
 自由企業。 
@@ -4970,7 +4957,7 @@ My hacker doesn't fit in well with our corporate society.
 502-9.
 なにか企てが有るかもしれない、と幾度か注意されてはいました。 
 なに　か　企て(くわだて)　が　有る(ある)　かも　しれない、　と　幾度(いくど)　か　注意(ちゅうい)　されて　は　いました。
-We have had several warnings that an attempt might be made upon it. (4) 
+We have had several warnings that an attempt might be made upon it. 
 「〜かもしれない」　{〜かも知れない* 560} ["might __"]: DJG v1 p173, v3 p513; Genki ch14. 
 502-10.
 王子様の最近のボローニャにたいする企図の事を解明してみましょう。 
@@ -5073,7 +5060,7 @@ Mr. Holmes spoke little during the long drive and lay back in the cab humming th
 503-24.
 鳥たちでさえ、地図を持って風の曲がり角で道を調べても、こんな案内じゃとても見つけることはできなかったでしょう。 
 鳥(とり)たち　で　さえ、　地図(ちず)　を　持っ(もっ)て　風(かぜ)　の　曲がり角(まがりかど)　で　道(みち)　を　調べ(しらべ)て　も、　こんな　案内(あんない)　じゃ　とても　見つける(みつける)　こと　は　できなかった　でしょう。
-Even birds, carrying maps and consulting them at the four corners of the wind, could not have sighted it with these instructions. (64) 
+Even birds, carrying maps and consulting them at the four corners of the wind, could not have sighted it with these instructions. 
 「〜さえ」　["even __"; "(if) just __"]: DJG v2 p363; Marx v2 day60-61; Tobira ch5 #6.  
 
 504-1.
@@ -5103,7 +5090,7 @@ The body of laws created by legislative statutes.
 504-7.
 ユダ・マカバイの人生について書かれた外典。 
 ユダ・マカバイ　の　人生(じんせい)　について　書か(かか)れた　外典(がいてん)。
-An Apocryphal book describing the life of Judas Maccabaeus. (100)  
+An Apocryphal book describing the life of Judas Maccabaeus. 
 
 505-1.
 新興の共和国。 
@@ -5152,7 +5139,7 @@ Dun & Bradstreet is the largest mercantile agency in the United States.
 505-12.
 元の所有者がいなくなったり興味をなくしたりした場合、だれが新しい所有者になるのか。 
 元(もと)　の　所有者(しょゆうしゃ)　が　いなく　なったり　興味(きょうみ)　を　なくしたり　した　場合(ばあい)、　だれ　が　新(あたら)しい　所有者(しょゆうしゃ)　に　なる　の　か。
-Who gets to be the new owner if the original one disappears or loses interest? (41) 
+Who gets to be the new owner if the original one disappears or loses interest? 
 「〜-たり〜-たりする」　[partial enumeration of actions/states]: DJG v1 p458; Genki ch11. 
 
 506-1.
@@ -5166,7 +5153,7 @@ The bride passed from the Terada household into the Ishikawa household.
 506-3.
 輿などののり物や、中国人、日本人、ヨーロッパ人などが通りを行き交っているのをめずらしげに並んでいた。 
 輿(こし)　など　の　のり物(もの)　や、　中国人(ちゅうごくじん)、　日本人(にほんじん)、　ヨーロッパ人(じん)　など　が　通り(とおり)　を　行き交っ(ゆきかっ)て　いる　の　を　めずらしげ　に　並ん(ならん)で　いた。
-Curious palanquins and other modes of conveyance, and groups of Chinese, Japanese and Europeans passed to and fro in the streets. (7) 
+Curious palanquins and other modes of conveyance, and groups of Chinese, Japanese and Europeans passed to and fro in the streets. 
 「〜など」　{〜等* 393} ["such as __"]: DJG v1 p267; Tobira ch2 #2. 
 「-げ」　["__-looking", "__-like"]: Marx v2 day68.  
 
@@ -5239,7 +5226,7 @@ Yumiko carried a basket full of nuts.
 509-7.
 太った手はとても不器用で、木の実はあまりに小さくて、籠に入れるのと同じくらいこぼしています。 
 太っ(ふとっ)た　手(て)　は　とても　不器用(ぶきよう)　で、　木の実(このみ)　は　あまり　に　小(ちい)さくて、　籠(かご)　に　入れる(いれる)　の　と　同じ(おなじ)　くらい　こぼして　います。
-His fat hands were so clumsy and the nuts were so small that he dropped almost as many as he put in the basket. (99)  
+His fat hands were so clumsy and the nuts were so small that he dropped almost as many as he put in the basket. 
 
 510-1.
 竜さんは辰年生まれだ。 竜(りゅう)さん　は　辰年(たつどし)　生まれ(うまれ)　だ。
@@ -5296,7 +5283,7 @@ Sekiguchi-san settled the farm 50 years ago.
 511-13.
 未改良の50エーカーのと改良された68エーカーの土地のある農場。 
 未改良(みかいりょう)　の　50　エーカー　の　と　改良(かいりょう)　された　68　エーカー　の　土地(とち)　の　ある　農場(のうじょう)。
-A farm with 50 acres of unimproved and 68 acres of improved land. (101)  
+A farm with 50 acres of unimproved and 68 acres of improved land. 
 
 512-1.
 血は水より濃い。 
@@ -5329,7 +5316,7 @@ The sauce Natsumi made is fresh, but it's too thin.
 512-8.
 あの四川飯店の味付けはあまりにも濃くて、ちょっと食べられない。 
 あの　四川(しせん)　飯店(はんてん)　の　味付け(あじつけ)　は　あまり　に　も　濃く(こく)て、　ちょっと　食べ(たべ)られない。
-The seasoning at that Sichuanese place is a bit too strong for me. (100)  
+The seasoning at that Sichuanese place is a bit too strong for me. 
 
 513-1.
 豊年満作。 
@@ -5480,7 +5467,7 @@ The Scarecrow found a tree full of nuts and filled Dorothy's basket with them.
 515-21.
 ぼくはただのかかしで、頭の先から爪の先まで全てわらが詰まっているだけです。 
 ぼく　は　ただ　の　かかし　で、　頭(あたま)　の　先(さき)　から　爪(つめ)　の　先(さき)　まで　全て(すべて)　わら　が　詰まっ(つまっ)て　いる　だけ　です。
-I am only a Scarecrow, stuffed with straw from the top of my head to the tips of my toes. (99) 
+I am only a Scarecrow, stuffed with straw from the top of my head to the tips of my toes. 
 「ただの〜」　{只の〜* 1194} ["ordinary __", "nothing but __"]: DJG v2 p449.  
 
 516-1.
@@ -5542,7 +5529,7 @@ In 1978 a peace treaty was concluded between Japan and China.
 516-15.
 等高線とは同じ高さの点を結ぶ地図に引かれた線のことを示す。 
 等高線(とうこうせん)　と　は　同じ(おなじ)　高(たか)さ　の　点(てん)　を　結ぶ(むすぶ)　地図(ちず)　に　引か(ひか)れた　線(せん)　の　こと　を　示(しめ)す。
-A contour line is a line drawn on a map connecting points of equal height. (100)  
+A contour line is a line drawn on a map connecting points of equal height. 
 
 517-1.
 力強く投げる。 
@@ -5559,7 +5546,7 @@ The child threw a stone at the dog.
 517-4.
 投機家は全く無関心なようだ。 
 投機家(とうきか)　は　全く(まったく)　無関心(むかんしん)　な　よう　だ。
-The speculator appears totally uninterested. (101) 
+The speculator appears totally uninterested. 
 「〜ようだ」　["looks like __"; "seems (that) __"]: DJG v1 p547; Marx v2 day66. 
 517-5.
 私たちは大いに意気投合した。 
@@ -5592,7 +5579,7 @@ The letter that Minister Yoshihara had submitted was filled with words that peop
 517-12.
 かれは、自分が丸でホッテントット人の国に独り投げ出された様に感じた。 
 かれ　は、　自分(じぶん)　が　丸(まる)　で　ホッテントット人(じん)　の　国(くに)　に　独り(ひとり)　投げ出さ(なげださ)れた　様(よう)　に　感じ(かんじ)た。
-The Frenchman felt himself as much alone among them as if he had dropped down in the midst of Hottentots. (7)  
+The Frenchman felt himself as much alone among them as if he had dropped down in the midst of Hottentots. 
 
 518-1.
 市役所。 
@@ -5645,7 +5632,7 @@ The function of an auger is to bore holes.
 518-13.
 もう美しくないから、役にも立たないわけだ。 
 もう　美しく(うつくしく)ない　から、　役(やく)　に　も　立た(たた)ない　わけ　だ。
-As he is no longer beautiful he is no longer useful. (37) 
+As he is no longer beautiful he is no longer useful. 
 「〜わけだ」　{〜訳だ* 1505} ["the fact is/was that __"]: DJG v1 p531, v2 p570; Marx v2 day77; Tobira ch6 #11. 
 518-14.
 不法駐車の車を見つけた時、役員は飛び出した。 
@@ -5654,12 +5641,12 @@ The official hopped out when he spotted an illegally parked car.
 518-15.
 ある場合は役にたつが、別の場合は害をなすのです。 
 ある　場合(ばあい)　は　役(やく)　に　たつ　が、　別(べつ)　の　場合(ばあい)　は　害(がい)　を　なす　の　です。
-If they do you good in one way they injure you in another. (67) 
+If they do you good in one way they injure you in another. 
 「なす」　{為す* 1236} ["(to) effect" (i.e., bring about, realize, perform, etc.)]: DJG v3 p365. 
 518-16.
 吉郎さんの役割は人気者のコメディアンのぼけ役をすることだった。 
 吉郎(きちろう)さん　の　役割(やくわり)　は　人気者(にんきもの)　の　コメディアン　の　ぼけ役(やく)　を　する　こと　だった。
-Kichiro's role was to stooge for the popular comedian. (101)  
+Kichiro's role was to stooge for the popular comedian. 
 
 519-1.
 飛行機が川の中に水没した。 
@@ -5762,7 +5749,7 @@ The Board of Directors left no stone unturned.
 521-9.
 段々畑の用水は段々と下にながれて行った。 
 段々畑(だんだんばたけ)　の　用水(ようすい)　は　段々(だんだん)　と　下(した)　に　ながれて　行っ(いっ)た。
-The irrigation water flowed step by step down the terraced fields. (100) 
+The irrigation water flowed step by step down the terraced fields. 
 「-ていく」　{-て行く　55} ["go on __ing"]: DJG v1 p151. 
 521-10.
 人工的な光は電力という手段によって作られる。 
@@ -5775,12 +5762,12 @@ Miki looks much prettier this year.
 521-12.
 おまけに、巻物は段を持っていて、ページは持っていない。 
 おまけ　に、　巻物(まきもの)　は　段(だん)　を　持っ(もっ)て　いて、　ページ　は　持っ(もっ)て　いない。
-Besides, scrolls have columns, not pages. (76) 
+Besides, scrolls have columns, not pages. 
 「おまけに〜」　{お負けに〜* / 御負けに〜** 829; 862} ["what's more, __"]: DJG v2 p390 & 413 & 427. 
 521-13.
 足音はすぐさま近づいて来て、通りの角を曲がると一段と大きな音になった。 
 足音(あしおと)　は　すぐさま　近づい(ちかづい)て　来(き)て、　通り(とおり)　の　角(かど)　を　曲がる(まがる)　と　一段と(いちだんと)　大(おお)きな　音(おと)　に　なった。
-The steps drew swiftly nearer, and swelled out suddenly louder as they turned the end of the street. (84)  
+The steps drew swiftly nearer, and swelled out suddenly louder as they turned the end of the street. 
 
 522-1.
 故殺。 
@@ -5833,7 +5820,7 @@ The Pharaoh decreed that all firstborn males should be killed.
 522-13.
 ホームレスの男性が、市民会館の後ろで殺害されているのが発見された。 
 ホームレス　の　男性(だんせい)　が、　市民(しみん)　会館(かいかん)　の　後ろ(うしろ)　で　殺害(さつがい)　されて　いる　の　が　発見(はっけん)　された。
-A homeless man was found murdered behind the civic auditorium. (101)  
+A homeless man was found murdered behind the civic auditorium. 
 
 523-1.
 東大寺は日本の最も有名な古刹である。 
@@ -5865,7 +5852,7 @@ The smell of newly mown hay.
 「バインダー」は、作物を刈り取り束にする機械である。 
 農業(のうぎょう)　機械(きかい)　の　
 「バインダー」　は、　作物(さくもつ)　を　刈り取り(かりとり)　束(たば)　に　する　機械(きかい)　で　ある。
-The farm implement known as the "binder" is a machine that cuts grain and binds it into sheaves. (100)  
+The farm implement known as the "binder" is a machine that cuts grain and binds it into sheaves. 
 
 525-1.
 下手な絵画。 
@@ -5878,7 +5865,7 @@ A truly beautiful painting.
 525-3.
 絵に触ってはいけない。 
 絵(え)　に　触っ(さわっ)て　は　いけない。
-You must not touch the paintings. (87) 
+You must not touch the paintings. 
 「-てはいけない」　["must not __"]: DJG v1 p528, v2 p70; Genki ch6. 
 525-4.
 その絵は実物そっくりだ。 
@@ -5911,7 +5898,7 @@ GOAT　だから、　名前(なまえ)　の　後(あと)　に　山羊(や�
 525-11.
 もし私があの時その絵を買っていたら、今では金持ちだろうに。 
 もし　私(わたし)　が　あの　時(とき)　その　絵(え)　を　買っ(かっ)て　いたら、　今(いま)　で　は　金持ち(かねもち)　だろう　に。
-If I had bought the painting then, I would be rich now. (87)  
+If I had bought the painting then, I would be rich now. 
 
 526-1.
 有給役員。 
@@ -5980,7 +5967,7 @@ The tanker drained the oil tank.
 526-17.
 先ず給水を止めなくてはならない。 
 先ず(まず)　給水(きゅうすい)　を　止め(とめ)なくて　は　ならない。
-First you have to cut off the water. (101) 
+First you have to cut off the water. 
 「-なくてはならない　/ -なくてはいけない　/ -なくてはだめ」　[imperative]: DJG v1 p274; Genki ch12; Marx v1 day54; Tobira ch2 #1. 
 526-18.
 新しいユニフォームを子供たちに支給する。 
@@ -6005,7 +5992,7 @@ Miyu doesn't get paid by the month or by the day, but by the hour.
 526-23.
 人間ってものはどこにいても、人間はなんとか自給自足でやっていけるんだ。 
 人間(にんげん)　って　もの　は　どこ　に　いて　も、　人間(にんげん)　は　なんとか　自給自足(じきゅうじそく)　で　やって　いける　ん　だ。
-Wherever a man is, a man can do for himself. (90) 
+Wherever a man is, a man can do for himself. 
 「-って」　[colloquial contraction of という]. 
 「なんとか」　{何とか* 815} ["somehow"]: DJG v3 p341.  
 
@@ -6088,12 +6075,12 @@ Silver's face was a picture.
 528-19.
 食器室のガス灯はかのじょの顔色をいっそう青白く見せた。 
 食器室(しょっきしつ)　の　ガス灯(とう)　は　かのじょ　の　顔色(かおいろ)　を　いっそう　青白く(あおじろく)　見せ(みせ)た。
-The gaslight in the pantry made her look still paler. (25) 
+The gaslight in the pantry made her look still paler. 
 「いっそう〜」　{一層〜　2; 1224} ["still more __"]: DJG v3 p344 (covered under なお). 
 528-20.
 物質がすべての色を目に返してきた場合、それは白く見える。 
 物質(ぶっしつ)　が　すべて　の　色(いろ)　を　目(め)　に　返し(かえし)て　きた　場合(ばあい)、　それ　は　白く(しろく)　見える(みえる)。
-When a substance reflects all the colors to the eye, it seems to us white. (77)  
+When a substance reflects all the colors to the eye, it seems to us white. 
 
 529-1.
 人民の声。 
@@ -6166,12 +6153,12 @@ From the sound of their voices I knew they had spaced themselves out.
 529-18.
 こんな時間にごめんね。声聞きたくて電話しちゃった。 
 こんな　時間(じかん)　に　ごめん　ね。　声(こえ)　聞き(きき)たくて　電話(でんわ)　しちゃった。
-I'm sorry for calling at this hour. I just wanted to hear your voice. (87) 
+I'm sorry for calling at this hour. I just wanted to hear your voice. 
 「-ちゃう」　[colloquial contraction of -てしまう: "do (something regrettable)"; "finish __ing"]: DJG v1 p384 (covered under -てしまう); Marx v2 day28. 
 529-19.
 日本興業銀行の2021年5月の声明で、山本吉郎さんはこう書いている： 
 日本興業銀行(にほんこうぎょうぎんこう)　の　2021年(ねん)　5月(がつ)　の　声明(せいめい)　で、　山本(やまもと)　吉郎(きちろう)さん　は　こう　書い(かい)て　いる：
-In a May 2021 statement by the Development Bank of Japan, Kichiro Yamato writes: (69)  
+In a May 2021 statement by the Development Bank of Japan, Kichiro Yamato writes: 
 
 530-1.
 不満で眉をひそめる。 
@@ -6192,7 +6179,7 @@ When she perceived Mr. Toyoda, she knit her brows.
 530-5.
 なぜ給仕長が給仕に眉をひそめたのか分からなかった。 
 なぜ　給仕長(きゅうじちょう)　が　給仕(きゅうじ)　に　眉(まゆ)　を　ひそめた　の　か　分から(わから)なかった。
-I couldn't understand why the maitre d’ frowned at the waiter. (87) 
+I couldn't understand why the maitre d’ frowned at the waiter. 
 「なぜか〜」　{何故か** 815; 257} ["for some reason __"]: DJG v3 p370. 
 530-6.
 父親はぼさぼさで手入れしていないまっ白い眉毛がとても人目を引く。 
@@ -6335,7 +6322,7 @@ It was then that I understood the real meaning of Hanae's letter.
 532-28.
 意志に反してなにかを無理にさせる事はできない。 
 意志(いし)　に　反し(はんし)て　なに　か　を　無理(むり)　に　させる　事(こと)　は　できない。
-No one can force you to do anything against your will. (87) 
+No one can force you to do anything against your will. 
 「〜にはんして　/ 〜にはんする」　{〜に反して　/ 〜に反する　374} ["contrary to __"]: DJG v2 p241. 
 532-29.
 反物質よりも物質が多く存在する理由は不明です。 
@@ -6344,7 +6331,7 @@ We don't know why there's more matter than antimatter.
 532-30.
 我々は、生命の本当の意味を理解するようになった。 
 我々(われわれ)　は、　生命(せいめい)　の　本当(ほんとう)　の　意味(いみ)　を　理解(りかい)　する　よう　に　なった。
-We came to understand the true meaning of life. (101) 
+We came to understand the true meaning of life. 
 「〜ようになる」　["reach the point where __"]: DJG v1 p559; Marx v2 day72; Tobira ch2 #11. 
 532-31.
 今回は私、行くと決心して、無理にも出かけましたわ。 
@@ -6353,7 +6340,7 @@ This time I was set on going, and I would go.
 532-32.
 生命は、様々な化学的、物理的プロセスに基づいている。 
 生命(せいめい)　は、　様々(さまざま)　な　化学的(かがくてき)、　物理的(ぶつりてき)　プロセス　に　基づい(もとづい)て　いる。
-Life depends on many chemical and physical processes. (101) 
+Life depends on many chemical and physical processes. 
 「〜にもとづいて　/ 〜にもとづく」　{〜に基づいて　/ 〜に基づく　485} ["based on __"]: DJG v2 p261. 
 532-33.
 身辺を整理するための時間が、やっと休み中に出来ました。 
@@ -6366,12 +6353,12 @@ The physicist who found the elusive particle won the Nobel Prize.
 532-35.
 私たちは、前に触れた進化上の理由から、そう感じるように作られている。 
 私(わたし)たち　は、　前(まえ)　に　触れ(ふれ)た　進化上(しんかじょう)　の　理由(りゆう)　から、　そう　感じる(かんじる)　よう　に　作ら(つくら)れて　いる。
-We're wired to experience it that way for evolutionary reasons touched on earlier. (41) 
+We're wired to experience it that way for evolutionary reasons touched on earlier. 
 「〜ように」　["so that __"]: DJG v1 p553; Marx v2 day71; Tobira ch4 #6. 
 532-36.
 あなたのとこのハッカーは道理をわきまえた存在であって、理由があったのでしょうね。 
 あなた　の　とこ　の　ハッカー　は　道理(どうり)　を　わきまえた　存在(そんざい)　で　あって、　理由(りゆう)　が　あった　の　でしょう　ね。
-Your hacker is a rational entity, and presumably had reasons. (53)  
+Your hacker is a rational entity, and presumably had reasons. 
 
 533-1.
 欠点を埋め合わせる。 
@@ -6473,7 +6460,7 @@ We'll have to camp out if we can't find a place to stay.
 534-13.
 化学薬品はすべての野生生物を殺しかねない。 
 化学(かがく)　薬品(やくひん)　は　すべて　の　野生(やせい)　生物(せいぶつ)　を　殺し(ころし)かねない。
-Chemicals could kill all wildlife. (101) 
+Chemicals could kill all wildlife. 
 「-かねる」　{-兼ねる　1006} ["cannot __"]: DJG v2 p96.  
 
 535-1.
@@ -6503,7 +6490,7 @@ Neutral colors like black or white.
 535-7.
 かのじょの大きく見開いた黒い目に見詰められると、いつも私は単なる気まぐれというには小さ過ぎる高ぶりを覚えたものだ。 
 かのじょ　の　大(おお)きく　見開い(みひらい)た　黒い(くろい)　目(め)　に　見詰め(みつめ)られる　と、　いつも　私(わたし)　は　単なる(たんなる)　気まぐれ(きまぐれ)　と　いう　に　は　小さ過ぎる(ちいさすぎる)　高(たか)ぶり　を　覚え(おぼえ)た　もの　だ。
-My emotions now exceeded those of a mere flirtation whenever her great dark eyes met mine. (8)  
+My emotions now exceeded those of a mere flirtation whenever her great dark eyes met mine. 
 
 536-1.
 水墨画を好んでかく。 
@@ -6557,7 +6544,7 @@ The prodigy played Carnegie Hall before entering high school.
 537-8.
 ハンス・クリスチャン・アンデルセンはデンマークの作家で、童話で有名になった。 
 ハンス・クリスチャン・アンデルセン　は　デンマーク　の　作家(さっか)　で、　童話(どうわ)　で　有名(ゆうめい)　に　なった。
-Hans Christian Anderson was a Danish author who became famous for his fairy tales. (100)  
+Hans Christian Anderson was a Danish author who became famous for his fairy tales. 
 
 538-1.
 分子量。 
@@ -6594,7 +6581,7 @@ The children gobbled down most of the birthday cake.
 538-9.
 インターネットの通信量は、夜間が最もすくない。 
 インターネット　の　通信量(つうしんりょう)　は、　夜間(やかん)　が　最も(もっとも)　すくない。
-Traffic on the internet is lightest during the night. (101)  
+Traffic on the internet is lightest during the night. 
 
 539-1.
 重作業。 
@@ -6691,7 +6678,7 @@ A combination of several mistakes led to the accident.
 539-24.
 水野さんは、重大な局面において良い男性である。 
 水野(みずの)さん　は、　重大(じゅうだい)　な　局面(きょくめん)　において　良い(よい)　男性(だんせい)　で　ある。
-Mizuno-san is a good man in the clutch. (101) 
+Mizuno-san is a good man in the clutch. 
 「〜において　/ 〜における」　{〜に於いて* / 〜に於ける* 1885} ["in/on/at/to __"]: DJG v2 p265; Tobira ch13 #13.  
 
 540-1.
@@ -6777,7 +6764,7 @@ Humans are social animals.
 540-21.
 動物に関する本を買った。 
 動物(どうぶつ)　に関する(にかんする)　本(ほん)　を　買っ(かっ)た。
-I bought a book about animals. (87) 
+I bought a book about animals. 
 「〜にかんして　/ 〜にかんする」　{〜に関して　/ 〜に関する　451} ["with regard to __", "about __"]: DJG v2 p252; Marx v2 day42; Tobira ch12 #4. 
 540-22.
 夜行動物は夜に活発である。 
@@ -6834,7 +6821,7 @@ I resolved in my future conduct to redeem the past.
 540-35.
 アルコールを飲んだ後に、機械を動かしてはいけない。 
 アルコール　を　飲ん(のん)だ　後(あと)　に、　機械(きかい)　を　動かし(うごかし)て　は　いけない。
-Do not operate machinery after imbibing alcohol. (101) 
+Do not operate machinery after imbibing alcohol. 
 「-てはいけない」　["must not __"]: DJG v1 p528, v2 p70; Genki ch6. 
 540-36.
 京都近辺でお気に入りの不動産会社を見付けましょう。 
@@ -6892,7 +6879,7 @@ Robots can be on the job day and night.
 541-9.
 あなたが私たちの会社で働こうと思った理由を聞かせて下さい。 
 あなた　が　私(わたし)たち　の　会社(かいしゃ)　で　働こ(はたらこ)う　と　思っ(おもっ)た　理由(りゆう)　を　聞か(きか)せて　下さい(ください)。
-What has made you decide to work for our company? (87)  
+What has made you decide to work for our company? 
 
 542-1.
 重労働。 
@@ -6965,7 +6952,7 @@ I shall have to accept these unpleasant working conditions.
 542-18.
 この長年の間、このシステムの下で働いている労働者の間にストライキは全くなかった。 
 この　長年(ながねん)　の　間(あいだ)、　この　システム　の　下(もと)　で　働い(はたらい)て　いる　労働者(ろうどうしゃ)　の　間(あいだ)　に　ストライキ　は　全く(まったく)　なかった。
-During all these years there has never been a single strike among the men working under this system. (68) 
+During all these years there has never been a single strike among the men working under this system. 
 「〜のもとで」　{〜の下で　40} ["under __"]: DJG v2 p310.  
 
 543-1.
@@ -6979,7 +6966,7 @@ Let's make a deal.
 543-3.
 この行動は協定に反する。 
 この　行動(こうどう)　は　協定(きょうてい)　に　反する(はんする)。
-This action flies in the face of the agreement. (101) 
+This action flies in the face of the agreement. 
 「〜にはんして　/ 〜にはんする」　{〜に反して　/ 〜に反する　374} ["contrary to __"]: DJG v2 p241. 
 543-4.
 協調性を持って共に働く。 
@@ -7000,7 +6987,7 @@ The action teams worked in partnership with the government.
 543-8.
 そこに至るまでには多くの方々の協力を得ました。 
 そこ　に　至る(いたる)　まで　に　は　多く(おおく)　の　方々(かたがた)　の　協力(きょうりょく)　を　得(え)ました。
-There were many people who helped me get there. (10)  
+There were many people who helped me get there. 
 
 544-1.
 改良種。 
@@ -7085,7 +7072,7 @@ I had never seen that kind of fish before.
 544-21.
 地は青草と、種類にしたがって種をもつ草と、種類にしたがって種のある実を結ぶ木とを生えさせた。神は見て、良しとされた。 
 地(ち)　は　青草(あおくさ)　と、　種類(しゅるい)　に　したがって　種(たね)　を　もつ　草(くさ)　と、種類(しゅるい)　に　したがって　種(たね)　の　ある　実(み)　を　結ぶ(むすぶ)　木(き)　と　を　生え(はえ)させた。　神(かみ)　は　見(み)て、　良し(よし)　と　された。
-And the earth brought forth grass, and herb yielding seed after his kind, and the tree yielding fruit, whose seed was in itself, after his kind: and God saw that it was good. (33) 
+And the earth brought forth grass, and herb yielding seed after his kind, and the tree yielding fruit, whose seed was in itself, after his kind: and God saw that it was good. 
 「〜にしたがって　/ 〜にしたがい」　{〜に従って　/ 〜に従い　869} ["in accordance with __"; "as __"]: DJG v2 p268; Tobira ch10 #8.  
 
 545-1.
@@ -7099,7 +7086,7 @@ A tall subspecies of pine.
 545-3.
 亜美さんは生意気な子供だ。 
 亜美(あみ)さん　は　生意気(なまいき)　な　子供(こども)　だ。
-Ami's a saucy chit. (101)  
+Ami's a saucy chit. 
 
 546-1.
 悪童。 
@@ -7224,7 +7211,7 @@ The feeling that things will turn out badly.
 546-31.
 どうもパソコンの調子が悪い。 
 どうも　パソコン　の　調子(ちょうし)　が　悪い(わるい)。
-There's something wrong with the computer. (10) 
+There's something wrong with the computer. 
 「どうも」　["somehow"; "no matter how"]: DJG v2 p36. 
 546-32.
 勝ち取るための意地の悪い企み。 
@@ -7261,12 +7248,12 @@ This is the worst movie I have ever seen.
 546-40.
 悪党どもの中には海に飛び込む者までいました。 
 悪党(あくとう)ども　の　中(なか)　に　は　海(うみ)　に　飛び込む(とびこむ)　者(もの)　まで　いました。
-Some of the miscreants even leapt into the sea. (64) 
+Some of the miscreants even leapt into the sea. 
 「-ども」　{-共　356} [plural personal pronoun suffix]: DJG v1 p28 bottom & 440, v3 p47 & 50-51 of front matter (covered under -たち). 
 546-41.
 小野寺さんによると、私はかれらの中の害悪だった。 
 小野寺(おのでら)さん　に　よる　と、　私(わたし)　は　かれら　の　中(なか)　の　害悪(がいあく)　だった。
-According to Onodera-san, I was the canker in their midst. (101) 
+According to Onodera-san, I was the canker in their midst. 
 「〜によると」　{〜に依ると* 701} ["according to __"]: DJG v3 p459; Marx v2 day43. 
 546-42.
 吉野さんが他人の悪口を言うのを聞いたことがない。 
@@ -7295,7 +7282,7 @@ And God saw that the wickedness of man was great in the earth, and that every im
 546-48.
 目を上げると、今の今までいつも楽しい場所だった湖は、ぞっとするような悪意に満ちた場所に見えたのでした。 
 目(め)　を　上げる(あげる)　と、　今(いま)　の　今(いま)　まで　いつも　楽しい(たのしい)　場所(ばしょ)　だった　湖(みずうみ)　は、　ぞっと　する　よう　な　悪意(あくい)　に　満ち(みち)た　場所(ばしょ)　に　見え(みえ)た　の　でした。
-When she looked up, the lake that had always been such a laughing place seemed formidable and unfriendly. (64)  
+When she looked up, the lake that had always been such a laughing place seemed formidable and unfriendly. 
 
 547-1.
 主要目的。 
@@ -7308,7 +7295,7 @@ A major role.
 547-3.
 包丁が要る。 
 包丁(ほうちょう)　が　要る(いる)。
-I need a kitchen knife. (101) 
+I need a kitchen knife. 
 「いる」　{要る* 547} ["need"]: DJG v1 p157. 
 547-4.
 重要な詳細。 
@@ -7373,7 +7360,7 @@ Petroleum has been important since ancient times.
 547-19.
 ヴェニスは東洋との交易の重要な中心地であった。 
 ヴェニス　は　東洋(とうよう)　と　の　交易(こうえき)　の　重要(じゅうよう)　な　中心地(ちゅうしんち)　で　あった。
-Venice was an important center of trade with the East. (101)  
+Venice was an important center of trade with the East. 
 
 548-1.
 高価な店。 
@@ -7414,7 +7401,7 @@ Inexpensive family restaurants.
 548-10.
 この家は得がたく高価である。 
 この　家(いえ)　は　得がたく(えがたく)　高価(こうか)　で　ある。
-This house is unattainably expensive. (101) 
+This house is unattainably expensive. 
 「-がたい」　{-難い* 712} ["un__able"]: DJG v2 p50. 
 548-11.
 風力は安価なエネルギー源です。 
@@ -7427,7 +7414,7 @@ The cost in human life is enormous.
 548-13.
 チェコ共和国で100のハレシュは、1コルナと同価である。 
 チェコ　共和国(きょうわこく)　で　100　の　ハレシュ　は、　1コルナ　と　同価(どうか)　で　ある。
-In the Czech Republic, one hundred halers equal one koruna. (100)  
+In the Czech Republic, one hundred halers equal one koruna. 
 
 549-1.
 必要条件。 
@@ -7512,7 +7499,7 @@ I can never see this movie without being moved.
 549-21.
 それは特別の場合にのみ必要であった。 
 それ　は　特別(とくべつ)　の　場合(ばあい)　に　のみ　必要(ひつよう)　で　あった。
-It was needed only in special situations. (101) 
+It was needed only in special situations. 
 「〜のみ」　["only __"]: DJG v2 p307. 
 549-22.
 私の伝言を学部長に必ず伝えて下さい。 
@@ -7537,7 +7524,7 @@ The proprietor often has to work off-the-clock.
 549-27.
 銀行に二万ポンドを取りに行く必要すらなかった。 
 銀行(ぎんこう)　に　二万(にまん)　ポンド　を　取り(とり)　に　行く(いく)　必要(ひつよう)　すら　なかった。
-It was not even necessary that he should go to his bankers for the twenty thousand pounds. (7) 
+It was not even necessary that he should go to his bankers for the twenty thousand pounds. 
 「〜すら」　["even __"]: DJG v2 p368 (covered under さえ). 
 549-28.
 この場合は、2月末日までに所定の手続きが必要だ。 
@@ -7546,7 +7533,7 @@ In this case, you must follow the set procedures by the end of February.
 549-29.
 かれらは新しい会合場所を必要としていたので、マセックは自分の店で月一度会合を開くことに同意した。 
 かれら　は　新(あたら)しい　会合(かいごう)　場所(ばしょ)　を　必要(ひつよう)　と　して　いた　ので、　マセック　は　自分(じぶん)　の　店(みせ)　で　月(つき)　一度(いちど)　会合(かいごう)　を　開く(ひらく)　こと　に　同意(どうい)　した。
-They needed a new meeting place, and Macek agreed to let them meet once a month in his shop. (69)  
+They needed a new meeting place, and Macek agreed to let them meet once a month in his shop. 
 
 550-1.
 信用できる証人。 
@@ -7596,7 +7583,7 @@ This lens passes light without distortion.
 551-4.
 お前のメガネ歪んでるじゃないかよ。 
 お前(おまえ)　の　メガネ　歪ん(ゆがん)でる　じゃ　ない　か　よ。
-Dude, your glasses look crooked. (99) 
+Dude, your glasses look crooked. 
 「-てる」　[colloquial contraction of -ている: "be __ing"; "have (done) __"]: DJG v1 p155; Genki ch7; Marx v1 day36. 
 551-5.
 この種類の木は特に歪みに強いです。 
@@ -7609,7 +7596,7 @@ This statement misrepresents my intentions.
 551-7.
 黒田さんは人類にたいして歪んだ見方をする。 
 黒田(くろだ)さん　は　人類(じんるい)　にたいして　歪ん(ゆがん)だ　見方(みかた)　を　する。
-Kuroda-san takes a jaundiced view of humankind. (101) 
+Kuroda-san takes a jaundiced view of humankind. 
 「〜にたいして　/ 〜にたいし」　{〜に対して　/ 〜に対し　650} ["toward __"; "(as) against __"]: DJG v2 p275; Tobira ch9 #13. 
 551-8.
 バレエダンサーは信じられない歪曲を実行しました。 
@@ -7622,7 +7609,7 @@ Nonaka-san headed to work with his necktie twisted awry.
 551-10.
 悪意に満ちた勝利のほほえみで、北野さんのくちびるは歪んでいた。 
 悪意(あくい)　に　満ち(みち)た　勝利(しょうり)　の　ほほえみ　で、　北野(きたの)さん　の　くちびる　は　歪ん(ゆがん)で　いた。
-Kitano-san's lip was curled into a smile of malicious triumph. (64)  
+Kitano-san's lip was curled into a smile of malicious triumph. 
 
 552-1.
 全面否定。 
@@ -7631,7 +7618,7 @@ An unqualified denial.
 552-2.
 等しいか否かを見る。 
 等しい(ひとしい)　か　否(いな)　か　を　見る(みる)。
-Check the equality of. (100) 
+Check the equality of. 
 「〜かいなか」　{〜か否か　552} ["whether __ (or not)"]: DJG v3 p182; Genki ch20. 
 552-3.
 強い自己否定を行う。 
@@ -7660,7 +7647,7 @@ Kuroki-sensei shot down the student's proposal.
 552-9.
 長野大臣はいかなる悪事も否定した。 
 長野(ながの)　大臣(だいじん)　は　いかなる　悪事(あくじ)　も　否定(ひてい)　した。
-Minister Nagano denied any wrongdoing. (101) 
+Minister Nagano denied any wrongdoing. 
 「いかなる〜」　{如何なる〜** 2197; 815} ["any __"]: DJG v3 p132. 
 552-10.
 労働組合がこの会社の成否を決定する。 
@@ -7669,7 +7656,7 @@ The success or failure of this company will depend on the labor union.
 552-11.
 一行が出発するや否や、雨がふり出した。 
 一行(いっこう)　が　出発(しゅっぱつ)　する　や　否(いな)　や、　雨(あめ)　が　ふり出し(ふりだし)た。
-The party had no sooner departed than it began to rain. (87) 
+The party had no sooner departed than it began to rain. 
 「〜やいなや」　{〜や否や　552} ["no sooner did __ than"]: DJG v3 p706. 
 552-12.
 黒木さんは川野大臣と会っていたことを否定した。 
@@ -7678,7 +7665,7 @@ Kuroki-san denied having met Minister Kawano.
 552-13.
 一人になるや否や、亜美さんはその手紙を開けた。 
 一人(ひとり)　に　なる　や　否(いな)　や、　亜美(あみ)さん　は　その　手紙(てがみ)　を　開け(あけ)た。
-No sooner was Ami alone than she opened the letter. (87)  
+No sooner was Ami alone than she opened the letter. 
 
 553-1.
 処方薬。 
@@ -7715,7 +7702,7 @@ Please treat the water so it can be drunk.
 553-9.
 今日も一日クレーム処理ばかりで、もうくたくた。 
 今日(きょう)　も　一日(いちにち)　クレーム　処理(しょり)　ばかり　で、　もう　くたくた。
-I'm wiped out. All I've done today is handle complaints again. (87) 
+I'm wiped out. All I've done today is handle complaints again. 
 「〜ばかり」　["just __"]: DJG v1 p84 & 402; Marx v2 day39; Tobira ch4 #18. 
 553-10.
 侍女は最後まで自分の身は自分で処するつもりだった。 
@@ -7728,7 +7715,7 @@ This program will automatically execute all of the processing.
 553-12.
 2000年が近づくにつれて、オープンソース開発が益々最後の処女地に転向すると予言します。 
 2000年(ねん)　が　近づく(ちかづく)　につれて、　オープン　ソース　開発(かいはつ)　が　益々(ますます)　最後(さいご)　の　処女地(しょじょち)　に　転向(てんこう)　する　と　予言(よげん)　します。
-As the third millennium nears, I predict that open-source development effort will increasingly shift towards the last virgin territory. (41) 
+As the third millennium nears, I predict that open-source development effort will increasingly shift towards the last virgin territory. 
 「〜につれて　/ 〜につれ」　{〜に連れて* / 〜に連れ* 582} ["as __"; "in proportion to __"]: DJG v2 p285; Tobira ch13 #6.  
 
 554-1.
@@ -7794,12 +7781,12 @@ We do not understand the grounds of the Director's opinion.
 554-16.
 不満を示す学生が、およそ1週間、学長室を占拠した。 
 不満(ふまん)　を　示す(しめす)　学生(がくせい)　が、　およそ　1週間(しゅうかん)、　学長室(がくちょうしつ)　を　占拠(せんきょ)　した。
-The dissatisfied students held the President's office for almost a week. (101) 
+The dissatisfied students held the President's office for almost a week. 
 「およそ〜」　{凡そ〜** 1629} ["generally __"; "roughly __"]: DJG v3 p526. 
 554-17.
 両事件ともに、毒性の空気が籠っていたという証拠が存在する。 
 両(りょう)　事件(じけん)　とも　に、　毒性(どくせい)　の　空気(くうき)　が　籠っ(こもっ)て　いた　という　証拠(しょうこ)　が　存在(そんざい)　する。
-In each case there exists evidence of toxin-filled air. (2)  
+In each case there exists evidence of toxin-filled air. 
 
 555-1.
 会計士。 
@@ -7868,7 +7855,7 @@ It's time to put the plan in action.
 555-17.
 気圧計が下がる一方です。 
 気圧計(きあつけい)　が　下がる(さがる)　一方(いっぽう)　です。
-The barometer keeps falling and falling. (101) 
+The barometer keeps falling and falling. 
 「〜いっぽう(だ)」　{〜一方(だ) 2; 173} ["only __"; "keep on __ing"]: DJG v3 p146. 
 555-18.
 この時計は動いてません。 
@@ -7951,7 +7938,7 @@ That car is too expensive for my pocketbook.
 555-37.
 シルバーは一人一人に話しかけ、だれにでもなんらかの特別な計らいをしてやることを心得ていた。 
 シルバー　は　一人(ひとり)　一人(ひとり)　に　話しかけ(はなしかけ)、　だれ　に　でも　なんらかの　特別(とくべつ)　な　計らい(はからい)　を　して　やる　こと　を　心得(こころえ)て　いた。
-Silver had a way of talking to each and doing everybody some particular service. (90) 
+Silver had a way of talking to each and doing everybody some particular service. 
 「なんらかの〜」　{何らかの〜* 815} ["some (kind of) __"]: DJG v3 p333. 
 「-てやる」　["do __ (for someone)"]: DJG v1 p67 (covered under あげる); Marx v2 day31.  
 
@@ -7990,7 +7977,7 @@ In the same direction as the rotating hands of a clock.
 556-9.
 過去ではなく、未来に向けて取り組むのが当社の方針です。 
 過去(かこ)　で　は　なく、　未来(みらい)　に　向け(むけ)て　取り組む(とりくむ)　の　が　当社(とうしゃ)　の　方針(ほうしん)　です。
-Our company's policy is to build for the future, not the past. (87)  
+Our company's policy is to build for the future, not the past. 
 
 557-1.
 総力戦。 
@@ -8027,7 +8014,7 @@ Prime Minister Abe is scheduled to visit the United States next month.
 557-9.
 総所要時間：百五十八時間半、即ち六日半。 
 総(そう)　所要(しょよう)　時間(じかん)：　百(ひゃく)　五十(ごじゅう)　八(はち)　時間(じかん)　半(はん)、　即ち(すなわち)　六日(むいか)　半(はん)。
-Total of hours spent: 158.5; or, in days, six days and a half. (7) 
+Total of hours spent: 158.5; or, in days, six days and a half. 
 「すなわち〜」　{即ち〜* 390} ["namely, __", "that is, __"]: DJG v2 p538 (covered under つまり); Tobira ch14 #2.  
 
 558-1.
@@ -8089,7 +8076,7 @@ Out of nowhere there was a boom as Mr. Buchanan shut the rear windows and the wi
 558-15.
 ドアは背が低いもので、窓のいくつかは高いところについていますが、他の窓は低いところについています。 
 ドア　は　背(せ)　が　低い(ひくい)　もの　で、　窓(まど)　の　いくつ　か　は　高い(たかい)　ところ　に　ついて　います　が、　他(ほか)　の　窓(まど)　は　低い(ひくい)　ところ　に　ついて　います。
-The doors are low, and some of the windows are placed quite high, and others close to the ground. (98)  
+The doors are low, and some of the windows are placed quite high, and others close to the ground. 
 
 559-1.
 矢は命中した。 
@@ -8118,7 +8105,7 @@ Matsuno-san hit the mark with his arrow eight times in a row.
 559-7.
 なにか矢のような物が空を切って飛んできた。 
 なに　か　矢(や)　の　よう　な　物(もの)　が　空(そら)　を　切っ(きっ)て　飛ん(とん)で　きた。
-Something sang like an arrow through the air. (90)  
+Something sang like an arrow through the air. 
 
 560-1.
 未知の量。 
@@ -8171,7 +8158,7 @@ An ignorant real estate developer.
 560-13.
 時間が知らぬ間に過ぎた。 
 時間(じかん)　が　知ら(しら)ぬ　間(ま)　に　過ぎ(すぎ)た。
-Time slipped by. (100) 
+Time slipped by. 
 「-ぬ」　["not __"]: DJG v2 p315; Tobira ch11 #14. 
 560-14.
 共通の知り合いがいます。 
@@ -8233,17 +8220,17 @@ A map helps us to know where we are.
 560-28.
 この時代、包囲のやり方を知らなかったみたいなんだ。 
 この　時代(じだい)、　包囲(ほうい)　の　やり方(やりかた)　を　知ら(しら)なかった　みたい　なん　だ。
-In this period they do not seem to have understood how to conduct a siege. (86) 
+In this period they do not seem to have understood how to conduct a siege. 
 「〜みたい(だ)」　["(is) like __"; "seems like __"]: DJG v3 p105 (covered under 〜ごとし); Genki ch17; Marx v2 day69. 
 560-29.
 さすがの草野さんだ。私の知っている限りでは草野さんは時間どおりに来たことがない。 
 さすが　の　草野(くさの)さん　だ。　私(わたし)　の　知っ(しっ)て　いる　限り(かぎり)　で　は　草野(くさの)さん　は　時間(じかん)どおり　に　来(き)た　こと　が　ない。
-This is just like Kusano-san. As far as I know, Kusano-san has never come on time. (87) 
+This is just like Kusano-san. As far as I know, Kusano-san has never come on time. 
 「さすが」　["as one might expect"]: DJG v2 p374. 
 560-30.
 我々の知らない、重大な証拠をお持ちになっていられるでしょう。 
 我々(われわれ)　の　知ら(しら)ない、　重大(じゅうだい)　な　証拠(しょうこ)　を　お持ち(もち)　に　なって　いられる　でしょう。
-You must have important evidence of which we are ignorant. (1) 
+You must have important evidence of which we are ignorant. 
 「お-〜になる」　[polite description of outgroup person's action]: DJG v1 p358. 
 560-31.
 「立ち聞きする」とは、話し手に知られずに会話を聞くことを意味する。 
@@ -8346,7 +8333,7 @@ A brief-lived anime company.
 562-11.
 要するに人生は短い。 
 要するに(ようするに)　人生(じんせい)　は　短い(みじかい)。
-In sum, life is short. (87) 
+In sum, life is short. 
 「ようするに〜」　{要するに〜　547} ["in sum, __"]: DJG v2 p541 (covered under つまり〜). 
 562-12.
 冬は、日が短くなる。 
@@ -8407,7 +8394,7 @@ My life has been so short that I really know nothing whatever.
 562-26.
 ここに私たちは毎日の決まり切った仕事の中から短い時間集まりました。 
 ここ　に　私(わたし)たち　は　毎日(まいにち)　の　決まり切っ(きまりきっ)た　仕事(しごと)　の　中(なか)　から　短い(みじかい)　時間(じかん)　集まり(あつまり)ました。
-Here we are gathered together for a brief moment amid our routine everyday work. (25)  
+Here we are gathered together for a brief moment amid our routine everyday work. 
 
 563-1.
 重大な過失。 
@@ -8460,12 +8447,12 @@ Disoriented hikers.
 563-13.
 私はもう気を失いそうだわ。 
 私(わたし)　は　もう　気(き)　を　失い(うしない)そう　だ　わ。
-I feel like I am going to faint. (90) 
+I feel like I am going to faint. 
 「-そう(だ)」　["look __"; "__-looking"]: DJG v1 p410; Genki ch13; Marx v2 day67. 
 563-14.
 その道を、見失うことはないわ。 
 その　道(みち)　を、　見失う(みうしなう)　こと　は　ない　わ。
-That road, you won't be able to miss it. (99) 
+That road, you won't be able to miss it. 
 「〜ことはない」　{〜事はない* 80} ["__ is not necessary"; "__ is not possible"]: DJG v2 p146; Tobira ch10 #15. 
 563-15.
 活動家は必要以上に失礼だった。 
@@ -8514,7 +8501,7 @@ Jobs are hard to come by with so many people out of work.
 563-26.
 ロンドン～ボンベイ間で得た二日間は失われていた。 
 ロンドン　～　ボンベイ　間(かん)　で　得(え)た　二日間(ふつかかん)　は　失わ(うしなわ)れて　いた。
-The two days gained between London and Bombay had been lost. (7)  
+The two days gained between London and Bombay had been lost. 
 
 564-1.
 国有鉄道。 
@@ -8531,12 +8518,12 @@ Monsieur, no more railway!
 564-4.
 お前の頭は、鉄みたいに固い。 
 お前(おまえ)　の　頭(あたま)　は、　鉄(てつ)　みたい　に　固い(かたい)。
-Your head is as hard as iron. (90) 
+Your head is as hard as iron. 
 「〜みたい(だ)」　["(is) like __"; "seems like __"]: DJG v3 p105 (covered under 〜ごとし); Genki ch17; Marx v2 day69. 
 564-5.
 手引きをしたその手は鉄のようであった。 
 手引き(てびき)　を　した　その　手(て)　は　鉄(てつ)　の　よう　で　あった。
-The hand that guided was iron. (82) 
+The hand that guided was iron. 
 「〜ようだ」　["looks like __"; "seems (that) __"]: DJG v1 p547; Marx v2 day66. 
 564-6.
 地下鉄から出てくる時、私はよく方向感覚を失う。 
@@ -8549,12 +8536,12 @@ Which is quicker, a taxi or the subway?
 564-8.
 新しい地下鉄のおかげで20分で学校へ行くことができる。 
 新(あたら)しい　地下鉄(ちかてつ)　の　おかげ　で　20分(ぷん)　で　学校(がっこう)　へ　行く(いく)　こと　が　できる。
-The new subway enables me to get to school in 20 minutes. (87) 
+The new subway enables me to get to school in 20 minutes. 
 「〜おかげ」　{〜お陰* 1311} ["thanks to __"]: DJG v2 p382 (covered under せい); Marx v2 day44; Tobira ch8 #14. 
 564-9.
 失礼ですが、地下鉄の駅へ行くにはこの道でいいのでしょうか。 
 失礼(しつれい)　です　が、　地下鉄(ちかてつ)　の　駅(えき)　へ　行く(いく)　に　は　この　道(みち)　で　いい　の　でしょう　か。
-Excuse me, but is this the right way to the subway station? (87)  
+Excuse me, but is this the right way to the subway station? 
 
 565-1.
 自動化された火夫。 
@@ -8595,7 +8582,7 @@ Miyu badmouths her husband everywhere.
 565-10.
 夫は朝食を食べながら新聞を読みます。 
 夫(おっと)　は　朝食(ちょうしょく)　を　食べ(たべ)ながら　新聞(しんぶん)　を　読み(よみ)ます。
-My husband reads the newspaper while eating breakfast. (87) 
+My husband reads the newspaper while eating breakfast. 
 「〜ながら」　["while __"]: DJG v1 p269; Genki ch18; Marx v1 day88. 
 565-11.
 先夫は私の長所と同様に短所も知っている。 
@@ -8608,12 +8595,12 @@ My ex-husband means nothing to me.
 565-13.
 アンタ本当に器用ねっ。主夫とか向いてるんじゃない？ 
 アンタ　本当に(ほんとうに)　器用(きよう)　ねっ。　主夫(しゅふ)　とか　向い(むかい)てる　ん　じゃ　ない？
-You're really handy, aren't you? Don't you think you'd make a good house-husband? (87) 
+You're really handy, aren't you? Don't you think you'd make a good house-husband? 
 「-てる」　[colloquial contraction of -ている: "be __ing"; "have (done) __"]: DJG v1 p155; Genki ch7; Marx v1 day36. 
 565-14.
 弓美さんは前の夫に会うのがこわくてその会合に出席しなかった。 
 弓美(ゆみ)さん　は　前(まえ)　の　夫(おっと)　に　会う(あう)　の　が　こわくて　その　会合(かいごう)　に　出席(しゅっせき)　しなかった。
-Yumi didn't attend the meeting for fear of meeting her ex-husband. (87)  
+Yumi didn't attend the meeting for fear of meeting her ex-husband. 
 
 566-1.
 朱色をした特有の子実体をもつキノコ。 
@@ -8630,7 +8617,7 @@ An inkpad looks like raw meat since it's bright red and moist.
 566-4.
 この美しい本では、全ての地名が朱書きにされている。 
 この　美しい(うつくしい)　本(ほん)　で　は、　全て(すべて)　の　地名(ちめい)　が　朱書き(しゅがき)　に　されて　いる。
-In this beautiful book, all the place names are rubricated. (101)  
+In this beautiful book, all the place names are rubricated. 
 
 567-1.
 店頭株。 
@@ -8683,7 +8670,7 @@ My ex knew the stock was a speculation when he bought it.
 567-13.
 「株券」とは、会社の株主であることを立証する証書のことを示す。 
 「株券(かぶけん)」　と　は、　会社(かいしゃ)　の　株主(かぶぬし)　で　ある　こと　を　立証(りっしょう)　する　証書(しょうしょ)　の　こと　を　示(しめ)す。
-A "stock certificate" is a certificate documenting a shareholder's ownership in a corporation. (100)  
+A "stock certificate" is a certificate documenting a shareholder's ownership in a corporation. 
 
 568-1.
 多民族社会。 
@@ -8756,7 +8743,7 @@ Americans have always been a footloose people, always moving on.
 568-18.
 さて、このことは家族全体、地区全体、社会全体、国全体、文明全体において、どういうことを意味するだろうか。 
 さて、　この　こと　は　家族(かぞく)　全体(ぜんたい)、　地区(ちく)　全体(ぜんたい)、　社会(しゃかい)　全体(ぜんたい)、　国(くに)　全体(ぜんたい)、　文明(ぶんめい)　全体(ぜんたい)　において、　どう　いう　こと　を　意味(いみ)　する　だろう　か。
-Now, what does this mean for entire families, neighborhoods, societies, nations, civilizations? (76) 
+Now, what does this mean for entire families, neighborhoods, societies, nations, civilizations? 
 「さて」　[initiates a new matter]: DJG v3 p543; Tobira ch8 #6.  
 
 569-1.
@@ -8838,17 +8825,17 @@ This is my design for a machine to travel through time.
 569-20.
 計画を立てることは、旅行自体よりも面白かった。 
 計画(けいかく)　を　立てる(たてる)　こと　は、　旅行(りょこう)　自体(じたい)　より　も　面白かっ(おもしろかっ)た。
-The planning was more fun than the trip itself. (101) 
+The planning was more fun than the trip itself. 
 「-じたい」　{-自体　81; 62} ["__ itself"]: DJG v3 p174. 
 569-21.
 そこで翌日、また時間旅行者に会いに出かけようと決めた。 
 そこで　翌日(よくじつ)、　また　時間(じかん)　旅行者(りょこうしゃ)　に　会い(あい)　に　出かけよ(でかけよ)う　と　決め(きめ)た。
-I determined to go the next day and see the Time Traveller again. (89) 
+I determined to go the next day and see the Time Traveller again. 
 「そこで〜」　{其処で〜** 1757; 553} ["(and) so __"]: DJG v2 p401 & 405; Tobira ch9 #8. 
 569-22.
 本当にあの機械が時間の中へ旅立ったと信じているのですか？ 
 本当に(ほんとうに)　あの　機械(きかい)　が　時間(じかん)　の　中(なか)　へ　旅立っ(たびだっ)た　と　信じ(しんじ)て　いる　の　です　か？
-Do you seriously believe that that machine has travelled into time? (89)  
+Do you seriously believe that that machine has travelled into time? 
 
 570-1.
 夏は、私たちは外で遊ぶ。 
@@ -8942,7 +8929,7 @@ I'm going to carry out this plan.
 571-9.
 当社は主に以下の活動を実施しております： 
 当社(とうしゃ)　は　主(おも)　に　以下(いか)　の　活動(かつどう)　を　実施(じっし)　して　おります：
-Our company mainly carries out the following activities: (10)  
+Our company mainly carries out the following activities: 
 
 572-1.
 旋風を巻き起こす。 
@@ -8955,7 +8942,7 @@ Diurnal rotation of the heavens.
 572-3.
 ヘリコプターが上空を旋回した。 
 ヘリコプター　が　上空(じょうくう)　を　旋回(せんかい)　した。
-The helicopter circled overhead. (87)  
+The helicopter circled overhead. 
 
 573-1.
 英国の国旗。 
@@ -8984,7 +8971,7 @@ The flag flapped in the strong wind.
 573-7.
 休戦旗なんか持って、どうしたいって言うんだ？ 
 休戦(きゅうせん)　旗(はた)　なんか　持っ(もっ)て、　どう　したい　って　言う(いう)　ん　だ？
-What do you want with your flag of truce? (90) 
+What do you want with your flag of truce? 
 「〜なんか」　["such (things)/such (a thing)"]: DJG v3 p341 (covered under 〜なんて).  
 
 574-1.
@@ -9038,7 +9025,7 @@ Nakano-san turned upward and shot an arrow into the blue.
 574-13.
 私はドアを開けっ放しにしていないよ。 
 私(わたし)　は　ドア　を　開けっ放し(あけっぱなし)　に　して　いない　よ。
-I didn't leave the door open. (87) 
+I didn't leave the door open. 
 「-っぱなし」　{-放し* 574} [leave in an improper state]: DJG v2 p333; Marx v2 day49; Tobira ch15 #15. 
 574-14.
 だれが窓を開けっ放しにしておいたんだ？ 
@@ -9075,7 +9062,7 @@ In 1995 Aum members released deadly sarin gas on a Tokyo subway train.
 574-22.
 他の都市でも日本アニメは放映されていたけれど、その中身は必ずしも同じではないことに気がついた。 
 他(ほか)　の　都市(とし)　でも　日本(にほん)　アニメ　は　放映(ほうえい)　されて　いた　けれど、その　中身(なかみ)　は　必ずしも(かならずしも)　同じ(おなじ)　で　は　ない　こと　に　気がつい(きがつい)た。
-They found out that while they were showing Japanese cartoons in other cities, the cartoons were not always the same. (69) 
+They found out that while they were showing Japanese cartoons in other cities, the cartoons were not always the same. 
 「かならずしも〜ない」　{必ずしも〜ない　549} ["not necessarily __"]: DJG v2 p92.  
 
 575-1.
@@ -9097,7 +9084,7 @@ Mizuno-san complained bitterly.
 575-5.
 戦いは短く激しいものであった。 
 戦い(たたかい)　は　短く(みじかく)　激しい(はげしい)　もの　で　あった。
-The fight was short and sharp. (64) 
+The fight was short and sharp. 
 「〜もの(だ)」　[emphasis on a particular situation]: DJG v1 p257. 
 575-6.
 高野さんは激しく詰問されていた。 
@@ -9118,7 +9105,7 @@ The first hard fighting of the US Civil War was at the Battle of Manassas.
 575-10.
 長官は私たちの協力的な行動にすごく感激した。 
 長官(ちょうかん)　は　私(わたし)たち　の　協力的(きょうりょくてき)　な　行動(こうどう)　に　すごく　感激(かんげき)　した。
-The Director was extremely impressed by our cooperative behavior. (72)  
+The Director was extremely impressed by our cooperative behavior. 
 
 576-1.
 放牧馬。 
@@ -9167,7 +9154,7 @@ This road connects Makinohara with Kobayashi.
 576-12.
 不動産屋の夫はアリゾナの牧場で働いている。 
 不動産屋(ふどうさんや)　の　夫(おっと)　は　アリゾナ　の　牧場(ぼくじょう)　で　働い(はたらい)て　いる。
-The realtor's husband is ranching in Arizona. (101)  
+The realtor's husband is ranching in Arizona. 
 
 577-1.
 最下位で。 
@@ -9268,7 +9255,7 @@ I extracted a promise from the Dean for two new positions.
 577-25.
 そういった詳細は、ほんの数人の高い地位の人だけに知られていた。 
 そういった　詳細(しょうさい)　は、　ほんの　数人(すうにん)　の　高い(たかい)　地位(ちい)　の　人(ひと)　だけ　に　知ら(しら)れて　いた。
-Such details were known by only a few highly placed persons. (101) 
+Such details were known by only a few highly placed persons. 
 「そういう〜　/ そういった〜」　{そう言う〜　/ そう言った〜　51} ["such __"]: DJG v2 p131; Tobira ch4 #10.  
 
 578-1.
@@ -9290,7 +9277,7 @@ I had a good cry.
 578-5.
 私は子供の泣き声が大きらいだ。 
 私(わたし)　は　子供(こども)　の　泣き声(なきごえ)　が　大(だい)きらい　だ。
-I hate to hear the crying of a child. (101) 
+I hate to hear the crying of a child. 
 「〜がきらいだ」　{〜が嫌いだ* 2058} ["dislike __"]: DJG v1 p190; Genki ch5; Marx v1 day41. 
 578-6.
 一度すすり泣くのが聞こえました！ 
@@ -9299,17 +9286,17 @@ Once I heard it weeping!
 578-7.
 亜美さんは手紙を読みながら感泣した。 
 亜美(あみ)さん　は　手紙(てがみ)　を　読み(よみ)ながら　感泣(かんきゅう)　した。
-Ami was moved to tears as she read the letter. (87) 
+Ami was moved to tears as she read the letter. 
 「〜ながら」　["while __"]: DJG v1 p269; Genki ch18; Marx v1 day88. 
 578-8.
 泣くな！泣いてもなにも解決しないぞ。 
 泣く(なく)　な！　泣い(ない)て　も　なに　も　解決(かいけつ)　しない　ぞ。
-Don't cry. Crying doesn't solve anything. (87) 
+Don't cry. Crying doesn't solve anything. 
 「〜ぞ」　["__, I'm telling you"]: DJG v1 p47, v2 p609; Marx v2 day1. 
 578-9.
 あらピーター、泣いてるのも無理ないわ。 
 あら　ピーター、　泣い(ない)てる　の　も　無理(むり)ない　わ。
-O Peter, no wonder you were crying. (64) 
+O Peter, no wonder you were crying. 
 「-てる」　[colloquial contraction of -ている: "be __ing"; "have (done) __"]: DJG v1 p155; Genki ch7; Marx v1 day36. 
 578-10.
 アイルランドの通夜で泣くことはできない。 
@@ -9318,7 +9305,7 @@ There's no weeping at an Irish wake.
 578-11.
 理子さんは私を見るや否や、わっと泣き出した。 
 理子(りこ)さん　は　私(わたし)　を　見る(みる)　や　否(いな)　や、　わっと　泣き出し(なきだし)た。
-The moment Riko saw me, she burst into tears. (87) 
+The moment Riko saw me, she burst into tears. 
 「〜やいなや」　{〜や否や　552} ["no sooner did __ than"]: DJG v3 p706. 
 578-12.
 その子供は、母親を見るとすぐに泣き止みました。 
@@ -9331,7 +9318,7 @@ No sooner had Akemi found the pup than she burst into tears.
 578-14.
 自分の家の門口へかけこんだ時、良平はとうとう大声でわっと泣き出した。 
 自分(じぶん)　の　家(うち)　の　門口(かどぐち)　へ　かけこんだ　時(とき)、　良平(りょうへい)　は　とうとう　大声(おおごえ)　で　わっと　泣き出し(なきだし)た。
-Bursting through the entrance to his home, Ryohei was no longer able to hold back a wail. (93) 
+Bursting through the entrance to his home, Ryohei was no longer able to hold back a wail. 
 「とうとう〜」　["finally __"]: DJG v2 p528; Tobira ch8 #17.  
 
 579-1.
@@ -9393,12 +9380,12 @@ Kim-san smiled back lopsidedly.
 579-15.
 すると私の友人の独特の笑いを聞いた。 
 すると　私(わたし)　の　友人(ゆうじん)　の　独特(どくとく)　の　笑い(わらい)　を　聞い(きい)た。
-Upon which I heard my friend's characteristic laugh. (101) 
+Upon which I heard my friend's characteristic laugh. 
 「すると〜」　["then __"]: DJG v1 p437; Tobira ch8 #3. 
 579-16.
 戸口から笑い声が聞こえてきて、夫はびっくりした。 
 戸口(とぐち)　から　笑い声(わらいごえ)　が　聞こえ(きこえ)て　きて、　夫　は　びっくり　した。
-A laugh from the doorway startled my husband. (77) 
+A laugh from the doorway startled my husband. 
 「〜きこえる」　{〜聞こえる　453} ["__ can be heard"; "sounds __"]: DJG v1 p188; Marx v1 day50.  
 
 580-1.
@@ -9460,7 +9447,7 @@ At the moment, Sakai-san is focusing entirely on her new job.
 580-15.
 今野さんはまるで専門家であるかのように話す。 
 今野(こんの)さん　は　まるで　専門家(せんもんか)　で　ある　か　の　よう　に　話す(はなす)。
-Konno-san speaks as though he were an expert. (87) 
+Konno-san speaks as though he were an expert. 
 「〜かのように」　["as though __"]: DJG v3 p187. 
 580-16.
 決定する前に、我々は専門家の話を聞かなければならない。 
@@ -9469,7 +9456,7 @@ We must hear the expert before we make a decision.
 580-17.
 一つの事に専心して、それが上手く出来るようにするべきだ。 
 一つ(ひとつ)　の　事(こと)　に　専心(せんしん)　して、　それ　が　上手く(うまく)　出来る(できる)　よう　に　する　べき　だ。
-You should concentrate on one thing and learn to do it well. (87) 
+You should concentrate on one thing and learn to do it well. 
 「〜ようにする」　["make sure (that) __"; "(act) so as to __"]: DJG v1 p562; Marx v2 day72; Tobira ch3 #13. 
 
 581-1.
@@ -9487,7 +9474,7 @@ God's infinite wisdom.
 581-4.
 ジョージ国王に恵みあれ！ 
 ジョージ　国王(こくおう)　に　恵み(めぐみ)　あれ！
-God bless King George! (90) 
+God bless King George! 
 「Imperative verb ending」　: DJG v1 p577 & 579 right column, v2 p70; Marx v1 day28 ("-E form verbs"). 
 581-5.
 ノアは主の前に恵みを得た。 
@@ -9512,7 +9499,7 @@ The less fortunate will have to economize now.
 581-10.
 ブリードはケルト族の、火、生産、農業、家政、および知恵の女神だ。 
 ブリード　は　ケルト族(ぞく)　の、　火(ひ)、　生産(せいさん)、　農業(のうぎょう)、　家政(かせい)、　および　知恵(ちえ)　の　女神(めがみ)　だ。
-Brigid is the Celtic goddess of fire, fertility, agriculture, household arts, and wisdom. (100) 
+Brigid is the Celtic goddess of fire, fertility, agriculture, household arts, and wisdom. 
 「および」　{及び* 1760} ["and"]: DJG v3 p521.  
 
 582-1.
@@ -9570,7 +9557,7 @@ The neighbors saw the child being kidnapped.
 582-14.
 友美さんを医者に連れて行かなきゃ。 
 友美(ゆみ)さん　を　医者(いしゃ)　に　連れ(つれ)て　行か(いか)なきゃ。
-We have to take Yumi to a doctor. (87) 
+We have to take Yumi to a doctor. 
 「-なきゃ(いけない　/ ならない)」　[colloquial contraction of -なければ(いけない　/ ならない): "must __"]. 
 582-15.
 私たちは、その書類に連番を付けた。 
@@ -9631,7 +9618,7 @@ He could not imagine to what place he had been conducted.
 582-29.
 由美さんは食物に関してうるさ過ぎるので、野宿に連れて行けない。 
 由美(ゆみ)さん　は　食物(しょくもつ)　に関して(にかんして)　うるさ過ぎる(すぎる)　ので、　野宿(のじゅく)　に　連れ(つれ)て　行け(いけ)ない。
-Yumi is too nice about her food for you to take her camping. (101) 
+Yumi is too nice about her food for you to take her camping. 
 「〜にかんして　/ 〜にかんする」　{〜に関して　/ 〜に関する　451} ["with regard to __", "about __"]: DJG v2 p252; Marx v2 day42; Tobira ch12 #4. 
 582-30.
 もし連中がうまくできてないのなら、連中ができる仕事を割り当てることです。 
@@ -9640,7 +9627,7 @@ If that bunch can't do it well, assign them to something they can do.
 582-31.
 そこで私たちは、医者も、子供の父親も、その男も私も連れ立って、私の部屋で朝までを過ごしました。 
 そこで　私(わたし)たち　は、　医者(いしゃ)　も、　子供(こども)　の　父親(ちちおや)　も、　その　男(おとこ)　も　私(わたし)　も　連れ立っ(つれだっ)て、　私(わたし)　の　部屋(へや)　で　朝(あさ)　まで　を　過ごし(すごし)ました。
-So we all set off, the doctor, and the child's father, and our friend and myself, and passed the rest of the night in my chambers. (84) 
+So we all set off, the doctor, and the child's father, and our friend and myself, and passed the rest of the night in my chambers. 
 「そこで〜」　{其処で〜** 1757; 553} ["(and) so __"]: DJG v2 p401 & 405; Tobira ch9 #8.  
 
 583-1.
@@ -9682,7 +9669,7 @@ He rushed forward at the head of the Trojan line, slaying as he went.
 583-10.
 協会は日本の空軍基地近くに
 C/
-FO Rising Sun なる支部さえ持っていた。 協会(きょうかい)　は　日本(にほん)　の　空軍(くうぐん)　基地(きち)　近く(ちかく)　に　C/FO Rising Sun　なる　支部(しぶ)　さえ　持っ(もっ)て　いた。 The association even maintained a chapter called C/FO Rising Sun near an air force base in Japan. (69)  
+FO Rising Sun なる支部さえ持っていた。 協会(きょうかい)　は　日本(にほん)　の　空軍(くうぐん)　基地(きち)　近く(ちかく)　に　C/FO Rising Sun　なる　支部(しぶ)　さえ　持っ(もっ)て　いた。 The association even maintained a chapter called C/FO Rising Sun near an air force base in Japan. 
 
 584-1.
 後方運動。 
@@ -9787,7 +9774,7 @@ The accident was due to careless driving.
 584-26.
 仕事に行くのに1時間半も運転するなんていやだな。 
 仕事(しごと)　に　行く(いく)　の　に　1時間(じかん)　半(はん)　も　運転(うんてん)　する　なんて　いや　だ　な。
-Driving for one and a half hours to get to work is a bear. (87) 
+Driving for one and a half hours to get to work is a bear. 
 「〜なんて」　["such (things)/such (a thing)"]: DJG v3 p339; Tobira ch4 #3. 
 584-27.
 この決定により、私は地位を失う運命となるだろう。 
@@ -9800,7 +9787,7 @@ Any rotating body has an angular momentum about its center of mass.
 584-29.
 「ノートパソコン」とは、簡単に持ち運べるパソコンのことを意味する。 
 「ノート　パソコン」　と　は、　簡単(かんたん)　に　持ち運べる(もちはこべる)　パソコン　の　こと　を　意味(いみ)　する。
-A "laptop" is a personal computer that can easily be carried by hand. (100)  
+A "laptop" is a personal computer that can easily be carried by hand. 
 
 585-1.
 しかし天国の蓮池の蓮は、ちょっともそんな事には気にしません。 
@@ -9817,7 +9804,7 @@ At length his head lay back between his wings, and silently he lay there, like a
 585-4.
 池の中にさいている蓮の花は、みんな玉のようにまっ白で、そのまん中にある金色のずいからは、なんとも言えない好いにおいが、たえまなくあたりへ溢れて居ります。 
 池(いけ)　の　中(なか)　に　さいて　いる　蓮(はす)　の　花(はな)　は、　みんな　玉(たま)　の　よう　に　まっ白(まっしろ)　で、　その　まん中(まんなか)　に　ある　金色(きんいろ)　の　ずいから　は、　なんとも　言え(いえ)ない　好い(よい)　におい　が、　たえま　なく　あたり　へ　溢(あふ)れて　居り(おり)ます。
-The blooming lotus flowers in the pond are each pure white like jewels, and the place is filled with the indescribably wondrous fragrance continually emitted from each flower’s golden center. (79)  
+The blooming lotus flowers in the pond are each pure white like jewels, and the place is filled with the indescribably wondrous fragrance continually emitted from each flower’s golden center. 
 
 586-1.
 先発隊。 
@@ -9874,7 +9861,7 @@ The Premier enlisted thousands of men and sent them to the front.
 586-14.
 シャイロー戦の二日目には、グラントの軍隊はビューエルの軍隊と組んだ。 
 シャイロー　戦(せん)　の　二日目(ふつかめ)　に　は、　グラント　の　軍隊(ぐんたい)　は　ビューエル　の　軍隊(ぐんたい)　と　組ん(くん)だ。
-On the second day of the Battle of Shiloh, Grant's forces combined with those of Buell. (101)  
+On the second day of the Battle of Shiloh, Grant's forces combined with those of Buell. 
 
 587-1.
 外見を呈する。 
@@ -9932,7 +9919,7 @@ The process of giving birth to a child.
 588-8.
 早ければ早い程よい。 
 早けれ(はやけれ)ば　早い(はやい)　程(ほど)　よい。
-The sooner, the better. (87) 
+The sooner, the better. 
 「AばBほど」　{AばB程* 588} ["the more A, the more B"]: DJG v2 p6; Marx v2 day58; Tobira ch8 #5. 
 588-9.
 過度な程度に注入する。 
@@ -9977,12 +9964,12 @@ Ren left here about thirty minutes ago.
 588-19.
 運転手は体を思いっ切りのばし、私が思うにはつい先程の旅程の半分は気持ちよくねていた。 
 運転手(うんてんしゅ)　は　体(からだ)　を　思いっ切り(おもいっきり)　のばし、　私(わたし)　が　思う(おもう)　に　は　つい　先程(さきほど)　の　旅程(りょてい)　の　半分(はんぶん)　は　気持ちよく(きもちよく)　ねて　いた。
-The coachman stretched himself, though I am very sure that he had been most comfortably asleep half the last stage. (4) 
+The coachman stretched himself, though I am very sure that he had been most comfortably asleep half the last stage. 
 「おもうに〜」　{思うに〜　142} ["in my view __", "I think __"]: DJG v3 p496. 
 588-20.
 重要なのは目的ではなく、そこに至る道程である。 
 重要(じゅうよう)　な　の　は　目的(もくてき)　で　は　なく、　そこ　に　至る(いたる)　道程(どうてい)　で　ある。
-What's important is not the goal, but the journey. (87)  
+What's important is not the goal, but the journey. 
 
 589-1.
 神聖な林。 
@@ -10047,7 +10034,7 @@ Cows are considered sacred animals in India.
 589-16.
 法王庁のサン・ピエトロ大聖堂の名は聖ペトロのイタリア語読みに由来する。 
 法王庁(ほうおうちょう)　の　サン・ピエトロ　大聖堂(だいせいどう)　の　名(な)　は　聖(せい)　ペトロ　の　イタリア語(ご)　読み(よみ)　に　由来(ゆらい)　する。
-The name of the Basilica di San Pietro in the Vatican comes from the Italian reading for St. Peter. (87)  
+The name of the Basilica di San Pietro in the Vatican comes from the Italian reading for St. Peter. 
 
 590-1.
 丑三つ時。 
@@ -10136,7 +10123,7 @@ The industrial revolution was also a cultural revolution.
 「改革開放」の時代に入った。 
 1978年(ねん)　以来(いらい)、　中国共産党(ちゅうごくきょうさんとう)　は　いわゆる　
 「改革(かいかく)　開放(かいほう)」　の　時代(じだい)　に　入っ(はいっ)た。
-Beginning in 1978, the Communist Party of China entered its period of so-called "Reform and Opening". (101) 
+Beginning in 1978, the Communist Party of China entered its period of so-called "Reform and Opening". 
 「いわゆる〜」 　["so-called  __"]: DJG v3 p172.  
 
 593-1.
@@ -10254,7 +10241,7 @@ As there weren't enough combat boots, the new recruits took boots off the feet o
 593-29.
 あなたはかかとを三回うちあわせて、靴にどこへでも行きたい所へ運べと命令すれば良いだけ。 
 あなた　は　かかと　を　三回(さんかい)　うちあわせて、　靴(くつ)　に　どこ　へ　でも　行き(いき)たい　所(ところ)　へ　運べ(はこべ)　と　命令(めいれい)　すれば　良い(よい)　だけ。
-All you have to do is to knock the heels together three times and command the shoes to carry you wherever you wish to go. (99)  
+All you have to do is to knock the heels together three times and command the shoes to carry you wherever you wish to go. 
 
 594-1.
 旅行鞄をもったよそ者。 
@@ -10275,7 +10262,7 @@ The attendant patiently played with the child.
 594-5.
 私の鞄の中には書類がいっぱい入っている。 
 私(わたし)　の　鞄(かばん)　の　中(なか)　に　は　書類(しょるい)　が　いっぱい　入っ(はいっ)て　いる。
-My briefcase is full of papers. (87)  
+My briefcase is full of papers. 
 
 595-1.
 生皮。 
@@ -10328,12 +10315,12 @@ Peel the apple before you eat it.
 595-13.
 「なるほど」と、かれが皮肉っぽく発言した。 
 「なるほど」　と、　かれ　が　皮肉(ひにく)っぽく　発言(はつげん)　した。 "Ah,
-that makes sense", he commented wryly. (101) 
+that makes sense", he commented wryly. 
 「なるほど」　["indeed"; "Ah, that makes sense."]: DJG v3 p359. 
 595-14.
 行政官の口調にはちょっとした皮肉が込められていた。 
 行政官(ぎょうせいかん)　の　口調(くちょう)　に　は　ちょっとした　皮肉(ひにく)　が　込め(こめ)られて　いた。
-There was a touch of sarcasm in the Magistrate's tone. (101)  
+There was a touch of sarcasm in the Magistrate's tone. 
 
 596-1.
 約束を破る。 
@@ -10370,7 +10357,7 @@ Travel planning was the shipwreck of their romance.
 596-9.
 連合軍の軍隊は、毎週およそ300キロメートルを走破した。 
 連合軍(れんごうぐん)　の　軍隊(ぐんたい)　は、　毎週(まいしゅう)　およそ　300キロメートル　を　走破(そうは)　した。
-The allied troops covered almost 300 kilometers each week. (101) 
+The allied troops covered almost 300 kilometers each week. 
 「およそ〜」　{凡そ〜** 1629} ["generally __"; "roughly __"]: DJG v3 p526.  
 
 597-1.
@@ -10420,7 +10407,7 @@ I’m going to take her home.
 597-12.
 彼女はきみの電話番号知ってるの？ 
 彼女(かのじょ)　は　きみ　の　電話(でんわ)　番号(ばんごう)　知っ(しっ)てる　の？
-Does she know your phone number? (87) 
+Does she know your phone number? 
 「-てる」　[colloquial contraction of -ている: "be __ing"; "have (done) __"]: DJG v1 p155; Genki ch7; Marx v1 day36. 
 597-13.
 部屋のざわめきが彼の注意を引いた。 
@@ -10441,7 +10428,7 @@ He could feel her live warmth beneath his hands.
 597-17.
 彼氏と別れたって昨日言ってなかったっけ？ 
 彼氏(かれし)　と　別れ(わかれ)た　って　昨日(きのう)　言っ(いっ)て　なかった　っけ？
-Didn't you tell me yesterday that you and your boyfriend had broken up? (87) 
+Didn't you tell me yesterday that you and your boyfriend had broken up? 
 「-っけ」　[informal question marker]: DJG v3 p223; Marx v2 day3; Tobira ch15 #14. 
 597-18.
 私が今朝彼女を見た時、彼女は起きていた。 
@@ -10462,7 +10449,7 @@ He felt the rhythm of the verse about him in the room.
 597-22.
 彼は彼女と二人だけになりたくてたまらなかった。 
 彼(かれ)　は　彼女(かのじょ)　と　二人(ふたり)　だけ　に　なりたくて　たまらなかった。
-He longed to be alone with her. (25) 
+He longed to be alone with her. 
 「-てたまらない」　["cannot help/bear __"]: DJG v1 p445, v2 p222 (covered under -てならない). 
 597-23.
 彼女は窓のところへ行き、そこに立ち、外を見ていた。 
@@ -10471,12 +10458,12 @@ She went on to the window and stood there, looking out.
 597-24.
 ただ彼女が自分から彼の方を見るか彼の方へ来てくれたら！ 
 ただ　彼女(かのじょ)　が　自分(じぶん)　から　彼(かれ)　の　方(ほう)　を　見る(みる)　か　彼(かれ)　の　方(ほう)　へ　来(き)て　くれたら！
-If she would only turn to him or come to him of her own accord! (25) 
+If she would only turn to him or come to him of her own accord! 
 「ただ〜」　{只〜* 1194} ["just __", "only __"]: DJG v2 p445. 
 597-25.
 彼女は気長に、ほとんど楽しげに、不安もなく待ち続けた。 
 彼女(かのじょ)　は　気長(きなが)　に、　ほとんど　楽し(たのし)げ　に、　不安(ふあん)　も　なく　待ち続け(まちつづけ)た。
-She waited on patiently, almost cheerfully, without alarm. (15) 
+She waited on patiently, almost cheerfully, without alarm. 
 「-げ」　["__-looking", "__-like"]: Marx v2 day68. 
 597-26.
 あなたは彼女を知らないが、あれは鉄の心を持っています。 
@@ -10610,7 +10597,7 @@ The frequency assigned to this broadcasting station is 1600 kilohertz.
 598-17.
 波止場へ行った時に、彼の所に水夫がやってきて話しかけられた。 
 波止場(はとば)　へ　行っ(いっ)た　時(とき)　に、　彼(かれ)　の　所(ところ)　に　水夫(すいふ)　が　やって　きて　話しかけ(はなしかけ)られた。
-When he went to the wharf he was accosted by a sailor. (7)  
+When he went to the wharf he was accosted by a sailor. 
 
 599-1.
 二次結果。 
@@ -10723,7 +10710,7 @@ The shoe seller seemed disappointed upon hearing the results.
 599-28.
 皮肉にも、彼は結局、彼自身の計画の結果、お金を失った。 
 皮肉(ひにく)　に　も、　彼(かれ)　は　結局(けっきょく)、　彼(かれ)　自身(じしん)　の　計画(けいかく)　の　結果(けっか)、　お金(おかね)　を　失っ(うしなっ)た。
-Ironically, he ended up losing money under his own plan. (101)  
+Ironically, he ended up losing money under his own plan. 
 
 600-1.
 新たに課する。 
@@ -10801,7 +10788,7 @@ Have you ever seen a spider spinning its web?
 601-8.
 私は、とっても、つかれて、もう、これ以上、近くまで、巣を、運んで、行けない。 
 私(わたし)　は、　とっても、　つかれて、　もう、　これ　以上(いじょう)、　近く(ちかく)　まで、　巣(す)　を、　運ん(はこん)で、　行け(いけ)ない。
-I -- am -- too -- tired -- to -- bring -- the nest -- any -- nearer --. (64)  
+I -- am -- too -- tired -- to -- bring -- the nest -- any -- nearer --. 
 
 602-1.
 子供は洋菓子が大好きです。 
@@ -10826,7 +10813,7 @@ It seemed like the confections had been wrapped in newspaper.
 602-6.
 色々な種類のおもちゃや、明るい絵がかかれた紙に包まれたお菓子がありました。 
 色々(いろいろ)　な　種類(しゅるい)　の　おもちゃ　や、　明るい(あかるい)　絵(え)　が　かかれた　紙(かみ)　に　包ま(つつま)れた　お菓子(おかし)　が　ありました。
-There were toys of various fashions and sweets in bright-pictured papers. (29)  
+There were toys of various fashions and sweets in bright-pictured papers. 
 
 603-1.
 無味な茶。 
@@ -10851,7 +10838,7 @@ The whole family dined in the sitting room.
 603-6.
 和菓子にはやっぱり日本茶が合う。 
 和菓子(わがし)　に　は　やっぱり　日本茶(にほんちゃ)　が　合う(あう)。
-Traditional Japanese sweets really do go well with Japanese tea. (87) 
+Traditional Japanese sweets really do go well with Japanese tea. 
 「やはり　/ やっぱり」　{矢張り** 559; 2020} ["as (might be) expected"; "still"]: DJG v1 p538; Marx v2 day4. 
 603-7.
 一定量のお茶が入っている小さな紙バッグ。 
@@ -10880,7 +10867,7 @@ He was a tall young man with a light brown moustache.
 603-13.
 その坂を向うへ下り切ると、又同じような茶店があった。 
 その　坂(さか)　を　向う(むこう)　へ　下り切る(おりきる)　と、　又(また)　同じ(おなじ)　よう　な　茶店(ちゃみせ)　が　あった。
-Climbing up and over the hill brought them to a similar teahouse. (93)  
+Climbing up and over the hill brought them to a similar teahouse. 
 
 604-1.
 6世紀以後。 
@@ -10973,7 +10960,7 @@ His chances of comfort in another world are very small.
 604-23.
 今日、連続する世代の間の通常の年間が30年ほどに近づいている。 
 今日(こんにち)、　連続(れんぞく)　する　世代(せだい)　の　間(あいだ)　の　通常(つうじょう)　の　年間(ねんかん)　が　30年(ねん)　ほど　に　近づい(ちかづい)て　いる。
-Today the normal interval between successive generations is nearing thirty years. (100)  
+Today the normal interval between successive generations is nearing thirty years. 
 
 605-1.
 広葉の。 
@@ -11070,12 +11057,12 @@ The awful cynicism of this remark made everyone uncomfortable.
 605-24.
 私の言葉を覚えておいてくれ、やつのことを聞くことは二度とないよ。 
 私(わたし)　の　言葉(ことば)　を　覚え(おぼえ)て　おいて　くれ、　やつ　の　こと　を　聞く(きく)　こと　は　二度と(にどと)　ない　よ。
-Mark my words, he will never more be heard of. (84) 
+Mark my words, he will never more be heard of. 
 「〜くれ」　{〜呉れ** 1478} [impolite request]: DJG v1 p210. 
 605-25.
 お茶と葉巻が給仕されている間、彼女は図書室で手紙にざっと目を通したりした。 
 お茶(おちゃ)　と　葉巻(はまき)　が　給仕(きゅうじ)　されて　いる　間(あいだ)、　彼女(かのじょ)　は　図書室(としょしつ)　で　手紙(てがみ)　に　ざっと　目(め)　を　通し(とおし)たり　した。
-While the tea and cigars were being served she glanced at some letters in the library. (16) 
+While the tea and cigars were being served she glanced at some letters in the library. 
 「〜-たり〜-たりする」　[partial enumeration of actions/states]: DJG v1 p458; Genki ch11.  
 
 606-1.
@@ -11109,7 +11096,7 @@ The factory decided to do away with the old machinery.
 606-8.
 古い飛行機を廃棄して、部品を売ってしまおう。 
 古い(ふるい)　飛行機(ひこうき)　を　廃棄(はいき)　して、　部品(ぶひん)　を　売っ(うっ)て　しまおう。
-Let's scrap the old airplane and sell the parts. (101)  
+Let's scrap the old airplane and sell the parts. 
 
 607-1.
 常緑低木。 
@@ -11158,12 +11145,12 @@ The grass spread in beautiful green fields before them.
 607-12.
 新鮮な風のおかげで、緑の森まで都市全体を見渡すことができた。 
 新鮮(しんせん)　な　風(かぜ)　の　おかげ　で、　緑(みどり)　の　森(もり)　まで　都市(とし)　全体(ぜんたい)　を　見渡す(みわたす)　こと　が　できた。
-With the fresh wind one could look over the whole city towards the green wood. (98) 
+With the fresh wind one could look over the whole city towards the green wood. 
 「〜おかげ」　{〜お陰* 1311} ["thanks to __"]: DJG v2 p382 (covered under せい); Marx v2 day44; Tobira ch8 #14. 
 607-13.
 お菓子の入れ物は見たところ、ブロンズの物で、緑青におおわれていました。 
 お菓子(おかし)　の　入れ物(いれもの)　は　見(み)た　ところ、　ブロンズ　の　物(もの)　で、　緑青(ろくしょう)　に　おおわれて　いました。
-The sweets container, it appeared to me, was of bronze, and was covered with verdigris. (64) 
+The sweets container, it appeared to me, was of bronze, and was covered with verdigris. 
 「〜ところ」　["when __"]: DJG v2 p500; Marx v2 day46. 
 「おおわれる」　{覆われる　1870} [passive form of おおう　("cover"): "be covered"].  
 
@@ -11230,12 +11217,12 @@ The reader the teacher assigned us is not listed in the library catalog.
 608-16.
 我々が別の時代、別の場所に関して詳しいのは、人々が文字で記録をのこしていたからだ。 
 我々(われわれ)　が　別(べつ)　の　時代(じだい)、　別(べつ)　の　場所(ばしょ)　に関して(にかんして)　詳しい(くわしい)　の　は、　人々(ひとびと)　が　文字(もじ)　で　記録(きろく)　を　のこして　いた　から　だ。
-We know infinitely more about other times and places because people have left textual records. (76)  
+We know infinitely more about other times and places because people have left textual records. 
 
 609-1.
 剥き出しの野心。 
 剥き出し(むきだし)　の　野心(やしん)。
-Naked ambition.  (101) 
+Naked ambition.  
 609-2.
 牛の皮を剥いた尾。 
 牛(うし)　の　皮(かわ)　を　剥い(むい)た　尾(お)。
@@ -11325,7 +11312,7 @@ That process occurs without human intervention.
 611-3.
 千葉さんはめったに魚介類を食べない。 
 千葉(ちば)さん　は　めったに　魚介類(ぎょかいるい)　を　食べ(たべ)ない。
-Chiba-san seldom eats seafood. (87) 
+Chiba-san seldom eats seafood. 
 「めったに〜ない」　{滅多に〜ない　1149; 267} ["seldom __"]: DJG v3 p252. 
 611-4.
 課長は知り合いを介してその地位を得たのだ。 
@@ -11433,7 +11420,7 @@ In the 5th century BC ancient Athens was the world's most powerful and civilized
 612-22.
 矢島さんは映画界にデビューするとすぐに10代の若者の間で人気が出た。 
 矢島(やじま)さん　は　映画界(えいがかい)　に　デビュー　する　と　すぐ　に　10代(だい)　の　若者(わかもの)　の　間(あいだ)　で　人気(にんき)　が　出(で)た。
-Yajima-san became popular among teenagers as soon as he made his debut on the screen. (87)  
+Yajima-san became popular among teenagers as soon as he made his debut on the screen. 
 
 613-1.
 彼の心は浮き立った。 
@@ -11482,7 +11469,7 @@ Produce the lift to support a helicopter in the air.
 613-12.
 私も浮かない顔になりましたよ、だって結局私はその空席を手にする運命じゃなかったと思いましたから。 
 私(わたし)　も　浮か(うか)ない　顔(かお)　に　なりました　よ、　だって　結局(けっきょく)　私(わたし)　は　その　空席(くうせき)　を　手(て)　に　する　運命(うんめい)　じゃ　なかった　と　思い(おもい)ました　から。
-My face lengthened at this, for I thought that I was not to have the vacant seat after all. (4) 
+My face lengthened at this, for I thought that I was not to have the vacant seat after all. 
 「だって〜」　["because __"]: DJG v3 p60.  
 
 614-1.
@@ -11532,7 +11519,7 @@ I expect a subway station will be here in the near future.
 614-12.
 イエズス会士の将軍は、彼の下に幾つかの行政区を持っている。 
 イエズス会士(かいし)　の　将軍(しょうぐん)　は、　彼(かれ)　の　下(もと)　に　幾(いく)つ　か　の　行政区(ぎょうせいく)　を　持っ(もっ)て　いる。
-The general of the Jesuits has several provinces under him. (101)  
+The general of the Jesuits has several provinces under him. 
 
 615-1.
 奨学金を受けている学生。 
@@ -11541,12 +11528,12 @@ A student who holds a scholarship.
 615-2.
 彼女は奨学金のおかげで大学に進学することができた。 
 彼女(かのじょ)　は　奨学金(しょうがくきん)　の　おかげ　で　大学(だいがく)　に　進学(しんがく)　する　こと　が　できた。
-She was able to go to college thanks to the scholarship. (87) 
+She was able to go to college thanks to the scholarship. 
 「〜おかげ」　{〜お陰* 1311} ["thanks to __"]: DJG v2 p382 (covered under せい); Marx v2 day44; Tobira ch8 #14. 
 615-3.
 もし私があなたなら、奨学金の申し込みをするのですが。 
 もし　私(わたし)　が　あなた　なら、　奨学金(しょうがくきん)　の　申し込み(もうしこみ)　を　する　の　です　が。
-If I were you, I would apply for the scholarship. (87)  
+If I were you, I would apply for the scholarship. 
 
 616-1.
 波状運動。 
@@ -11595,7 +11582,7 @@ Beyond Canton a simple warrant would be of no avail.
 616-12.
 だれかが無理してまであなたを手伝ってくれた時にはお礼状を書きなさい。 
 だれ　か　が　無理(むり)　して　まで　あなた　を　手伝っ(てつだっ)て　くれた　時(とき)　に　は　お礼状(れいじょう)　を　書き(かき)　なさい。
-Write a thank-you note when someone goes out of his or her way to help you. (87)  
+Write a thank-you note when someone goes out of his or her way to help you. 
 
 617-1.
 重病。 
@@ -11660,7 +11647,7 @@ The sailor caught a terrible illness from sexual intercourse.
 617-16.
 彼は病み上がりで弱っているそうだ。 
 彼(かれ)　は　病み上がり(やみあがり)　で　弱っ(よわっ)て　いる　そう　だ。
-I heard he was still weak from a recent sickness. (87) 
+I heard he was still weak from a recent sickness. 
 「〜そうだ」　["I heard that __"]: DJG v1 p407; Genki ch17; Marx v2 day70. 
 617-17.
 パン屋は働き過ぎから病気になった。 
@@ -11681,12 +11668,12 @@ Zhu-san shortened his trip due to illness.
 617-21.
 病人にそんなことを言うなんて、彼には思いやりがなかった。 
 病人(びょうにん)　に　そんな　こと　を　言う(いう)　なんて、　彼(かれ)　に　は　思いやり(おもいやり)　が　なかった。
-It was heartless of him to say such a thing to the sick man. (87) 
+It was heartless of him to say such a thing to the sick man. 
 「〜なんて」　["such (things)/such (a thing)"]: DJG v3 p339; Tobira ch4 #3. 
 617-22.
 外交官は、なんカ月も病気であり、それは家族に知られてなかった。 
 外交官(がいこうかん)　は、　なんカ月(かげつ)　も　病気(びょうき)　で　あり、　それ　は　家族(かぞく)　に　知ら(しら)れて　なかった。
-The diplomat had been ill for months, unbeknownst to the family. (101)  
+The diplomat had been ill for months, unbeknownst to the family. 
 
 618-1.
 失読症。 
@@ -11723,17 +11710,17 @@ This sufferer has a case of hypochondria.
 618-9.
 よくこういう症状が起きますか。 
 よく　こういう　症状(しょうじょう)　が　起き(おき)ます　か。
-Do you have this symptom often? (87) 
+Do you have this symptom often? 
 「こういう〜　/ こういった〜」　{こう言う〜　/ こう言った〜　51} ["such __"]: DJG v2 p131; Tobira ch4 #10. 
 618-10.
 必ず同じ病気を発症するわけではない。 
 必ず(かならず)　同じ(おなじ)　病気(びょうき)　を　発症(はっしょう)　する　わけ　で　は　ない。
-It doesn't mean they will develop the same disease. (10) 
+It doesn't mean they will develop the same disease. 
 「〜わけではない」　{〜訳ではない* 1505} ["it is/was not the case that __"]: DJG v2 p574; Tobira ch7 #15. 
 618-11.
 この薬品が高血圧症の人の血圧を下げます。 
 この　薬品(やくひん)　が　高血圧症(こうけつあつしょう)　の　人(ひと)　の　血圧(けつあつ)　を　下げ(さげ)ます。
-It lowers blood pressure in hypertensive individuals. (10)  
+It lowers blood pressure in hypertensive individuals. 
 
 619-1.
 激しい痛み。 
@@ -11822,12 +11809,12 @@ The villain hurt his left foot when he fell.
 619-22.
 痛風は全身に行き渡ることがある。 
 痛風(つうふう)　は　全身(ぜんしん)　に　行き渡る(いきわたる)　こと　が　ある。
-Gout sometimes wanders through the entire body. (101) 
+Gout sometimes wanders through the entire body. 
 「〜ことがある」　{〜事がある* 80} ["__ does occur"]: DJG v1 p198. 
 619-23.
 これらの新しい靴は痛くてたまらない！ 
 これら　の　新(あたら)しい　靴(くつ)　は　痛く(いたく)て　たまらない！
-These new shoes are killing me! (101) 
+These new shoes are killing me! 
 「-てたまらない」　["cannot help/bear __"]: DJG v1 p445, v2 p222 (covered under -てならない). 
 619-24.
 この薬を飲めば痛みが和らぐでしょう。 
@@ -11893,7 +11880,7 @@ I remember seeing her once.
 620-7.
 先生は詩を記憶するように子供に命じた。 
 先生(せんせい)　は　詩(し)　を　記憶(きおく)　する　よう　に　子供(こども)　に　命じ(めいじ)た。
-The teacher charged the children to memorize the poem. (101) 
+The teacher charged the children to memorize the poem. 
 「〜ようにいう」　{〜ように言う　51} ["tell (someone) to __"]: DJG v1 p556; Tobira ch3 #11. 
 620-8.
 私が記憶している限りでは、彼はそんな言葉を言わなかった。 
@@ -11919,7 +11906,7 @@ He was a yellow gutless worm.
 621-5.
 立っていて、戦うにはあまりに臆病な。 
 立っ(たっ)て　いて、　戦う(たたかう)　に　は　あまり　に　臆病(おくびょう)　な。
-Too yellow to stand and fight. (101) 
+Too yellow to stand and fight. 
 「あまりに(も)〜　/ あんまりに(も)〜」　{余りに(も)〜　995} ["too __"]: Tobira ch13 #10. 
 621-6.
 私は彼に面と向かって臆病者と言ってやった。 
@@ -11928,7 +11915,7 @@ I called him a coward to his face.
 621-7.
 米国内戦において、北部のマクレーン大将は全くの臆病者であることで知られる。戦場から部隊を引き上げたことが多かった。 
 米国(べいこく)　内戦(ないせん)　において、　北部(ほくぶ)　の　マクレーン　大将(たいしょう)　は　全く(まったく)　の　臆病者(おくびょうもの)　で　ある　こと　で　知ら(しら)れる。　戦場(せんじょう)　から　部隊(ぶたい)　を　引き上げ(ひきあげ)た　こと　が　多かっ(おおかっ)た。
-In the U.S. Civil War, the North's General McClellan became known for his utter cowardice, having often withdrawn his troops from the scene of battle. (101)  
+In the U.S. Civil War, the North's General McClellan became known for his utter cowardice, having often withdrawn his troops from the scene of battle. 
 
 622-1.
 1億の等しい部分の1部分。 
@@ -11957,7 +11944,7 @@ Upon Japan is spread unequally a population of one hundred and twenty millions o
 622-7.
 米国では、年間の日本アニメの売り上げは2002年で5億ドルだった。 
 米国(べいこく)　で　は、　年間(ねんかん)　の　日本(にほん)　アニメ　の　売り上げ(うりあげ)　は　2002年(ねん)　で　5億(おく)　ドル　だった。
-In the United States, annual anime sales totaled $500 million in 2002. (69)  
+In the United States, annual anime sales totaled $500 million in 2002. 
 
 623-1.
 三色視。 
@@ -12054,7 +12041,7 @@ The requirement is only formal and is often ignored.
 623-24.
 もし物体に光が当たっていなければ、物体から目に投げ返される光もなく、だから、私たちはその存在を視覚的に証明できない。 
 もし　物体(ぶったい)　に　光(ひかり)　が　当たっ(あたっ)て　いなければ、　物体(ぶったい)　から　目(め)　に　投げ返さ(なげかえさ)れる　光(ひかり)　も　なく、　だから、　私(わたし)たち　は　その　存在(そんざい)　を　視覚的(しかくてき)　に　証明(しょうめい)　できない。
-If no light strikes upon them, then no light is flung back from them to the eye, and so we have no vision-evidence of their being. (77) 
+If no light strikes upon them, then no light is flung back from them to the eye, and so we have no vision-evidence of their being. 
 「-なく」　["not __, so __"; "not __, but __"]: DJG v2 p211; Tobira ch2 #15.  
 
 624-1.
@@ -12084,7 +12071,7 @@ According to the Bible, Moses gave the Israelites a code of laws.
 624-7.
 ウェブサイトのサービス利用規約を無視しない人はいない。 
 ウェブサイト　の　サービス　利用(りよう)　規約(きやく)　を　無視(むし)　しない　人(ひと)　は　いない。
-There's no one who doesn't ignore the terms of service on websites. (101)  
+There's no one who doesn't ignore the terms of service on websites. 
 
 625-1.
 鉄則。 
@@ -12140,7 +12127,7 @@ Fitt　の　法則(ほうそく)　は　もっとも　基本的(きほんて�
 625-14.
 彼等の間で行われている規則は彼等にとっては自明で自ずと正当なものと思われるのです。 
 彼等(かれら)　の　間(あいだ)　で　行わ(おこなわ)れて　いる　規則(きそく)　は　彼等(かれら)　に　とって　は　自明(じめい)　で　自(おの)ずと　正当(せいとう)　な　もの　と　思わ(おもわ)れる　の　です。
-The rules which obtain among themselves appear to them self-evident and self-justifying. (62) 
+The rules which obtain among themselves appear to them self-evident and self-justifying. 
 「〜ようにおもわれる　/ 〜とおもわれる」　{〜ように思われる　/ と思われる　142} ["seem(s) __"]: DJG v2 p325; Tobira ch4 #2.  
 
 626-1.
@@ -12214,7 +12201,7 @@ The plane streaked across the far end of the sky.
 626-18.
 両面通行の通りを渡るときには両側を見なければならない。 
 両面(りょうめん)　通行(つうこう)　の　通り(とおり)　を　渡る(わたる)　とき　に　は　両側(りょうがわ)　を　見(み)なければ　ならない。
-You have to look both ways crossing a two-way street. (101)  
+You have to look both ways crossing a two-way street. 
 
 627-1.
 測定単位。 
@@ -12392,7 +12379,7 @@ She spends more time thinking about work than doing it.
 628-28.
 そういう人々は、動物の肉体を見て、神の手が作った機械だと考えるだろう。 
 そういう　人々(ひとびと)　は、　動物(どうぶつ)　の　肉体(にくたい)　を　見(み)て、　神(かみ)　の　手(て)　が　作っ(つくっ)た　機械(きかい)　だ　と　考える(かんがえる)　だろう。
-Such persons will see animals’ bodies as machines made by the hands of God. (28) 
+Such persons will see animals’ bodies as machines made by the hands of God. 
 「そういう〜　/ そういった〜」　{そう言う〜　/ そう言った〜　51} ["such __"]: DJG v2 p131; Tobira ch4 #10. 
 628-29.
 そして私は、この国が緑に溢れて美しいので、エメラルドの都とよぼうと考えた。 
@@ -12409,7 +12396,7 @@ Such a man will look after himself and will look after his chums.
 628-32.
 最近の証拠では、らんまプロジェクトの会員たちはちょっとちがった考え方で行動していたらしい。 
 最近(さいきん)　の　証拠(しょうこ)　で　は、　らんま　プロジェクト　の　会員(かいいん)たち　は　ちょっと　ちがった　考え方(かんがえかた)　で　行動(こうどう)　して　いた　らしい。
-Recent evidence suggests that members of the Ranma Project operated along a slightly different line of thought. (69)  
+Recent evidence suggests that members of the Ranma Project operated along a slightly different line of thought. 
 
 629-1.
 老人学の専門家。 
@@ -12454,7 +12441,7 @@ The old lady passed by without a sound.
 629-11.
 菓子屋は年の割には老けて見える。 
 菓子屋(かしや)　は　年(とし)　の　割(わり)　に　は　老け(ふけ)て　見える(みえる)。
-The confectioner looks old for his age. (87) 
+The confectioner looks old for his age. 
 「〜わりに(は)」　{〜割に(は) / 〜割りに(は) 416} ["considering __", "for (a) __"]: DJG v3 p697. 
 629-12.
 市の長老たちはその申し出を支持した。 
@@ -12467,7 +12454,7 @@ The vicars were surrounded by men, women and children, believers of all ages.
 629-14.
 緑さんが老年男性と付き合っているのを知っていましたか？ 
 緑さん　が　老年(ろうねん)　男性(だんせい)　と　付き合(つきあ)って　いる　の　を　知っ(しっ)て　いました　か？
-Did you know that Midori is seeing an older man? (101)  
+Did you know that Midori is seeing an older man? 
 
 630-1.
 不孝者。 
@@ -12549,7 +12536,7 @@ Over-rich desserts.
 631-17.
 濃厚な黒っぽい英国産エール。 
 濃厚(のうこう)　な　黒っぽい(くろっぽい)　英国産(えいこくさん)　エール。
-A strong dark English ale. (100) 
+A strong dark English ale. 
 「-っぽい」　[" __like"]: DJG v2 p337; Marx v2 day68. 
 631-18.
 他の人の厚意を利用するたかり屋。 
@@ -12570,7 +12557,7 @@ Thick lenses exaggerated the size of the doctor’s eyes.
 631-22.
 それに、自分が厚意を受けた男に話しかけたくもなかった。 
 それに、　自分(じぶん)　が　厚意(こうい)　を　受け(うけ)た　男(おとこ)　に　話しかけ(はなしかけ)たく　も　なかった。
-Besides, he did not quite like to talk to the man whose favors he had accepted. (7) 
+Besides, he did not quite like to talk to the man whose favors he had accepted. 
 「それに〜」　{其れに〜** 1757} ["in addition, __"]: DJG v2 p427; Tobira ch3 #4.  
 
 632-1.
@@ -12660,7 +12647,7 @@ The vicars emphasized the importance of education.
 632-22.
 むしろ性教育の必要性が高まっている。 
 むしろ　性教育(せいきょういく)　の　必要性(ひつようせい)　が　高まっ(たかまっ)て　いる。
-On the contrary, the need for sex education is increasing. (10) 
+On the contrary, the need for sex education is increasing. 
 「むしろ」　["rather"]: DJG v3 p295; Marx v2 day56. 
 632-23.
 先生は、教室から子供たちを連れ出した。 
@@ -12669,7 +12656,7 @@ The teacher took the children out of the classroom.
 632-24.
 ちなみに私の住所もお教えしておきましょう。 
 ちなみに　私(わたし)　の　住所(じゅうしょ)　も　お教え(おしえ)　して　おきましょう。
-And a propos, you should have my address. (84) 
+And a propos, you should have my address. 
 「ちなみに〜」　{因みに〜** 1725} ["incidentally __"]: DJG v3 p40. 
 632-25.
 私は4年間ネイティブの先生に英語を教わった。 
@@ -12694,7 +12681,7 @@ The peasants have been taught to accept things as they are.
 632-30.
 若者を連れて行き、彼等に悪習を教えるのは日通常であった。 
 若者(わかもの)　を　連れ(つれ)て　行き(いき)、　彼等(かれら)　に　悪習(あくしゅう)　を　教える(おしえる)　の　は　日(にち)　通常(つうじょう)　で　あった。
-It was common practice to lead off the young ones, and teach them bad habits. (101)  
+It was common practice to lead off the young ones, and teach them bad habits. 
 
 633-1.
 完成品。 
@@ -12779,7 +12766,7 @@ The papers were like some watches, which have a way of running too fast, and had
 633-21.
 そういった場合にはいつも、行動しその結果を引き受けるという、法的かつ社会的な完全な自由があるべきなのです。 
 そういった　場合(ばあい)　に　は　いつも、　行動(こうどう)　し　その　結果(けっか)　を　引き受ける(ひきうける)　という、　法的(ほうてき)　かつ　社会的(しゃかいてき)　な　完全(かんぜん)　な　自由(じゆう)　が　ある　べき　な　の　です。
-In all such cases there should be perfect freedom, legal and social, to do the action and stand the consequences. (62) 
+In all such cases there should be perfect freedom, legal and social, to do the action and stand the consequences. 
 「そういう〜　/ そういった〜」　{そう言う〜　/ そう言った〜　51} ["such __"]: DJG v2 p131; Tobira ch4 #10. 
 「かつ」　{且つ* 263} ["and"]: DJG v3 p209.  
 
@@ -12842,7 +12829,7 @@ Professor Hu taught a course at the graduate school on learning and memory.
 634-15.
 血圧が高過ぎたので、母は入院しなければならなかった。 
 血圧(けつあつ)　が　高過ぎ(たかすぎ)た　ので、　母(はは)　は　入院(にゅういん)　しなければ　ならなかった。
-Mother had to be hospitalized because her blood pressure was too high. (101)  
+Mother had to be hospitalized because her blood pressure was too high. 
 
 635-1.
 私は京都か奈良に住みたい。 
@@ -12884,7 +12871,7 @@ Paul's name was Saul prior to his conversion to Christianity.
 636-7.
 国およびその機関は、宗教教育その他いかなる宗教的活動もしてはならない。 
 国(くに)　および　その　機関(きかん)　は、　宗教(しゅうきょう)　教育(きょういく)　その　他(た)　いかなる　宗教的(しゅうきょうてき)　活動(かつどう)　も　して　は　ならない。
-The State and its organs shall refrain from religious education or any other religious activity.  (19) 
+The State and its organs shall refrain from religious education or any other religious activity.  
 「および」　{及び* 1760} ["and"]: DJG v3 p521. 
 「いかなる〜」　{如何なる〜** 2197; 815} ["any __"]: DJG v3 p132.  
 
@@ -12899,7 +12886,7 @@ Festal occasions.
 637-3.
 全てはお祭りのようでした。 
 全て(すべて)　は　お祭り(まつり)　の　よう　でした。
-Everything had a festive look. (98) 
+Everything had a festive look. 
 「〜ようだ」　["looks like __"; "seems (that) __"]: DJG v1 p547; Marx v2 day66. 
 637-4.
 日本では、秋に行う祭りが多い。 
@@ -12916,12 +12903,12 @@ The whole occasion had a carnival atmosphere.
 637-7.
 町の神社のお神輿は、祭りの日に限って見える。 
 町(まち)　の　神社(じんじゃ)　の　お神輿(おみこし)　は、　祭り(まつり)　の　日(ひ)　に　限っ(かぎっ)て　見える(みえる)。
-Our neighborhood shrine's mikoshi can only be seen on the festival day. (29) 
+Our neighborhood shrine's mikoshi can only be seen on the festival day. 
 「〜にかぎって」　{〜に限って　282} ["only (this one) of all (its group)"]: DJG v2 p250. 
 637-8.
 オリンピック聖火リレーは毎回ギリシャから出発し、古代祭礼からはじまる。 
 オリンピック　聖火(せいか)　リレー　は　毎回(まいかい)　ギリシャ　から　出発(しゅっぱつ)　し、古代(こだい)　祭礼(さいれい)　から　はじまる。
-The Olympic Torch Relay always departs from Greece, and begins with an ancient ritual. (64)  
+The Olympic Torch Relay always departs from Greece, and begins with an ancient ritual. 
 
 638-1.
 窓際族。 
@@ -12983,7 +12970,7 @@ This is just like the way he was actually killed.
 638-15.
 火事の際は、119番に電話して下さい。 
 火事(かじ)　の　際(さい)　は、　119番(ばん)　に　電話(でんわ)　して　下さい(ください)。
-In case of fire, please dial 119. (87) 
+In case of fire, please dial 119. 
 「〜さい(に)」　{〜際に　638} ["on the occasion of __", "when __"]: DJG v2 p369. 
 638-16.
 美奈子さんは友人との交際を楽しんだ。 
@@ -13032,12 +13019,12 @@ It would be better to make this text stand out from the rest by making it bright
 638-27.
 実際には次元は4つあって、その内3つは我々が空間の3方向とよぶ物で、4つめが時間です。 
 実際(じっさい)　に　は　次元(じげん)　は　4つ　あって、　その　内(うち)　3つ　は　我々(われわれ)　が　空間(くうかん)　の　3方向(ほうこう)　と　よぶ　物(もの)　で、　4つめ　が　時間(じかん)　です。
-There are really four dimensions, three which we call the three planes of Space, and a fourth, Time. (89)  
+There are really four dimensions, three which we call the three planes of Space, and a fourth, Time. 
 
 639-1.
 察が来た、ずらかれ！ 
 察(さつ)　が　来(き)た、　ずらかれ！
-Here come the police. Let's get out of here. (87) 
+Here come the police. Let's get out of here. 
 「Imperative verb ending」　: DJG v1 p577 & 579 right column, v2 p70; Marx v1 day28 ("-E form verbs"). 
 639-2.
 彼は来月中国へ視察旅行に出かけます。 
@@ -13054,7 +13041,7 @@ He winced at the detected flicker of irony in her voice.
 639-5.
 人類の運命について考察するうちに、このフィクションを思いついたのだと思って下さい。 
 人類(じんるい)　の　運命(うんめい)　について　考察(こうさつ)　する　うち　に、　この　フィクション　を　思いつい(おもいつい)た　の　だ　と　思っ(おもっ)て　下さい(ください)。
-Consider I have been speculating upon the destinies of our kind until I have hatched this fiction. (89) 
+Consider I have been speculating upon the destinies of our kind until I have hatched this fiction. 
 「〜うちに」　{〜内に* 215} ["while __", "before __ ends"]: DJG v1 p512; Tobira ch4 #16.  
 
 640-1.
@@ -13157,7 +13144,7 @@ My grandmother is always complaining of the cold.
 641-16.
 コンスタンティン一世は、コンスタンチノープルの名祖である。 
 コンスタンティン　一世(いっせい)　は、　コンスタンチノープル　の　名祖(めいそ)　で　ある。
-Constantine I is the eponym for Constantinople. (101)  
+Constantine I is the eponym for Constantinople. 
 
 642-1.
 友好的な助言。 
@@ -13182,7 +13169,7 @@ The most helpful assistant.
 642-6.
 教える際の視覚的な助け。 
 教える(おしえる)　際(さい)　の　視覚的(しかくてき)　な　助け(たすけ)。
-Visual assistance in teaching. (101) 
+Visual assistance in teaching. 
 「〜さい(に)」　{〜際に　638} ["on the occasion of __", "when __"]: DJG v2 p369. 
 642-7.
 彼が必ず多くの人を助ける。 
@@ -13199,7 +13186,7 @@ It is his nature to help others.
 642-10.
 助けが必要なら、大声を出せ。 
 助け(たすけ)　が　必要(ひつよう)　なら、　大声(おおごえ)　を　出せ(だせ)。
-When you need help, holler. (90) 
+When you need help, holler. 
 「Imperative verb ending」　: DJG v1 p577 & 579 right column, v2 p70; Marx v1 day28 ("-E form verbs"). 
 642-11.
 今夜はきみの助けが必要になる。 
@@ -13216,7 +13203,7 @@ Help me and I will help you.
 642-14.
 これらのいわゆる専門家は助けにならない。 
 これら　の　いわゆる　専門家(せんもんか)　は　助け(たすけ)　に　ならない。
-These so-called experts are no help. (101) 
+These so-called experts are no help. 
 「いわゆる〜」 　["so-called  __"]: DJG v3 p172. 
 642-15.
 あなたが手伝ってくれれば私は本当に助かる。 
@@ -13229,7 +13216,7 @@ She goes farthest in helping us.
 642-17.
 お前の命を助ければ、またスパイに来るかも知れぬでな。 
 お前(おまえ)　の　命(いのち)　を　助けれ(たすけれ)ば、　また　スパイ　に　来る(くる)　か　も　知れ(しれ)ぬ　で　な。
-If I spare your life you may come spying again. (86) 
+If I spare your life you may come spying again. 
 「-ぬ」　["not __"]: DJG v2 p315; Tobira ch11 #14. 
 642-18.
 父はいつも
@@ -13248,7 +13235,7 @@ If he slays thee whom have I to help me in my old age?
 642-21.
 かかしは新品同様になり、助けてくれてありがとうとなん度もお礼を言っていました。 
 かかし　は　新品(しんぴん)　同様(どうよう)　に　なり、　助け(たすけ)て　くれて　ありがとう　と　なん度(ど)　も　お礼(おれい)　を　言っ(いっ)て　いました。
-Here was the Scarecrow, as good as new, thanking them over and over again for saving him. (99)  
+Here was the Scarecrow, as good as new, thanking them over and over again for saving him. 
 
 643-1.
 飲み仲間。 
@@ -13309,7 +13296,7 @@ One eye was blue but its fellow was brown.
 643-15.
 ライオンは、こんなに臆病なくせにとてもよい仲間だった。 
 ライオン　は、　こんなに　臆病(おくびょう)　な　くせ　に　とても　よい　仲間(なかま)　だった。
-The Lion was a very good comrade for one so cowardly. (99) 
+The Lion was a very good comrade for one so cowardly. 
 「〜くせに」　{〜癖に　1468} ["__ and yet"]: DJG v2 p155; Marx v2 day12; Tobira ch7 #13. 
 643-16.
 人魚と子供たちが仲良しだったなんて考えてはいけません。 
@@ -13330,7 +13317,7 @@ The second reason was that he considered his companions beneath him.
 643-20.
 お前、ジョン・シルバー、長いこと仲間だったが、もうわしの仲間じゃねぇ。 
 お前(おまえ)、　ジョン・シルバー、　長い(ながい)　こと　仲間(なかま)　だった　が、　もう　わし　の　仲間(なかま)　じゃ　ねぇ。
-As for you, John Silver, long you've been a mate of mine, but you're mate of mine no more. (90) 
+As for you, John Silver, long you've been a mate of mine, but you're mate of mine no more. 
 「ねえ　/ ねぇ」　[vulgar pronunciation of ない].  
 
 644-1.
@@ -13388,7 +13375,7 @@ These three children had a faithful nurse called Nana.
 644-14.
 セレブリティ・ホーム・エンターテイメントは、日本のオリジナルに忠実であろうなどとは一切思わなかった。 
 セレブリティ・ホーム・エンターテイメント　は、　日本(にほん)　の　オリジナル　に　忠実(ちゅうじつ)　で　あろう　など　と　は　一切(いっさい)　思わ(おもわ)なかった。
-Celebrity Home Entertainment made no attempt to be faithful to the Japanese original. (69) 
+Celebrity Home Entertainment made no attempt to be faithful to the Japanese original. 
 「〜などと」　{〜等と* 393} [paraphrase]: DJG v2 p197.  
 
 645-1.
@@ -13426,7 +13413,7 @@ Cozumel is a popular resort off the northeastern tip of the Yucatan peninsula.
 645-9.
 はるか、沖合へ出てみますと、海の水は、およそ美しいやぐるまぎくの花びらのように青い。 
 はるか、　沖合(おきあい)　へ　出(で)て　みます　と、　海(うみ)　の　水(みず)　は、　およそ　美しい(うつくしい)　やぐるまぎく　の　花びら(はなびら)　の　よう　に　青い(あおい)。
-Far out at sea the water is as blue as the bluest cornflower. (87)  
+Far out at sea the water is as blue as the bluest cornflower. 
 
 646-1.
 目の保養。 
@@ -13503,7 +13490,7 @@ Some cookies are stored indefinitely on users' hard drives.
 646-19.
 元首はその国家を保とうとすれば、しばしば悪行をせざるを得ないのです。 
 元首(げんしゅ)　は　その　国家(こっか)　を　保と(たもと)う　と　すれば、　しばしば　悪行(あくぎょう)　を　せざる　を　得(え)ない　の　です。
-A sovereign wishing to keep his state is very often forced to do evil. (67) 
+A sovereign wishing to keep his state is very often forced to do evil. 
 「-ざるをえない」　{-ざるを得ない* 387} ["have no choice but to __"]: DJG v2 p606.  
 
 647-1.
@@ -13586,7 +13573,7 @@ His punctuality is well known.
 648-14.
 住民はただ見守ることしかできなかった。 
 住民(じゅうみん)　は　ただ　見守る(みまもる)　こと　しか　できなかった。
-The residents could do nothing but watch. (87) 
+The residents could do nothing but watch. 
 「ただ〜」　{只〜* 1194} ["just __", "only __"]: DJG v2 p445. 
 648-15.
 彼女はピストルを持って自分の身を守った。 
@@ -13599,7 +13586,7 @@ All members need to observe these rules.
 648-17.
 私は今夜子供たちの子守りをすることになっています。 
 私(わたし)　は　今夜(こんや)　子供(こども)たち　の　子守り(こもり)　を　する　こと　に　なって　います。
-I am supposed to babysit the children tonight. (87) 
+I am supposed to babysit the children tonight. 
 「〜ことになる」　{〜事になる* 80} ["be decided that __"]: DJG v1 p202; Marx v2 day80; Tobira ch3 #7&10.  
 
 649-1.
@@ -13637,7 +13624,7 @@ The princess's handmaiden put the bedding out to dry.
 649-9.
 いっしょに祈る家族は団結する。 
 いっしょ　に　祈る(いのる)　家族(かぞく)　は　団結(だんけつ)　する。
-The family that prays together stays together. (101) 
+The family that prays together stays together. 
 「いっしょに」　{一緒に　2; 1450} ["together"]: DJG v3 p97 (covered under どうし). 
 649-10.
 すぐに団子屋の角を右に曲がる。 
@@ -13680,12 +13667,12 @@ At that time, I lived in a housing complex about 15 minutes away by bus.
 「場所」にいるということは、ある特定の集団、社会、文化の中にいるということでもある。 
 ある　人間(にんげん)　が　ある　
 「場所(ばしょ)」　に　いる　という　こと　は、　ある　特定(とくてい)　の　集団(しゅうだん)、　社会(しゃかい)、　文化(ぶんか)　の　中(なか)　に　いる　という　こと　でも　ある。
-For a human being to exist in a "place", however, also means to exist in a particular community, society, and culture. (76) 
+For a human being to exist in a "place", however, also means to exist in a particular community, society, and culture. 
 「〜ということは」　{〜と言うことは* / 〜と言う事は** 51; 80} [presents preceding clause as the subject of the sentence: "that __"]: DJG v2 p480; Marx v2 day18. 
 649-20.
 1979年には、もうSF活動とは完全に独立した運動となったファンや集団は、animeという用語をつかうようになっていた。 
 1979年(ねん)　に　は、　もう
-SF　活動(かつどう)　と　は　完全(かんぜん)　に　独立(どくりつ)　した　運動(うんどう)　と　なった　ファン　や　集団(しゅうだん)　は、　anime　という　用語(ようご)　を　つかう　よう　に　なって　いた。 By 1979, fans and clubs, who had recently established an independent identity from the science fiction movement, began using the term anime. (69) 
+SF　活動(かつどう)　と　は　完全(かんぜん)　に　独立(どくりつ)　した　運動(うんどう)　と　なった　ファン　や　集団(しゅうだん)　は、　anime　という　用語(ようご)　を　つかう　よう　に　なって　いた。 By 1979, fans and clubs, who had recently established an independent identity from the science fiction movement, began using the term anime. 
 「〜ようになる」　["reach the point where __"]: DJG v1 p559; Marx v2 day72; Tobira ch2 #11.  
 
 650-1.
@@ -13791,7 +13778,7 @@ His style of painting was a reaction against cubism.
 650-26.
 私に関する限り、その計画には反対ではありません。 
 私(わたし)　に関する(にかんする)　限り(かぎり)、　その　計画(けいかく)　に　は　反対(はんたい)　で　は　ありません。
-As far as I'm concerned, I have no objection to the plan. (87) 
+As far as I'm concerned, I have no objection to the plan. 
 「〜かぎり」　["as long as __"; "unless__"]: Tobira ch9 #14. 
 650-27.
 彼女は私たちから道の対角線の向こうに住んでいる。 
@@ -13804,12 +13791,12 @@ The School Superintendent is notorious for his meticulous attention to rules and
 650-29.
 新聞の反対にも関わらず、労働組合はストを決行した。 
 新聞(しんぶん)　の　反対(はんたい)　に　も　関わら(かかわら)ず、　労働(ろうどう)　組合(くみあい)　は　スト　を　決行(けっこう)　した。
-Despite opposition from the newspapers, the labor union went ahead with the strike. (101) 
+Despite opposition from the newspapers, the labor union went ahead with the strike. 
 「〜にもかかわらず」　{〜にも関わらず　451} ["although __"]: DJG v2 p257; Tobira ch9 #15. 
 650-30.
 美奈子さんは作法の原則に対して、細かいことにまでこだわる。 
 美奈子(みなこ)さん　は　作法(さほう)　の　原則(げんそく)　に対して(にたいして)、　細かい(こまかい)　こと　に　まで　こだわる。
-Minako is punctilious in her attention to rules of etiquette. (101) 
+Minako is punctilious in her attention to rules of etiquette. 
 「〜にたいして　/ 〜にたいし」　{〜に対して　/ 〜に対し　650} ["toward __"; "(as) against __"]: DJG v2 p275; Tobira ch9 #13. 
 650-31.
 先見の明がある父は、彼の子供たちへの教育に対して計画を立てる。 
@@ -13824,7 +13811,7 @@ Kuroki-san showed no consideration for her feelings.
 「フリーソフト」に対する興味をかきたてることになった。 
 これ　は　企業(きぎょう)　世界(せかい)　で　の　
 「フリー　ソフト」　に対する(にたいする)　興味(きょうみ)　を　かきたてる　こと　に　なった。
-This excited more interest in 'free software' within the corporate world. (41) 
+This excited more interest in 'free software' within the corporate world. 
 「〜ことになる」　{〜事になる* 80} ["end up that __"]: DJG v2 p140; Marx v2 day73. 
 
 651-1.
@@ -13882,7 +13869,7 @@ Entering the village, electric light spilled from the houses on either side of t
 651-14.
 ネロは、なにも食べていなくて体は弱っていましたが、できるだけ元気を出して、村に引き返しました。 
 ネロ　は、　なに　も　食べ(たべ)て　いなくて　体(からだ)　は　弱っ(よわっ)て　いました　が、　できる　だけ　元気(げんき)　を　出し(だし)て、　村(むら)　に　引き返し(ひきかえし)ました。
-Nello rallied himself as best he could, for he was weak from fasting, and retraced his steps to the village. (29) 
+Nello rallied himself as best he could, for he was weak from fasting, and retraced his steps to the village. 
 「できるだけ〜」　["as __ as possible", "as much as possible __"]: Marx v2 day4.  
 
 652-1.
@@ -13900,7 +13887,7 @@ Scintillating wit.
 652-4.
 彼はおよそ30才である。 
 彼(かれ)　は　およそ　30才(さい)　で　ある。
-He's about 30 years old. (101) 
+He's about 30 years old. 
 「およそ〜」　{凡そ〜** 1629} ["generally __"; "roughly __"]: DJG v3 p526. 
 652-5.
 教育を受けていない天才。 
@@ -13925,7 +13912,7 @@ Da Vinci was a versatile personage who mastered many fields.
 652-10.
 一番年上が六才で、一番小さいのがたぶん二才くらいでしょう。 
 一番(いちばん)　年上(としうえ)　が　六才(ろくさい)　で、　一番(いちばん)　小(ちい)さい　の　が　たぶん　二才(にさい)　くらい　でしょう。
-The eldest was perhaps six years old, the youngest probably not more than two. (98)  
+The eldest was perhaps six years old, the youngest probably not more than two. 
 
 653-1.
 私有財産。 
@@ -13942,7 +13929,7 @@ A very large treasure.
 653-4.
 財布を返せ。 
 財布(さいふ)　を　返せ(かえせ)。
-Give me back my wallet. (87) 
+Give me back my wallet. 
 「Imperative verb ending」　: DJG v1 p577 & 579 right column, v2 p70; Marx v1 day28 ("-E form verbs"). 
 653-5.
 主要な財源。 
@@ -14023,7 +14010,7 @@ A foundation set up for the public benefit.
 653-24.
 村松さんはきっと一財産を成すに決まっている。 
 村松(むらまつ)さん　は　きっと　一財産(ひとざいさん)　を　成す(なす)　に　決まっ(きまっ)て　いる。
-Muramatsu-san is bound to make a fortune. (87) 
+Muramatsu-san is bound to make a fortune. 
 「〜にきまっている」　{〜に決まっている　330} ["be bound to __"]: DJG v3 p395. 
 653-25.
 宿屋の主人は苦労して働いて財産を貯めた。 
@@ -14036,12 +14023,12 @@ I lost my wallet; this was during the visit to my parents' house.
 653-27.
 財産を取り上げる口実が見つからないということは決してないのです。 
 財産(ざいさん)　を　取り上げる(とりあげる)　口実(こうじつ)　が　見つから(みつから)ない　という　こと　は　決して(けっして)　ない　の　です。
-Pretexts for taking away the property are never wanting. (67) 
+Pretexts for taking away the property are never wanting. 
 「〜ということは」　{〜と言うことは* / 〜と言う事は** 51; 80} [presents preceding clause as the subject of the sentence: "that __"]: DJG v2 p480; Marx v2 day18. 
 653-28.
 彼らの国には金銀が満ち、その財宝は限りない。また彼らの国には馬が満ち、その戦車も限りない。 
 彼ら(かれら)　の　国(くに)　に　は　金銀(きんぎん)　が　満ち(みち)、　その　財宝(ざいほう)　は　限り(かぎり)　ない。　また　彼ら(かれら)　の　国(くに)　に　は　馬(うま)　が　満ち(みち)、　その　戦車(せんしゃ)　も　限り(かぎり)　ない。
-Their land also is full of silver and gold, neither is there any end of their treasures; their land is also full of horses, neither is there any end of their chariots. (48)  
+Their land also is full of silver and gold, neither is there any end of their treasures; their land is also full of horses, neither is there any end of their chariots. 
 
 654-1.
 節の多い松材。 
@@ -14066,7 +14053,7 @@ A machine that trims timber.
 654-6.
 紙は木材からできている。 
 紙(かみ)　は　木材(もくざい)　から　できて　いる。
-Paper is made from wood. (87) 
+Paper is made from wood. 
 「〜からできる」　{〜から出来る　38; 274} ["be made from __"]: Tobira ch1 #1. 
 654-7.
 丸太や材木を切るための工場。 
@@ -14095,7 +14082,7 @@ The White House press corps does important news gathering work every day.
 654-13.
 昨日私たちはその機材でちょっとしたトラブルがあった。 
 昨日(きのう)　私(わたし)たち　は　その　機材(きざい)　で　ちょっとした　トラブル　が　あった。
-We had a little trouble with the equipment yesterday. (87)  
+We had a little trouble with the equipment yesterday. 
 
 655-1.
 日が沈む前に。 
@@ -14148,7 +14135,7 @@ me’, she said bluely.
 655-13.
 株式市場は予測できない浮き沈みがあります。 
 株式(かぶしき)　市場(しじょう)　は　予測(よそく)　できない　浮き沈み(うきしずみ)　が　あります。
-The stock market has unpredictable ups and downs. (100)  
+The stock market has unpredictable ups and downs. 
 
 656-1.
 枕と毛布を下さい。 
@@ -14175,7 +14162,7 @@ She reclined her head on the pillow.
 「sleeper」とよぶ。 
 英国人(えいこくじん)　は　枕木(まくらぎ)　を　
 「sleeper」　と　よぶ。
-Britons call a railroad tie a "sleeper". (101)  
+Britons call a railroad tie a "sleeper". 
 
 657-1.
 丈夫な体。 
@@ -14216,12 +14203,12 @@ A hardy brown breed of dairy cattle grazed on the pasture.
 657-10.
 最も丈夫である動物だけが寒い冬を生存しました。 
 最も(もっとも)　丈夫(じょうぶ)　で　ある　動物(どうぶつ)　だけ　が　寒い(さむい)　冬(ふゆ)　を　生存(せいぞん)　しました。
-Only the fittest animals survived the cold winters. (101)  
+Only the fittest animals survived the cold winters. 
 
 658-1.
 転ばぬ先の杖。 
 転ば(ころば)ぬ　先(さき)　の　杖(つえ)。
-A stitch in time saves nine. (87) 
+A stitch in time saves nine. 
 「-ぬ」　["not __"]: DJG v2 p315; Tobira ch11 #14. 
 658-2.
 シルバーは松葉杖を持ち上げて出て行った。 
@@ -14234,12 +14221,12 @@ We heard the tapping of the old man's bamboo cane.
 658-4.
 松葉杖の若い女性は野村さんに住んでいるところを聞いた。 
 松葉杖(まつばづえ)　の　若い(わかい)　女性(じょせい)　は　野村(のむら)さん　に　住ん(すん)で　いる　ところ　を　聞い(きい)た。
-A young woman on crutches asked Nomura-san where he lived. (87)  
+A young woman on crutches asked Nomura-san where he lived. 
 
 659-1.
 偉がりは止めてくれ。 
 偉(えら)がり　は　止め(やめ)て　くれ。
-Cut the bragging. (100) 
+Cut the bragging. 
 「-がる」　[have or express a feeling; pretend]: DJG v1 p123; Marx v2 day63. 
 「〜くれ」　{〜呉れ** 1478} [impolite request]: DJG v1 p210. 
 659-2.
@@ -14269,7 +14256,7 @@ He fancies himself a great poet.
 659-8.
 木村さんは、偉大な音楽家になる運命にあった。 
 木村(きむら)さん　は、　偉大(いだい)　な　音楽家(おんがくか)　に　なる　運命(うんめい)　に　あった。
-Kimura-san was destined to become a great musician. (101)  
+Kimura-san was destined to become a great musician. 
 
 660-1.
 北緯23度付近。 
@@ -14311,7 +14298,7 @@ The Eastern European countries lack weapons for self-defense.
 661-7.
 私が先をどうするか、完全にあなたの自己防衛の性質によるでしょうね。 
 私(わたし)　が　先(さき)　を　どう　する　か、　完全(かんぜん)　に　あなた　の　自己(じこ)　防衛(ぼうえい)　の　性質(せいしつ)　に　よる　でしょう　ね。
-What my next step may be will depend entirely upon the nature of your own defence. (2)  
+What my next step may be will depend entirely upon the nature of your own defence. 
 
 662-1.
 韓国の手工芸品。 
@@ -14338,7 +14325,7 @@ The state-owned Korea Electric Power Corp (KEPCO) is focused on atomic power gen
 「ダエ・ハン・ミン・グック」と発音する。 
 韓国(かんこく)　の　正式名(せいしきめい)　は　大韓民国(だいかんみんこく)　で、　韓国語(かんこくご)　で　
 「ダエ・ハン・ミン・グック」　と　発音(はつおん)　する。
-South Korea's official name is the Republic of Korea, which in Korean is pronounced Dae-Han-Min-Guk. (100)  
+South Korea's official name is the Republic of Korea, which in Korean is pronounced Dae-Han-Min-Guk. 
 
 663-1.
 違法な取引。 
@@ -14411,7 +14398,7 @@ Nomura-san is not what he seems.
 663-18.
 作者は、間違いなく天才だ。 
 作者(さくしゃ)　は、　間違い(まちがい)なく　天才(てんさい)　だ。
-The author has genius, certainly. (98) 
+The author has genius, certainly. 
 「まちがいなく」　{間違いなく　448; 663} ["unmistakably"]: DJG v3 p750 (covered under ずにはおかない); Marx v2 day3. 
 663-19.
 音楽の好みは人によって違う。 
@@ -14436,7 +14423,7 @@ I know him under a different name.
 663-24.
 間違いなく、彼女も察したんだ。 
 間違い(まちがい)なく、　彼女(かのじょ)　も　察し(さっし)た　ん　だ。
-It is certain that she too has surmised it. (8) 
+It is certain that she too has surmised it. 
 「まちがいなく」　{間違いなく　448; 663} ["unmistakably"]: DJG v3 p750 (covered under ずにはおかない); Marx v2 day3. 
 663-25.
 重要な違いは見つからなかった。 
@@ -14481,7 +14468,7 @@ There are situations in which the experts disagree.
 663-35.
 野村大臣は今韓国にいるに違いない。 
 野村(のむら)　大臣(だいじん)　は　今(いま)　韓国(かんこく)　に　いる　に　違い(ちがい)ない。
-There's no doubt Minister Nomura is in South Korea at the moment. (101) 
+There's no doubt Minister Nomura is in South Korea at the moment. 
 「〜にちがいない」　{〜に違いない　663} ["no doubt __"]: DJG v1 p304; Tobira ch5 #10. 
 663-36.
 彼は間違いなく私を助けてくれるでしょう。 
@@ -14530,7 +14517,7 @@ As the coach drove by us I sensed a gaze through the closed window.
 663-47.
 私たち5人の中で、間違いなく彼女が一番多くの言語を話せる。 
 私(わたし)たち　5人(にん)　の　中(なか)　で、　間違い(まちがい)なく　彼女(かのじょ)　が　一番(いちばん)　多く(おおく)　の　言語(げんご)　を　話せる(はなせる)。
-Among the five of us, she, without a doubt, speaks the most languages. (87)  
+Among the five of us, she, without a doubt, speaks the most languages. 
 
 664-1.
 反感を抱く。 
@@ -14581,7 +14568,7 @@ It seems like the majority of great Japanese writers have been interested in Eng
 664-12.
 吉村さんは社長のお抱えの運転手としてなん年もずっと働いている。 
 吉村(よしむら)さん　は　社長(しゃちょう)　の　お抱え(おかかえ)　の　運転手(うんてんしゅ)　として　なん年(ねん)　も　ずっと　働い(はたらい)て　いる。
-Yoshimura-san has been working as the CEO's chauffeur for years. (87)  
+Yoshimura-san has been working as the CEO's chauffeur for years. 
 
 665-1.
 重砲。 
@@ -14655,7 +14642,7 @@ The champagne poured frothily into the glasses.
 666-7.
 仲人は自分のやったことが全て水の泡になったことに気づいた。 
 仲人(なこうど)　は　自分(じぶん)　の　やった　こと　が　全て(すべて)　水の泡(みずのあわ)　に　なった　こと　に　気づい(きづい)た。
-The go-between found all his efforts of no avail. (87)  
+The go-between found all his efforts of no avail. 
 
 667-1.
 丹念に調べる。 
@@ -14689,7 +14676,7 @@ The boat skimmed swiftly over a smooth sea.
 668-6.
 この小舟が手出しを好まないことは明らかだった。 
 この　小舟(こぶね)　が　手出し(てだし)　を　好ま(このま)ない　こと　は　明(あき)らか　だった。
-This skiff, it was plain she was not to be interfered with. (90) 
+This skiff, it was plain she was not to be interfered with. 
 「こと」　{事　80} [nominalizer]: DJG v1 p193. 
 668-7.
 ぐるぐる回ってしまうのがその舟のお得意だった。 
@@ -14698,7 +14685,7 @@ Turning round and round was the manoeuvre the boat was best at.
 668-8.
 段々なれてきて、波の合間で小舟を左右し、時々白波をぶつけたり、顔に水の泡をあびたりもした。 
 段々(だんだん)　なれて　きて、　波(なみ)　の　合間(あいま)　で　小舟(こぶね)　を　左右(さゆう)　し、　時々(ときどき)　白波(しらなみ)　を　ぶつけたり、　顔(かお)　に　水の泡(みずのあわ)　を　あびたり　も　した。
-Gradually I got into the way of the thing and guided my little boat among the waves, with only now and then a blow from a whitecap and a dash of foam in my face. (90)  
+Gradually I got into the way of the thing and guided my little boat among the waves, with only now and then a blow from a whitecap and a dash of foam in my face. 
 
 669-1.
 英国海軍の船。 
@@ -14755,7 +14742,7 @@ The child popped the balloon.
 669-14.
 船はできるだけ後方に進んだ。 
 船(ふね)　は　できる　だけ　後方(こうほう)　に　進ん(すすん)だ。
-The ship went hard astern. (101) 
+The ship went hard astern. 
 「できるだけ〜」　["as __ as possible", "as much as possible __"]: Marx v2 day4. 
 669-15.
 タンカーは船底に穴があいた。 
@@ -14788,7 +14775,7 @@ All hands were already congregated at the bow.
 669-22.
 その一方で他の全員は船を進水し船出して行った。 
 その　一方(いっぽう)　で　他(ほか)　の　全員(ぜんいん)　は　船(ふね)　を　進水(しんすい)　し　船出(ふなで)　して　行っ(いっ)た。
-Meanwhile the rest launched their ships and sailed away. (86) 
+Meanwhile the rest launched their ships and sailed away. 
 「いっぽう(で)」　{一方(で) 2; 173} ["while"]: DJG v3 p149; Tobira ch9 #4. 
 669-23.
 船長は火薬を運んでいる連中に声をかけ続けていた。 
@@ -14817,17 +14804,17 @@ The little mermaid swam right up to the cabin windows.
 669-29.
 そうしている間にも、船長は防衛の計画をしっかりと決めた。 
 そう　して　いる　間(あいだ)　に　も、　船長(せんちょう)　は　防衛(ぼうえい)　の　計画(けいかく)　を　しっかり　と　決め(きめ)た。
-While this was going on, the captain completed the plan of defence. (90) 
+While this was going on, the captain completed the plan of defence. 
 「そうして」　["like this"]: DJG v2 p131. 
 669-30.
 船室の窓はまだ開いており、テーブルの上の灯火は昼になっても灯っていた。 
 船室(せんしつ)　の　窓(まど)　は　まだ　開い(ひらい)て　おり、　テーブル　の　上(うえ)　の　灯火(ともしび)　は　昼(ひる)　に　なって　も　灯っ(ともっ)て　いた。
-With the cabin window still gaping open and the lamp over the table still burning on into the day. (90) 
+With the cabin window still gaping open and the lamp over the table still burning on into the day. 
 「-ており」　[written equivalent of verbal connective -ていて]: DJG v2 p329 & 64 of front matter if unclear about -ていて. 
 669-31.
 私は自分の計画を船長に話し、2人で実行に際しての細かいところまで決めた。 
 私(わたし)　は　自分(じぶん)　の　計画(けいかく)　を　船長(せんちょう)　に　話し(はなし)、　2人(ふたり)　で　実行(じっこう)　に際して(にさいして)　の　細かい(こまかい)　ところ　まで　決め(きめ)た。
-I told my plan to the captain, and between us we settled on the details of its accomplishment. (90) 
+I told my plan to the captain, and between us we settled on the details of its accomplishment. 
 「〜さい(に)」　{〜際に　638} ["on the occasion of __", "when __"]: DJG v2 p369.  
 
 670-1.
@@ -14895,7 +14882,7 @@ ASCII　文字(もじ)　セット　は　最も(もっとも)　一般的(い�
 「アナログ時計」とはレトロニムだ。 
 デジタル　時計(とけい)　が　一般的(いっぱんてき)　に　なる　まで　は、　アナログ　時計(とけい)　と　耳(みみ)　に　する　もの　は　いなかった。　な　ので、　
 「アナログ　時計(とけい)」　と　は　レトロニム　だ。
-Nobody ever heard of analog clocks until digital clocks became common, so 'analog clock' is a retronym. (101)  
+Nobody ever heard of analog clocks until digital clocks became common, so 'analog clock' is a retronym. 
 
 672-1.
 材木運搬車。 
@@ -14924,7 +14911,7 @@ After this, Imamura-san was taken to the hospital.
 672-7.
 「組み立てライン」とは、一連の作業を行いながら品物を搬送する工場の機械システムのことを意味する。 
 「組み立て(くみたて)　ライン」　と　は、　一連(いちれん)　の　作業(さぎょう)　を　行い(おこない)ながら　品物(しなもの)　を　搬送(はんそう)　する　工場(こうじょう)　の　機械(きかい)　システム　の　こと　を　意味(いみ)　する。
-An "assembly line" is a mechanical system in a factory whereby an article is conveyed through sites at which successive operations are performed on it. (100)  
+An "assembly line" is a mechanical system in a factory whereby an article is conveyed through sites at which successive operations are performed on it. 
 
 673-1.
 底盤。 
@@ -14973,7 +14960,7 @@ The Premier advanced from an early period of placating her base to a later perio
 673-12.
 ファンネットワークなしには、ADVは全く市場基盤を持てなかっただろう。 
 ファン　ネットワーク　なし　に　は、
-ADV　は　全く(まったく)　市場(しじょう)　基盤(きばん)　を　持て(もて)なかった　だろう。 Without the fan network, ADV would have had no market base whatsoever. (69)  
+ADV　は　全く(まったく)　市場(しじょう)　基盤(きばん)　を　持て(もて)なかった　だろう。 Without the fan network, ADV would have had no market base whatsoever. 
 
 674-1.
 乳歯。 
@@ -15026,7 +15013,7 @@ I was very interested in the soft texture of the food.
 674-13.
 上村課長は、大きな機械の小さな歯車に過ぎない。 
 上村(うえむら)　課長(かちょう)　は、　大(おお)きな　機械(きかい)　の　小(ちい)さな　歯車(はぐるま)　に　過ぎ(すぎ)ない。
-Section Chief Uemura is but a small cog in a large machine. (101) 
+Section Chief Uemura is but a small cog in a large machine. 
 「〜にすぎない」　{〜に過ぎない　464} ["be merely __"]: DJG v2 p245 & 271; Marx v2 day36. 
 674-14.
 彼はピン歯車を回し、Goのところで矢印を止めた。 
@@ -15051,7 +15038,7 @@ Since she got her braces, I've hardly seen her smile.
 674-19.
 大きな歯を持つクシで三回すけば、それで完成しているのだった。 
 大(おお)きな　歯(は)　を　持つ(もつ)　クシ　で　三回(さんかい)　すけば、　それ　で　完成(かんせい)　して　いる　の　だった。
-Three strokes of a large-tooth comb completed his toilet. (7)  
+Three strokes of a large-tooth comb completed his toilet. 
 
 675-1.
 冷たい飲み物。 
@@ -15084,7 +15071,7 @@ Last night, the temperature went down to ten degrees below zero.
 675-8.
 スープが冷めないうちに飲んでね。 
 スープ　が　冷め(さめ)ない　うち　に　飲ん(のん)で　ね。
-Eat your soup before it gets cold. (87) 
+Eat your soup before it gets cold. 
 「〜うちに」　{〜内に* 215} ["while __", "before __ ends"]: DJG v1 p512; Tobira ch4 #16. 
 675-9.
 彼が思わず、掌に冷や汗をかいた。 
@@ -15124,7 +15111,7 @@ Of indeterminate age.
 676-2.
 老齢は苦労するもんだ。 
 老齢(ろうれい)　は　苦労(くろう)　する　もん　だ。
-Old age is not for sissies. (101) 
+Old age is not for sissies. 
 「もん」　[colloquial contraction of もの]. 
 「〜もの(だ)」　[emphasis on a particular situation]: DJG v1 p257. 
 676-3.
@@ -15138,7 +15125,7 @@ He is twice as old as she is.
 676-5.
 彼の年齢にしては背が高い。 
 彼(かれ)　の　年齢(ねんれい)　に　して　は　背(せ)　が　高い(たかい)。
-He’s tall for his age. (101) 
+He’s tall for his age. 
 「〜にしては」　["for (a) __"]: DJG v1 p309; Marx v2 day82. 
 676-6.
 彼女はもう学齢になっていた。 
@@ -15155,7 +15142,7 @@ The percentage of elderly was especially high.
 676-9.
 村人は年齢の割に老けて見える。 
 村人(むらびと)　は　年齢(ねんれい)　の　割(わり)　に　老け(ふけ)て　見える(みえる)。
-The villagers look old for their age. (87) 
+The villagers look old for their age. 
 「〜わりに(は)」　{〜割に(は) / 〜割りに(は) 416} ["considering __", "for (a) __"]: DJG v3 p697. 
 676-10.
 長男は自動車を運転できる年齢だ。 
@@ -15164,7 +15151,7 @@ My oldest boy is old enough to drive a car.
 676-11.
 定年の年齢をずいぶん過ぎても、財政家はまだ仕事をしている。 
 定年(ていねん)　の　年齢(ねんれい)　を　ずいぶん　過ぎ(すぎ)て　も、　財政家(ざいせいか)　は　まだ　仕事(しごと)　を　して　いる。
-Though well past retirement age, the financier is still working. (101)  
+Though well past retirement age, the financier is still working. 
 
 677-1.
 多少若い。 
@@ -15177,7 +15164,7 @@ A dab of paint.
 677-3.
 供給は少ない。 
 供給(きょうきゅう)　は　少ない(すくない)。
-Supplies are low. (101) 
+Supplies are low. 
 「すくない」　{少ない　677} ["few"; "little"]: DJG v1 p427. 
 677-4.
 品行の悪い少年。 
@@ -15242,7 +15229,7 @@ Murayama-san is bit of an alcoholic.
 677-19.
 村松さんは多少太ったみたい。 
 村松(むらまつ)さん　は　多少(たしょう)　太っ(ふとっ)た　みたい。
-Muramatsu-san seems to have picked up a few pounds. (101) 
+Muramatsu-san seems to have picked up a few pounds. 
 「〜みたい(だ)」　["(is) like __"; "seems like __"]: DJG v3 p105 (covered under 〜ごとし); Genki ch17; Marx v2 day69. 
 677-20.
 母親は時々ワインを少し飲む。 
@@ -15267,7 +15254,7 @@ She was sipping her tea.
 677-25.
 彼は要するに口数の少ない男であった。 
 彼(かれ)　は　要するに(ようするに)　口数(くちかず)　の　少ない(すくない)　男(おとこ)　で　あった。
-He was, in short, an incommunicative man. (7) 
+He was, in short, an incommunicative man. 
 「ようするに〜」　{要するに〜　547} ["in sum, __"]: DJG v2 p541 (covered under つまり〜). 
 677-26.
 ほんの少数の人しかその事実を知らない。 
@@ -15280,7 +15267,7 @@ Today there were the fewest birds in recent memory.
 677-28.
 ブログで少しずつ今後の結果を知らせます。 
 ブログ　で　少し(すこし)ずつ　今後(こんご)　の　結果(けっか)　を　知らせ(しらせ)ます。
-I'll announce the results bit by bit on my blog. (10) 
+I'll announce the results bit by bit on my blog. 
 「-させる」　[causing/permitting]: DJG v1 p387; Genki ch22; Marx v2 day8. 
 677-29.
 持ち主は私の財布の中身が少ないことを知っていた。 
@@ -15297,7 +15284,7 @@ Back then a girl's education was less important than a boy's.
 677-32.
 彼女は両親に少なくとも1週間に1度手紙をかきました。 
 彼女(かのじょ)　は　両親(りょうしん)　に　少なくとも(すくなくとも)　1週間(しゅうかん)　に　1　度(ど)　手紙(てがみ)　を　かきました。
-She wrote to her parents at least once a week. (87) 
+She wrote to her parents at least once a week. 
 「-ようとも　/ -くとも」　["even if __", "no matter __"]: DJG v2 p507. 
 「すくなくとも〜」　{少なくとも〜　677} ["at least __"]: DJG v2 p383 (covered under せめて〜); Tobira ch15 #1. 
 677-33.
@@ -15331,7 +15318,7 @@ The boys’ merchandise sold very well, but almost no one was interested in the 
 677-40.
 私たちは子供や法が成人男女と定めた年齢以下の青少年のことを語っているのではありません。 
 私(わたし)たち　は　子供(こども)　や　法(ほう)　が　成人(せいじん)　男女(だんじょ)　と　定め(さだめ)た　年齢(ねんれい)　以下(いか)　の　青少年(せいしょうねん)　の　こと　を　語っ(かたっ)て　いる　の　で　は　ありません。
-We are not speaking of children, or of young persons below the age which the law may fix as that of manhood or womanhood. (62)  
+We are not speaking of children, or of young persons below the age which the law may fix as that of manhood or womanhood. 
 
 678-1.
 大きな粒の砂。 
@@ -15364,7 +15351,7 @@ The watchdog heard the crunch of footsteps on the gravel path.
 678-8.
 彼を起こすのは簡単じゃないと見こんでいたから、あなたの話に出た小石の山から砂利を集め、窓に向かって投げつけた。 
 彼(かれ)　を　起こす(おこす)　の　は　簡単(かんたん)　じゃ　ない　と　見(み)こんで　いた　から、　あなた　の　話(はなし)　に　出(で)た　小石(こいし)　の　山(やま)　から　砂利(じゃり)　を　集め(あつめ)、窓(まど)　に　向かっ(むかっ)て　投げつけ(なげつけ)た。
-I foresaw the difficulty of arousing him, so I gathered some gravel from the pile which you have mentioned, and I used it to throw up to his window. (2)  
+I foresaw the difficulty of arousing him, so I gathered some gravel from the pile which you have mentioned, and I used it to throw up to his window. 
 
 679-1.
 進歩的な学校。 
@@ -15437,7 +15424,7 @@ The jarring noise of the iron gate scraping on the sidewalk.
 679-18.
 すす黒いネコが屋根を歩いていた。 
 すす黒い(くろい)　ネコ　が　屋根(やね)　を　歩い(あるい)て　いた。
-A soot-black cat walked along the roof. (46) 
+A soot-black cat walked along the roof. 
 「〜を」　[indicates space of motion]: DJG v1 p349. 
 679-19.
 長女の進歩ぶりに満足しています。 
@@ -15462,7 +15449,7 @@ Recent advances in medicine are eye-opening.
 679-24.
 歩行者が歩けるように作った公共の場所。 
 歩行者(ほこうしゃ)　が　歩ける(あるける)　よう　に　作っ(つくっ)た　公共(こうきょう)　の　場所(ばしょ)。
-A public area set aside as a pedestrian walk. (100) 
+A public area set aside as a pedestrian walk. 
 「〜ように」　["so that __"]: DJG v1 p553; Marx v2 day71; Tobira ch4 #6. 
 679-25.
 彼女は、冷たい空気の中元気良く歩いた。 
@@ -15499,7 +15486,7 @@ His legs are so frail that he can not walk at all.
 679-33.
 そこで、彼女は身につけて持ち歩かないと考えてよかろう。 
 そこで、　彼女(かのじょ)　は　身(み)　に　つけて　持ち歩か(もちあるか)ない　と　考え(かんがえ)て　よかろう。
-We may take it, then, that she does not carry it about with her. (4) 
+We may take it, then, that she does not carry it about with her. 
 「そこで〜」　{其処で〜** 1757; 553} ["(and) so __"]: DJG v2 p401 & 405; Tobira ch9 #8. 
 「-かろう」　["probably __"]: DJG v2 p106. 
 679-34.
@@ -15513,7 +15500,7 @@ The boy, with a pang at his heart, went on without pausing.
 679-36.
 歩いて回ってあらゆる視点から詳しく調べたが、他に重要なことには気づかなかった。 
 歩い(あるい)て　回っ(まわっ)て　あらゆる　視点(してん)　から　詳しく(くわしく)　調べ(しらべ)た　が、　他(ほか)　に　重要(じゅうよう)　な　こと　に　は　気づか(きづか)なかった。
-I walked round it and examined it closely from every point of view, but without noting anything else of interest. (4)  
+I walked round it and examined it closely from every point of view, but without noting anything else of interest. 
 
 680-1.
 組合交渉。 
@@ -15591,7 +15578,7 @@ This program significantly streamlines input.
 681-9.
 私が送った人生を省みると、色んな過ちが頭に浮かぶ。 
 私(わたし)　が　送っ(おくっ)た　人生(じんせい)　を　省みる(かえりみる)　と、　色んな(いろんな)　過ち(あやまち)　が　頭(あたま)　に　浮かぶ(うかぶ)。
-When I look back on the life I have lived, so many different mistakes come to mind. (100)  
+When I look back on the life I have lived, so many different mistakes come to mind. 
 
 682-1.
 首相代理。 
@@ -15694,7 +15681,7 @@ You've got a nerve to say such a thing!
 「C」は相殺されるだろう。 
 「A」　を　取る(とる)　こと　で　あなた　が　取っ(とっ)た　
 「C」　は　相殺(そうさい)　される　だろう。
-The 'A' will cancel out the 'C' on your record. (101) 
+The 'A' will cancel out the 'C' on your record. 
 「〜ことで」　{〜事で* 80} ["by virtue of __"]: DJG v2 p137. 
 682-26.
 安倍首相は会見で
@@ -15705,7 +15692,7 @@ At an interview, Prime Minister Abe was grilled on the "Abenomics" policy.
 682-27.
 多くのお金を相続したので、彼女はどんな仕事も決してしなかった。 
 多く(おおく)　の　お金(おかね)　を　相続(そうぞく)　した　ので、　彼女(かのじょ)　は　どんな　仕事(しごと)　も　決して(けっして)　しなかった。
-She never did any work because she inherited a lot of money. (101)  
+She never did any work because she inherited a lot of money. 
 
 683-1.
 高尚な理想。 
@@ -15782,7 +15769,7 @@ She is a writer of true memorability of phrase.
 683-19.
 私がそういった感想を持ちました。 
 私(わたし)　が　そういった　感想(かんそう)　を　持ち(もち)ました。
-I had that kind of impression. (10) 
+I had that kind of impression. 
 「そういう〜　/ そういった〜」　{そう言う〜　/ そう言った〜　51} ["such __"]: DJG v2 p131; Tobira ch4 #10. 
 683-20.
 彼女は空想しながら窓の外を見た。 
@@ -15803,7 +15790,7 @@ A fantastic idea of his own importance.
 683-24.
 想い沈むような、測りがたい目色だった。 
 想い沈む(おもいしずむ)　よう　な、　測り(はかり)がたい　目色(めいろ)　だった。
-Her eyes were wistful and unfathomable. (42) 
+Her eyes were wistful and unfathomable. 
 「-がたい」　{-難い* 712} ["un__able"]: DJG v2 p50. 
 683-25.
 課長は、予想以上に不完全な仕事をした。 
@@ -15832,12 +15819,12 @@ The innkeeper asked what impression she had of Kyoto at night.
 683-31.
 思想の自由が必要なのは、偉大な思想家をつくるためだけというわけではありません。 
 思想(しそう)　の　自由(じゆう)　が　必要(ひつよう)　な　の　は、　偉大(いだい)　な　思想家(しそうか)　を　つくる　ため　だけ　という　わけ　で　は　ありません。
-It is not merely to form great thinkers that freedom of thinking is required. (62) 
+It is not merely to form great thinkers that freedom of thinking is required. 
 「〜わけではない」　{〜訳ではない* 1505} ["it is/was not the case that __"]: DJG v2 p574; Tobira ch7 #15. 
 683-32.
 生後5ヶ月の時に、なんの命令を受けずに想念が彼の心の中で起こるようになりました。 
 生後(せいご)　5ヶ月(かげつ)　の　時(とき)、　なん　の　命令(めいれい)　を　受(う)けず　に　想念(そうねん)　が　彼(かれ)　の　心(こころ)　の　中(なか)　で　起こる(おこる)　よう　に　なりました。
-When he was five months old, thoughts came to arise in his mind independently of any instruction. (12) 
+When he was five months old, thoughts came to arise in his mind independently of any instruction. 
 「〜ようになる」　["reach the point where __"]: DJG v1 p559; Marx v2 day72; Tobira ch2 #11.  
 
 684-1.
@@ -15899,7 +15886,7 @@ Alhambra was commonly called the "City of God".
 「医者」は、いかなる種類の学位も持たない。 
 自称(じしょう)　
 「医者(いしゃ)」　は、　いかなる　種類(しゅるい)　の　学位(がくい)　も　持た(もた)ない。
-The self-styled 'doctor' has no degree of any kind. (101) 
+The self-styled 'doctor' has no degree of any kind. 
 「いかなる〜」　{如何なる〜** 2197; 815} ["any __"]: DJG v3 p132. 
 684-15.
 カソリック教の信者はイエスの母を聖母マリアと称する。 
@@ -15908,7 +15895,7 @@ Catholic believers refer to the mother of Jesus as the Virgin Mary.
 684-16.
 アポロを称えるため、古代ギリシャ人は4年ごとのオリュンピア紀の3年目にデルフィで集った。 
 アポロ　を　称え(たたえ)る　ため、　古代(こだい)　ギリシャ人(じん)　は　4年(ねん)　ごと　の　オリュンピア　紀(き)　の　3年(ねん)　目(め)　に　デルフィ　で　集っ(つどっ)た。
-In honor of Apollo, the ancient Greeks gathered at Delphi every four years in the third year of the Olympiad. (100)  
+In honor of Apollo, the ancient Greeks gathered at Delphi every four years in the third year of the Olympiad. 
 
 685-1.
 弥生式土器の地味な色調。 
@@ -15921,7 +15908,7 @@ Already a few idle onlookers had gathered.
 685-3.
 弥次馬が歩道の上から一つの窓を見つめていた。 
 弥次馬(やじうま)　が　歩道(ほどう)　の　上(うえ)　から　一つ(ひとつ)　の　窓(まど)　を　見つめ(みつめ)て　いた。
-The idle onlookers seated on the sidewalk all stared up at a particular window. (3)  
+The idle onlookers seated on the sidewalk all stared up at a particular window. 
 
 686-1.
 相互作用。 
@@ -16010,7 +15997,7 @@ The two parties agreed not to interfere in each other’s business.
 686-22.
 私たち、まるで未知の島に取りのこされたみたいな感覚があって、それ故に互いに親しくならなければいけないように感じたんだ。 
 私(わたし)たち、　まるで　未知(みち)　の　島(しま)　に　取り(とり)のこされた　みたい　な　感覚(かんかく)　が　あって、　それ　故に(ゆえに)　互いに(たがいに)　親しく(したしく)　ならなければ　いけない　よう　に　感じ(かんじ)た　ん　だ。
-We were reduced to our own devices, as though upon an unknown island, and obliged, therefore, to make friends with one another. (8) 
+We were reduced to our own devices, as though upon an unknown island, and obliged, therefore, to make friends with one another. 
 「〜ゆえに」　{〜故に* 257} ["therefore", "because of __"]: DJG v3 p745.  
 
 687-1.
@@ -16140,7 +16127,7 @@ Now that my grandfather is old, it is my duty to look after him.
 687-32.
 丹羽さんが業務アプリケーションの作成方法を学習しています。 
 丹羽(たんば)さん　が　業務(ぎょうむ)　アプリケーション　の　作成(さくせい)　方法(ほうほう)　を　学習(がくしゅう)　して　います。
-Tanba-san is learning how to make business applications. (10)  
+Tanba-san is learning how to make business applications. 
 
 688-1.
 柔道の有段者。 
@@ -16197,7 +16184,7 @@ The bread will soften if you pour some liquid on it.
 688-14.
 みんな同じ、柔らかいのに強い絹状の材質を身にまとっていました。 
 みんな　同じ(おなじ)、　柔らかい(やわらかい)　の　に　強い(つよい)　絹状(きぬじょう)　の　材質(ざいしつ)　を　身(み)　に　まとって　いました。
-All were clad in the same soft and yet strong, silky material. (89)  
+All were clad in the same soft and yet strong, silky material. 
 
 689-1.
 軟骨魚類。 
@@ -16234,7 +16221,7 @@ Mrs. Murakami is known for her lamb-like gentleness.
 689-9.
 糸、テープ、フィルムその他の柔軟な材質の物を巻き付ける巻取り機。 
 糸(いと)、　テープ、　フィルム　その　他(た)　の　柔軟(じゅうなん)　な　材質(ざいしつ)　の　物(もの)　を　巻き付ける(まきつける)　巻取り機(まきとりき)。
-A winder around which thread or tape or film or other flexible materials can be wound. (100)  
+A winder around which thread or tape or film or other flexible materials can be wound. 
 
 690-1.
 無限軌道の車。 
@@ -16300,7 +16287,7 @@ They took each other's hand, and at that moment the door of one of the houses op
 691-11.
 午後の間にそうした家を数軒通り過ぎましたし、時には人々が戸口まで出てきて、なにか聞きたそうにこちらを見ています。 
 午後(ごご)　の　間(あいだ)　に　そうした　家(いえ)　を　数軒(すうけん)　通り過ぎ(とおりすぎ)ました　し、　時には(ときには)　人々(ひとびと)　が　戸口(とぐち)　まで　出(で)て　きて、　なに　か　聞き(きき)たそう　に　こちら　を　見(み)て　います。
-They passed by several of these houses during the afternoon, and sometimes people came to the doors and looked at them as if they would like to ask questions. (99) 
+They passed by several of these houses during the afternoon, and sometimes people came to the doors and looked at them as if they would like to ask questions. 
 「そうした〜」　["such __"]: DJG v2 p131.  
 
 692-1.
@@ -16326,7 +16313,7 @@ Turn on a pivot.
 692-6.
 車軸に油をさすのに用いられる濃い油。 
 車軸(しゃじく)　に　油(あぶら)　を　さす　の　に　用い(もちい)られる　濃い(こい)　油(あぶら)。
-A thick heavy grease used to lubricate axles. (100)  
+A thick heavy grease used to lubricate axles. 
 
 693-1.
 比較言語学。 
@@ -16363,7 +16350,7 @@ The teacher compared my poem with one of his.
 693-9.
 牛乳は比較的低温で保存する必要がある。 
 牛乳(ぎゅうにゅう)　は　比較的(ひかくてき)　低温(ていおん)　で　保存(ほぞん)　する　必要(ひつよう)　が　ある。
-Milk has to be kept at a relatively low temperature. (87)  
+Milk has to be kept at a relatively low temperature. 
 
 694-1.
 在庫品。 
@@ -16404,7 +16391,7 @@ The garage served to shelter his horses.
 694-10.
 この店は大量のハードウェアの在庫を抱えている。 
 この　店(みせ)　は　大量(たいりょう)　の　ハードウェア　の　在庫(ざいこ)　を　抱え(かかえ)て　いる。
-This store carries a vast inventory of hardware. (101)  
+This store carries a vast inventory of hardware. 
 
 695-1.
 貯蔵肉。 
@@ -16457,7 +16444,7 @@ Alcoholize the fruit and let them sit in the refrigerator.
 695-13.
 宝の埋蔵場所を蓮さんに話したのは間違いだと思った。 
 宝(たから)　の　埋蔵(まいぞう)　場所(ばしょ)　を　蓮(れん)さん　に　話し(はなし)た　の　は　間違い(まちがい)　だ　と　思っ(おもっ)た。
-I thought it was a mistake to tell Ren where we buried the treasure. (87)  
+I thought it was a mistake to tell Ren where we buried the treasure. 
 
 696-1.
 倉庫に預ける。 
@@ -16474,12 +16461,12 @@ They were putting the powder and the arms in the fore hold.
 696-4.
 トラック運転手、おかかえ運転手、および倉庫労働者らの産業別労働組合。 
 トラック　運転手(うんてんしゅ)、　おかかえ　運転手(うんてんしゅ)、　および　倉庫(そうこ)　労働者(ろうどうしゃ)ら　の　産業別(さんぎょうべつ)　労働(ろうどう)　組合(くみあい)。
-An industrial union of truck drivers and chauffeurs and warehouse workers. (100) 
+An industrial union of truck drivers and chauffeurs and warehouse workers. 
 「および」　{及び* 1760} ["and"]: DJG v3 p521. 
 696-5.
 バーレーンは、紀元前2千年からアラビアとインドの間の取引の倉庫であった。 
 バーレーン　は、　紀元前(きげんぜん)　2千(せん)　年(ねん)　から　アラビア　と　インド　の　間(あいだ)　の　取引(とりひき)　の　倉庫(そうこ)　で　あった。
-Bahrain has been an entrepot of trade between Arabia and India since the second millennium BC. (101)  
+Bahrain has been an entrepot of trade between Arabia and India since the second millennium BC. 
 
 697-1.
 創作の天才。 
@@ -16524,7 +16511,7 @@ The facts were familiar but it was in the organization of them that he was origi
 697-11.
 彼らは自力でこうしたものを創り出し、当時は世界でもっとも偉大で強力な民族だったのです。 
 彼ら(かれら)　は　自力(じりき)　で　こうした　もの　を　創り出し(つくりだし)、　当時(とうじ)　は　世界(せかい)　で　もっとも　偉大(いだい)　で　強力(きょうりょく)　な　民族(みんぞく)　だった　の　です。
-They made themselves all this, and were then the greatest and most powerful nations of the world. (62) 
+They made themselves all this, and were then the greatest and most powerful nations of the world. 
 「こうした〜」　["such __"]: DJG v2 p130.  
 
 698-1.
@@ -16586,7 +16573,7 @@ I'll give you a piece of advice.
 698-15.
 ずるいわ、告げ口なんかして！ 
 ずるい　わ、　告げ口(つげぐち)　なんか　して！
-Sneaky tell-tale!  (64) 
+Sneaky tell-tale!  
 「〜なんか」　["such (things)/such (a thing)"]: DJG v3 p341 (covered under 〜なんて). 
 698-16.
 少年は父親の忠告を無視した。 
@@ -16635,7 +16622,7 @@ Do you have anything to declare?
 698-27.
 彼女は彼に食べ過ぎないように忠告した。 
 彼女(かのじょ)　は　彼(かれ)　に　食べ過ぎ(たべすぎ)ない　よう　に　忠告(ちゅうこく)　した。
-She advised him not to eat too much. (87) 
+She advised him not to eat too much. 
 「〜ようにいう」　{〜ように言う　51} ["tell (someone) to __"]: DJG v1 p556; Tobira ch3 #11. 
 698-28.
 広告を見て私は新しい冷蔵庫を買う気になった。 
@@ -16664,7 +16651,7 @@ The Queen turned to the mice and told them to go at once and get all her subject
 698-34.
 外に顔を出す前、自動的に働いてくれるぼくの五感は、そこになにもないと告げていた。 
 外(そと)　に　顔(かお)　を　出す(だす)　前(まえ)、　自動的(じどうてき)　に　働い(はたらい)て　くれる　ぼく　の　五感(ごかん)　は、　そこ　に　なに　も　ない　と　告げ(つげ)て　いた。
-Before thrusting out my head, my senses, automatically active, had told me there was nothing there. (77)  
+Before thrusting out my head, my senses, automatically active, had told me there was nothing there. 
 
 699-1.
 造花。 
@@ -16773,12 +16760,12 @@ These are the generations of the heavens and of the earth when they were created
 699-27.
 主なる神は人から取ったあばら骨で一人の女を造り、人のところへ連れてこられた。 
 主(しゅ)　なる　神(かみ)　は　人(ひと)　から　取っ(とっ)た　あばら骨(あばらぼね)　で　一人(ひとり)　の　女(おんな)　を　造り(つくり)、　人(ひと)　の　ところ　へ　連れ(つれ)て　こられた。
-And the rib, which the Lord God had taken from man, made he a woman, and brought her unto the man. (33) 
+And the rib, which the Lord God had taken from man, made he a woman, and brought her unto the man. 
 「Irregular verb: くる」　: DJG v1 p578-79.
 699-28.
 神は大空を造って、大空の下の水と大空の上の水とを分けられた。そのようになった。 
 神(かみ)　は　大空(おおぞら)　を　造っ(つくっ)て、　大空(おおぞら)　の　下(した)　の　水(みず)　と　大空(おおぞら)　の　上(うえ)　の　水(みず)　と　を　分け(わけ)られた。　その　よう　に　なった。
-And God made the firmament, and divided the waters which were under the firmament from the waters which were above the firmament: and it was so. (33) 
+And God made the firmament, and divided the waters which were under the firmament from the waters which were above the firmament: and it was so. 
 「〜ようになる」　["reach the point where __"]: DJG v1 p559; Marx v2 day72; Tobira ch2 #11. 
 699-29.
 国家の教育機関において、創世記に語れる創造の神話を教えることは憲法違反である。 

@@ -24,58 +24,123 @@ lines := 0
 ; send % array[n]
 
 NumpadSub::
-	inputbox text
-	notes_array := strsplit(text, A_Space)
-	for useless, number in notes_array
-	{
-		switch, number
+	if WinActive("ahk_exe sublime_text.exe") {
+		inputbox text
+		notes_array := strsplit(text, A_Space)
+		for useless, number in notes_array
 		{
-			case 0:
-				RunMain(0)
-			case 1:
-				RunMain(1)
-			case 2:
-				RunMain(2)
-			case 3:
-				RunMain(3)
-			case 4:
-				RunMain(4)
-			case 5:
-				RunMain(5)
-			case 6:
-				RunMain(6)
-			case 7:
-				RunMain(7)
-			case 8:
-				RunMain(8)
-			case 9:
-				RunMain(9)
+			switch, number
+			{
+				case 0:
+					RunMain(0)
+				case 1:
+					RunMain(1)
+				case 2:
+					RunMain(2)
+				case 3:
+					RunMain(3)
+				case 4:
+					RunMain(4)
+				case 5:
+					RunMain(5)
+				case 6:
+					RunMain(6)
+				case 7:
+					RunMain(7)
+				case 8:
+					RunMain(8)
+				case 9:
+					RunMain(9)
+			}
+			CompleteSound()
 		}
-		CompleteSound()
+		EndSound()
 	}
-	EndSound()
+	else {
+		ErrorSound()
+	}
 return
 
 ^NumpadSub::
-	InputBox, Zeroes, Rows, How many rows to add:, , 300, 100
-	Loop, %Zeroes% {
-		RunMain(0)
+	if WinActive("ahk_exe sublime_text.exe") {
+		InputBox, Zeroes, Rows, How many rows to add:, , 300, 100
+		Loop, %Zeroes% {
+			RunMain(0)
+		}
+		EndSound()
 	}
-	EndSound()
+	else {
+		ErrorSound()
+	}
+return
+
+^NumpadAdd::
+	if WinActive("ahk_exe soffice.bin") {
+		InputBox, Naturals, Rows, How many rows and naturals:, , 300, 100
+		Sleep, 100
+		RowCount(Naturals)
+		Sleep, 100
+		; Set Item Number here
+
+		Loop, %Naturals% {
+			RunMain(0)
+		}
+		EndSound()
+	} 
+	else {
+		ErrorSound()
+	}
 	
 return
 
 
 
+
+
+
+
+
+
+
+
+
+
 NumpadAdd::
-	GetRowCount()
-	EndSound()
+	if WinActive("ahk_exe soffice.bin") {
+		GetRowCount()
+		EndSound()
+	} 
+	else {
+		ErrorSound()
+	}
 return
 
+
+
 NumpadDot::
-	ScrollScreenRowsDown()
+	if WinActive("ahk_exe soffice.bin") {
+		ScrollScreenRowsDown()
+	} 
+	else {
+		ErrorSound()
+	}
 return
 
 NumpadDiv::
 	SwitchApplication()
+return
+
+F4::
+	if WinActive("ahk_exe soffice.bin") {
+	Click, 2
+	Send {Shift down}
+	Send {End}
+	Send {Shift up}
+	Send {Backspace}
+	Send {Enter}
+	} 
+	else {
+		ErrorSound()
+	}
+
 return

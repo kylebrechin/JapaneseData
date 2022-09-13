@@ -224,14 +224,32 @@ ScrollDown(times:=1) {
 ScrollScreenRowsDown() {
 	SetScrollLockState, On
 	Sleep, 100
-	Send {Down 20}
+	Send {Down 50}
 	Sleep, 100
 	SetScrollLockState, Off
+	Sleep, 100
+	Send {Up}
 }
 
 GetRowCount() {
 	InputBox, AddRows, Rows, How many rows to add:, , 300, 100
 	Sleep, 100
+	Loop, %AddRows% {
+		Send {Alt} 
+		Sleep, 50
+		Send s
+		Sleep, 50
+		Send r
+		Sleep, 50
+		Send b
+		Sleep, 100
+	}
+	Send {Down}
+	Sleep, 200
+	SwitchApplication()
+}
+
+RowCount(AddRows:=1) {
 	Loop, %AddRows% {
 		Send {Alt} 
 		Sleep, 50
@@ -365,6 +383,10 @@ CompleteSound() {
 
 EndSound() {
 	SoundPlay, C:\Windows\media\Windows Shutdown.wav
+}
+
+ErrorSound() {
+	SoundPlay, C:\Windows\media\Windows Exclamation.wav	
 }
 
 ; Useful to double click and delete last stuff in a line
