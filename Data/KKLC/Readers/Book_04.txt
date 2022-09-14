@@ -7869,10 +7869,8 @@ I had a hard time making ends meet.
 反時計回り(はんとけいまわり)　に　動い(うごい)て　下さい(ください)！
 Please move counterclockwise! 
 555-21.
-計器は
-「空」を示していた。 
-計器(けいき)　は　
-「空(から)」　を　示し(しめし)て　いた。
+計器は「空」を示していた。 
+計器(けいき)　は　「空(から)」　を　示し(しめし)て　いた。
 The gauge read 'empty'. 
 555-22.
 母は私の体温を計ってくれた。 
@@ -9666,9 +9664,9 @@ Until then, the plan is that front line troops will be supplied by airdrop.
 トロイア　軍(ぐん)　の　戦線(せんせん)　の　先頭(せんとう)　に　飛び出す(とびだす)　と、　行く(いく)　先々(さきざき)　で　殺し(ころし)まわった。
 He rushed forward at the head of the Trojan line, slaying as he went. 
 583-10.
-協会は日本の空軍基地近くに
-C/
-FO Rising Sun なる支部さえ持っていた。 協会(きょうかい)　は　日本(にほん)　の　空軍(くうぐん)　基地(きち)　近く(ちかく)　に　C/FO Rising Sun　なる　支部(しぶ)　さえ　持っ(もっ)て　いた。 The association even maintained a chapter called C/FO Rising Sun near an air force base in Japan. 
+協会は日本の空軍基地近くにC/FO Rising Sun なる支部さえ持っていた。 
+協会(きょうかい)　は　日本(にほん)　の　空軍(くうぐん)　基地(きち)　近く(ちかく)　に　C/FO Rising Sun　なる　支部(しぶ)　さえ　持っ(もっ)て　いた。 
+The association even maintained a chapter called C/FO Rising Sun near an air force base in Japan. 
 
 584-1.
 後方運動。 
@@ -10118,10 +10116,8 @@ My tongue feels like leather.
 産業(さんぎょう)　革命(かくめい)　は　また　文化(ぶんか)　革命(かくめい)　でも　あった。
 The industrial revolution was also a cultural revolution. 
 592-11.
-1978年以来、中国共産党はいわゆる
-「改革開放」の時代に入った。 
-1978年(ねん)　以来(いらい)、　中国共産党(ちゅうごくきょうさんとう)　は　いわゆる　
-「改革(かいかく)　開放(かいほう)」　の　時代(じだい)　に　入っ(はいっ)た。
+1978年以来、中国共産党はいわゆる「改革開放」の時代に入った。 
+1978年(ねん)　以来(いらい)、　中国共産党(ちゅうごくきょうさんとう)　は　いわゆる　「改革(かいかく)　開放(かいほう)」　の　時代(じだい)　に　入っ(はいっ)た。
 Beginning in 1978, the Communist Party of China entered its period of so-called "Reform and Opening". 
 「いわゆる〜」 　["so-called  __"]: DJG v3 p172.  
 
@@ -10313,8 +10309,8 @@ The expensive fur of a mink.
 Peel the apple before you eat it. 
 595-13.
 「なるほど」と、かれが皮肉っぽく発言した。 
-「なるほど」　と、　かれ　が　皮肉(ひにく)っぽく　発言(はつげん)　した。 "Ah,
-that makes sense", he commented wryly. 
+「なるほど」　と、　かれ　が　皮肉(ひにく)っぽく　発言(はつげん)　した。 
+"Ah, that makes sense", he commented wryly. 
 「なるほど」　["indeed"; "Ah, that makes sense."]: DJG v3 p359. 
 595-14.
 行政官の口調にはちょっとした皮肉が込められていた。 
@@ -10501,32 +10497,16 @@ The tight shoe pained her, but her heart pained her still more.
 彼等(かれら)　が　彼女(かのじょ)　の　所在(しょざい)　を　知っ(しっ)て　いた　が、　彼女(かのじょ)　の　友人(ゆうじん)　は　それ　に関して(にかんして)　口(くち)　を　つぐんで　いた。
 Although they knew her whereabouts her friends kept close about it. 
 597-35.
-かんじで書いた
-「彼処」とは
-「あの所」を意味する。通常この単語はひらがなを用いて
-「あそこ」と書く。 
-かんじ　で　書い(かい)た　
-「彼処(あそこ)」　と　は　
-「あの　所(ところ)」　を　意味(いみ)　する。　通常(つうじょう)　この　単語(たんご)　は　ひらがな　を　用い(もちい)て　
-「あそこ」　と　書く(かく)。
+かんじで書いた「彼処」とは「あの所」を意味する。通常この単語はひらがなを用いて「あそこ」と書く。 
+かんじ　で　書い(かい)た　「彼処(あそこ)」　と　は　「あの　所(ところ)」　を　意味(いみ)　する。　通常(つうじょう)　この　単語(たんご)　は　ひらがな　を　用い(もちい)て　「あそこ」　と　書く(かく)。
 The kanji spelling of "over there" denotes "that (distant) place". This word is usually written in hiragana. 
 597-36.
 我々もこの地方に彼のいることは耳にしていたし、一度か二度は原野への小道でその長身を目にしたこともあった。 
 我々(われわれ)　も　この　地方(ちほう)　に　彼(かれ)　の　いる　こと　は　耳(みみ)　に　して　いた　し、一度(いちど)　か　二度(にど)　は　原野(げんや)　へ　の　小道(こみち)　で　その　長身(ちょうしん)　を　目(め)　に　した　こと　も　あった。
 We had heard of his presence in the district and had once or twice caught sight of his tall figure upon the moorland paths. 
 597-37.
-かんじで書いた
-「彼方」とは
-「あの方」又は
-「あの方」を意味する。通常この単語はひらがなを用いて
-「あちら」と書く。また別の発音の
-「彼方」とはあるもののとおいところを意味する。 
-かんじ　で　書い(かい)た　
-「彼方(あちら)」　と　は　
-「あの　方(ほう)」　又は(または)　
-「あの　方(かた)」　を　意味(いみ)　する。　通常(つうじょう)　この　単語(たんご)　は　ひらがな　を　用い(もちい)て　
-「あちら」　と　書く(かく)。　また　別(べつ)　の　発音(はつおん)　の　
-「彼方(かなた)」　と　は　ある　もの　の　とおい　ところ　を　意味(いみ)　する。
+かんじで書いた「彼方」とは「あの方」又は「あの方」を意味する。通常この単語はひらがなを用いて「あちら」と書く。また別の発音の「彼方」とはあるもののとおいところを意味する。 
+かんじ　で　書い(かい)た　「彼方(あちら)」　と　は　「あの　方(ほう)」　又は(または)　「あの　方(かた)」　を　意味(いみ)　する。　通常(つうじょう)　この　単語(たんご)　は　ひらがな　を　用い(もちい)て　「あちら」　と　書く(かく)。　また　別(べつ)　の　発音(はつおん)　の　「彼方(かなた)」　と　は　ある　もの　の　とおい　ところ　を　意味(いみ)　する。
 The kanji spelling of "that (distant) way/person" (polite) denotes "that (distant) way" or "that person". This word is usually written in hiragana. Pronounced as "kanata", it refers to a place distant from the speaker, beyond something else.  
 
 598-1.
@@ -10751,10 +10731,7 @@ She promised that she would meet him after school.
 牧野さんは人事課の課長に任命されるそうだ。 
 牧野(まきの)さん　は　人事課(じんじか)　の　課長(かちょう)　に　任命(にんめい)　される　そう　だ。
 I heard that Makino-san is going to be named head of the Personnel Section. 
-「〜そうだ」　["I heard that __"]: DJG v1 p407; Genki ch17; Marx v2 day70. ㊗ 　Congratulations!  ㊗ You have now attained the seventh dan:
-セツ
-PREPARING Let us know at the KLC user group on Facebook! Share on:　Reddit　Twitter　Facebook　LinkedIn
-See the website for a full list of KLC kanji dan (ranks). Paste your own kanji dan badges to give yourself positive reinforcement as you progress. 
+「〜そうだ」　["I heard that __"]: DJG v1 p407; Genki ch17; Marx v2 day70.
 
 601-1.
 食器室にネズミの巣がある。 
@@ -10946,8 +10923,8 @@ Middle English is the English language from about 1100 to 1500.
 She always seeks to do good in the world. 
 604-20.
 「カルマ」とは、来世の運命を決定する行動の結果のことを示す。 
-「カルマ」　と　は、　来世(らいせ)　の　運命(うんめい)　を　決定(けってい)　する　行動(こうどう)　の　結果(けっか)　の　こと　を　示(しめ)す。 "Karma"
-refers to the effects of a person's actions that determine his destiny in his next incarnation. 
+「カルマ」　と　は、　来世(らいせ)　の　運命(うんめい)　を　決定(けってい)　する　行動(こうどう)　の　結果(けっか)　の　こと　を　示(しめ)す。 
+"Karma" refers to the effects of a person's actions that determine his destiny in his next incarnation. 
 604-21.
 給仕は、彼の人生が彼の後世で、より良くなると信じています。 
 給仕(きゅうじ)　は、　彼(かれ)　の　人生(じんせい)　が　彼(かれ)　の　後世(こうせい)　で、　より　良く(よく)　なる　と　信じ(しんじ)て　います。
@@ -12122,7 +12099,8 @@ The referee booked two players' fouls at once.
 Is that rule applicable to us foreigners? 
 625-13.
 Fittの法則はもっとも基本的で有名なUIデザインの法則です。 
-Fitt　の　法則(ほうそく)　は　もっとも　基本的(きほんてき)　で　有名(ゆうめい)　な　UI　デザイン　の　法則(ほうそく)　です。 Fitt is the most basic and well known of UI design laws. 
+Fitt　の　法則(ほうそく)　は　もっとも　基本的(きほんてき)　で　有名(ゆうめい)　な　UI　デザイン　の　法則(ほうそく)　です。 
+Fitt is the most basic and well known of UI design laws. 
 625-14.
 彼等の間で行われている規則は彼等にとっては自明で自ずと正当なものと思われるのです。 
 彼等(かれら)　の　間(あいだ)　で　行わ(おこなわ)れて　いる　規則(きそく)　は　彼等(かれら)　に　とって　は　自明(じめい)　で　自(おの)ずと　正当(せいとう)　な　もの　と　思わ(おもわ)れる　の　です。
@@ -13218,10 +13196,8 @@ She goes farthest in helping us.
 If I spare your life you may come spying again. 
 「-ぬ」　["not __"]: DJG v2 p315; Tobira ch11 #14. 
 642-18.
-父はいつも
-「天は自ら助くる者を助く」と言っていました。 
-父(ちち)　は　いつも　
-「天(てん)　は　自ら(みずから)　助くる(たすくる)　者(もの)　を　助く(たすく)」　と　言っ(いっ)て　いました。
+父はいつも「天は自ら助くる者を助く」と言っていました。 
+父(ちち)　は　いつも　「天(てん)　は　自ら(みずから)　助くる(たすくる)　者(もの)　を　助く(たすく)」　と　言っ(いっ)て　いました。
 My father always said that heaven helps those who help themselves. 
 642-19.
 助けが得られないまでも、中立の立場でいてもらう必要があった。 
@@ -13662,16 +13638,14 @@ She has an important role in our organization.
 私(わたし)　は　当時(とうじ)、　バス　で　15分(ふん)　ぐらい　の　団地(だんち)　に　住ん(すん)で　いました。
 At that time, I lived in a housing complex about 15 minutes away by bus. 
 649-19.
-ある人間がある
-「場所」にいるということは、ある特定の集団、社会、文化の中にいるということでもある。 
-ある　人間(にんげん)　が　ある　
-「場所(ばしょ)」　に　いる　という　こと　は、　ある　特定(とくてい)　の　集団(しゅうだん)、　社会(しゃかい)、　文化(ぶんか)　の　中(なか)　に　いる　という　こと　でも　ある。
+ある人間がある「場所」にいるということは、ある特定の集団、社会、文化の中にいるということでもある。 
+ある　人間(にんげん)　が　ある　「場所(ばしょ)」　に　いる　という　こと　は、　ある　特定(とくてい)　の　集団(しゅうだん)、　社会(しゃかい)、　文化(ぶんか)　の　中(なか)　に　いる　という　こと　でも　ある。
 For a human being to exist in a "place", however, also means to exist in a particular community, society, and culture. 
 「〜ということは」　{〜と言うことは* / 〜と言う事は** 51; 80} [presents preceding clause as the subject of the sentence: "that __"]: DJG v2 p480; Marx v2 day18. 
 649-20.
 1979年には、もうSF活動とは完全に独立した運動となったファンや集団は、animeという用語をつかうようになっていた。 
-1979年(ねん)　に　は、　もう
-SF　活動(かつどう)　と　は　完全(かんぜん)　に　独立(どくりつ)　した　運動(うんどう)　と　なった　ファン　や　集団(しゅうだん)　は、　anime　という　用語(ようご)　を　つかう　よう　に　なって　いた。 By 1979, fans and clubs, who had recently established an independent identity from the science fiction movement, began using the term anime. 
+1979年(ねん)　に　は、　もう SF　活動(かつどう)　と　は　完全(かんぜん)　に　独立(どくりつ)　した　運動(うんどう)　と　なった　ファン　や　集団(しゅうだん)　は、　anime　という　用語(ようご)　を　つかう　よう　に　なって　いた。 
+By 1979, fans and clubs, who had recently established an independent identity from the science fiction movement, began using the term anime. 
 「〜ようになる」　["reach the point where __"]: DJG v1 p559; Marx v2 day72; Tobira ch2 #11.  
 
 650-1.
@@ -13806,10 +13780,8 @@ A provident father plans for his children's education.
 黒木(くろき)さん　は　彼女(かのじょ)　の　気持ち(きもち)　に対して(にたいして)、　すこし　の　思いやり(おもいやり)　も　示さ(しめさ)なかった。
 Kuroki-san showed no consideration for her feelings. 
 650-33.
-これは企業世界での
-「フリーソフト」に対する興味をかきたてることになった。 
-これ　は　企業(きぎょう)　世界(せかい)　で　の　
-「フリー　ソフト」　に対する(にたいする)　興味(きょうみ)　を　かきたてる　こと　に　なった。
+これは企業世界での「フリーソフト」に対する興味をかきたてることになった。 
+これ　は　企業(きぎょう)　世界(せかい)　で　の　「フリー　ソフト」　に対する(にたいする)　興味(きょうみ)　を　かきたてる　こと　に　なった。
 This excited more interest in 'free software' within the corporate world. 
 「〜ことになる」　{〜事になる* 80} ["end up that __"]: DJG v2 p140; Marx v2 day73. 
 
@@ -14129,8 +14101,8 @@ They still talk about the sinking of the Titanic.
 A form of baptism in which all of a person's body is submerged in water. 
 655-12.
 「キスして。」彼女は思い沈んだ声で言った。 
-「キス　して。」　彼女(かのじょ)　は　思い沈ん(おもいしずん)だ　声(こえ)　で　言っ(いっ)た。 ‘Kiss
-me’, she said bluely. 
+「キス　して。」　彼女(かのじょ)　は　思い沈ん(おもいしずん)だ　声(こえ)　で　言っ(いっ)た。 
+‘Kiss me’, she said bluely. 
 655-13.
 株式市場は予測できない浮き沈みがあります。 
 株式(かぶしき)　市場(しじょう)　は　予測(よそく)　できない　浮き沈み(うきしずみ)　が　あります。
@@ -14157,10 +14129,8 @@ The doctor stood at her bedside.
 彼女(かのじょ)　は　枕(まくら)　の　上(うえ)　に　頭(あたま)　を　もたれさせた。
 She reclined her head on the pillow. 
 656-6.
-英国人は枕木を
-「sleeper」とよぶ。 
-英国人(えいこくじん)　は　枕木(まくらぎ)　を　
-「sleeper」　と　よぶ。
+英国人は枕木を「sleeper」とよぶ。 
+英国人(えいこくじん)　は　枕木(まくらぎ)　を　「sleeper」　と　よぶ。
 Britons call a railroad tie a "sleeper". 
 
 657-1.
@@ -14309,8 +14279,8 @@ Korean handicrafts.
 The Defense Minister is scheduled to visit South Korea next week. 
 662-3.
 韓国で100チョンは1ウォンと等しい。 
-韓国(かんこく)　で　100チョン　は　1ウォン　と　等しい(ひとしい)。 100
-chon equal 1 won in South Korea. 
+韓国(かんこく)　で　100チョン　は　1ウォン　と　等しい(ひとしい)。 
+100 chon equal 1 won in South Korea. 
 662-4.
 ソウルは韓国の首都で最大の都市である。 
 ソウル　は　韓国(かんこく)　の　首都(しゅと)　で　最大(さいだい)　の　都市(とし)　で　ある。
@@ -14320,10 +14290,8 @@ Seoul is South Korea's capital and largest city.
 国有(こくゆう)　の　韓国(かんこく)　電力(でんりょく)　公社(こうしゃ)　〚ＫＥＰＣＯ〛　が　原子力(げんしりょく)　発電(はつでん)　に　集中(しゅうちゅう)　して　いる。
 The state-owned Korea Electric Power Corp (KEPCO) is focused on atomic power generation. 
 662-6.
-韓国の正式名は大韓民国で、韓国語で
-「ダエ・ハン・ミン・グック」と発音する。 
-韓国(かんこく)　の　正式名(せいしきめい)　は　大韓民国(だいかんみんこく)　で、　韓国語(かんこくご)　で　
-「ダエ・ハン・ミン・グック」　と　発音(はつおん)　する。
+韓国の正式名は大韓民国で、韓国語で「ダエ・ハン・ミン・グック」と発音する。 
+韓国(かんこく)　の　正式名(せいしきめい)　は　大韓民国(だいかんみんこく)　で、　韓国語(かんこくご)　で　「ダエ・ハン・ミン・グック」　と　発音(はつおん)　する。
 South Korea's official name is the Republic of Korea, which in Korean is pronounced Dae-Han-Min-Guk. 
 
 663-1.
@@ -14555,10 +14523,8 @@ He had a notion that he was being had.
 守衛(しゅえい)　は　どうして　いい　の　か　分から(わから)ず　頭(あたま)　を　抱え(かかえ)た。
 The guard did not know what to do, and held his head in his hands. 
 664-10.
-彼女は泣いて彼の首に抱きつき、
-「私を抱きしめて」と言った。 
-彼女(かのじょ)　は　泣い(ない)て　彼(かれ)　の　首(くび)　に　抱きつき(だきつき)、　
-「私(わたし)　を　抱きしめ(だきしめ)て」　と　言っ(いっ)た。
+彼女は泣いて彼の首に抱きつき、「私を抱きしめて」と言った。 
+彼女(かのじょ)　は　泣い(ない)て　彼(かれ)　の　首(くび)　に　抱きつき(だきつき)、　「私(わたし)　を　抱きしめ(だきしめ)て」　と　言っ(いっ)た。
 She cried and threw her arms round his neck, and said "Hug me". 
 664-11.
 日本の偉大な作家たちの大多数は、英語に関心を抱いていたようだ。 
@@ -14875,12 +14841,11 @@ He always reasons from the particular to the general.
 It was not until this year that these documents were made available to the public. 
 671-12.
 ASCII文字セットは最も一般的に用いられている文字セットである。 
-ASCII　文字(もじ)　セット　は　最も(もっとも)　一般的(いっぱんてき)　に　用い(もちい)られて　いる　文字(もじ)　セット　で　ある。 The ASCII character set is the most widely used character set. 
+ASCII　文字(もじ)　セット　は　最も(もっとも)　一般的(いっぱんてき)　に　用い(もちい)られて　いる　文字(もじ)　セット　で　ある。 
+The ASCII character set is the most widely used character set. 
 671-13.
-デジタル時計が一般的になるまでは、アナログ時計と耳にするものはいなかった。なので、
-「アナログ時計」とはレトロニムだ。 
-デジタル　時計(とけい)　が　一般的(いっぱんてき)　に　なる　まで　は、　アナログ　時計(とけい)　と　耳(みみ)　に　する　もの　は　いなかった。　な　ので、　
-「アナログ　時計(とけい)」　と　は　レトロニム　だ。
+デジタル時計が一般的になるまでは、アナログ時計と耳にするものはいなかった。なので、「アナログ時計」とはレトロニムだ。 
+デジタル　時計(とけい)　が　一般的(いっぱんてき)　に　なる　まで　は、　アナログ　時計(とけい)　と　耳(みみ)　に　する　もの　は　いなかった。　な　ので、　「アナログ　時計(とけい)」　と　は　レトロニム　だ。
 Nobody ever heard of analog clocks until digital clocks became common, so 'analog clock' is a retronym. 
 
 672-1.
@@ -14938,8 +14903,8 @@ An unsound foundation.
 The face of a timepiece. 
 673-7.
 基盤eへの対数。 
-基盤(きばん)
-e　へ　の　対数(たいすう)。 A logarithm to the base e. 
+基盤(きばん)e　へ　の　対数(たいすう)。 
+A logarithm to the base e. 
 673-8.
 日本の産業基盤。 
 日本(にほん)　の　産業(さんぎょう)　基盤(きばん)。
@@ -14958,8 +14923,8 @@ A checkerboard has 64 squares.
 The Premier advanced from an early period of placating her base to a later period of substantive reforms. 
 673-12.
 ファンネットワークなしには、ADVは全く市場基盤を持てなかっただろう。 
-ファン　ネットワーク　なし　に　は、
-ADV　は　全く(まったく)　市場(しじょう)　基盤(きばん)　を　持て(もて)なかった　だろう。 Without the fan network, ADV would have had no market base whatsoever. 
+ファン　ネットワーク　なし　に　は、ADV　は　全く(まったく)　市場(しじょう)　基盤(きばん)　を　持て(もて)なかった　だろう。 
+Without the fan network, ADV would have had no market base whatsoever. 
 
 674-1.
 乳歯。 
@@ -15016,8 +14981,8 @@ Section Chief Uemura is but a small cog in a large machine.
 「〜にすぎない」　{〜に過ぎない　464} ["be merely __"]: DJG v2 p245 & 271; Marx v2 day36. 
 674-14.
 彼はピン歯車を回し、Goのところで矢印を止めた。 
-彼(かれ)　は　ピン　歯車(はぐるま)　を　回し(まわし)、
-Go　の　ところ　で　矢印(やじるし)　を　止め(とめ)た。 He spun the pinwheel and it stopped with the pointer on 'Go'. 
+彼(かれ)　は　ピン　歯車(はぐるま)　を　回し(まわし)、Go　の　ところ　で　矢印(やじるし)　を　止め(とめ)た。 
+He spun the pinwheel and it stopped with the pointer on 'Go'. 
 674-15.
 歯が固く閉じられていて、あごは鉄のように丈夫だった。 
 歯(は)　が　固く(かたく)　閉じ(とじ)られて　いて、　あご　は　鉄(てつ)　の　よう　に　丈夫(じょうぶ)　だった。
@@ -15064,8 +15029,8 @@ The last gasp of the cold war.
 今夜(こんや)　は　冷える(ひえる)　でしょう。
 It will cool down tonight. 
 675-7.
-昨夜は-
-10℃まで冷え込んだ。 昨夜(さくや)　は　-10℃(マイナスじゅうど)　まで　冷え込ん(ひえこん)だ。
+昨夜は-10℃まで冷え込んだ。 
+昨夜(さくや)　は　-10℃(マイナスじゅうど)　まで　冷え込ん(ひえこん)だ。
 Last night, the temperature went down to ten degrees below zero. 
 675-8.
 スープが冷めないうちに飲んでね。 
@@ -15089,11 +15054,9 @@ We got a frosty reception.
 「冷や汗(ひやあせ)」　と　は、　発汗(はっかん)　と　寒気(さむけ)　が　同時(どうじ)　に　起こる(おこる)　体調(たいちょう)　の　こと　を　示(しめ)す。
 A "cold sweat" refers to the physical condition of experiencing concurrent perspiration and chill. 
 675-13.
-彼は、
-「入らなければいけないなら、入って下さい」と冷やかに言った。 
-彼(かれ)　は、　
-「入ら(はいら)なければ　いけない　なら、　入っ(はいっ)て　下さい(ください)」　と　冷やか(ひややか)　に　言っ(いっ)た。 ‘Come
-in if you have to’, he said frostily. 
+彼は、「入らなければいけないなら、入って下さい」と冷やかに言った。 
+彼(かれ)　は、　「入ら(はいら)なければ　いけない　なら、　入っ(はいっ)て　下さい(ください)」　と　冷やか(ひややか)　に　言っ(いっ)た。 
+‘Come in if you have to’, he said frostily. 
 675-14.
 助教員は素早く起きて、冷たい水で顔を洗い、歯をみがいて、ひげをそった。 
 助教員(じょきょういん)　は　素早く(すばやく)　起(お)きて、　冷(つめ)たい　水(みず)　で　顔(かお)　を　洗(あら)い、　歯(は)　を　みがいて、　ひげ　を　そった。
@@ -15676,17 +15639,13 @@ The Prime Minister will hold a press conference tomorrow at the Prime Minister's
 そんな　こと　を　言う(いう)　と　は、　きみ　も　相当(そうとう)　図々しい(ずうずうしい)　ね。
 You've got a nerve to say such a thing! 
 682-25.
-「A」を取ることであなたが取った
-「C」は相殺されるだろう。 
-「A」　を　取る(とる)　こと　で　あなた　が　取っ(とっ)た　
-「C」　は　相殺(そうさい)　される　だろう。
+「A」を取ることであなたが取った「C」は相殺されるだろう。 
+「A」　を　取る(とる)　こと　で　あなた　が　取っ(とっ)た　「C」　は　相殺(そうさい)　される　だろう。
 The 'A' will cancel out the 'C' on your record. 
 「〜ことで」　{〜事で* 80} ["by virtue of __"]: DJG v2 p137. 
 682-26.
-安倍首相は会見で
-「アベノミクス」方針について詰問された。 
-安倍(あべ)　首相(しゅしょう)　は　会見(かいけん)　で　
-「アベノミクス」　方針(ほうしん)　について　詰問(きつもん)　された。
+安倍首相は会見で「アベノミクス」方針について詰問された。 
+安倍(あべ)　首相(しゅしょう)　は　会見(かいけん)　で　「アベノミクス」　方針(ほうしん)　について　詰問(きつもん)　された。
 At an interview, Prime Minister Abe was grilled on the "Abenomics" policy. 
 682-27.
 多くのお金を相続したので、彼女はどんな仕事も決してしなかった。 
@@ -15832,8 +15791,8 @@ When he was five months old, thoughts came to arise in his mind independently of
 A vernacular term. 
 684-2.
 三人称。 
-三人称(さんにんしょう)。 [Grammar]
-Third person.  
+三人称(さんにんしょう)。 
+[Grammar] Third person.  
 684-3.
 対称にする。 
 対称(たいしょう)　に　する。
@@ -15848,8 +15807,8 @@ Self-proclaimed experts.
 Symmetrized waves.  
 684-6.
 公称GDP。 
-公称(こうしょう)
-GDP。 The nominal GDP. 
+公称(こうしょう) GDP。 
+The nominal GDP. 
 684-7.
 分類学上の名称。 
 分類学上(ぶんるいがくじょう)　の　名称(めいしょう)。
@@ -15872,19 +15831,15 @@ An asymmetrical chessboard.
 A symmetrically arranged tea service. 
 684-12.
 「パロ」は古代エジプト王の称号であった。 
-「パロ」　は　古代(こだい)　エジプト　王(おう)　の　称号(しょうごう)　で　あった。 "Pharaoh"
-was the title of the ancient Egyptian kings. 
+「パロ」　は　古代(こだい)　エジプト　王(おう)　の　称号(しょうごう)　で　あった。 
+"Pharaoh" was the title of the ancient Egyptian kings. 
 684-13.
-アルハンブラは通称を
-「神の都」といった。 
-アルハンブラ　は　通称(つうしょう)　を　
-「神(かみ)　の　都(みやこ)」　と　いった。
+アルハンブラは通称を「神の都」といった。 
+アルハンブラ　は　通称(つうしょう)　を　「神(かみ)　の　都(みやこ)」　と　いった。
 Alhambra was commonly called the "City of God". 
 684-14.
-自称
-「医者」は、いかなる種類の学位も持たない。 
-自称(じしょう)　
-「医者(いしゃ)」　は、　いかなる　種類(しゅるい)　の　学位(がくい)　も　持た(もた)ない。
+自称「医者」は、いかなる種類の学位も持たない。 
+自称(じしょう)　「医者(いしゃ)」　は、　いかなる　種類(しゅるい)　の　学位(がくい)　も　持た(もた)ない。
 The self-styled 'doctor' has no degree of any kind. 
 「いかなる〜」　{如何なる〜** 2197; 815} ["any __"]: DJG v3 p132. 
 684-15.
@@ -16109,8 +16064,8 @@ Section Chief Tanba took long, important-looking strides in the direction of his
 His office is the third door down the hall on the left. 
 687-28.
 「教父」とは、洗礼で子供の保証人を務める男性のことを言う。 
-「教父(きょうふ)」　と　は、　洗礼(せんれい)　で　子供(こども)　の　保証人(ほしょうにん)　を　務める(つとめる)　男性(だんせい)　の　こと　を　言う(いう)。 "Godfather"
-refers to a man who serves as a sponsor for a child at baptism. 
+「教父(きょうふ)」　と　は、　洗礼(せんれい)　で　子供(こども)　の　保証人(ほしょうにん)　を　務める(つとめる)　男性(だんせい)　の　こと　を　言う(いう)。 
+"Godfather" refers to a man who serves as a sponsor for a child at baptism. 
 687-29.
 彼の新しい事務所は今までなれ親しんだ広さに欠けていた。 
 彼(かれ)　の　新(あたら)しい　事務所(じむしょ)　は　今(いま)　まで　なれ親しん(したしん)だ　広(ひろ)さ　に　欠け(かけ)て　いた。
@@ -16802,4 +16757,4 @@ The population seemed to be well fed and clothed.
 700-8.
 肉屋さんは物事を歯に衣をきせずはっきりと言った。 
 肉屋(にくや)さん　は　物事(ものごと)　を　歯(は)　に　衣(きぬ)　を　きせず　はっきり　と　言っ(いっ)た。
-The butcher made no bones about the matter. (90)
+The butcher made no bones about the matter. 
