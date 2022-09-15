@@ -233,30 +233,37 @@ ScrollScreenRowsDown() {
 
 GetRowCount() {
 	InputBox, AddRows, Rows, How many rows to add:, , 300, 100
-	Sleep, 100
-	Loop, %AddRows% {
-		Send {Alt} 
-		Sleep, 50
-		Send s
-		Sleep, 50
-		Send r
-		Sleep, 50
-		Send b
+	if(ErrorLevel = 0) {
 		Sleep, 100
+		Loop, %AddRows% {
+			Sleep, 75
+			Send {Alt} 
+			Sleep, 75
+			Send s
+			Sleep, 75
+			Send r
+			Sleep, 75
+			Send b
+			Sleep, 100
+		}
+		Send {Down}
+		Sleep, 100
+		SwitchApplication()
 	}
-	Send {Down}
-	Sleep, 200
-	SwitchApplication()
+	else {
+		ErrorSound()
+	}
 }
 
 RowCount(AddRows:=1) {
 	Loop, %AddRows% {
+		Sleep, 75
 		Send {Alt} 
-		Sleep, 50
+		Sleep, 75
 		Send s
-		Sleep, 50
+		Sleep, 75
 		Send r
-		Sleep, 50
+		Sleep, 75
 		Send b
 		Sleep, 100
 	}
