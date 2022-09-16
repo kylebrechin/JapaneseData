@@ -10134,10 +10134,9 @@ They condemned him without a hearing.
 女性(じょせい)　の　時間(じかん)　当たり(あたり)　の　給与(きゅうよ)　は　男性(だんせい)　より　も　低い(ひくい)。 
 Women's pay rate is lower than men's. 
 858-21
-成人には100
-mgを1回、食事直後に投与する。 
-成人(せいじん)　に　は　100
-mg(ミリグラム)　を　1回(かい)、　食事(しょくじ)　直後(ちょくご)　に　投与(とうよ)　する。 For adults, one 100mg dose is administered immediately after meals. 
+成人には100mgを1回、食事直後に投与する。 
+成人(せいじん)　に　は　100mg(ミリグラム)　を　1回(かい)、　食事(しょくじ)　直後(ちょくご)　に　投与(とうよ)　する。 
+For adults, one 100mg dose is administered immediately after meals. 
 858-22
 私はあなたに2分間の返事するための時間を与える。 
 私(わたし)　は　あなた　に　2分間(ふんかん)　の　返事(へんじ)　する　ため　の　時間(じかん)　を　与える(あたえる)。 
@@ -10406,7 +10405,6 @@ The painter never contacted his children after he emigrated to Australia.
 彼等は、ブルックリンにある進められた貯蔵所に彼等の家具を移動することに決めた。 
 彼等(かれら)　は、　ブルックリン　に　ある　進め(すすめ)られた　貯蔵所(ちょぞうしょ)　に　彼等(かれら)　の　家具(かぐ)　を　移動(いどう)　する　こと　に　決め(きめ)た。 
 They decided to reposition their furniture in a recommended repository in Brooklyn. 
-861-870 
 
 861-1
 卸し業者。 
@@ -10747,10 +10745,8 @@ A place from which an enterprise or expedition is launched.
 インドシナ　の　フランス　遠征軍(えんせいぐん)。 
 The French expeditionary force in Indochina. 
 868-4
-「出征軍人」は
-「復員軍人」の反対語だ。 
-「出征(しゅっせい)　軍人(ぐんじん)」は
-「復員(ふくいん)　軍人(ぐんじん)」の　反対語(はんたいご)　だ。 “
+「出征軍人」は「復員軍人」の反対語だ。 
+「出征(しゅっせい)　軍人(ぐんじん)」は「復員(ふくいん)　軍人(ぐんじん)」の　反対語(はんたいご)　だ。 “
 Deployed soldiers” is antonymous to “demobilized soldiers”. 
 868-5
 ワーテルロー戦はナポレオン遠征のときの決定的な戦いであった。 
@@ -10904,10 +10900,8 @@ We need extra employees for summer fill-ins.
 I will act on your advice. 
 「〜にしたがって　/ 〜にしたがい」　{〜に従って　/ 〜に従い　869} ["in accordance with __"; "as __"]: DJG v2 p268; Tobira ch10 #8. 
 869-37
-フォッグ氏は従者に
-「命令に従うんだ」と言った。 
-フォッグ　氏(し)　は　従者(じゅうしゃ)　に　
-「命令(めいれい)　に　従う(したがう)　ん　だ」　と　言っ(いっ)た。 
+フォッグ氏は従者に「命令に従うんだ」と言った。 
+フォッグ　氏(し)　は　従者(じゅうしゃ)　に　「命令(めいれい)　に　従う(したがう)　ん　だ」　と　言っ(いっ)た。 
 Mr. Fogg told the valet, "Commands are to be obeyed". 
 869-38
 専務は全ての従業員のために門戸を開放し続けた。 
@@ -10998,7 +10992,6 @@ The student who had betrayed his classmate was dissed by everyone.
 全て(すべて)　の　カトリック　教徒(きょうと)　が　産児(さんじ)　制限(せいげん)　に　反対(はんたい)　して　いる　わけ　で　は　ない。 
 Not all Catholics are against birth control. 
 「〜わけではない」　{〜訳ではない* 1505} ["it is/was not the case that __"]: DJG v2 p574; Tobira ch7 #15. 
-871-880 
 
 871-1
 縦断面。 
@@ -11054,7 +11047,8 @@ The game has been indefinitely postponed.
 ローン　の　支払い(しはらい)　期限(きげん)　を　延長(えんちょう)　する。 
 Extend a loan. 
 872-7
-22時まで開館時間を延長します。 22時(じ)　まで　開館(かいかん)　時間(じかん)　を　延長(えんちょう)　します。 
+22時まで開館時間を延長します。 
+22時(じ)　まで　開館(かいかん)　時間(じかん)　を　延長(えんちょう)　します。 
 We will extend our hours until 10:00 p.m. 
 872-8
 市はその道路を延長したいと考えている。 
@@ -11203,15 +11197,16 @@ Mounds of incompressible garbage.
 My speech was cut short. 
 875-14
 「アニメ」というのはアニメーション〚動画〛のフランス語式短縮形で、日本人はこれをあらゆる動画に対してつかうようになった。 
-「アニメ」　という　の　は　アニメーション　〚動画(どうが)〛　の　フランス語(ご)　式(しき)　短縮形(たんしゅくけい)　で、　日本人(にほんじん)　は　これ　を　あらゆる　動画(どうが)　に対して(にたいして)　つかう　よう　に　なった。 "
-Anime" is the French abbreviation for animation, a word that the Japanese adopted to describe all animation. 
+「アニメ」　という　の　は　アニメーション　〚動画(どうが)〛　の　フランス語(ご)　式(しき)　短縮形(たんしゅくけい)　で、　日本人(にほんじん)　は　これ　を　あらゆる　動画(どうが)　に対して(にたいして)　つかう　よう　に　なった。 
+"Anime" is the French abbreviation for animation, a word that the Japanese adopted to describe all animation. 
 
 876-1
 誕生と死の間。 
 誕生(たんじょう)　と　死(し)　の　間(あいだ)。 
 The interval between birth and death. 
 876-2
-60回目の誕生日の際。 60回目(かいめ)　の　誕生日(たんじょうび)　の　際(さい)。 
+60回目の誕生日の際。 
+60回目(かいめ)　の　誕生日(たんじょうび)　の　際(さい)。 
 The occasion of one's 60th birthday. 
 876-3
 誕生して1年以内の死亡率。 
@@ -11461,7 +11456,6 @@ PRIVATE: for the hands of G. J. Utterson ALONE and in case of his predecease to 
 アニメファンサブ屋たちは、らんまプロジェクト創設からアニメコン1991までに集団ゼロ個からおよそ4集団くらいまでに発展した。 
 アニメファンサブ屋(や)たち　は、　らんま　プロジェクト　創設(そうせつ)　から　アニメ　コン　1991　まで　に　集団(しゅうだん)　ゼロ個(こ)　から　およそ　4集団(しゅうだん)　くらい　まで　に　発展(はってん)　した。 
 Anime fansubbers grew from zero groups to about four between the foundation of the Ranma Project and AnimeCon ’91. 
-881-890 
 
 881-1
 沈殿を起こす物質。 
@@ -11607,10 +11601,8 @@ Ochiai-san homered to right field.
 空(そら)　を　飛べる(とべる)　翼(つばさ)　が　あったら　彼女(かのじょ)　を　助け(たすけ)　に　行っ(いっ)た　のに。 
 If I had wings to fly, I would have gone to save her. 
 883-5
-飛行機の重量に対する翼面積の割合は
-「翼面荷重」と言う。 
-飛行機(ひこうき)　の　重量(じゅうりょう)　に対する(にたいする)　翼(つばさ)　面積(めんせき)　の　割合(わりあい)　は　
-「翼面荷重(よくめんかじゅう)」　と　言う(いう)。 
+飛行機の重量に対する翼面積の割合は「翼面荷重」と言う。 
+飛行機(ひこうき)　の　重量(じゅうりょう)　に対する(にたいする)　翼(つばさ)　面積(めんせき)　の　割合(わりあい)　は　「翼面荷重(よくめんかじゅう)」　と　言う(いう)。 
 The ratio of the weight of an airplane to its wing area is called the "wing loading". 
 
 884-1
@@ -11622,7 +11614,8 @@ Third or further repeated conviction.
 利益(りえき)　は　累積(るいせき)　して　いる。 
 The benefits are cumulative. 
 884-3
-1月〜9月の全国の胡麻油生産累計。 1月(がつ)　～(から)　9月(がつ)　の　全国(ぜんこく)　の　胡麻油(ごまあぶら)　生産(せいさん)　累計(るいけい)。 
+1月〜9月の全国の胡麻油生産累計。 
+1月(がつ)　～(から)　9月(がつ)　の　全国(ぜんこく)　の　胡麻油(ごまあぶら)　生産(せいさん)　累計(るいけい)。 
 Total sesame oil production in the first nine months of the year. 
 884-4
 放送大学の累計新入生数が5月5日現在ですでに3万人を上回っています。 
@@ -11644,8 +11637,9 @@ Nishio-san is playing third.
 走者(そうしゃ)　は　三塁(さんるい)　で　アウト　に　なった。 
 The baserunner was put out at third base. 
 885-3
-16世紀に作られた京都を囲む土塁。 16　世紀(せいき)　に　作(つく)られた　京都(きょうと)　を　囲(かこ)む　土塁(どるい)。 16
-th Century earthworks surrounding Kyoto. 
+16世紀に作られた京都を囲む土塁。 
+16　世紀(せいき)　に　作(つく)られた　京都(きょうと)　を　囲(かこ)む　土塁(どるい)。 
+16th Century earthworks surrounding Kyoto. 
 885-4
 メイズは本塁に背を向けてキャッチした。 
 メイズ　は　本塁(ほんるい)　に　背(せ)　を　向け(むけ)て　キャッチ　した。 
@@ -11841,17 +11835,13 @@ Oxidation ponds are extensively used for sewage treatment in the Midwest.
 日本(にほん)　大使館(たいしかん)　は　日本人(にほんじん)　に対し(にたいし)、　注意(ちゅうい)　する　よう　警告(けいこく)　して　いる。 
 The Japanese embassy has warned Japanese citizens to be careful. 
 887-42
-他動詞としても自動詞としても
-「
-eat」〚食べる〛という動詞を使用できる。 
-他動詞(たどうし)　として　も　自動詞(じどうし)　として　も　
-「
-eat」　〚食べる(たべる)〛　という　動詞(どうし)　を　使用(しよう)　できる。 You can use the verb 'eat' transitively or intransitively. 
+他動詞としても自動詞としても「eat」〚食べる〛という動詞を使用できる。 
+他動詞(たどうし)　として　も　自動詞(じどうし)　として　も　「eat」　〚食べる(たべる)〛　という　動詞(どうし)　を　使用(しよう)　できる。 
+You can use the verb 'eat' transitively or intransitively. 
 887-43
-「
-Drink」〚飲む〛という動詞を、直接目的語なしで、自動詞で使うことができる。 
-「
-Drink」〚飲む(のむ)〛　と　いう　動詞(どうし)　を、　直接(ちょくせつ)　目的語(もくてきご)　なし　で、　自動詞(じどうし)　で　使う(つかう)　こと　が　できる。 The verb 'drink' can be used intransitively, without a direct object. 
+「Drink」〚飲む〛という動詞を、直接目的語なしで、自動詞で使うことができる。 
+「Drink」〚飲む(のむ)〛　と　いう　動詞(どうし)　を、　直接(ちょくせつ)　目的語(もくてきご)　なし　で、　自動詞(じどうし)　で　使う(つかう)　こと　が　できる。 
+The verb 'drink' can be used intransitively, without a direct object. 
 887-44
 結果としてコンパイラ内部で使われる中間記憶、つまり必要メモリ量は、ファイルの大きさに比例して大きくなるわけ。 
 結果(けっか)　として　コンパイラ　内部(ないぶ)　で　使わ(つかわ)れる　中間(ちゅうかん)　記憶(きおく)、　つまり　必要(ひつよう)　メモリ　量(りょう)　は、　ファイル　の　大き(おおき)さ　に　比例(ひれい)　して　大(おお)きく　なる　わけ。 
@@ -12026,7 +12016,8 @@ Our flight was canceled.
 昨夜(さくや)　病人(びょうにん)　は　二回(にかい)　の　便通(べんつう)　が　あった。 
 The patient had two bowel movements last night. 
 890-9
-57便の荷物はどこにありますか。 57便(びん)　の　荷物(にもつ)　は　どこ　に　あります　か。 
+57便の荷物はどこにありますか。 
+57便(びん)　の　荷物(にもつ)　は　どこ　に　あります　か。 
 Where are the bags from Flight 57? 
 890-10
 お父さんが食事と排便の世話をする。 
@@ -12064,7 +12055,6 @@ What's the most convenient way to get to Tokyo Station?
 私たちは、東京から青島まで直行便で行く。 
 私(わたし)たち　は、　東京(とうきょう)　から　青島(チンタオ)　まで　直行(ちょっこう)　便(びん)　で　行く(いく)。 
 We are flying nonstop from Tokyo to Qingdao. 
-891-900 
 
 891-1
 硬直する。 
@@ -12099,13 +12089,12 @@ The governor took a hard line on drugs.
 枕木(まくらぎ)　に　使用(しよう)　される　非常(ひじょう)　に　重い(おもい)　硬材(こうざい)　の　原料(げんりょう)。 
 Source of very heavy hardwood used for railroad ties. 
 891-9
-2、3時間以内に硬く固まるコンクリート。 2、3時間(じかん)　以内(いない)　に　硬く(かたく)　固まる(かたまる)　コンクリート。 
+2、3時間以内に硬く固まるコンクリート。 
+2、3時間(じかん)　以内(いない)　に　硬く(かたく)　固まる(かたまる)　コンクリート。 
 Concrete that sets hard within a few hours. 
 891-10
-死後、一時的に起こる関節や筋肉の硬直は
-「死後硬直」と言う。 
-死後(しご)、　一時的(いちじてき)　に　起こる(おこる)　関節(かんせつ)　や　筋肉(きんにく)　の　硬直(こうちょく)　は　
-「死後(しご)　硬直(こうちょく)」　と　言う(いう)。 
+死後、一時的に起こる関節や筋肉の硬直は「死後硬直」と言う。 
+死後(しご)、　一時的(いちじてき)　に　起こる(おこる)　関節(かんせつ)　や　筋肉(きんにく)　の　硬直(こうちょく)　は　「死後(しご)　硬直(こうちょく)」　と　言う(いう)。 
 The temporary stiffness of joints and muscular rigidity occurring after death is known as "rigor mortis". 
 
 892-1
@@ -12210,10 +12199,9 @@ The instinct of the celibate warned him to hold back.
 彼ら(かれら)　は　彼(かれ)　の　才能(さいのう)　を　高く(たかく)　評価(ひょうか)　して　いた。 
 They had a high estimation of his ability. 
 892-26
-血液が
-O型の人々は万能供血者である。 
-血液(けつえき)　が　
-O型(がた)　の　人々(ひとびと)　は　万能(ばんのう)　供血者(きょうけつしゃ)　で　ある。 People with type O blood are universal donors. 
+血液がO型の人々は万能供血者である。 
+血液(けつえき)　が　O型(がた)　の　人々(ひとびと)　は　万能(ばんのう)　供血者(きょうけつしゃ)　で　ある。 
+People with type O blood are universal donors. 
 892-27
 能楽は室町時代の美的感覚をよく表す。 
 能楽(のうがく)　は　室町(むろまち)　時代(じだい)　の　美的(びてき)　感覚(かんかく)　を　よく　表す(あらわす)。 
@@ -12554,7 +12542,8 @@ They pelted each other with snowballs.
 大雪(おおゆき)　の　ため　に、　彼等(かれら)　は　出発(しゅっぱつ)　を　延期(えんき)　した。 
 The heavy snow made them put off their departure. 
 899-12
-2軒の家の間の道は雪で閉ざされていた。 2軒(けん)　の　家(いえ)　の　間(あいだ)　の　道(みち)　は　雪(ゆき)　で　閉ざさ(とざさ)れて　いた。 
+2軒の家の間の道は雪で閉ざされていた。 
+2軒(けん)　の　家(いえ)　の　間(あいだ)　の　道(みち)　は　雪(ゆき)　で　閉ざさ(とざさ)れて　いた。 
 The path between the two houses was blocked by snow. 
 899-13
 遠くには公園があり、木々は雪でたわんでいる。 
@@ -12617,13 +12606,7 @@ The Government of Japan has abolished anti-personnel mines in principle.
 900-9
 水雷艇の艇長は羅針盤を無視するように命じた。 
 水雷艇(すいらいてい)　の　艇長(ていちょう)　は　羅針盤(らしんばん)　を　無視(むし)　する　よう　に　命(めい)じた。 
-The torpedo boat captain ordered us to ignore the compass. ㊗ 　Congratulations!  ㊗ You have now attained the tenth dan:
-テン 
-
-DEVELOPING Let us know at the KLC user group on Facebook! Share on:　Reddit　Twitter　Facebook　LinkedIn
-
-See the website for a full list of KLC kanji dan (ranks). Paste your own kanji dan badges to give yourself positive reinforcement as you progress. 
-901-910 
+The torpedo boat captain ordered us to ignore the compass.
 
 901-1
 今は零下10度だ。 
@@ -12719,10 +12702,8 @@ A tremour ran through him, like a shudder passing over the sea.
 地震(じしん)　の　後(あと)、　熊本(くまもと)　市(し)　の　土塁(どるい)　は　おそろしい　状態(じょうたい)　でした。 
 The temblor left the earthworks in Kumamoto City in a fearful state. 
 902-20
-地震の震源から真上の地表上の点は
-「震央」と言う。 
-地震(じしん)　の　震源(しんげん)　から　真上(まうえ)　の　地表上(ちひょうじょう)　の　点(てん)　は　
-「震央(しんおう)」　と　言う(いう)。 
+地震の震源から真上の地表上の点は「震央」と言う。 
+地震(じしん)　の　震源(しんげん)　から　真上(まうえ)　の　地表上(ちひょうじょう)　の　点(てん)　は　「震央(しんおう)」　と　言う(いう)。 
 The point on the Earth's surface directly above the focus of an earthquake is known as the earthquake's "epicenter". 
 902-21
 彼女は窓側の座席から不自然にピクピク震えながら立ち上がった。 
@@ -13053,16 +13034,16 @@ One line of soldiers surpassed the other.
 局長(きょくちょう)　は　兵役中(へいえきちゅう)　は　軍隊(ぐんたい)　の　厳しい(きびしい)　規則(きそく)　に　従っ(したがっ)て　いた。 
 When the Director was in the military, he conformed to the strict army rules. 
 907-22
-戦略兵器制限条約は
-ABMsの展開に制限を課した。 
-戦略(せんりゃく)　兵器(へいき)　制限(せいげん)　条約(じょうやく)　は　
-ABMs　の　展開(てんかい)　に　制限(せいげん)　を　課し(かし)た。 The Strategic Arms Limitation Talks placed limits on the deployment of ABMs. 
+戦略兵器制限条約はABMsの展開に制限を課した。 
+戦略(せんりゃく)　兵器(へいき)　制限(せいげん)　条約(じょうやく)　は　ABMs　の　展開(てんかい)　に　制限(せいげん)　を　課し(かし)た。 
+The Strategic Arms Limitation Talks placed limits on the deployment of ABMs. 
 907-23
 手短に言えば、ネストルは昔風の兵士の見事な実例だったんだ。 
 手短(てみじか)　に　言え(いえ)ば、　ネストル　は　昔風(むかしふう)　の　兵士(へいし)　の　見事(みごと)　な　実例(じつれい)　だった　ん　だ。 
 In short, Nestor was a fine example of the old-fashioned soldier. 
 907-24
-100人の兵士を駅に配備し、スー族に対する守備の態度を整えていた。 100人(にん)　の　兵士(へいし)　を　駅(えき)　に　配備(はいび)　し、　スー　族(ぞく)　に対する(にたいする)　守備(しゅび)　の　態度(たいど)　を　整え(ととのえ)て　いた。 
+100人の兵士を駅に配備し、スー族に対する守備の態度を整えていた。 
+100人(にん)　の　兵士(へいし)　を　駅(えき)　に　配備(はいび)　し、　スー　族(ぞく)　に対する(にたいする)　守備(しゅび)　の　態度(たいど)　を　整え(ととのえ)て　いた。 
 A hundred soldiers had placed themselves at the station with minds set to defend it, should the Sioux attack. 
 907-25
 翌朝九時きっかりに、緑のひげの兵隊がやってきて、四分後にみんな偉大なオズの玉座の間に通されました。 
@@ -13192,17 +13173,14 @@ The idealization of rural life is very misleading.
 延(のぶ)さん　と　雪子(ゆきこ)さん　は　田舎道(いなかみち)　を　長時間(ちょうじかん)　散歩(さんぽ)　した。 
 Nobu and Yukiko took a long walk through the countryside. 
 910-16
-教区牧師に供給される官舎は
-「教区牧師館」と言う。 
-教区(きょうく)　牧師(ぼくし)　に　供給(きょうきゅう)　される　官舎(かんしゃ)　は　
-「教区(きょうく)　牧師館(ぼくしかん)」　と　言う(いう)。 
+教区牧師に供給される官舎は「教区牧師館」と言う。 
+教区(きょうく)　牧師(ぼくし)　に　供給(きょうきゅう)　される　官舎(かんしゃ)　は　「教区(きょうく)　牧師館(ぼくしかん)」　と　言う(いう)。 
 The official residence provided by a church for its parson is called a "parsonage". 
 910-17
 大丈夫だよ。きみを獄舎から出すのに大した金は要らないよ。告発者だって、大したお金を言ってこないよ。少し払えば満足してくれるさ。 
 大丈夫(だいじょうぶ)　だ　よ。　きみ　を　獄舎(ごくしゃ)　から　出す(だす)　の　に　大した(たいした)　金(かね)　は　要ら(いら)ない　よ。　告発者(こくはつしゃ)　だって、　大した(たいした)　お金(おかね)　を　言っ(いっ)て　こない　よ。　少し(すこし)　払え(はらえ)ば　満足(まんぞく)　して　くれる　さ。 
 Fear not ― there are persons who are willing to get you out of prison at no great cost; and as for the informers they are far from being exorbitant in their demands ― a little money will satisfy them. 
 「〜さ」　["__, I tell you."]: DJG v2 p358; Marx v2 day1; Tobira ch12 #11. 
-911-920 
 
 911-1
 自己再生。 
@@ -13321,10 +13299,9 @@ There was a brief period of conciliation but the fighting soon resumed.
 責任者(せきにんしゃ)　は、　生産性(せいさんせい)　を　より　大(おお)きく　する　必要性(ひつようせい)　を　再び(ふたたび)　強調(きょうちょう)　した。 
 The director re-emphasized the need for greater productivity. 
 911-30
-この
-DVDプレーヤーはピアノの音を非常によく再生している。 
-この　
-DVD　プレーヤー　は　ピアノ　の　音(おと)　を　非常(ひじょう)　に　よく　再生(さいせい)　して　いる。 This DVD player reproduces the sound of the piano very well. 
+このDVDプレーヤーはピアノの音を非常によく再生している。 
+この DVD　プレーヤー　は　ピアノ　の　音(おと)　を　非常(ひじょう)　に　よく　再生(さいせい)　して　いる。 
+This DVD player reproduces the sound of the piano very well. 
 911-31
 彼は連続して病気だった、その後回復し、再び病気になった。 
 彼(かれ)　は　連続(れんぞく)　して　病気(びょうき)　だった、　その　後(ご)　回復(かいふく)　し、　再び(ふたたび)　病気(びょうき)　に　なった。 
@@ -13738,7 +13715,8 @@ Working on the lecture circuit.
 講習(こうしゅう)　を　行う(おこなう)。 
 Give a course. 
 918-3
-540の講座を開講しています。 540　の　講座(こうざ)　を　開講(かいこう)　して　います。 540 
+540の講座を開講しています。 
+540　の　講座(こうざ)　を　開講(かいこう)　して　います。 540 
 courses are offered. 
 918-4
 彼らは思いつく限りの手段を講じた。 
@@ -13830,7 +13808,6 @@ There was not enough fill for the trench.
 側溝は、通りの下の一連の水路の中に雨水を運んだ。 
 側溝(そっこう)　は、　通り(とおり)　の　下(した)　の　一連(いちれん)　の　水路(すいろ)　の　中(なか)　に　雨水(あまみず)　を　運ん(はこん)だ。 
 Gutters carried off the rainwater into a series of channels under the street. 
-921-930 
 
 921-1
 俳優の仮名。 
@@ -13905,18 +13882,17 @@ Dr. Huang posited three basic laws of nature.
 If you were to win the lottery, what would you buy with the money? 
 「かりに〜」　{仮に〜　921} ["assuming __"]: DJG v3 p201. 
 921-18
-初めて訪れた町で
-「408 
-
-N. 5th St.」を見つけようとしていると仮定する。 初めて(はじめて)　訪れ(おとずれ)た　町(まち)　で　
-「408 N. 5th St.」　を　見つけよ(みつけよ)う　と　して　いる　と　仮定(かてい)　する。 Imagine that we are in a new city trying to find "408 N. 5th Street". 
+初めて訪れた町で「408 N. 5th St.」を見つけようとしていると仮定する。 
+初めて(はじめて)　訪れ(おとずれ)た　町(まち)　で　「408 N. 5th St.」　を　見つけよ(みつけよ)う　と　して　いる　と　仮定(かてい)　する。 
+Imagine that we are in a new city trying to find "408 N. 5th Street". 
 
 922-1
 片言英語。 
 片言(かたこと)　英語(えいご)。 
 Broken English.  
 922-2
-2裂片の葉。 2裂片(れっぺん)　の　葉(は)。 
+2裂片の葉。 
+2裂片(れっぺん)　の　葉(は)。 
 A bilobate leaf. 
 922-3
 不完全な破片。 
@@ -14078,10 +14054,8 @@ The publishing house sold off one of its popular magazines.
 東映(とうえい)　が　日本語版(にほんごばん)　の　専用(せんよう)　サイト　を　開設(かいせつ)　した。 
 Toei launched a dedicated Japanese version of the website. 
 923-15
-基本的な車は、
-「バニラ版」として知られている。 
-基本的(きほんてき)　な　車(くるま)　は、　
-「バニラ　版(ばん)」　として　知ら(しら)れて　いる。 
+基本的な車は、「バニラ版」として知られている。 
+基本的(きほんてき)　な　車(くるま)　は、　「バニラ　版(ばん)」　として　知ら(しら)れて　いる。 
 The basic car is known as the "vanilla version". 
 923-16
 いかなる理由があっても、存命中はそれらの出版に同意しまいと決意した。 
