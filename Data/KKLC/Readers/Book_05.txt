@@ -6847,7 +6847,6 @@ I got it through my head that my parents’ strict rules were for my own benefit
 殺人をしてから四日目に、まったく思いがけなく、一隊の警官が家へやって来て、ふたたび屋内を厳重に調べにかかった。 
 殺人(さつじん)　を　して　から　四日目(よっかめ)　に、　まったく　思いがけなく(おもいがけなく)、　一隊(いったい)　の　警官(けいかん)　が　家(いえ)　へ　やって　来(き)て、　ふたたび　屋内(おくない)　を　厳重(げんじゅう)　に　調べ(しらべ)　に　かかった。 
 Upon the fourth day of the assassination, a party of the police came, very unexpectedly, into the house, and proceeded again to make rigorous investigation of the premises. 
-811-820 
 
 811-1
 日仏協約。 
@@ -6871,10 +6870,8 @@ Kyoto is famous for its shrines and Buddhist temples.
 Giving advice to him is like talking to a brick wall. 
 「-たところで」　["even if __"]: DJG v2 p452. 
 811-6
-古都である奈良市の東大寺は、
-「奈良大仏」を本尊とする。 
-古都(こと)　で　ある　奈良市(ならし)　の　東大寺(とうだいじ)　は、　
-「奈良(なら)　大仏(だいぶつ)」　を　本尊(ほんぞん)　と　する。 
+古都である奈良市の東大寺は、「奈良大仏」を本尊とする。 
+古都(こと)　で　ある　奈良市(ならし)　の　東大寺(とうだいじ)　は、　「奈良(なら)　大仏(だいぶつ)」　を　本尊(ほんぞん)　と　する。 
 The "Nara Daibutsu" (Great Buddha of Nara) is the principal deity of Todaiji temple in the old capital Nara. 
 
 812-1
@@ -6961,8 +6958,9 @@ Patten was aware of Streamline’s activities on a very personal basis in the ea
 プリズム　は　光(ひかり)　を　拡散(かくさん)　させる。 
 A prism disperses light. 
 813-2
-1980年代初期には、ルノーは
-C/FOの成長と拡大に気づいた。 1980年代(ねんだい)　初期(しょき)　に　は、　ルノー　は　C/FO　の　成長(せいちょう)　と　拡大(かくだい)　に　気(き)づいた。 During the early 1980s, Renault observed the C/FO grow and expand. 
+1980年代初期には、ルノーはC/FOの成長と拡大に気づいた。 
+1980年代(ねんだい)　初期(しょき)　に　は、　ルノー　は　C/FO　の　成長(せいちょう)　と　拡大(かくだい)　に　気(き)づいた。 
+During the early 1980s, Renault observed the C/FO grow and expand. 
 813-3
 数年前のぼくたちの仕事は、どんな手をつかっても日本アニメのファンダムの基盤を拡大することだった。 
 数年前(すうねんまえ)　の　ぼくたち　の　仕事(しごと)　は、　どんな　手(て)　を　つかって　も　日本(にほん)　アニメ　の　ファンダム　の　基盤(きばん)　を　拡大(かくだい)　する　こと　だった。 
@@ -7157,38 +7155,20 @@ Long - long - long - many minutes, many hours, many days, have I heard it.
 何(なん)　の　必要(ひつよう)　が　あって　彼(かれ)　は、　自分(じぶん)　自身(じしん)　から　自分(じぶん)　自身(じしん)　へ　あてた　手紙(てがみ)　など　を　私(わたし)　に　持た(もた)せて　よこした　の　だろう？ 
 Out of what necessity had he written a letter from himself to himself? 
 815-33
-かんじで書いた
-「何時」とは
-「どの時」を意味する。通常この言葉はひらがなを用いて
-「いつ」と書く。 
-かんじ　で　書い(かい)た　
-「何時(いつ)」　と　は　
-「どの　時(とき)」　を　意味(いみ)　する。　通常(つうじょう)　この　言葉(ことば)　は　ひらがな　を　用い(もちい)て　
-「いつ」　と　書く(かく)。 
+かんじで書いた「何時」とは「どの時」を意味する。通常この言葉はひらがなを用いて「いつ」と書く。 
+かんじ　で　書い(かい)た　「何時(いつ)」　と　は　「どの　時(とき)」　を　意味(いみ)　する。　通常(つうじょう)　この　言葉(ことば)　は　ひらがな　を　用い(もちい)て　「いつ」　と　書く(かく)。 
 The kanji spelling of "when" denotes "which time". This word is usually written in hiragana. 
 815-34
-かんじで書いた
-「何処」とは
-「どの所」を意味する。通常この言葉はひらがなを用いて
-「どこ」と書く。 
-かんじ　で　書い(かい)た　
-「何処(どこ)」　と　は　
-「どの　所(ところ)」　を　意味(いみ)　する。　通常(つうじょう)　この　言葉(ことば)　は　ひらがな　を　用い(もちい)て　
-「どこ」　と　書く(かく)。 
+かんじで書いた「何処」とは「どの所」を意味する。通常この言葉はひらがなを用いて「どこ」と書く。 
+かんじ　で　書い(かい)た　「何処(どこ)」　と　は　「どの　所(ところ)」　を　意味(いみ)　する。　通常(つうじょう)　この　言葉(ことば)　は　ひらがな　を　用い(もちい)て　「どこ」　と　書く(かく)。 
 The kanji spelling of "where" denotes "which place". This word is usually written in hiragana. 
 815-35
 また、他にも何人かのファンが在米日本人向けテレビの録画を持ってきて、各種のファンイベントで上映した。 
 また、　他(ほか)　に　も　何人(なんにん)　か　の　ファン　が　在米(ざいべい)　日本人向け(にほんじんむけ)　テレビ　の　録画(ろくが)　を　持っ(もっ)て　きて、　各種(かくしゅ)　の　ファン　イベント　で　上映(じょうえい)　した。 
 Additionally, several other fans recorded shows from Japanese community TV and showed them at various fan events. 
 815-36
-かんじで書いた
-「何故」とは
-「どの故」を意味する。通常この言葉はひらがなを用いて
-「なぜ」と書く。 
-かんじ　で　書い(かい)た　
-「何故(なぜ)」　と　は　
-「どの　故(ゆえ)」　を　意味(いみ)　する。　通常(つうじょう)　この　言葉(ことば)　は　ひらがな　を　用い(もちい)て　
-「なぜ」　と　書く(かく)。 
+かんじで書いた「何故」とは「どの故」を意味する。通常この言葉はひらがなを用いて「なぜ」と書く。 
+かんじ　で　書い(かい)た　「何故(なぜ)」　と　は　「どの　故(ゆえ)」　を　意味(いみ)　する。　通常(つうじょう)　この　言葉(ことば)　は　ひらがな　を　用い(もちい)て　「なぜ」　と　書く(かく)。 
 The kanji spelling of "why" denotes "which reason". This word is usually written in hiragana. 
 815-37
 以前は手で行われていた仕事は、各作業を行うための機械の導入により、原価は以前の何分の一かに下がってしまった。 
@@ -7205,16 +7185,8 @@ If Time is really only a fourth dimension of Space, why is it, and why has it al
 「〜にほかならない」　{〜に他ならない　189} ["be nothing but __"]: DJG v2 p245. 
 「(の)であれば」　["if it's the case that __"]: DJG v3 p617 (covered under とあっては). 
 815-40
-かんじで書いた
-「何方」とは
-「どの方」又は
-「どの方」を意味する。通常この言葉はひらがなを用いて
-「どちら」と書く。 
-かんじ　で　書い(かい)た　
-「何方(どちら)」　と　は　
-「どの　方(ほう)」　又は(または)　
-「どの　方(かた)」　を　意味(いみ)　する。　通常(つうじょう)　この　言葉(ことば)　は　ひらがな　を　用い(もちい)て　
-「どちら」　と　書く(かく)。 
+かんじで書いた「何方」とは「どの方」又は「どの方」を意味する。通常この言葉はひらがなを用いて「どちら」と書く。 
+かんじ　で　書い(かい)た　「何方(どちら)」　と　は　「どの　方(ほう)」　又は(または)　「どの　方(かた)」　を　意味(いみ)　する。　通常(つうじょう)　この　言葉(ことば)　は　ひらがな　を　用い(もちい)て　「どちら」　と　書く(かく)。 
 The kanji spelling of "which way"/"who" (polite) denotes "which way" or "which person". This word is usually written in hiragana. 
 815-41
 いつ、どういう時に、彼が官庁に入ったのか、また何人が彼を任命したのか、その点についてはだれ一人記憶している者がいなかった。 
@@ -7307,7 +7279,8 @@ Let me help you with your baggage.
 青年(せいねん)　が、　荷物(にもつ)　の　整理(せいり)　を　した。 
 The young man stowed his gear. 
 817-10
-1対の等しい荷電と反対荷電。 1対(つい)　の　等しい(ひとしい)　荷電(かでん)　と　反対(はんたい)　荷電(かでん)。 
+1対の等しい荷電と反対荷電。 
+1対(つい)　の　等しい(ひとしい)　荷電(かでん)　と　反対(はんたい)　荷電(かでん)。 
 A pair of equal and opposite charges. 
 817-11
 決心の重荷が専務にかかっていた。 
@@ -7346,10 +7319,8 @@ I am afraid I'll be a burden to you.
 私(わたし)　は　彼(かれ)　に　荷物(にもつ)　を　プラットホーム　まで　運ん(はこん)で　もらった。 
 I had him carry my luggage to the platform. 
 817-20
-荷物や小包を預ける部屋は
-「手荷物預かり所」と言う。 
-荷物(にもつ)　や　小包(こづつみ)　を　預ける(あずける)　部屋(へや)　は　
-「手荷物(てにもつ)　預かり所(あずかりじょ)」　と　言う(いう)。 
+荷物や小包を預ける部屋は「手荷物預かり所」と言う。 
+荷物(にもつ)　や　小包(こづつみ)　を　預ける(あずける)　部屋(へや)　は　「手荷物(てにもつ)　預かり所(あずかりじょ)」　と　言う(いう)。 
 The room where baggage or parcels are checked is called the "left luggage office". 
 817-21
 武士はイーデー山の森からトロイアへ材木を運び込む荷車の道路をゆっくり歩いて行った。 
@@ -7431,7 +7402,6 @@ Melvil Dewey was a U.S. librarian who established the decimal system of classifi
 河村さんは、何を思っているのかを上司に言う前に、何とか自制した。 
 河村(かわむら)さん　は、　何(なに)　を　思っ(おもっ)て　いる　の　か　を　上司(じょうし)　に　言う(いう)　前(まえ)　に、　何とか(なんとか)　自制(じせい)　した。 
 Kawamura-san managed to catch herself before telling her boss what was on her mind. 
-821-830 
 
 821-1
 一つお伺いしたいのですが。 
@@ -7503,10 +7473,9 @@ Many English nouns have become verbalized.
 代名詞(だいめいし)　と　動詞(どうし)　の　人称(にんしょう)　を　合わせる(あわせる)　こと。 
 Agreement in person between pronouns and verbs. 
 822-14
-「
-It」は三人称単数中性代名詞である。 
-「
-It」　は　三人称(さんにんしょう)　単数(たんすう)　中性(ちゅうせい)　代名詞(だいめいし)　で　ある。 “It” is the third-person singular neuter pronoun. 
+「It」は三人称単数中性代名詞である。 
+「It」　は　三人称(さんにんしょう)　単数(たんすう)　中性(ちゅうせい)　代名詞(だいめいし)　で　ある。 
+“It” is the third-person singular neuter pronoun. 
 822-15
 男性名詞または女性名詞を特定しない名詞。 
 男性(だんせい)　名詞(めいし)　または　女性(じょせい)　名詞(めいし)　を　特定(とくてい)　しない　名詞(めいし)。 
@@ -7625,12 +7594,12 @@ Hoshiko was carrying several books, not textbooks but thick hardback books.
 
 825-1
 「嗣子」とは、家をつぐ者のことを示す。 
-「嗣子(しし)」　と　は、　家(いえ)　を　つぐ　者(もの)　の　こと　を　示(しめ)す。 "
-Shishi" refers to the family heir. 
+「嗣子(しし)」　と　は、　家(いえ)　を　つぐ　者(もの)　の　こと　を　示(しめ)す。 
+"Shishi" refers to the family heir. 
 825-2
 「皇嗣」とは、皇位をつぐ者のことを示す。 
-「皇嗣(こうし)」　と　は、　皇位(こうい)　を　つぐ　者(もの)　の　こと　を　示(しめ)す。 "
-Koshi" refers to the person who is to succeed to the imperial throne. 
+「皇嗣(こうし)」　と　は、　皇位(こうい)　を　つぐ　者(もの)　の　こと　を　示(しめ)す。 
+"Koshi" refers to the person who is to succeed to the imperial throne. 
 
 826-1
 警官は中を覗き込んだ。 
@@ -7669,7 +7638,6 @@ The cotton curtains of the bed moved, and the child peeped forth.
 ピーターは、どうして音楽が止まったのかふたたび部屋を覗き見ました。 
 ピーター　は、　どうして　音楽(おんがく)　が　止まっ(とまっ)た　の　か　ふたたび　部屋(へや)　を　覗き見(のぞきみ)ました。 
 Peter peeped in again to see why the music had stopped. 
-
 
 827-1
 和歌集。 
@@ -7783,7 +7751,8 @@ Encumber.
 リスク　を　負う(おう)。 
 Take a risk. 
 829-4
-2点負けている。 2点(てん)　負け(まけ)て　いる。 
+2点負けている。 
+2点(てん)　負け(まけ)て　いる。 
 Behind by two points. 
 829-5
 負電荷の素粒子。 
@@ -7848,10 +7817,8 @@ If you are not firm with the children, they will get out of hand.
 買い手(かいて)　は、　ディーラー　に　ずっと　安い(やすい)　価格(かかく)　まで　負け(まけ)させた。 
 The buyer beat the dealer down to a much lower price. 
 829-20
-カインは主に言った、
-「私の罰は重くて負いきれません」。 
-カイン　は　主(しゅ)　に　言っ(いっ)た、　
-「私(わたし)　の　罰(ばつ)　は　重く(おもく)て　負い(おい)きれません」。 
+カインは主に言った、「私の罰は重くて負いきれません」。 
+カイン　は　主(しゅ)　に　言っ(いっ)た、　「私(わたし)　の　罰(ばつ)　は　重く(おもく)て　負い(おい)きれません」。 
 Cainsaid unto the Lord, My punishment is greater than I can bear. 
 829-21
 「この家は手に負えないほど大きい」と栗原夫人は文句を言った。 
@@ -7959,12 +7926,11 @@ His whole speech was a mistake from first to last, an utter failure.
 彼(かれ)　は　元来(がんらい)　相当(そうとう)　の　財産(ざいさん)　を　持っ(もっ)て　いた　ので、こんな　敗け(まけ)　くらい　は　彼(かれ)　に　とって　は　何(なん)　でも　ない　こと　で　あった。 
 His fortune was a considerable one, and such a loss could not in any way affect him. 
 「〜くらい」　{〜位* 577} ["to __ extent"]: DJG v2 p151. 
-831-840 
 
 831-1
 非自責点。 
-非自責点(ひじせきてん)。 [
-Baseball] An unearned run. 
+非自責点(ひじせきてん)。 
+[Baseball] An unearned run. 
 831-2
 財政責任。 
 財政(ざいせい)　責任(せきにん)。 
@@ -8074,10 +8040,8 @@ The British Home Office has broader responsibilities than the United States Depa
 教育(きょういく)　委員会(いいんかい)　の　新(あたら)しい　責任者(せきにんしゃ)　は、定期的(ていきてき)　な　テスト　を　強制(きょうせい)　した。 
 The new director of the school board mandated regular tests. 
 831-29
-「映画製作者」とは
-「映画の著作物の製作に発意と責任を有する者」のことをいう。 
-「映画(えいが)　製作者(せいさくしゃ)」　と　は　
-「映画(えいが)　の　著作物(ちょさくぶつ)　の　製作(せいさく)　に　発意(はつい)　と　責任(せきにん)　を　有(ゆう)する　者(もの)」　の　こと　を　いう。 "
+「映画製作者」とは「映画の著作物の製作に発意と責任を有する者」のことをいう。 
+「映画(えいが)　製作者(せいさくしゃ)」　と　は　「映画(えいが)　の　著作物(ちょさくぶつ)　の　製作(せいさく)　に　発意(はつい)　と　責任(せきにん)　を　有(ゆう)する　者(もの)」　の　こと　を　いう。 "
 Makers of cinematographic works" refers to "those who take the initiative in, and the responsibility for, the making of a cinematographic work". 
 831-30
 共同開発者となる典型的な道としては、プロジェクトの主要なサブシステムの責任を負うことだ。 
@@ -8182,10 +8146,8 @@ In the critic’s library were piles of books on every chair.
 政府(せいふ)　は、　組合(くみあい)　と　対立(たいりつ)　する　心積もり(こころづもり)　が　できて　いなかった。 
 The government did not intend to confront the unions. 
 832-24
-作業員は市民ケーンの古い所有物を雑然と山のように積んだ。
-「どんなに物を積んでも、しあわせは買えない」、と考えた。 
-作業員(さぎょういん)　は　市民(しみん)　ケーン　の　古(ふる)い　所有物(しょゆうぶつ)　を　雑然(ざつぜん)　と　山(やま)　の　よう　に　積(つ)んだ。
-「どんなに　物(もの)　を　積(つ)んで　も、　しあわせ　は　買(か)えない」、　と　考(かんが)えた。 
+作業員は市民ケーンの古い所有物を雑然と山のように積んだ。「どんなに物を積んでも、しあわせは買えない」、と考えた。 
+作業員(さぎょういん)　は　市民(しみん)　ケーン　の　古(ふる)い　所有物(しょゆうぶつ)　を　雑然(ざつぜん)　と　山(やま)　の　よう　に　積(つ)んだ。「どんなに　物(もの)　を　積(つ)んで　も、　しあわせ　は　買(か)えない」、　と　考(かんが)えた。 
 The worker heaped Citizen Kane’s old possessions in one big pile. “No matter how many things one accumulates, one can’t buy happiness”, he reflected. 
 
 833-1

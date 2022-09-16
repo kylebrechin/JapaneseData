@@ -1,10 +1,4 @@
-﻿#NoEnv
-SendMode Input
-SetWorkingDir %A_ScriptDir%
-; =======================
-
-
-; Sublime RegEx
+﻿; Sublime RegEx
 ; \s\s\n$
 ; " \n" <-- blank space, remove ""
 
@@ -22,7 +16,9 @@ SetWorkingDir %A_ScriptDir%
 
 
 
-
+GUITest() {
+	MsgBox, "Hello there"
+}
 
 
 
@@ -429,8 +425,6 @@ ErrorSound() {
 	; Send {Enter}
 	; Sleep, 200
 ; return
-
-
 
 
 

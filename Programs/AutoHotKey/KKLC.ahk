@@ -1,7 +1,8 @@
 ﻿; default shit
-#NoEnv
-SendMode Input
-SetWorkingDir %A_ScriptDir%
+
+;#NoEnv
+;SendMode Input
+;SetWorkingDir %A_ScriptDir%
 
 #Include functions.ahk
 
@@ -114,9 +115,8 @@ return
 NumpadMult::
 	WinActivate, KKLC_study_complete.ods - LibreOffice Calc
 	Sleep, 100
-	WinActivate, I:\Amazon Drive BACKUP\Languages\Japanese\JapaneseData\Data\KKLC\Readers\Book_05.txt • - Sublime Text (UNREGISTERED)
+	WinActivate, I:\Amazon Drive BACKUP\Languages\Japanese\JapaneseData\Data\KKLC\Readers\Book_05.txt - Sublime Text (UNREGISTERED)
 return
-
 
 
 
