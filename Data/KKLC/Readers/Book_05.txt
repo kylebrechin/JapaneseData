@@ -8786,8 +8786,7 @@ My teachers implanted their beliefs in me.
 840-17
 西アフリカは1960年代初期に非植民地化された。 
 西(にし)アフリカ　は　1960年代(ねんだい)　初期(しょき)　に　非植民地化(ひしょくみんちか)　された。 
-West Africa was decolonized in the early 1960's. 
-841-850 
+West Africa was decolonized in the early 1960's.  
 
 841-1
 養殖魚。 
@@ -9081,7 +9080,8 @@ The Inspector ordered the planting of policemen outside every doorway.
 金(キム)さん　は　もっと　高い(たかい)　給料(きゅうりょう)　で　現在(げんざい)　の　地位(ちい)　に　置か(おか)れる　べき　だ。 
 Kim-san should be retained in his present capacity at a higher salary. 
 843-28
-1978年に東映動画は北ハリウッドに初の常設オフィスを設置した。 1978年(ねん)　に　東映動画(とうえいどうが)　は　北(きた)ハリウッド　に　初(はつ)　の　常設(じょうせつ)　オフィス　を　設置(せっち)　した。 
+1978年に東映動画は北ハリウッドに初の常設オフィスを設置した。 
+1978年(ねん)　に　東映動画(とうえいどうが)　は　北(きた)ハリウッド　に　初(はつ)　の　常設(じょうせつ)　オフィス　を　設置(せっち)　した。 
 In 1978, Toei Animation established its first regular office in North Hollywood. 
 843-29
 旅客は、財布を座席の上に放置したために、失ってしまった。 
@@ -9092,10 +9092,8 @@ The traveler lost her wallet when she left it unattended on her seat.
 視覚(しかく)　と　触覚(しょっかく)　に　よって　のみ、　私(わたし)たち　は、　周り(まわり)　に　ある　物(もの)　を　位置づける(いちづける)　こと　が　できる。 
 Only sight and touch enable us to locate objects in the space around us. 
 843-31
-ありがたいことに、ハッカーを彼が特に好むところに置いてやれば、しばしば
-「平均的な」労働者のおよそ5倍から10倍もの成績を上げるのを目の当たりにするでしょう。 
-ありがたい　こと　に、　ハッカー　を　彼(かれ)　が　特に(とくに)　好む(このむ)　ところ　に　置い(おい)て　やれば、　しばしば　
-「平均的(へいきんてき)　な」　労働者(ろうどうしゃ)　の　およそ　5倍(ばい)　から　10倍(ばい)　も　の　成績(せいせき)　を　上げる(あげる)　の　を　目の当たり(まのあたり)　に　する　でしょう。 
+ありがたいことに、ハッカーを彼が特に好むところに置いてやれば、しばしば「平均的な」労働者のおよそ5倍から10倍もの成績を上げるのを目の当たりにするでしょう。 
+ありがたい　こと　に、　ハッカー　を　彼(かれ)　が　特に(とくに)　好む(このむ)　ところ　に　置い(おい)て　やれば、　しばしば　「平均的(へいきんてき)　な」　労働者(ろうどうしゃ)　の　およそ　5倍(ばい)　から　10倍(ばい)　も　の　成績(せいせき)　を　上げる(あげる)　の　を　目の当たり(まのあたり)　に　する　でしょう。 
 The good news is, if you get a hacker on something he particularly likes, you will frequently see performance on the order of five to ten times what a "normal" worker would produce. 
 「-がたい」　{-難い* 712} ["un__able"]: DJG v2 p50. 
 
@@ -9145,10 +9143,8 @@ Interstate Highway Commission.
 禁酒法(きんしゅほう)　を　実施(じっし)　して　いる　州(しゅう)。 
 A dry state. 
 845-7
-州政府の長は
-「知事」と言う。 
-州(しゅう)　政府(せいふ)　の　長(ちょう)　は　
-「知事(ちじ)」　と　言う(いう)。 
+州政府の長は「知事」と言う。 
+州(しゅう)　政府(せいふ)　の　長(ちょう)　は　「知事(ちじ)」　と　言う(いう)。 
 The head of a state government is called a "governor". 
 845-8
 アラスカ州は米国最大の州である。 
@@ -9266,7 +9262,8 @@ A formation of ships approached the island.
 私(わたし)　は　無制限(むせいげん)　に　接触(せっしょく)　できた。 
 I had unrestricted access. 
 847-22
-2つのビルが接触している。 2つ　の　ビル　が　接触(せっしょく)　して　いる。 
+2つのビルが接触している。 
+2つ　の　ビル　が　接触(せっしょく)　して　いる。 
 The two buildings touch. 
 847-23
 テロリスト集団と接触する。 
@@ -9360,8 +9357,8 @@ Seamless stockings.
 She pieced a quilt. 
 848-8
 「嗣子」とは、家を継ぐ者のことを意味する。 
-「嗣子(しし)」　と　は、　家(いえ)　を　継ぐ(つぐ)　者(もの)　の　こと　を　意味(いみ)　する。 "
-Shishi" refers to the family heir. 
+「嗣子(しし)」　と　は、　家(いえ)　を　継ぐ(つぐ)　者(もの)　の　こと　を　意味(いみ)　する。 
+"Shishi" refers to the family heir. 
 848-9
 地上に信号を中継し返す人工衛星。 
 地上(ちじょう)　に　信号(しんごう)　を　中継(ちゅうけい)　し返す(かえす)　人工(じんこう)　衛星(えいせい)。 
@@ -9372,8 +9369,8 @@ An artificial satellite that relays signals back to earth.
 I inherited my good eyesight from my mother. 
 848-11
 「皇嗣」とは、皇位を継ぐ者のことを意味する。 
-「皇嗣(こうし)」　と　は、　皇位(こうい)　を　継ぐ(つぐ)　者(もの)　の　こと　を　意味(いみ)　する。 "
-Koshi" refers to the person who is to succeed to the imperial throne. 
+「皇嗣(こうし)」　と　は、　皇位(こうい)　を　継ぐ(つぐ)　者(もの)　の　こと　を　意味(いみ)　する。 
+"Koshi" refers to the person who is to succeed to the imperial throne. 
 848-12
 彼は王位を継ぐものとして生まれた。 
 彼(かれ)　は　王位(おうい)　を　継ぐ(つぐ)　もの　として　生まれ(うまれ)た。 
@@ -9472,7 +9469,8 @@ Interrupt a trip.
 断固(だんこ)　と　した　命令(めいれい)。 
 Peremptory commands.  
 849-19
-2つの断面が合う。 2つ　の　断面(だんめん)　が　合う(あう)。 
+2つの断面が合う。 
+2つ　の　断面(だんめん)　が　合う(あう)。 
 The two pieces match. 
 849-20
 激しく独断的な本。 
@@ -9535,7 +9533,8 @@ The fresher one tasted much better.
 人(ひと)　は　言葉(ことば)　より　行い(おこない)　で　判断(はんだん)　される。 
 Actions speak louder than words. 
 849-35
-1から10の尺度で判断すること。 1　から　10　の　尺度(しゃくど)　で　判断(はんだん)　する　こと。 
+1から10の尺度で判断すること。 
+1　から　10　の　尺度(しゃくど)　で　判断(はんだん)　する　こと。 
 Judging on a scale of 1 to 10. 
 849-36
 基本的には個人の判断に委ねます。 
@@ -9701,7 +9700,6 @@ Kawahara-san is having an allergic reaction to something he ate.
 彼女は彼女が失敗したということを知った時、彼女は理不尽に反応した。 
 彼女(かのじょ)　は　彼女(かのじょ)　が　失敗(しっぱい)　した　という　こと　を　知っ(しっ)た　時(とき)、　彼女(かのじょ)　は　理不尽(りふじん)　に　反応(はんのう)　した。 
 She reacted unreasonably when she learned she had failed. 
-851-860 
 
 851-1
 起床信号。 
@@ -9889,7 +9887,8 @@ Plan for contingent expenses.
 まさに　臨機応変(りんきおうへん)　の　対応(たいおう)。　お見事(みごと)　と　いう　べき　だ　ね。 
 You handled things wonderfully playing it by ear the whole way. I have to say you did an excellent job. 
 855-13
-41回臨時総代会が29日、農協会館で開かれた。 41回(かい)　臨時(りんじ)　総代会(そうだいかい)　が　29日(にち)、　農協会館(のうきょうかいかん)　で　開か(ひらか)れた。 
+41回臨時総代会が29日、農協会館で開かれた。 
+41回(かい)　臨時(りんじ)　総代会(そうだいかい)　が　29日(にち)、　農協会館(のうきょうかいかん)　で　開か(ひらか)れた。 
 The 41st extraordinary general meeting was held at the Agricultural Cooperative Hall on the 29th. 
 855-14
 何か実際に起これば、私は臨機応変にやるだけだ。 
@@ -9969,10 +9968,8 @@ A national park in California featuring sea birds and marine life.
 主(しゅ)　なる　神(かみ)　は　東(ひがし)　の　かた、　エデン　に　一つ(ひとつ)　の　園(その)　を　設け(もうけ)て、　その　造っ(つくっ)た　人(ひと)　を　そこ　に　置か(おか)れた。 
 The Lord God planted a garden eastward inEden; and there he put the man whom he had formed. 
 856-18
-主なる神はその人に命じて言われた、
-「あなたは園のどの木からでも心のままに取って食べてよろしい。ただ園の中央にある木の実については、これを取って食べるな、これに触れるな、死んではいけないから」と、神は言われました。 
-主(しゅ)　なる　神(かみ)　は　その　人(ひと)　に　命じ(めいじ)て　言わ(いわ)れた、　
-「あなた　は　園(その)　の　どの　木(き)　から　でも　心(こころ)　の　まま　に　取っ(とっ)て　食べ(たべ)て　よろしい。　ただ　園(その)　の　中央(ちゅうおう)　に　ある　木の実(このみ)　について　は、　これ　を　取っ(とっ)て　食べる(たべる)　な、　これ　に　触れる(ふれる)　な、　死ん(しん)で　は　いけない　から」　と、　神(かみ)　は　言わ(いわ)れました。 
+主なる神はその人に命じて言われた、「あなたは園のどの木からでも心のままに取って食べてよろしい。ただ園の中央にある木の実については、これを取って食べるな、これに触れるな、死んではいけないから」と、神は言われました。 
+主(しゅ)　なる　神(かみ)　は　その　人(ひと)　に　命じ(めいじ)て　言わ(いわ)れた、　「あなた　は　園(その)　の　どの　木(き)　から　でも　心(こころ)　の　まま　に　取っ(とっ)て　食べ(たべ)て　よろしい。　ただ　園(その)　の　中央(ちゅうおう)　に　ある　木の実(このみ)　について　は、　これ　を　取っ(とっ)て　食べる(たべる)　な、　これ　に　触れる(ふれる)　な、　死ん(しん)で　は　いけない　から」　と、　神(かみ)　は　言わ(いわ)れました。 
 And the Lord God commanded the man, saying, "Of every tree of the garden thou mayest freely eat". But of the fruit of the tree which is in the midst of the garden, God hath said, "Ye shall not eat of it, neither shall ye touch it, lest ye die". 
 
 857-1
