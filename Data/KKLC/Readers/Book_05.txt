@@ -14591,8 +14591,8 @@ Bahaism has no public rituals or sacraments, and praying is done in private.
 
 929-1
 三塁手は今日さようなら犠飛をうった。 
-三塁手(さんるいしゅ)　は　今日(きょう)　さようなら　犠飛(ぎひ)　を　うった。 [
-Baseball] Today the third baseman hit a walk-off sacrifice fly. 
+三塁手(さんるいしゅ)　は　今日(きょう)　さようなら　犠飛(ぎひ)　を　うった。 
+[Baseball] Today the third baseman hit a walk-off sacrifice fly. 
 
 930-1
 至高の犠牲。 
@@ -14626,7 +14626,6 @@ The Chairman considers prostitution to be a victimless crime.
 多くの犠牲者が、手当てもされず戦場に横たわっていた。 
 多く(おおく)　の　犠牲者(ぎせいしゃ)　が、　手当て(てあて)　も　されず　戦場(せんじょう)　に　横たわっ(よこたわっ)て　いた。 
 Many casualties were lying unattended on the battlefield. 
-931-940 
 
 931-1
 主旨を要約しよう。 
@@ -14863,7 +14862,8 @@ She is a fine lecturer but she doesn't like mentoring.
 人類(じんるい)　は　太古(たいこ)　の　昔(むかし)　から　指(ゆび)　を　用い(もちい)て　食べ物(たべもの)　を　食(しょく)　して　きた　の　で　ある。 
 People have eaten with their fingers since Adam. 
 932-53
-1本以上の足指や手の指が異常な位置についている先天性異常。 1本(ぽん)　以上(いじょう)　の　足指(あしゆび)　や　手(て)　の　指(ゆび)　が　異常(いじょう)　な　位置(いち)　に　ついて　いる　先天性(せんてんせい)　異常(いじょう)。 
+1本以上の足指や手の指が異常な位置についている先天性異常。 
+1本(ぽん)　以上(いじょう)　の　足指(あしゆび)　や　手(て)　の　指(ゆび)　が　異常(いじょう)　な　位置(いち)　に　ついて　いる　先天性(せんてんせい)　異常(いじょう)。 
 A congenital defect in which one or more toes or fingers are abnormally positioned. 
 932-54
 死体は島の方を指していて、羅針盤は東南東の東を指していた。 
@@ -14879,20 +14879,13 @@ This painting has been designated an important cultural property by the Ministry
 His feet pointed in one direction, and his hands pointed directly in the opposite. 
 「-ており」　[written equivalent of verbal connective -ていて]: DJG v2 p329 & 64 of front matter if unclear about -ていて. 
 932-57
-近年では、年配の人たちを指すのに
-「高齢者」という用語をよく使う。 
-近年(きんねん)　で　は、　年配(ねんぱい)　の　人(ひと)たち　を　指す(さす)　の　に　
-「高齢者(こうれいしゃ)」　という　用語(ようご)　を　よく　使う(つかう)。 
+近年では、年配の人たちを指すのに「高齢者」という用語をよく使う。 
+近年(きんねん)　で　は、　年配(ねんぱい)　の　人(ひと)たち　を　指す(さす)　の　に　「高齢者(こうれいしゃ)」　という　用語(ようご)　を　よく　使う(つかう)。 
 Nowadays, we often use the term "senior citizen" to refer to old people. 
 932-58
-アメリカでは
-「アニメ」といえば日本製品だけを指すもので、単数形も複数形も同じ
-「
-Anime」だ。 
-アメリカ　で　は　
-「アニメ」　と　いえば　日本(にほん)　製品(せいひん)　だけ　を　指す(さす)　もの　で、　単数形(たんすうけい)　も　複数形(ふくすうけい)　も　同じ(おなじ)　
-「
-Anime」　だ。 In America, "anime" specifically refers to the Japanese product, and is used for both the singular and the plural. 
+アメリカでは「アニメ」といえば日本製品だけを指すもので、単数形も複数形も同じ「Anime」だ。 
+アメリカ　で　は　「アニメ」　と　いえば　日本(にほん)　製品(せいひん)　だけ　を　指す(さす)　もの　で、　単数形(たんすうけい)　も　複数形(ふくすうけい)　も　同じ(おなじ)　「Anime」　だ。 
+In America, "anime" specifically refers to the Japanese product, and is used for both the singular and the plural. 
 932-59
 内閣総理大臣は、国会議員の中から国会の議決で、これを指名する。この指名は、他のすべての案件に先だって、これを行う。 
 内閣(ないかく)　総理(そうり)　大臣(だいじん)　は、　国会(こっかい)　議員(ぎいん)　の　中(なか)　から　国会(こっかい)　の　議決(ぎけつ)　で、　これ　を　指名(しめい)　する。　この　指名(しめい)　は、他(ほか)　の　すべて　の　案件(あんけん)　に　先だっ(さきだっ)て、　これ　を　行(おこな)う。 
@@ -15002,7 +14995,8 @@ The alpha star in a constellation is the brightest or main star.
 The harder the conflict the more glorious the triumph. 
 「AばBほど」　{AばB程* 588} ["the more A, the more B"]: DJG v2 p6; Marx v2 day58; Tobira ch8 #5. 
 934-18
-7月革命の、最も輝かしい勝利の日の夕方に起こったことです。 7月(がつ)　革命(かくめい)　の、　最も(もっとも)　輝かしい(かがやかしい)　勝利(しょうり)　の　日(ひ)　の　夕方(ゆうがた)　に　起こっ(おこっ)た　こと　です。 
+7月革命の、最も輝かしい勝利の日の夕方に起こったことです。 
+7月(がつ)　革命(かくめい)　の、　最も(もっとも)　輝かしい(かがやかしい)　勝利(しょうり)　の　日(ひ)　の　夕方(ゆうがた)　に　起こっ(おこっ)た　こと　です。 
 It happened, in the Revolution of July, on the evening of the most brilliantly victorious day. 
 934-19
 通りに面して美しい家が並び、どれも緑の大理石でできていて、そこら中に輝くエメラルドがはめ込んであります。 
@@ -15586,7 +15580,6 @@ I aim to arrive at noon.
 ここの主人はじつに用意周到だね。 
 ここ　の　主人(しゅじん)　は　じつに　用意周到(よういしゅうとう)　だ　ね。 
 The owners here certainly are prepared for everything. 
-941-950 
 
 941-1
 倒産した会社。 
@@ -15843,13 +15836,12 @@ Please note that hackers, of course, have different standards of competence than
 ダーウィン　その　人(ひと)　の　時代(じだい)　に　は、　三つ(みっつ)　の　大(おお)きな　科学的(かがくてき)　反論(はんろん)　が　あった　こと　は、　思い出す(おもいだす)　価値(かち)　が　ある　だろう。 
 It may be worth remembering that in Darwin's own day there were three major scientific objections to his theory. 
 942-42
-1970年代末から1980年代初期にかけての全国的なアニメ複製・配布活動は非合法だったと結論づける。 1970 年代(ねんだい)　末(まつ)　から　1980年代(ねんだい)　初期(しょき)　にかけて　の　全国的(ぜんこくてき)　な　アニメ　複製(ふくせい)　・　配布(はいふ)　活動(かつどう)　は　非合法(ひごうほう)　だった　と　結論づける(けつろんづける)。 
+1970年代末から1980年代初期にかけての全国的なアニメ複製・配布活動は非合法だったと結論づける。 
+1970 年代(ねんだい)　末(まつ)　から　1980年代(ねんだい)　初期(しょき)　にかけて　の　全国的(ぜんこくてき)　な　アニメ　複製(ふくせい)　・　配布(はいふ)　活動(かつどう)　は　非合法(ひごうほう)　だった　と　結論づける(けつろんづける)。 
 We conclude that reproduction and dissemination of anime across the country in the late 1970s through early 1980s was illegal. 
 942-43
-こうした市販製品が日本国内で複製されたのであれば、その複製を正当化するのに
-「私的利用」の議論を持ち出せる。 
-こうした　市販(しはん)　製品(せいひん)　が　日本(にほん)　国内(こくない)　で　複製(ふくせい)　された　の　で　あれば、　その　複製(ふくせい)　を　正当化(せいとうか)　する　のに　
-「私的(してき)　利用(りよう)」　の　議論(ぎろん)　を　持ち出せる(もちだせる)。 
+こうした市販製品が日本国内で複製されたのであれば、その複製を正当化するのに「私的利用」の議論を持ち出せる。 
+こうした　市販(しはん)　製品(せいひん)　が　日本(にほん)　国内(こくない)　で　複製(ふくせい)　された　の　で　あれば、　その　複製(ふくせい)　を　正当化(せいとうか)　する　のに　「私的(してき)　利用(りよう)」　の　議論(ぎろん)　を　持ち出せる(もちだせる)。 
 If these commercially released products were copied on Japanese territory, one could evoke a "private use" argument in favor of their reproduction. 
 942-44
 進化論とは、その根本となる生物学的意味では、単に動植物の形態がそれとは著しく異なった形態から発展することを意味している。 
@@ -16012,7 +16004,8 @@ Australia exports most of its agricultural production.
 ドル　の　下落(げらく)　が　この　前(まえ)　の　四半期(しはんき)　の　輸出数(ゆしゅつすう)　を　引き下げ(ひきさげ)た。 
 A declining dollar pulled down the export figures for the last quarter. 
 945-15
-1998年日本の輸出が輸入を778億ドル上回った。 1998年(ねん)　日本(にほん)　の　輸出(ゆしゅつ)　が　輸入(ゆにゅう)　を　778億(おく)ドル　上回っ(うわまわっ)た。 
+1998年日本の輸出が輸入を778億ドル上回った。 
+1998年(ねん)　日本(にほん)　の　輸出(ゆしゅつ)　が　輸入(ゆにゅう)　を　778億(おく)ドル　上回っ(うわまわっ)た。 
 Japan's exports exceeded imports by $77.8 billion in 1998. 
 
 946-1
@@ -16122,7 +16115,8 @@ The librettist's fingers have learned gentleness.
 脚本家(きゃくほんか)　は、　映画(えいが)　の　台本(だいほん)　を　書い(かい)た。 
 The playwright scripted the movie. 
 949-9
-2台のオートバイを比較するべきだ。 2台(だい)　の　オートバイ　を　比較(ひかく)　する　べき　だ。 
+2台のオートバイを比較するべきだ。 
+2台(だい)　の　オートバイ　を　比較(ひかく)　する　べき　だ。 
 You should compare the two motorcycles. 
 949-10
 役に立たない器具でいっぱいの台所。 
@@ -16149,8 +16143,9 @@ The deceptive calm in the eye of the storm.
 使用人(しようにん)　は　台所(だいどころ)　の　床(ゆか)　を　ブラシ　で　ごしごし　洗っ(あらっ)た。 
 The servant scrubbed the floor of the kitchen with a brush. 
 949-16
-
-IBMは100台のコンピュータの注文を受けた。 IBM　は　100台(だい)　の　コンピュータ　の　注文(ちゅうもん)　を　受け(うけ)た。 IBM received an order for a hundred computers. 
+IBMは100台のコンピュータの注文を受けた。 
+IBM　は　100台(だい)　の　コンピュータ　の　注文(ちゅうもん)　を　受け(うけ)た。 
+IBM received an order for a hundred computers. 
 949-17
 南からの台風なら、私たちを前に運んでくれますね。 
 南(みなみ)　から　の　台風(たいふう)　なら、　私(わたし)たち　を　前(まえ)　に　運ん(はこん)で　くれます　ね。 
@@ -16266,7 +16261,8 @@ No medicine can cure a man of discontent.
 痛み(いたみ)　が　少し(すこし)　治まり(おさまり)ました。 
 The pain has abated a little. 
 950-19
-2週間もすれば自然に治る。 2週間(しゅうかん)　も　すれば　自然(しぜん)　に　治(なお)る。 
+2週間もすれば自然に治る。 
+2週間(しゅうかん)　も　すれば　自然(しぜん)　に　治(なお)る。 
 It will go away by itself in two weeks. 
 950-20
 司令官のお気楽は治らない。 
@@ -16330,7 +16326,6 @@ In politics it is almost a commonplace to say that public opinion now rules the 
 先生(せんせい)　が　言う(いう)　に　は、　船長(せんちょう)　は　回復(かいふく)　する　こと　は　間違い(まちがい)ない　が、　治る(なおる)　まで　の　数週間(すうしゅうかん)　は　歩い(あるい)て　も　腕(うで)　を　動かし(うごかし)て　も　だめ　だ　という　こと　だった。 
 The Captain was sure to recover, the doctor said, but in the meantime, and for weeks to come, he must not walk nor move his arm. 
 「〜ことは」　{〜事は* 80} ["indeed __ (but)"]: DJG v1 p206. 
-951-960 
 
 951-1
 冶金学に関する。 
@@ -16339,11 +16334,7 @@ Relating to metallurgy.
 951-2
 サー・ヘンリー・ベッセマー〚1813年−1898年〛は英国の発明者、冶金学者で、ベッセマー法を開発した。 
 サー・ヘンリー・ベッセマー　〚1813年(ねん) – 1898年(ねん)〛　は　英国(えいこく)　の　発明者(はつめいしゃ)、　冶金学者(やきんがくしゃ)　で、　ベッセマー　法(ほう)　を　開発(かいはつ)　した。 
-Sir Henry Bessemer (1
-813-189
-) 
-
-was a British inventor and metallurgist who developed the Bessemer process. 
+Sir Henry Bessemer (1813-189) was a British inventor and metallurgist who developed the Bessemer process. 
 
 952-1
 治療薬。 
@@ -16394,10 +16385,9 @@ You should stay in the hospital for treatment.
 医師(いし)ら　は　少年(しょうねん)　を　治療(ちりょう)　する　ため　に　あらゆる　手段(しゅだん)　を　尽くし(つくし)た。 
 Doctors did everything they could to cure the boy. 
 952-13
-当社は、カテーテル
-RX-2を1月11日より、全国の医療機関向けに発売します。 
-当社(とうしゃ)　は、　カテーテル　
-RX-2　を　1月(がつ)　11日(にち)　より、　全国(ぜんこく)　の　医療(いりょう)　機関(きかん)　向け(むけ)　に　発売(はつばい)　します。 On January 11, we will release the Catheter RX-2 to medical institutions across the country. 
+当社は、カテーテルRX-2を1月11日より、全国の医療機関向けに発売します。 
+当社(とうしゃ)　は、　カテーテル　RX-2　を　1月(がつ)　11日(にち)　より、　全国(ぜんこく)　の　医療(いりょう)　機関(きかん)　向け(むけ)　に　発売(はつばい)　します。 
+On January 11, we will release the Catheter RX-2 to medical institutions across the country. 
 
 953-1
 取るに足らない官僚。 
@@ -16492,10 +16482,8 @@ He sat straight up, spoke louder and clearer, and looked in every way another ma
 アニメ　放送(ほうそう)　が　アメリカ　基地(きち)　内(ない)　で　受信(じゅしん)　録画(ろくが)　された　場合(ばあい)　に　は、　話(はなし)　は　ずっと　不明瞭(ふめいりょう)　と　なる。 
 The case of an anime broadcast intercepted and recorded on US military property is much less clear. 
 954-12
-生後5ヶ月半の時、彼は明瞭に
-「だぁ」という声を発していたが、その言葉にはなんの意味も込められていなかった。 
-生後(せいご)　5ヶ月半(かげつはん)　の　時(とき)、　彼(かれ)　は　明瞭(めいりょう)　に　
-「だぁ」　という　声(こえ)　を　発し(はっし)て　いた　が、　その　言葉(ことば)　に　は　なん　の　意味(いみ)　も　込め(こめ)られて　いなかった。 
+生後5ヶ月半の時、彼は明瞭に「だぁ」という声を発していたが、その言葉にはなんの意味も込められていなかった。 
+生後(せいご)　5ヶ月半(かげつはん)　の　時(とき)、　彼(かれ)　は　明瞭(めいりょう)　に　「だぁ」　という　声(こえ)　を　発し(はっし)て　いた　が、　その　言葉(ことば)　に　は　なん　の　意味(いみ)　も　込め(こめ)られて　いなかった。 
 When five and a half months old, he uttered an articulate sound "da" but without any meaning attached to it. 
 954-13
 使用人が持っていた時計は常にロンドン時間を指していたので、もしも時間とともに日付も示していたら、この事実は一目瞭然だったのである。 
@@ -16684,19 +16672,16 @@ Insensibly one begins to twist facts to suit theories, instead of theories to su
 へーウッド　氏(し)　は　米国(べいこく)　の　労働(ろうどう)　指導者(しどうしゃ)、　好戦的(こうせんてき)　な　社会主義者(しゃかいしゅぎしゃ)　で、　世界(せかい)　産業(さんぎょう)　労働(ろうどう)　組合(くみあい)　の　創始者(そうししゃ)　の　うち　の　一人(ひとり)　で　あった。 
 Haywood was a United States labor leader and militant socialist who was one of the founders of the Industrial Workers of the World. 
 956-40
-重要な点として、
-A.D.ヴィジョンはファンネットワークから始まり、その初期の売り上げはファンネットワークに依存していた。 
-重要(じゅうよう)　な　点(てん)　として、　
-A.D.ヴィジョン　は　ファン　ネットワーク　から　始まり(はじまり)、　その　初期(しょき)　の　売り上げ(うりあげ)　は　ファン　ネットワーク　に　依存(いぞん)　して　いた。 Significantly, A.D. Vision got its start in the fan network, and depended upon it for its initial sales. 
+重要な点として、A.D.ヴィジョンはファンネットワークから始まり、その初期の売り上げはファンネットワークに依存していた。 
+重要(じゅうよう)　な　点(てん)　として、　A.D.ヴィジョン　は　ファン　ネットワーク　から　始まり(はじまり)、　その　初期(しょき)　の　売り上げ(うりあげ)　は　ファン　ネットワーク　に　依存(いぞん)　して　いた。 
+Significantly, A.D. Vision got its start in the fan network, and depended upon it for its initial sales. 
 956-41
 プロジェクトの創始者は、他の人に受け入れられるか、つかいものになるかも分からない新しいアイデアを、伝道師のように売り込まなくてはならない。 
 プロジェクト　の　創始者(そうししゃ)　は、　他(ほか)　の　人(ひと)　に　受け入れ(うけいれ)られる　か、　つかいもの　に　なる　か　も　分から(わから)ない　新(あたら)しい　アイデア　を、　伝道師(でんどうし)　の　よう　に　売り込ま(うりこま)なくて　は　ならない。 
 The project founder has to do a missionary sell of a new idea that may or may not be acceptable or of use to others. 
 956-42
-神は言われた、
-「民は一つで、みな同じ言葉である。彼等はすでにこの事をし始めた。彼等がしようとする事は、もはや何事も止め得ないであろう」。 
-神(かみ)　は　言わ(いわ)れた、　
-「民(たみ)　は　一つ(ひとつ)　で、　みな　同じ(おなじ)　言葉(ことば)　で　ある。　彼等(かれら)　は　すでに　この　事(こと)　を　し始め(はじめ)た。　彼等(かれら)　が　しよう　と　する　事(こと)　は、　もはや　何事(なにごと)　も　止め得ない(とどめえない)　で　あろう」。 
+神は言われた、「民は一つで、みな同じ言葉である。彼等はすでにこの事をし始めた。彼等がしようとする事は、もはや何事も止め得ないであろう」。 
+神(かみ)　は　言わ(いわ)れた、　「民(たみ)　は　一つ(ひとつ)　で、　みな　同じ(おなじ)　言葉(ことば)　で　ある。　彼等(かれら)　は　すでに　この　事(こと)　を　し始め(はじめ)た。　彼等(かれら)　が　しよう　と　する　事(こと)　は、　もはや　何事(なにごと)　も　止め得ない(とどめえない)　で　あろう」。 
 And the Lord said, "Behold, the people is one, and they have all one language; and this they begin to do: and now nothing will be restrained from them, which they have imagined to do". 
 
 957-1
@@ -16820,10 +16805,9 @@ We had the last laugh after the votes were counted.
 最終(さいしゅう)　の　画面(がめん)　は、　主人公(しゅじんこう)　に　結局(けっきょく)　何(なに)　が　起こっ(おこっ)た　の　か　を　伝え(つたえ)た。 
 The final screen told what eventually happened to the main characters. 
 957-31
-イランに関する
-BBCの特別番組の最終回は今や放送される。 
-イラン　に関する(にかんする)　
-BBC　の　特別(とくべつ)　番組(ばんぐみ)　の　最終回(さいしゅうかい)　は　今や(いまや)　放送(ほうそう)　される。 The last of a series of BBC specials on Iran is being shown tonight. 
+イランに関するBBCの特別番組の最終回は今や放送される。 
+イラン　に関する(にかんする)　BBC　の　特別(とくべつ)　番組(ばんぐみ)　の　最終回(さいしゅうかい)　は　今や(いまや)　放送(ほうそう)　される。 
+The last of a series of BBC specials on Iran is being shown tonight. 
 957-32
 私は、彼がそんなに短い時間でこの仕事を終えるとは期待していなかった。 
 私(わたし)　は、　彼(かれ)　が　そんなに　短い(みじかい)　時間(じかん)　で　この　仕事(しごと)　を　終える(おえる)　と　は　期待(きたい)　して　いなかった。 
@@ -16956,7 +16940,6 @@ The cold air condensed the steam.
 蒸して調理したプディング。 
 蒸し(むし)て　調理(ちょうり)　した　プディング。 
 A pudding cooked by steaming. 
-961-970 
 
 961-1
 異常な振る舞い。 
@@ -17419,7 +17402,6 @@ They went to pay a visit to their friends in Gifu.
 岐阜は日本の真ん中に位置し、多くの歴史上の事件が起こった場所である。 
 岐阜(ぎふ)　は　日本(にほん)　の　真ん中(まんなか)　に　位置(いち)　し、　多く(おおく)　の　歴史上(れきしじょう)　の　事件(じけん)　が　起こっ(おこっ)た　場所(ばしょ)　で　ある。 
 Located in the very center of Japan, Gifu has been the site of many historical events. 
-971-980 
 
 971-1
 急な落下。 
@@ -17486,7 +17468,8 @@ Please come most urgently.
 急い(いそい)で　埋め(うめ)られた　死体(したい)。 
 Hastily buried corpses. 
 971-17
-5月の中旬の急激な寒波。 5月(がつ)　の　中旬(ちゅうじゅん)　の　急激(きゅうげき)　な　寒波(かんぱ)。 
+5月の中旬の急激な寒波。 
+5月(がつ)　の　中旬(ちゅうじゅん)　の　急激(きゅうげき)　な　寒波(かんぱ)。 
 A sudden cold snap in the middle of May. 
 971-18
 急いで、無鉄砲な態度で。 
@@ -17812,7 +17795,8 @@ The splendid coronation ceremony.
 実に(じつに)　素晴らしい(すばらしい)　考え(かんがえ)　だ。 
 What a wonderful idea! 
 975-6
-10月は快晴の日が多い。 10月(がつ)　は　快晴(かいせい)　の　日(ひ)　が　多い(おおい)。 
+10月は快晴の日が多い。 
+10月(がつ)　は　快晴(かいせい)　の　日(ひ)　が　多い(おおい)。 
 We have a lot of very fine days in October. 
 975-7
 美しく晴れ渡った日だった。 
@@ -18446,7 +18430,8 @@ In what discipline is his doctorate?
 この　列車(れっしゃ)　は　東京(とうきょう)　博多(はかた)　間(かん)　を　走っ(はしっ)て　いる。 
 This train runs between Tokyo and Hakata. 
 983-11
-10分歩くと私たちは博物館へ着いた。 10分(ぷん)　歩く(あるく)　と　私(わたし)たち　は　博物館(はくぶつかん)　へ　着い(つい)た。 
+10分歩くと私たちは博物館へ着いた。 
+10分(ぷん)　歩く(あるく)　と　私(わたし)たち　は　博物館(はくぶつかん)　へ　着い(つい)た。 
 We arrived at the museum after a ten-minute walk. 
 983-12
 新しい博物館は行ってみる価値がある。 
@@ -18785,7 +18770,6 @@ The color scheme for this room was determined by an interior decorator.
 その記憶さえも、年毎に色彩は薄れるらしい。 
 その　記憶(きおく)　さえ　も、　年毎(としごと)　に　色彩(しきさい)　は　薄れる(うすれる)　らしい。 
 Even that memory would fade a little with each passing year. 
-991-100 
 
 991-1
 中学生たちは杉林で写生した。 
@@ -19302,7 +19286,8 @@ The hypotenuse of a right triangle is always the longest side.
 木々の間をよろぼい歩き、彼はようやく、静かな場所、松の木が生えている斜面に出た。 
 木々(きぎ)　の　間(あいだ)　を　よろぼい歩(ある)き、　彼(かれ)　は　ようやく、　静か(しずか)　な　場所(ばしょ)、　松の木(まつのき)　が　生え(はえ)て　いる　斜面(しゃめん)　に　出(で)た。 
 Stumbling through the trees, he at last came on a quiet place where pine trees grew on a slope. 
-「ようやく〜」　{漸く〜** 1705} ["finally __"]: DJG v2 p591 (covered under やっと〜). 1000：　途 1
+「ようやく〜」　{漸く〜** 1705} ["finally __"]: DJG v2 p591 (covered under やっと〜). 
+
 1000-1
 途切れた快楽。 
 途切れ(とぎれ)た　快楽(かいらく)。 
@@ -19310,23 +19295,23 @@ Interrupted pleasure. 1
 1000-2
 途切れなく列をなす車。 
 途切れ(とぎれ)　なく　列(れつ)　を　なす　車(くるま)。 
-Cars in an unbroken procession. (101) 1
+Cars in an unbroken procession. 
 1000-3
 家族手当は別途支給する。 
 家族(かぞく)　手当(てあて)　は　別途(べっと)　支給(しきゅう)　する。 
-We shall pay your family allowance separately. 1
+We shall pay your family allowance separately. 
 1000-4
 その後、彼女の声は途切れた。 
 その　後(ご)、　彼女(かのじょ)　の　声(こえ)　は　途切れ(とぎれ)た。 
-Then there was a break in her voice. (101) 1
+Then there was a break in her voice.
 1000-5
 途切れ途切れになった話の断片。 
 途切れ(とぎれ)　途切れ(とぎれ)　に　なった　話(はなし)　の　断片(だんぺん)。 
-Disconnected fragments of a story. (101) 1
+Disconnected fragments of a story. 
 1000-6
 胡椒×は調味料として用途が広い。 
 胡椒×(こしょう)　は　調味料(ちょうみりょう)　として　用途(ようと)　が　広い(ひろい)。 
-Black pepper is widely used as a seasoning. (100) 1
+Black pepper is widely used as a seasoning. 
 1000-7
 発展途上国には外部の助けが必要である。 
 発展(はってん)　途上(とじょう)　国(こく)　に　は　外部(がいぶ)　の　助け(たすけ)　が　必要(ひつよう)　で　ある。 
@@ -19334,36 +19319,36 @@ Developing nations need outside help. (101) 1
 1000-8
 お母さんがお祈りの途中でやめさせます。 
 お母さん(おかあさん)　が　お祈り(おいのり)　の　途中(とちゅう)　で　やめさせます。 
-Her mother interrupted her in the middle of her prayer. (98) 1
+Her mother interrupted her in the middle of her prayer. 
 1000-9
 我らは学校に行く途中でその事故を見た。 
 我ら(われら)　は　学校(がっこう)　に　行く(いく)　途中(とちゅう)　で　その　事故(じこ)　を　見(み)た。 
-We saw the accident on the way to school. (87) 1
+We saw the accident on the way to school. 
 1000-10
 彼は年取った女性のことを一途に心配した。 
 彼(かれ)　は　年取っ(としとっ)た　女性(じょせい)　の　こと　を　一途(いちず)　に　心配(しんぱい)　した。 
-He was taken up in worry for the old woman. (101) 1
+He was taken up in worry for the old woman. 
 1000-11
 来る途中で彼の身に何かが起こったに違いない。 
 来る(くる)　途中(とちゅう)　で　彼(かれ)　の　身(み)　に　何(なに)　か　が　起こっ(おこっ)た　に　違い(ちがい)ない。 
-Something must have happened to him on the way. (87) 1
+Something must have happened to him on the way. 
 1000-12
 口に出されていないことの、途方もない静けさ。 
 口(くち)　に　出さ(ださ)れて　いない　こと　の、　途方(とほう)　も　ない　静けさ(しずけさ)。 
-The thundering silence of what was left unsaid. (101) 1
+The thundering silence of what was left unsaid. 
 1000-13
 薬理学的に、この植物には重要な用途があるかもしれない。 
 薬理学的(やくりがくてき)　に、　この　植物(しょくぶつ)　に　は　重要(じゅうよう)　な　用途(ようと)　が　ある　かも　しれない。 
-Pharmacologically, this plant could have important applications. (101) 1
+Pharmacologically, this plant could have important applications. 
 1000-14
 私は毎日仕事へ行く途中でこの男性に会い、彼は私に敬礼する。 
 私(わたし)　は　毎日(まいにち)　仕事(しごと)　へ　行く(いく)　途中(とちゅう)　で　この　男性(だんせい)　に　会い(あい)、　彼(かれ)　は　私(わたし)　に　敬礼(けいれい)　する。 
-I meet this man every day on my way to work and he salutes me. (101) 1
+I meet this man every day on my way to work and he salutes me. 
 1000-15
 黄さんはイタリアへ行く途中でイタリア語を学び始めた。 
 黄(フアン)さん　は　イタリア　へ　行く(いく)　途中(とちゅう)　で　イタリア語(ご)　を　学び始め(まなびはじめ)た。 
-Huang-san started studying Italian on his way to Italy. (101) 1
+Huang-san started studying Italian on his way to Italy. 
 1000-16
 胡さんはいくらか行き当たりばったりで途切れ途切れの学校教育を受けた。 
 胡(フ)さん　は　いくら　か　行き当たり(いきあたり)　ばったり　で　途切れ(とぎれ)　途切れ(とぎれ)　の　学校(がっこう)　教育(きょういく)　を　受け(うけ)た。 
-Hu-san received a somewhat haphazard and discontinuous schooling. (101)
+Hu-san received a somewhat haphazard and discontinuous schooling. 

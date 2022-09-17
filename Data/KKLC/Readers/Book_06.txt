@@ -3,7 +3,6 @@
 塗り直す。 
 塗り直す(ぬりなおす)。 
 Re-paint.  
-
 1001-2
 下塗りを施す。 
 下塗り(したぬり)　を　施す(ほどこす)。 
@@ -74,9 +73,8 @@ The surface was ready for a coating of paint.
 The painter scraped away the accretions of paint. 
 1001-19
 「ハエ取り紙」とは、ハエを殺すために毒を塗った、あるいはねばねばした物質を塗った紙のことを指す。 
-「ハエ取り(とり)　紙(がみ)」　と　は、　ハエ　を　殺す(ころす)　ため　に　毒(どく)　を　塗っ(ぬっ)た、　あるいは　ねばねば　した　物質(ぶっしつ)　を　塗っ(ぬっ)た　紙(かみ)　の　こと　を　指す(さす)。 "
-Fly paper" is paper that is coated with a poison or sticky substance to kill flies. 
-
+「ハエ取り(とり)　紙(がみ)」　と　は、　ハエ　を　殺す(ころす)　ため　に　毒(どく)　を　塗っ(ぬっ)た、　あるいは　ねばねば　した　物質(ぶっしつ)　を　塗っ(ぬっ)た　紙(かみ)　の　こと　を　指す(さす)。 
+"Fly paper" is paper that is coated with a poison or sticky substance to kill flies. 
 
 1002-1
 古典的な漆器。 
@@ -286,7 +284,8 @@ The captain is responsible for the safety of passengers.
 船(ふね)　は　乗務員(じょうむいん)　全員(ぜんいん)　を　乗せ(のせ)た　まま　沈没(ちんぼつ)　した。 
 The ship sank with all her crew on board. 
 1005-30
-8年間も乗った車はほとんど価値がない。 8年間(ねんかん)　も　乗っ(のっ)た　車(くるま)　は　ほとんど　価値(かち)　が　ない。 
+8年間も乗った車はほとんど価値がない。 
+8年間(ねんかん)　も　乗っ(のっ)た　車(くるま)　は　ほとんど　価値(かち)　が　ない。 
 An eight-year-old car is almost worthless. 
 1005-31
 除法は乗法の反対である算術演算だ。 
@@ -572,8 +571,6 @@ The forwarding of mail to a new address is done automatically.
 これら　郵便物(ゆうびんぶつ)　は、　待ちかまえ(まちかまえ)て　いる　急行列車(きゅうこうれっしゃ)　に　よって　ダブリン　に　運ば(はこば)れて　いく。 
 These mails are carried to Dublin by express trains always held in readiness to start. 
 
-1011-102 
-
 1011-1
 錘形の機械を用いる。 
 錘形(つむがた)　の　機械(きかい)　を　用いる(もちいる)。 
@@ -595,7 +592,8 @@ Small fusiform fish of the western Atlantic.
 菜奈(なな)さん　は　紡錘(ぼうすい)　を　使っ(つかっ)て　糸(いと)　を　作っ(つくっ)て　いた。 
 Nana was using a spindle to make thread. 
 1011-6
-1つの紡錘を動かす、手動または足で動かす、小型の家庭用紡績機。 1つ　の　紡錘(ぼうすい)　を　動かす(うごかす)、　手動(しゅどう)　または　足(あし)　で　動かす(うごかす)、　小型(こがた)　の　家庭用(かていよう)　紡績機(ぼうせきき)。 
+1つの紡錘を動かす、手動または足で動かす、小型の家庭用紡績機。 
+1つ　の　紡錘(ぼうすい)　を　動かす(うごかす)、　手動(しゅどう)　または　足(あし)　で　動かす(うごかす)、　小型(こがた)　の　家庭用(かていよう)　紡績機(ぼうせきき)。 
 A small domestic spinning machine with a single spindle that is driven by hand or foot. 
 1011-7
 上にはカッコーが乗っていますし、下にはとても重い錘がぶら下がっています。 
@@ -812,7 +810,8 @@ The young woman was allowed to sleep in one of the waiting-rooms of the station.
 床屋(とこや)　は　昼食(ちゅうしょく)　の　後(あと)、　毎日(まいにち)　2時間(じかん)　昼寝(ひるね)　する。 
 The barber naps everyday after lunch for two hours. 
 1015-15
-2時間しか寝なかった。眠いのは当然だ。 2時間(じかん)　しか　寝(ね)なかった。　眠い(ねむい)　の　は　当然(とうぜん)　だ。 
+2時間しか寝なかった。眠いのは当然だ。 
+2時間(じかん)　しか　寝(ね)なかった。　眠い(ねむい)　の　は　当然(とうぜん)　だ。 
 I slept only two hours. No wonder I'm sleepy. 
 1015-16
 寝室の窓用にレースのカーテンを買った。 
@@ -1227,7 +1226,8 @@ The author recaptures an old idea here.
 新鮮(しんせん)　な　空気(くうき)　で　乗客(じょうきゃく)　は　元気(げんき)　を　取り戻し(とりもどし)た。 
 The freshness of the air revived the passengers. 
 1019-15
-4時に一行は駅に戻り、列車に乗った。 4時(じ)　に　一行(いっこう)　は　駅(えき)　に　戻り(もどり)、　列車(れっしゃ)　に　乗っ(のっ)た。 
+4時に一行は駅に戻り、列車に乗った。 
+4時(じ)　に　一行(いっこう)　は　駅(えき)　に　戻り(もどり)、　列車(れっしゃ)　に　乗っ(のっ)た。 
 At four the party found themselves again at the station, and took their places in the train. 
 1019-16
 私は、親友が戦争から戻ると信じている。 
@@ -1314,8 +1314,6 @@ The judge was so moved by the story her eyes welled up with tears.
 実家に帰ってきた時、涙が私の顔を伝わって落ちた。 
 実家(じっか)　に　帰(かえ)って　きた　時(とき)、　涙(なみだ)　が　私(わたし)　の　顔(かお)　を　伝わっ(つたわっ)て　落ち(おち)た。 
 Tears ran down my face when I returned home. 
-
-1021-103 
 
 1021-1
 直射。 
@@ -1586,16 +1584,16 @@ A "revised edition" is a publication that has been revised and/or corrected and 
 
 1025-1
 打席に着く。 
-打席(だせき)　に　着く(つく)。 [
-Baseball] Have a turn at bat. 
+打席(だせき)　に　着く(つく)。 
+[Baseball] Have a turn at bat. 
 1025-2
 圧倒的に打破する。 
 圧倒的(あっとうてき)　に　打破(だは)　する。 
 Defeat overwhelmingly.  
 1025-3
 三塁打を打つ。 
-三塁打(さんるいだ)　を　打つ(うつ)。 [
-Baseball] Hit a triple. 
+三塁打(さんるいだ)　を　打つ(うつ)。 
+[Baseball] Hit a triple. 
 1025-4
 終止符を打つ。 
 終止符(しゅうしふ)　を　打つ(うつ)。 
@@ -1610,8 +1608,8 @@ A casual manner.
 Slap savagely.  
 1025-7
 基準打数5のホール。 
-基準(きじゅん)　打数(だすう)　5　の　ホール。 [
-Golf] A par-5 hole. 
+基準(きじゅん)　打数(だすう)　5　の　ホール。 
+[Golf] A par-5 hole. 
 1025-8
 議論は打ち切られた。 
 議論(ぎろん)　は　打ち切ら(うちきら)れた。 
@@ -1699,8 +1697,8 @@ A breakthrough may be possible next year.
 I was very touched by the stranger's kindness. 
 1025-29
 「私もそう思うわ」と彼女は相づちを打った。 
-「私(わたし)　も　そう　思う(おもう)　わ」　と　彼女(かのじょ)　は　相づち(あいづち)　を　打っ(うっ)た。 "
-I think so, too", she chimed in. 
+「私(わたし)　も　そう　思う(おもう)　わ」　と　彼女(かのじょ)　は　相づち(あいづち)　を　打っ(うっ)た。 
+"I think so, too", she chimed in. 
 1025-30
 教師は定規で侵入者の顔をぴしゃりと打った。 
 教師(きょうし)　は　定規(じょうぎ)　で　侵入者(しんにゅうしゃ)　の　顔(かお)　を　ぴしゃり　と　打っ(うっ)た。 
