@@ -1,9 +1,7 @@
-
 1301-1
 旺盛な食欲。 
 旺盛(おうせい)　な　食欲(しょくよく)。 
 A hearty appetite. 
-
 1301-2
 元気旺盛な。 
 元気(げんき)　旺盛(おうせい)　な。 
@@ -36,7 +34,7 @@ Makoto placed the cake on a sweets tray and carried it away.
 People believe that the ancestors' spirits return home at o-bon. 
 1302-5
 京都は盆地なので夏にあつい。従って、京町家で家の中に風を通すような、涼しい工夫がしてある。 
-京都(きょうと)　は　盆地(ぼんち)　な　ので　夏(なつ)　に　あつい。　従って(したがって)、　京町家(きょうまちや)　で　家(いえ)　の　中(なか)　に　風(かぜ)　を　通す(とおす)　よう　な、　涼しい(すずしい)　工夫(くふう)　が　して　ある。 
+京都(きょうと)　は　盆地(ぼんち)　な　ので　夏(なつ)　に　あつい。　従って(したがって)、　京町家(きょうまちや)　で　家(いえ)　の　中(なか)　に　風(かぜ)　を　通す(とおす) よう　な、　涼しい(すずしい)　工夫(くふう)　が　して　ある。 
 Kyoto lies in a basin and gets hot in the summer. Accordingly, the kyomachi houses are built to circulate air so they can stay cool. 
 「したがって〜」　{従って〜　869} ["accordingly, __"]: DJG v2 p395. 
 

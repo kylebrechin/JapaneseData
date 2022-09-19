@@ -16454,7 +16454,8 @@ Permits of Use shall be revoked in the following cases:
 消防(しょうぼう)　や　消火(しょうか)　に　責任(せきにん)　を　負う(おう)　地方自治体(ちほうじちたい)　の　機関(きかん)。 
 The department of local government responsible for preventing and extinguishing fires. 
 1289-22
-3月の米消費者物価指数が市場の予想を下回る。 3月(がつ)　の　米(べい)　消費者(しょうひしゃ)　物価(ぶっか)　指数(しすう)　が　市場(しじょう)　の　予想(よそう)　を　下回る(したまわる)。 
+3月の米消費者物価指数が市場の予想を下回る。 
+3月(がつ)　の　米(べい)　消費者(しょうひしゃ)　物価(ぶっか)　指数(しすう)　が　市場(しじょう)　の　予想(よそう)　を　下回る(したまわる)。 
 The American Consumer Price Index for March is lower than market expectations. 
 1289-23
 知事が県人事委員会に処分の取り消しを求めた。 
@@ -16497,7 +16498,8 @@ She hasn't heard from her brothers in years—they dropped off the radar after t
 ブルジョアジー　は、　世界(せかい)　市場(しじょう)　の　開発(かいはつ)　を　通して(とおして)、　どこ　の　国(くに)　でも　生産(せいさん)　と　消費(しょうひ)　に　世界主義的(せかいしゅぎてき)　性格(せいかく)　を　与え(あたえ)ます。 
 The bourgeoisie has through its exploitation of the world-market given a cosmopolitan character to production and consumption in every country. 
 1289-33
-3年ほど経って、ここに述べた出来事が私の記憶から消えかけていたころ、私は偽造アメリカ国債の受け渡しを支援するため、ニューヨークを訪れた。 3年(ねん)　ほど　経っ(たっ)て、　ここ　に　述べ(のべ)た　出来事(できごと)　が　私(わたし)　の　記憶(きおく)　から　消え(きえ)かけて　いた　ころ、　私(わたし)　は　偽造(ぎぞう)　アメリカ　国債(こくさい)　の　受け渡し(うけわたし)　を　支援(しえん)　する　ため、　ニューヨーク　を　訪れ(おとずれ)た。 
+3年ほど経って、ここに述べた出来事が私の記憶から消えかけていたころ、私は偽造アメリカ国債の受け渡しを支援するため、ニューヨークを訪れた。 
+3年(ねん)　ほど　経っ(たっ)て、　ここ　に　述べ(のべ)た　出来事(できごと)　が　私(わたし)　の　記憶(きおく)　から　消え(きえ)かけて　いた　ころ、　私(わたし)　は　偽造(ぎぞう)　アメリカ　国債(こくさい)　の　受け渡し(うけわたし)　を　支援(しえん)　する　ため、　ニューヨーク　を　訪れ(おとずれ)た。 
 Some three years later, when the events herein related had nearly faded from my memory, I went to New York to assist in passing some counterfeit United States bonds. 
 1289-34
 人類の歴史のなかで、ある国民と他の国民を結びつけてきた政治的なつながりを解消し、世界の国々のなかで自然の法則と神の法則が与えてくれる、独立した対等な立場をとることが必要になる場合がある。 
@@ -16528,7 +16530,6 @@ There was a glass door with gold writing that said:
 先に窓硝子に水滴で画かれたものの写しを見ることの出来ないのは、大変遺憾です。 
 先(さき)　に　窓(まど)　硝子(ガラス)　に　水滴(すいてき)　で　画か(えがか)れた　もの　の　写し(うつし)　を　見る(みる)　こと　の　出来(でき)ない　の　は、　大変(たいへん)　遺憾(いかん)　です。 
 It is a thousand pities that we are unable to see a reproduction of that which was just now painted upon the window in drops of water. 
-1291-130 
 
 1291-1
 末梢的論点。 
@@ -16593,12 +16594,8 @@ Dr. Sakurai has just joined us tonight.
 私(わたし)　は　あの　時(とき)　に　梢枝(こずえ)さん　が　演じ(えんじ)た　役割(やくわり)　を　今宵(こよい)　演じ(えんじ)て　みよう　と　は　思い(おもい)ません。 
 I will not attempt to play tonight the part that Kozue played on another occasion. 
 1293-4
-金星は
-「明けの明星」あるいは
-「宵の明星」として地球から見られるのです。 
-金星(きんせい)　は　
-「明け(あけ)　の　明星(みょうじょう)」　あるいは　
-「宵(よい)　の　明星(みょうじょう)」　として　地球(ちきゅう)　から　見(み)られる　の　です。 
+金星は「明けの明星」あるいは「宵の明星」として地球から見られるのです。 
+金星(きんせい)　は　「明け(あけ)　の　明星(みょうじょう)」　あるいは　「宵(よい)　の　明星(みょうじょう)」　として　地球(ちきゅう)　から　見(み)られる　の　です。 
 Venus is visible from Earth as the 'morning star' or 'evening star'. 
 1293-5
 同じものであることが知られる前には、宵の明星はビーナスとよばれ、明けの明星はルシファーとよばれていた。 
