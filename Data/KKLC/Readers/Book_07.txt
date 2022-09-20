@@ -400,8 +400,8 @@ Sakurako is fluent in Mandarin.
 Fluency in spoken and written English is essential. 
 1309-4
 「そして今、私たちはこの会話を続けるべきだ」と、彼は流暢に言った。 
-「そして　今(いま)、　私(わたし)たち　は　この　会話(かいわ)　を　続ける(つづける)　べき　だ」　と、　彼(かれ)　は　流暢(りゅうちょう)　に　言っ(いっ)た。 ‘
-And now', he said smoothly, 'we should continue the conversation'. 
+「そして　今(いま)、　私(わたし)たち　は　この　会話(かいわ)　を　続ける(つづける)　べき　だ」　と、　彼(かれ)　は　流暢(りゅうちょう)　に　言っ(いっ)た。 
+‘And now', he said smoothly, 'we should continue the conversation'. 
 
 1310-1
 斜陽産業。 
@@ -472,10 +472,9 @@ The Sanyo Region is a part of the Chugoku Region.
 団体(だんたい)　は　落陽(らくよう)　に　向かっ(むかっ)て　西(にし)　へ　と　旅行(りょこう)　した。 
 The group traveled westward toward the setting sun. 
 1310-18
-捨て子は
-HIV陽性であることが判明した。 
-捨て子(すてご)　は　
-HIV　陽性(ようせい)　で　ある　こと　が　判明(はんめい)　した。 The foundling turned up HIV positive. 
+捨て子はHIV陽性であることが判明した。 
+捨て子(すてご)　は　HIV　陽性(ようせい)　で　ある　こと　が　判明(はんめい)　した。 
+The foundling turned up HIV positive. 
 1310-19
 こんな暖かい陽気は2月としては異常だ。 
 こんな　暖(あたた)かい　陽気(ようき)　は　2月(がつ)　として　は　異常(いじょう)　だ。 
@@ -513,7 +512,6 @@ As soon as the sun had climbed above our cabin’s girdle of trees, it fell with
 何百人もの人々が歩いたり馬に乗ったり、荷馬車や荷車に乗ったりしてお祭りに向かって急ぎ足で陽気に通り過ぎていました。 
 何百人(なんびゃくにん)　も　の　人々(ひとびと)　が　歩い(あるい)たり　馬(うま)　に　乗っ(のっ)たり、　荷馬車(にばしゃ)　や　荷車(にぐるま)　に　乗っ(のっ)たり　して　お祭り(おまつり)　に　向かっ(むかっ)て　急ぎ足(いそぎあし)　で　陽気(ようき)　に　通り過ぎ(とおりすぎ)て　いました。 
 Hundreds of people, on foot and on horseback, in wagons or in carts, went by, tramping quickly and joyously on to the fair. 
-1311-132 
 
 1311-1
 陰毛。 
@@ -548,8 +546,9 @@ Malicious gossip.
 日陰(ひかげ)　で　非常(ひじょう)　に　涼しい(すずしい)。 
 It is very cool in the shade. 
 1311-9
-
-HIVテストは陰性だった。 HIV　テスト　は　陰性(いんせい)　だった。 The HIV test was negative. 
+HIVテストは陰性だった。 
+HIV　テスト　は　陰性(いんせい)　だった。 
+The HIV test was negative. 
 1311-10
 涼しく陰をなした森林地帯。 
 涼しく(すずしく)　陰(かげ)　を　なした　森林地帯(しんりんちたい)。 
@@ -997,8 +996,6 @@ This Tribunal shall decide on general amnesty, special amnesty, commutation of p
 「聖年(せいねん)」　と　は、　罪(つみ)　から　赦免(しゃめん)　される　期間(きかん)　の　こと　を　指す(さす)　〚通常(つうじょう)　25年(ねん)　ごと　に　与え(あたえ)られる〛。 
 A "jubilee" is a period of remission from sin (usually granted every 25 years). 
 
-1321-133 
-
 1321-1
 陽気な追跡。 
 陽気(ようき)　な　追跡(ついせき)。 
@@ -1154,7 +1151,8 @@ Dancer.
 タンゴ　を　踊る(おどる)。 
 Dance a tango. 
 1325-3
-17世紀の上品な宮廷舞踊。 17世紀(せいき)　の　上品(じょうひん)　な　宮廷(きゅうてい)　舞踊(ぶよう)。 
+17世紀の上品な宮廷舞踊。 
+17世紀(せいき)　の　上品(じょうひん)　な　宮廷(きゅうてい)　舞踊(ぶよう)。 
 A stately court dance in the 17th century. 
 1325-4
 彼女の踊りの技術的な輝き。 
@@ -1177,7 +1175,8 @@ My grandparents liked to dance the twist.
 「マズルカ」　と　は、　ポーランド　の　三拍子(さんびょうし)　の　民族(みんぞく)　舞踊(ぶよう)　の　こと　を　言う(いう)。 
 The "mazurka" is a Polish national dance in triple time. 
 1325-9
-10時までに帰ってくるという条件で、踊りにいくのを許そう。 10時(じ)　まで　に　帰っ(かえっ)て　くる　という　条件(じょうけん)　で、　踊り(おどり)　に　いく　の　を　許そ(ゆるそ)う。 
+10時までに帰ってくるという条件で、踊りにいくのを許そう。 
+10時(じ)　まで　に　帰っ(かえっ)て　くる　という　条件(じょうけん)　で、　踊り(おどり)　に　いく　の　を　許そ(ゆるそ)う。 
 On condition you are back by ten o'clock, you may go to the dance. 
 1325-10
 彼女は数時間前、彼と踊った時と同じように軽く彼の腕にもたれていた。 
@@ -1502,7 +1501,6 @@ The company donated a miserable $100 for flood relief.
 聞き取ることのできず忍び寄る、時の足音−シェイクスピア。 
 聞き取る(ききとる)　こと　の　できず　忍び寄る(しのびよる)、　時(とき)　の　足音(あしおと)　−　シェイクスピア。 
 The inaudible and noiseless foot of time- Shakespeare. 
-1331-134 
 
 1331-1
 軽騎兵。 
@@ -1635,7 +1633,8 @@ To the north of that, again, there comes another cape.
 その　岬(みさき)　も　段々(だんだん)　遠く(とおく)　なり、　視界(しかい)　の　外(そと)　に　消え(きえ)た。 
 The spit itself had almost melted out of sight in the growing distance. 
 1335-3
-1時間後、アンリエッタ号はハドソン川の入り口を指し示す灯台のそばを通り、サンデーフック岬を回って海に出た。 1時間後(じかんご)、　アンリエッタ号(ごう)　は　ハドソン川(がわ)　の　入り口(いりぐち)　を　指し示す(さししめす)　灯台(とうだい)　の　そば　を　通り(とおり)、　サンデー　フック　岬(みさき)　を　回っ(まわっ)て　海(うみ)　に　出(で)た。 
+1時間後、アンリエッタ号はハドソン川の入り口を指し示す灯台のそばを通り、サンデーフック岬を回って海に出た。 
+1時間後(じかんご)、　アンリエッタ号(ごう)　は　ハドソン川(がわ)　の　入り口(いりぐち)　を　指し示す(さししめす)　灯台(とうだい)　の　そば　を　通り(とおり)、　サンデー　フック　岬(みさき)　を　回っ(まわっ)て　海(うみ)　に　出(で)た。 
 An hour later, the Henrietta passed the lighthouse which marks the entrance of the Hudson, turned the point of Sandy Hook, and put to sea. 
 
 1336-1
@@ -1859,7 +1858,6 @@ Inside the cemetery she always felt secure, as if no one could see her.
 お前は決して人の家を訪れているのではなくて、墓地の中の平家の墓の間で、夜を過していたのだ。 
 お前(おまえ)　は　決して(けっして)　人(ひと)　の　家(いえ)　を　訪れ(おとずれ)て　いる　の　で　は　なくて、　墓地(ぼち)　の　中(なか)　の　平家(へいけ)　の　墓(はか)　の　間(あいだ)　で、　夜(よる)　を　過し(すごし)て　いた　の　だ。 
 You have not been visiting any house whatever, but have been passing your nights in the cemetery, among the tombs of the Heike. 
-1341-135 
 
 1341-1
 人員募集。 
@@ -1874,7 +1872,8 @@ Respond to a job announcement.
 時(とき)　とともに　不安(ふあん)　が　募っ(つのっ)た。 
 Their anxiety was becoming intense. 
 1341-4
-30人の決死隊を募りましょう！ 30人(にん)　の　決死隊(けっしたい)　を　募り(つのり)ましょう！ 
+30人の決死隊を募りましょう！ 
+30人(にん)　の　決死隊(けっしたい)　を　募り(つのり)ましょう！ 
 Thirty volunteers to lead the charge! 
 1341-5
 貸し事務所募集を終了しました。 
@@ -1998,10 +1997,9 @@ In that darkling calm my senses seemed preternaturally sharpened.
 ずっと　私人(しじん)　の　状態(じょうたい)　で　暮し(くらし)て　きた　のに、　命令(めいれい)　の　仕方(しかた)　を　知っ(しっ)て　いる　と　期待(きたい)　する　の　が　無理(むり)　です。 
 It is not reasonable to expect that they should know how to command, having always lived in a private condition. 
 1342-22
-その年の暮れ、
-CFO 
-
-Rising Sun 代表兼主導者のジョシュア・スミスなる人物に出会う。 その　年の暮れ(としのくれ)、　CFO Rising Sun 代表(だいひょう)　兼(けん)　主導者(しゅどうしゃ)　の　ジョシュア・スミス　なる　人物(じんぶつ)　に　出会う(であう)。 Later that year, he met a gentleman by the name of Joshua Smith who was the president and chief operator of C/FO Rising Sun. 
+その年の暮れ、CFO Rising Sun 代表兼主導者のジョシュア・スミスなる人物に出会う。 
+その　年の暮れ(としのくれ)、　CFO Rising Sun 代表(だいひょう)　兼(けん)　主導者(しゅどうしゃ)　の　ジョシュア・スミス　なる　人物(じんぶつ)　に　出会う(であう)。 
+Later that year, he met a gentleman by the name of Joshua Smith who was the president and chief operator of C/FO Rising Sun. 
 1342-23
 その歴史のうち、農業の発明に先立つ九割を通じて、私たちの先祖は小さな遊牧式狩猟採集集団を作って暮らしていた。 
 その　歴史(れきし)　の　うち、　農業(のうぎょう)　の　発明(はつめい)　に　先立つ(さきだつ)　九割(きゅうわり)　を　通じて(つうじて)、　私(わたし)たち　の　先祖(せんぞ)　は　小(ちい)さな　遊牧式(ゆうぼくしき)　狩猟(しゅりょう)　採集(さいしゅう)　集団(しゅうだん)　を　作っ(つくっ)て　暮らし(くらし)て　いた。 
@@ -2045,10 +2043,8 @@ Mrs. Roosevelt was very attached to her alcoholic father.
 ルーズヴェルト　夫人(ふじん)　は　9才(さい)　の　時(とき)　に　亡くなっ(なくなっ)た、　愛する(あいする)　父親(ちちおや)　の　想い出(おもいで)　を、　慕っ(したっ)て　生き(いき)た。 
 Mrs. Roosevelt lived in the memory of her father, who had died when she was nine, and whom she had loved. 
 1343-8
-次に女に言われた、
-「私は貴方の産みの苦しみを大いに増す。貴方は苦しんで子を産む。それでも尚、貴方は夫を慕い、彼は貴方を治めるであろう」。 
-次に(つぎに)　女(おんな)　に　言わ(いわ)れた、　
-「私(わたし)　は　貴方(あなた)　の　産み(うみ)　の　苦しみ(くるしみ)　を　大いに(おおいに)　増す(ます)。　貴方(あなた)　は　苦しん(くるしん)で　子(こ)　を　産む(うむ)。　それでも　尚(なお)、　貴方(あなた)　は　夫(おっと)　を　慕い(したい)、　彼(かれ)　は　貴方(あなた)　を　治める(おさめる)　で　あろう」。 
+次に女に言われた、「私は貴方の産みの苦しみを大いに増す。貴方は苦しんで子を産む。それでも尚、貴方は夫を慕い、彼は貴方を治めるであろう」。 
+次に(つぎに)　女(おんな)　に　言わ(いわ)れた、　「私(わたし)　は　貴方(あなた)　の　産み(うみ)　の　苦しみ(くるしみ)　を　大いに(おおいに)　増す(ます)。　貴方(あなた)　は　苦しん(くるしん)で　子(こ)　を　産む(うむ)。　それでも　尚(なお)、　貴方(あなた)　は　夫(おっと)　を　慕い(したい)、　彼(かれ)　は　貴方(あなた)　を　治める(おさめる)　で　あろう」。 
 Unto the woman he said, "I will greatly multiply thy sorrow and thy conception; in sorrow thou shalt bring forth children; and thy desire shall be to thy husband, and he shall rule over thee". 
 「なお〜」　{尚〜* 184} ["still (more) __"]: DJG v3 p344. 
 
@@ -2060,7 +2056,6 @@ Meet the expectations of.
 あとで添削せにゃ。 
 あと　で　添削(てんさく)　せにゃ。 
 I'll have to correct it later. 
-
 「せにゃ」　is an old-fashioned colloquial contraction of 
 「せねば」　(“ought to do”). 
 1344-3
@@ -2558,7 +2553,6 @@ I never doubted I would have sacrificed my left hand to help you.
 驚かないでくれ、ただ私の友情も疑わないでくれ、もし私の家のドアがきみに対してさえ閉ざされていたとしても。 
 驚か(おどろか)ないで　くれ、　ただ　私(わたし)　の　友情(ゆうじょう)　も　疑わ(うたがわ)ないで　くれ、　もし　私(わたし)　の　家(いえ)　の　ドア　が　きみ　に対して(にたいして)　さえ　閉ざさ(とざさ)れて　いた　として　も。 
 You must not be surprised, nor must you doubt my friendship, if my door is often shut even to you. 
-1351-136 
 
 1351-1
 凝固血液。 
@@ -2724,7 +2718,8 @@ Psychologically similar but materially different.
 容疑者(ようぎしゃ)　の　似顔絵(にがおえ)　は、　目撃者(もくげきしゃ)　が　与え(あたえ)た　人相(にんそう)　に　合致(がっち)　する。 
 The drawing of the suspect answers to the description the eyewitness gave. 
 1354-17
-1つの状況で学習した技能を、類似した違う状況に適用する。 1つ　の　状況(じょうきょう)　で　学習(がくしゅう)　した　技能(ぎのう)　を、　類似(るいじ)　した　違う(ちがう)　状況(じょうきょう)　に　適用(てきよう)　する。 
+1つの状況で学習した技能を、類似した違う状況に適用する。 
+1つ　の　状況(じょうきょう)　で　学習(がくしゅう)　した　技能(ぎのう)　を、　類似(るいじ)　した　違う(ちがう)　状況(じょうきょう)　に　適用(てきよう)　する。 
 Apply a skill learned in one situation to a different but similar situation. 
 1354-18
 ビデオテープを貸し借りするのは、本を貸し借りするのと似ている。 
@@ -2921,7 +2916,6 @@ Finally I returned to the pawnbroker's, and, having thumped vigorously upon the 
 「叩頭」とは、恭敬の合図として頭を地面にこすりつける中国の昔の習わしのことを示す。 
 「叩頭(こうとう)」　と　は、　恭敬(きょうけい)　の　合図(あいず)　として　頭(あたま)　を　地面(じめん)　に　こすりつける　中国(ちゅうごく)　の　昔(むかし)　の　習わし(ならわし)　の　こと　を　示す(しめす)。 
 The "kowtow" is a former Chinese custom of touching the ground with one's head as a sign of deference. 
-1361-137 
 
 1361-1
 山賊は盗伐した松の木で隠れ家を立てた。 
@@ -3369,24 +3363,22 @@ I wrote a children’s song for my grandchildren.
 浜崎(はまざき)さん　が　現在(げんざい)、　民謡(みんよう)　協会(きょうかい)　の　会長(かいちょう)　を　務める(つとめる)。 
 Hamazaki-san is the current chairman of the folk song association. 
 1370-3
-フリーポート市は民謡の
-「フリーポートの祝賀会」で有名だ。 
-フリーポート　市(し)　は　民謡(みんよう)　の　
-「フリーポート　の　祝賀会(しゅくがかい)」　で　有名(ゆうめい)　だ。 
+フリーポート市は民謡の「フリーポートの祝賀会」で有名だ。 
+フリーポート　市(し)　は　民謡(みんよう)　の　「フリーポート　の　祝賀会(しゅくがかい)」　で　有名(ゆうめい)　だ。 
 The city of Freeport is famous for the folk song "Party in Freeport". 
 1370-4
 最近は老若男女が歌えるような歌謡曲を耳にすることもなくなった。 
 最近(さいきん)　は　老若男女(ろうにゃくなんにょ)　が　歌える(うたえる)　よう　な　歌謡曲(かようきょく)　を　耳(みみ)　に　する　こと　も　なくなった。 
 Nowadays you no longer hear popular songs that can be sung by men and women of all ages. 
-1371-138 
 
 1371-1
 書き直しの方は遥かに良かった。 
 書き直し(かきなおし)　の　方(ほう)　は　遥か(はるか)　に　良かっ(よかっ)た。 
 The rewrite was much better. 
 1371-2
-
-Eメールは普通郵便より遥かに速い。 Eメール　は　普通(ふつう)　郵便(ゆうびん)　より　遥か(はるか)　に　速い(はやい)。 Email is much faster than snail mail. 
+Eメールは普通郵便より遥かに速い。 
+Eメール　は　普通(ふつう)　郵便(ゆうびん)　より　遥か(はるか)　に　速い(はやい)。 
+Email is much faster than snail mail. 
 1371-3
 彼女の価値はルビーを遥かに超えている。 
 彼女(かのじょ)　の　価値(かち)　は　ルビー　を　遥か(はるか)　に　超え(こえ)て　いる。 
@@ -3607,10 +3599,9 @@ I think I must have had a kind of frenzy.
 本(ほん)　は　あまり　に　真面目(まじめ)　で、　とき　に　重苦し(おもくるし)さ　に　陥っ(おちいっ)た。 
 A book so serious that it sometimes subsided into ponderousness. 
 1375-12
-血友病は
-X染色体の遺伝子欠陥によって決定する。 
-血友病(けつゆうびょう)　は　
-X　染色体(せんしょくたい)　の　遺伝子(いでんし)　欠陥(けっかん)　に　よって　決定(けってい)　する。 Hemophilia is determined by a gene defect on an X chromosome. 
+血友病はX染色体の遺伝子欠陥によって決定する。 
+血友病(けつゆうびょう)　は　X　染色体(せんしょくたい)　の　遺伝子(いでんし)　欠陥(けっかん)　に　よって　決定(けってい)　する。 
+Hemophilia is determined by a gene defect on an X chromosome. 
 1375-13
 こうして何世紀もの間その地を治めた町は陥落した。 
 こうして　何世紀(なんせいき)　も　の　間(あいだ)　その　地(ち)　を　治め(おさめ)た　町(まち)　は　陥落(かんらく)　した。 
@@ -3735,7 +3726,8 @@ As soon as I got off the train, I was met by my cousin.
 この　空模様(そらもよう)　から　察(さっ)する　と、　日暮れ(ひぐれ)　前(まえ)　に　ひょっとしたら　一雨(ひとあめ)　降る(ふる)　かも　知れ(しれ)ません。 
 Judging from the look of the sky, we might have a shower before nightfall. 
 1377-21
-1993年以降、アメリカ企業は弾圧を開始し、大会で何か上映するときには生の日本語バージョンだけにしろと制限をつけた。 1993年(ねん)　以降(いこう)、　アメリカ　企業(きぎょう)　は　弾圧(だんあつ)　を　開始(かいし)　し、　大会(たいかい)　で　何(なに)　か　上映(じょうえい)　する　とき　に　は　生(なま)　の　日本語(にほんご)　バージョン　だけ　に　しろ　と　制限(せいげん)　を　つけた。 
+1993年以降、アメリカ企業は弾圧を開始し、大会で何か上映するときには生の日本語バージョンだけにしろと制限をつけた。 
+1993年(ねん)　以降(いこう)、　アメリカ　企業(きぎょう)　は　弾圧(だんあつ)　を　開始(かいし)　し、　大会(たいかい)　で　何(なに)　か　上映(じょうえい)　する　とき　に　は　生(なま)　の　日本語(にほんご)　バージョン　だけ　に　しろ　と　制限(せいげん)　を　つけた。 
 After 1993, American companies started cracking down, limiting conventions to the raw Japanese version if they wanted to screen anything at all. 
 「〜にしろ　/ 〜にせよ」　[imperative]: DJG v2 p70. 
 
@@ -3846,7 +3838,6 @@ The seamstress has coarse, red hands, all pricked by the needle.
 彼女(かのじょ)　が　部屋(へや)　を　縫う(ぬう)　よう　に　横切り(よこぎり)　戻っ(もどっ)て　いく　間(あいだ)、　マリンズ　夫人(ふじん)　は　中断(ちゅうだん)　を　意(い)　に　介さ(かいさ)ず、　スコットランド　に　は　どんなに　美しい(うつくしい)　風景(ふうけい)　が　ある　か　を　ゲイブリエル　に　続け(つづけ)て　話し(はなし)た。 
 While she was threading her way back across the room Mrs. Malins, without adverting to the interruption, went on to tell Gabriel what beautiful scenery there was in Scotland. 
 「どんなに〜か」　["how __(!)"]: DJG v2 p39. 
-1381-139 
 
 1381-1
 重要な養蜂植物。 
@@ -3939,7 +3930,8 @@ My sisters and brothers are near and dear.
 厳密(げんみつ)　に　言う(いう)　と、　トマト　は　果物(くだもの)　です。 
 Strictly speaking, a tomato is a fruit. 
 1383-10
-2つの現象は、密接に関係している。 2つ　の　現象(げんしょう)　は、　密接(みっせつ)　に　関係(かんけい)　して　いる。 
+2つの現象は、密接に関係している。 
+2つ　の　現象(げんしょう)　は、　密接(みっせつ)　に　関係(かんけい)　して　いる。 
 The two phenomena are intimately connected. 
 1383-11
 その訪問許可は厳密な時間制限があった。 
@@ -4112,10 +4104,8 @@ Winter comes early in North Europe.
 今後(こんご)、　欧州(おうしゅう)　で　23日(にち)　の　発売(はつばい)　を　予定(よてい)　して　いる。 
 It is scheduled for release on the 23rd in Europe. 
 1385-9
-日本語での
-「欧米」という漠然とした観念。 
-日本語(にほんご)　で　の　
-「欧米(おうべい)」　という　漠然(ばくぜん)　とした　観念(かんねん)。 
+日本語での「欧米」という漠然とした観念。 
+日本語(にほんご)　で　の　「欧米(おうべい)」　という　漠然(ばくぜん)　とした　観念(かんねん)。 
 The Japanese language’s ill defined notion of “Europe and America”. 
 
 1386-1
@@ -4260,18 +4250,11 @@ He ran up a steep hill, feeling the ocean at his left. His faced distorted as th
 1388-18
 ハーバート・サイモン〚1916年−2001年〛は米国の経済学者、心理学者で、認知科学の発展の先駆者となった。 
 ハーバート・サイモン　〚1916年(ねん)　−　2001年(ねん)〛　は　米国(べいこく)　の　経済学者(けいざいがくしゃ)、　心理学者(しんりがくしゃ)　で、　認知(にんち)　科学(かがく)　の　発展(はってん)　の　先駆者(せんくしゃ)　と　なった。 
-Herbert Simon was a United States economist and psychologist who pioneered in the development of cognitive science (
-1916-200
-). 
-
+Herbert Simon was a United States economist and psychologist who pioneered in the development of cognitive science (1916-200). 
 1388-19
 セルゲイ・エイゼンシュテイン〚1898年−1948年〛はロシアの映画制作者で、モンタージュの使用の先駆者となり、映画の歴史で最も影響力の強い映画メーカーの間で尊敬される。 
 セルゲイ・エイゼンシュテイン　〚1898年(ねん)　−　1948年(ねん)〛　は　ロシア　の　映画(えいが)　制作者(せいさくしゃ)　で、　モンタージュ　の　使用(しよう)　の　先駆者(せんくしゃ)　と　なり、　映画(えいが)　の　歴史(れきし)　で　最も(もっとも)　影響力(えいきょうりょく)　の　強(つよ)い　映画(えいが)　メーカー　の　間(あいだ)　で　尊敬(そんけい)　される。 
-Sergei Eisenstein (
-1898-194
-) 
-
-was a Russian film maker who pioneered the use of montage and is considered among the most influential film makers in the history of motion pictures. 
+Sergei Eisenstein (1898-194) was a Russian film maker who pioneered the use of montage and is considered among the most influential film makers in the history of motion pictures. 
 1388-20
 自分たちの生産物のための絶えず拡大する市場に対する必要性から、ブルジョアジーは地球の全表面を駆り立てられます。ブルジョアジーはどこにでも巣をかけ、どこにでも住み着き、どことも関係を確立しなければならないのです。 
 自分(じぶん)たち　の　生産物(せいさんぶつ)　の　ため　の　絶えず(たえず)　拡大(かくだい)　する　市場(しじょう)　に対する(にたいする)　必要性(ひつようせい)　から、　ブルジョアジー　は　地球(ちきゅう)　の　全(ぜん)　表面(ひょうめん)　を　駆り立て(かりたて)られます。　ブルジョアジー　は　どこ　に　でも　巣(す)　を　かけ、　どこ　に　でも　住み着き(すみつき)、　どこ　と　も　関係(かんけい)　を　確立(かくりつ)　しなければ　ならない　の　です。 
@@ -4366,7 +4349,6 @@ The air was full of the throb and hum of machinery pumping air down the shaft.
 現在は一部のメディア業界が自分たちの著作権作品に対して完全なコントロールを要求して騒ぎ立てている。 
 現在(げんざい)　は　一部(いちぶ)　の　メディア　業界(ぎょうかい)　が　自分(じぶん)たち　の　著作権(ちょさくけん)　作品(さくひん)　に対して(にたいして)　完全(かんぜん)　な　コントロール　を　要求(ようきゅう)　して　騒ぎ立て(さわぎたて)て　いる。 
 We live in an age where some media industries clamor for perfect control over their copyrighted works. 
-1391-140 
 
 1391-1
 旭川動物園は大人気だ。 
@@ -4418,15 +4400,13 @@ Deliberation in each House shall be public. However, a secret meeting may be hel
 この　結果(けっか)　は　まったく　同じ(おなじ)　だ　が、　但し(ただし)　ベルヌ　条約(じょうやく)　が　加盟国(かめいこく)　に　よって　アメリカ　の　同意(どうい)　しない　形(かたち)　で　改定(かいてい)　されれば　その　限り(かぎり)　で　は　ない。 
 The effect is equivalent, except in cases where Berne is amended by its treaty parties without the consent of the United States. 
 1393-5
-但し、ハッカーの場合、貢献者の名前はクレジットにのこり、その貢献者がもはや活発でなくなったときにも、ある程度の
-「収益」をあげ続ける点は違うけれど。 
-但し(ただし)、　ハッカー　の　場合(ばあい)、　貢献者(こうけんしゃ)　の　名前(なまえ)　は　クレジット　に　のこり、　その　貢献者(こうけんしゃ)　が　もはや　活発(かっぱつ)　で　なくなった　とき　に　も、　ある　程度(ていど)　の　
-「収益(しゅうえき)」　を　あげ続ける(つづける)　点(てん)　は　違う(ちがう)　けれど。 
+但し、ハッカーの場合、貢献者の名前はクレジットにのこり、その貢献者がもはや活発でなくなったときにも、ある程度の「収益」をあげ続ける点は違うけれど。 
+但し(ただし)、　ハッカー　の　場合(ばあい)、　貢献者(こうけんしゃ)　の　名前(なまえ)　は　クレジット　に　のこり、　その　貢献者(こうけんしゃ)　が　もはや　活発(かっぱつ)　で　なくなった　とき　に　も、　ある　程度(ていど)　の　「収益(しゅうえき)」　を　あげ続ける(つづける)　点(てん)　は　違う(ちがう)　けれど。 
 Except that, in the case of hackers, a contributor's name stays in the credits and continues to 'earn' to some degree even after that contributor is no longer active. 
 1393-6
-但しこれは、その作品が著作権保持者の認可を受けてアメリカに入ってきたか〚これはありそうにない〛、そうした作品が輸入業者の個人的な手荷物に入ってアメリカに渡ってきた〚これはかなりありそうだ〛場合にのみ合法となる〚17 
-
-U.S.C. § 602を参照〛。 但し(ただし)　これ　は、　その　作品(さくひん)　が　著作権(ちょさくけん)　保持者(ほじしゃ)　の　認可(にんか)　を　受け(うけ)て　アメリカ　に　入っ(はいっ)て　きた　か　〚これ　は　ありそう　に　ない〛、　そうした　作品(さくひん)　が　輸入(ゆにゅう)　業者(ぎょうしゃ)　の　個人的(こじんてき)　な　手荷物(てにもつ)　に　入っ(はいっ)て　アメリカ　に　渡っ(わたっ)て　きた　〚これ　は　かなり　ありそう　だ〛　場合(ばあい)　に　のみ　合法(ごうほう)　と　なる　〚17 U.S.C. § 602(a)　を　参照(さんしょう)〛。 However, this is only true if these titles entered America with the authorization of the copyright holders (unlikely), or if these titles entered the United States via the importer’s personal baggage (very likely), see 17 U.S.C. § 602(a). 
+但しこれは、その作品が著作権保持者の認可を受けてアメリカに入ってきたか〚これはありそうにない〛、そうした作品が輸入業者の個人的な手荷物に入ってアメリカに渡ってきた〚これはかなりありそうだ〛場合にのみ合法となる〚17 U.S.C. § 602を参照〛。 
+但し(ただし)　これ　は、　その　作品(さくひん)　が　著作権(ちょさくけん)　保持者(ほじしゃ)　の　認可(にんか)　を　受け(うけ)て　アメリカ　に　入っ(はいっ)て　きた　か　〚これ　は　ありそう　に　ない〛、　そうした　作品(さくひん)　が　輸入(ゆにゅう)　業者(ぎょうしゃ)　の　個人的(こじんてき)　な　手荷物(てにもつ)　に　入っ(はいっ)て　アメリカ　に　渡っ(わたっ)て　きた　〚これ　は　かなり　ありそう　だ〛　場合(ばあい)　に　のみ　合法(ごうほう)　と　なる　〚17 U.S.C. § 602(a)　を　参照(さんしょう)〛。 
+However, this is only true if these titles entered America with the authorization of the copyright holders (unlikely), or if these titles entered the United States via the importer’s personal baggage (very likely), see 17 U.S.C. § 602(a). 
 1393-7
 米国軍隊が施設および区域を一時的に使用していない時は、日本国政府は、臨時にそのような施設および区域を自ら使用し、又は日本国民に使用させることができる。但し、この使用が、米国軍隊によるその施設および区域の正規の使用の目的にとって有害でないことが合同委員会を通じて両政府間に合意された場合に限る。 
 米国(べいこく)　軍隊(ぐんたい)　が　施設(しせつ)　および　区域(くいき)　を　一時的(いちじてき)　に　使用(しよう)　して　いない　時(とき)　は、　日本国(にほんこく)　政府(せいふ)　は、　臨時(りんじ)　に　その　よう　な　施設(しせつ)　および　区域(くいき)　を　自ら(みずから)　使用(しよう)　し、　又は(または)　日本(にほん)　国民(こくみん)　に　使用(しよう)　させる　こと　が　できる。　但し(ただし)、　この　使用(しよう)　が、　米国(べいこく)　軍隊(ぐんたい)　に　よる　その　施設(しせつ)　および　区域(くいき)　の　正規(せいき)　の　使用(しよう)　の　目的(もくてき)　に　とって　有害(ゆうがい)　でない　こと　が　合同(ごうどう)　委員会(いいんかい)　を　通じて(つうじて)　両政府(りょうせいふ)　間(かん)　に　合意(ごうい)　された　場合(ばあい)　に　限る(かぎる)。 
@@ -4763,13 +4743,7 @@ It seems that the couple next door are having another one of their obnoxious qua
 1400-7
 あの苛めっ子は実際に喧嘩をするつもりよりも、自慢話しをするつもりだ。 
 あの　苛めっ子(いじめっこ)　は　実際(じっさい)　に　喧嘩(けんか)　を　する　つもり　よりも、　自慢話し(じまんばなし)　を　する　つもり　だ。 
-That bully’s brag is worse than his fight. (101) ㊗ 　Congratulations!  ㊗ You have now attained the fifteenth dan:
-リュウ 
-
-EMINENT Let us know at the KLC user group on Facebook! Share on:　Reddit　Twitter　Facebook　LinkedIn
-
-See the website for a full list of KLC kanji dan (ranks). Paste your own kanji dan badges to give yourself positive reinforcement as you progress. Reviewing: Remember to re-read each set to reinforce your learning while it’s fresh. If you prefer to do your reviews away from an electronic screen, please consider ordering the paperback version of this volume. The paperback format has been optimized in various ways to offer a superior experience to reading a printout of the electronic version, and to require much less paper. 
-1401-141 
+That bully’s brag is worse than his fight. 
 
 1401-1
 唾液の過度の流れ。 
@@ -4785,8 +4759,8 @@ At last, with a swallow or two, he spoke.
 The Chinese used to regard cow's milk as a vile substance. 
 1401-4
 「よだれ」とは、口から溢れる唾液のことを意味する。 
-「よだれ」　と　は、　口(くち)　から　溢れる(こぼれる)　唾液(だえき)　の　こと　を　意味(いみ)　する。 "
-Drool" refers to saliva spilling from the mouth. 
+「よだれ」　と　は、　口(くち)　から　溢れる(こぼれる)　唾液(だえき)　の　こと　を　意味(いみ)　する。 
+"Drool" refers to saliva spilling from the mouth. 
 1401-5
 素晴らしい夕食を期待して私の口が唾でいっぱいになった。 
 素晴らしい(すばらしい)　夕食(ゆうしょく)　を　期待(きたい)　して　私(わたし)　の　口(くち)　が　唾(つば)　で　いっぱい　に　なった。 
@@ -4921,8 +4895,9 @@ The Diet shall consist of two Houses, namely the House of Representatives and th
 ものすごい　量(りょう)　の　大衆(たいしゅう)　の　参加(さんか)　は、　その　参加(さんか)　の　仕方(しかた)　自体(じたい)　を　変え(かえ)て　しまった。 
 The greatly increased mass of participants has produced a change in the mode of participation. 
 1405-14
-
-CFOが仮に非営利教育機関で公衆アクセス可能な図書館と認められるものとしよう。 CFO　が　仮に(かりに)　非営利(ひえいり)　教育(きょういく)　機関(きかん)　で　公衆(こうしゅう)　アクセス　可能(かのう)　な　図書館(としょかん)　と　認め(みとめ)られる　もの　と　しよう。 Let us assume that C/FO qualified as a nonprofit, educational and publicly-accessible library. 
+CFOが仮に非営利教育機関で公衆アクセス可能な図書館と認められるものとしよう。 
+CFO　が　仮に(かりに)　非営利(ひえいり)　教育(きょういく)　機関(きかん)　で　公衆(こうしゅう)　アクセス　可能(かのう)　な　図書館(としょかん)　と　認め(みとめ)られる　もの　と　しよう。 
+Let us assume that C/FO qualified as a nonprofit, educational and publicly-accessible library. 
 「かりに〜」　{仮に〜　921} ["assuming __"]: DJG v3 p201. 
 「〜とする」　["assume __"]: DJG v2 p518. 
 1405-15
@@ -5185,10 +5160,8 @@ There in the spacious sunshine of the glen, soldiers were moving in a little swa
 貴方方(あなたがた)　は、　生めよ(うめよ)、　殖え(ふえ)よ、　地(ち)　に　群がり(むらがり)、　地(ち)　の　上(うえ)　に　殖え(ふえ)よ。 
 And you, be ye fruitful, and multiply; bring forth abundantly in the earth, and multiply therein. 
 1408-30
-神はまた言われた、
-「水は生き物の群れで満ち、鳥は地の上、天の大空を飛べ」。 
-神(かみ)　は　また　言わ(いわ)れた、　
-「水(みず)　は　生き物(いきもの)　の　群れ(むれ)　で　満ち(みち)、　鳥(とり)　は　地(ち)　の　上(うえ)、　天(てん)　の　大空(おおぞら)　を　飛べ(とべ)」。 
+神はまた言われた、「水は生き物の群れで満ち、鳥は地の上、天の大空を飛べ」。 
+神(かみ)　は　また　言わ(いわ)れた、　「水(みず)　は　生き物(いきもの)　の　群れ(むれ)　で　満ち(みち)、　鳥(とり)　は　地(ち)　の　上(うえ)、　天(てん)　の　大空(おおぞら)　を　飛べ(とべ)」。 
 And God said, "Let the waters bring forth abundantly the moving creature that hath life, and fowl that may fly above the earth in the open firmament of heaven". 
 1408-31
 人間は、独居性の猛獣よりも、群居性の動物との精神的近縁性を示しているのだ。 
@@ -5244,17 +5217,16 @@ We don't segregate in this county.
 その　証明書(しょうめいしょ)　に　は　郡(ぐん)　保安官(ほあんかん)　の　証印(しょういん)　が　あった。 
 The warrant bore the sheriff's seal. 
 1409-6
-アメリカ合衆国で、
-「保安官」とは郡の警察隊の長を言う。 
-アメリカ　合衆国(がっしゅうこく)　で、　
-「保安官(ほあんかん)」　と　は　郡(ぐん)　の　警察隊(けいさつたい)　の　長(ちょう)　を　言う(いう)。 
+アメリカ合衆国で、「保安官」とは郡の警察隊の長を言う。 
+アメリカ　合衆国(がっしゅうこく)　で、　「保安官(ほあんかん)」　と　は　郡(ぐん)　の　警察隊(けいさつたい)　の　長(ちょう)　を　言う(いう)。 
 In the United States of America, a "sheriff" is the head of a county police force. 
 1409-7
 裁判所の判決の権威のもとに未払いの債務を満たすために郡保安官が行う財産の販売。 
 裁判所(さいばんしょ)　の　判決(はんけつ)　の　権威(けんい)　の　もと　に　未払い(みはらい)　の　債務(さいむ)　を　満たす(みたす)　ため　に　郡(ぐん)　保安官(ほあんかん)　が　行う(おこなう)　財産(ざいさん)　の　販売(はんばい)。 
 A sale of property by the sheriff under authority of a court's writ of execution in order satisfy an unpaid obligation. 
 1409-8
-1981年に、マセックはカリフォルニア州オレンジ郡で、漫画と映画グッズ専門店を経営していた。 1981年(ねん)　に、　マセック　は　カリフォルニア　州(しゅう)　オレンジ　郡(ぐん)　で、　漫画(まんが)　と　映画(えいが)　グッズ　専門店(せんもんてん)　を　経営(けいえい)　して　いた。 
+1981年に、マセックはカリフォルニア州オレンジ郡で、漫画と映画グッズ専門店を経営していた。 
+1981年(ねん)　に、　マセック　は　カリフォルニア　州(しゅう)　オレンジ　郡(ぐん)　で、　漫画(まんが)　と　映画(えいが)　グッズ　専門店(せんもんてん)　を　経営(けいえい)　して　いた。 
 In 1981, Macek ran a comic book and movie memorabilia specialty shop in Orange County, California. 
 
 1410-1
@@ -5277,7 +5249,6 @@ She shot him and then herself--so the servants say.
 その消えたのはほんの一刹那で、また同時に消える数がわずかだったが、畔の全体の長さに沿って一列二列の間はぼかされていた。 
 その　消え(きえ)た　の　は　ほんの　一刹那(いっせつな)　で、　また　同時(どうじ)　に　消える(きえる)　数(かず)　が　わずか　だった　が、　畔(あぜ)　の　全体(ぜんたい)　の　長(なが)さ　に　沿っ(そっ)て　一列(いちれつ)　二列(にれつ)　の　間(あいだ)　は　ぼかされて　いた。 
 Each was eclipsed but an instant, and only a few at the same time, but along the entire length of the ridge all that were within a degree or two of the crest were blotted out. 
-1411-142 
 
 1411-1
 在留邦人。 
@@ -5406,7 +5377,8 @@ Restorative effects of exercise.
 高値(たかね)　の　抑止(よくし)　効果(こうか)。 
 The deterrent effects of high prices. 
 1413-10
-2年間有効な保証。 2年間(ねんかん)　有効(ゆうこう)　な　保証(ほしょう)。 
+2年間有効な保証。 
+2年間(ねんかん)　有効(ゆうこう)　な　保証(ほしょう)。 
 A warranty good for two years. 
 1413-11
 無効な運転免許証。 
@@ -5517,7 +5489,8 @@ Dr. Ito behaves crazily when he is off his medication.
 私(わたし)　は　特殊(とくしゅ)　効果(こうか)　が　すばらしい　ので　『ターミネーター』　が　好き(すき)　です。 
 I like the Terminator films because the special effects are fantastic. 
 1413-38
-4人の射撃は一斉射撃というにはばらばらだったが、効果があった。 4人(にん)　の　射撃(しゃげき)　は　一斉(いっせい)　射撃(しゃげき)　と　いう　に　は　ばらばら　だった　が、　効果(こうか)　が　あった。 
+4人の射撃は一斉射撃というにはばらばらだったが、効果があった。 
+4人(にん)　の　射撃(しゃげき)　は　一斉(いっせい)　射撃(しゃげき)　と　いう　に　は　ばらばら　だった　が、　効果(こうか)　が　あった。 
 The four men's shots came in rather a scattering volley, but they did the business. 
 1413-39
 彼女はその紳士の心遣いを喜び、そしてその効果は母親が声高に表明する賞賛によって増大した。 
@@ -5528,10 +5501,9 @@ She was flattered by the gentleman's attentions, and the effect was increased by
 英語(えいご)　は　明(あき)らか　に、　最も(もっとも)　簡単(かんたん)　で　ある　と　同時(どうじ)　に　最も(もっとも)　効率(こうりつ)　の　良い(よい)　国際(こくさい)　コミュニケーション　の　手段(しゅだん)　です。 
 The English language is undoubtedly the easiest and at the same time the most efficient means of international communication. 
 1413-41
-特別な状況においては、連続5年以上の計算で年平均1
-mSvを超過しない場合に限り、単年計算で5mSvまでの実効線量が許される。 
-特別(とくべつ)　な　状況(じょうきょう)　において　は、　連続(れんぞく)　5年(ねん)　以上(いじょう)　の　計算(けいさん)　で　年(とし)　平均(へいきん)　1
-mSv　を　超過(ちょうか)　しない　場合(ばあい)　に　限り(かぎり)、　単年(たんねん)　計算(けいさん)　で　5mSv　まで　の　実効(じっこう)　線量(せんりょう)　が　許さ(ゆるさ)れる。 In special circumstances, the effective dose can be limited to 5 mSv in a single year provided that the average dose over five consecutive years does not exceed 1 mSv per year. 
+特別な状況においては、連続5年以上の計算で年平均1mSvを超過しない場合に限り、単年計算で5mSvまでの実効線量が許される。 
+特別(とくべつ)　な　状況(じょうきょう)　において　は、　連続(れんぞく)　5年(ねん)　以上(いじょう)　の　計算(けいさん)　で　年(とし)　平均(へいきん)　1mSv　を　超過(ちょうか)　しない　場合(ばあい)　に　限り(かぎり)、　単年(たんねん)　計算(けいさん)　で　5mSv　まで　の　実効(じっこう)　線量(せんりょう)　が　許さ(ゆるさ)れる。 
+In special circumstances, the effective dose can be limited to 5 mSv in a single year provided that the average dose over five consecutive years does not exceed 1 mSv per year. 
 1413-42
 この憲法は、国の最高法規であって、その条規に反する法規、命令、詔勅および国務に関するその他の行いの全部又は一部は、その効力を有しない。 
 この　憲法(けんぽう)　は、　国(くに)　の　最高(さいこう)　法規(ほうき)　で　あって、　その　条規(じょうき)　に　反する(はんする)　法規(ほうき)、　命令(めいれい)、　詔勅(しょうちょく)　および　国務(こくむ)　に関する(にかんする)　その　他(た)　の　行い(おこない)　の　全部(ぜんぶ)　又は(または)　一部(いちぶ)　は、　その　効力(こうりょく)　を　有(ゆう)しない。 
