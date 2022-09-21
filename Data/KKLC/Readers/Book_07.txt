@@ -5624,12 +5624,8 @@ The assassin carefully wiped his fingerprints off the knife.
 警察(けいさつ)　は　銃(じゅう)　の　指紋(しもん)　と　ドア　に　付着(ふちゃく)　した　指紋(しもん)　を　照合(しょうごう)　した。 
 The police compared the fingerprints on the gun with those on the door. 
 1416-8
-旧三井財閥の家紋は丸の中の
-「井」の文字の中の
-「三」の文字であった。 
-旧(きゅう)　三井(みつい)　財閥(ざいばつ)　の　家紋(かもん)　は　丸(まる)　の　中(なか)　の　
-「井(い)」　の　文字(もじ)　の　中(なか)　の　
-「三(さん)」　の　文字(もじ)　で　あった。 
+旧三井財閥の家紋は丸の中の「井」の文字の中の「三」の文字であった。 
+旧(きゅう)　三井(みつい)　財閥(ざいばつ)　の　家紋(かもん)　は　丸(まる)　の　中(なか)　の　「井(い)」　の　文字(もじ)　の　中(なか)　の　「三(さん)」　の　文字(もじ)　で　あった。 
 The crest for the old Mitsui zaibatsu was a Chinese character for "three" inside a Chinese character for "well" inside a circle. 
 
 1417-1
@@ -5784,8 +5780,7 @@ The responsibility of corporate directors is to act in the best interests of sto
 その仕事は、締め切りに間に合うように最優先に持ってこられた。 
 その　仕事(しごと)　は、　締め切り(しめきり)　に　間に合う(まにあう)　よう　に　最優先(さいゆうせん)　に　持っ(もっ)て　こられた。 
 The work was moved to the front burner in order to meet deadlines. 
-「Irregular verb: くる」　: DJG v1 p
-578-79
+「Irregular verb: くる」　: DJG v1 p578-79
 1419-21
 日本国が締結した条約および確立された国際法規は、これを誠実に遵守することを必要とする。 
 日本国(にほんこく)　が　締結(ていけつ)　した　条約(じょうやく)　および　確立(かくりつ)　された　国際(こくさい)　法規(ほうき)　は、　これ　を　誠実(せいじつ)　に　遵守(じゅんしゅ)　する　こと　を　必要(ひつよう)　と　する。 
@@ -5827,7 +5822,6 @@ She was unable to completely give up her dream of traveling abroad.
 花は巨大な獣にも強過ぎて、ライオンはついに諦めてしまい、ケシ畑の終わりまで後少しというところで眠ってしまったのです。 
 花(はな)　は　巨大(きょだい)　な　獣(けもの)　に　も　強過ぎ(つよすぎ)て、　ライオン　は　ついに　諦め(あきらめ)て　しまい、　ケシ畑(ばたけ)　の　終わり(おわり)　まで　後(あと)　少し(すこし)　という　ところ　で　眠っ(ねむっ)て　しまった　の　です。 
 The flowers had been too strong for the huge beast and he had given up at last, and fallen only a short distance from the end of the poppy bed. 
-1421-143 
 
 1421-1
 享年82才。 
@@ -5973,8 +5967,9 @@ The taxi driver failed to see the stop sign at the intersection and hit an oncom
 蜂の巣(はちのす)　に　帰る(かえる)　前(まえ)　に、　私(わたし)　は　蜜蜂(みつばち)　が　瞬間的(しゅんかんてき)　に　位置(いち)　を　分(わ)かる　為(ため)　に　停止(ていし)　した　こと　に　気がつい(きがつい)た。 
 I noticed the bee's momentary orienting pause before heading back to the hive. 
 1424-17
-
-USSコールがアデンに停泊する間、17人の船員がテロリスト攻撃の結果として死んだ。 USS　コール　が　アデン　に　停泊(ていはく)　する　間(あいだ)、　17人(にん)　の　船員(せんいん)　が　テロリスト　攻撃(こうげき)　の　結果(けっか)　として　死ん(しん)だ。 Seventeen sailors died as the result of a terrorist attack while the USS Cole was anchored in Aden. 
+USSコールがアデンに停泊する間、17人の船員がテロリスト攻撃の結果として死んだ。 
+USS　コール　が　アデン　に　停泊(ていはく)　する　間(あいだ)、　17人(にん)　の　船員(せんいん)　が　テロリスト　攻撃(こうげき)　の　結果(けっか)　として　死ん(しん)だ。 
+Seventeen sailors died as the result of a terrorist attack while the USS Cole was anchored in Aden. 
 1424-18
 途中で何度か停車する必要があったため、フォッグ氏が終着駅に降り立ったときには、ロンドン中のあらゆる時計が8時50分を指していた。 
 途中(とちゅう)　で　何度(なんど)　か　停車(ていしゃ)　する　必要(ひつよう)　が　あった　ため、　フォッグ　氏(し)　が　終着駅(しゅうちゃくえき)　に　降り立っ(おりたっ)た　とき　に　は、　ロンドン　中(じゅう)　の　あらゆる　時計(とけい)　が　8時(じ)　50分(ぷん)　を　指し(さし)て　いた。 
@@ -6123,7 +6118,8 @@ The Prince was very much admired indeed.
 菊地(きくち)さん　は　貯金(ちょきん)　が　皆無(かいむ)　だ。 
 Kikuchi-san has no savings whatsoever. 
 1427-4
-1エーカーの森林を皆伐する。 1エーカー　の　森林(しんりん)　を　皆伐(かいばつ)　する。 
+1エーカーの森林を皆伐する。 
+1エーカー　の　森林(しんりん)　を　皆伐(かいばつ)　する。 
 Clear-cut an acre of forest. 
 1427-5
 借家人は皆からの評判がいい。 
@@ -6193,11 +6189,9 @@ In the meantime, we had no idea what to do to help the captain, nor any other th
 楷書体(かいしょたい)　を　使っ(つかっ)て　真っ直ぐ(まっすぐ)　な　字(じ)　を　書い(かい)て　下さい(ください)。 
 Please write straight using block character style. 
 1428-2
-「楷書」は字体又は書き方の一種である。
-「楷書体」とも言う。 
-「楷書(かいしょ)」　は　字体(じたい)　又は(または)　書き方(かきかた)　の　一種(いっしゅ)　で　ある。　
-「楷書体(かいしょたい)」　と　も　言う(いう)。 "
-Kaisho", also known as "kaishotai", is a style of writing or printing characters. 
+「楷書」は字体又は書き方の一種である。「楷書体」とも言う。 
+「楷書(かいしょ)」　は　字体(じたい)　又は(または)　書き方(かきかた)　の　一種(いっしゅ)　で　ある。　「楷書体(かいしょたい)」　と　も　言う(いう)。 
+"Kaisho", also known as "kaishotai", is a style of writing or printing characters. 
 
 1429-1
 インキの濃度の諧調を制御する。 
@@ -6281,7 +6275,8 @@ The war of words between the competitors de-escalated with time.
 科学者(かがくしゃ)　の　価値観(かちかん)　の　階層(かいそう)　の　中(なか)　で、　誠実(せいじつ)さ　が　一番(いちばん)　大切(たいせつ)　で　ある。 
 In the scientist’s strata of values, honesty comes first. 
 1430-20
-2階には資料室や、山岳図書専門のスペースを設けている。 2階(かい)　に　は　資料室(しりょうしつ)　や、　山岳(さんがく)　図書(としょ)　専門(せんもん)　の　スペース　を　設け(もうけ)て　いる。 
+2階には資料室や、山岳図書専門のスペースを設けている。 
+2階(かい)　に　は　資料室(しりょうしつ)　や、　山岳(さんがく)　図書(としょ)　専門(せんもん)　の　スペース　を　設け(もうけ)て　いる。 
 On the second floor, there is a reference room and a section of books on mountains. 
 1430-21
 陶器の容器が頭からすべり落ち、大理石の階段で割れました。 
@@ -6317,7 +6312,6 @@ Some Creationists concede that Genesis is not a literal account of the creation 
 すべての人は、教育を受ける権利を有する。教育は、少なくとも初等のおよび基礎的の段階においては、無償でなければならない。初等教育は、義務的でなければならない。技術教育および職業教育は、一般に利用できるもでなければならず、また、高等教育は、能力に応じ、すべての者に等しく開放されていなければならない。 
 すべて　の　人(ひと)　は、　教育(きょういく)　を　受ける(うける)　権利(けんり)　を　有(ゆう)する。　教育(きょういく)　は、　少なくとも(すくなくとも)　初等(しょとう)　の　および　基礎的(きそてき)　の　段階(だんかい)　において　は、　無償(むしょう)　で　なければ　ならない。　初等(しょとう)　教育(きょういく)　は、　義務的(ぎむてき)　で　なければ　ならない。　技術(ぎじゅつ)　教育(きょういく)　および　職業(しょくぎょう)　教育(きょういく)　は、　一般(いっぱん)　に　利用(りよう)　できる　も　で　なければ　ならず、　また、　高等(こうとう)　教育(きょういく)　は、　能力(のうりょく)　に　応じ(おうじ)、　すべて　の　者(もの)　に　等しく(ひとしく)　開放(かいほう)　されて　いなければ　ならない。 
 Everyone has the right to education. Education shall be free, at least in the elementary and fundamental stages. Elementary education shall be compulsory. Technical and professional education shall be made generally available and higher education shall be equally accessible to all on the basis of merit. 
-1431-144 
 
 1431-1
 英国女王陛下。 
@@ -6577,7 +6571,8 @@ Our hospital is prepared to receive patients twenty-four hours.
 改革(かいかく)　勢力(せいりょく)　に対し(にたいし)、　伝統的(でんとうてき)　な　社会(しゃかい)　制度(せいど)　の　支持者(しじしゃ)。 
 A supporter of traditional social institutions against the forces of reform. 
 1434-22
-2つの反対勢力に忠実であることは不可能である。 2つ　の　反対(はんたい)　勢力(せいりょく)　に　忠実(ちゅうじつ)　で　ある　こと　は　不可能(ふかのう)　で　ある。 
+2つの反対勢力に忠実であることは不可能である。 
+2つ　の　反対(はんたい)　勢力(せいりょく)　に　忠実(ちゅうじつ)　で　ある　こと　は　不可能(ふかのう)　で　ある。 
 It is impossible to be allegiant to two opposing forces. 
 1434-23
 陽気で威勢のよい若者が恋の経験を自慢し合った。 
@@ -6853,10 +6848,9 @@ The cram school English teacher's pronunciation is surprisingly bad.
 菊(きく)さん　は　塾生(じゅくせい)　として　の　生活(せいかつ)　に　本当に(ほんとうに)　苦しん(くるしん)で　いる。 
 Kiku is really hating the cram school life. 
 1437-4
-弟は英語塾で
-TOEFL試験準備しているから、学校が終わったら、直接塾に行く。 
-弟(おとうと)　は　英語(えいご)　塾(じゅく)　で　
-TOEFL　試験(しけん)　準備(じゅんび)　して　いる　から、　学校(がっこう)　が　終わっ(おわっ)たら、　直接(ちょくせつ)　塾(じゅく)　に　行く(いく)。 My brother is doing TOEFL test prep at an English cram school, so as soon as school is over he heads directly to the cram school. 
+弟は英語塾でTOEFL試験準備しているから、学校が終わったら、直接塾に行く。 
+弟(おとうと)　は　英語(えいご)　塾(じゅく)　で　TOEFL　試験(しけん)　準備(じゅんび)　して　いる　から、　学校(がっこう)　が　終わっ(おわっ)たら、　直接(ちょくせつ)　塾(じゅく)　に　行く(いく)。 
+My brother is doing TOEFL test prep at an English cram school, so as soon as school is over he heads directly to the cram school. 
 
 1438-1
 丘陵地帯。 
@@ -6884,20 +6878,16 @@ Here and there water shone like silver, and beyond, the land rose into blue undu
 多彩(たさい)　な　菱形(ひしがた)　の　パターン。 
 Varicolored diamond pattern. 
 1439-2
-住友、三井、と三菱は
-「三大財閥」とよばれた。 
-住友(すみとも)、　三井(みつい)、　と　三菱(みつびし)　は　
-「三(さん)　大(だい)　財閥(ざいばつ)」　と　よばれた。 
+住友、三井、と三菱は「三大財閥」とよばれた。 
+住友(すみとも)、　三井(みつい)、　と　三菱(みつびし)　は　「三(さん)　大(だい)　財閥(ざいばつ)」　と　よばれた。 
 Sumitomo, Mitsui, and Mitsubishi were called the "Three Great Zaibatsu" (financial combines). 
 1439-3
 菱形に切ってオーブンや鉄板で焼いた小さなビスケット。 
 菱形(ひしがた)　に　切っ(きっ)て　オーブン　や　鉄板(てっぱん)　で　焼い(やい)た　小(ちい)さな　ビスケット。 
 Small biscuit cut into diamonds and baked in an oven or on a griddle. 
 1439-4
-三菱系列の商標は旧三菱財閥の創業家の家紋
-「三階菱」から派生した。 
-三菱(みつびし)　系列(けいれつ)　の　商標(しょうひょう)　は　旧(きゅう)　三菱(みつびし)　財閥(ざいばつ)　の　創業家(そうぎょうか)　の　家紋(かもん)　
-「三階菱(さんかいびし)」　から　派生(はせい)　した。 
+三菱系列の商標は旧三菱財閥の創業家の家紋「三階菱」から派生した。 
+三菱(みつびし)　系列(けいれつ)　の　商標(しょうひょう)　は　旧(きゅう)　三菱(みつびし)　財閥(ざいばつ)　の　創業家(そうぎょうか)　の　家紋(かもん)　「三階菱(さんかいびし)」　から　派生(はせい)　した。 
 The logo of the Mitsubishi group derives from the "three layered diamonds" family crest of the founder of the old Mitsubishi zaibatsu. 
 
 1440-1
@@ -6912,7 +6902,6 @@ Inagaki-sensei is the Da Vinci of cram school teachers.
 旧三菱財閥の創業家は四国出身の若き俊英だった。 
 旧(きゅう)　三菱(みつびし)　財閥(ざいばつ)　の　創業家(そうぎょうか)　は　四国(しこく)　出身(しゅっしん)　の　若き(わかき)　俊英(しゅんえい)　だった。 
 The founder of the Mitsubishi zaibatsu was a young talent from Shikoku. 
-1441-145 
 
 1441-1
 論理的示唆。 
@@ -7173,7 +7162,8 @@ The gambler demanded a reshuffle.
 熱病(ねつびょう)　が　ある　こと　に　は　この　かつら　を　賭け(かけ)て　も　いい　ね。 
 I'll stake my wig there's fever here. 
 1447-12
-1日遅れたら彼はニューヨークで汽船に乗り遅れることとなり、間違いなく賭けに負けるのだ。 1日(にち)　遅れ(おくれ)たら　彼(かれ)　は　ニューヨーク　で　汽船(きせん)　に　乗り遅れる(のりおくれる)　こと　と　なり、　間違い(まちがい)なく　賭け(かけ)　に　負ける(まける)　の　だ。 
+1日遅れたら彼はニューヨークで汽船に乗り遅れることとなり、間違いなく賭けに負けるのだ。 
+1日(にち)　遅れ(おくれ)たら　彼(かれ)　は　ニューヨーク　で　汽船(きせん)　に　乗り遅れる(のりおくれる)　こと　と　なり、　間違い(まちがい)なく　賭け(かけ)　に　負ける(まける)　の　だ。 
 The delay of a single day would make him lose the steamer at New York, and his bet would be certainly lost. 
 1447-13
 彼女をめぐる2人の争いがとても激しくなってきたので、学生連中の半数がその結果に乱暴な賭けをやったほどだ。 
@@ -7347,7 +7337,6 @@ As sailors feel the loom of the land on dark nights, so I think I feel the loom 
 彼らはいつもこっそりと一緒に、それぞれろうそくを持って階段を上がり、三番目の踊り場で渋々お休みを言い合ったものだ。 
 彼ら(かれら)　は　いつも　こっそり　と　一緒(いっしょ)　に、　それぞれ　ろうそく　を　持っ(もっ)て　階段(かいだん)　を　上がり(あがり)、　三番目(さんばんめ)　の　踊り場(おどりば)　で　渋々(しぶしぶ)　お休み(おやすみ)　を　言い合っ(いいあっ)た　もの　だ。 
 They used to go upstairs together on tiptoe, each with a candle, and on the third landing exchange reluctant goodnights. 
-1451-146 
 
 1451-1
 お神輿を未だに担ぐ翁。 
