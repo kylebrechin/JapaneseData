@@ -9073,10 +9073,8 @@ By the language of the women Koichi knew them to be domestics in some noble hous
 彼(かれ)　は　多く(おおく)　の　段階(だんかい)　を　踏む(ふむ)　こと　なく、　いつも　最短(さいたん)　の　道(みち)　を　通っ(とおっ)て　目的(もくてき)　を　達成(たっせい)　する　の　だった。 
 He never took one step too many, and always went to his destination by the shortest cut. 
 1475-52
-新聞配達の少年が、歩道を
-「号外、下院議員が惨殺」と大声をだしながら走っていた。 
-新聞(しんぶん)　配達(はいたつ)　の　少年(しょうねん)　が、　歩道(ほどう)　を　
-「号外(ごうがい)、　下院(かいん)　議員(ぎいん)　が　惨殺(ざんさつ)」　と　大声(おおごえ)　を　だしながら　走っ(はしっ)て　いた。 
+新聞配達の少年が、歩道を「号外、下院議員が惨殺」と大声をだしながら走っていた。 
+新聞(しんぶん)　配達(はいたつ)　の　少年(しょうねん)　が、　歩道(ほどう)　を　「号外(ごうがい)、　下院(かいん)　議員(ぎいん)　が　惨殺(ざんさつ)」　と　大声(おおごえ)　を　だしながら　走っ(はしっ)て　いた。 
 The newsboys were crying themselves hoarse along the footways: "Special edition. Shocking murder of an MP". 
 1475-53
 若く見えると友達がお世辞を言い始めたら、それは確実に、年をとりはじめた証拠だ。 
@@ -9104,10 +9102,8 @@ As the industrial efficiency of the group increases, and as weapons are brought 
 What would he know of railway companies, of social movements, of telephone and telegraph wires, of the Parcels Delivery Company, and postal orders and the like? 
 「〜だの」　["__ and __ and the like"]: DJG v3 p57. 
 1475-59
-政府や軍、ギャング集団などは、僕たちが
-「自由市場」とよぶもっと大きな交換経済に寄生している上意下達システムだ。 
-政府(せいふ)　や　軍(ぐん)、　ギャング　集団(しゅうだん)　など　は、　僕(ぼく)たち　が　
-「自由(じゆう)　市場(しじょう)」　と　よぶ　もっと　大(おお)きな　交換(こうかん)　経済(けいざい)　に　寄生(きせい)　して　いる　上意下達(じょういかたつ)　システム　だ。 
+政府や軍、ギャング集団などは、僕たちが「自由市場」とよぶもっと大きな交換経済に寄生している上意下達システムだ。 
+政府(せいふ)　や　軍(ぐん)、　ギャング　集団(しゅうだん)　など　は、　僕(ぼく)たち　が　「自由(じゆう)　市場(しじょう)」　と　よぶ　もっと　大(おお)きな　交換(こうかん)　経済(けいざい)　に　寄生(きせい)　して　いる　上意下達(じょういかたつ)　システム　だ。 
 Government, the military, and organized crime (for example) are command hierarchies parasitic on the broader exchange economy we call 'the free market'. 
 1475-60
 この期間に人類がその人間らしさを失って、何か非人間的で、共感しがたい、圧倒的に強力なものに発達していたらどうしよう？ 
@@ -9235,15 +9231,9 @@ I don't like to mix business with pleasure.
 当社(とうしゃ)　は　多く(おおく)　の　娯楽(ごらく)　施設(しせつ)　・　商業(しょうぎょう)　施設(しせつ)　に　30年(ねん)　以上(いじょう)　の　実績(じっせき)　を　持ち(もち)ます。 
 We have over thirty years of experience with entertainment and commercial facilities. 
 1479-5
-
-1976-199
-年にかけて、日本企業は娯楽商品の分野ではアメリカに何も売れないと思っていた。 
+1976-199年にかけて、日本企業は娯楽商品の分野ではアメリカに何も売れないと思っていた。 
 1976 - 1993年(ねん)　にかけて、　日本(にほん)　企業(きぎょう)　は　娯楽(ごらく)　商品(しょうひん)　の　分野(ぶんや)　で　は　アメリカ　に　何(なに)　も　売れ(うれ)ない　と　思っ(おもっ)て　いた。 
-During 
-1976-199
-, 
-
-Japanese companies did not think that they would be able to sell much to America in terms of entertainment goods. 
+During 1976-199, Japanese companies did not think that they would be able to sell much to America in terms of entertainment goods. 
 
 1480-1
 戦術的誤り。 
@@ -9329,7 +9319,6 @@ Dr. Adachi argued that all learning is a trial-and-error process that resembles 
 ほとんどの労働者層が、この業界において各労働者または各機械の生産量を増やせば、最終的に多数の労働者が失業に追い込まれる、と昔から誤解していることである。 
 ほとんど　の　労働者(ろうどうしゃ)　層(そう)　が、　この　業界(ぎょうかい)　において　各(かく)　労働者(ろうどうしゃ)　または　各(かく)　機械(きかい)　の　生産量(せいさんりょう)　を　増やせ(ふやせ)ば、　最終的(さいしゅうてき)　に　多数(たすう)　の　労働者(ろうどうしゃ)　が　失業(しつぎょう)　に　追い込ま(おいこま)れる、　と　昔(むかし)　から　誤解(ごかい)　して　いる　こと　で　ある。 
 A fallacy has from time immemorial been almost universal among workmen, that a material increase in the output of each man or each machine in the trade would result in the end in throwing a large number of men out of work. 
-1481-149 
 
 1481-1
 豊富な年。 
@@ -9598,10 +9587,8 @@ I lived happily, and died happily.
 どこ　か　不誠実(ふせいじつ)　に　彼女(かのじょ)　は　彼(かれ)　を　祝福(しゅくふく)　した。 
 She congratulated him somewhat insincerely. 
 1484-12
-廷臣たちは私を
-「幸福の王子」とよんだ。 
-廷臣(ていしん)たち　は　私(わたし)　を　
-「幸福(こうふく)　の　王子(おうじ)」　と　よんだ。 
+廷臣たちは私を「幸福の王子」とよんだ。 
+廷臣(ていしん)たち　は　私(わたし)　を　「幸福(こうふく)　の　王子(おうじ)」　と　よんだ。 
 My courtiers called me the "Happy Prince". 
 1484-13
 こうした君主国だけは安全で幸福なのです。 
@@ -9774,12 +9761,8 @@ Everyone had hot pot for supper.
 あの　四川(しせん)　料理(りょうり)　の　飯店(はんてん)　の　鍋物(なべもの)　は　辛(から)すぎる。 
 The hotpot at that Sichuanese place is too spicy. 
 1488-6
-日本語で、部首の
-「亠」は
-「鍋蓋」と言う。 
-日本語(にほんご)　で、　部首(ぶしゅ)　の　
-「亠」　は　
-「鍋蓋(なべぶた)」　と　言う(いう)。 
+日本語で、部首の「亠」は「鍋蓋」と言う。 
+日本語(にほんご)　で、　部首(ぶしゅ)　の　「亠」　は　「鍋蓋(なべぶた)」　と　言う(いう)。 
 In Japanese, the "lid" radical (in kanji) is called "nabebuta". 
 1488-7
 料理長は非常にきちんとした人なので、すべての鍋類はあるべき場所に整理されている。 
@@ -9791,7 +9774,8 @@ The chef is such a tidy person. Every pot and pan is in its place.
 蘭学(らんがく)　の　入門書(にゅうもんしょ)。 
 Introduction to Dutch Studies. 
 1489-2
-1788年に『蘭学階てい』と言う蘭学への入門書が書かれた。 1788年(ねん)　に　『蘭学(らんがく)　階てい(かいてい)』　と　言う(いう)　蘭学(らんがく)　へ　の　入門書(にゅうもんしょ)　が　書か(かか)れた。 
+1788年に『蘭学階てい』と言う蘭学への入門書が書かれた。 
+1788年(ねん)　に　『蘭学(らんがく)　階てい(かいてい)』　と　言う(いう)　蘭学(らんがく)　へ　の　入門書(にゅうもんしょ)　が　書か(かか)れた。 
 In the year 1788 was published an introduction to Dutch Studies entitled "Rangaku Kaitei". 
 1489-3
 直接的な現実の風景は、テクノロジーの荒野に咲く蘭の花になったのだ。 
@@ -9815,10 +9799,8 @@ Obituary column.
 新聞(しんぶん)　記事(きじ)　の　日付(ひづけ)　欄(らん)　に　記入(きにゅう)　する。 
 Dateline a newspaper article. 
 1490-4
-この新聞は
-「読者欄」をもうけてない。 
-この　新聞(しんぶん)　は　
-「読者(どくしゃ)　欄(らん)」　を　もうけてない。 
+この新聞は「読者欄」をもうけてない。 
+この　新聞(しんぶん)　は　「読者(どくしゃ)　欄(らん)」　を　もうけてない。 
 This newspaper has no Letters to the Editor section. 
 1490-5
 俺は一番最初に見るのはスポーツ欄だよ。 
@@ -9829,12 +9811,9 @@ I always read the sports page first.
 ゴシップ　欄(らん)　担当(たんとう)　記者(きしゃ)　は、　毎晩(まいばん)　ナイト　クラブ　を　訪問(ほうもん)　する　こと　に　よって　取材(しゅざい)　する。 
 The gossip columnist gets his information by visiting nightclubs every night. 
 1490-7
-フォッグ氏は無言のまま、旅程表の
-「得した時間」の欄にこのことを書き入れた。 
-フォッグ　氏(し)　は　無言(むごん)　の　まま、　旅程(りょてい)　表(ひょう)　の　
-「得(とく)　した　時間(じかん)」　の　欄(らん)　に　この　こと　を　書き入れ(かきいれ)た。 
+フォッグ氏は無言のまま、旅程表の「得した時間」の欄にこのことを書き入れた。 
+フォッグ　氏(し)　は　無言(むごん)　の　まま、　旅程(りょてい)　表(ひょう)　の　「得(とく)　した　時間(じかん)」　の　欄(らん)　に　この　こと　を　書き入れ(かきいれ)た。 
 Mr. Fogg quietly entered this fact in the itinerary, in the column of "time gains". 
-1491-150 
 
 1491-1
 富山県の湿潤な森林。 
@@ -10103,10 +10082,8 @@ I remembered Lloyd’s threat, and felt sure that all the long years of rivalry 
 我々(われわれ)　の　生命(せいめい)　を　左右(さゆう)　する　よう　な　国益(こくえき)　が　脅かさ(おびやかさ)れたり、　国際(こくさい)　社会(しゃかい)　の　意思(いし)　や　良心(りょうしん)　が　踏みにじら(ふみにじら)れた　時(とき)、　我々(われわれ)　は　できる　限り(かぎり)　平和的(へいわてき)　な　駆け引き(かけひき)　を　もって、　ただ　必要(ひつよう)　な　時(とき)　は　武力(ぶりょく)　も　辞さ(じさ)ず、　対処(たいしょ)　したい　と　思う(おもう)。 
 When our vital interests are challenged, or the will and conscience of the international community is defied, we will act; with peaceful diplomacy whenever possible, with force when necessary. 
 1496-14
-ある物件が無限に複製可能で、いくらでも変えられて、そしてそれを取り巻く文化が脅せるような権力関係や財の希少性に基づく経済に基づいていない時、何かの
-「所有権」を持つっていうのはどういうことだろうか。 
-ある　物件(ぶっけん)　が　無限(むげん)　に　複製(ふくせい)　可能(かのう)　で、　いくら　でも　変え(かえ)られて、　そして　それ　を　取り巻く(とりまく)　文化(ぶんか)　が　脅せ(おどせ)る　よう　な　権力(けんりょく)　関係(かんけい)　や　財(ざい)　の　希少性(きしょうせい)　に　基づく(もとづく)　経済(けいざい)　に　基づい(もとづい)て　いない　時(とき)、　何(なに)　か　の　
-「所有権(しょゆうけん)」　を　持つ(もつ)　って　いう　の　は　どう　いう　こと　だろう　か。 
+ある物件が無限に複製可能で、いくらでも変えられて、そしてそれを取り巻く文化が脅せるような権力関係や財の希少性に基づく経済に基づいていない時、何かの「所有権」を持つっていうのはどういうことだろうか。 
+ある　物件(ぶっけん)　が　無限(むげん)　に　複製(ふくせい)　可能(かのう)　で、　いくら　でも　変え(かえ)られて、　そして　それ　を　取り巻く(とりまく)　文化(ぶんか)　が　脅せ(おどせ)る　よう　な　権力(けんりょく)　関係(かんけい)　や　財(ざい)　の　希少性(きしょうせい)　に　基づく(もとづく)　経済(けいざい)　に　基づい(もとづい)て　いない　時(とき)、　何(なに)　か　の　「所有権(しょゆうけん)」　を　持つ(もつ)　って　いう　の　は　どう　いう　こと　だろう　か。 
 What does 'ownership' mean when property is infinitely reduplicable, highly malleable, and the surrounding culture has no coercive power? 
 
 1497-1
@@ -10184,7 +10161,6 @@ Ancient Greek had the dual form but it has merged with the plural form in modern
 それぞれの参加者は議論での勝利を求めてがんばるけれど、いすれの人も、単なるもっともらしい議論を上手に作ることにばかりかまけていて、議論の双方の理由づけをきちんと計ろうとはしないのだ。 
 それぞれ　の　参加者(さんかしゃ)　は　議論(ぎろん)　で　の　勝利(しょうり)　を　求め(もとめ)て　がんばる　けれど、　いすれ　の　人(ひと)　も、　単なる(たんなる)　もっとも　らしい　議論(ぎろん)　を　上手(じょうず)　に　作る(つくる)　こと　に　ばかり　かまけて　いて、　議論(ぎろん)　の　双方(そうほう)　の　理由(りゆう)づけ　を　きちんと　計ろ(はかろ)う　と　は　しない　の　だ。 
 While each strives for the victory, each is much more occupied in making the best of mere verisimilitude, than in weighing the reasons on both sides of the question. 
-
 「〜にかまける」means “to occupy oneself with ＿＿” (generally something unimportant). 
 
 1499-1
@@ -10212,10 +10188,9 @@ The Arakawa (River) flows between Koto Ward and Edogawa Ward.
 その　入り江(いりえ)　は、　森(もり)　を　通っ(とおっ)て　流れ(ながれ)て　いた。 
 The creek spun its course through the woods. 
 1499-7
-長江はアジアの最長の河川で、青海省の源地域から6300
-kmを流れ、東シナ海に注ぐ。 
-長江(ちょうこう)　は　アジア　の　最長(さいちょう)　の　河川(かせん)　で、　青海(せいかい)　省(しょう)　の　源(みなもと)　地域(ちいき)　から　6300
-km(キロメートル)　を　流れ(ながれ)、　東シナ海(ひがししなかい)　に　注ぐ(そそぐ)。 The Yangtze is the longest river in Asia, flowing from its source in Qinghai Province to the East China Sea. 
+長江はアジアの最長の河川で、青海省の源地域から6300kmを流れ、東シナ海に注ぐ。 
+長江(ちょうこう)　は　アジア　の　最長(さいちょう)　の　河川(かせん)　で、　青海(せいかい)　省(しょう)　の　源(みなもと)　地域(ちいき)　から　6300km(キロメートル)　を　流れ(ながれ)、　東シナ海(ひがししなかい)　に　注ぐ(そそぐ)。 
+The Yangtze is the longest river in Asia, flowing from its source in Qinghai Province to the East China Sea. 
 
 1500-1
 背骨の湾曲。 
@@ -10252,13 +10227,7 @@ The Arakawa (River) flows between Koto Ward and Edogawa Ward, and into Tokyo Bay
 1500-9
 東条英機は真珠湾への日本の攻撃を開始し、第二次世界大戦中に日本の独裁的な影響力を担った日本の陸軍士官であった。 
 東条(とうじょう)　英機(ひでき)　は　真珠湾(しんじゅわん)　へ　の　日本(にほん)　の　攻撃(こうげき)　を　開始(かいし)　し、　第二次(だいにじ)　世界(せかい)　大戦(たいせん)　中(ちゅう)　に　日本(にほん)　の　独裁的(どくさいてき)　な　影響力(えいきょうりょく)　を　担っ(になっ)た　日本(にほん)　の　陸軍(りくぐん)　士官(しかん)　で　あった。 
-Hideki Tojo was a Japanese army officer who initiated the Japanese attack on Pearl Harbor and who assumed dictatorial control of Japan during World War II. (100) ㊗ 　Congratulations!  ㊗ You have now attained the sixteenth dan:
-ジュク 
-
-MATURE Let us know at the KLC user group on Facebook! Share on:　Reddit　Twitter　Facebook　LinkedIn
-
-See the website for a full list of KLC kanji dan (ranks). 
-1501-151 
+Hideki Tojo was a Japanese army officer who initiated the Japanese attack on Pearl Harbor and who assumed dictatorial control of Japan during World War II. 
 
 1501-1
 盛んな港町。 
@@ -10628,7 +10597,8 @@ A Maoist organization formed to overthrow the government.
 普通(ふつう)　の　読者(どくしゃ)　は、　沢山(たくさん)　の　知恵(ちえ)　と　世(よ)　の　習い(ならい)　について　の　知識(ちしき)　を　授け(さずけ)られる。 
 The ordinary reader is endowed with considerable wisdom and knowledge of the way of the world. 
 1504-17
-1960年代から1970年代にかけて立川空軍基地と、その後日本北部にある三沢空軍基地にいたのだった。 1960年代(ねんだい)　から　1970年代(ねんだい)　にかけて　立川(たちかわ)　空軍(くうぐん)　基地(きち)　と、　その　後(あと)　日本(にほん)　北部(ほくぶ)　に　ある　三沢(みさわ)　空軍(くうぐん)　基地(きち)　に　いた　の　だった。 
+1960年代から1970年代にかけて立川空軍基地と、その後日本北部にある三沢空軍基地にいたのだった。 
+1960年代(ねんだい)　から　1970年代(ねんだい)　にかけて　立川(たちかわ)　空軍(くうぐん)　基地(きち)　と、　その　後(あと)　日本(にほん)　北部(ほくぶ)　に　ある　三沢(みさわ)　空軍(くうぐん)　基地(きち)　に　いた　の　だった。 
 Throughout the 1960s and 1970s he was stationed at Tachikawa airbase, and later Misawa airbase, in northern Japan. 
 1504-18
 日本国民は、正当に選挙された国会における代表者を通じて行動し、我らと我らの子孫のために、諸国民との協和による成果と、我が国全土にわたって自由のもたらす恵沢を確保し、政府の行為によって再び戦争の惨禍が起ることのないようにすることを決意し、ここに主権が国民に存することを宣言し、この憲法を確定する。 
@@ -11056,7 +11026,6 @@ Some of the jurors who had risen to get a better view repented their curiosity a
 すべて　の　人(ひと)　は、　自己(じこ)　の　権利(けんり)　および　義務(ぎむ)　並びに(ならびに)　自己(じこ)　に対する(にたいする)　刑事(けいじ)　責任(せきにん)　が　決定(けってい)　される　に当たって(にあたって)、　独立(どくりつ)　の　公平(こうへい)　な　裁判所(さいばんしょ)　に　よる　公平(こうへい)　な　公開(こうかい)　の　審理(しんり)　を　受ける(うける)　こと　について　完全(かんぜん)　に　平等(びょうどう)　の　権利(けんり)　を　有(ゆう)する。 
 Everyone is entitled in full equality to a fair and public hearing by an independent and impartial tribunal, in the determination of his rights and obligations and of any criminal charge against him. 
 「〜にあたり　/ 〜にあたって」　{〜に当たり　/ 〜に当たって　141} ["on the occasion of __", "when __"; "for __"]: DJG v2 p237. 
-1511-152 
 
 1511-1
 廃藩以後。 
@@ -11071,9 +11040,8 @@ Genius of the Tsushima domain.
 現在(げんざい)　の　山口(やまぐち)　県(けん)　は　江戸(えど)　時代(じだい)　の　長州(ちょうしゅう)　藩(はん)　〚長門(ながと)　の　国(くに)　と　も　言う(いう)〛　と　相当(そうとう)　する。 
 Today's Yamaguchi Prefecture corresponds to the Edo period's Choshu Domain, also referred to as Nagato no Kuni. 
 1511-4
-1871年に幕藩体制が廃止され、現在の府県が置かれた。この改革は
-「廃藩置県」と言う。 1871年(ねん)　に　幕藩(ばくはん)　体制(たいせい)　が　廃止(はいし)　され、　現在(げんざい)　の　府県(ふけん)　が　置か(おか)れた。　この　改革(かいかく)　は　
-「廃藩置県(はいはんちけん)」　と　言う(いう)。 
+1871年に幕藩体制が廃止され、現在の府県が置かれた。この改革は「廃藩置県」と言う。 
+1871年(ねん)　に　幕藩(ばくはん)　体制(たいせい)　が　廃止(はいし)　され、　現在(げんざい)　の　府県(ふけん)　が　置か(おか)れた。　この　改革(かいかく)　は　「廃藩置県(はいはんちけん)」　と　言う(いう)。 
 In 1871 the bakuhan system was abolished and the current prefecture system was put in place. This reform is referred to as haihan-chiken. 
 
 1512-1
@@ -11117,10 +11085,9 @@ Fansubbing groups usually ran at the whim of their translators.
 他(ほか)　に　手(て)　が　なかった　ので、　ファンたち　は　翻訳(ほんやく)　なし　の　番組(ばんぐみ)　でも　喜ん(よろこん)で　見(み)た。 
 Because there was no other alternative, fans were happy enough to watch untranslated shows. 
 1512-11
-未翻訳の作品については、
-AXスタッフは字幕を作って上映する許可を得た。 
-未翻訳(みほんやく)　の　作品(さくひん)　について　は、　
-AX　スタッフ　は　字幕(じまく)　を　作っ(つくっ)て　上映(じょうえい)　する　許可(きょか)　を　得(え)た。 For untranslated Japanese materials, AX staff secured permissions to create and screen subtitles. 
+未翻訳の作品については、AXスタッフは字幕を作って上映する許可を得た。 
+未翻訳(みほんやく)　の　作品(さくひん)　について　は、　AX　スタッフ　は　字幕(じまく)　を　作っ(つくっ)て　上映(じょうえい)　する　許可(きょか)　を　得(え)た。 
+For untranslated Japanese materials, AX staff secured permissions to create and screen subtitles. 
 1512-12
 アニメの草創期には、翻訳、再構成や再製作は、収益の達成に反するものではなかった。 
 アニメ　の　草創期(そうそうき)　に　は、　翻訳(ほんやく)、　再構成(さいこうせい)　や　再製作(さいせいさく)　は、　収益(しゅうえき)　の　達成(たっせい)　に　反する(はんする)　もの　で　は　なかった。 
@@ -11142,10 +11109,8 @@ A few fans began to write translation booklets to accompany untranslated anime p
 複製権(ふくせいけん)、　上演権(じょうえんけん)、　上映権(じょうえいけん)、　公衆(こうしゅう)　送信権(そうしんけん)　等(など)、　口述権(こうじゅつけん)、　展示権(てんじけん)、　貸与権(たいよけん)、　翻訳権(ほんやくけん)、　翻案権(ほんあんけん)、　二次的(にじてき)　著作物(ちょさくぶつ)　の　利用(りよう)　に関する(にかんする)　原著作者(げんちょさくしゃ)　の　権利(けんり)。 
 Rights of reproduction; of performance; of presentation; of public transmission, etc.; of recitation; of exhibition; of lending; of translation; of adaptation; and of the original author in exploitation of a derivative work. 
 1512-17
-ファンダムの構成が変わるに連れて、
-「ファンサブ」、つまりファンによるアニメビデオの翻訳と字幕追加が1990年までには流通プロセスに追加されていた。 
-ファンダム　の　構成(こうせい)　が　変わる(かわる)　に　連れ(つれ)て、　
-「ファンサブ」、　つまり　ファン　に　よる　アニメ　ビデオ　の　翻訳(ほんやく)　と　字幕(じまく)　追加(ついか)　が　1990年(ねん)　まで　に　は　流通(りゅうつう)　プロセス　に　追加(ついか)　されて　いた。 
+ファンダムの構成が変わるに連れて、「ファンサブ」、つまりファンによるアニメビデオの翻訳と字幕追加が1990年までには流通プロセスに追加されていた。 
+ファンダム　の　構成(こうせい)　が　変わる(かわる)　に　連れ(つれ)て、　「ファンサブ」、　つまり　ファン　に　よる　アニメ　ビデオ　の　翻訳(ほんやく)　と　字幕(じまく)　追加(ついか)　が　1990年(ねん)　まで　に　は　流通(りゅうつう)　プロセス　に　追加(ついか)　されて　いた。 
 Following a shift in the constitution of the fandom, “fansubbing”, or translation and subtitling of anime videos, was added to the distribution process by 1990. 
 「〜につれて　/ 〜につれ」　{〜に連れて* / 〜に連れ* 582} ["as __"; "in proportion to __"]: DJG v2 p285; Tobira ch13 #6. 
 1512-18
@@ -11207,10 +11172,9 @@ Ethnological field work.
 報告(ほうこく)　された　調査(ちょうさ)　結果(けっか)。 
 The reported findings. 
 1514-10
-静脈の
-X線撮影検査。 
-静脈(じょうみゃく)　の　
-X　線(せん)　撮影(さつえい)　検査(けんさ)。 X-ray examination of veins. 
+静脈のX線撮影検査。 
+静脈(じょうみゃく)　の　X　線(せん)　撮影(さつえい)　検査(けんさ)。 
+X-ray examination of veins. 
 1514-11
 超音波検査をしましょう。 
 超音波(ちょうおんぱ)　検査(けんさ)　を　しましょう。 
@@ -11232,10 +11196,9 @@ Inquire into the disappearance of the rich old lady.
 市(し)　が　申請書(しんせいしょ)　の　内容(ないよう)　を　審査(しんさ)　します。 
 The city will examine the contents of the application. 
 1514-16
-伯母は
-HIVの検査で陽性と出た。 
-伯母(おば)　は　
-HIV　の　検査(けんさ)　で　陽性(ようせい)　と　出(で)た。 My aunt tested positive for HIV. 
+伯母はHIVの検査で陽性と出た。 
+伯母(おば)　は　HIV　の　検査(けんさ)　で　陽性(ようせい)　と　出(で)た。 
+My aunt tested positive for HIV. 
 1514-17
 国勢調査局は、商務省の機関である。 
 国勢調査(こくせいちょうさ)　局(きょく)　は、　商務省(しょうむしょう)　の　機関(きかん)　で　ある。 
@@ -11270,7 +11233,8 @@ A cursory inspection failed to reveal the house's structural flaws.
 報道員(ほうどういん)たち　は　審査員(しんさいん)　の　競技者(きょうぎしゃ)たち　に対する(にたいする)　審査(しんさ)　を　批判(ひはん)　しました。 
 The reporters criticized the judge's judgment of the contestants. 
 1514-25
-30年に亘る心理学の調査によると、処罰では長期的には望ましい効果がでません。 30年(ねん)　に　亘る(わたる)　心理学(しんりがく)　の　調査(ちょうさ)　に　よる　と、　処罰(しょばつ)　で　は　長期的(ちょうきてき)　に　は　望ましい(のぞましい)　効果(こうか)　が　でません。 
+30年に亘る心理学の調査によると、処罰では長期的には望ましい効果がでません。 
+30年(ねん)　に　亘る(わたる)　心理学(しんりがく)　の　調査(ちょうさ)　に　よる　と、　処罰(しょばつ)　で　は　長期的(ちょうきてき)　に　は　望ましい(のぞましい)　効果(こうか)　が　でません。 
 Thirty years of psychological research has shown that punishment has no desirable long-term effects. 
 1514-26
 早速証拠を持ち寄り合って、時を移さずこの邸内の調査を始めようではないですか。 
@@ -11555,13 +11519,13 @@ The clerk carefully folded the hand cloths.
 もう　畳(たたみ)　の　上(うえ)　に　座る(すわる)　の　に　は　なれました。 
 I am already accustomed to sitting on tatami. 
 1520-6
-10人用の畳敷きの部屋はありますか。 10人用(にんよう)　の　畳敷き(たたみじき)　の　部屋(へや)　は　あります　か。 
+10人用の畳敷きの部屋はありますか。 
+10人用(にんよう)　の　畳敷き(たたみじき)　の　部屋(へや)　は　あります　か。 
 Do you have a tatami room for ten people? 
 1520-7
 怪我した選手は畳の上に大の字になった。 
 怪我(けが)　した　選手(せんしゅ)　は　畳(たたみ)　の　上(うえ)　に　大の字(だいのじ)　に　なった。 
 The injured player spread-eagled on the tatami mat. 
-1521-153 
 
 1521-1
 肩甲骨。 
@@ -12050,7 +12014,8 @@ Extract information.
 蒸留(じょうりゅう)　の　工程(こうてい)　に　よって　抽出(ちゅうしゅつ)　する。 
 Extract by the process of distillation. 
 1526-6
-1000万円が抽選で1名様に当たります。 1000万(まん)　円(えん)　が　抽選(ちゅうせん)　で　1名(めい)　様(さま)　に　当たり(あたり)ます。 
+1000万円が抽選で1名様に当たります。 
+1000万(まん)　円(えん)　が　抽選(ちゅうせん)　で　1名(めい)　様(さま)　に　当たり(あたり)ます。 
 One person will win 10 million yen in the lottery. 
 1526-7
 お客様の中から抽選で200名様に、甲種商品券します。 
@@ -12137,7 +12102,8 @@ The range of the eye.
 充分(じゅうぶん)　に　手入れ(ていれ)　が　行き届く(いきとどく)。 
 It's well cared for. 
 1528-3
-1週間以内にお届けします。 1週間(しゅうかん)　以内(いない)　に　お届け(おとどけ)　します。 
+1週間以内にお届けします。 
+1週間(しゅうかん)　以内(いない)　に　お届け(おとどけ)　します。 
 We shall deliver it within one week. 
 1528-4
 郵便が届かないこともある。 
@@ -12310,7 +12276,6 @@ In the midst of the circle, and divested of his furry cloak, stood a Greenlander
 丁度(ちょうど)　その　時(とき)、　死ん(しん)だ　賭博師(とばくし)　の　金(かね)　を　数え(かぞえ)て　いた　僕(ぼく)　と　母親(ははおや)　を　はっ　と　させた　の　と　同じ(おなじ)　口笛(くちぶえ)　が　夜(よる)　の　空(そら)　に　はっきり　と　響き渡り(ひびきわたり)、　それ　も　今度(こんど)　は　二回(にかい)　だった。 
 Just then, the same whistling that had alarmed my mother and myself while counting the dead gambler’s money was once more clearly audible through the night, but this time twice repeated. 
 「それも〜」　{其れも〜** 1757} ["what's more, __"]: DJG v2 p425. 
-1531-154 
 
 1531-1
 長袖の手袋。 
@@ -12641,8 +12606,8 @@ He caressed her face.
 The lovers fondled in the back seat of the taxi. 
 1538-4
 「ぜんぎ」とは、性交前の双方の性的な愛撫である。 
-「ぜんぎ」　と　は、　性交(せいこう)　前(まえ)　の　双方(そうほう)　の　性的(せいてき)　な　愛撫(あいぶ)　で　ある。 "
-Foreplay" is the mutual sexual fondling prior to sexual intercourse. 
+「ぜんぎ」　と　は、　性交(せいこう)　前(まえ)　の　双方(そうほう)　の　性的(せいてき)　な　愛撫(あいぶ)　で　ある。 
+"Foreplay" is the mutual sexual fondling prior to sexual intercourse. 
 1538-5
 私は愛撫を続けていたが、家へ帰りかけようとすると、その動物はついて来たいような様子を見せた。 
 私(わたし)　は　愛撫(あいぶ)　を　続け(つづけ)て　いた　が、　家(いえ)　へ　帰り(かえり)かけよう　と　する　と、　その　動物(どうぶつ)　は　ついて　来(き)たい　よう　な　様子(ようす)　を　見せ(みせ)た。 
@@ -12705,10 +12670,8 @@ Some policemen were found to be in league with the criminals.
 投資家(とうしか)　は、　金融(きんゆう)　利益(りえき)　を　得る(える)　こと　を　目的(もくてき)　に　資本(しほん)　を　委託(いたく)　する　人(ひと)　で　ある。 
 An investor is someone who commits capital in order to gain financial returns. 
 1539-15
-神学の
-「理性主義」とは、託宣よりも人間の理性が宗教的な真理を確立するという教義のことを意味する。 
-神学(しんがく)　の　
-「理性主義(りせいしゅぎ)」　と　は、　託宣(たくせん)　より　も　人間(にんげん)　の　理性(りせい)　が　宗教的(しゅうきょうてき)　な　真理(しんり)　を　確立(かくりつ)　する　という　教義(きょうぎ)　の　こと　を　意味(いみ)　する。 
+神学の「理性主義」とは、託宣よりも人間の理性が宗教的な真理を確立するという教義のことを意味する。 
+神学(しんがく)　の　「理性主義(りせいしゅぎ)」　と　は、　託宣(たくせん)　より　も　人間(にんげん)　の　理性(りせい)　が　宗教的(しゅうきょうてき)　な　真理(しんり)　を　確立(かくりつ)　する　という　教義(きょうぎ)　の　こと　を　意味(いみ)　する。 
 In theology, "rationalism" is the doctrine that human reason rather than divine revelation establishes religious truth. 
 
 1540-1
@@ -12851,7 +12814,6 @@ I followed you to your door, and so made sure that I was really an object of int
 そこで老紳士は、そういう訳で、馬具をつけ、一番上等のシルクハットと一番上等の硬く幅広い襟を着け、堂々たるスタイルで、確かどこかバックレーンの近くの先祖代々の邸宅から乗り出しました。 
 そこで　老紳士(ろうしんし)　は、　そういう　訳(わけ)　で、　馬具(ばぐ)　を　つけ、　一番(いちばん)　上等(じょうとう)　の　シルク　ハット　と　一番(いちばん)　上等(じょうとう)　の　硬く(かたく)　幅広い(はばひろい)　襟(えり)　を　着け(つけ)、　堂々たる(どうどうたる)　スタイル　で、　確か(たしか)　どこ　か　バック　レーン　の　近く(ちかく)　の　先祖(せんぞ)　代々(だいだい)　の　邸宅(ていたく)　から　乗り出し(のりだし)ました。 
 So the old gentleman, as I said, harnessed the horse and put on his very best tall hat and his very best stock collar and drove out in grand style from his ancestral mansion somewhere near Back Lane. 
-1541-155 
 
 1541-1
 お詫びの言葉もありません。 
@@ -13342,16 +13304,13 @@ The homecoming of the released hostages was a poignant scene.
 それら　の　苦情(くじょう)　に対して(にたいして)、　法(ほう)　の　適用(てきよう)　外(がい)　の　償還(しょうかん)　請求(せいきゅう)　しか　なかった。 
 There were only extralegal recourses for their grievances. 
 1550-11
-アメリカ合衆国における
-「新連邦主義」とは、連邦の権限を縮小して個々の州に返還すべきであるという主義のことをいう。 
-アメリカ　合衆国(がっしゅうこく)　に　おける　
-「新連邦主義(しんれんぽうしゅぎ)」　と　は、　連邦(れんぽう)　の　権限(けんげん)　を　縮小(しゅくしょう)　して　個々(ここ)　の　州(しゅう)　に　返還(へんかん)　すべき　で　ある　という　主義(しゅぎ)　の　こと　を　いう。 "
+アメリカ合衆国における「新連邦主義」とは、連邦の権限を縮小して個々の州に返還すべきであるという主義のことをいう。 
+アメリカ　合衆国(がっしゅうこく)　に　おける　「新連邦主義(しんれんぽうしゅぎ)」　と　は、　連邦(れんぽう)　の　権限(けんげん)　を　縮小(しゅくしょう)　して　個々(ここ)　の　州(しゅう)　に　返還(へんかん)　すべき　で　ある　という　主義(しゅぎ)　の　こと　を　いう。 "
 New Federalism" in the United States is a doctrine that federal powers should be curtailed and returned to the individual states. 
 1550-12
 合衆国軍隊が使用する施設および区域は、この協定の目的のため必要でなくなつたときは、いつでも、日本国に返還しなければならない。合衆国は、施設および区域の必要性を前記の返還を目的としてたえず検討することに同意する。 
 合衆国(がっしゅうこく)　軍隊(ぐんたい)　が　使用(しよう)　する　施設(しせつ)　および　区域(くいき)　は、　この　協定(きょうてい)　の　目的(もくてき)　の　ため　必要(ひつよう)　で　なくなつた　とき　は、　いつ　でも、　日本国(にほんこく)　に　返還(へんかん)　しなければ　ならない。　合衆国(がっしゅうこく)　は、　施設(しせつ)　および　区域(くいき)　の　必要性(ひつようせい)　を　前記(ぜんき)　の　返還(へんかん)　を　目的(もくてき)　として　たえず　検討(けんとう)　する　こと　に　同意(どうい)　する。 
 The facilities and areas used by the United States armed forces shall be returned to Japan whenever they are no longer needed for purposes of this Agreement, and the United States agrees to keep the needs for facilities and areas under continual observation with a view toward such return. 
-1551-156 
 
 1551-1
 矛盾した説明。 
