@@ -1,4 +1,3 @@
-
 1601-1
 格子模様の舗道。 
 格子(こうし)　模様(もよう)　の　舗道(ほどう)。 
@@ -65,7 +64,6 @@ They walked over a pavement of the same green marble, and where the blocks were 
 従卒は蓋の柄を掴んだ。 
 従卒(じゅうそつ)　は　蓋(ふた)　の　柄(え)　を　掴ん(つかん)だ。 
 The orderly clenched the lid's handle. 
-
 1602-2
 警備員はすりの襟首を掴んだ。 
 警備員(けいびいん)　は　すり　の　襟首(えりくび)　を　掴ん(つかん)だ。 
@@ -141,11 +139,13 @@ Urge to action through moral pressure.
 陪審長(ばいしんちょう)　は　悪意(あくい)　の　ある　動機(どうき)　に　よって　促さ(うながさ)れて　いる。 
 The jury foreman is prompted by malign motives. 
 1604-7
-1990年10月のドイツ国家の再統一は金融統一を促進した。 1990年(ねん)　10月(がつ)　の　ドイツ　国家(こっか)　の　再統一(さいとういつ)　は　金融(きんゆう)　統一(とういつ)　を　促進(そくしん)　した。 
+1990年10月のドイツ国家の再統一は金融統一を促進した。 
+1990年(ねん)　10月(がつ)　の　ドイツ　国家(こっか)　の　再統一(さいとういつ)　は　金融(きんゆう)　統一(とういつ)　を　促進(そくしん)　した。 
 The reunification of the German state in October 1990 precipitated a monetary unification. 
 1604-8
-
-UNESCOは教育、科学および芸術を促進する国際連合の機関である。 UNESCO　は　教育(きょういく)、　科学(かがく)　および　芸術(げいじゅつ)　を　促進(そくしん)　する　国際(こくさい)　連合(れんごう)　の　機関(きかん)　で　ある。 UNESCO is an agency of the United Nations that promotes education, science and the arts. 
+UNESCOは教育、科学および芸術を促進する国際連合の機関である。 
+UNESCO　は　教育(きょういく)、　科学(かがく)　および　芸術(げいじゅつ)　を　促進(そくしん)　する　国際(こくさい)　連合(れんごう)　の　機関(きかん)　で　ある。 
+UNESCO is an agency of the United Nations that promotes education, science and the arts. 
 1604-9
 同盟内の自由貿易を促進し、非加盟国に対しては共通の関税を課す国家連合。 
 同盟(どうめい)　内(ない)　の　自由(じゆう)　貿易(ぼうえき)　を　促進(そくしん)　し、　非加盟国(ひかめいこく)　に対して(にたいして)　は　共通(きょうつう)　の　関税(かんぜい)　を　課す(かす)　国家(こっか)　連合(れんごう)。 
@@ -257,10 +257,8 @@ Stroke by stroke, member by member, I painted Lloyd Inwood into nothingness.
 今(いま)　で　は　或(ある)　雑誌(ざっし)　社(しゃ)　の　二階(にかい)　で、　校正(こうせい)　の　朱筆(しゅひつ)　を　握っ(にぎっ)て　いる。 
 He now works on the second floor of a magazine publisher as a proofreader. 
 1605-19
-マークス氏は1848年にエンゲルス氏とともに
-「共産党宣言」を執筆した。 
-マークス　氏(し)　は　1848年(ねん)　に　エンゲルス　氏(し)　とともに　
-「共産党(きょうさんとう)　宣言(せんげん)」　を　執筆(しっぴつ)　した。 
+マークス氏は1848年にエンゲルス氏とともに「共産党宣言」を執筆した。 
+マークス　氏(し)　は　1848年(ねん)　に　エンゲルス　氏(し)　とともに　「共産党(きょうさんとう)　宣言(せんげん)」　を　執筆(しっぴつ)　した。 
 Marx wrote the Communist Manifesto with Engels in 1848. 
 1605-20
 特筆すべきことは松浦先生の生徒は滅多に文句を言わないということである。 
@@ -272,19 +270,13 @@ A noteworthy fact is that Matsuura-sensei's students rarely complain.
 「はね」　と　は、　文字(もじ)　を　書き終える(かきおえる)　時(とき)、　筆先(ふでさき)　を　曲げる(まげる)　こと　で　書い(かい)た　文字(もじ)　の　部分(ぶぶん)　を　の　こと　言う(いう)。 "
 Hane" refers to the part of a character one writes at the end by turning the brush tip. 
 1605-22
-レイテ沖海戦は日本軍が最初に
-「神風」特攻隊を使用したことで、特筆される闘いである。 
-レイテ　沖(おき)　海戦(かいせん)　は　日本(にほん)　軍(ぐん)　が　最初(さいしょ)　に　
-「神風(かみかぜ)」　特攻隊(とっこうたい)　を　使用(しよう)　した　こと　で、　特筆(とくひつ)　される　闘い(たたかい)　で　ある。 
+レイテ沖海戦は日本軍が最初に「神風」特攻隊を使用したことで、特筆される闘いである。 
+レイテ　沖(おき)　海戦(かいせん)　は　日本(にほん)　軍(ぐん)　が　最初(さいしょ)　に　「神風(かみかぜ)」　特攻隊(とっこうたい)　を　使用(しよう)　した　こと　で、　特筆(とくひつ)　される　闘い(たたかい)　で　ある。 
 The Battle of Leyte Gulf merits special mention, as it marked the first use of "kamikaze" attack aircraft by the Japanese. 
 1605-23
 ラードナー〚1885年−1933年〛は米国のユーモア作家で皮肉な短編小説の筆者であった。 
 ラードナー　〚1885年(ねん)　−　1933年(ねん)〛　は　米国(べいこく)　の　ユーモア　作家(さっか)　で　皮肉(ひにく)　な　短編(たんぺん)　小説(しょうせつ)　の　筆者(ひっしゃ)　で　あった。 
-Lardner (
-1885-193
-) 
-
-was a U.S. humorist and writer of satirical short stories. 
+Lardner (1885-193) was a U.S. humorist and writer of satirical short stories. 
 1605-24
 末筆になりますが、本件係争の早期解決に向けて、なにとぞ前向きにご検討いただければ幸いに存じます。 
 末筆(まっぴつ)　に　なります　が、　本件(ほんけん)　係争(けいそう)　の　早期(そうき)　解決(かいけつ)　に　向(む)けて、　なにとぞ　前向(まえむ)き　に　ご検討(けんとう)　いただければ　幸(さいわ)い　に　存(ぞん)じます。 
@@ -596,7 +588,8 @@ He was arrested on a charge of larceny.
 容疑者(ようぎしゃ)　は　逮捕(たいほ)　に　平然(へいぜん)　と　服従(ふくじゅう)　した。 
 The suspect submitted impassively to his arrest. 
 1608-5
-3人が商法違反の容疑で逮捕されました。 3人(にん)　が　商法(しょうほう)　違反(いはん)　の　容疑(ようぎ)　で　逮捕(たいほ)　されました。 
+3人が商法違反の容疑で逮捕されました。 
+3人(にん)　が　商法(しょうほう)　違反(いはん)　の　容疑(ようぎ)　で　逮捕(たいほ)　されました。 
 Three people have been arrested on suspicion of violating the commercial code. 
 1608-6
 巡回中の警察が逮捕したために賞賛を得た。 
@@ -635,10 +628,8 @@ He may have preferred death to dishonor, and plunged into the Atlantic rather th
 逮捕状(たいほじょう)　は　法(ほう)　執行官(しっこうかん)　当局者(とうきょくしゃ)　が　犯罪者(はんざいしゃ)　を　逮捕(たいほ)　して、　その　人(ひと)　を　法廷(ほうてい)　に　連れ(つれ)て　来る(くる)　の　を　認可(にんか)　する　証明書(しょうめいしょ)　で　ある。 
 An arrest warrant is a warrant authorizing law enforcement officials to apprehend an offender and bring that person to court. 
 1608-15
-国際刑事警察機構の
-「赤手配書」とは、指名手配犯を記載し、彼または彼女が引渡しの目的で逮捕されるよう求めている通知のことを指す。 
-国際(こくさい)　刑事(けいじ)　警察(けいさつ)　機構(きこう)　の　
-「赤(あか)　手配書(てはいしょ)」　と　は、　指名(しめい)　手配(てはい)　犯(はん)　を　記載(きさい)　し、　彼(かれ)　または　彼女(かのじょ)　が　引渡し(ひきわたし)　の　目的(もくてき)　で　逮捕(たいほ)　される　よう　求め(もとめ)て　いる　通知(つうち)　の　こと　を　指す(さす)。 
+国際刑事警察機構の「赤手配書」とは、指名手配犯を記載し、彼または彼女が引渡しの目的で逮捕されるよう求めている通知のことを指す。 
+国際(こくさい)　刑事(けいじ)　警察(けいさつ)　機構(きこう)　の　「赤(あか)　手配書(てはいしょ)」　と　は、　指名(しめい)　手配(てはい)　犯(はん)　を　記載(きさい)　し、　彼(かれ)　または　彼女(かのじょ)　が　引渡し(ひきわたし)　の　目的(もくてき)　で　逮捕(たいほ)　される　よう　求め(もとめ)て　いる　通知(つうち)　の　こと　を　指す(さす)。 
 An Interpol "Red Notice" is a notice describing a wanted person and asking that he or she be arrested with a view to extradition. 
 1608-16
 日本国の当局は、合衆国の軍当局に対し、合衆国軍隊の構成員又はそれらの家族の逮捕についてすみやかに通告しなければならない。 
@@ -679,7 +670,8 @@ A ruined building.
 一戸建て(いっこだて)　住宅(じゅうたく)。 
 Detached houses.  
 1609-7
-6階建ての建物。 6階建て(かいだて)　の　建物(たてもの)。 
+6階建ての建物。 
+6階建て(かいだて)　の　建物(たてもの)。 
 A six-storied building. 
 1609-8
 この建物は完成間近だ。 
@@ -847,9 +839,9 @@ A party of order or stability, and a party of progress or reform, are both neces
 世界(せかい)　保健(ほけん)　機関(きかん)　は　国際的(こくさいてき)　な　保健(ほけん)　活動(かつどう)　を　調整(ちょうせい)　し、　各国(かっこく)　の　公共(こうきょう)　医療(いりょう)　サービス　改善(かいぜん)　を　援助(えんじょ)　する　国際(こくさい)　連合(れんごう)　機関(きかん)　で　ある。 
 The World Health Organization is a United Nations agency established to coordinate international health activities and to help governments improve health services. 
 1610-17
-
-ETAとは、1959年に伝統的なバスク政党の穏健主義者の愛国心に不満を持った学生活動家により組織されたテロリスト組織である。 ETA　と　は、　1959年(ねん)　に　伝統的(でんとうてき)　な　バスク　政党(せいとう)　の　穏健主義者(おんけんしゅぎしゃ)　の　愛国心(あいこくしん)　に　不満(ふまん)　を　持っ(もっ)た　学生(がくせい)　活動家(かつどうか)　に　より　組織(そしき)　された　テロリスト　組織(そしき)　で　ある。 The ETA is a terrorist organization organized in 1959 by student activists who were dissatisfied with the moderate nationalism of the traditional Basque party. 
-1611-162 
+ETAとは、1959年に伝統的なバスク政党の穏健主義者の愛国心に不満を持った学生活動家により組織されたテロリスト組織である。 
+ETA　と　は、　1959年(ねん)　に　伝統的(でんとうてき)　な　バスク　政党(せいとう)　の　穏健主義者(おんけんしゅぎしゃ)　の　愛国心(あいこくしん)　に　不満(ふまん)　を　持っ(もっ)た　学生(がくせい)　活動家(かつどうか)　に　より　組織(そしき)　された　テロリスト　組織(そしき)　で　ある。 
+The ETA is a terrorist organization organized in 1959 by student activists who were dissatisfied with the moderate nationalism of the traditional Basque party. 
 
 1611-1
 健康的な睡眠。 
@@ -993,8 +985,8 @@ Raised needlework.
 A kimono of embroidered scarlet cloth. 
 1614-3
 「針仕事」は縫製や刺繍をふくむ。 
-「針仕事(はりしごと)」　は　縫製(ほうせい)　や　刺繍(ししゅう)　を　ふくむ。 "
-Needlework" includes such things as sewing and embroidery. 
+「針仕事(はりしごと)」　は　縫製(ほうせい)　や　刺繍(ししゅう)　を　ふくむ。 
+"Needlework" includes such things as sewing and embroidery. 
 1614-4
 奥村さんは白い手拭いに旦那さんの名前の頭文字を刺繍した。 
 奥村(おくむら)さん　は　白い(しろい)　手拭い(てぬぐい)　に　旦那(だんな)さん　の　名前(なまえ)　の　頭文字(かしらもじ)　を　刺繍(ししゅう)　した。 
@@ -1037,12 +1029,8 @@ Large bell-shaped sweet pepper in green, red, yellow, or black varieties.
 唐朝(とうちょう)　は　618年(ねん)　から　907年(ねん)　にかけて　の　中国(ちゅうごく)　の　王朝(おうちょう)　だった。 
 The Tang Dynasty was the imperial dynasty of China from 618 to 907. 
 1615-9
-以前に
-「唐様」とよばれた建設伝統は現在
-「禅宗様」とよばれる。 
-以前(いぜん)　に　
-「唐様(からよう)」　と　よばれた　建設(けんせつ)　伝統(でんとう)　は　現在(げんざい)　
-「禅宗様(ぜんしゅうよう)」　と　よばれる。 
+以前に「唐様」とよばれた建設伝統は現在「禅宗様」とよばれる。 
+以前(いぜん)　に　「唐様(からよう)」　と　よばれた　建設(けんせつ)　伝統(でんとう)　は　現在(げんざい)　「禅宗様(ぜんしゅうよう)」　と　よばれる。 
 The building tradition formerly known as "Chinese (Tang) style" is known today as "Zen style". 
 1615-10
 ハラペーニョは米国南西部・メキシコ産の緑色または赤色の辛い唐辛子である。 
@@ -1304,21 +1292,16 @@ Another way of resolving conflicts is by seniority.
 私(わたし)　は　再び(ふたたび)　無節制(むせっせい)　に　なって、　間もなく(まもなく)　その　行為(こうい)　の　全て(すべて)　の　記憶(きおく)　を　酒(さけ)　に　紛らし(まぎらし)て　しまった。 
 I again plunged into excess, and soon drowned in wine all memory of the deed. 
 1620-14
-多くの内紛が生じて、その内紛を通じて
-CFOを自分たちの思い通りに変えようとする新しい指導者が権力を握った。 
-多く(おおく)　の　内紛(ないふん)　が　生じ(しょうじ)て、　その　内紛(ないふん)　を　通じて(つうじて)　
-CFO　を　自分(じぶん)たち　の　思い通り(おもいどおり)　に　変えよ(かえよ)う　とする　新(あたら)しい　指導者(しどうしゃ)　が　権力(けんりょく)　を　握っ(にぎっ)た。 Much infighting resulted, and in that infighting new leaders came to power who wanted to change C/FO operations to fit their own images. 
+多くの内紛が生じて、その内紛を通じてCFOを自分たちの思い通りに変えようとする新しい指導者が権力を握った。 
+多く(おおく)　の　内紛(ないふん)　が　生じ(しょうじ)て、　その　内紛(ないふん)　を　通じて(つうじて)　CFO　を　自分(じぶん)たち　の　思い通り(おもいどおり)　に　変えよ(かえよ)う　とする　新(あたら)しい　指導者(しどうしゃ)　が　権力(けんりょく)　を　握っ(にぎっ)た。 
+Much infighting resulted, and in that infighting new leaders came to power who wanted to change C/FO operations to fit their own images. 
 1620-15
 トラックの車輪を蹴って見たり、一人では動かないのを承知しながらうんうんそれを押して見たり、――そんな事に気持ちを紛らせていた。 
 トラック　の　車輪(しゃりん)　を　蹴っ(けっ)て　見(み)たり、　一人(ひとり)　で　は　動か(うごか)ない　の　を　承知(しょうち)　しながら　うんうん　それ　を　押し(おし)て　見(み)たり、　――　そんな　事(こと)　に　気持ち(きもち)　を　紛らせ(まぎらせ)て　いた。 
 He tried to occupy himself by kicking the wheels of the truck and forcefully pushing it, though he knew that he couldn’t move it by himself. 
 1620-16
-紛争は原則的に、こうした二つの基準〚すなわち、
-「権威には責任にともなう」と
-「序列の高いほうが勝つ」〛ということが矛盾する結果を出して、しかもそのプロジェクトリーダの権利が弱かったり不在だったりするときにしか存続しない。 
-紛争(ふんそう)　は　原則的(げんそくてき)　に、　こうした　二つ(ふたつ)　の　基準(きじゅん)　〚すなわち、
-「権威(けんい)　に　は　責任(せきにん)　に　ともなう」　と　
-「序列(じょれつ)　の　高い(たかい)　ほう　が　勝つ(かつ)」〛　という　こと　が　矛盾(むじゅん)　する　結果(けっか)　を　出し(だし)て、　しかも　その　プロジェクト　リーダ　の　権利(けんり)　が　弱かっ(よわかっ)たり　不在(ふざい)　だったり　する　とき　に　しか　存続(そんぞく)　しない。 
+紛争は原則的に、こうした二つの基準〚すなわち、「権威には責任にともなう」と「序列の高いほうが勝つ」〛ということが矛盾する結果を出して、しかもそのプロジェクトリーダの権利が弱かったり不在だったりするときにしか存続しない。 
+紛争(ふんそう)　は　原則的(げんそくてき)　に、　こうした　二つ(ふたつ)　の　基準(きじゅん)　〚すなわち、「権威(けんい)　に　は　責任(せきにん)　に　ともなう」　と　「序列(じょれつ)　の　高い(たかい)　ほう　が　勝つ(かつ)」〛　という　こと　が　矛盾(むじゅん)　する　結果(けっか)　を　出し(だし)て、　しかも　その　プロジェクト　リーダ　の　権利(けんり)　が　弱かっ(よわかっ)たり　不在(ふざい)　だったり　する　とき　に　しか　存続(そんぞく)　しない。 
 Conflicts do not, as a rule, become serious unless these two criteria ("authority follows responsibility" and "seniority wins") point in different directions, and the authority of the project leader is weak or absent. 
 「しかも〜」　["and __"; "and yet __"]: DJG v2 p390. 
 1620-17
@@ -1330,8 +1313,6 @@ To develop written codes of good practice for resolving the various sorts of dis
 オープン　ソース・ソフト　を　めぐる　紛争(ふんそう)　の　理由(りゆう)　として　は、　次(つぎ)　の　4つ　の　大(おお)きな　論点(ろんてん)　を　指摘(してき)　できる：　だれ　が　プロジェクト　について　決定力(けっていりょく)　の　ある　決断(けつだん)　を　下す(くだす)　の　か？　だれ　が　何(なに)　について、　評価(ひょうか)　や　非難(ひなん)　を　受ける(うける)　の　か？　二度(にど)　手間(てま)　を　避け(さけ)て、　非公式(ひこうしき)　版(ばん)　が　でて　バグ　追跡(ついせき)　を　ややこしく　する　の　を　止める(やめる)　に　は　どう　する　か？　技術的(ぎじゅつてき)　に　見(み)たら、　何(なに)　が　正しい(ただしい)　こと　だった　の　か？ 
 In conflicts over open-source software we can identify four major issues: Who gets to make binding decisions about a project? Who gets credit or blame for what? How to reduce duplication of effort and prevent rogue versions from complicating bug tracking? What is the Right Thing, technically speaking? 
 「〜をめぐる　/ 〜をめぐって」　{〜を巡る* / 〜を巡って* 1553} ["over __"]: DJG v3 p486. 
-
-1621-163 
 
 1621-1
 上院の糾問者の権限。 
@@ -1421,10 +1402,9 @@ All human beings are commingled out of good and evil: and Edward Hyde, alone in 
 ライオン　は　新鮮(しんせん)　な　空気(くうき)　を　喜ん(よろこん)で　嗅ぎ(かぎ)、　田舎(いなか)　に　また　来ら(こら)れた　という　純粋(じゅんすい)　な　喜び(よろこび)　で　しっぽ　を　左右(さゆう)　に　振る(ふる)　の　でした。 
 The Lion sniffed the fresh air with delight and whisked his tail from side to side in pure joy at being in the country again. 
 1622-14
-その他何千という貢献者たちによる貢献の純粋量は、一人の仕事なんかでは絶対に不可能なほど、
-OSの成功に貢献した。 
-その　他(ほか)　何千(なんぜん)　という　貢献者(こうけんしゃ)たち　に　よる　貢献(こうけん)　の　純粋量(じゅんすいりょう)　は、　一人(ひとり)　の　仕事(しごと)　なんか　で　は　絶対(ぜったい)　に　不可能(ふかのう)　な　ほど、　
-OS　の　成功(せいこう)　に　貢献(こうけん)　した。 The net effect of improvements by thousands of other contributors have done more to contribute to the success of the OS than one man's work ever could. 
+その他何千という貢献者たちによる貢献の純粋量は、一人の仕事なんかでは絶対に不可能なほど、OSの成功に貢献した。 
+その　他(ほか)　何千(なんぜん)　という　貢献者(こうけんしゃ)たち　に　よる　貢献(こうけん)　の　純粋量(じゅんすいりょう)　は、　一人(ひとり)　の　仕事(しごと)　なんか　で　は　絶対(ぜったい)　に　不可能(ふかのう)　な　ほど、　OS　の　成功(せいこう)　に　貢献(こうけん)　した。 
+The net effect of improvements by thousands of other contributors have done more to contribute to the success of the OS than one man's work ever could. 
 
 1623-1
 歯茎で砕く。 
@@ -1863,7 +1843,6 @@ A "box kite" is a kite shaped like a box open at both ends.
 ピーターは、紙切れ、多分凧の一部でも浮かんでいるのだと思いました。 
 ピーター　は、　紙切れ(かみきれ)、　多分(たぶん)　凧(たこ)　の　一部(いちぶ)　でも　浮かん(うかん)で　いる　の　だ　と　思い(おもい)ました。 
 Peter thought it was a piece of floating paper, perhaps part of a kite. 
-1631-164 
 
 1631-1
 帆を畳む。 
@@ -2090,10 +2069,8 @@ I heard thy voice in the garden, and I was afraid, because I was naked; and I hi
 私(わたし)　が　言う(いう)　通り(とおり)　に　間違い(まちがい)なく　して　おれば、　危険(きけん)　は　通り過ぎ(とおりすぎ)て、　もう　恐(こわ)い　事(こと)　は　なくなる。 
 If you do exactly as I tell you, the danger will pass, and you will have nothing more to fear. 
 1633-32
-彼は恐れて言った、
-「これは何という恐るべき所だろう。これは神の家である。これは天への門だ」。 
-彼(かれ)　は　恐れ(おそれ)て　言っ(いっ)た、　
-「これ　は　何(なん)　という　恐る(おそれる)　べき　所(ところ)　だろう。　これ　は　神(かみ)　の　家(いえ)　で　ある。　これ　は　天(てん)　へ　の　門(もん)　だ」。 
+彼は恐れて言った、「これは何という恐るべき所だろう。これは神の家である。これは天への門だ」。 
+彼(かれ)　は　恐れ(おそれ)て　言っ(いっ)た、　「これ　は　何(なん)　という　恐る(おそれる)　べき　所(ところ)　だろう。　これ　は　神(かみ)　の　家(いえ)　で　ある。　これ　は　天(てん)　へ　の　門(もん)　だ」。 
 He was afraid, and said, "How dreadful is this place! this is none other but the house of God, and this is the gate of heaven". 
 1633-33
 君はあの日僕が君の居室を訪ねて、酷く空爆を恐れて、神経質に閉めたことのあったのを、知っているだろう。 
@@ -2344,10 +2321,9 @@ When people are introduced, it is customary for them to ask each other's age.
 僕(ぼく)　に　気づい(きづい)て　若い(わかい)　婦人(ふじん)　は　やって　きて　何(なに)　か　ご入用(ごいりよう)　です　か　と　僕(ぼく)　に　尋ね(たずね)た。 
 Observing me the young lady came over and asked me did I wish to buy anything. 
 1636-11
-東映は
-CFOについて知ると、そのメンバーたちに市場調査を手伝ってくれないかと尋ねた。 
-東映(とうえい)　は　
-CFO　について　知る(しる)　と、　その　メンバーたち　に　市場(しじょう)　調査(ちょうさ)　を　手伝っ(てつだっ)て　くれない　か　と　尋ね(たずね)た。 Toei discovered the C/FO and asked if its members could help them do some marketing research. 
+東映はCFOについて知ると、そのメンバーたちに市場調査を手伝ってくれないかと尋ねた。 
+東映(とうえい)　は　CFO　について　知る(しる)　と、　その　メンバーたち　に　市場(しじょう)　調査(ちょうさ)　を　手伝っ(てつだっ)て　くれない　か　と　尋ね(たずね)た。 
+Toei discovered the C/FO and asked if its members could help them do some marketing research. 
 1636-12
 突然に私を尋ねて来た、例の水夫を見ると、それがあの時難破船の破片から救い上げた、その男であった。 
 突然(とつぜん)　に　私(わたし)　を　尋ね(たずね)て　来(き)た、　例(れい)　の　水夫(すいふ)　を　見(み)る　と、　それ　が　あの　時(とき)　難破船(なんぱせん)　の　破片(はへん)　から　救い上げ(すくいあげ)た、　その　男(おとこ)　で　あった。 
@@ -2439,10 +2415,9 @@ Practice non-violent resistance.
 抗議(こうぎ)　した　者(もの)　は　皆(みな)　職(しょく)　を　失っ(うしなっ)た。 
 Anyone who protested, lost his job. 
 1639-11
-赤血球に
-A抗原を持つ血液型。 
-赤血球(せっけっきゅう)　に　
-A　抗原(こうげん)　を　持つ(もつ)　血液型(けつえきがた)。 The blood group whose red cells carry the A antigen. 
+赤血球にA抗原を持つ血液型。 
+赤血球(せっけっきゅう)　に　A　抗原(こうげん)　を　持つ(もつ)　血液型(けつえきがた)。 
+The blood group whose red cells carry the A antigen. 
 1639-12
 感染症を抗生物質で治療する。 
 感染症(かんせんしょう)　を　抗生(こうせい)　物質(ぶっしつ)　で　治療(ちりょう)　する。 
@@ -2579,8 +2554,8 @@ A sonic boom follows an aircraft as a wake follows a ship.
 Analysts predicted rough sledding for handset makers. 
 1640-16
 「航空宇宙」とは、大気圏と大気圏外を総括した空間のことを指す。 
-「航空(こうくう)　宇宙(うちゅう)」　と　は、　大気圏(たいきけん)　と　大気圏外(たいきけんがい)　を　総括(そうかつ)　した　空間(くうかん)　の　こと　を　指す(さす)。 "
-Aerospace" refers to the atmosphere and outer space taken together. 
+「航空(こうくう)　宇宙(うちゅう)」　と　は、　大気圏(たいきけん)　と　大気圏外(たいきけんがい)　を　総括(そうかつ)　した　空間(くうかん)　の　こと　を　指す(さす)。 
+"Aerospace" refers to the atmosphere and outer space taken together. 
 1640-17
 飛行機が巡航高度に達する間は、シートベルトを締めて下さい。 
 飛行機(ひこうき)　が　巡航(じゅんこう)　高度(こうど)　に　達する(たっする)　間(あいだ)　は、　シートベルト　を　締め(しめ)て　下さい(ください)。 
@@ -2590,7 +2565,8 @@ Please keep your seat belt fastened while the plane is reaching cruising altitud
 戦闘機(せんとうき)　は、　国(くに)　の　空域(くういき)　に　入っ(はいっ)た　航空機(こうくうき)　を　迎撃(げいげき)　する　よう　命令(めいれい)　された。 
 The fighter plane was ordered to intercept an aircraft that had entered the country's airspace. 
 1640-19
-1912年、遠洋定期船タイタニック号は、その初航海で沈んだ。 1912年(ねん)、　遠洋(えんよう)　定期船(ていきせん)　タイタニック号(ごう)　は、　その　初航海(はつこうかい)　で　沈ん(しずん)だ。 
+1912年、遠洋定期船タイタニック号は、その初航海で沈んだ。 
+1912年(ねん)、　遠洋(えんよう)　定期船(ていきせん)　タイタニック号(ごう)　は、　その　初航海(はつこうかい)　で　沈ん(しずん)だ。 
 In 1912 the ocean liner Titanic sank on its maiden voyage. 
 1640-20
 立派な汽船は、空いっぱいの蒸気をあげて、紅海へ出航して行った。 
@@ -2637,7 +2613,6 @@ The Japan Meteorological Agency shall, pursuant to the provisions of Cabinet Ord
 シルバーが宝物を手に入れて、夜陰に乗じてヒスパニオーラ号を見つけて乗り込み、島にいる正しい人をみんな殺して、最初に目論んだ通り、罪と財宝を積み込んで出航することを望んでいるのは疑う余地もなかった。 
 シルバー　が　宝物(たからもの)　を　手(て)　に　入れ(いれ)て、　夜陰(やいん)　に　乗じ(じょうじ)て　ヒスパニオーラ号(ごう)　を　見つけ(みつけ)て　乗り込み(のりこみ)、　島(しま)　に　いる　正しい(ただしい)　人(ひと)　を　みんな　殺し(ころし)て、　最初(さいしょ)　に　目論ん(もくろん)だ　通り(とおり)、　罪(つみ)　と　財宝(ざいほう)　を　積み込ん(つみこん)で　出航(しゅっこう)　する　こと　を　望ん(のぞん)で　いる　の　は　疑う(うたがう)　余地(よち)　も　なかった。 
 One could not doubt that Silver hoped to seize upon the treasure, find and board the Hispaniola under cover of night, cut every honest throat about that island, and sail away as he had at first intended, laden with crimes and riches. 
-1641-165 
 
 1641-1
 坑夫の汚れた顔。 
@@ -2944,8 +2919,8 @@ Carbon monoxide combines with hemoglobin and displaces oxygen in the blood.
 A "clinker" is a fragment of incombustible matter left after a wood or coal or charcoal fire. 
 1647-12
 「抗気」とは、炭坑で発生し空気と混ざると爆発性となるガス〚主にメタンガス〛の混合物のことを言う。 
-「抗気(こうき)」　と　は、　炭坑(たんこう)　で　発生(はっせい)　し　空気(くうき)　と　混ざる(まざる)　と　爆発性(ばくはつせい)　と　なる　ガス　〚主(おも)　に　メタン　ガス〛　の　混合物(こんごうぶつ)　の　こと　を　言う(いう)。 "
-Firedamp" is a mixture of gases (mostly methane) that form in coal mines and become explosive when mixed with air. 
+「抗気(こうき)」　と　は、　炭坑(たんこう)　で　発生(はっせい)　し　空気(くうき)　と　混ざる(まざる)　と　爆発性(ばくはつせい)　と　なる　ガス　〚主(おも)　に　メタン　ガス〛　の　混合物(こんごうぶつ)　の　こと　を　言う(いう)。 
+"Firedamp" is a mixture of gases (mostly methane) that form in coal mines and become explosive when mixed with air. 
 
 1648-1
 海岸浸食。 
@@ -3012,7 +2987,8 @@ The mountains rise precipitously from the shore.
 彼女(かのじょ)　は　彼(かれ)　を　岸壁(がんぺき)　から　突き落とし(つきおとし)た。 
 She pushed him off the pier. 
 1648-17
-1990年代は湾岸戦争で始まった。 1990年代(ねんだい)　は　湾岸(わんがん)　戦争(せんそう)　で　始まっ(はじまっ)た。 
+1990年代は湾岸戦争で始まった。 
+1990年代(ねんだい)　は　湾岸(わんがん)　戦争(せんそう)　で　始まっ(はじまっ)た。 
 The 1990s began with the Gulf War. 
 1648-18
 飛行機は岸に向かって突進してきた。 
@@ -3194,7 +3170,6 @@ Negishi-san dissolved into tears when she heard that she had lost all her saving
 仕事は死ぬほどいやで、常に貧しく、心配事は際限もなく降りかかり、体調も崩してしまった。 
 仕事(しごと)　は　死ぬ(しぬ)　ほど　いや　で、　常に(つねに)　貧しく(まずしく)、　心配事(しんぱいごと)　は　際限(さいげん)　も　なく　降りかかり(ふりかかり)、　体調(たいちょう)　も　崩し(くずし)て　しまった。 
 He loathed his work, and he was always poor, always worried and in ill-health. 
-1651-166 
 
 1651-1
 猛烈な雷雨嵐。 
@@ -3612,8 +3587,8 @@ The same government also plans to eliminate the right to a jury in criminal tria
 It was a city of banditti, assassins and incendiaries, who had flocked here in crowds in pursuit of plunder. 
 1657-26
 我々の憲章を奪い、もっとも大事な法律を廃止し、根本から政府の形をかえる。 
-我々(われわれ)　の　憲章(けんしょう)　を　奪い(うばい)、　もっとも　大事(だいじ)　な　法律(ほうりつ)　を　廃止(はいし)　し、　根本(こんぽん)　から　政府(せいふ)　の　形(かたち)　を　かえる。 (
-For) taking away our Charters, abolishing our most valuable Laws, and altering fundamentally the Forms of our Governments. 
+我々(われわれ)　の　憲章(けんしょう)　を　奪い(うばい)、　もっとも　大事(だいじ)　な　法律(ほうりつ)　を　廃止(はいし)　し、　根本(こんぽん)　から　政府(せいふ)　の　形(かたち)　を　かえる。 
+(For) taking away our Charters, abolishing our most valuable Laws, and altering fundamentally the Forms of our Governments. 
 1657-27
 指導者もなく、秩序もなく、打ちのめされ、略奪され、引き裂かれ、制圧され。 
 指導者(しどうしゃ)　も　なく、　秩序(ちつじょ)　も　なく、　打ちのめさ(うちのめさ)れ、　略奪(りゃくだつ)　され、　引き裂か(ひきさか)れ、　制圧(せいあつ)　され。 
@@ -3654,17 +3629,15 @@ The history of mankind, as conventionally written, has been a narrative of preda
 1657-36
 ジェシー・ジェームズは米国の無法者で、南部連合の兵士として戦い、後に無法者の集団を率いて西部で列車や銀行から略奪していたが、一味のメンバーにより殺害された。 
 ジェシー・ジェームズ　は　米国(べいこく)　の　無法者(むほうもの)　で、　南部(なんぶ)　連合(れんごう)　の　兵士(へいし)　として　戦い(たたかい)、　後(のち)　に　無法者(むほうもの)　の　集団(しゅうだん)　を　率い(ひきい)て　西部(せいぶ)　で　列車(れっしゃ)　や　銀行(ぎんこう)　から　略奪(りゃくだつ)　して　いた　が、　一味(いちみ)　の　メンバー　に　より　殺害(さつがい)　された。 
-Jesse James was a United States outlaw who fought as a Confederate soldier and later led a band of outlaws that robbed trains and banks in the West until he was murdered by a member of his own gang (
-1847-188
-). 
-
+Jesse James was a United States outlaw who fought as a Confederate soldier and later led a band of outlaws that robbed trains and banks in the West until he was murdered by a member of his own gang (1847-188). 
 
 1658-1
 運河は、毎日、何百隻もの船を運んでいる。 
 運河(うんが)　は、　毎日(まいにち)、　何百(なんびゃく)　隻(せき)　も　の　船(ふね)　を　運ん(はこん)で　いる。 
 The canal will transit hundreds of ships every day. 
 1658-2
-2隻の船の衝突は重大な石油流出をもたらした。 2隻(せき)　の　船(ふね)　の　衝突(しょうとつ)　は　重大(じゅうだい)　な　石油(せきゆ)　流出(りゅうしゅつ)　を　もたらした。 
+2隻の船の衝突は重大な石油流出をもたらした。 
+2隻(せき)　の　船(ふね)　の　衝突(しょうとつ)　は　重大(じゅうだい)　な　石油(せきゆ)　流出(りゅうしゅつ)　を　もたらした。 
 The collision of the two ships resulted in a serious oil spill. 
 1658-3
 彼らはアキレスを10隻の船で故郷に送り届けた。 
@@ -3700,7 +3673,8 @@ He's very proud of catching his own.
 複合(ふくごう)　企業(きぎょう)　は　新(あたら)しい　会社(かいしゃ)　を　獲得(かくとく)　した。 
 The conglomerate acquired a new company. 
 1659-4
-5名が全国大会の出場権を獲得した。 5名(めい)　が　全国(ぜんこく)　大会(たいかい)　の　出場権(しゅつじょうけん)　を　獲得(かくとく)　した。 
+5名が全国大会の出場権を獲得した。 
+5名(めい)　が　全国(ぜんこく)　大会(たいかい)　の　出場権(しゅつじょうけん)　を　獲得(かくとく)　した。 
 Five people qualified for the national competition. 
 1659-5
 その小説は最高傑作の座を獲得した。 
@@ -3784,7 +3758,6 @@ The workers migrate to where the crops need harvesting.
 僕は自分の生年月日が分かるどれいに一度も会った記憶がない。彼らが植え付け時期、収穫時期、桜の咲く時期、春の時期、または秋の時期に生まれたこと以上分かることはまれである。子供のころ、自分自身の誕生日が分からなかったのは辛かった。 
 僕(ぼく)　は　自分(じぶん)　の　生年月日(せいねんがっぴ)　が　分かる(わかる)　どれい　に　一度(いちど)　も　会っ(あっ)た　記憶(きおく)　が　ない。　彼ら(かれら)　が　植え付け(うえつけ)　時期(じき)、　収穫(しゅうかく)　時期(じき)、　桜(さくら)　の　咲く(さく)　時期(じき)、　春(はる)　の　時期(じき)、　または　秋(あき)　の　時期(じき)　に　生まれ(うまれ)た　こと　以上(いじょう)　分かる(わかる)　こと　は　まれ　で　ある。　子供(こども)　の　ころ、　自分(じぶん)　自身(じしん)　の　誕生日(たんじょうび)　が　分から(わから)なかった　の　は　辛かっ(つらかっ)た。 
 I do not remember to have ever met a slave who could tell of his birthday. They seldom come nearer to it than planting-time, harvest-time, cherry-time, spring-time, or fall-time. A want of information concerning my own was a source of unhappiness to me even during childhood. 
-1661-167 
 
 1661-1
 守護天使。 
@@ -3847,7 +3820,8 @@ Yuki got his nursing assistant certification.
 鯨(くじら)　は　保護(ほご)　されなければ、　絶滅(ぜつめつ)　する　だろう。 
 Unless whales are protected, they will become extinct. 
 1661-16
-4月から個人情報保護法が施行されました。 4月(がつ)　から　個人(こじん)　情報(じょうほう)　保護(ほご)　法(ほう)　が　施行(しこう)　されました。 
+4月から個人情報保護法が施行されました。 
+4月(がつ)　から　個人(こじん)　情報(じょうほう)　保護(ほご)　法(ほう)　が　施行(しこう)　されました。 
 The Personal Information Protection Law went into effect in April. 
 1661-17
 目撃者は、弁護側によって反対尋問された。 
@@ -3959,13 +3933,8 @@ The family is the natural and fundamental group unit of society and is entitled 
 すべて　の　人(ひと)　は、　自己(じこ)　の　利益(りえき)　を　保護(ほご)　する　ため　に　労働(ろうどう)　組合(くみあい)　を　組織(そしき)　し、　および　これ　に　加入(かにゅう)　する　権利(けんり)　を　有(ゆう)する。 
 Everyone has the right to form and to join trade unions for the protection of his interests. 
 1661-44
-万国著作権条約〚以下
-「
-UCC」〛と文学芸術作品保護のためのベルヌ条約〚以下
-「ベルヌ条約」〛だ。 
-万国(ばんこく)　著作権(ちょさくけん)　条約(じょうやく)　〚以下(いか)　
-「
-UCC」〛　と　文学(ぶんがく)　芸術(げいじゅつ)　作品(さくひん)　保護(ほご)　の　ため　の　ベルヌ　条約(じょうやく)　〚以下(いか)　
+万国著作権条約〚以下「UCC」〛と文学芸術作品保護のためのベルヌ条約〚以下「ベルヌ条約」〛だ。 
+万国(ばんこく)　著作権(ちょさくけん)　条約(じょうやく)　〚以下(いか)　「UCC」〛　と　文学(ぶんがく)　芸術(げいじゅつ)　作品(さくひん)　保護(ほご)　の　ため　の　ベルヌ　条約(じょうやく)　〚以下(いか)　
 「ベルヌ　条約(じょうやく)」〛　だ。 The Universal Copyright Convention (hereafter "UCC") and the Berne Convention for the Protection of Literary and Artistic Works (hereafter "Berne"). 
 1661-45
 人身保護令状の特権は、反乱または侵略に際し公共の安全上必要とされる場合のほか、これを停止してはならない。 
@@ -3993,7 +3962,8 @@ Works subject to protection must be authored by Japanese nationals, or must be f
 Motherhood and childhood are entitled to special care and assistance. All children, whether born in or out of wedlock, shall enjoy the same social protection. 
 「〜をとわず」　{〜を問わず　452} ["irrespective of __"]: DJG v3 p514. 
 1661-51
-1年と少したつまでは、自発的に愛情を見せるような行動、例えば、少しの間いなかった看護婦に何回かキスをするなどの行動はしなかった。 1年(ねん)　と　少し(すこし)　たつ　まで　は、　自発的(じはつてき)　に　愛情(あいじょう)　を　見せる(みせる)　よう　な　行動(こうどう)、　例えば(たとえば)、　少し(すこし)　の　間(あいだ)　いなかった　看護婦(かんごふ)　に　何回(なんかい)　か　キス　を　する　など　の　行動(こうどう)　は　しなかった。 
+1年と少したつまでは、自発的に愛情を見せるような行動、例えば、少しの間いなかった看護婦に何回かキスをするなどの行動はしなかった。 
+1年(ねん)　と　少し(すこし)　たつ　まで　は、　自発的(じはつてき)　に　愛情(あいじょう)　を　見せる(みせる)　よう　な　行動(こうどう)、　例えば(たとえば)、　少し(すこし)　の　間(あいだ)　いなかった　看護婦(かんごふ)　に　何回(なんかい)　か　キス　を　する　など　の　行動(こうどう)　は　しなかった。 
 He did not spontaneously exhibit affection by overt acts until a little above a year old, namely, by kissing several times his nurse who had been absent for a short time. 
 1661-52
 テープ一本丸ごとの系統だった複製と流通を、1970年代末に行われていた規模で実施するのは、フェアユースによる弁護の範囲を踏み越えるものだ。 

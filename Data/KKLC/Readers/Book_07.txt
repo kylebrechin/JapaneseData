@@ -13902,14 +13902,12 @@ This spray works well for eliminating odors.
 すぐ引き返して来た彼が、僕の側を通る時、僕は強いブランデーの臭いをかいだのだ。 
 すぐ　引き返し(ひきかえし)て　来(き)た　彼(かれ)　が、　僕(ぼく)　の　側(そば)　を　通る(とおる)　時(とき)、　僕(ぼく)　は　強い(つよい)　ブランデー　の　臭い(におい)　を　かいだ　の　だ。 
 He was back in a moment, and I smelt a strong reek of brandy as he passed me. 
-
 「かいだ」　is the past form of
 「かぐ」　(“to smell/sniff”) (see 1561). 
 1560-19
 そこは、非常に息苦しくて圧迫感があり、空中には流れたばかりの血の臭気がかすかに感じられました。 
 そこ　は、　非常(ひじょう)　に　息苦しく(いきぐるしく)て　圧迫感(あっぱくかん)　が　あり、空中(くうちゅう)　に　は　流れ(ながれ)た　ばかり　の　血(ち)　の　臭気(しゅうき)　が　かすか　に　感じ(かんじ)られました。 
 The place was very stuffy and oppressive, and the faint halitus of freshly shed blood was in the air. 
-1561-157 
 
 1561-1
 嗅覚の障害。 
@@ -14182,7 +14180,8 @@ My brother instantly looked grave and then burst out crying.
 トラック　は　三人(さんにん)　の　力(ちから)　が　揃う(そろう)　と、　突然(とつぜん)　ごろり　と　車輪(しゃりん)　を　回し(まわし)た。 
 Under the three men's combined effort, the truck’s wheels suddenly turned. 
 1564-31
-5日、当館の入館者数がついに2,000人を突破しました。 5日(いつか)、　当館(とうかん)　の　入館(にゅうかん)　者数(しゃすう)　が　ついに　2,000人(にん)　を　突破(とっぱ)　しました。 
+5日、当館の入館者数がついに2,000人を突破しました。 
+5日(いつか)、　当館(とうかん)　の　入館(にゅうかん)　者数(しゃすう)　が　ついに　2,000人(にん)　を　突破(とっぱ)　しました。 
 The number of visitors coming to this museum finally reached 2,000 on the 5th. 
 1564-32
 突然、太陽の西側の丸い輪郭線が変わったのに気がつきました。 
@@ -14385,17 +14384,16 @@ If you make the purchase, you sign up to a five-year service contract with us.
 賃金(ちんぎん)、　福利(ふくり)　と　労働(ろうどう)　環境(かんきょう)　を　統括(とうかつ)　する　経営者(けいえいしゃ)　側(がわ)　と　労働者(ろうどうしゃ)　の　契約(けいやく)。 
 Contracts between labor and management governing wages, benefits and working conditions. 
 1568-14
-
-FDRは大不況を契機に政府の経済における役割を拡大した。 FDR　は　大不況(だいふきょう)　を　契機(けいき)　に　政府(せいふ)　の　経済(けいざい)　に　おける　役割(やくわり)　を　拡大(かくだい)　した。 FDR used the opportunity of the Great Depression to expand the government's role in the economy. 
+FDRは大不況を契機に政府の経済における役割を拡大した。 
+FDR　は　大不況(だいふきょう)　を　契機(けいき)　に　政府(せいふ)　の　経済(けいざい)　に　おける　役割(やくわり)　を　拡大(かくだい)　した。 
+FDR used the opportunity of the Great Depression to expand the government's role in the economy. 
 1568-15
 私には契約書があります、で、それが果たされるのを確かめるつもりです。 
 私(わたし)　に　は　契約書(けいやくしょ)　が　あります、　で、　それ　が　果たさ(はたさ)れる　の　を　確かめる(たしかめる)　つもり　です。 
 I have my contract, and I intend to see that it is carried out. 
 1568-16
-悪党どもは、秘密の契約によって結びつき、
-「死の女神」の栄光のために、あらゆる年代の犠牲者を絞め殺した。 
-悪党(あくとう)ども　は、　秘密(ひみつ)　の　契約(けいやく)　に　よって　結びつき(むすびつき)、
-「死(し)　の　女神(めがみ)」　の　栄光(えいこう)　の　ため　に、　あらゆる　年代(ねんだい)　の　犠牲者(ぎせいしゃ)　を　絞め殺し(しめころし)た。 
+悪党どもは、秘密の契約によって結びつき、「死の女神」の栄光のために、あらゆる年代の犠牲者を絞め殺した。 
+悪党(あくとう)ども　は、　秘密(ひみつ)　の　契約(けいやく)　に　よって　結びつき(むすびつき)、「死(し)　の　女神(めがみ)」　の　栄光(えいこう)　の　ため　に、　あらゆる　年代(ねんだい)　の　犠牲者(ぎせいしゃ)　を　絞め殺し(しめころし)た。 
 These ruffians, united by a secret bond, strangled victims of every age in honor of the goddess Death. 
 1568-17
 男子は皆割礼を受けなければならない。これは私と貴方方および後の子孫との間の私の契約であって、貴方方の守るべきものである。 
@@ -14532,7 +14530,6 @@ My immediate purpose is to place before the world, plainly, succinctly, and with
 その家はホームズの簡潔な説明から想像していた通りだったが、現場の周辺は思ったより人目が多いように感じられた。 
 その　家(いえ)　は　ホームズ　の　簡潔(かんけつ)　な　説明(せつめい)　から　想像(そうぞう)　して　いた　通り(とおり)　だった　が、　現場(げんば)　の　周辺(しゅうへん)　は　思っ(おもっ)た　より　人目(ひとめ)　が　多い(おおい)　よう　に　感じ(かんじ)られた。 
 The house was just such as I had pictured it from Holmes's succinct description, but the locality appeared to be less private than I expected. 
-1571-158 
 
 1571-1
 なれ過ぎは侮りの元。 
@@ -14830,7 +14827,8 @@ The call went through.
 生産(せいさん)　の　逓減(ていげん)　に　繋がる(つながる)。 
 Lead to diminishing returns. 
 1576-4
-2つの大学は連繋した。 2つ　の　大学(だいがく)　は　連繋(れんけい)　した。 
+2つの大学は連繋した。 
+2つ　の　大学(だいがく)　は　連繋(れんけい)　した。 
 The two colleges affiliated. 
 1576-5
 彼の傲慢さが失脚に繋がった。 
@@ -14887,10 +14885,8 @@ A suite is a hotel room that shares a wall with an adjoining room and is connect
 Written records state, for example, that the Ranma Project and others were closely affiliated with college anime clubs. 
 「〜によれば」　{〜に依れば* 701} ["according to __"]: DJG v3 p459 (covered under 〜によると). 
 1576-18
-意外にも、最も
-「創造的」でない活動がコモンズの拡大に繋がり、関係者すべてにとってきわめて創造的で収益性の高い状態をもたらしたわけだ。 
-意外(いがい)　に　も、　最も(もっとも)　
-「創造的(そうぞうてき)」　で　ない　活動(かつどう)　が　コモンズ　の　拡大(かくだい)　に　繋がり(つながり)、　関係者(かんけいしゃ)　すべて　に　とって　きわめて　創造的(そうぞうてき)　で　収益性(しゅうえきせい)　の　高い(たかい)　状態(じょうたい)　を　もたらした　わけ　だ。 
+意外にも、最も「創造的」でない活動がコモンズの拡大に繋がり、関係者すべてにとってきわめて創造的で収益性の高い状態をもたらしたわけだ。 
+意外(いがい)　に　も、　最も(もっとも)　「創造的(そうぞうてき)」　で　ない　活動(かつどう)　が　コモンズ　の　拡大(かくだい)　に　繋がり(つながり)、　関係者(かんけいしゃ)　すべて　に　とって　きわめて　創造的(そうぞうてき)　で　収益性(しゅうえきせい)　の　高い(たかい)　状態(じょうたい)　を　もたらした　わけ　だ。 
 Unexpectedly, the least "creative" of activities spawned a commons that proved enormously creative and profitable for all involved. 
 1576-19
 人類の歴史のなかで、ある国民と他の国民を結びつけてきた政治的な繋がりを解消し、世界の国々のなかで自然の法則と神の法則が与えてくれる、独立した対等な立場をとることが必要になる場合がある。 
@@ -15007,10 +15003,9 @@ I think that by putting on the very highest speed we might have a chance of gett
 川水(かわみず)　は　荒神橋(あらがみばし)　の　下手(したて)　で　すだれ　の　よう　に　なって　落ち(おち)て　いる。 
 Below the Aragami Bridge the river flows in fine ripples like a reed screen. 
 1578-13
-交通は事故が起こった橋の周りで何
-kmも渋滞している。 
-交通(こうつう)　は　事故(じこ)　が　起こっ(おこっ)た　橋(はし)　の　周り(まわり)　で　何
-km(なんキロメートル)　も　渋滞(じゅうたい)　して　いる。 Traffic is tied up for kilometers around the bridge where the accident occurred. 
+交通は事故が起こった橋の周りで何kmも渋滞している。 
+交通(こうつう)　は　事故(じこ)　が　起こっ(おこっ)た　橋(はし)　の　周り(まわり)　で　何km(なんキロメートル)　も　渋滞(じゅうたい)　して　いる。 
+Traffic is tied up for kilometers around the bridge where the accident occurred. 
 
 1579-1
 矯正靴。 
@@ -15094,7 +15089,6 @@ I heard Okuno-san writes for the Asahi Shinbun.
 メーソン氏はバージニア州出身のアメリカ独立戦争の指導者で、その創設憲章に対する反論によって権利章典が草稿されることとなった。 
 メーソン　氏(し)　は　バージニア　州(しゅう)　出身(しゅっしん)　の　アメリカ　独立(どくりつ)　戦争(せんそう)　の　指導者(しどうしゃ)　で、　その　創設(そうせつ)　憲章(けんしょう)　に対する(にたいする)　反論(はんろん)　に　よって　権利(けんり)　章典(しょうてん)　が　草稿(そうこう)　される　こと　と　なった。 
 Mason was an American Revolutionary leader from Virginia whose objections to the founding charter led to the drafting of the Bill of Rights. 
-1581-159 
 
 1581-1
 縞馬に特有な縞。 
@@ -15159,8 +15153,8 @@ This writing paper is not suitable for use in a printer.
 Umeda-san told the doctor that he had been taking his prescription regularly. 
 1582-7
 「レターヘッド」は頭部に組織の名前と住所がある便箋である。 
-「レターヘッド」　は　頭部(とうぶ)　に　組織(そしき)　の　名前(なまえ)　と　住所(じゅうしょ)　が　ある　便箋(びんせん)　で　ある。 "
-Letterhead" is stationery with the name and address of an organization printed at the top. 
+「レターヘッド」　は　頭部(とうぶ)　に　組織(そしき)　の　名前(なまえ)　と　住所(じゅうしょ)　が　ある　便箋(びんせん)　で　ある。 
+"Letterhead" is stationery with the name and address of an organization printed at the top. 
 
 1583-1
 残量。 
@@ -15353,7 +15347,8 @@ Buy cheap and your money is wasted.
 金銭(きんせん)　と　食物(しょくもつ)　を　求める(もとめる)。 
 Beg for money and food. 
 1585-4
-1円は100銭と同価である。 1円(えん)　は　100銭(せん)　と　同価(どうか)　で　ある。 
+1円は100銭と同価である。 
+1円(えん)　は　100銭(せん)　と　同価(どうか)　で　ある。 
 One yen is equal to 100 sen. 
 1585-5
 彼女の金銭は衣服に使われた。 
@@ -15581,7 +15576,8 @@ Yanagisawa-san was impressed by the big organ in the church.
 Can we forge against these enemies a grand and global alliance. . .North and South. . . East and West. . . 
 「〜もの(だろう)か」　[expression of uncertainty or wish]: DJG v3 p268. 
 1589-10
-1988年暮れには、勢力のある支部同士が壮絶な政治駆け引きのあげくに、相互に交換も連絡もしなくなるという現象が見られた。 1988年(ねん)　暮れ(くれ)　に　は、　勢力(せいりょく)　の　ある　支部(しぶ)　同士(どうし)　が　壮絶(そうぜつ)　な　政治(せいじ)　駆け引き(かけひき)　の　あげく　に、　相互(そうご)　に　交換(こうかん)　も　連絡(れんらく)　も　しなく　なる　という　現象(げんしょう)　が　見(み)られた。 
+1988年暮れには、勢力のある支部同士が壮絶な政治駆け引きのあげくに、相互に交換も連絡もしなくなるという現象が見られた。 
+1988年(ねん)　暮れ(くれ)　に　は、　勢力(せいりょく)　の　ある　支部(しぶ)　同士(どうし)　が　壮絶(そうぜつ)　な　政治(せいじ)　駆け引き(かけひき)　の　あげく　に、　相互(そうご)　に　交換(こうかん)　も　連絡(れんらく)　も　しなく　なる　という　現象(げんしょう)　が　見(み)られた。 
 In late 1988, established chapters refused to trade or communicate with one another due to a great deal of politicking. 
 「〜あげく(に)」　{〜挙げ句に* / 〜揚げ句に* 1247; 166} ["after much __ing"]: DJG v3 p7. 
 
@@ -15617,7 +15613,6 @@ Hector went on his way back to the battle, and Paris went with him, in glorious 
 神々は人間より大きく、不死であるが、ほとんど人間と同じように生活し、荘厳な宮殿で飲んだり、食べたり、眠ったりすると考えていた。 
 神々(かみがみ)　は　人間(にんげん)　より　大(おお)きく、　不死(ふし)　で　ある　が、　ほとんど　人間(にんげん)　と　同じ(おなじ)　よう　に　生活(せいかつ)　し、　荘厳(そうごん)　な　宮殿(きゅうでん)　で　飲ん(のん)だり、　食べ(たべ)たり、　眠っ(ねむっ)たり　する　と　考え(かんがえ)て　いた。 
 The Gods were thought to be taller than men, and immortal, and to live in much the same way as men did, eating, drinking, and sleeping in glorious palaces. 
-1591-160 
 
 1591-1
 爆発装置。 
@@ -15828,8 +15823,9 @@ My hacker seems to dress funny. Is there any way to impress upon him the importa
 総合的(そうごうてき)　な　国家(こっか)　教育(きょういく)　は、　人々(ひとびと)　を　鋳型(いがた)　に　はめて、　お互い(おたがい)　を　まったく　そっくり　に　して　しまう、　装置(そうち)　に　過ぎ(すぎ)ません。 
 A general state-supplied education is a mere contrivance for moulding people to be exactly like one another. 
 1591-53
-
-IBM、フォード、そしてマイクロソフトも皆、従業員が望む服装をさせるのが仕事にもよいことを認識してますよ。 IBM、　フォード、　そして　マイクロソフト　も　皆(みな)、　従業員(じゅうぎょういん)　が　望む(のぞむ)　服装(ふくそう)　を　させる　の　が　仕事(しごと)　に　も　よい　こと　を　認識(にんしき)　してます　よ。 IBM, Ford, and Microsoft have all realized that people work better when they can dress however they want. 
+IBM、フォード、そしてマイクロソフトも皆、従業員が望む服装をさせるのが仕事にもよいことを認識してますよ。 
+IBM、　フォード、　そして　マイクロソフト　も　皆(みな)、　従業員(じゅうぎょういん)　が　望む(のぞむ)　服装(ふくそう)　を　させる　の　が　仕事(しごと)　に　も　よい　こと　を　認識(にんしき)　してます　よ。 
+IBM, Ford, and Microsoft have all realized that people work better when they can dress however they want. 
 1591-54
 友の変装を使い分ける驚くべき能力にはなれていたが、それが本当に彼だと確信するまでに三度も見直してしまった。 
 友(とも)　の　変装(へんそう)　を　使い分ける(つかいわける)　驚く(おどろく)　べき　能力(のうりょく)　に　は　なれて　いた　が、　それ　が　本当に(ほんとうに)　彼(かれ)　だ　と　確信(かくしん)　する　まで　に　三度(さんど)　も　見直し(みなおし)て　しまった。 
@@ -16047,8 +16043,8 @@ The meteorologist feels a dark cloud hangs over his head.
 We went all out to finish the work before dark. 
 1593-38
 「陰」は中国の二重の宇宙論の暗く否定的な女性の原則である。 
-「陰(いん)」　は　中国(ちゅうごく)　の　二重(にじゅう)　の　宇宙論(うちゅうろん)　の　暗く(くらく)　否定的(ひていてき)　な　女性(じょせい)　の　原則(げんそく)　で　ある。 "
-Yin" is the dark, negative, feminine principle in Chinese dualistic cosmology. 
+「陰(いん)」　は　中国(ちゅうごく)　の　二重(にじゅう)　の　宇宙論(うちゅうろん)　の　暗く(くらく)　否定的(ひていてき)　な　女性(じょせい)　の　原則(げんそく)　で　ある。 
+"Yin" is the dark, negative, feminine principle in Chinese dualistic cosmology. 
 1593-39
 割れ目のこちら側では森がずっと濃くて、暗く陰気な感じがしました。 
 割れ目(われめ)　の　こちら　側(がわ)　で　は　森(もり)　が　ずっと　濃く(こく)て、　暗く(くらく)　陰気(いんき)　な　感じ(かんじ)　が　しました。 
@@ -16113,7 +16109,8 @@ A culture's adaptation to its circumstances manifests both as conscious ideology
 押韻詩(おういんし)。 
 Rhymed verse.  
 1594-2
-2音節の韻。 2音節(おんせつ)　の　韻(いん)。 
+2音節の韻。 
+2音節(おんせつ)　の　韻(いん)。 
 A two-syllable rhyme. 
 1594-3
 頭韻体の詩。 
@@ -16153,8 +16150,8 @@ Could he, too, write like that, express the melancholy of his soul in verse?
 There were so many different moods and impressions that he wished to express in verse. 
 1594-12
 「記述言語学」とは、価値判断のない音韻論、形態論および意味論に関連した言語の記述の学問である。 
-「記述(きじゅつ)　言語学(げんごがく)」　と　は、　価値(かち)　判断(はんだん)　の　ない　音韻論(おんいんろん)、　形態論(けいたいろん)　および　意味論(いみろん)　に　関連(かんれん)　した　言語(げんご)　の　記述(きじゅつ)　の　学問(がくもん)　で　ある。 "
-Descriptive linguistics" is the study of the description of language, without value judgments, with respect to its phonology, morphology, syntax and semantics. 
+「記述(きじゅつ)　言語学(げんごがく)」　と　は、　価値(かち)　判断(はんだん)　の　ない　音韻論(おんいんろん)、　形態論(けいたいろん)　および　意味論(いみろん)　に　関連(かんれん)　した　言語(げんご)　の　記述(きじゅつ)　の　学問(がくもん)　で　ある。 
+"Descriptive linguistics" is the study of the description of language, without value judgments, with respect to its phonology, morphology, syntax and semantics. 
 
 1595-1
 破損状態。 
@@ -16587,11 +16584,7 @@ When vacancies happen in the representation from any State, the executive author
 1598-33
 ウィリアム・フルブライト〚1905年−1995年〛は米国の上院議員で、米国と他国の間の教師と学生の交換プログラムの補助金を作ったことで知られる。 
 ウィリアム・フルブライト　〚1905年(ねん)　−　1995年(ねん)〛　は　米国(べいこく)　の　上院(じょういん)　議員(ぎいん)　で、　米国(べいこく)　と　他国(たこく)　の　間(あいだ)　の　教師(きょうし)　と　学生(がくせい)　の　交換(こうかん)　プログラム　の　補助金(ほじょきん)　を　作っ(つくっ)た　こと　で　知ら(しら)れる。 
-William Fulbright (
-1905-199
-) 
-
-was a United States senator who is remembered for his creation of grants that fund exchange programs of teachers and students between the United States and other countries. 
+William Fulbright (1905-199) was a United States senator who is remembered for his creation of grants that fund exchange programs of teachers and students between the United States and other countries. 
 1598-34
 こうした流通者の活動が非合法だということは当初からはっきりしていた筈だが、追加の証拠を見ると、流通者たちは他の違法商品輸入者すべてと同じく、アメリカ税関に簡単に補足された筈だということが分かる。 
 こうした　流通者(りゅうつうしゃ)　の　活動(かつどう)　が　非合法(ひごうほう)　だ　という　こと　は　当初(とうしょ)　から　はっきり　して　いた　筈(はず)　だ　が、　追加(ついか)　の　証拠(しょうこ)　を　見る(みる)　と、　流通者(りゅうつうしゃ)たち　は　他(ほか)　の　違法(いほう)　商品(しょうひん)　輸入者(ゆにゅうしゃ)　すべて　と　同じく(おなじく)、　アメリカ　税関(ぜいかん)　に　簡単(かんたん)　に　補足(ほそく)　された　筈(はず)　だ　という　こと　が　分かる(わかる)。 
@@ -16615,13 +16608,13 @@ In truth, Tokyo Disneyland is located in Urayasu City, Chiba Prefecture.
 旧江戸川(きゅうえどがわ)　は　江戸川(えどがわ)　区(く)　と　浦安(うらやす)　市(し)　の　間(あいだ)　に　流れ(ながれ)、　東京(とうきょう)　ディズニーランド　の　近く(ちかく)　に　東京湾(とうきょうわん)　に　注ぐ(そそぐ)。 
 The Old Edogawa (River) flows between Edogawa Ward and Urayasu City, and into Tokyo Bay near Tokyo Disneyland. 
 1599-4
-3マイル進むと、北の浦の入り口で僕らは他ならぬヒスパニオーラ号が漂っているのに出くわした。 3マイル　進む(すすむ)　と、　北(きた)　の　浦(うら)　の　入り口(いりぐち)　で　僕ら(ぼくら)　は　他(ほか)　ならぬ　ヒスパニオーラ号(ごう)　が　漂っ(ただよっ)て　いる　の　に　出くわし(でくわし)た。 
+3マイル進むと、北の浦の入り口で僕らは他ならぬヒスパニオーラ号が漂っているのに出くわした。 
+3マイル　進む(すすむ)　と、　北(きた)　の　浦(うら)　の　入り口(いりぐち)　で　僕ら(ぼくら)　は　他(ほか)　ならぬ　ヒスパニオーラ号(ごう)　が　漂っ(ただよっ)て　いる　の　に　出くわし(でくわし)た。 
 Three miles farther, just inside the mouth of North Inlet, what should we meet but the Hispaniola, cruising by herself? 
 1599-5
-かつては
-SFファンタジー大会の小さな裏部屋で上映されていた日本アニメは、今年は浦安市での独自の大会を持ち、ファンたちは大好きな映画やビデオを16mmや35mmで見られる。 
-かつて　は　
-SF　ファンタジー　大会(たいかい)　の　小(ちい)さな　裏部屋(うらべや)　で　上映(じょうえい)　されて　いた　日本(にほん)　アニメ　は、　今年(ことし)　は　浦安(うらやす)　市(し)　で　の　独自(どくじ)　の　大会(たいかい)　を　持ち(もち)、　ファンたち　は　大好き(だいすき)　な　映画(えいが)　や　ビデオ　を　16mm(ミリメートル)　や　35mm(ミリメートル)　で　見(み)られる。 Japanese animation, which used to be shown in small back rooms of science fiction/fantasy conventions, this year has its own convention in Urayasu City where the fans can watch their favorite movies and videos in 16mm or 35mm. 
+かつてはSFファンタジー大会の小さな裏部屋で上映されていた日本アニメは、今年は浦安市での独自の大会を持ち、ファンたちは大好きな映画やビデオを16mmや35mmで見られる。 
+かつて　は　SF　ファンタジー　大会(たいかい)　の　小(ちい)さな　裏部屋(うらべや)　で　上映(じょうえい)　されて　いた　日本(にほん)　アニメ　は、　今年(ことし)　は　浦安(うらやす)　市(し)　で　の　独自(どくじ)　の　大会(たいかい)　を　持ち(もち)、　ファンたち　は　大好き(だいすき)　な　映画(えいが)　や　ビデオ　を　16mm(ミリメートル)　や　35mm(ミリメートル)　で　見(み)られる。 
+Japanese animation, which used to be shown in small back rooms of science fiction/fantasy conventions, this year has its own convention in Urayasu City where the fans can watch their favorite movies and videos in 16mm or 35mm. 
 
 1600-1
 原始哺乳類。 
@@ -16648,8 +16641,6 @@ The dorsal fin is the vertical fin on the back of a fish and certain marine mamm
 獣弓類(じゅうきゅうるい)　は　哺乳(ほにゅう)　動物(どうぶつ)　の　直接(ちょくせつ)　の　祖先(そせん)　と　考え(かんがえ)られる。 
 Therapsids are considered direct ancestor of mammals. 
 1600-7
-第六十四条の三：使用者は、産後一年を経過しない女性〚以下
-「産婦」という〛を、重量物を取りあつかう業務、有害ガスを発散する場所における業務その他産婦の哺育に有害な業務に就かせてはならない。 
-第六十四(だいろくじゅうよん)　条(じょう)　の　三(さん)：　使用者(しようしゃ)　は、　産後(さんご)　一年(いちねん)　を　経過(けいか)　しない　女性(じょせい)　〚以下(いか)　
-「産婦(さんぷ)」　と　いう〛　を、　重量物(じゅうりょうぶつ)　を　取りあつかう(とりあつかう)　業務(ぎょうむ)、　有害(ゆうがい)　ガス　を　発散(はっさん)　する　場所(ばしょ)　に　おける　業務(ぎょうむ)　その　他(た)　産婦(さんぷ)　の　哺育(ほいく)　に　有害(ゆうがい)　な　業務(ぎょうむ)　に　就か(つか)せて　は　ならない。 
+第六十四条の三：使用者は、産後一年を経過しない女性〚以下「産婦」という〛を、重量物を取りあつかう業務、有害ガスを発散する場所における業務その他産婦の哺育に有害な業務に就かせてはならない。 
+第六十四(だいろくじゅうよん)　条(じょう)　の　三(さん)：　使用者(しようしゃ)　は、　産後(さんご)　一年(いちねん)　を　経過(けいか)　しない　女性(じょせい)　〚以下(いか)　「産婦(さんぷ)」　と　いう〛　を、　重量物(じゅうりょうぶつ)　を　取りあつかう(とりあつかう)　業務(ぎょうむ)、　有害(ゆうがい)　ガス　を　発散(はっさん)　する　場所(ばしょ)　に　おける　業務(ぎょうむ)　その　他(た)　産婦(さんぷ)　の　哺育(ほいく)　に　有害(ゆうがい)　な　業務(ぎょうむ)　に　就か(つか)せて　は　ならない。 
 Article 64-3: An employer shall not assign women within one year after childbirth (hereinafter referred to as "nursing mothers") to work involving the handling of heavy materials, work in places where harmful gas is generated, or other work injurious to nursing. (50)
