@@ -4207,7 +4207,8 @@ The artillery battered down the defenses.
 銃(じゅう)　は　壊滅的(かいめつてき)　な　砲撃(ほうげき)　を　開始(かいし)　した。 
 The guns opened a withering fire. 
 1666-13
-1週間後に、その家は倒壊した。 1週間後(しゅうかんご)　に、　その　家(いえ)　は　倒壊(とうかい)　した。 
+1週間後に、その家は倒壊した。 
+1週間後(しゅうかんご)　に、　その　家(いえ)　は　倒壊(とうかい)　した。 
 The house collapsed a week later. 
 1666-14
 昼も夜も働いたら、体を壊すよ。 
@@ -4258,7 +4259,8 @@ An extensive and systematic bombing intended to devastate a large target.
 感染症(かんせんしょう)　を　防ぎ(ふせぎ)　回復(かいふく)　を　促進(そくしん)　させる　ため　に、　傷口(きずぐち)　から　異物(いぶつ)　と　壊死(えし)　組織(そしき)　を　外科的(げかてき)　に　除去(じょきょ)　する　こと。 
 Surgical removal of foreign material and dead tissue from a wound in order to prevent infection and promote healing. 
 1666-26
-1945年8月6日、広島は人口密集地域に落とされた最初の原子爆弾により、ほぼ完全に破壊された。 1945年(ねん)　8月(がつ)　6日(むいか)、　広島(ひろしま)　は　人口(じんこう)　密集(みっしゅう)　地域(ちいき)　に　落とさ(おとさ)れた　最初(さいしょ)　の　原子(げんし)　爆弾(ばくだん)　に　より、　ほぼ　完全(かんぜん)　に　破壊(はかい)　された。 
+1945年8月6日、広島は人口密集地域に落とされた最初の原子爆弾により、ほぼ完全に破壊された。 
+1945年(ねん)　8月(がつ)　6日(むいか)、　広島(ひろしま)　は　人口(じんこう)　密集(みっしゅう)　地域(ちいき)　に　落とさ(おとさ)れた　最初(さいしょ)　の　原子(げんし)　爆弾(ばくだん)　に　より、　ほぼ　完全(かんぜん)　に　破壊(はかい)　された。 
 On 6 August 1945 Hiroshima was almost completely destroyed by the first atomic bomb dropped on a populated area. 
 
 1667-1
@@ -4491,7 +4493,8 @@ If you obey them again, after what has already occurred, they will tear you in p
 君主(くんしゅ)　は　いつも　助言(じょげん)　を　聴く(きく)　べき　です　が、　只(ただ)　それ　は　君主(くんしゅ)　が　聴き(きき)たい　とき　に　聴く(きく)　の　で　あって、　他人(たにん)　が　助言(じょげん)　したい　時(とき)　で　あって　は　なりません。 
 A prince ought always to take counsel, but only when he wishes and not when others wish. 
 1669-24
-1970年代後期には、日本アニメのほとんどはきわめて単純なので、普通の視聴者は映像を見ているだけで、大体の粗筋は分かった。 1970年代(ねんだい)　後期(こうき)　に　は、　日本(にほん)　アニメ　の　ほとんど　は　きわめて　単純(たんじゅん)　な　ので、　普通(ふつう)　の　視聴者(しちょうしゃ)　は　映像(えいぞう)　を　見(み)て　いる　だけ　で、　大体(だいたい)　の　粗筋(あらすじ)　は　分かっ(わかっ)た。 
+1970年代後期には、日本アニメのほとんどはきわめて単純なので、普通の視聴者は映像を見ているだけで、大体の粗筋は分かった。 
+1970年代(ねんだい)　後期(こうき)　に　は、　日本(にほん)　アニメ　の　ほとんど　は　きわめて　単純(たんじゅん)　な　ので、　普通(ふつう)　の　視聴者(しちょうしゃ)　は　映像(えいぞう)　を　見(み)て　いる　だけ　で、　大体(だいたい)　の　粗筋(あらすじ)　は　分かっ(わかっ)た。 
 By the late 1970s, the majority of Japanese cartoons remained simple enough so that the average viewer could discern their plots just from watching their visuals. 
 
 1670-1
@@ -4586,8 +4589,8 @@ Instinctively he turned his back more to the light lest she might see the shame 
 When he saw the youth start back, the pain-tears in his eyes and the oozing blood, the officer had felt at once a thrill of deep pleasure and of shame. 
 1671-4
 八：その性的羞恥心を害する物事を告げ、若しくはその知り得る状態に置き、又はその性的羞恥心を害する文書、図画その他の物を送付し、若しくはその知り得る状態に置くこと。 
-八(はち)：　その　性的(せいてき)　羞恥心(しゅうちしん)　を　害する(がいする)　物事(ものごと)　を　告げ(つげ)、　若しくは(もしくは)　その　知り得る(しりえる)　状態(じょうたい)　に　置き(おき)、　又は(または)　その　性的(せいてき)　羞恥心(しゅうちしん)　を　害する(がいする)　文書(ぶんしょ)、　図画(ずが)　その　他(た)　の　物(もの)　を　送付(そうふ)　し、　若しくは(もしくは)　その　知り得る(しりえる)　状態(じょうたい)　に　置く(おく)　こと。 (
-viii) To reveal sexually insulting materials or to let the victim know about it, or send documents, pictures or other sexually insulting materials or to let the victim know about it. 
+八(はち)：　その　性的(せいてき)　羞恥心(しゅうちしん)　を　害する(がいする)　物事(ものごと)　を　告げ(つげ)、　若しくは(もしくは)　その　知り得る(しりえる)　状態(じょうたい)　に　置き(おき)、　又は(または)　その　性的(せいてき)　羞恥心(しゅうちしん)　を　害する(がいする)　文書(ぶんしょ)、　図画(ずが)　その　他(た)　の　物(もの)　を　送付(そうふ)　し、　若しくは(もしくは)　その　知り得る(しりえる)　状態(じょうたい)　に　置く(おく)　こと。 
+(viii) To reveal sexually insulting materials or to let the victim know about it, or send documents, pictures or other sexually insulting materials or to let the victim know about it. 
 
 1672-1
 公爵の宮殿。 
@@ -4933,7 +4936,8 @@ After training, the migrants became productive taxpayers.
 医学(いがく)　研修生(けんしゅうせい)　は　数ヶ月間(すうかげつかん)　交代(こうたい)　で　担当(たんとう)　しなければ　ならない。 
 Medical interns have to rotate for a few months. 
 1676-24
-4月から医学部卒業者に2年間の卒後臨床研修制度が導入される。 4月(がつ)　から　医学部(いがくぶ)　卒業者(そつぎょうしゃ)　に　2年間(ねんかん)　の　卒後(そつご)　臨床(りんしょう)　研修(けんしゅう)　制度(せいど)　が　導入(どうにゅう)　される。 
+4月から医学部卒業者に2年間の卒後臨床研修制度が導入される。 
+4月(がつ)　から　医学部(いがくぶ)　卒業者(そつぎょうしゃ)　に　2年間(ねんかん)　の　卒後(そつご)　臨床(りんしょう)　研修(けんしゅう)　制度(せいど)　が　導入(どうにゅう)　される。 
 From April, a two-year clinical training system will be introduced for medical school graduates. 
 1676-25
 人間は議論と経験によって自分の誤りを修正する能力があるのです。 
@@ -5115,7 +5119,8 @@ The Speaker asked Councilor Sugiura to explain the reason for the proposal.
 悠子(ゆうこ)さん　は　花(はな)　が　いっぱい　入っ(はいっ)た　籠(かご)　を　提げ(さげ)て　いた。 
 Yuko was carrying a basket full of flowers. 
 1679-24
-10月に総会を開催すべきだという提案があった。 10月(がつ)　に　総会(そうかい)　を　開催(かいさい)　すべき　だ　という　提案(ていあん)　が　あった。 
+10月に総会を開催すべきだという提案があった。 
+10月(がつ)　に　総会(そうかい)　を　開催(かいさい)　すべき　だ　という　提案(ていあん)　が　あった。 
 There was a suggestion that the general meeting should take place in October. 
 1679-25
 人類学者は、現地の情報提供者の文を書き写した。 
@@ -5166,13 +5171,12 @@ This logical flaw is the most frequent rhetorical ploy used by Creation Scientis
 両議院(りょうぎいん)　は、　各々(おのおの)　国政(こくせい)　に関する(にかんする)　調査(ちょうさ)　を　行(おこな)い、　これ　に関して(にかんして)、　証人(しょうにん)　の　出頭(しゅっとう)　および　証言(しょうげん)　並びに(ならびに)　記録(きろく)　の　提出(ていしゅつ)　を　要求(ようきゅう)　する　こと　が　できる。 
 Each House may conduct investigations in relation to government, and may demand the presence and testimony of witnesses, and the production of records. 
 1679-37
-米国で、人を
-「カードする」とは、飲酒年齢に達しているかどうかを判断するための身分証明書の提示を求めることを意味する。 
-米国(べいこく)　で、　人(ひと)　を　
-「カード　する」　と　は、　飲酒(いんしゅ)　年齢(ねんれい)　に　達し(たっし)て　いる　か　どう　か　を　判断(はんだん)　する　ため　の　身分(みぶん)　証明書(しょうめいしょ)　の　提示(ていじ)　を　求める(もとめる)　こと　を　意味(いみ)　する。 
+米国で、人を「カードする」とは、飲酒年齢に達しているかどうかを判断するための身分証明書の提示を求めることを意味する。 
+米国(べいこく)　で、　人(ひと)　を　「カード　する」　と　は、　飲酒(いんしゅ)　年齢(ねんれい)　に　達し(たっし)て　いる　か　どう　か　を　判断(はんだん)　する　ため　の　身分(みぶん)　証明書(しょうめいしょ)　の　提示(ていじ)　を　求める(もとめる)　こと　を　意味(いみ)　する。 
 In the USA, to "card" someone is to ask them for identification to determine whether they are old enough to consume liquor. 
 1679-38
-1976年に初めて提起された潜在的な著作権侵害は、アメリカ国内で日本のコミュニティテレビから時間シフト式に録画を行うという行為だった。 1976年(ねん)　に　初めて(はじめて)　提起(ていき)　された　潜在的(せんざいてき)　な　著作権(ちょさくけん)　侵害(しんがい)　は、　アメリカ　国内(こくない)　で　日本(にほん)　の　コミュニティ　テレビ　から　時間(じかん)　シフト　式(しき)　に　録画(ろくが)　を　行う(おこなう)　という　行為(こうい)　だった。 
+1976年に初めて提起された潜在的な著作権侵害は、アメリカ国内で日本のコミュニティテレビから時間シフト式に録画を行うという行為だった。 
+1976年(ねん)　に　初めて(はじめて)　提起(ていき)　された　潜在的(せんざいてき)　な　著作権(ちょさくけん)　侵害(しんがい)　は、　アメリカ　国内(こくない)　で　日本(にほん)　の　コミュニティ　テレビ　から　時間(じかん)　シフト　式(しき)　に　録画(ろくが)　を　行う(おこなう)　という　行為(こうい)　だった。 
 The first potential infringement raised in 1976 was the practice of time-shifting recordings from Japanese community television in the United States. 
 1679-39
 面白いことに、万国著作権条約もベルヌ条約も対象となる言語で正式な翻訳が存在しない場合の非独占的なライセンス取得のための具体的ガイドラインを提供している。 
@@ -5219,7 +5223,6 @@ It was a torrent of human flesh which no dam could contain.
 二千ヤードほどの長さの防波堤が、停泊地に伸びていた。 
 二千(にせん)　ヤード　ほど　の　長(なが)さ　の　防波堤(ぼうはてい)　が、　停泊地(ていはくち)　に　伸び(のび)て　いた。 
 A jetty pier, some two thousand yards along, extended into the roadstead. 
-1681-169 
 
 1681-1
 適当な議題。 
@@ -5545,10 +5548,8 @@ Newly raised objections.
 候補者(こうほしゃ)　は　減税(げんぜい)　を　唱え(となえ)た。 
 The candidate advocated the reduction of taxes. 
 1685-5
-彼女は
-「天使祝詞」を唱えた。 
-彼女(かのじょ)　は　
-「天使(てんし)　祝詞(しゅくし)」　を　唱え(となえ)た。 
+彼女は「天使祝詞」を唱えた。 
+彼女(かのじょ)　は　「天使(てんし)　祝詞(しゅくし)」　を　唱え(となえ)た。 
 She said her 'Hail Mary'. 
 1685-6
 孫むすめは詩を暗唱してくれた。 
@@ -5699,7 +5700,8 @@ A semidetached house.
 連棟(れんとう)　の　住宅(じゅうたく)　の　一画(いっかく)。 
 A block of attached houses. 
 1688-4
-2棟の建物の間の相互接続。 2棟(とう)　の　建物(たてもの)　の　間(あいだ)　の　相互(そうご)　接続(せつぞく)。 
+2棟の建物の間の相互接続。 
+2棟(とう)　の　建物(たてもの)　の　間(あいだ)　の　相互(そうご)　接続(せつぞく)。 
 An interconnection between the two buildings. 
 1688-5
 別の棟を追加することで家を広げる。 
@@ -5714,10 +5716,8 @@ Make ridges in something by pinching it.
 「水夫(すいふ)　部屋(べや)」　は　乗組員(のりくみいん)　が　収容(しゅうよう)　される　商船(しょうせん)　の　船首(せんしゅ)　で　上部(じょうぶ)　構造(こうぞう)　から　成る(なる)　居住棟(きょじゅうとう)　で　ある。 
 The "forecastle" is the living quarters consisting of a superstructure in the bow of a merchant ship where the crew is housed. 
 1688-8
-妻、めかけとイスラムの家庭内の女性の近親者のための居住棟は
-「ハーレム」と言う。 
-妻(つま)、　めかけ　と　イスラム　の　家庭(かてい)　内(ない)　の　女性(じょせい)　の　近親者(きんしんしゃ)　の　ため　の　居住棟(きょじゅうとう)　は　
-「ハーレム」　と　言う(いう)。 
+妻、めかけとイスラムの家庭内の女性の近親者のための居住棟は「ハーレム」と言う。 
+妻(つま)、　めかけ　と　イスラム　の　家庭(かてい)　内(ない)　の　女性(じょせい)　の　近親者(きんしんしゃ)　の　ため　の　居住棟(きょじゅうとう)　は　「ハーレム」　と　言う(いう)。 
 The living quarters reserved for wives and concubines and female relatives in a Muslim household is known as the "harem". 
 1688-9
 夢殿の棟木銘に基づき、寺院739年に建立されたことが分かる。 
@@ -5757,7 +5757,8 @@ Frostbitten fingers.
 恐怖(きょうふ)　で　凍りつい(こおりつい)た。 
 Frozen with horror. 
 1689-9
-1気圧下で水は摂氏0度で凍る。 1気圧(きあつ)　下(か)　で　水(みず)　は　摂氏(せっし)　0度(ど)　で　凍る(こおる)。 
+1気圧下で水は摂氏0度で凍る。 
+1気圧(きあつ)　下(か)　で　水(みず)　は　摂氏(せっし)　0度(ど)　で　凍る(こおる)。 
 At an air pressure of 1 atm, water freezes at 0 degrees Celsius. 
 1689-10
 洗面器の水がかちかちに凍った。 
@@ -5869,7 +5870,6 @@ The rocks heaved, the glaciers melted, and great masses of ice and snow came cra
 水晶のような長いつららが家の軒から下がり、みんな毛皮を着て出歩くようになり、子供たちは真紅の帽子をかぶり、氷の上でスケートをしました。 
 水晶(すいしょう)　の　よう　な　長い(ながい)　つらら　が　家(いえ)　の　軒(のき)　から　下がり(さがり)、　みんな　毛皮(けがわ)　を　着(き)て　出歩く(であるく)　よう　に　なり、　子供(こども)たち　は　真紅(しんく)　の　帽子(ぼうし)　を　かぶり、　氷(こおり)　の　上(うえ)　で　スケート　を　しました。 
 Long icicles like crystal daggers hung down from the eaves of the houses, everybody went about in furs, and the little boys wore scarlet caps and skated on the ice. 
-1691-170 
 
 1691-1
 永久の関係。 
@@ -5912,7 +5912,8 @@ The local seemed to take forever to get to Sendai.
 私達(わたしたち)　は　もはや　私達(わたしたち)　の　過去(かこ)　は　永久(えいきゅう)　に　葬り去ら(ほうむりさら)れた　もの　と　信じ(しんじ)て　いた。 
 We believed our past had been forever buried. 
 1691-11
-1つの種が絶滅する度に、我々は自然界の一部を永久に失うことになる。 1つ　の　種(しゅ)　が　絶滅(ぜつめつ)　する　度(たび)　に、　我々(われわれ)　は　自然界(しぜんかい)　の　一部(いちぶ)　を　永久(えいきゅう)　に　失う(うしなう)　こと　に　なる。 
+1つの種が絶滅する度に、我々は自然界の一部を永久に失うことになる。 
+1つ　の　種(しゅ)　が　絶滅(ぜつめつ)　する　度(たび)　に、　我々(われわれ)　は　自然界(しぜんかい)　の　一部(いちぶ)　を　永久(えいきゅう)　に　失う(うしなう)　こと　に　なる。 
 Every time a species dies out, we lose forever a part of our natural world. 
 1691-12
 訃報：岩井悠真様、平成18年10月5日、永眠致しました。享年94。 
@@ -5939,10 +5940,8 @@ For all the land which thou seest, to thee will I give it, and to thy seed for e
 私(わたし)　は　貴方(あなた)　および　後(のち)　の　代々(だいだい)　の　子孫(しそん)　と　契約(けいやく)　を　立て(たて)て、　永遠(えいえん)　の　契約(けいやく)　と　し、　貴方(あなた)　と　後(あと)　の　子孫(しそん)　と　の　神(かみ)　と　なる　で　あろう。 
 I will establish my covenant between me and thee and thy seed after thee in their generations for an everlasting covenant, to be a God unto thee, and to thy seed after thee. 
 1691-18
-主なる神は言われた、
-「見よ、人は我々の一人のようになり、善悪を知るものとなった。彼は手を伸べ、命の木からも取って食べ、永久に生きるかも知れない」。 
-主(しゅ)　なる　神(かみ)　は　言わ(いわ)れた、　
-「見よ(みよ)、　人(ひと)　は　我々(われわれ)　の　一人(ひとり)　の　よう　に　なり、　善悪(ぜんあく)　を　知る(しる)　もの　と　なった。　彼(かれ)　は　手(て)　を　伸べ(のべ)、　命(いのち)　の　木(き)　から　も　取っ(とっ)て　食べ(たべ)、　永久(えいきゅう)　に　生きる(いきる)　かも　知れ(しれ)ない」。 
+主なる神は言われた、「見よ、人は我々の一人のようになり、善悪を知るものとなった。彼は手を伸べ、命の木からも取って食べ、永久に生きるかも知れない」。 
+主(しゅ)　なる　神(かみ)　は　言わ(いわ)れた、　「見よ(みよ)、　人(ひと)　は　我々(われわれ)　の　一人(ひとり)　の　よう　に　なり、　善悪(ぜんあく)　を　知る(しる)　もの　と　なった。　彼(かれ)　は　手(て)　を　伸べ(のべ)、　命(いのち)　の　木(き)　から　も　取っ(とっ)て　食べ(たべ)、　永久(えいきゅう)　に　生きる(いきる)　かも　知れ(しれ)ない」。 
 And the Lord God said, "Behold, the man is become as one of us, to know good and evil: and now, lest he put forth his hand, and take also of the tree of life, and eat, and live for ever". 
 1691-19
 いま我々は大きな内戦の最中にいて、そういう考えにささげられた国が、永続するかどうかを試されているのです。我々は、この戦争の激戦の戦場に集まっています。 
@@ -6067,7 +6066,8 @@ A monolithic society.
 Tominaga-san has a slight edge on you. 
 「〜ほうが〜より」　{〜方が〜より　173} [comparison]: DJG v1 p140; Genki ch10; Marx v1 day69. 
 1695-3
-1枚の落ち葉が水面に浮かんでいた。 1枚(まい)　の　落ち葉(おちば)　が　水面(すいめん)　に　浮かん(うかん)で　いた。 
+1枚の落ち葉が水面に浮かんでいた。 
+1枚(まい)　の　落ち葉(おちば)　が　水面(すいめん)　に　浮かん(うかん)で　いた。 
 A fallen leaf floated on the surface of the water. 
 1695-4
 陛下はお望みかしら、一枚写真を残します。 
@@ -6427,13 +6427,7 @@ We have plenty of streets out there, and we manage to come up with the money to 
 1700-8
 最初に僕を見つけたやつが、シギの首でも捻るように僕の首を捻らないと言えるだろうか？ 
 最初(さいしょ)　に　僕(ぼく)　を　見つけ(みつけ)た　やつ　が、　シギ　の　首(くび)　でも　捻る(ひねる)　よう　に　僕(ぼく)　の　首(くび)　を　捻ら(ひねら)ない　と　言える(いえる)　だろう　か？ 
-Would not the first of them who saw me wring my neck like a snipe's? (90) ㊗ 　Congratulations!  ㊗ You have now attained the eighteenth dan:
-コウ 
-
-KANJINAUT Let us know at the KLC user group on Facebook! Share on:　Reddit　Twitter　Facebook　LinkedIn
-
-See the website for a full list of KLC kanji dan (ranks). 
-1701-171 
+Would not the first of them who saw me wring my neck like a snipe's?
 
 1701-1
 神に誓って言う。 
@@ -6492,10 +6486,8 @@ Today we pledge an end to the era of deadlock and drift, and a new season of Ame
 君主(くんしゅ)　は、　その　臣民(しんみん)　を　統合(とうごう)　し　忠誠(ちゅうせい)　を　誓わ(ちかわ)せて　いる　限り(かぎり)　は、　冷酷(れいこく)　だ　という　非難(ひなん)　を　気(き)　に　すべき　で　は　ない　の　です。 
 A prince, so long as he keeps his subjects united and loyal, ought not to mind the reproach of cruelty. 
 1701-15
-ヤコブは誓いを立てて言った、
-「神が私と共にいまし、私の行くこの道で私を守り、食べるパンと着る着物を賜い」。 
-ヤコブ　は　誓い(ちかい)　を　立て(たて)て　言っ(いっ)た、　
-「神(かみ)　が　私(わたし)　と　共に(ともに)　いまし、　私(わたし)　の　行く(いく)　この　道(みち)　で　私(わたし)　を　守り(まもり)、　食べる(たべる)　パン　と　着る(きる)　着物(きもの)　を　賜い(たまい)」。 
+ヤコブは誓いを立てて言った、「神が私と共にいまし、私の行くこの道で私を守り、食べるパンと着る着物を賜い」。 
+ヤコブ　は　誓い(ちかい)　を　立て(たて)て　言っ(いっ)た、　「神(かみ)　が　私(わたし)　と　共に(ともに)　いまし、　私(わたし)　の　行く(いく)　この　道(みち)　で　私(わたし)　を　守り(まもり)、　食べる(たべる)　パン　と　着る(きる)　着物(きもの)　を　賜い(たまい)」。 
 Jacob vowed a vow, saying, "If God will be with me, and will keep me in this way that I go, and will give me bread to eat, and raiment to put on". 
 1701-16
 この宣言を支持するために、神の摂理による加護を強く信じて、我々はお互いの生命と財産、そして名誉にかけて相互に誓いをたてる。 
@@ -6814,7 +6806,8 @@ Slander is an actionable offense.
 刑事(けいじ)　訴訟(そしょう)　に　おける　起訴(きそ)　の　ため　の　証拠(しょうこ)。 
 Evidence for the prosecution in criminal proceedings. 
 1709-8
-6人が京都地裁に国家賠償訴訟を起こした。 6人(にん)　が　京都(きょうと)　地裁(ちさい)　に　国家(こっか)　賠償(ばいしょう)　訴訟(そしょう)　を　起こし(おこし)た。 
+6人が京都地裁に国家賠償訴訟を起こした。 
+6人(にん)　が　京都(きょうと)　地裁(ちさい)　に　国家(こっか)　賠償(ばいしょう)　訴訟(そしょう)　を　起こし(おこし)た。 
 Six people brought a state compensation suit to a Kyoto District Court. 
 1709-9
 その一家は、家主に対して民事訴訟を起こした。 
@@ -6922,9 +6915,9 @@ Let the study of history help you recognize self-critically your own position.
 よい　歴史家(れきしか)　は　歴史(れきし)　に　おける　自分(じぶん)　の　立ち位置(たちいち)　を　認識(にんしき)　する　ため　に　研究(けんきゅう)　を　進める(すすめる)。 
 Good historians work to acknowledge their own positions in history too. 
 1710-21
-1862年の文久遣欧使節において、福沢諭吉が西洋の政治哲学を究めた。 1862年(ねん)　の　文久(ぶんきゅう)　遣欧(けんおう)　使節(しせつ)　において、　福沢(ふくざわ)　諭吉(ゆきち)　が　西洋(せいよう)　の　政治(せいじ)　哲学(てつがく)　を　究め(きわめ)た。 
+1862年の文久遣欧使節において、福沢諭吉が西洋の政治哲学を究めた。 
+1862年(ねん)　の　文久(ぶんきゅう)　遣欧(けんおう)　使節(しせつ)　において、　福沢(ふくざわ)　諭吉(ゆきち)　が　西洋(せいよう)　の　政治(せいじ)　哲学(てつがく)　を　究め(きわめ)た。 
 Yukichi Fukuzawa investigated Western political philosophy during the First Japanese Embassy to Europe in 1862. 
-
 「文久」is the Japanese era name for the period from February 1861 to February 1864. 
 1710-22
 研究はデータの不備によって批評されましたが、それは更なる研究を刺激した。 
@@ -6950,7 +6943,6 @@ Because Japanese domestic rights are relevant to our study for the purpose of co
 哲学、文学、芸術、宗教、これらのものは、歴史研究の域を出て、歴史が意味するものへの問いに答えるための自由を与えられている。 
 哲学(てつがく)、　文学(ぶんがく)、　芸術(げいじゅつ)、　宗教(しゅうきょう)、　これら　の　もの　は、　歴史(れきし)　研究(けんきゅう)　の　域(いき)　を　出(で)て、　歴史(れきし)　が　意味(いみ)　する　もの　へ　の　問い(とい)　に　答える(こたえる)　ため　の　自由(じゆう)　を　与え(あたえ)られて　いる。 
 Philosophy, literature, art, and religion take up where historical study leaves off and enjoy greater freedom to answer the question of what it all means. 
-1711-172 
 
 1711-1
 窮迫した状況。 
@@ -7148,25 +7140,20 @@ The foregoing provisions shall not apply to any construction which the Governmen
 The Government of Japan undertakes to furnish the United States armed forces with the following meteorological services in accordance with arrangements between the appropriate authorities of the two Governments: 
 「〜にしたがって　/ 〜にしだがい」　{〜に従って　/ 〜に従い　869} ["in accordance with __"; "as __"]: DJG v2 p268; Tobira ch10 #8. 
 1712-38
-3人とも、亡くなった妹さんも、狂ってしまったお二方も、表情に極限の恐怖を体験した後が残されていました。 3人(にん)　とも、　亡くなっ(なくなっ)た　妹(いもうと)さん　も、　狂っ(くるっ)て　しまった　お二方(おふたかた)　も、　表情(ひょうじょう)　に　極限(きょくげん)　の　恐怖(きょうふ)　を　体験(たいけん)　した　後(あと)　が　残さ(のこさ)れて　いました。 
+3人とも、亡くなった妹さんも、狂ってしまったお二方も、表情に極限の恐怖を体験した後が残されていました。 
+3人(にん)　とも、　亡くなっ(なくなっ)た　妹(いもうと)さん　も、　狂っ(くるっ)て　しまった　お二方(おふたかた)　も、　表情(ひょうじょう)　に　極限(きょくげん)　の　恐怖(きょうふ)　を　体験(たいけん)　した　後(あと)　が　残さ(のこさ)れて　いました。 
 All three of them, the dead woman and the two demented men, retained upon their faces an expression of the utmost horror. 
 1712-39
-昭和21年から昭和23年にかけて東京で行われた極東国際軍事裁判は、
-「東京裁判」とも称される。 
-昭和(しょうわ)　21年(ねん)　から　昭和(しょうわ)　23年(ねん)　にかけて　東京(とうきょう)　で　行(おこな)われた　極東(きょくとう)　国際(こくさい)　軍事(ぐんじ)　裁判(さいばん)　は、　
-「東京(とうきょう)　裁判(さいばん)」　とも　称(しょう)　される。 
+昭和21年から昭和23年にかけて東京で行われた極東国際軍事裁判は、「東京裁判」とも称される。 
+昭和(しょうわ)　21年(ねん)　から　昭和(しょうわ)　23年(ねん)　にかけて　東京(とうきょう)　で　行(おこな)われた　極東(きょくとう)　国際(こくさい)　軍事(ぐんじ)　裁判(さいばん)　は、　「東京(とうきょう)　裁判(さいばん)」　とも　称(しょう)　される。 
 The International Military Tribunal for the Far East, held in Tokyo from 1946 to 1948, is also known as the “Tokyo Trials”. 
 1712-40
 地獄と極楽との間は、何万里となくございますから、いくら焦って見た所で、容易に上へは出られません。 
 地獄(じごく)　と　極楽(ごくらく)　と　の　間(あいだ)　は、　何万里(なんまんり)　と　なく　ございます　から、　いくら　焦っ(あせっ)て　見(み)た　所(ところ)　で、　容易(ようい)　に　上(うえ)　へ　は　出(で)られません。 
 The distance between Hell and Paradise is tens of thousands of miles, and so it would seem that no amount of effort would make this an easy journey. 
 1712-41
-十九世紀に言い争われた、
-「絵画の価値」対
-「写真の価値」という話題は今日では、捻じ曲がってしまい、混乱の極みだ。 
-十九(じゅうきゅう)　世紀(せいき)　に　言い争わ(いいあらそわ)れた、　
-「絵画(かいが)　の　価値(かち)」　対(たい)　
-「写真(しゃしん)　の　価値(かち)」　という　話題(わだい)　は　今日(きょう)　では、　捻じ曲がっ(ねじまがっ)て　しまい、　混乱(こんらん)　の　極み(きわみ)　だ。 
+十九世紀に言い争われた、「絵画の価値」対「写真の価値」という話題は今日では、捻じ曲がってしまい、混乱の極みだ。 
+十九(じゅうきゅう)　世紀(せいき)　に　言い争わ(いいあらそわ)れた、　「絵画(かいが)　の　価値(かち)」　対(たい)　「写真(しゃしん)　の　価値(かち)」　という　話題(わだい)　は　今日(きょう)　では、　捻じ曲がっ(ねじまがっ)て　しまい、　混乱(こんらん)　の　極み(きわみ)　だ。 
 The nineteenth-century dispute as to the artistic value of painting versus photography today seems devious and confused. 
 1712-42
 否定的論理、つまり積極的な真理を確立するのではなく、理論上の弱点や実践上の過ちを指摘する論理を、けなすのが今日の流儀です。 
@@ -7195,7 +7182,8 @@ This stamp indicates the post office and date of mailing.
 日本(にほん)　で、　最長(さいちょう)　の　トンネル　は　青函(せいかん)　トンネル　です。 
 The Seikan Tunnel is the longest in Japan. 
 1713-3
-19時までに投函すれば、明日には届きますよ。 19時(じ)　まで　に　投函(とうかん)　すれば、　明日(あした)　に　は　届き(とどき)ます　よ。 
+19時までに投函すれば、明日には届きますよ。 
+19時(じ)　まで　に　投函(とうかん)　すれば、　明日(あした)　に　は　届き(とどき)ます　よ。 
 If you mail it by 7:00 p.m., it'll arrive tomorrow. 
 1713-4
 本州と北海道が青函トンネルによって繋がっています。 
@@ -7299,10 +7287,8 @@ The detective hunted about among the grass and leaves like a hunting dog after a
 宇宙(うちゅう)　探査(たんさ)　の　初(はつ)　と　なる　主要(しゅよう)　な　画期的(かっきてき)　事件(じけん)　は　1957年(ねん)　の、　ソ連(それん)　の　スプートニク　1号(ごう)　が　地球(ちきゅう)　を　軌道(きどう)　に　乗っ(のっ)て　回っ(まわっ)た　時(とき)　だった。 
 The first major milestone in space exploration was in 1957, when the USSR's Sputnik 1 orbited the Earth. 
 1714-24
-よい歴史家というものは、常に過去を解釈するすべを探求する人であり、単に
-「事実を収集する」だけに止まってはいけない。 
-よい　歴史家(れきしか)　という　もの　は、　常に(つねに)　過去(かこ)　を　解釈(かいしゃく)　する　すべ　を　探求(たんきゅう)　する　人(ひと)　で　あり、　単に(たんに)　
-「事実(じじつ)　を　収集(しゅうしゅう)　する」　だけ　に　止まっ(とどまっ)て　は　いけない。 
+よい歴史家というものは、常に過去を解釈するすべを探求する人であり、単に「事実を収集する」だけに止まってはいけない。 
+よい　歴史家(れきしか)　という　もの　は、　常に(つねに)　過去(かこ)　を　解釈(かいしゃく)　する　すべ　を　探求(たんきゅう)　する　人(ひと)　で　あり、　単に(たんに)　「事実(じじつ)　を　収集(しゅうしゅう)　する」　だけ　に　止まっ(とどまっ)て　は　いけない。 
 Good historians always seek to interpret the past, not just “gather the facts". 
 
 1715-1
@@ -7374,10 +7360,9 @@ A social cup of coffee.
 その　作業(さぎょう)　は　彼女(かのじょ)　に　深い(ふかい)　喜び(よろこび)　を　与え(あたえ)た。 
 It gave her sincere satisfaction to do this. 
 1715-18
-この潜水艇の最大潜航深度は4
-kmだ。 
-この　潜水艇(せんすいてい)　の　最大(さいだい)　潜航(せんこう)　深度(しんど)　は　4
-km(キロメートル)　だ。 The maximum cruising depth of this submersible is four kilometers. 
+この潜水艇の最大潜航深度は4kmだ。 
+この　潜水艇(せんすいてい)　の　最大(さいだい)　潜航(せんこう)　深度(しんど)　は　4km(キロメートル)　だ。 
+The maximum cruising depth of this submersible is four kilometers. 
 1715-19
 俺が執念深い男じゃなくて運がいいぞ。 
 俺(おれ)　が　執念深い(しゅうねんぶかい)　男(おとこ)　じゃ　なくて　運(うん)　が　いい　ぞ。 
@@ -7439,12 +7424,9 @@ For three months after taking over the practice I was kept very closely at work.
 私(わたし)　は　言語(げんご)　でも　多少なりとも(たしょうなりとも)　進歩(しんぽ)　を　とげ、　更に(さらに)　あちこち　で　探求(たんきゅう)　を　深め(ふかめ)ました。 
 I made what progress I could in the language, and in addition I pushed my explorations here and there. 
 1715-34
-私の子供が食べ物を求める際に
-「
-mum」という言葉に込めた疑問の音は特に興味深い。 
-私(わたし)　の　子供(こども)　が　食べ物(たべもの)　を　求める(もとめる)　際(さい)　に　
-「
-mum」　という　言葉(ことば)　に　込め(こめ)た　疑問(ぎもん)　の　音(おと)　は　特に(とくに)　興味深い(きょうみぶかい)。 The interrogatory sound which my child gave to the word ‘mum’ when asking for food is especially curious. 
+私の子供が食べ物を求める際に「mum」という言葉に込めた疑問の音は特に興味深い。 
+私(わたし)　の　子供(こども)　が　食べ物(たべもの)　を　求める(もとめる)　際(さい)　に　「mum」　という　言葉(ことば)　に　込め(こめ)た　疑問(ぎもん)　の　音(おと)　は　特に(とくに)　興味深い(きょうみぶかい)。 
+The interrogatory sound which my child gave to the word ‘mum’ when asking for food is especially curious. 
 1715-35
 注意深く彼女は墓に生えた雑草を刈り、薄く赤らんだ白菊の花を、銀製の十字架に供えた。 
 注意深く(ちゅういぶかく)　彼女(かのじょ)　は　墓(はか)　に　生え(はえ)た　雑草(ざっそう)　を　刈り(かり)、　薄く(うすく)　赤らん(あからん)だ　白菊(しらぎく)　の　花(はな)　を、　銀製(ぎんせい)　の　十字架(じゅうじか)　に　供え(そなえ)た。 
@@ -7455,8 +7437,7 @@ Carefully she clipped the grass from the grave, and arranged the pinky-white, sm
 One of the oldest, most persistent, and most interesting arguments raised by Creation Scientists against Darwinian theory is the so-called Design Argument or, to use its modern name, the Argument from Intelligent Design. 
 「いわゆる〜」 　["so-called  __"]: DJG v3 p172. 
 1715-37
-ルノーは週末ごとに三沢から東京にいって、買い物をしてはスタジオの人々に
-「ブツ」を届け、人間関係を深めて業界で何が起きているかを知り、日本のアニメ雑誌で読んだ話の続きを訊ねるのだった。 
+ルノーは週末ごとに三沢から東京にいって、買い物をしてはスタジオの人々に「ブツ」を届け、人間関係を深めて業界で何が起きているかを知り、日本のアニメ雑誌で読んだ話の続きを訊ねるのだった。 
 ルノー　は　週末(しゅうまつ)　ごと　に　三沢(みさわ)　から　東京(とうきょう)　に　いって、　買い物(かいもの)　を　して　は　スタジオ　の　人々(ひとびと)　に　
 「ブツ」　を　届け(とどけ)、　人間(にんげん)　関係(かんけい)　を　深め(ふかめ)て　業界(ぎょうかい)　で　何(なに)　が　起き(おき)て　いる　か　を　知り(しり)、　日本(にほん)　の　アニメ　雑誌(ざっし)　で　読ん(よん)だ　話(はなし)　の　続き(つづき)　を　訊ねる(たずねる)　の　だった。 
 Renault would go from Misawa to Tokyo every weekend to shop, to drop "goodies" off to people in studios, to build up relationships and find out what was going on in the industry, and to follow up on things he was reading in Japanese animation magazines. 
@@ -7598,7 +7579,6 @@ To provide for calling forth the militia to execute the laws of the Union, suppr
 損失補填。 
 損失(そんしつ)　補填(ほてん)。 
 Loss compensation.  
-
 1720-2
 自動装填のライフル銃。 
 自動(じどう)　装填(そうてん)　の　ライフル銃(じゅう)。 
@@ -7635,7 +7615,6 @@ Provided the powder is properly loaded, one may fire many shots without leaving 
 古い家は、新しいものが立てられる度に恐らく3度から4度解体され高密度に充填されている。 
 古い(ふるい)　家(いえ)　は、　新(あたら)しい　もの　が　立て(たて)られる　度(たび)　に　恐らく(おそらく)　3度(ど)　から　4度(ど)　解体(かいたい)　され　高密度(こうみつど)　に　充填(じゅうてん)　されて　いる。 
 Old houses are often so densely packed that perhaps three or four have to be demolished for every new one built. 
-1721-173 
 
 1721-1
 婚礼の日。 
@@ -8042,7 +8021,8 @@ Intriguing coincidences sometimes point to relationships of cause and effect, bu
 近視眼的(きんしがんてき)　な　著作家(ちょさくか)たち　は、　ある　観点(かんてん)　から　彼(かれ)　の　行為(こうい)　を　褒めそやし(ほめそやし)ながら、　別(べつ)　の　観点(かんてん)　から　は　それ　を　もたらした　根本的(こんぽんてき)　原因(げんいん)　を　非難(ひなん)　して　いる　の　です。 
 Shortsighted writers praise his deeds from one point of view and from another condemn the principal cause of them. 
 1725-27
-9ヶ月を2、3日すぎたころには、彼は手や他の物体が影の原因であり、目の前にある壁に落ちた影のもとを後で探そうとすることを自発的に学んだ。 9ヶ月(かげつ)　を　2、3日(にち)　すぎた　ころ　に　は、　彼(かれ)　は　手(て)　や　他(ほか)　の　物体(ぶったい)　が　影(かげ)　の　原因(げんいん)　で　あり、　目(め)　の　前(まえ)　に　ある　壁(かべ)　に　落ち(おち)た　影(かげ)　の　もと　を　後で(あとで)　探そ(さがそ)う　と　する　こと　を　自発的(じはつてき)　に　学ん(まなん)だ。 
+9ヶ月を2、3日すぎたころには、彼は手や他の物体が影の原因であり、目の前にある壁に落ちた影のもとを後で探そうとすることを自発的に学んだ。 
+9ヶ月(かげつ)　を　2、3日(にち)　すぎた　ころ　に　は、　彼(かれ)　は　手(て)　や　他(ほか)　の　物体(ぶったい)　が　影(かげ)　の　原因(げんいん)　で　あり、　目(め)　の　前(まえ)　に　ある　壁(かべ)　に　落ち(おち)た　影(かげ)　の　もと　を　後で(あとで)　探そ(さがそ)う　と　する　こと　を　自発的(じはつてき)　に　学ん(まなん)だ。 
 When a few days over nine months, he learnt spontaneously that a hand or other object causing a shadow to fall on the wall in front of him was to be looked for behind. 
 1725-28
 因果関係が存在するとすれば、これは大会参加者やクラブの興隆、ファンサブの消費、ファン指向の強い業界人といったもので計測できるアメリカファンダム内でのアニメ人気のおかげだ。 
@@ -8068,9 +8048,7 @@ Probably at a point in the economic evolution not far subsequent to the definiti
 1726-4
 直系姻族の間では、婚姻をすることができない。第七百二十八条又は第八百十七条の九の規定により姻族関係が終了した後も、同様とする。 
 直系(ちょっけい)　姻族(いんぞく)　の　間(あいだ)　で　は、　婚姻(こんいん)　を　する　こと　が　できない。　第(だい)　七百二十八(ななひゃくにじゅうはち)　条(じょう)　又は(または)　第(だい)　八百十七(はっぴゃくじゅうなな)　条(じょう)　の　九(きゅう)　の　規定(きてい)　に　より　姻族(いんぞく)　関係(かんけい)　が　終了(しゅうりょう)　した　後(あと)　も、　同様(どうよう)　と　する。 
-Lineal relatives by marriage (in-laws) may not marry. This shall also apply after the termination of a relationship by marriage pursuant to the provisions of Article 728 or Article 
-817-9
-(50)  
+Lineal relatives by marriage (in-laws) may not marry. This shall also apply after the termination of a relationship by marriage pursuant to the provisions of Article 728 or Article 817-9
 
 1727-1
 耳鼻咽喉科医。 
@@ -8228,62 +8206,29 @@ I'm just an amateur when it comes to art, but I really like this painting.
 暴漢(ぼうかん)　を　やとって　犯罪(はんざい)　を　犯し(おかし)、　自分(じぶん)　自身(じしん)　は　影(かげ)　に　隠れ(かくれ)て　身(み)　の　安全(あんぜん)　と　名誉(めいよ)　を　護っ(まもっ)た　者(もの)　は　沢山(たくさん)　いた。 
 Men have before hired bravos to transact their crimes, while their own person and reputation sat under shelter. 
 1730-7
-漢字で書いた
-「何時」とは
-「どの時」を意味する。通常この言葉は平仮名を使って
-「いつ」と書く。 
-漢字(かんじ)　で　書い(かい)た　
-「何時(いつ)」　と　は　
-「どの　時(とき)」　を　意味(いみ)　する。　通常(つうじょう)　この　言葉(ことば)　は　平仮名(ひらがな)　を　使っ(つかっ)て　
-「いつ」　と　書く(かく)。 
+漢字で書いた「何時」とは「どの時」を意味する。通常この言葉は平仮名を使って「いつ」と書く。 
+漢字(かんじ)　で　書い(かい)た　「何時(いつ)」　と　は　「どの　時(とき)」　を　意味(いみ)　する。　通常(つうじょう)　この　言葉(ことば)　は　平仮名(ひらがな)　を　使っ(つかっ)て　「いつ」　と　書く(かく)。 
 The kanji spelling of "when" denotes "which time". This word is usually written in hiragana. 
 1730-8
-漢字で書いた
-「何処」とは
-「どの所」を意味する。通常この言葉は平仮名を使って
-「どこ」と書く。 
-漢字(かんじ)　で　書い(かい)た　
-「何処(どこ)」　と　は　
-「どの　所(ところ)」　を　意味(いみ)　する。　通常(つうじょう)　この　言葉(ことば)　は　平仮名(ひらがな)　を　使っ(つかっ)て　
-「どこ」　と　書く(かく)。 
+漢字で書いた「何処」とは「どの所」を意味する。通常この言葉は平仮名を使って「どこ」と書く。 
+漢字(かんじ)　で　書い(かい)た　「何処(どこ)」　と　は　「どの　所(ところ)」　を　意味(いみ)　する。　通常(つうじょう)　この　言葉(ことば)　は　平仮名(ひらがな)　を　使っ(つかっ)て　「どこ」　と　書く(かく)。 
 The kanji spelling of "where" denotes "which place". This word is usually written in hiragana. 
 1730-9
-漢字で書いた
-「彼処」とは
-「あの所」を意味する。通常この言葉は平仮名を使って
-「あそこ」と書く。 
-漢字(かんじ)　で　書い(かい)た　
-「彼処(あそこ)」　と　は　
-「あの　所(ところ)」　を　意味(いみ)　する。　通常(つうじょう)　この　言葉(ことば)　は　平仮名(ひらがな)　を　使っ(つかっ)て　
-「あそこ」　と　書く(かく)。 
+漢字で書いた「彼処」とは「あの所」を意味する。通常この言葉は平仮名を使って「あそこ」と書く。 
+漢字(かんじ)　で　書い(かい)た　「彼処(あそこ)」　と　は　「あの　所(ところ)」　を　意味(いみ)　する。　通常(つうじょう)　この　言葉(ことば)　は　平仮名(ひらがな)　を　使っ(つかっ)て　「あそこ」　と　書く(かく)。 
 The kanji spelling of "over there" denotes "that (distant) place". This word is usually written in hiragana. 
 1730-10
 伝統的な漢方薬において、体の陰と陽のバランスは、健康にとって不可欠であると考えられている。 
 伝統的(でんとうてき)　な　漢方薬(かんぽうやく)　において、　体(からだ)　の　陰(いん)　と　陽(よう)　の　バランス　は、　健康(けんこう)　に　とって　不可欠(ふかけつ)　で　ある　と　考え(かんがえ)られて　いる。 
 In traditional Chinese medicine the balance of negative and positive in the body is believed to be essential for good health. 
 1730-11
-漢字で書いた
-「何故」とは
-「どの故」を意味する。通常この言葉は平仮名を使って
-「なぜ」と書く。 
-漢字(かんじ)　で　書い(かい)た　
-「何故(なぜ)」　と　は　
-「どの　故(ゆえ)」　を　意味(いみ)　する。　通常(つうじょう)　この　言葉(ことば)　は　平仮名(ひらがな)　を　使っ(つかっ)て　
-「なぜ」　と　書く(かく)。 
+漢字で書いた「何故」とは「どの故」を意味する。通常この言葉は平仮名を使って「なぜ」と書く。 
+漢字(かんじ)　で　書い(かい)た　「何故(なぜ)」　と　は　「どの　故(ゆえ)」　を　意味(いみ)　する。　通常(つうじょう)　この　言葉(ことば)　は　平仮名(ひらがな)　を　使っ(つかっ)て　「なぜ」　と　書く(かく)。 
 The kanji spelling of "why" denotes "which reason". This word is usually written in hiragana. 
 1730-12
-漢字で書いた
-「何方」とは
-「どの方」又は
-「どの方」を意味する。通常この言葉は平仮名を使って
-「どちら」と書く。 
-漢字(かんじ)　で　書い(かい)た　
-「何方(どちら)」　と　は　
-「どの　方(ほう)」　又は(または)　
-「どの　方(かた)」　を　意味(いみ)　する。　通常(つうじょう)　この　言葉(ことば)　は　平仮名(ひらがな)　を　使っ(つかっ)て　
-「どちら」　と　書く(かく)。 
+漢字で書いた「何方」とは「どの方」又は「どの方」を意味する。通常この言葉は平仮名を使って「どちら」と書く。 
+漢字(かんじ)　で　書い(かい)た　「何方(どちら)」　と　は　「どの　方(ほう)」　又は(または)　「どの　方(かた)」　を　意味(いみ)　する。　通常(つうじょう)　この　言葉(ことば)　は　平仮名(ひらがな)　を　使っ(つかっ)て　「どちら」　と　書く(かく)。 
 The kanji spelling of "which way"/"who" (polite) denotes "which way" or "which person". This word is usually written in hiragana. 
-1731-174 
 
 1731-1
 恐ろしい嘆き。 
@@ -8355,10 +8300,8 @@ When writing a sentence, generally you start with a capital letter and finish wi
 この　よう　な　圧制(あっせい)　の　あらゆる　段階(だんかい)　で、　我々(われわれ)　は　できる　限り(かぎり)　丁寧(ていねい)　な　言葉(ことば)　で、　それら　が　取消さ(とりけさ)れる　こと　を　嘆願(たんがん)　して　きた。 
 In every stage of these Oppressions We have Petitioned for Redress in the most humble terms. 
 1731-18
-子供は
-「あぁ」という言葉―最初この言葉は、人の存在や鏡の中の自分を見た時に、驚いた時に私たちが使うような感嘆音として使っていた―も使った。 
-子供(こども)　は　
-「あぁ」　という　言葉(ことば)　―　最初(さいしょ)　この　言葉(ことば)　は、　人(ひと)　の　存在(そんざい)　や　鏡(かがみ)　の　中(なか)　の　自分(じぶん)　を　見(み)た　時(とき)　に、　驚い(おどろい)た　時(とき)　に　私(わたし)たち　が　使う(つかう)　よう　な　感嘆(かんたん)　音(おん)　として　使っ(つかっ)て　いた　―　も　使っ(つかっ)た。 
+子供は「あぁ」という言葉―最初この言葉は、人の存在や鏡の中の自分を見た時に、驚いた時に私たちが使うような感嘆音として使っていた―も使った。 
+子供(こども)　は　「あぁ」　という　言葉(ことば)　―　最初(さいしょ)　この　言葉(ことば)　は、　人(ひと)　の　存在(そんざい)　や　鏡(かがみ)　の　中(なか)　の　自分(じぶん)　を　見(み)た　時(とき)　に、　驚い(おどろい)た　時(とき)　に　私(わたし)たち　が　使う(つかう)　よう　な　感嘆(かんたん)　音(おん)　として　使っ(つかっ)て　いた　―　も　使っ(つかっ)た。 
 The child also gave to "Ah", which he chiefly used at first when recognising any person or his own image in a mirror, an exclamatory sound, such as we employ when surprised. 
 
 1732-1
@@ -8737,9 +8680,8 @@ Imperiously the judge cut the lawyer short.
 The server interrupted my congratulations. 
 1740-11
 世界中とのすべての地域との貿易を遮断する法律。 
-世界中(せかいじゅう)　と　の　すべて　の　地域(ちいき)　と　の　貿易(ぼうえき)　を　遮断(しゃだん)　する　法律(ほうりつ)。 (
-For) laws cutting off our Trade with all parts of the world. 
-1741-175 
+世界中(せかいじゅう)　と　の　すべて　の　地域(ちいき)　と　の　貿易(ぼうえき)　を　遮断(しゃだん)　する　法律(ほうりつ)。 
+(For) laws cutting off our Trade with all parts of the world. 
 
 1741-1
 燕麦入りのご飯。 
@@ -8775,8 +8717,8 @@ When the moon rose the Swallow flew back to the Happy Prince.
 When day broke, the swallow flew down to the river and had a bath. 
 1741-9
 「燕がどうして家の軒に巣を作るか知ってるかい？」ピーターは尋ねました。 
-「燕(つばめ)　が　どうして　家(いえ)　の　軒(のき)　に　巣(す)　を　作る(つくる)　か　知っ(しっ)てる　かい？」　ピーター　は　尋ね(たずね)ました。 "
-Do you know", Peter asked, "why swallows build in the eaves of houses"? 
+「燕(つばめ)　が　どうして　家(いえ)　の　軒(のき)　に　巣(す)　を　作る(つくる)　か　知っ(しっ)てる　かい？」　ピーター　は　尋ね(たずね)ました。 
+"Do you know", Peter asked, "why swallows build in the eaves of houses"? 
 1741-10
 路の片側にはやや平らかなる土地ありて、野生の燕麦をもって深くおおわれた。 
 路(みち)　の　片側(かたがわ)　に　は　やや　平らか(たいらか)　なる　土地(とち)　ありて、　野生(やせい)　の　燕麦(えんばく)　を　もって　深く(ふかく)　おおわれた。 
@@ -8868,10 +8810,9 @@ The visual quality of tapes started deteriorating as more fans developed in Amer
 同じ(おなじ)　質量(しつりょう)　で　比較(ひかく)　する　と、　劣化(れっか)　ウラン　は　ウラン　の　約(やく)　60%　の　放射能(ほうしゃのう)　を　持っ(もっ)て　いる。 
 For the same mass, depleted uranium has about 60% of the radioactivity of uranium. 
 1743-13
-人間の可溶性劣化ウラン化合物摂取許容量は、一日につき体重1
-kgあたり0.5μgとすべきである。 
-人間(にんげん)　の　可溶性(かようせい)　劣化(れっか)　ウラン　化合物(かごうぶつ)　摂取(せっしゅ)　許容量(きょようりょう)　は、　一日(いちにち)　につき　体重(たいじゅう)　1
-kg(キログラム)　あたり　0.5μg(マイクログラム)　と　すべき　で　ある。 Limitation on human intake of soluble depleted uranium compounds should be based on a tolerable intake value of 0.5 μg per kg of body weight per day. 
+人間の可溶性劣化ウラン化合物摂取許容量は、一日につき体重1kgあたり0.5μgとすべきである。 
+人間(にんげん)　の　可溶性(かようせい)　劣化(れっか)　ウラン　化合物(かごうぶつ)　摂取(せっしゅ)　許容量(きょようりょう)　は、　一日(いちにち)　につき　体重(たいじゅう)　1kg(キログラム)　あたり　0.5μg(マイクログラム)　と　すべき　で　ある。 
+Limitation on human intake of soluble depleted uranium compounds should be based on a tolerable intake value of 0.5 μg per kg of body weight per day. 
 「〜につき」　{〜に付き* 64} ["per __"]: DJG v2 p283. 
 1743-14
 劣化ウランについては、軍による使用だけが、環境レベルに重要な影響を与えうると言っていいだろう。 
@@ -8904,10 +8845,9 @@ Not only is the immediate consciousness of the achievement of a purpose gratifyi
 Where possible, clean-up operations in conflict impact zones should be undertaken where there are substantial numbers of radioactive particles remaining and depleted uranium contamination levels are deemed unacceptable by qualified experts. 
 「なす」　{為す* 1236} ["(to) effect" (i.e., bring about, realize, perform, etc.)]: DJG v3 p365. 
 1743-21
-不溶性劣化ウランの許容量は化学作用と放射線量の両方によって決まり、それは放射線防護に関する国際基本安全基準〚
-BSS: 
-
-Basic Safety Standards〛に従うべきである。 不溶性(ふようせい)　劣化(れっか)　ウラン　の　許容量(きょようりょう)　は　化学(かがく)　作用(さよう)　と　放射線量(ほうしゃせんりょう)　の　両方(りょうほう)　に　よって　決まり(きまり)、　それ　は　放射線(ほうしゃせん)　防護(ぼうご)　に関する(にかんする)　国際(こくさい)　基本(きほん)　安全(あんぜん)　基準(きじゅん)　〚BSS: Basic Safety Standards〛　に　従う(したがう)　べき　で　ある。 The intake of insoluble depleted uranium compounds should be based on both chemical effects and the radiation dose limits prescribed in the International Basic Safety Standards (BSS) on radiation protection. 
+不溶性劣化ウランの許容量は化学作用と放射線量の両方によって決まり、それは放射線防護に関する国際基本安全基準〚BSS: Basic Safety Standards〛に従うべきである。 
+不溶性(ふようせい)　劣化(れっか)　ウラン　の　許容量(きょようりょう)　は　化学(かがく)　作用(さよう)　と　放射線量(ほうしゃせんりょう)　の　両方(りょうほう)　に　よって　決まり(きまり)、　それ　は　放射線(ほうしゃせん)　防護(ぼうご)　に関する(にかんする)　国際(こくさい)　基本(きほん)　安全(あんぜん)　基準(きじゅん)　〚BSS: Basic Safety Standards〛　に　従う(したがう)　べき　で　ある。 
+The intake of insoluble depleted uranium compounds should be based on both chemical effects and the radiation dose limits prescribed in the International Basic Safety Standards (BSS) on radiation protection. 
 
 1744-1
 付則〚平成一八年法律第一〇六号〛抄。 
@@ -8918,7 +8858,8 @@ Supplementary Provisions (Act No. 106 of 2006) Extract.
 これ　は　凝縮(ぎょうしゅく)　されて　書か(かか)れた　抄録(しょうろく)　に　過ぎ(すぎ)ない。 
 This is just a condensed written abstract. 
 1744-3
-1921年にアーサー・ウェイリーが源氏物語の英語抄訳を出版した。 1921年(ねん)　に　アーサー・ウェイリー　が　源氏物語(げんじものがたり)　の　英語(えいご)　抄訳(しょうやく)　を　出版(しゅっぱん)　した。 
+1921年にアーサー・ウェイリーが源氏物語の英語抄訳を出版した。 
+1921年(ねん)　に　アーサー・ウェイリー　が　源氏物語(げんじものがたり)　の　英語(えいご)　抄訳(しょうやく)　を　出版(しゅっぱん)　した。 
 Arthur Waley published an abridged English translation of the Tales of Genji in 1921. 
 1744-4
 裁判の執行の指揮は、書面でこれをし、これに裁判を記載した調書の抄本を添えなければならない。 
@@ -9129,7 +9070,6 @@ The cook stir-fried some onions and garlic over low heat.
 炒める前に、必ず豚肉の切り身にパン粉をつけて下さい。 
 炒める(いためる)　前(まえ)　に、　必ず(かならず)　豚肉(ぶたにく)　の　切り身(きりみ)　に　パン粉(ぱんこ)　を　つけて　下さい(ください)。 
 Please make sure to bread the pork chops before frying them. 
-1751-176 
 
 1751-1
 とろ火で暫く豆を炊いて下さい。 
@@ -9230,10 +9170,8 @@ The widow leapt into the funeral pyre.
 薪載せ台(たきぎのせだい)　は　触れる(ふれる)　こと　が　できない　くらい　熱かっ(あつかっ)た　です。 
 The andirons were too hot to touch. 
 1753-7
-葬式の時に死体を焼くために積まれた薪は
-「火葬用の薪」と言う。 
-葬式(そうしき)　の　時(とき)　に　死体(したい)　を　焼く(やく)　ため　に　積ま(つま)れた　薪(たきぎ)　は　
-「火葬用(かそうよう)　の　薪(たきぎ)」　と　言う(いう)。 
+葬式の時に死体を焼くために積まれた薪は「火葬用の薪」と言う。 
+葬式(そうしき)　の　時(とき)　に　死体(したい)　を　焼く(やく)　ため　に　積ま(つま)れた　薪(たきぎ)　は　「火葬用(かそうよう)　の　薪(たきぎ)」　と　言う(いう)。 
 Wood heaped for burning a dead body as a funeral rite is called a "funeral pyre". 
 1753-8
 消防士は、無鉄砲な高潔の念から、薪のところに突き進もうとしていたのだ。 
@@ -9316,26 +9254,12 @@ This was a matter so beset with difficulties that it was the ruin of many empero
 此(こ)れら　の　事(こと)　は　私(わたし)　に　は　余り(あまり)　に　問題(もんだい)　が　多(おお)すぎて、　判断(はんだん)　が　出来(でき)ない　の　です。 
 It was altogether too much for me, and I could make no sense of it. 
 1756-5
-漢字で書いた
-「此処」とは
-「この所」を意味する。通常この言葉は平仮名を使って
-「ここ」と書く。 
-漢字(かんじ)　で　書い(かい)た　
-「此処(ここ)」　と　は　
-「この　所(ところ)」　を　意味(いみ)　する。　通常(つうじょう)　この　言葉(ことば)　は　平仮名(ひらがな)　を　使っ(つかっ)て　
-「ここ」　と　書く(かく)。 
+漢字で書いた「此処」とは「この所」を意味する。通常この言葉は平仮名を使って「ここ」と書く。 
+漢字(かんじ)　で　書い(かい)た　「此処(ここ)」　と　は　「この　所(ところ)」　を　意味(いみ)　する。　通常(つうじょう)　この　言葉(ことば)　は　平仮名(ひらがな)　を　使っ(つかっ)て　「ここ」　と　書く(かく)。 
 The kanji spelling of "here" denotes "this place". This word is usually written in hiragana. 
 1756-6
-漢字で書いた
-「此方」とは
-「この方」又は
-「この方」を意味する。通常この言葉は平仮名を使って
-「こちら」と書く。 
-漢字(かんじ)　で　書い(かい)た　
-「此方(こちら)」　と　は　
-「この　方(ほう)」　又は(または)　
-「この　方(かた)」　を　意味(いみ)　する。　通常(つうじょう)　この　言葉(ことば)　は　平仮名(ひらがな)　を　使っ(つかっ)て　
-「こちら」　と　書く(かく)。 
+漢字で書いた「此方」とは「この方」又は「この方」を意味する。通常この言葉は平仮名を使って「こちら」と書く。 
+漢字(かんじ)　で　書い(かい)た　「此方(こちら)」　と　は　「この　方(ほう)」　又は(または)　「この　方(かた)」　を　意味(いみ)　する。　通常(つうじょう)　この　言葉(ことば)　は　平仮名(ひらがな)　を　使っ(つかっ)て　「こちら」　と　書く(かく)。 
 The kanji spelling of "this way"/"I" (polite) denotes "this way" or "this person". This word is usually written in hiragana. 
 1756-7
 此れは、総じて、精細な問題で、多くの様々な考察を視野に入れておかねばならないし、また絶対的法則を立てる事もできないのです。 
@@ -9377,14 +9301,8 @@ On either side was a tangerine grove filled with yellow fruit taking in the suns
 其の(その)　家(いえ)　の　人間(にんげん)　に　根づい(ねづい)て　いる、　奇妙(きみょう)　に　陰暗(いんあん)　な、　野性的(やせいてき)　な　自尊心(じそんしん)　は　揺るぐ(ゆるぐ)　こと　は　なかった。 
 Nothing could shake the curious sullen, animal pride that dominated each member of that family. 
 1757-7
-漢字で書いた
-「其処」とは
-「その所」を意味する。通常この言葉は平仮名を使って
-「そこ」と書く。 
-漢字(かんじ)　で　書い(かい)た　
-「其処(そこ)」　と　は　
-「その　所(ところ)」　を　意味(いみ)　する。　通常(つうじょう)　この　言葉(ことば)　は　平仮名(ひらがな)　を　使っ(つかっ)て　
-「そこ」　と書く(かく)。 
+漢字で書いた「其処」とは「その所」を意味する。通常この言葉は平仮名を使って「そこ」と書く。 
+漢字(かんじ)　で　書い(かい)た　「其処(そこ)」　と　は　「その　所(ところ)」　を　意味(いみ)　する。　通常(つうじょう)　この　言葉(ことば)　は　平仮名(ひらがな)　を　使っ(つかっ)て　「そこ」　と書く(かく)。 
 The kanji spelling of "there" denotes "that place". This word is usually written in hiragana. 
 1757-8
 と同時に土工たちは、身軽にトラックを飛び降りるが早いか、其の線路の終点へ車の土をぶちまける。 
@@ -9395,16 +9313,8 @@ At which point the workmen would at once leap down from the truck and immediatel
 其方(そちら)　の　友人(ゆうじん)たる　紳士(しんし)、　かかる　重要事(じゅうようごと)　を　うち明ける(あける)　に　足る(たる)、　誠に(まことに)　分別(ふんべつ)　信義(しんぎ)　を　備え(そなえ)た　男(おとこ)　で　あろう　な？ 
 I understand that this gentleman, your friend, is a man of honour and discretion, whom I may trust with a matter of the most extreme importance. 
 1757-10
-漢字で書いた
-「其方」とは
-「その方」又は
-「その方」を意味する。通常この言葉は平仮名を使って
-「そちら」と書く。 
-漢字(かんじ)　で　書い(かい)た　
-「其方(そちら)」　と　は　
-「その　方(ほう)」　又は(または)　
-「その　方(かた)」　を　意味(いみ)　する。　通常(つうじょう)　この　言葉(ことば)　は　平仮名(ひらがな)　を　使っ(つかっ)て　
-「そちら」　と　書く(かく)。 
+漢字で書いた「其方」とは「その方」又は「その方」を意味する。通常この言葉は平仮名を使って「そちら」と書く。 
+漢字(かんじ)　で　書い(かい)た　「其方(そちら)」　と　は　「その　方(ほう)」　又は(または)　「その　方(かた)」　を　意味(いみ)　する。　通常(つうじょう)　この　言葉(ことば)　は　平仮名(ひらがな)　を　使っ(つかっ)て　「そちら」　と　書く(かく)。 
 The kanji spelling of "that way"/"you" (polite) denotes "that way" or "that person". This word is usually written in hiragana. 
 
 1758-1
@@ -9758,10 +9668,8 @@ To give any fair play to the nature of each, it is essential that different pers
 彼女(かのじょ)　は　道徳上(どうとくじょう)　の　諸(しょ)　問題(もんだい)　を　肉切り(にくきり)　職人(しょくにん)　が　肉(にく)　を　扱う(あつかう)　よう　に　扱っ(あつかっ)た。　この　問題(もんだい)　において　彼女(かのじょ)　は　心(こころ)　を　決め(きめ)て　いた　の　だ。 
 She dealt with moral problems as a cleaver deals with meat - and in this case she had made up her mind. 
 1761-18
-一部の歴史記述は、ファンサブ屋や流通者たちを
-「テープ交換者たち」と一緒くたに扱い、当時の複雑さを単純化している。 
-一部(いちぶ)　の　歴史(れきし)　記述(きじゅつ)　は、　ファンサブ屋(や)　や　流通者(りゅうつうしゃ)たち　を　
-「テープ　交換者(こうかんしゃ)　たち」　と　一緒くた(いっしょくた)　に　扱い(あつかい)、　当時(とうじ)　の　複雑(ふくざつ)さ　を　単純化(たんじゅんか)　して　いる。 
+一部の歴史記述は、ファンサブ屋や流通者たちを「テープ交換者たち」と一緒くたに扱い、当時の複雑さを単純化している。 
+一部(いちぶ)　の　歴史(れきし)　記述(きじゅつ)　は、　ファンサブ屋(や)　や　流通者(りゅうつうしゃ)たち　を　「テープ　交換者(こうかんしゃ)　たち」　と　一緒くた(いっしょくた)　に　扱い(あつかい)、　当時(とうじ)　の　複雑(ふくざつ)さ　を　単純化(たんじゅんか)　して　いる。 
 Certain histories have lumped fansubbers and distributors together as "tape-traders", a term that simplifies the complexities of the period. 
 1761-19
 ファーストセール基本方針によれば、著作権作品が固定された材質は財産として扱われ、売買、貸与、賃貸を著作権保持者の許可なく行うことができる。 
@@ -9801,8 +9709,9 @@ Murder in the second degree.
 労働者(ろうどうしゃ)　階級(かいきゅう)。 
 The working class. 
 1762-6
-
-A等級の牛乳。 A　等級(とうきゅう)　の　牛乳(ぎゅうにゅう)。 Grade A milk. 
+A等級の牛乳。 
+A　等級(とうきゅう)　の　牛乳(ぎゅうにゅう)。 
+Grade A milk. 
 1762-7
 最上級の材木。 
 最上級(さいじょうきゅう)　の　材木(ざいもく)。 
@@ -9861,7 +9770,8 @@ His attacks spared neither caste nor rank.
 政治家(せいじか)　は、　彼(かれ)　の　裕福(ゆうふく)　な　上流(じょうりゅう)　階級(かいきゅう)　の　背景(はいけい)　を　隠そ(かくそ)う　と　した。 
 The politician tried to hide his white-shoe background. 
 1762-21
-15年前に卒業して以来私は昔の級友に会ったことがない。 15年(ねん)　前(まえ)　に　卒業(そつぎょう)　して　以来(いらい)　私(わたし)　は　昔(むかし)　の　級友(きゅうゆう)　に　会っ(あっ)た　こと　が　ない。 
+15年前に卒業して以来私は昔の級友に会ったことがない。 
+15年(ねん)　前(まえ)　に　卒業(そつぎょう)　して　以来(いらい)　私(わたし)　は　昔(むかし)　の　級友(きゅうゆう)　に　会っ(あっ)た　こと　が　ない。 
 I haven't seen any of my old classmates since I graduated 15 years ago. 
 1762-22
 その遅れは私たちに高級ホテルでの宿泊を余儀なくさせた。 
@@ -9989,10 +9899,9 @@ Soluble uranium compounds are more readily absorbed than insoluble ones.
 価値(かち)　ある　贈り物(おくりもの)　が　できる　よう　に　なる　為(ため)　に　は、　人(ひと)　は　相当(そうとう)　量(りょう)　の　技術的(ぎじゅつてき)　な　知識(ちしき)　を　吸収(きゅうしゅう)　しなくて　は　ならない。 
 One must absorb a good deal of technical knowledge before one can give valued gifts. 
 1763-19
-公衆による可溶性または不溶性の劣化ウラン化合物の吸引は、吸入可能粒子において1μ
-g/m3を超過すべきでない。 
-公衆(こうしゅう)　に　よる　可溶性(かようせい)　または　不溶性(ふようせい)　の　劣化(れっか)　ウラン　化合物(かごうぶつ)　の　吸引(きゅういん)　は、　吸入(きゅうにゅう)　可能(かのう)　粒子(りゅうし)　において　1μ
-g(マイクログラム)　/　m3(へいほうメートル)　を　超過(ちょうか)　すべき　で　ない。 Inhalation of soluble or insoluble depleted uranium compounds by the public should not exceed 1 μg/m3 in the respirable fraction. 
+公衆による可溶性または不溶性の劣化ウラン化合物の吸引は、吸入可能粒子において1μg/m3を超過すべきでない。 
+公衆(こうしゅう)　に　よる　可溶性(かようせい)　または　不溶性(ふようせい)　の　劣化(れっか)　ウラン　化合物(かごうぶつ)　の　吸引(きゅういん)　は、　吸入(きゅうにゅう)　可能(かのう)　粒子(りゅうし)　において　1μg(マイクログラム)　/　m3(へいほうメートル)　を　超過(ちょうか)　すべき　で　ない。 
+Inhalation of soluble or insoluble depleted uranium compounds by the public should not exceed 1 μg/m3 in the respirable fraction. 
 
 1764-1
 一晩中嵐が吹いていた。 
@@ -10039,10 +9948,8 @@ A worker sandblasted the facade of the building.
 巡礼者(じゅんれいしゃ)　の　一人(ひとり)　は　調子外れ(ちょうしはずれ)　に　笛(ふえ)　を　吹い(ふい)た。 
 One of the pilgrims tunelessly played a flute. 
 1764-12
-ストリームラインは
-「吹き替え対字幕」論争の矢面に立たされた。 
-ストリームライン　は　
-「吹き替え(ふきかえ)　対(たい)　字幕(じまく)」　論争(ろんそう)　の　矢面(やおもて)　に　立たさ(たたさ)れた。 
+ストリームラインは「吹き替え対字幕」論争の矢面に立たされた。 
+ストリームライン　は　「吹き替え(ふきかえ)　対(たい)　字幕(じまく)」　論争(ろんそう)　の　矢面(やおもて)　に　立たさ(たたさ)れた。 
 Streamline was the center of attention in the "dub-versus-sub" debate. 
 1764-13
 彼らは彼が自分の受けた優れた教育を吹聴していると思うだろう。 
@@ -10161,8 +10068,8 @@ The mayor has called for more public participation.
 The Osaka motorcycle gangs truly inspire fear. 
 1765-15
 「陛下」は、王に呼びかけるときに使う適切な呼称である。 
-「陛下(へいか)」　は、　王(おう)　に　呼びかける(よびかける)　とき　に　使う(つかう)　適切(てきせつ)　な　呼称(こしょう)　で　ある。 ‘
-Your majesty' is the appropriate title to use in addressing a king. 
+「陛下(へいか)」　は、　王(おう)　に　呼びかける(よびかける)　とき　に　使う(つかう)　適切(てきせつ)　な　呼称(こしょう)　で　ある。 
+‘Your majesty' is the appropriate title to use in addressing a king. 
 1765-16
 第一部の終わりは若い女優による、感動を呼ぶ愛国的な朗唱だった。 
 第一部(だいいちぶ)　の　終わり(おわり)　は　若い(わかい)　女優(じょゆう)　に　よる、　感動(かんどう)　を　呼ぶ(よぶ)　愛国的(あいこくてき)　な　朗唱(ろうしょう)　だった。 
@@ -10249,7 +10156,8 @@ The iron foundries, edge-tool factories and high chimneys puffed clouds of black
 激痛(げきつう)　が　体(からだ)　を　走り(はしり)、　骨(ほね)　は　きしみ、　吐き気(はきけ)　が　して、　生まれ(うまれ)たり　死ん(しん)だり　する　時(とき)　に　も　劣ら(おとら)ない　精神(せいしん)　の　恐怖(きょうふ)　が　訪れ(おとずれ)た。 
 The most racking pangs succeeded: a grinding in the bones, deadly nausea, and a horror of the spirit that cannot be exceeded at the hour of birth or death. 
 1766-19
-1857年にコーンウォール郡の夏季裁判所で、日常生活の諸事にわたって申し分のない不幸な男が、キリスト教に関する無礼な言葉を吐き散らしたというので、二十一ヶ月の禁固刑の判決を受けました。 1857年(ねん)　に　コーンウォール　郡(ぐん)　の　夏季(かき)　裁判所(さいばんしょ)　で、　日常(にちじょう)　生活(せいかつ)　の　諸事(しょじ)　に　わたって　申し分(もうしぶん)　の　ない　不幸(ふこう)　な　男(おとこ)　が、　キリスト教(きょう)　に関する(にかんする)　無礼(ぶれい)　な　言葉(ことば)　を　吐き散らし(はきちらし)た　と　いう　ので、　二十一ヶ月(にじゅういっかげつ)　の　禁固刑(きんこけい)　の　判決(はんけつ)　を　受け(うけ)ました。 
+1857年にコーンウォール郡の夏季裁判所で、日常生活の諸事にわたって申し分のない不幸な男が、キリスト教に関する無礼な言葉を吐き散らしたというので、二十一ヶ月の禁固刑の判決を受けました。 
+1857年(ねん)　に　コーンウォール　郡(ぐん)　の　夏季(かき)　裁判所(さいばんしょ)　で、　日常(にちじょう)　生活(せいかつ)　の　諸事(しょじ)　に　わたって　申し分(もうしぶん)　の　ない　不幸(ふこう)　な　男(おとこ)　が、　キリスト教(きょう)　に関する(にかんする)　無礼(ぶれい)　な　言葉(ことば)　を　吐き散らし(はきちらし)た　と　いう　ので、　二十一ヶ月(にじゅういっかげつ)　の　禁固刑(きんこけい)　の　判決(はんけつ)　を　受け(うけ)ました。 
 In the year 1857, at the summer court of the county of Cornwall, an unfortunate man, said to be of unexceptionable conduct in all relations of life, was sentenced to twenty-one months' imprisonment, for uttering some offensive words concerning Christianity. 
 
 1767-1
@@ -10447,7 +10355,6 @@ Many noble persons went to Akamagaseki to hear Koichi recite.
 自分の個人の行為を、この律法に照らして導き、吟味しているキリスト教徒は、千人のうち一人にも満たないのです。 
 自分(じぶん)　の　個人(こじん)　の　行為(こうい)　を、　この　律法(りっぽう)　に　照らし(てらし)て　導き(みちびき)、　吟味(ぎんみ)　して　いる　キリスト　教徒(きょうと)　は、　千人(せんにん)　の　うち　一人(ひとり)　に　も　満た(みた)ない　の　です。 
 Not one Christian in a thousand guides or tests his individual conduct by reference to those laws. 
-1771-178 
 
 1771-1
 含油頁岩。 
@@ -10514,12 +10421,8 @@ This new system subsumes the old one.
 文書(ぶんしょ)　は、　信仰(しんこう)　の　自由(じゆう)　の　特に(とくに)　強調(きょうちょう)　された　保証(ほしょう)　を　含ん(ふくん)だ。 
 The document contained a particularly emphatic guarantee of religious liberty. 
 1771-17
-漢字で書いた
-「貴方」とは尊敬を含めた
-「貴」という字を含む。 
-漢字(かんじ)　で　書い(かい)た　
-「貴方(あなた)」　と　は　尊敬(そんけい)　を　含め(ふくめ)た　
-「貴(き)」　という　字(じ)　を　含む(ふくむ)。 
+漢字で書いた「貴方」とは尊敬を含めた「貴」という字を含む。 
+漢字(かんじ)　で　書い(かい)た　「貴方(あなた)」　と　は　尊敬(そんけい)　を　含め(ふくめ)た　「貴(き)」　という　字(じ)　を　含む(ふくむ)。 
 The kanji spelling of "you" includes a respectful character meaning "precious". 
 1771-18
 彼女は司祭の所へ行き、子供たちの保護も含めて彼とは別居した。 
@@ -10535,12 +10438,8 @@ The Coroner's report included his interpretation of the forensic evidence.
 To stay healthy, avoid eating any food with unpronounceable ingredients. 
 「いっさい〜ない」　{一切〜ない　2; 86} ["no __ whatsoever"]: DJG v3 p159. 
 1771-21
-日本法では、保護対象となる
-「映画の著作物」を含む
-「著作物」を保護対象としている。 
-日本(にほん)　法(ほう)　で　は、　保護(ほご)　対象(たいしょう)　と　なる　
-「映画(えいが)　の　著作物(ちょさくぶつ)」　を　含む(ふくむ)　
-「著作物(ちょさくぶつ)」　を　保護(ほご)　対象(たいしょう)　と　して　いる。 
+日本法では、保護対象となる「映画の著作物」を含む「著作物」を保護対象としている。 
+日本(にほん)　法(ほう)　で　は、　保護(ほご)　対象(たいしょう)　と　なる　「映画(えいが)　の　著作物(ちょさくぶつ)」　を　含む(ふくむ)　「著作物(ちょさくぶつ)」　を　保護(ほご)　対象(たいしょう)　と　して　いる。 
 Japanese law qualifies "works", including "cinematographic works", as valid for protection. 
 1771-22
 通常はファンサブ集団には翻訳家、編集、タイプセッター、一次流通者をそれぞれ一人以上含む。 
@@ -10563,22 +10462,16 @@ A translation booklet would usually be twenty-five to thirty pages with the enti
 食品(しょくひん)　及び(および)　飲料水(いんりょうすい)　に　含ま(ふくま)れる　ウラン　の　うち、　消化(しょうか)　器官(きかん)　に　よって　吸収(きゅうしゅう)　される　の　は、　通常(つうじょう)　0.2　から　2%　で　ある。 
 Typically between 0.2 and 2% of the uranium in food and water is absorbed by the gastrointestinal tract. 
 1771-27
-その時期でさえ、大学のアニメ部は厳密には第110条の
-「対面教育活動」という記述には含まれないだろう。 
-その　時期(じき)　で　さえ、　大学(だいがく)　の　アニメ　部(ぶ)　は　厳密(げんみつ)　に　は　第(だい)　110条(じょう)　の　
-「対面(たいめん)　教育(きょういく)　活動(かつどう)」　という　記述(きじゅつ)　に　は　含ま(ふくま)れない　だろう。 
+その時期でさえ、大学のアニメ部は厳密には第110条の「対面教育活動」という記述には含まれないだろう。 
+その　時期(じき)　で　さえ、　大学(だいがく)　の　アニメ　部(ぶ)　は　厳密(げんみつ)　に　は　第(だい)　110条(じょう)　の　「対面(たいめん)　教育(きょういく)　活動(かつどう)」　という　記述(きじゅつ)　に　は　含ま(ふくま)れない　だろう。 
 Even then, college-based anime clubs would probably not qualify under the strict description of "face-to-face teaching activities" in Section 110. 
 1771-28
 著作権の保有、あるいは著作権の下にあるすべての独占権の保有は、その作品が包含されている物質財の保有とは別である。 
 著作権(ちょさくけん)　の　保有(ほゆう)、　あるいは　著作権(ちょさくけん)　の　下(もと)　に　ある　すべて　の　独占権(どくせんけん)　の　保有(ほゆう)　は、　その　作品(さくひん)　が　包含(ほうがん)　されて　いる　物質(ぶっしつ)　財(ざい)　の　保有(ほゆう)　と　は　別(べつ)　で　ある。 
 Ownership of a copyright, or of any of the exclusive rights under a copyright, is distinct from ownership of any material object in which the work is embodied. 
 1771-29
-法律は個人的、家族、または
-「その他これに準ずる限られた範囲内」〚
-「私的使用」と呼ばれる〛、引用〚画像の引用も含む〛、営利を目的としない上演等、一部作品の翻訳が含まれる。 
-法律(ほうりつ)　は　個人的(こじんてき)、　家族(かぞく)、　または　
-「その　他(た)　これ　に　準ずる(じゅんずる)　限ら(かぎら)れた　範囲(はんい)　内(ない)」　〚
-「私的(してき)　使用(しよう)」　と　呼ば(よば)れる〛、　引用(いんよう)　〚画像(がぞう)　の　引用(いんよう)　も　含む(ふくむ)〛、　営利(えいり)　を　目的(もくてき)　と　しない　上演(じょうえん)　等(など)、　一部(いちぶ)　作品(さくひん)　の　翻訳(ほんやく)　が　含ま(ふくま)れる。 
+法律は個人的、家族、または「その他これに準ずる限られた範囲内」〚「私的使用」と呼ばれる〛、引用〚画像の引用も含む〛、営利を目的としない上演等、一部作品の翻訳が含まれる。 
+法律(ほうりつ)　は　個人的(こじんてき)、　家族(かぞく)、　または　「その　他(た)　これ　に　準ずる(じゅんずる)　限ら(かぎら)れた　範囲(はんい)　内(ない)」　〚「私的(してき)　使用(しよう)」　と　呼ば(よば)れる〛、　引用(いんよう)　〚画像(がぞう)　の　引用(いんよう)　も　含む(ふくむ)〛、　営利(えいり)　を　目的(もくてき)　と　しない　上演(じょうえん)　等(など)、　一部(いちぶ)　作品(さくひん)　の　翻訳(ほんやく)　が　含ま(ふくま)れる。 
 The law permits reproduction for personal, family, or "limited circle" use (called "private use"), quotations (including pictorial quotations), performances for non-profit functions, and translations for certain classes of works. 
 1771-30
 日本国の当局及び合衆国の軍当局は、犯罪についてのすべての必要な捜査の実施並びに証拠の収集及び提出〚犯罪に関連する物件の押収及び相当な場合にはその引渡しを含む〛について、相互に援助しなければならない。 
@@ -10758,7 +10651,8 @@ The rebel was ultimately captured and confined to jail.
 割り算(わりざん)　【除法(じょほう)】　は　掛け算(かけざん)　【乗法(じょうほう)】　の　逆(ぎゃく)　で　ある　算術(さんじゅつ)　演算(えんざん)　で　ある。 
 Division is an arithmetic operation that is the inverse of multiplication. 
 1775-14
-1960年代は確立された伝統に対する若年層の反逆が見られた。 1960年代(ねんだい)　は　確立(かくりつ)　された　伝統(でんとう)　に対する(にたいする)　若年層(じゃくねんそう)　の　反逆(はんぎゃく)　が　見(み)られた。 
+1960年代は確立された伝統に対する若年層の反逆が見られた。 
+1960年代(ねんだい)　は　確立(かくりつ)　された　伝統(でんとう)　に対する(にたいする)　若年層(じゃくねんそう)　の　反逆(はんぎゃく)　が　見(み)られた。 
 The 1960's saw the rebellion of the younger generation against established traditions. 
 1775-15
 国によっては、国家反逆罪の刑罰が終身刑ということもあり得る。 
@@ -10899,7 +10793,6 @@ While they were talking, Helen came forth from her fragrant chamber, like a Godd
 暴力、圧迫、不正、人種主義、性差別、その他あまり芳しくない人間行動によって、我々が今送っているような生活が形成されてきたのかもしれない。 
 暴力(ぼうりょく)、　圧迫(あっぱく)、　不正(ふせい)、　人種主義(じんしゅしゅぎ)、　性差別(せいさべつ)、　その　他(た)　あまり　芳しく(かんばしく)ない　人間(にんげん)　行動(こうどう)　に　よって、　我々(われわれ)　が　今(いま)　送っ(おくっ)て　いる　よう　な　生活(せいかつ)　が　形成(けいせい)　されて　きた　の　かも　しれない。 
 Violence, oppression, injustice, racism, sexism and other unsavory patterns of human behavior may have allowed us to enjoy the lives we now live. 
-1781-179 
 
 1781-1
 香料入りの石鹸×。 
@@ -11101,8 +10994,9 @@ To give advice or offer inducements to any one, is a social act, and may, theref
 実業家(じつぎょうか)　は　誘拐犯(ゆうかいはん)　から　息子(むすこ)　を　取り戻し(とりもどし)た。 
 The industrialist got back his son from the kidnappers. 
 1784-2
-
-ELNの誘拐犯は、大きな会社の外国人の従業員を対象とする。 ELN　の　誘拐犯(ゆうかいはん)　は、　大(おお)きな　会社(かいしゃ)　の　外国人(がいこくじん)　の　従業員(じゅうぎょういん)　を　対象(たいしょう)　と　する。 ELN kidnappers target foreign employees of large corporations. 
+ELNの誘拐犯は、大きな会社の外国人の従業員を対象とする。 
+ELN　の　誘拐犯(ゆうかいはん)　は、　大(おお)きな　会社(かいしゃ)　の　外国人(がいこくじん)　の　従業員(じゅうぎょういん)　を　対象(たいしょう)　と　する。 
+ELN kidnappers target foreign employees of large corporations. 
 1784-3
 誘拐犯は、彼らの人質の釈放の代償に100万ドルを要求している。 
 誘拐犯(ゆうかいはん)　は、　彼ら(かれら)　の　人質(ひとじち)　の　釈放(しゃくほう)　の　代償(だいしょう)　に　100万(まん)　ドル　を　要求(ようきゅう)　して　いる。 
@@ -11149,10 +11043,8 @@ The physicians examined my body structures using a fluoroscope.
 顔(かお)　を　上げ(あげ)た　彼女(かのじょ)　の　眼(め)　は、　初めて(はじめて)　自分(じぶん)　が　泣い(ない)て　いる　こと　に　気づい(きづい)た　よう　に、　涙(なみだ)　を　透かし(すかし)て　暗い(くらい)　羞恥(しゅうち)　の　光り(ひかり)　を　帯び(おび)た。 
 Looking upward through tears and as if realizing for the first time that they were crying, her eyes bore a dark look of shame. 
 1785-10
-ハッカー、作家、そして画家は皆
-「浸透」のために費やす時間がいくらか必要で、彼らの潜在意識の働きを問題に向けるために何か他のことをしているのです。 
-ハッカー、　作家(さっか)、　そして　画家(がか)　は　皆(みな)　
-「浸透(しんとう)」　の　ため　に　費やす(ついやす)　時間(じかん)　が　いくら　か　必要(ひつよう)　で、　彼ら(かれら)　の　潜在(せんざい)　意識(いしき)　の　働き(はたらき)　を　問題(もんだい)　に　向ける(むける)　ため　に　何(なに)　か　他(ほか)　の　こと　を　して　いる　の　です。 
+ハッカー、作家、そして画家は皆「浸透」のために費やす時間がいくらか必要で、彼らの潜在意識の働きを問題に向けるために何か他のことをしているのです。 
+ハッカー、　作家(さっか)、　そして　画家(がか)　は　皆(みな)　「浸透(しんとう)」　の　ため　に　費やす(ついやす)　時間(じかん)　が　いくら　か　必要(ひつよう)　で、　彼ら(かれら)　の　潜在(せんざい)　意識(いしき)　の　働き(はたらき)　を　問題(もんだい)　に　向ける(むける)　ため　に　何(なに)　か　他(ほか)　の　こと　を　して　いる　の　です。 
 Hackers, writers, and painters all need some amount of time to spend "percolating" -- doing something else to let their subconscious work on a problem. 
 
 1786-1
@@ -11367,7 +11259,6 @@ The scouts gathered brushwood and set a fire.
 ご飯を炊ける少しだけの柴刈りをし、鍋を煮る僅かのスープを買うことが精一杯でした。 
 ご飯(ごはん)　を　炊ける(たける)　少し(すこし)　だけ　の　柴刈り(しばかり)　を　し、　鍋(なべ)　を　煮る(にる)　僅か(わずか)　の　スープ　を　買う(かう)　こと　が　精一杯(せいいっぱい)　でした。 
 If they could gather a little wood for cooking and buy a little broth for the pot, it was the utmost they could do. 
-1791-180 
 
 1791-1
 濃い紫色。 
@@ -11608,10 +11499,8 @@ The game of go dates back to the Zhou Dynasty of ancient China.
 夏休み(なつやすみ)　が　きたら　ゆっくり　と　囲碁(いご)　や　将棋(しょうぎ)　を　したい。 
 When summer break comes around I want to kick back and play some shogi or go. 
 1797-3
-合衆国にある他の町でもそうなのだが、この町もチェスボードのような碁盤目状に作られていて、
-「直線のかなしみ漂う町」とヴィクトル・ユゴーによって語られている。 
-合衆国(がっしゅうこく)　に　ある　他(ほか)　の　町(まち)　でも　そう　な　の　だ　が、　この　町(まち)　も　チェス　ボード　の　よう　な　碁盤目状(ごばんめじょう)　に　作ら(つくら)れて　いて、　
-「直線(ちょくせん)　の　かなしみ　漂う(ただよう)　町(まち)」　と　ヴィクトル・ユゴー　に　よって　語ら(かたら)れて　いる。 
+合衆国にある他の町でもそうなのだが、この町もチェスボードのような碁盤目状に作られていて、「直線のかなしみ漂う町」とヴィクトル・ユゴーによって語られている。 
+合衆国(がっしゅうこく)　に　ある　他(ほか)　の　町(まち)　でも　そう　な　の　だ　が、　この　町(まち)　も　チェス　ボード　の　よう　な　碁盤目状(ごばんめじょう)　に　作ら(つくら)れて　いて、　「直線(ちょくせん)　の　かなしみ　漂う(ただよう)　町(まち)」　と　ヴィクトル・ユゴー　に　よって　語ら(かたら)れて　いる。 
 This town is built on the pattern of other cities of the Union, like a checker-board, "with the sombre sadness of right-angles", as Victor Hugo expresses it. 
 
 1798-1
@@ -11640,10 +11529,9 @@ He was the best shot in India, and I expect that there are few better in London.
 焦眉(しょうび)　の　急(きゅう)　が　にわかに　迫れる(せまれる)　時(とき)　に　も、　彼(かれ)　は　甚だ(はなはだ)　冷静(れいせい)　なる　を　もって　知ら(しら)れたる　に、　今や(いまや)　少しく(すこしく)　興奮(こうふん)せる　体(てい)　を　見(み)て、　我(われ)　は　驚(おどろ)けり。 
 I thought him a trifle excited, which surprised me, for he had a reputation for exceptional coolness, even in moments of sudden and imminent peril. 
 1798-7
-つきましては、かかる柴垣氏と及川氏との間の
-Eメールのやりとりを訴訟提出用にご提供をいただけましたら幸甚に存じます。 
-つきまして　は、　かかる　柴垣(しばがき)　氏(し)　と　及川(おいかわ)　氏(し)　と　の　間(あいだ)　の　
-E(イー)メール　の　やりとり　を　訴訟(そしょう)　提出用(ていしゅつよう)　に　ご提供(ていきょう)　を　いただけましたら　幸甚(こうじん)　に　存(ぞん)じます。 Therefore, we would be most grateful if you could provide said e-mail exchange between Messrs. Shibagaki and Oikawa for our use in filing a lawsuit. 
+つきましては、かかる柴垣氏と及川氏との間のEメールのやりとりを訴訟提出用にご提供をいただけましたら幸甚に存じます。 
+つきまして　は、　かかる　柴垣(しばがき)　氏(し)　と　及川(おいかわ)　氏(し)　と　の　間(あいだ)　の　E(イー)メール　の　やりとり　を　訴訟(そしょう)　提出用(ていしゅつよう)　に　ご提供(ていきょう)　を　いただけましたら　幸甚(こうじん)　に　存(ぞん)じます。 
+Therefore, we would be most grateful if you could provide said e-mail exchange between Messrs. Shibagaki and Oikawa for our use in filing a lawsuit. 
 1798-8
 作業員の大多数は、もし彼らが彼らの最高の速度で仕事をすれば、多くの失業者を投じ、その行為が業界全体に対して甚大な不正行為を行う事であるように考えている。 
 作業員(さぎょういん)　の　大多数(だいたすう)　は、　もし　彼ら(かれら)　が　彼ら(かれら)　の　最高(さいこう)　の　速度(そくど)　で　仕事(しごと)　を　すれば、　多く(おおく)　の　失業者(しつぎょうしゃ)　を　投じ(とうじ)、　その　行為(こうい)　が　業界(ぎょうかい)　全体(ぜんたい)　に対して(にたいして)　甚大(じんだい)　な　不正(ふせい)　行為(こうい)　を　行う(おこなう)　事(こと)　で　ある　よう　に　考え(かんがえ)て　いる。 
@@ -11775,13 +11663,7 @@ With the first glimpse of the building, a sense of insufferable gloom pervaded m
 1800-10
 彼女の問い掛けの眼差しの強迫と、その問いの裏にある絶望の色は、もはや彼には堪えられなかった。 
 彼女(かのじょ)　の　問い掛け(といかけ)　の　眼差し(まなざし)　の　強迫(きょうはく)　と、　その　問い(とい)　の　裏(うら)　に　ある　絶望(ぜつぼう)　の　色(いろ)　は、　もはや　彼(かれ)　に　は　堪え(たえ)られなかった。 
-He could not bear the touch of her eyes' question upon him, and the look of death behind the question. (42) ㊗ 　Congratulations!  ㊗ You have now attained the nineteenth dan:
-テツ 
-
-KANJIOSOPHER Let us know at the KLC user group on Facebook! Share on:　Reddit　Twitter　Facebook　LinkedIn
-
-See the website for a full list of KLC kanji dan (ranks). 
-1801-181 
+He could not bear the touch of her eyes' question upon him, and the look of death behind the question. 
 
 1801-1
 漁獲高はたった魚10匹だった。 
@@ -11821,7 +11703,8 @@ A fish or two whipped past his body.
 この　二台(にだい)　の　車(くるま)　は　燃料(ねんりょう)　消費量(しょうひりょう)　で　互いに(たがいに)　匹敵(ひってき)　する。 
 These two cars are comparable with each other in terms of fuel consumption. 
 1801-10
-100万匹の昆虫のブンブンと音を立てた交響曲。 100万匹(まんびき)　の　昆虫(こんちゅう)　の　ブンブン　と　音(おと)　を　立て(たて)た　交響曲(こうきょうきょく)。 
+100万匹の昆虫のブンブンと音を立てた交響曲。 
+100万匹(まんびき)　の　昆虫(こんちゅう)　の　ブンブン　と　音(おと)　を　立て(たて)た　交響曲(こうきょうきょく)。 
 The symphonic hum of a million insects. 
 1801-11
 茂木さんは技能が他に匹敵するもののない職人だ。 
@@ -11836,7 +11719,8 @@ I have three dogs, one white and the other two black.
 小(ちい)さな　羽虫(はむし)　が　幾匹(いくひき)　も　幾匹(いくひき)　も　その　咽喉(いんこう)　に　入り(はいり)ました。 
 Countless small leaf beetles were caught in his gorge. 
 1801-14
-1933年3月のアメリカの銀行業崩壊に匹敵する暴落の見込みがほとんどない。 1933年(ねん)　3月(がつ)　の　アメリカ　の　銀行業(ぎんこうぎょう)　崩壊(ほうかい)　に　匹敵(ひってき)　する　暴落(ぼうらく)　の　見込み(みこみ)　が　ほとんど　ない。 
+1933年3月のアメリカの銀行業崩壊に匹敵する暴落の見込みがほとんどない。 
+1933年(ねん)　3月(がつ)　の　アメリカ　の　銀行業(ぎんこうぎょう)　崩壊(ほうかい)　に　匹敵(ひってき)　する　暴落(ぼうらく)　の　見込み(みこみ)　が　ほとんど　ない。 
 There is little likelihood of a meltdown comparable to the American banking collapse in March 1933. 
 1801-15
 意見を言うのを黙らせるということのもつ独自の害悪というのは、人類からの略奪、現在の世代だけでなく子孫からの略奪、その意見を持つ人以上にその意見に異議を唱える人たちからの略奪であるのです。もしその意見が正しいなら、異議を唱える人たちは誤りを正す機会を奪われ、もし誤っているのなら、これにほぼ匹敵する利益、つまり誤りと対決することで生み出される、真理をより明確に認識し一層鮮明な感銘を受けるという利益を奪われるのです。 
@@ -11859,11 +11743,7 @@ Not in a single instance has any one of their disciples surpassed them.
 1802-4
 ツェルニー〚1791〜1857〛はオーストリア=ハンガリーのピアノ教師と作曲家で、リストの師匠であった。 
 ツェルニー　〚1791〜1857〛　は　オーストリア=ハンガリー　の　ピアノ　教師(きょうし)　と　作曲家(さっきょくか)　で、　リスト　の　師匠(ししょう)　で　あった。 
-Czerny (
-1791-185
-) 
-
-was an Austro-Hungarian piano teacher and composer, and was a teacher of Liszt. 
+Czerny (1791-185) was an Austro-Hungarian piano teacher and composer, and was a teacher of Liszt. 
 1802-5
 一人の工匠の手によって完成したものに比べて、色々な手が加わった、様々な異なる部分からできた作品は、完成度が低いのが常だ。 
 一人(ひとり)　の　工匠(こうしょう)　の　手(て)　に　よって　完成(かんせい)　した　もの　に　比べ(くらべ)て、　色々(いろいろ)　な　手(て)　が　加わっ(くわわっ)た、　様々(さまざま)　な　異なる(ことなる)　部分(ぶぶん)　から　できた　作品(さくひん)　は、　完成度(かんせいど)　が　低い(ひくい)　の　が　常(つね)　だ。 
@@ -11890,16 +11770,12 @@ The juror reported several anonymous calls.
 この　論文(ろんぶん)　の　初版(しょはん)　を　公開(こうかい)　して　から、　匿名(とくめい)　の　評者(ひょうしゃ)　が　こう　述べ(のべ)た。 
 After I published the first version of this essay on the Internet, an anonymous respondent commented as follows. 
 1803-6
-その主な価値は
-「秘匿」に対する武器としてのものじゃない。 
-その　主(おも)　な　価値(かち)　は　
-「秘匿(ひとく)」　に対する(にたいする)　武器(ぶき)　として　の　もの　じゃ　ない。 
+その主な価値は「秘匿」に対する武器としてのものじゃない。 
+その　主(おも)　な　価値(かち)　は　「秘匿(ひとく)」　に対する(にたいする)　武器(ぶき)　として　の　もの　じゃ　ない。 
 Its main value is not as a weapon against 'hoarding'. 
 1803-7
-典型的なプラグマティスト的態度は、ごく穏健な反商業主義で、それが企業世界に対して持っている不満の大部分は
-「秘匿」そのものじゃあない。 
-典型的(てんけいてき)　な　プラグマティスト　的(てき)　態度(たいど)　は、　ごく　穏健(おんけん)　な　反(はん)　商業主義(しょうぎょうしゅぎ)　で、　それ　が　企業(きぎょう)　世界(せかい)　に対して(にたいして)　持っ(もっ)て　いる　不満(ふまん)　の　大部分(だいぶぶん)　は　
-「秘匿(ひとく)」　そのもの　じゃあ　ない。 
+典型的なプラグマティスト的態度は、ごく穏健な反商業主義で、それが企業世界に対して持っている不満の大部分は「秘匿」そのものじゃあない。 
+典型的(てんけいてき)　な　プラグマティスト　的(てき)　態度(たいど)　は、　ごく　穏健(おんけん)　な　反(はん)　商業主義(しょうぎょうしゅぎ)　で、　それ　が　企業(きぎょう)　世界(せかい)　に対して(にたいして)　持っ(もっ)て　いる　不満(ふまん)　の　大部分(だいぶぶん)　は　「秘匿(ひとく)」　そのもの　じゃあ　ない。 
 The typical pragmatist attitude is only moderately anticommercial, and its major grievance against the corporate world is not 'hoarding' per se. 
 1803-8
 あの大きい教会の影に潜み隠れ、墓の間に立っていると、彼女は、世界の脅嚇を免れていると感じ、あたかも教会墓地の厚い壁によって、別世界に匿われたように感じるのだった。 
@@ -12135,8 +12011,8 @@ The union bosses are fighting the freeze on wage hikes.
 You can go from Toyama Station to Kanazawa Station in just 18 minutes on the Hokuriku Shinkansen. 
 1808-16
 「モノニューロパチー」とは、単一の神経幹の神経障害のことを指す。 
-「モノニューロパチー」　と　は、　単一(たんいつ)　の　神経幹(しんけいかん)　の　神経(しんけい)　障害(しょうがい)　の　こと　を　指す(さす)。 "
-Mononeuropathy" refers to a nerve disease affecting a single nerve trunk. 
+「モノニューロパチー」　と　は、　単一(たんいつ)　の　神経幹(しんけいかん)　の　神経(しんけい)　障害(しょうがい)　の　こと　を　指す(さす)。 
+"Mononeuropathy" refers to a nerve disease affecting a single nerve trunk. 
 1808-17
 東北新幹線で、仙台駅から新函館北斗駅まで僅か三時間で行ける。 
 東北新幹線(とうほくしんかんせん)　で、　仙台(せんだい)　駅(えき)　から　新函館(しんはこだて)　北斗(ほくと)　駅(えき)　まで　僅か(わずか)　三(さん)　時間(じかん)　で　行ける(いける)。 
@@ -12323,7 +12199,6 @@ Over towards the Aragami Bridge centrifugal drying machines were strewn about th
 これらの織物は傷み易いので、乾燥機を使用できない。 
 これら　の　織物(おりもの)　は　傷み易い(いたみやすい)　ので、　乾燥機(かんそうき)　を　使用(しよう)　できない。 
 These fabrics are delicate and cannot be tumbled dry. 
-1811-182 
 
 1811-1
 原稿を繰る。 
@@ -12437,7 +12312,8 @@ This fish breeds in reefs and seagrass beds.
 藻類学(そうるいがく)　は　藻(も)　を　研究(けんきゅう)　する　植物学(しょくぶつがく)　の　部門(ぶもん)　で　ある。 
 Phycology is the branch of botany that studies algae. 
 1812-6
-3本マストの立派な大きな船だったようだが、雨風にさらされ、海藻が大きなくもの巣のように側面に貼り付き、甲板の上には岸に植生する茂みが根をはり、ちょうど花が咲いていた。 3本(ぼん)　マスト　の　立派(りっぱ)　な　大(おお)きな　船(ふね)　だった　よう　だ　が、　雨風(あめかぜ)　に　さらされ、　海藻(かいそう)　が　大(おお)きな　くも　の　巣(す)　の　よう　に　側面(そくめん)　に　貼り付き(はりつき)、　甲板(かんぱん)　の　上(うえ)　に　は　岸(きし)　に　植生(しょくせい)　する　茂み(しげみ)　が　根(ね)　を　はり、　ちょうど　花(はな)　が　咲い(さい)て　いた。 
+3本マストの立派な大きな船だったようだが、雨風にさらされ、海藻が大きなくもの巣のように側面に貼り付き、甲板の上には岸に植生する茂みが根をはり、ちょうど花が咲いていた。 
+3本(ぼん)　マスト　の　立派(りっぱ)　な　大(おお)きな　船(ふね)　だった　よう　だ　が、　雨風(あめかぜ)　に　さらされ、　海藻(かいそう)　が　大(おお)きな　くも　の　巣(す)　の　よう　に　側面(そくめん)　に　貼り付き(はりつき)、　甲板(かんぱん)　の　上(うえ)　に　は　岸(きし)　に　植生(しょくせい)　する　茂み(しげみ)　が　根(ね)　を　はり、　ちょうど　花(はな)　が　咲い(さい)て　いた。 
 It had been a great vessel of three masts but had lain so long exposed to the injuries of the weather that it was hung about with great webs of dripping seaweed, and on the deck of it shore bushes had taken root and now flourished thick with flowers. 
 
 1813-1
@@ -12764,7 +12640,6 @@ Anime Expo ’93 was the first instance at which American industry representativ
 何人も、実行の時に適法であった行為又は既に無罪とされた行為については、刑事上の責任を問われない。又、同一の犯罪について、重ねて刑事上の責任を問われない。 
 何人(なにびと)　も、　実行(じっこう)　の　時(とき)　に　適法(てきほう)　で　あった　行為(こうい)　又は(または)　既に(すでに)　無罪(むざい)　と　された　行為(こうい)　について　は、　刑事上(けいじじょう)　の　責任(せきにん)　を　問われ(とわれ)ない。　又(また)、　同一(どういつ)　の　犯罪(はんざい)　について、　重ね(かさね)て　刑事上(けいじじょう)　の　責任(せきにん)　を　問われ(とわれ)ない。 
 No person shall be held criminally liable for an act which was lawful at the time it was committed, or of which he has been acquitted, nor shall he be placed in double jeopardy. 
-1821-183 
 
 1821-1
 商品の概説。 
@@ -12844,10 +12719,8 @@ Tominaga-san isn't your average guy. He doesn't like things most guys like and h
 第一(だいいち)　に、　気づか(きづか)れた　ダーウィン　理論(りろん)　の　欠陥(けっかん)　という　の　が、　上(うえ)　に　概略(がいりゃく)　を　述べ(のべ)た　進化論(しんかろん)　の　強い(つよい)　論証(ろんしょう)　に　は　まるで　害(がい)　を　及ぼさ(およぼさ)ない　ん　だ。 
 Firstly, any perceived deficiency in Darwinian theory does no harm whatsoever to the case for evolution outlined above. 
 1821-20
-人間社会における
-「所有物」の概念は、平和な行動と抗争とをはっきりわけるような境界を設けることで、人間同士の紛争を予防するのが機能だ。 
-人間(にんげん)　社会(しゃかい)　に　おける　
-「所有物(しょゆうぶつ)」　の　概念(がいねん)　は、　平和(へいわ)　な　行動(こうどう)　と　抗争(こうそう)　と　を　はっきり　わける　よう　な　境界(きょうかい)　を　設ける(もうける)　こと　で、　人間(にんげん)　同士(どうし)　の　紛争(ふんそう)　を　予防(よぼう)　する　の　が　機能(きのう)　だ。 
+人間社会における「所有物」の概念は、平和な行動と抗争とをはっきりわけるような境界を設けることで、人間同士の紛争を予防するのが機能だ。 
+人間(にんげん)　社会(しゃかい)　に　おける　「所有物(しょゆうぶつ)」　の　概念(がいねん)　は、　平和(へいわ)　な　行動(こうどう)　と　抗争(こうそう)　と　を　はっきり　わける　よう　な　境界(きょうかい)　を　設ける(もうける)　こと　で、　人間(にんげん)　同士(どうし)　の　紛争(ふんそう)　を　予防(よぼう)　する　の　が　機能(きのう)　だ。 
 The function of property in human societies is to prevent inter-human conflict by setting bounds that clearly separate peaceful behavior from aggression. 
 1821-21
 市民権、政府権力の乱用防止、黙秘権、自己に不利な証言の強制禁止という概念を世界に対して示した国が、その概念を破り捨ててしまおうとしているのです。 
@@ -12993,7 +12866,8 @@ Kepler's Second Law postulates that a line connecting a planet to the sun will s
 当時(とうじ)、　ファンたち　は　日本(にほん)　の　アニメ　が　アメリカ　に　比べ(くらべ)て　遥か(はるか)　に　大量(たいりょう)　の　暴力(ぼうりょく)　描写(びょうしゃ)　を　して　いる　こと　に　驚い(おどろい)た。 
 At the time, fans were amazed that the Japanese cartoons depicted so much more violence than cartoons in the United States. 
 1824-20
-1970年代にアメリカで起きた子供向けテレビ浄化運動に並行して、日本アニメの暴力描写と性的内容は急激に増加した。 1970年代(ねんだい)　に　アメリカ　で　起き(おき)た　子供(こども)　向け(むけ)　テレビ　浄化(じょうか)　運動(うんどう)　に　並行(へいこう)　して、　日本(にほん)　アニメ　の　暴力(ぼうりょく)　描写(びょうしゃ)　と　性的(せいてき)　内容(ないよう)　は　急激(きゅうげき)　に　増加(ぞうか)　した。 
+1970年代にアメリカで起きた子供向けテレビ浄化運動に並行して、日本アニメの暴力描写と性的内容は急激に増加した。 
+1970年代(ねんだい)　に　アメリカ　で　起き(おき)た　子供(こども)　向け(むけ)　テレビ　浄化(じょうか)　運動(うんどう)　に　並行(へいこう)　して、　日本(にほん)　アニメ　の　暴力(ぼうりょく)　描写(びょうしゃ)　と　性的(せいてき)　内容(ないよう)　は　急激(きゅうげき)　に　増加(ぞうか)　した。 
 Pressure to sanitize children’s television in 1970s America paralleled dramatic advances in violence and sexual content in Japanese animation. 
 1824-21
 ネロが描いた、暮れゆく秋の夕暮れの暗闇の中で枯れ木に何かもの思いにふけりながら座っている、年老いた孤独な人物の絵は、さながら一編の詩のようでした。 
@@ -13087,10 +12961,8 @@ The season in which young grasses sprout.
 新緑(しんりょく)　は　木々(きぎ)　から　萌え出る(もえでる)。 
 Great bursts of leaves grow on the trees. 
 1826-3
-生物学において、
-「反復する」とは、萌芽期の間、進化的発達段階を繰り返すことを言う。 
-生物学(せいぶつがく)　において、　
-「反復(はんぷく)　する」　と　は、　萌芽期(ほうがき)　の　間(あいだ)、　進化的(しんかてき)　発達(はったつ)　段階(だんかい)　を　繰り返す(くりかえす)　こと　を　言う(いう)。 
+生物学において、「反復する」とは、萌芽期の間、進化的発達段階を繰り返すことを言う。 
+生物学(せいぶつがく)　において、　「反復(はんぷく)　する」　と　は、　萌芽期(ほうがき)　の　間(あいだ)、　進化的(しんかてき)　発達(はったつ)　段階(だんかい)　を　繰り返す(くりかえす)　こと　を　言う(いう)。 
 In biology, to "recapitulate" is repeat stages of evolutionary development during the embryonic phase of life. 
 1826-4
 我々の時代ですらその萌芽は見られますし、私が訪れた未来の時代にはそれが完成されたのです。 
@@ -13385,7 +13257,6 @@ I think that piece was made around the Momoyama Period.
 この種の害虫は特に桃に有害だ。 
 この　種(しゅ)　の　害虫(がいちゅう)　は　特に(とくに)　桃(もも)　に　有害(ゆうがい)　だ。 
 This species of pest is particularly harmful to peaches. 
-1831-184 
 
 1831-1
 跳躍競技。 
@@ -13850,10 +13721,8 @@ In ancient history, in the middle ages, and in a diminishing degree through the 
 長い(ながい)　こと　封じ込め(ふうじこめ)られて　いた　ため、　かび臭い(かびくさい)　空気(くうき)　が　すべて　の　室内(しつない)　に　停滞(ていたい)　し、　台所(だいどころ)　の　後ろ(うしろ)　の　荒廃(こうはい)　した　部屋(へや)　に　は　古い(ふるい)　無用(むよう)　の　書類(しょるい)　が　散らかっ(ちらかっ)て　いた。 
 Air, musty from having been long enclosed, hung in all the rooms, and the waste room behind the kitchen was littered with old useless papers. 
 1837-23
-何週間も過ぎたある日、一通の手紙がリバシー先生宛に届き、その手紙には
-「リバシー先生が不在の場合には、トム・レッドルースか若くのホーキンズ少年が開封のこと」と付箋が付いていた。 
-何週間(なんしゅうかん)　も　過ぎ(すぎ)た　ある　日(ひ)、　一通(いっつう)　の　手紙(てがみ)　が　リバシー　先生(せんせい)　宛(あて)　に　届き(とどき)、　その　手紙(てがみ)　に　は　
-「リバシー　先生(せんせい)　が　不在(ふざい)　の　場合(ばあい)　に　は、　トム・レッドルース　か　若く(わかく)　の　ホーキンズ　少年(しょうねん)　が　開封(かいふう)　の　こと」　と　付箋(ふせん)　が　付い(つい)て　いた。 
+何週間も過ぎたある日、一通の手紙がリバシー先生宛に届き、その手紙には「リバシー先生が不在の場合には、トム・レッドルースか若くのホーキンズ少年が開封のこと」と付箋が付いていた。 
+何週間(なんしゅうかん)　も　過ぎ(すぎ)た　ある　日(ひ)、　一通(いっつう)　の　手紙(てがみ)　が　リバシー　先生(せんせい)　宛(あて)　に　届き(とどき)、　その　手紙(てがみ)　に　は　「リバシー　先生(せんせい)　が　不在(ふざい)　の　場合(ばあい)　に　は、　トム・レッドルース　か　若く(わかく)　の　ホーキンズ　少年(しょうねん)　が　開封(かいふう)　の　こと」　と　付箋(ふせん)　が　付い(つい)て　いた。 
 So the weeks passed on, till one fine day there came a letter addressed to Dr. Livesey, with this addition, "To be opened, in the case of his absence, by Tom Redruth or young Hawkins". 
 1837-24
 先生はとても注意深く封を開けると、島の地図が出てきて、緯度経度と、水深、丘や湾そして入り江の名前があり、船が安全にその岸の停泊所に入港するのに必要な点がすべて記入されていた。 
@@ -14090,12 +13959,8 @@ When he died it was found that he had left his enormous fortune in the hands of 
 地方(ちほう)　公共(こうきょう)　団体(だんたい)　は、　その　財産(ざいさん)　を　管理(かんり)　し、　事務(じむ)　を　処理(しょり)　し、　及び(および)　行政(ぎょうせい)　を　執行(しっこう)　する　権能(けんのう)　を　有し(ゆうし)、　法律(ほうりつ)　の　範囲(はんい)　内(ない)　で　条例(じょうれい)　を　制定(せいてい)　する　こと　が　できる。 
 Local public entities shall have the right to manage their property, affairs and administration and to enact their own regulations within law. 
 1839-40
-公認の管理者が承認して進化するソフトに統合した
-「公式」パッチと、第三者による
-「非公式」パッチとははっきり区別して認識されている。 
-公認(こうにん)　の　管理者(かんりしゃ)　が　承認(しょうにん)　して　進化(しんか)　する　ソフト　に　統合(とうごう)　した　
-「公式(こうしき)」　パッチ　と、　第三者(だいさんしゃ)　に　よる　
-「非公式(ひこうしき)」　パッチ　と　は　はっきり　区別(くべつ)　して　認識(にんしき)　されて　いる。 
+公認の管理者が承認して進化するソフトに統合した「公式」パッチと、第三者による「非公式」パッチとははっきり区別して認識されている。 
+公認(こうにん)　の　管理者(かんりしゃ)　が　承認(しょうにん)　して　進化(しんか)　する　ソフト　に　統合(とうごう)　した　「公式(こうしき)」　パッチ　と、　第三者(だいさんしゃ)　に　よる　「非公式(ひこうしき)」　パッチ　と　は　はっきり　区別(くべつ)　して　認識(にんしき)　されて　いる。 
 There is a very well-recognized distinction between 'official' patches, approved and integrated into the evolving software by the publicly recognized maintainers, and 'rogue' patches by third parties. 
 1839-41
 こうした利害は文化規範として、所有者・管理者は自分がプロジェクトを管理できなくなった場合には、公式にその権利をだれかに譲るべきだという形で表現される。 
@@ -14147,7 +14012,6 @@ They placed his ashes in a golden casket, and buried them in the great hill-grav
 わらをかぶった棺が、馬車から転げ落ち、街道に置き去りになりました。 
 わら　を　かぶった　棺(かん)　が、　馬車(ばしゃ)　から　転げ落ち(ころげおち)、　街道(かいどう)　に　置き去り(おきざり)　に　なりました。 
 The coffin in its covering of straw tumbled out of the van, and was left on the high-road. 
-1841-185 
 
 1841-1
 管轄裁判所。 
@@ -14166,10 +14030,8 @@ A navigable body of water under the jurisdiction of a single nation.
 陸海軍(りくかいぐん)　の　統轄(とうかつ)　および　規律(きりつ)　に関する(にかんする)　規則(きそく)　を　定める(さだめる)　こと。 
 To make rules for the government and regulation of the land and naval forces. 
 1841-5
-「財務省」／
-「大蔵省」とは、国庫収入の集金、管理、及び支出を管轄する政府機関のことを言う。 
-「財務省(ざいむしょう)」　／　
-「大蔵省(おおくらしょう)」　と　は、　国庫(こっこ)　収入(しゅうにゅう)　の　集金(しゅうきん)、　管理(かんり)、　及び(および)　支出(ししゅつ)　を　管轄(かんかつ)　する　政府(せいふ)　機関(きかん)　の　こと　を　言う(いう)。 
+「財務省」／「大蔵省」とは、国庫収入の集金、管理、及び支出を管轄する政府機関のことを言う。 
+「財務省(ざいむしょう)」　／　「大蔵省(おおくらしょう)」　と　は、　国庫(こっこ)　収入(しゅうにゅう)　の　集金(しゅうきん)、　管理(かんり)、　及び(および)　支出(ししゅつ)　を　管轄(かんかつ)　する　政府(せいふ)　機関(きかん)　の　こと　を　言う(いう)。 
 The "Treasury"/"Exchequer" is the government department responsible for collecting, managing and spending public revenues. 
 1841-6
 最高裁判所は最終の上訴管轄権を有し、そして国内で他のすべての裁判所に対する司法権を有する。 
@@ -14325,10 +14187,8 @@ Horie-san impregnated his wife again.
 妊娠(にんしん)　中絶(ちゅうぜつ)　の　ため　に　子宮(しきゅう)　を　吸引(きゅういん)　する。 
 Suction the uterus for abortion. 
 1846-5
-第六十四条の三：使用者は、妊娠中の女性及び産後一年を経過しない女性〚以下
-「妊産婦」という〛を、重量物を取り扱う業務、有害ガスを発散する場所における業務その他妊産婦の妊娠、出産、哺育等に有害な業務に就かせてはならない。 
-第(だい)　六十四(ろくじゅうよん)　条(じょう)　の　三(さん)：　使用者(しようしゃ)　は、　妊娠(にんしん)　中(ちゅう)　の　女性(じょせい)　及び(および)　産後(さんご)　一年(いちねん)　を　経過(けいか)　しない　女性(じょせい)　〚以下(いか)　
-「妊産婦(にんさんぷ)」　と　いう〛　を、　重量物(じゅうりょうぶつ)　を　取り扱う(とりあつかう)　業務(ぎょうむ)、　有害(ゆうがい)　ガス　を　発散(はっさん)　する　場所(ばしょ)　に　おける　業務(ぎょうむ)　その　他(た)　妊産婦(にんさんぷ)　の　妊娠(にんしん)、　出産(しゅっさん)、　哺育(ほいく)　等(など)　に　有害(ゆうがい)　な　業務(ぎょうむ)　に　就か(つか)せて　は　ならない。 
+第六十四条の三：使用者は、妊娠中の女性及び産後一年を経過しない女性〚以下「妊産婦」という〛を、重量物を取り扱う業務、有害ガスを発散する場所における業務その他妊産婦の妊娠、出産、哺育等に有害な業務に就かせてはならない。 
+第(だい)　六十四(ろくじゅうよん)　条(じょう)　の　三(さん)：　使用者(しようしゃ)　は、　妊娠(にんしん)　中(ちゅう)　の　女性(じょせい)　及び(および)　産後(さんご)　一年(いちねん)　を　経過(けいか)　しない　女性(じょせい)　〚以下(いか)　「妊産婦(にんさんぷ)」　と　いう〛　を、　重量物(じゅうりょうぶつ)　を　取り扱う(とりあつかう)　業務(ぎょうむ)、　有害(ゆうがい)　ガス　を　発散(はっさん)　する　場所(ばしょ)　に　おける　業務(ぎょうむ)　その　他(た)　妊産婦(にんさんぷ)　の　妊娠(にんしん)、　出産(しゅっさん)、　哺育(ほいく)　等(など)　に　有害(ゆうがい)　な　業務(ぎょうむ)　に　就か(つか)せて　は　ならない。 
 Article 64-3 (1) Employers shall not assign pregnant women or women within one year after childbirth (hereinafter referred to as "expectant or nursing mothers") to work involving the handling of heavy materials, work in places where harmful gas is generated, or other work injurious to pregnancy, childbirth, nursing and the like. 
 
 1847-1
@@ -14495,14 +14355,15 @@ The buccaneers raided and roved in search of booty.
 We disguised our faces before robbing the bank. 
 1849-14
 「シャー」とは、かつてのイランの世襲君主の敬称である。 
-「シャー」　と　は、　かつて　の　イラン　の　世襲(せしゅう)　君主(くんしゅ)　の　敬称(けいしょう)　で　ある。 "
-Shah" is a title for the former hereditary monarch of Iran. 
+「シャー」　と　は、　かつて　の　イラン　の　世襲(せしゅう)　君主(くんしゅ)　の　敬称(けいしょう)　で　ある。 
+"Shah" is a title for the former hereditary monarch of Iran. 
 1849-15
 一度か二度、理由のはっきりしない強い恐怖に襲われました。 
 一度(いちど)　か　二度(にど)、　理由(りゆう)　の　はっきり　しない　強い(つよい)　恐怖(きょうふ)　に　襲わ(おそわ)れました。 
 Once or twice I had a feeling of intense fear for which I could perceive no definite reason. 
 1849-16
-1959年9月26日に、日本史上最大の台風が名古屋を襲った。 1959年(ねん)　9月(がつ)　26日(にち)　に、　日本(にほん)　史上(しじょう)　最大(さいだい)　の　台風(たいふう)　が　名古屋(なごや)　を　襲っ(おそっ)た。 
+1959年9月26日に、日本史上最大の台風が名古屋を襲った。 
+1959年(ねん)　9月(がつ)　26日(にち)　に、　日本(にほん)　史上(しじょう)　最大(さいだい)　の　台風(たいふう)　が　名古屋(なごや)　を　襲っ(おそっ)た。 
 On 26 September 1959, the strongest typhoon in Japan's recorded history hit Nagoya. 
 1849-17
 ある晩彼が妻に肉切り包丁で襲い掛かり、彼女は仕方なく近所の家で寝た。 
@@ -14631,7 +14492,6 @@ Koji Alexander Murofushi is an athlete from Numazu, Shizuoka Prefecture who won 
 それでこの後は私は、一つ待ち伏せしてやろうと思い立って、拳銃を持って、私の書斎に位置を取り、芝生や庭を見はりました。 
 それで　この　後(あと)　は　私(わたし)　は、　一つ(ひとつ)　待ち伏せ(まちぶせ)　して　やろう　と　思い立っ(おもいたっ)て、　拳銃(けんじゅう)　を　持っ(もっ)て、　私(わたし)　の　書斎(しょさい)　に　位置(いち)　を　取り(とり)、　芝生(しばふ)　や　庭(にわ)　を　見(み)はりました。 
 After that I determined to lie in wait, so I got out my revolver and I sat up in my study, which overlooks the lawn and garden. 
-1851-186 
 
 1851-1
 下の犬は一晩中吠えた。 
@@ -14646,7 +14506,8 @@ An eerie midnight howl.
 コヨーテ　は　砂漠(さばく)　で　遠吠え(とおぼえ)　して　いた。 
 The coyotes were howling in the desert. 
 1851-4
-40から60匹が一団で岩々の間に吠え声を響かせていた。 40から　60匹(ぴき)　が　一団(いちだん)　で　岩々(いわいわ)　の　間(あいだ)　に　吠え声(ほえごえ)　を　響かせ(ひびかせ)て　いた。 
+40から60匹が一団で岩々の間に吠え声を響かせていた。 
+40から　60匹(ぴき)　が　一団(いちだん)　で　岩々(いわいわ)　の　間(あいだ)　に　吠え声(ほえごえ)　を　響かせ(ひびかせ)て　いた。 
 Two or three score of them together, making the rocks to echo with their barkings. 
 1851-5
 その大きな犬は、剥き出した牙で酷く吠え、彼らに迫った。 
@@ -15032,8 +14893,8 @@ Work is the best antidote to sorrow.
 The poor old woman was robbed of her money. 
 1860-13
 「空涙」とは、悲哀の偽善的な表示のことを言う。 
-「空涙(そらなみだ)」　と　は、　悲哀(ひあい)　の　偽善的(ぎぜんてき)　な　表示(ひょうじ)　の　こと　を　言う(いう)。 "
-Crocodile tears" are a hypocritical display of sorrow. 
+「空涙(そらなみだ)」　と　は、　悲哀(ひあい)　の　偽善的(ぎぜんてき)　な　表示(ひょうじ)　の　こと　を　言う(いう)。 
+"Crocodile tears" are a hypocritical display of sorrow. 
 1860-14
 盲人は、あまりにしばしば哀れみの対象である。 
 盲人(もうじん)　は、　あまり　に　しばしば　哀れみ(あわれみ)　の　対象(たいしょう)　で　ある。 
@@ -15066,7 +14927,6 @@ Once the Tin Woodman stepped upon an insect that was crawling along the road, an
 それは荒れ小島に難破した人が来る日も来る日も沖合いに帆影を見はって、船乗りがその島に立ち寄り、自分たちを哀れんで故郷まで送り届けてくれのではと望みを託すようなものであった。 
 それ　は　荒れ(あれ)　小島(こじま)　に　難破(なんぱ)　した　人(ひと)　が　来る(くる)　日(ひ)　も　来る(くる)　日(ひ)　も　沖合い(おきあい)　に　帆影(ほかげ)　を　見(み)はって、　船乗り(ふなのり)　が　その　島(しま)　に　立ち寄り(たちより)、　自分(じぶん)たち　を　哀れん(あわれん)で　故郷(こきょう)　まで　送り届け(おくりとどけ)て　くれ　の　で　は　と　望み(のぞみ)　を　託す(たくす)　よう　な　もの　で　あった。 
 Like men wrecked on a desert island, who keep watch every day for a sail afar off, hoping that the seamen will touch at their isle and have pity upon them, and carry them home. 
-1861-187 
 
 1861-1
 帝国の衰退期に。 
@@ -15242,10 +15102,9 @@ The orderly returned to finish clearing the table.
 その　主人(しゅじん)たる　君主(くんしゅ)　を　抑圧(よくあつ)　し、　あるいは　君主(くんしゅ)　の　意向(いこう)　に　反し(はんし)て　他(ほか)　の　人々(ひとびと)　を　抑圧(よくあつ)　して、　自分(じぶん)　が　卓越(たくえつ)　する　こと　を　切望(せつぼう)　する　から　です。 
 They always aspire to their own greatness, either by oppressing you (the prince), who are their master, or others contrary to your intentions. 
 1865-13
-このモノグラフは、
-WHO加盟国が劣化ウランと人間の健康問題を適切に取扱うことができるように、有用な情報や忠告を提供する卓上参考書と意図されている。 
-この　モノグラフ　は、　
-WHO　加盟国(かめいこく)　が　劣化(れっか)　ウラン　と　人間(にんげん)　の　健康(けんこう)　問題(もんだい)　を　適切(てきせつ)　に　取扱う(とりあつかう)　こと　が　できる　よう　に、　有用(ゆうよう)　な　情報(じょうほう)　や　忠告(ちゅうこく)　を　提供(ていきょう)　する　卓上(たくじょう)　参考書(さんこうしょ)　と　意図(いと)　されて　いる。 This monograph is intended to be a desk reference providing useful information and recommendations to WHO Member States so that they may deal appropriately with the issue of depleted uranium and human health. 
+このモノグラフは、WHO加盟国が劣化ウランと人間の健康問題を適切に取扱うことができるように、有用な情報や忠告を提供する卓上参考書と意図されている。 
+この　モノグラフ　は、　WHO　加盟国(かめいこく)　が　劣化(れっか)　ウラン　と　人間(にんげん)　の　健康(けんこう)　問題(もんだい)　を　適切(てきせつ)　に　取扱う(とりあつかう)　こと　が　できる　よう　に、　有用(ゆうよう)　な　情報(じょうほう)　や　忠告(ちゅうこく)　を　提供(ていきょう)　する　卓上(たくじょう)　参考書(さんこうしょ)　と　意図(いと)　されて　いる。 
+This monograph is intended to be a desk reference providing useful information and recommendations to WHO Member States so that they may deal appropriately with the issue of depleted uranium and human health. 
 1865-14
 人形は小さな卓台の上に置かれて、ホームズの常に着用する、ガウンを着けさせているので、なるほど街路から見れば、理想的に完全な影絵を映していたに相違なかった。 
 人形(にんぎょう)　は　小(ちい)さな　卓台(たくだい)　の　上(うえ)　に　置か(おか)れて、　ホームズ　の　常に(つねに)　着用(ちゃくよう)　する、　ガウン　を　着け(つけ)させて　いる　ので、　なるほど　街路(がいろ)　から　見れ(みれ)ば、　理想的(りそうてき)　に　完全(かんぜん)　な　影絵(かげえ)　を　映し(うつし)て　いた　に　相違(そうい)　なかった。 
@@ -15369,8 +15228,7 @@ The detective had a feeling akin to humiliation in profiting by the kindness of 
 先生はこの有名な私立探偵に、全事件を凍結して完全な休息に身を委ねよ、さもなければ確実に体を壊すであろう、という強い勧告を与えた。 
 先生(せんせい)　は　この　有名(ゆうめい)　な　私立(しりつ)　探偵(たんてい)　に、　全事件(ぜんじけん)　を　凍結(とうけつ)　して　完全(かんぜん)　な　休息(きゅうそく)　に　身(み)　を　委ねよ(ゆだねよ)、　さもなければ　確実(かくじつ)　に　体(からだ)　を　壊す(こわす)　で　あろう、　という　強い(つよい)　勧告(かんこく)　を　与え(あたえ)た。 
 The doctor gave positive injunctions that the famous private agent lay aside all his cases and surrender himself to complete rest if he wished to avert an absolute breakdown. 
-
-「さもなければ/さもなくば」means “if not/otherwise”. 
+「さもなければ/さもなくば」 means “if not/otherwise”. 
 
 1869-1
 覇気のない体育の実技。 
@@ -15546,7 +15404,6 @@ Let all our neighbors know that we shall join with them to oppose aggression or 
 アキレウスは、自分が死んだら、死体を焼き、その灰を友達の灰と混ぜ、その上に石室を建て、石室を土の墳丘で覆い、その上に石の柱を立てるように言った。 
 アキレウス　は、　自分(じぶん)　が　死ん(しん)だら、　死体(したい)　を　焼き(やき)、　その　灰(はい)　を　友達(ともだち)　の　灰(はい)　と　混ぜ(まぜ)、　その　上(うえ)　に　石室(いしむろ)　を　建て(たて)、　石室(いしむろ)　を　土(つち)　の　墳丘(ふんきゅう)　で　覆い(おおい)、　その　上(うえ)　に　石(いし)　の　柱(はしら)　を　立てる(たてる)　よう　に　言っ(いっ)た。 
 Achilles said that, when he died, they must burn his body, and mix the ashes with the ashes of his friend, and build over it a chamber of stone, and cover the chamber with a great hill of earth, and set a pillar of stone above it. 
-1871-188 
 
 1871-1
 靴を履く。 
@@ -15703,8 +15560,8 @@ The Rangoon was one of the Peninsular and Oriental Company's boats plying in the
 Many of Professor Shibagaki's pupils belonged to the upper-class families on the Toyoko and Ginza Lines. 
 1872-19
 「公民権」とは、国民全員に属する権利、特に法律的、社会的、経済的平等のことを意味する。 
-「公民権(こうみんけん)」　と　は、　国民(こくみん)　全員(ぜんいん)　に　属する(ぞくする)　権利(けんり)、　特に(とくに)　法律的(ほうりつてき)、　社会的(しゃかいてき)、　経済的(けいざいてき)　平等(びょうどう)　の　こと　を　意味(いみ)　する。 "
-Civil rights" are rights belonging to a person by reason of citizenship, especially the rights to legal, social, and economic equality. 
+「公民権(こうみんけん)」　と　は、　国民(こくみん)　全員(ぜんいん)　に　属する(ぞくする)　権利(けんり)、　特に(とくに)　法律的(ほうりつてき)、　社会的(しゃかいてき)、　経済的(けいざいてき)　平等(びょうどう)　の　こと　を　意味(いみ)　する。 
+"Civil rights" are rights belonging to a person by reason of citizenship, especially the rights to legal, social, and economic equality. 
 1872-20
 ルノーは1986年に軍に入り、そして幸運なことに、育った三沢基地に配属された。 
 ルノー　は　1986年(ねん)　に　軍(ぐん)　に　入り(はいり)、　そして　幸運(こううん)　な　ことに、　育っ(そだっ)た　三沢(みさわ)　基地(きち)　に　配属(はいぞく)　された。 
@@ -16079,7 +15936,8 @@ I had never spoken to her, except for a few casual words, and yet her name was l
 曹長(そうちょう)　は　米軍(べいぐん)　で　最も(もっとも)　高い(たかい)　軍曹(ぐんそう)　階級(かいきゅう)　だ。 
 Master sergeant is the highest sergeant rank in the U.S. military. 
 1879-2
-30人が選ばれ、老軍曹の指揮下にはいることになった。 30人(にん)　が　選ば(えらば)れ、　老(ろう)　軍曹(ぐんそう)　の　指揮下(しきか)　に　は　いる　こと　に　なった。 
+30人が選ばれ、老軍曹の指揮下にはいることになった。 
+30人(にん)　が　選ば(えらば)れ、　老(ろう)　軍曹(ぐんそう)　の　指揮下(しきか)　に　は　いる　こと　に　なった。 
 Thirty were chosen, and an old sergeant placed at their head. 
 1879-3
 祖父堀江匠は岩手県遠野市曹源寺の人で、大きな地主の次男だった。 
@@ -16127,10 +15985,9 @@ The party was caught bareheaded by the downpour.
 安全(あんぜん)　ヘルメット　は　事故(じこ)　に　遭っ(あっ)た　場合(ばあい)　に　頭部(とうぶ)　を　保護(ほご)　する。 
 A hard hat protects the head in case of accidents. 
 1880-10
-「
-SOS」とは、国際的に認められている無線電信符号による遭難信号である。 
-「
-SOS」　と　は、　国際的(こくさいてき)　に　認め(みとめ)られて　いる　無線(むせん)　電信(でんしん)　符号(ふごう)　に　よる　遭難(そうなん)　信号(しんごう)　で　ある。 "SOS" is an internationally recognized distress signal in radio code. 
+「SOS」とは、国際的に認められている無線電信符号による遭難信号である。 
+「SOS」　と　は、　国際的(こくさいてき)　に　認め(みとめ)られて　いる　無線(むせん)　電信(でんしん)　符号(ふごう)　に　よる　遭難(そうなん)　信号(しんごう)　で　ある。 
+"SOS" is an internationally recognized distress signal in radio code. 
 1880-11
 スペイン軍は騎兵に対抗できないし、またスイス兵は接近戦で遭遇すると必ず歩兵を恐れるのです。 
 スペイン　軍(ぐん)　は　騎兵(きへい)　に　対抗(たいこう)　できない　し、　また　スイス　兵(へい)　は　接近戦(せっきんせん)　で　遭遇(そうぐう)　する　と　必ず(かならず)　歩兵(ほへい)　を　恐れる(おそれる)　の　です。 
@@ -16147,7 +16004,6 @@ The greatest difficulty to be encountered does not lie in the appreciation of me
 君は彼らを見捨てて逝ってしまう、そしたら子供たちは偶然のままに捨て置かれるだろうよ。親を亡くした子供たちが普通たどるような運命に遭わなかったとしても、君にあんまり感謝しないだろうね。 
 君(きみ)　は　彼ら(かれら)　を　見捨て(みすて)て　逝っ(いっ)て　しまう、　そしたら　子供(こども)たち　は　偶然(ぐうぜん)　の　まま　に　捨て置か(すておか)れる　だろう　よ。　親(おや)　を　亡くし(なくし)た　子供(こども)たち　が　普通(ふつう)　たどる　よう　な　運命(うんめい)　に　遭わ(あわ)なかった　として　も、　君(きみ)　に　あんまり　感謝(かんしゃ)　しない　だろう　ね。 
 I should say that you are deserting your own children; for you might bring them up and educate them; instead of which you go away and leave them, and they will have to take their chance; and if they do not meet with the usual fate of orphans, there will be small thanks to you. 
-1881-189 
 
 1881-1
 蓋をした水槽。 
@@ -16378,10 +16234,9 @@ Beside her charged the twelve maidens of her bodyguard, and all the company of H
 芳一(ほういち)くん　は　自分(じぶん)　の　傍(そば)　の　敷板(しきいた)　の　上(うえ)　に　琴(こと)　を　置き(おき)、　入禅(にゅうぜん)　の　姿勢(しせい)　を　とり、　じっと　静か(しずか)　に　して　いた。 
 Hoichi laid his koto on the planking beside him, and, assuming the attitude of meditation, remained quite still. 
 1884-15
-「シギント〚
-SIGINT〛」とは、外国の通信の傍受、処理と分析から得られる情報のことを言う。 
-「シギント　〚
-SIGINT〛」　と　は、　外国(がいこく)　の　通信(つうしん)　の　傍受(ぼうじゅ)、　処理(しょり)　と　分析(ぶんせき)　から　得(え)られる　情報(じょうほう)　の　こと　を　言う(いう)。 "Signals Intelligence (SIGINT)" is intelligence derived from the interception and processing and analysis of foreign communications. 
+「シギント〚SIGINT〛」とは、外国の通信の傍受、処理と分析から得られる情報のことを言う。 
+「シギント　〚SIGINT〛」　と　は、　外国(がいこく)　の　通信(つうしん)　の　傍受(ぼうじゅ)、　処理(しょり)　と　分析(ぶんせき)　から　得(え)られる　情報(じょうほう)　の　こと　を　言う(いう)。 
+"Signals Intelligence (SIGINT)" is intelligence derived from the interception and processing and analysis of foreign communications. 
 1884-16
 彼が力なく、ベッドの傍らにシャツとズボンの姿で座っていると、彼女が軽くドアを叩いて入ってきた。 
 彼(かれ)　が　力(ちから)なく、　ベッド　の　傍ら(かたわら)　に　シャツ　と　ズボン　の　姿(すがた)　で　座っ(すわっ)て　いる　と、　彼女(かのじょ)　が　軽く(かるく)　ドア　を　叩い(たたい)て　入っ(はいっ)て　きた。 
@@ -16428,10 +16283,8 @@ Generally speaking, a job that requires fast and unexpected changes, significant
 None of these princes have armies that are veterans in the governance and administration of provinces, as were the armies of the Roman Empire. 
 「一　+ counter + として〜ない」　["not a single __"]: DJG v3 p117. 
 1885-8
-人間社会に於ける
-「所有物」の概念は、平和な行動と抗争とをはっきり分けるような境界を設けることで、人間同士の紛争を予防するのが機能だ。 
-人間(にんげん)　社会(しゃかい)　に　於け(おけ)る　
-「所有物(しょゆうぶつ)」　の　概念(がいねん)　は、　平和(へいわ)　な　行動(こうどう)　と　抗争(こうそう)　と　を　はっきり　分ける(わける)　よう　な　境界(きょうかい)　を　設ける(もうける)　こと　で、　人間(にんげん)　同士(どうし)　の　紛争(ふんそう)　を　予防(よぼう)　する　の　が　機能(きのう)　だ。 
+人間社会に於ける「所有物」の概念は、平和な行動と抗争とをはっきり分けるような境界を設けることで、人間同士の紛争を予防するのが機能だ。 
+人間(にんげん)　社会(しゃかい)　に　於け(おけ)る　「所有物(しょゆうぶつ)」　の　概念(がいねん)　は、　平和(へいわ)　な　行動(こうどう)　と　抗争(こうそう)　と　を　はっきり　分ける(わける)　よう　な　境界(きょうかい)　を　設ける(もうける)　こと　で、　人間(にんげん)　同士(どうし)　の　紛争(ふんそう)　を　予防(よぼう)　する　の　が　機能(きのう)　だ。 
 The function of property in human societies is to prevent inter-human conflict by setting bounds that clearly separate peaceful behavior from aggression. 
 1885-9
 イギリスの博愛家たちが熱心にやっていること、つまり人々をみな似たものにし、その思想や行為を同じ格律と規則で管理することに於いて、中国人たちは希望以上に成功しました。 
@@ -16516,10 +16369,8 @@ The peacock at the zoo spread his fan-like tail for us.
 寛治(かんじ)くん　は　風(かぜ)　が　彼(かれ)　に　直接(ちょくせつ)　向ける(むける)　よう　に　扇風機(せんぷうき)　を　調整(ちょうせい)　した。 
 Kanji adjusted the fan so that the airflow was directed right at him. 
 1887-6
-憤慨を
-「扇動する」とは、それを挑発すると言う意味です。 
-憤慨(ふんがい)　を　
-「扇動(せんどう)　する」　と　は、　それ　を　挑発(ちょうはつ)　する　と　言う(いう)　意味(いみ)　です。 
+憤慨を「扇動する」とは、それを挑発すると言う意味です。 
+憤慨(ふんがい)　を　「扇動(せんどう)　する」　と　は、　それ　を　挑発(ちょうはつ)　する　と　言う(いう)　意味(いみ)　です。 
 To "fan" resentment means to incite it. 
 1887-7
 扇子は安いし、軽いし、折り畳めるし、便利なお土産になる。 
@@ -16585,8 +16436,8 @@ Peering through the gloom, I saw the vague outline of a man, a shade blacker tha
 A freeze on hiring. 
 1889-2
 君が代不起立解雇反対！ 
-君が代(きみがよ)　不起立(ふきりつ)　解雇(かいこ)　反対(はんたい)！ [
-Demonstrators' chant] No dismissal (of public employees) for refusing to stand for the Kimigayo (the Japanese national anthem)! 
+君が代(きみがよ)　不起立(ふきりつ)　解雇(かいこ)　反対(はんたい)！ 
+[Demonstrators' chant] No dismissal (of public employees) for refusing to stand for the Kimigayo (the Japanese national anthem)! 
 1889-3
 詐欺を働き、雇用主から盗む。 
 詐欺(さぎ)　を　働き(はたらき)、　雇用主(こようぬし)　から　盗む(ぬすむ)。 
@@ -16729,7 +16580,6 @@ You must respect the confidentiality of your client's communications.
 セウェルス　は　ニゲル　を　打ち破り(うちやぶり)、　彼(かれ)　を　殺し(ころし)、　東方(とうほう)　情勢(じょうせい)　を　収拾(しゅうしゅう)　する　と、　ローマ　に　帰還(きかん)　し、　アルビヌス　は　彼(かれ)　から　受け(うけ)た　恩義(おんぎ)　を　ほとんど　顧みる(かえりみる)　こと　なく、　背信(はいしん)　して　彼(かれ)　を　殺害(さつがい)　しよう　と　して　おり、　この　忘恩(ぼうおん)　に対して(にたいして)　彼(かれ)　を　止む(やむ)　を　得(え)ず　罰する(ばっする)　と、　元老院(げんろういん)　に　訴え(うったえ)た　の　です。 
 After Severus had conquered and killed Niger, and settled oriental affairs, he returned to Rome and complained to the Senate that Albinus, little recognizing the benefits that he had received from him, had by treachery sought to murder him, and for this ingratitude he was compelled to punish him. 
 「やむをえず」　{止むを得ず　42; 387} ["inevitably"]. 
-1891-190 
 
 1891-1
 床の上の屑はごく注意して拾い上げた。 
@@ -16760,9 +16610,7 @@ Chips of wood littered the trampled floor, like splashed light, and the bases of
 糞詰まりは病気の症状かも。 
 糞詰まり(ふんづまり)　は　病気(びょうき)　の　症状(しょうじょう)　かも。 
 Your constipation might be a symptom of illness. 
-
-「糞詰まり」　is vulgar for 
-「便秘」; cf. 1384. 
+「糞詰まり」　is vulgar for 「便秘」; cf. 1384. 
 1892-2
 目糞も鼻糞も一拭きで取った。 
 目糞(めくそ)　も　鼻糞(はなくそ)　も　一拭き(ひとふき)　で　取っ(とっ)た。 
@@ -16949,10 +16797,9 @@ When I came downstairs again I found Mrs. Mercer sitting at the fire.
 彼(かれ)　は　階段(かいだん)　を　駆け(かけ)のぼり、　毛布(もうふ)　を　幾枚(いくまい)　か　取っ(とっ)て　来る(くる)　と、　それら　を　暖炉(だんろ)　の　火(ひ)　に　かざして　暖め(あたため)た。 
 He ran upstairs, took blankets from a bed, and put them before the fire to warm. 
 1896-16
-ほとんどの原子炉は235
-Uの含有量を0.72%から約3%にまで濃縮したウランを必要としている。 
-ほとんど　の　原子炉(げんしろ)　は　235
-U　の　含有量(がんゆうりょう)　を　0.72%　から　約(やく)　3%　に　まで　濃縮(のうしゅく)　した　ウラン　を　必要(ひつよう)　と　して　いる。 Most reactors require uranium in which the 235U content is enriched from 0.72% to about 3%. 
+ほとんどの原子炉は235Uの含有量を0.72%から約3%にまで濃縮したウランを必要としている。 
+ほとんど　の　原子炉(げんしろ)　は　235U　の　含有量(がんゆうりょう)　を　0.72%　から　約(やく)　3%　に　まで　濃縮(のうしゅく)　した　ウラン　を　必要(ひつよう)　と　して　いる。 
+Most reactors require uranium in which the 235U content is enriched from 0.72% to about 3%. 
 
 1897-1
 清水焼の窯元。 
