@@ -1,0 +1,24 @@
+RegEx
+
+CLEAN FRESH BOOK OF (xxx) at end of meaning sentence
+\([[:digit:]]{1,3}\) \n
+\([[:digit:]]{1,3}\)  \n
+
+replace with \n
+
+
+
+
+
+
+
+Highlight Examples
+[[:digit:]]{4}-[[:digit:]]{1,2}
+
+
+
+
+
+
+IF NOT START OF LINE
+(?<!^)「

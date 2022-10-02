@@ -1,0 +1,54 @@
+Pref -> Settings
+
+
+{
+	"color_scheme": "Mariana.sublime-color-scheme",
+	"font_size": 10,
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+		"close_find_after_find_all": false,
+	"close_find_after_replace_all": false,
+	"theme": "Default Dark.sublime-theme",
+	"auto_complete": false,
+	"show_encoding": true,
+}
+
+
+
+Pref -> Key Bindings
+
+[
+	{ "keys": ["ctrl+super+j"], "command": "move_to", "args": {"to": "bol", "extend": false} },
+	{ "keys": ["ctrl+super+l"], "command": "move_to", "args": {"to": "eol", "extend": false} },
+	{ "keys": ["ctrl+tab"], "command": "next_view" },
+	{ "keys": ["ctrl+shift+tab"], "command": "prev_view" },
+
+]
+
+Pref -> Customize Color Scheme
+
+// Documentation at https://www.sublimetext.com/docs/color_schemes.html
+{
+	"variables":
+	{
+		// originally blue2 was used
+		"highlight_color": "hsla(27, 88%, 42%, 0.85)",
+		"line_color": "hsla(27, 88%, 42%, 0.3)",
+		"border_color": "hsla(4, 91%, 35%, 0.1)",
+		"find_color": "hsla(103, 88%, 42%, 0.6)",
+	},
+	"globals":
+	{
+		"selection": "var(highlight_color)",
+		"selection_border": "var(border_color)",
+		"find_highlight": "var(find_color)",
+		"line_highlight": "var(line_color)"
+
+	},
+	"rules":
+	[
+		
+	]
+}
