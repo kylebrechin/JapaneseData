@@ -11310,7 +11310,8 @@ Sepulchral inscriptions.
 古代(こだい)　の　碑文(ひぶん)　の　研究(けんきゅう)。 
 The study of ancient inscriptions. 
 2088-3
-1958年、その記念碑は広島平和公園に建てられた。 1958年(ねん)、　その　記念碑(きねんひ)　は　広島(ひろしま)　平和(へいわ)　公園(こうえん)　に　建て(たて)られた。 
+1958年、その記念碑は広島平和公園に建てられた。 
+1958年(ねん)、　その　記念碑(きねんひ)　は　広島(ひろしま)　平和(へいわ)　公園(こうえん)　に　建て(たて)られた。 
 In 1958, the statue was built in the Hiroshima Peace Park. 
 2088-4
 ストーンヘンジは南英国の古代の巨石の記念碑である。 
@@ -11414,7 +11415,6 @@ Count Dracula is a fictional vampire in a gothic horror novel by Bram Stoker.
 私と猫との親しみはこんな具合にして数年間続いたが、その間に私の気質や性格は一般に――酒癖という悪鬼のために――急激に悪いほうへ〚白状するのも恥ずかしいが〛変ってしまった。 
 私(わたし)　と　猫(ねこ)　と　の　親しみ(したしみ)　は　こんな　具合(ぐあい)　に　して　数年間(すうねんかん)　続い(つづい)た　が、　その間(そのかん)　に　私(わたし)　の　気質(きしつ)　や　性格(せいかく)　は　一般に(いっぱんに)　――　酒癖(さけぐせ)　という　悪鬼(あっき)　の　ため　に　――　急激(きゅうげき)　に　悪い(わるい)　ほう　へ　〚白状(はくじょう)　する　の　も　恥ずかしい(はずかしい)　が〛　変っ(かわっ)て　しまった。 
 My friendship with the cat lasted, in this manner, for several years, during which my general temperament and character - through the instrumentality of the Fiend Intemperance - had (I blush to confess it) experienced a radical alteration for the worse. 
-2091-210 
 
 2091-1
 鉄鋳塊。 
@@ -11500,11 +11500,7 @@ His long, hairy arms stretched out and his ugly face grinned terribly.
 2092-8
 ネリー・ブライ〚1864年−1922年〛は醜聞を暴く米国の記者で、精神病院の酷い状況を暴露した。 
 ネリー・ブライ　〚1864年(ねん)　−　1922年(ねん)〛　は　醜聞(しゅうぶん)　を　暴く(あばく)　米国(べいこく)　の　記者(きしゃ)　で、　精神(せいしん)　病院(びょういん)　の　酷い(ひどい)　状況(じょうきょう)　を　暴露(ばくろ)　した。 
-Nellie Bly (
-1864-192
-) 
-
-was a muckraking United States journalist who exposed poor conditions in mental institutions. 
+Nellie Bly (1864-192) was a muckraking United States journalist who exposed poor conditions in mental institutions. 
 2092-9
 その醜悪な姿を鏡で眺めていても、嫌悪を感じるどころか、大歓迎で小躍りしたいくらいのものだったのだ。 
 その　醜悪(しゅうあく)　な　姿(すがた)　を　鏡(かがみ)　で　眺め(ながめ)て　いて　も、　嫌悪(けんお)　を　感じる(かんじる)　どころか、　大歓迎(だいかんげい)　で　小躍り(こおどり)　したい　くらい　の　もの　だった　の　だ。 
@@ -11917,7 +11913,6 @@ Publishers reduced print runs to cut down the cost of warehousing.
 こぎ手たちが彼を担架で船に運び、恐ろしい傷を湯で洗い、油を刷り込み、柔らかい亜麻布で覆った。 
 こぎ手(こぎて)たち　が　彼(かれ)　を　担架(たんか)　で　船(ふね)　に　運び(はこび)、　恐ろしい(おそろしい)　傷(きず)　を　湯(ゆ)　で　洗い(あらい)、　油(あぶら)　を　刷り込み(すりこみ)、　柔らかい(やわらかい)　亜麻布(あまぬの)　で　覆っ(おおっ)た。 
 The oarsmen carried him down to the ship on a litter, and there his dreadful wound was washed with warm water, and oil was poured into it, and it was bound up with soft linen. 
-
 「こぎ」　is the stem form of 
 「こぐ」　(“to row”). 
 2097-8
@@ -11925,10 +11920,8 @@ The oarsmen carried him down to the ship on a litter, and there his dreadful wou
 それ　は　昔(むかし)、　キョルン　の　町(まち)　に　現れ(あらわれ)た、　畏敬(いけい)　の　念(ねん)　を　起こさ(おこさ)せた　空中(くうちゅう)　現象(げんしょう)　を　描い(えがい)た　一枚(いちまい)　の　木版刷(もくはんずり)　でした。 
 It was a coarse wood-cut, representing an awe-inspiring meteorological phenomenon seen in the town of Cologne. 
 2097-9
-だからこそ、印刷物は失敗したのに、日本のアニメ――吹き替えられ、読者がどっちから
-「読む」のか混乱しなくていいもの――は世界に対して日本漫画の扉を開けることに成功したのです。 
-だ　から　こそ、　印刷物(いんさつぶつ)　は　失敗(しっぱい)　した　のに、　日本(にほん)　の　アニメ　――　吹き替え(ふきかえ)られ、　読者(どくしゃ)　が　どっち　から　
-「読む(よむ)」　の　か　混乱(こんらん)　しなくて　いい　もの　――　は　世界(せかい)　に対して(にたいして)　日本(にほん)　漫画(まんが)　の　扉(とびら)　を　開ける(あける)　こと　に　成功(せいこう)　した　の　です。 
+だからこそ、印刷物は失敗したのに、日本のアニメ――吹き替えられ、読者がどっちから「読む」のか混乱しなくていいもの――は世界に対して日本漫画の扉を開けることに成功したのです。 
+だ　から　こそ、　印刷物(いんさつぶつ)　は　失敗(しっぱい)　した　のに、　日本(にほん)　の　アニメ　――　吹き替え(ふきかえ)られ、　読者(どくしゃ)　が　どっち　から　「読む(よむ)」　の　か　混乱(こんらん)　しなくて　いい　もの　――　は　世界(せかい)　に対して(にたいして)　日本(にほん)　漫画(まんが)　の　扉(とびら)　を　開ける(あける)　こと　に　成功(せいこう)　した　の　です。 
 This is why Japanese animation-which is dubbed and doesn’t confuse the reader by ‘reading’ in one direction or another-has been able to open the door for Japanese comics overseas where printed materials have failed. 
 
 2098-1
@@ -12100,11 +12093,7 @@ On his hairless face there scintillated restlessly the polished lenses and the b
 2100-13
 人はね、最後まで育てる気も教育を授ける気もないような子供を作るべきじゃないんだよ。君は一番安易な道を選んでいるような気がするよ。それは善きことでも勇敢なことでもないし、一生自分の徳を磨き続けると公言している男のとるべき道じゃないよ。僕はね、君だけじゃなく友人である僕らにとっても、本当に恥ずかしく思うんだ。というのもね、この事件全体の成り行きが、僕らのほうに勇気が足りなかったためにこうなってしまったんじゃないかと考えてしまうんだよ。 
 人(ひと)　は　ね、　最後(さいご)　まで　育てる(そだてる)　気(き)　も　教育(きょういく)　を　授ける(さずける)　気(き)　も　ない　よう　な　子供(こども)　を　作る(つくる)　べき　じゃ　ない　ん　だ　よ。　君(きみ)　は　一番(いちばん)　安易(あんい)　な　道(みち)　を　選ん(えらん)で　いる　よう　な　気(き)　が　する　よ。　それ　は　善き(よき)　こと　でも　勇敢(ゆうかん)　な　こと　でも　ない　し、　一生(いっしょう)　自分(じぶん)　の　徳(とく)　を　磨き続ける(みがきつづける)　と　公言(こうげん)　して　いる　男(おとこ)　の　とる　べき　道(みち)　じゃ　ない　よ。　僕(ぼく)　は　ね、　君(きみ)　だけ　じゃ　なく　友人(ゆうじん)　で　ある　僕ら(ぼくら)　に　とって　も、　本当に(ほんとうに)　恥ずかしく(はずかしく)　思う(おもう)　ん　だ。　というのも　ね、　この　事件(じけん)　全体(ぜんたい)　の　成り行き(なりゆき)　が、　僕ら(ぼくら)　の　ほう　に　勇気(ゆうき)　が　足り(たり)なかった　ため　に　こう　なって　しまった　ん　じゃ　ない　か　と　考え(かんがえ)て　しまう　ん　だ　よ。 
-No man should bring children into the world who is unwilling to persevere to the end in their nurture and education. But you appear to be choosing the easier part, not the better and manlier, which would have been more becoming in one who professes to care for virtue in all his actions, like yourself. And indeed, I am ashamed not only of you, but of us who are your friends, when I reflect that the whole business will be attributed entirely to our want of courage. (23) ㊗ 　Congratulations!  ㊗ You have now attained the 22nd dan:
-カン 
-
-KANJISSEUR Let us know at the KLC user group on Facebook! Share on:　Reddit　Twitter　Facebook　LinkedIn 
-2101-211 
+No man should bring children into the world who is unwilling to persevere to the end in their nurture and education. But you appear to be choosing the easier part, not the better and manlier, which would have been more becoming in one who professes to care for virtue in all his actions, like yourself. And indeed, I am ashamed not only of you, but of us who are your friends, when I reflect that the whole business will be attributed entirely to our want of courage. 
 
 2101-1
 凹形の造型。 
@@ -12242,12 +12231,8 @@ Creationism holds to the doctrine of Fixity of Species (no evolution) and accoun
 創造説(そうぞうせつ)　科学(かがく)　〚大抵(たいてい)　は　創造説(そうぞうせつ)　と　交換(こうかん)　可能(かのう)　に　使わ(つかわ)れる　用語(ようご)　だ〛　は、　創造説(そうぞうせつ)　を　信じる(しんじる)　こと　が　科学的(かがくてき)　立場(たちば)　で　あって、　従って(したがって)　現代(げんだい)　の　進化(しんか)　理論(りろん)　に　置き換わる(おきかわる)　科学的(かがくてき)　な　選択肢(せんたくし)　と　みる　べき　だ　という　主張(しゅちょう)　を　伴っ(ともなっ)た　創造説(そうぞうせつ)　の　信奉(しんぽう)　の　こと　を　言う(いう)。 
 Creation Science (a term frequently used interchangeably with Creationism) refers to a faith in Creationism, together with a claim that this belief has scientific status and hence should be seen as a scientific alternative to modern evolutionary theories. 
 2103-16
-映画業界のお金の力で強化される映画のスターを崇め奉ることは、俳優個人ただ一人だけである
-「アウラ」の意味をなくし、インチキな商品的な価値だけを意味する
-「人格の魔術」を温存するのだ。 
-映画(えいが)　業界(ぎょうかい)　の　お金(おかね)　の　力(ちから)　で　強化(きょうか)　される　映画(えいが)　の　スター　を　崇め奉る(あがめたてまつる)　こと　は、　俳優(はいゆう)　個人(こじん)　ただ　一人(ひとり)　だけ　で　ある　
-「アウラ」　の　意味(いみ)　を　なくし、　インチキ　な　商品的(しょうひんてき)　な　価値(かち)　だけ　を　意味(いみ)　する　
-「人格(じんかく)　の　魔術(まじゅつ)」　を　温存(おんぞん)　する　の　だ。 
+映画業界のお金の力で強化される映画のスターを崇め奉ることは、俳優個人ただ一人だけである「アウラ」の意味をなくし、インチキな商品的な価値だけを意味する「人格の魔術」を温存するのだ。 
+映画(えいが)　業界(ぎょうかい)　の　お金(おかね)　の　力(ちから)　で　強化(きょうか)　される　映画(えいが)　の　スター　を　崇め奉る(あがめたてまつる)　こと　は、　俳優(はいゆう)　個人(こじん)　ただ　一人(ひとり)　だけ　で　ある　「アウラ」　の　意味(いみ)　を　なくし、　インチキ　な　商品的(しょうひんてき)　な　価値(かち)　だけ　を　意味(いみ)　する　「人格(じんかく)　の　魔術(まじゅつ)」　を　温存(おんぞん)　する　の　だ。 
 The cult of the movie star, fostered by the money of the film industry, preserves not the unique aura of the person but the "spell of the personality", the phony spell of a commodity. 
 
 2104-1
@@ -12355,10 +12340,8 @@ He knew that Mary Jane must be near the end of her piece for she was playing aga
 幾百年(いくひゃくねん)　か　以前(いぜん)　の　事(こと)、　この　赤間ヶ関(あかまがせき)　に　芳一(ほういち)くん　という　盲人(もうじん)　が　住ん(すん)で　いた　が、　この　男(おとこ)　は　吟唱(ぎんしょう)　して、　琴(こと)　を　奏(そう)する　に　妙(みょう)　を　得(え)て　いる　ので　世に(よに)　聞え(きこえ)て　いた。　子供(こども)　の　時(とき)　から　吟唱(ぎんしょう)　し、　かつ　弾奏(だんそう)　する　訓練(くんれん)　を　受け(うけ)て　いた　の　で　ある。 
 Some centuries ago there lived at Akamagaseki a blind man named Hoichi, who was famed for his skill in recitation and in playing upon the koto. From childhood he had been trained to recite and to play. 
 2104-27
-著作権の下にある主要な11の権利は、日本著作権法第二章第二節第21-28章で定められており、複製権、上演権及び演奏権、上映権、公衆送信権等、口述権、展示権、頒布権、譲渡権、貸与権、
-「翻訳権、翻案権等」、二次的著作物の利用に関する原著作者の権利である。 
-著作権(ちょさくけん)　の　下(もと)　に　ある　主要(しゅよう)　な　11の　権利(けんり)　は、　日本(にほん)　著作権(ちょさくけん)　法(ほう)　第二(だいに)　章(しょう)　第二(だいに)　節(せつ)　第(だい)　21 - 28章(しょう)　で　定め(さだめ)られて　おり、　複製権(ふくせいけん)、　上演権(じょうえんけん)　及び(および)　演奏権(えんそうけん)、　上映権(じょうえいけん)、　公衆(こうしゅう)　送信権(そうしんけん)　等(など)、　口述権(こうじゅつけん)、　展示権(てんじけん)、　頒布権(はんぷけん)、　譲渡権(じょうとけん)、　貸与権(たいよけん)、　
-「翻訳権(ほんやくけん)、　翻案権(ほんあんけん)　等(など)」、　二次的(にじてき)　著作物(ちょさくぶつ)　の　利用(りよう)　に関する(にかんする)　原著作者(げんちょさくしゃ)　の　権利(けんり)　で　ある。 
+著作権の下にある主要な11の権利は、日本著作権法第二章第二節第21-28章で定められており、複製権、上演権及び演奏権、上映権、公衆送信権等、口述権、展示権、頒布権、譲渡権、貸与権、「翻訳権、翻案権等」、二次的著作物の利用に関する原著作者の権利である。 
+著作権(ちょさくけん)　の　下(もと)　に　ある　主要(しゅよう)　な　11の　権利(けんり)　は、　日本(にほん)　著作権(ちょさくけん)　法(ほう)　第二(だいに)　章(しょう)　第二(だいに)　節(せつ)　第(だい)　21 - 28章(しょう)　で　定め(さだめ)られて　おり、　複製権(ふくせいけん)、　上演権(じょうえんけん)　及び(および)　演奏権(えんそうけん)、　上映権(じょうえいけん)、　公衆(こうしゅう)　送信権(そうしんけん)　等(など)、　口述権(こうじゅつけん)、　展示権(てんじけん)、　頒布権(はんぷけん)、　譲渡権(じょうとけん)、　貸与権(たいよけん)、　「翻訳権(ほんやくけん)、　翻案権(ほんあんけん)　等(など)」、　二次的(にじてき)　著作物(ちょさくぶつ)　の　利用(りよう)　に関する(にかんする)　原著作者(げんちょさくしゃ)　の　権利(けんり)　で　ある。 
 The eleven major rights under copyrights, Japan Copyright Law 2 § 3 arts. 21-28, cover the rights of reproduction, of performance, of presentation, "of public transmission, etc.", of recitation, of exhibition, of distribution, of transfer of ownership, of lending, "of translation, adaptation, etc.", and "of the original author in exploitation of a derivative work". 
 
 2105-1
@@ -12460,7 +12443,8 @@ The acrobats' turning on ladders, poles, balls, barrels, etc., was executed with
 私(わたし)　は　鉄棒(てつぼう)　を　投げ捨て(なげすて)ました　が、　それ　を　使わ(つかわ)なかった　こと　が　ほとんど　残念(ざんねん)　に　思え(おもえ)た　ほど　です。 
 I threw my iron bar away, almost sorry not to use it. 
 2107-17
-2歳3ヶ月になると、彼は本や棒などを、自分を怒らせた何かに向かって投げる名人となっていた。 2歳(さい)　3ヶ月(かげつ)　に　なる　と、　彼(かれ)　は　本(ほん)　や　棒(ぼう)　など　を、　自分(じぶん)　を　怒ら(おこら)せた　何(なに)　か　に　向かっ(むかっ)て　投げる(なげる)　名人(めいじん)　と　なって　いた。 
+2歳3ヶ月になると、彼は本や棒などを、自分を怒らせた何かに向かって投げる名人となっていた。 
+2歳(さい)　3ヶ月(かげつ)　に　なる　と、　彼(かれ)　は　本(ほん)　や　棒(ぼう)　など　を、　自分(じぶん)　を　怒ら(おこら)せた　何(なに)　か　に　向かっ(むかっ)て　投げる(なげる)　名人(めいじん)　と　なって　いた。 
 When two years and three months old, he became a great adept at throwing books or sticks, &c., at anyone who offended him. 
 2107-18
 下りるのは井戸の横から突き出した金属の棒に捕まって行いましたが、これは私よりずっと小さくて軽い生き物に適応した物だったので、すぐに手足が痺れて疲れてきました。棒の一つが重みで急に曲がり、下の暗闇に私を落としかけたのです。 
@@ -12538,8 +12522,8 @@ Nothing can rival cotton for durability.
 This job asks a lot of patience and skill. 
 2109-11
 「回復力」とは、辛苦や緊張に耐える力のことを言う。 
-「回復力(かいふくりょく)」　と　は、　辛苦(しんく)　や　緊張(きんちょう)　に　耐える(たえる)　力(ちから)　の　こと　を　言う(いう)。 "
-Resilience" is the power to withstand hardship or stress. 
+「回復力(かいふくりょく)」　と　は、　辛苦(しんく)　や　緊張(きんちょう)　に　耐える(たえる)　力(ちから)　の　こと　を　言う(いう)。 
+"Resilience" is the power to withstand hardship or stress. 
 2109-12
 鈴さんは悲惨な結婚生活を2年間耐えた。 
 鈴(れい)さん　は　悲惨(ひさん)　な　結婚(けっこん)　生活(せいかつ)　を　2年間(ねんかん)　耐え(たえ)た。 
@@ -12577,19 +12561,17 @@ The defects are almost always more tolerable than the change necessary for their
 君主(くんしゅ)　は、　飽く(あく)　なき　探究者(たんきゅうしゃ)　で　ある　べき　で、　次いで(ついで)、　探究(たんきゅう)　する　事柄(ことがら)　に関して(にかんして)　は　忍耐強い(にんたいづよい)　聴き手(ききて)　で　ある　べき　な　の　です。 
 The prince ought to be a constant inquirer, and afterwards a patient listener concerning the things of which he inquired. 
 2109-21
-一般公衆の可溶性ウラン化合物の摂取は一日につき体重1
-kgあたり0.5μgの耐容摂取量を超過すべきでない。 
-一般(いっぱん)　公衆(こうしゅう)　の　可溶性(かようせい)　ウラン　化合物(かごうぶつ)　の　摂取(せっしゅ)　は　一日(いちにち)　につき　体重(たいじゅう)　1
-kg(キログラム)　あたり　0.5μg(マイクログラム)　の　耐容(たいよう)　摂取量(せっしゅりょう)　を　超過(ちょうか)　すべき　で　ない。 The general public's ingestion of soluble uranium compounds should not exceed the tolerable intake of 0.5 μg per kg of body weight per day. 
+一般公衆の可溶性ウラン化合物の摂取は一日につき体重1kgあたり0.5μgの耐容摂取量を超過すべきでない。 
+一般(いっぱん)　公衆(こうしゅう)　の　可溶性(かようせい)　ウラン　化合物(かごうぶつ)　の　摂取(せっしゅ)　は　一日(いちにち)　につき　体重(たいじゅう)　1kg(キログラム)　あたり　0.5μg(マイクログラム)　の　耐容(たいよう)　摂取量(せっしゅりょう)　を　超過(ちょうか)　すべき　で　ない。 
+The general public's ingestion of soluble uranium compounds should not exceed the tolerable intake of 0.5 μg per kg of body weight per day. 
 2109-22
 常識的な理解では、財産の観念は一般に、ある程度耐久性がある有形で売却できる財貨以外のものとは結びつかない。 
 常識的(じょうしきてき)　な　理解(りかい)　で　は、　財産(ざいさん)　の　観念(かんねん)　は　一般(いっぱん)　に、　ある　程度(ていど)　耐久性(たいきゅうせい)　が　ある　有形(ゆうけい)　で　売却(ばいきゃく)　できる　財貨(ざいか)　以外(いがい)　の　もの　と　は　結びつか(むすびつか)ない。 
 In the common-sense understanding, the idea of property is not currently attached to any but tangible, vendible goods of some durability. 
 2109-23
-不溶性ウラン化合物は腎臓に対する毒性が著しく少なく、耐容摂取量を一日につき体重1
-kgあたり5μgとするのが適当である。 
-不溶性(ふようせい)　ウラン　化合物(かごうぶつ)　は　腎臓(じんぞう)　に対する(にたいする)　毒性(どくせい)　が　著しく(いちじるしく)　少なく(すくなく)、　耐容(たいよう)　摂取量(せっしゅりょう)　を　一日(いちにち)　につき　体重(たいじゅう)　1
-kg(キログラム)　あたり　5μg(マイクログラム)　と　する　の　が　適当(てきとう)　で　ある。 Insoluble uranium compounds are markedly less toxic to the kidneys, and a tolerable intake of 5 μg per kg of body weight per day is applicable. 
+不溶性ウラン化合物は腎臓に対する毒性が著しく少なく、耐容摂取量を一日につき体重1kgあたり5μgとするのが適当である。 
+不溶性(ふようせい)　ウラン　化合物(かごうぶつ)　は　腎臓(じんぞう)　に対する(にたいする)　毒性(どくせい)　が　著しく(いちじるしく)　少なく(すくなく)、　耐容(たいよう)　摂取量(せっしゅりょう)　を　一日(いちにち)　につき　体重(たいじゅう)　1kg(キログラム)　あたり　5μg(マイクログラム)　と　する　の　が　適当(てきとう)　で　ある。 
+Insoluble uranium compounds are markedly less toxic to the kidneys, and a tolerable intake of 5 μg per kg of body weight per day is applicable. 
 2109-24
 自らを律して慎重で忍耐強く振舞ってきた人にとって、彼のやり方が旨く行くように、時代と状況が集まるなら、彼には運は向くでしょう。 
 自ら(みずから)　を　律し(りっし)て　慎重(しんちょう)　で　忍耐強く(にんたいづよく)　振舞っ(ふるまっ)て　きた　人(ひと)　に　とって、　彼(かれ)　の　やり方(やりかた)　が　旨く(うまく)　行く(いく)　よう　に、　時代(じだい)　と　状況(じょうきょう)　が　集まる(あつまる)　なら、　彼(かれ)　に　は　運(うん)　は　向く(むく)　でしょう。 
@@ -12599,10 +12581,8 @@ If, to one who governs himself with caution and patience, times and affairs conv
 いつも　希望(きぼう)　を　もって　喜び(よろこび)　を　抱き(いだき)、　苦難(くなん)　に　耐え(たえ)ながら、　人類(じんるい)　の　共通(きょうつう)　の　敵(てき)、　専制(せんせい)、　貧困(ひんこん)、　疫病(やくびょう)、　そして　戦争(せんそう)　そのもの　に対して(にたいして)　闘う(たたかう)　という　重荷(おもに)　を。 
 Rejoicing in hope, patient in tribulation. . .a struggle against the common enemies of man: tyranny. . .poverty. . .disease. . .and war itself. 
 2109-26
-最も不寛容な教会であるローマ・カトリック教会であっても、聖人の列聖に際してさえ、
-「悪魔の代弁者」を認め、忍耐強く耳を傾けるのです。 
-最も(もっとも)　不寛容(ふかんよう)　な　教会(きょうかい)　で　ある　ローマ・カトリック　教会(きょうかい)　で　あって　も、　聖人(せいじん)　の　列聖(れっせい)　に　際し(さいし)て　さえ、　
-「悪魔(あくま)　の　代弁者(だいべんしゃ)」　を　認め(みとめ)、　忍耐強く(にんたいづよく)　耳(みみ)　を　傾ける(かたむける)　の　です。 
+最も不寛容な教会であるローマ・カトリック教会であっても、聖人の列聖に際してさえ、「悪魔の代弁者」を認め、忍耐強く耳を傾けるのです。 
+最も(もっとも)　不寛容(ふかんよう)　な　教会(きょうかい)　で　ある　ローマ・カトリック　教会(きょうかい)　で　あって　も、　聖人(せいじん)　の　列聖(れっせい)　に　際し(さいし)て　さえ、　「悪魔(あくま)　の　代弁者(だいべんしゃ)」　を　認め(みとめ)、　忍耐強く(にんたいづよく)　耳(みみ)　を　傾ける(かたむける)　の　です。 
 Even the most intolerant of churches, the Roman Catholic Church, even at the canonization of a saint, admits, and listens patiently to, a "devil's advocate". 
 2109-27
 付き従った人たちも、忍耐強く公爵と不幸な運命を共にした末に、平和と幸福に包まれながら、正統な公爵と共に宮殿に戻れることを大変喜んだのである。 
@@ -12699,10 +12679,8 @@ According to the theory of reincarnation, the soul begins a new cycle of existen
 日常(にちじょう)　の　多く(おおく)　の　科学的(かがくてき)　活動(かつどう)　が　ある　人(ひと)たち　に　は　宗教的(しゅうきょうてき)　あるいは　霊的(れいてき)　な　洞察(どうさつ)　を　もたる　こと　は　認め(みとめ)なくて　は　ならない。 
 One has to concede that many scientific activities routinely lead some people to religious or spiritual insight. 
 2110-17
-主は言われた、
-「私の霊は長く人の中に留まらない。彼は肉に過ぎないのだ。しかし、彼の年は百二十年であろう」。 
-主(しゅ)　は　言わ(いわ)れた、　
-「私(わたし)　の　霊(れい)　は　長く(ながく)　人(ひと)　の　中(なか)　に　留まら(とまら)ない。　彼(かれ)　は　肉(にく)　に　過ぎ(すぎ)ない　の　だ。　しかし、　彼(かれ)　の　年(とし)　は　百二十(ひゃくにじゅう)　年(ねん)　で　あろう」。 
+主は言われた、「私の霊は長く人の中に留まらない。彼は肉に過ぎないのだ。しかし、彼の年は百二十年であろう」。 
+主(しゅ)　は　言わ(いわ)れた、　「私(わたし)　の　霊(れい)　は　長く(ながく)　人(ひと)　の　中(なか)　に　留まら(とまら)ない。　彼(かれ)　は　肉(にく)　に　過ぎ(すぎ)ない　の　だ。　しかし、　彼(かれ)　の　年(とし)　は　百二十(ひゃくにじゅう)　年(ねん)　で　あろう」。 
 The Lord said, "My spirit shall not always strive with man, for that he also is flesh: yet his days shall be a hundred and twenty years". 
 2110-18
 過去の宗教に強力に対抗している現代の改革者の中には、霊的支配の正当性の主張ということでは、教会や宗派に決っして引けを取らない人もいるのです。 
@@ -12712,7 +12690,6 @@ Some of those modern reformers who have placed themselves in strongest oppositio
 霊的権威と世俗的権威が分離したことで、人の良心の統制は世俗的事柄を統制する者とは別の手に委ねられ、このように広汎に私的生活の細部まで法が干渉することは防がれたのです。 
 霊的(れいてき)　権威(けんい)　と　世俗的(せぞくてき)　権威(けんい)　が　分離(ぶんり)　した　こと　で、　人(ひと)　の　良心(りょうしん)　の　統制(とうせい)　は　世俗的(せぞくてき)　事柄(ことがら)　を　統制(とうせい)　する　者(もの)　と　は　別(べつ)　の　手(て)　に　委ね(ゆだね)られ、　この　よう　に　広汎(こうはん)　に　私的(してき)　生活(せいかつ)　の　細部(さいぶ)　まで　法(ほう)　が　干渉(かんしょう)　する　こと　は　防が(ふせが)れた　の　です。 
 The separation between spiritual and temporal authority, which placed the direction of men's consciences in other hands than those which controlled their worldly affairs, prevented so great an interference by law in the details of private life. 
-2111-212 
 
 2111-1
 膨大な需要。 
@@ -12831,10 +12808,7 @@ He saw holy retreats where there were sheltered Buddhist priests and sectaries o
 2113-3
 孔子〚紀元前551年−478年頃〛は中国の哲学者で、死後、考えと格言が集められ、儒教として知られる哲学的教義の基礎になった。 
 孔子(こうし)　〚紀元前(きげんぜん)　551年(ねん)　−　478年(ねん)　頃(ごろ)〛　は　中国(ちゅうごく)　の　哲学者(てつがくしゃ)　で、　死後(しご)、　考え(かんがえ)　と　格言(かくげん)　が　集め(あつめ)られ、　儒教(じゅきょう)　として　知ら(しら)れる　哲学的(てつがくてき)　教義(きょうぎ)　の　基礎(きそ)　に　なった。 
-Confucius (circa 
-551-478
-
-BC) was a Chinese philosopher whose ideas and sayings were collected after his death and became the basis of a philosophical doctrine known a Confucianism. 
+Confucius (circa 551-478 BC) was a Chinese philosopher whose ideas and sayings were collected after his death and became the basis of a philosophical doctrine known a Confucianism. 
 2113-4
 この多数ある世間のどれが自分の信頼の対象となっているかは、単に偶然に決まったものであり、ロンドンで国教会信者になったのと同じ要因で、北京の仏教徒や儒教徒になったかもしれないことで、悩まされることなど丸でありません。 
 この　多数(たすう)　ある　世間(せけん)　の　どれ　が　自分(じぶん)　の　信頼(しんらい)　の　対象(たいしょう)　と　なって　いる　か　は、　単に(たんに)　偶然(ぐうぜん)　に　決まっ(きまっ)た　もの　で　あり、　ロンドン　で　国教会(こっきょうかい)　信者(しんじゃ)　に　なった　の　と　同じ(おなじ)　要因(よういん)　で、　北京(ペキン)　の　仏教徒(ぶっきょうと)　や　儒教徒(じゅきょうと)　に　なった　かも　しれない　こと　で、　悩まさ(なやまさ)れる　こと　など　丸(まる)　で　ありません。 
