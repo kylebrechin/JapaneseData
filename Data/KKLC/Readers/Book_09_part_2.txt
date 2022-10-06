@@ -3024,7 +3024,8 @@ I made no doubt that I could readily displace the bricks at this point, insert t
 術後(じゅつご)　合併症(がっぺいしょう)。 
 Postoperative complications.  
 2168-2
-2つの企業の合併。 2つ　の　企業(きぎょう)　の　合併(がっぺい)。 
+2つの企業の合併。 
+2つ　の　企業(きぎょう)　の　合併(がっぺい)。 
 A consolidation of two corporations. 
 2168-3
 夫婦は資源を合併した。 
@@ -3067,7 +3068,8 @@ Man is a mixture of good and bad.
 「冷や汗(ひやあせ)」　と　は　発汗(はっかん)　と　寒気(さむけ)　が　併発(へいはつ)　する　体調(たいちょう)　を　言う(いう)。 
 A "cold sweat" refers to the physical condition of experiencing concurrent perspiration and chill. 
 2168-13
-10年前に協和銀行と埼玉銀行は合併してあさひ銀行になった。 10年(ねん)　前(まえ)　に　協和(きょうわ)　銀行(ぎんこう)　と　埼玉(さいたま)　銀行(ぎんこう)　は　合併(がっぺい)　して　あさひ　銀行(ぎんこう)　に　なった。 
+10年前に協和銀行と埼玉銀行は合併してあさひ銀行になった。 
+10年(ねん)　前(まえ)　に　協和(きょうわ)　銀行(ぎんこう)　と　埼玉(さいたま)　銀行(ぎんこう)　は　合併(がっぺい)　して　あさひ　銀行(ぎんこう)　に　なった。 
 Kyowa Bank and Saitama Bank merged into Asahi Bank ten years ago. 
 2168-14
 合併活動の活発な期間には、更に多くの会社が企業買収活動に従事しようとする時流効果がある。 
@@ -3151,7 +3153,6 @@ The priest skillfully drew a picture of a vase on a folding screen.
 絵の様子は日本の屏風から切り取ったみたいだった。 
 絵(え)　の　様子(ようす)　は　日本(にほん)　の　屏風(びょうぶ)　から　切り取っ(きりとっ)た　みたい　だった。 
 The pictures looked as if they had been cut out of Japanese screens. 
-2171-218 
 
 2171-1
 巡査は塀を乗り越えた。 
@@ -3258,7 +3259,8 @@ A breathtaking scene opened before me.
 彼女(かのじょ)　は、　スピーチ　の　最後(さいご)　の　言葉(ことば)　を　呑み込ん(のみこん)だ。 
 She swallowed the last words of her speech. 
 2174-5
-50歳になっても、和奏さんはまだ息を呑むほど美しい。 50歳(さい)　に　なって　も、　和奏(わかな)さん　は　まだ　息(いき)　を　呑む(のむ)　ほど　美しい(うつくしい)。 
+50歳になっても、和奏さんはまだ息を呑むほど美しい。 
+50歳(さい)　に　なって　も、　和奏(わかな)さん　は　まだ　息(いき)　を　呑む(のむ)　ほど　美しい(うつくしい)。 
 Even at 50 years old, Wakana is still breathtakingly beautiful. 
 2174-6
 私たちはその瓶の首を叩き落して、水呑コップに注いだ。 
@@ -3307,8 +3309,8 @@ Rich soil.
 This fertile territory is watered by numerous small rivers and limpid streams. 
 2175-4
 「沖積層」とは、氾濫原の上を流れる、または川床を流れる水によって堆積された、きめの細かい肥沃な土壌を言う。 
-「沖積層(ちゅうせきそう)」　と　は、　氾濫原(はんらんげん)　の　上(うえ)　を　流れる(ながれる)、　または　川床(かわどこ)　を　流れる(ながれる)　水(みず)　に　よって　堆積(たいせき)　された、　きめ　の　細かい(こまかい)　肥沃(ひよく)　な　土壌(どじょう)　を　言う(いう)。 "
-Alluvium" is a fine-grained fertile soil deposited by water flowing over flood plains or in river beds (N.B.: 沖積層　refers to non-marine deposits, despite the use of the character 沖　["open sea"]). 
+「沖積層(ちゅうせきそう)」　と　は、　氾濫原(はんらんげん)　の　上(うえ)　を　流れる(ながれる)、　または　川床(かわどこ)　を　流れる(ながれる)　水(みず)　に　よって　堆積(たいせき)　された、　きめ　の　細かい(こまかい)　肥沃(ひよく)　な　土壌(どじょう)　を　言う(いう)。 
+"Alluvium" is a fine-grained fertile soil deposited by water flowing over flood plains or in river beds (N.B.: 沖積層　refers to non-marine deposits, despite the use of the character 沖　["open sea"]). 
 
 2176-1
 妖精たちの国。 
@@ -3327,7 +3329,8 @@ Necromantic powders and other fascinating objects.
 鈴(すず)さん　は　妖精(ようせい)　の　役(やく)　を　演じ(えんじ)た。 
 Suzu acted the part of a fairy. 
 2176-5
-40歳になっても、結菜さんはまだ妖婦だ。 40歳(さい)　に　なって　も、　結菜(ゆいな)さん　は　まだ　妖婦(ようふ)　だ。 
+40歳になっても、結菜さんはまだ妖婦だ。 
+40歳(さい)　に　なって　も、　結菜(ゆいな)さん　は　まだ　妖婦(ようふ)　だ。 
 Yuina remains an enchantress at 40. 
 2176-6
 悠真さんは妖婦だが、魔術や妖術を使わない。 
@@ -3383,10 +3386,8 @@ He laid away the handgun with an oath and, pulling out a cologne-scented handker
 貴方(あなた)　を　祝福(しゅくふく)　する　者(もの)　を　私(わたし)　は　祝福(しゅくふく)　し、　貴方(あなた)　を　呪う(のろう)　者(もの)　を　私(わたし)　は　呪う(のろう)。　地(ち)　の　全て(すべて)　の　家(や)　から　は、　貴方(あなた)　に　よって　祝福(しゅくふく)　される。 
 I will bless them that bless thee, and curse him that curseth thee: and in thee shall all families of the earth be blessed. 
 2177-11
-主はその芳しい香りを嗅いで、心に言われた、
-「私はもはや二度と人の故に地を呪わない。人が心に思い図ることは、幼い時から悪いからである。私は、この度したように、もう二度と、全ての生きたものを滅ぼさない」。 
-主(しゅ)　は　その　芳しい(かんばしい)　香り(かおり)　を　嗅い(かい)で、　心(こころ)　に　言わ(いわ)れた、　
-「私(わたし)　は　もはや　二度と(にどと)　人(ひと)　の　故(ゆえ)　に　地(ち)　を　呪わ(のろわ)ない。　人(ひと)　が　心(こころ)　に　思い(おもい)　図る(はかる)　こと　は、　幼い(おさない)　時(とき)　から　悪い(わるい)　から　で　ある。　私(わたし)　は、　この　度(たび)　した　よう　に、　もう　二度と(にどと)、　全て(すべて)　の　生き(いき)た　もの　を　滅ぼさ(ほろぼさ)ない」。 
+主はその芳しい香りを嗅いで、心に言われた、「私はもはや二度と人の故に地を呪わない。人が心に思い図ることは、幼い時から悪いからである。私は、この度したように、もう二度と、全ての生きたものを滅ぼさない」。 
+主(しゅ)　は　その　芳しい(かんばしい)　香り(かおり)　を　嗅い(かい)で、　心(こころ)　に　言わ(いわ)れた、　「私(わたし)　は　もはや　二度と(にどと)　人(ひと)　の　故(ゆえ)　に　地(ち)　を　呪わ(のろわ)ない。　人(ひと)　が　心(こころ)　に　思い(おもい)　図る(はかる)　こと　は、　幼い(おさない)　時(とき)　から　悪い(わるい)　から　で　ある。　私(わたし)　は、　この　度(たび)　した　よう　に、　もう　二度と(にどと)、　全て(すべて)　の　生き(いき)た　もの　を　滅ぼさ(ほろぼさ)ない」。 
 And the Lord smelled a sweet savour; and the Lord said in his heart, "I will not again curse the ground any more for man's sake; for the imagination of man's heart is evil from his youth; neither will I again smite any more every thing living, as I have done". 
 2177-12
 ブルジョア的生産関係、交換関係、所有関係をもつ近代的ブルジョア社会、このように巨大な生産手段や交換手段を魔法のように呼び起こした社会は、自分の呪文で呼び出した地下世界の力をもはや思うようにできなくなった魔法使いのようです。 
@@ -3539,14 +3540,8 @@ It cannot be called talent to slay fellow-citizens, to deceive friends, to be wi
 昔(むかし)　は、　無神論者(むしんろんしゃ)　は　火刑(かけい)　に　処す(しょす)　べし　と　提議(ていぎ)　される　と、　慈悲深い(じひぶかい)　人々(ひとびと)　は　かわり　に　無神論者(むしんろんしゃ)　を　精神(せいしん)　病院(びょういん)　に　収容(しゅうよう)　する　よう　提案(ていあん)　する　の　が　常(つね)　でした。 
 In former days, when it was proposed to burn atheists, charitable people used to suggest putting them in a mad-house instead. 
 2179-15
-多くの人々は、名声に対する欲求を色々昇華させて、はっきりした仲間グループと結びつかない
-「名誉」、
-「倫理的誠実さ」、
-「慈悲」などにリダイレクトすることを学ぶ。 
-多く(おおく)　の　人々(ひとびと)　は、　名声(めいせい)　に対する(にたいする)　欲求(よっきゅう)　を　色々(いろいろ)　昇華(しょうか)　させて、　はっきり　した　仲間(なかま)　グループ　と　結びつか(むすびつか)ない　
-「名誉(めいよ)」、　
-「倫理的(りんりてき)　誠実(せいじつ)　さ」、　
-「慈悲(じひ)」　など　に　リダイレクト　する　こと　を　学ぶ(まなぶ)。 
+多くの人々は、名声に対する欲求を色々昇華させて、はっきりした仲間グループと結びつかない「名誉」、「倫理的誠実さ」、「慈悲」などにリダイレクトすることを学ぶ。 
+多く(おおく)　の　人々(ひとびと)　は、　名声(めいせい)　に対する(にたいする)　欲求(よっきゅう)　を　色々(いろいろ)　昇華(しょうか)　させて、　はっきり　した　仲間(なかま)　グループ　と　結びつか(むすびつか)ない　「名誉(めいよ)」、　「倫理的(りんりてき)　誠実(せいじつ)　さ」、　「慈悲(じひ)」　など　に　リダイレクト　する　こと　を　学ぶ(まなぶ)。 
 Many people learn to redirect their drive for prestige into various sublimations that have no obvious connection to a visible peer group, such as "honor", "ethical integrity", "piety" etc. 
 2179-16
 公金その他の公の財産は、宗教上の組織若しくは団体の使用、便益若しくは維持のため、又は公の支配に属しない慈善、教育若しくは博愛の事業に対し、これを支出し、又はその利用に供してはならない。 
@@ -3596,7 +3591,6 @@ Milk is a white nutritious liquid secreted by mammals and used as food by human 
 人間の美しいものとなるのは、自分自身の中の個性的であるあらゆるものを画一的なものへと擦り減らすことによってではなく、他人の権利や利害が課す制限内で、個性を育み、奮い立たせることによるのです。仕事はそれに携わるすべての人の性格に関わってくるので、同じ過程により、人間の生活も豊かで多様で活気に満ちたものとなり、もっと豊富な滋養を高い思想に与え、感情を高揚させ、また民族に帰属する価値を限りなく高めることによって、個々の個人を民族に結びつけている紐帯を強めるのです。 
 人間(にんげん)　の　美しい(うつくしい)　もの　と　なる　の　は、　自分(じぶん)　自身(じしん)　の　中(なか)　の　個性的(こせいてき)　で　ある　あらゆる　もの　を　画一的(かくいつてき)　な　もの　へ　と　擦り減らす(こすりへらす)　こと　に　よって　で　は　なく、　他人(たにん)　の　権利(けんり)　や　利害(りがい)　が　課す(かす)　制限(せいげん)　内(ない)　で、　個性(こせい)　を　育み(はぐくみ)、　奮い立た(ふるいたた)せる　こと　に　よる　の　です。　仕事(しごと)　は　それ　に　携わる(たずさわる)　すべて　の　人(ひと)　の　性格(せいかく)　に　関わっ(かかわっ)て　くる　ので、　同じ(おなじ)　過程(かてい)　に　より、　人間(にんげん)　の　生活(せいかつ)　も　豊か(ゆたか)　で　多様(たよう)　で　活気(かっき)　に　満ち(みち)た　もの　と　なり、　もっと　豊富(ほうふ)　な　滋養(じよう)　を　高い(たかい)　思想(しそう)　に　与え(あたえ)、　感情(かんじょう)　を　高揚(こうよう)　させ、　また　民族(みんぞく)　に　帰属(きぞく)　する　価値(かち)　を　限り(かぎり)　なく　高める(たかめる)　こと　に　よって、　個々(ここ)　の　個人(こじん)　を　民族(みんぞく)　に　結びつけ(むすびつけ)て　いる　紐帯(ちゅうたい)　を　強める(つよめる)　の　です。 
 It is not by wearing down into uniformity all that is individual in themselves, but by cultivating it and calling it forth, within the limits imposed by the rights and interests of others, that human beings become a noble and beautiful object of contemplation; and as the works partake the character of those who do them, by the same process human life also becomes rich, diversified, and animating, furnishing more abundant aliment to high thoughts and elevating feelings, and strengthening the tie which binds every individual to the people, by making the people infinitely more worth belonging to. 
-2181-219 
 
 2181-1
 惑星の磁場。 
@@ -3680,7 +3674,8 @@ An advocate of technocracy.
 言論(げんろん)　の　自由(じゆう)　の　忠実(ちゅうじつ)　な　擁護者(ようごしゃ)。 
 A staunch defender of free speech. 
 2182-7
-3000人もの信徒を擁する教会。 3000人(にん)　も　の　信徒(しんと)　を　擁する(ようする)　教会(きょうかい)。 
+3000人もの信徒を擁する教会。 
+3000人(にん)　も　の　信徒(しんと)　を　擁する(ようする)　教会(きょうかい)。 
 A church of three thousand believers. 
 2182-8
 ファシズムに対する恥知らずな擁護者。 
@@ -3832,10 +3827,8 @@ The rot in the British legal system began under the previous Conservative govern
 その　停泊(ていはく)　場所(ばしょ)　に　は、　独特(どくとく)　の　よどんだ　臭い(におい)、　水浸し(みずびたし)　の　木の葉(このは)　や　腐り(くさり)かけ　の　幹(みき)　の　臭い(におい)　が　漂っ(ただよっ)て　いた。 
 A peculiar stagnant smell hung over the anchorage--a smell of sodden leaves and rotting tree trunks. 
 2183-24
-腐敗した政府や専制的政府に対する保全策の一つとして、
-「出版の自由」の必要性を擁護する時代は過ぎ去ったと考えてもよいでしょう。 
-腐敗(ふはい)　した　政府(せいふ)　や　専制的(せんせいてき)　政府(せいふ)　に対する(にたいする)　保全策(ほぜんさく)　の　一つ(ひとつ)　として、　
-「出版(しゅっぱん)　の　自由(じゆう)」　の　必要性(ひつようせい)　を　擁護(ようご)　する　時代(じだい)　は　過ぎ去っ(すぎさっ)た　と　考え(かんがえ)て　も　よい　でしょう。 
+腐敗した政府や専制的政府に対する保全策の一つとして、「出版の自由」の必要性を擁護する時代は過ぎ去ったと考えてもよいでしょう。 
+腐敗(ふはい)　した　政府(せいふ)　や　専制的(せんせいてき)　政府(せいふ)　に対する(にたいする)　保全策(ほぜんさく)　の　一つ(ひとつ)　として、　「出版(しゅっぱん)　の　自由(じゆう)」　の　必要性(ひつようせい)　を　擁護(ようご)　する　時代(じだい)　は　過ぎ去っ(すぎさっ)た　と　考え(かんがえ)て　も　よい　でしょう。 
 The time, it is to be hoped, is gone by, when any defence would be necessary of the "liberty of the press" as one of the securities against corrupt or tyrannical government. 
 2183-25
 委員会がこの制限以上にどんな権力を行使しても、単に地方だけでなく全国的に深い影響を及ぼす事柄での根深い腐敗した慣習を矯正するためという特殊な情況では、正当で必要なものでした。 
@@ -4181,8 +4174,8 @@ The invention of the microscope led to the discovery of the cell.
 She looked at him, and in spite of herself, smiled. 
 2189-31
 「検鏡」とは、顕微鏡を使用する研究のことを言う。 
-「検鏡(けんきょう)」　と　は、　顕微鏡(けんびきょう)　を　使用(しよう)　する　研究(けんきゅう)　の　こと　を　言う(いう)。 "
-Microscopy" is research with the use of microscopes. 
+「検鏡(けんきょう)」　と　は、　顕微鏡(けんびきょう)　を　使用(しよう)　する　研究(けんきゅう)　の　こと　を　言う(いう)。 
+"Microscopy" is research with the use of microscopes. 
 2189-32
 その食べ物には微かににんにくの風味があった。 
 その　食べ物(たべもの)　に　は　微か(かすか)　に　にんにく　の　風味(ふうみ)　が　あった。 
@@ -4296,8 +4289,8 @@ The free discussion that is emblematic of democracy.
 My employer is withholding taxes. 
 2190-15
 「悪阻」は妊娠初期に特徴的な症状である。 
-「悪阻(つわり)」　は　妊娠(にんしん)　初期(しょき)　に　特徴的(とくちょうてき)　な　症状(しょうじょう)　で　ある。 "
-Morning sickness" is a characteristic symptom in the early months of pregnancy. 
+「悪阻(つわり)」　は　妊娠(にんしん)　初期(しょき)　に　特徴的(とくちょうてき)　な　症状(しょうじょう)　で　ある。 
+"Morning sickness" is a characteristic symptom in the early months of pregnancy. 
 2190-16
 私は、彼の特徴を警察に説明しようとした。 
 私(わたし)　は、　彼(かれ)　の　特徴(とくちょう)　を　警察(けいさつ)　に　説明(せつめい)　しよう　とした。 
@@ -4324,8 +4317,8 @@ Bronchopneumonia is a pneumonia characterized by acute inflammation of the walls
 The first sign of moral sense was noticed at the age of nearly 13 months. 
 2190-22
 「非定型肺炎」とは、高熱と咳で特徴付けられる急性呼吸器疾患のことを言う。 
-「非定型(ひていけい)　肺炎(はいえん)」　と　は、　高熱(こうねつ)　と　咳(せき)　で　特徴付け(とくちょうづけ)られる　急性(きゅうせい)　呼吸器(こきゅうき)　疾患(しっかん)　の　こと　を　言う(いう)。 "
-Atypical pneumonia" is an acute respiratory disease marked by high fever and coughing. 
+「非定型(ひていけい)　肺炎(はいえん)」　と　は、　高熱(こうねつ)　と　咳(せき)　で　特徴付け(とくちょうづけ)られる　急性(きゅうせい)　呼吸器(こきゅうき)　疾患(しっかん)　の　こと　を　言う(いう)。 
+"Atypical pneumonia" is an acute respiratory disease marked by high fever and coughing. 
 2190-23
 痛ましい悲嘆の幾日かが過ぎると、目立った変化が友の心の病気の徴候に現してきた。 
 痛ましい(いたましい)　悲嘆(ひたん)　の　幾日(いくにち)　か　が　過ぎる(すぎる)　と、　目立っ(めだっ)た　変化(へんか)　が　友(とも)　の　心(こころ)　の　病気(びょうき)　の　徴候(ちょうこう)　に　現し(あらわし)て　きた。 
@@ -4376,11 +4369,9 @@ The Congress shall have power to lay and collect taxes, duties, imposts and exci
 通商(つうしょう)　または　徴税(ちょうぜい)　を　規定(きてい)　する　こと　に　よって、　一州(いっしゅう)　の　港湾(こうわん)　を　他州(たしゅう)　の　港湾(こうわん)　より　優遇(ゆうぐう)　して　は　ならない。　また　一州(いちしゅう)　に　向かう(むかう)　船舶(せんぱく)　あるいは　一州(いちしゅう)　より　出港(しゅっこう)　した　船舶(せんぱく)　を　強制(きょうせい)　して、　他州(たしゅう)　に　入港(にゅうこう)　させ、　出入港(しゅつにゅうこう)　手続き(てつづき)　を　させたり、　あるいは　関税(かんぜい)　の　支払い(しはらい)　を　させて　は　ならない。 
 No preference shall be given by any regulation of commerce or revenue to the ports of one State over those of another; nor shall vessels bound to or from one State be obliged to enter, clear or pay duties in another. 
 2190-35
-古典派経済学者がその特徴の輪郭を描き、古典派の風刺家たちがその中身を満たした
-「経済的人間」とは、動物の世界では異様なものであり、その上、その性向の日常の世間一般的な表れ方から判断すると、その肖像は真面目に描き込まれたものではない。 
-古典派(こてんは)　経済学者(けいざいがくしゃ)　が　その　特徴(とくちょう)　の　輪郭(りんかく)　を　描き(えがき)、　古典派(こてんは)　の　風刺家(ふうしか)たち　が　その　中身(なかみ)　を　満たし(みたし)た　
-「経済的(けいざいてき)　人間(にんげん)」　と　は、　動物(どうぶつ)　の　世界(せかい)　で　は　異様(いよう)　な　もの　で　あり、　その　上(うえ)、　その　性向(せいこう)　の　日常(にちじょう)　の　世間(せけん)　一般的(いっぱんてき)　な　表れ方(あらわれかた)　から　判断(はんだん)　する　と、　その　肖像(しょうぞう)　は　真面目(まじめ)　に　描き込ま(えがきこま)れた　もの　で　は　ない。 "
-The economic man", whose lineaments were traced in outline by the classical economists and filled in by their caricaturists, is an anomaly in the animal world; and yet, to judge by everyday popular expressions of inclination, the portrait is not seriously overdrawn. 
+古典派経済学者がその特徴の輪郭を描き、古典派の風刺家たちがその中身を満たした「経済的人間」とは、動物の世界では異様なものであり、その上、その性向の日常の世間一般的な表れ方から判断すると、その肖像は真面目に描き込まれたものではない。 
+古典派(こてんは)　経済学者(けいざいがくしゃ)　が　その　特徴(とくちょう)　の　輪郭(りんかく)　を　描き(えがき)、　古典派(こてんは)　の　風刺家(ふうしか)たち　が　その　中身(なかみ)　を　満たし(みたし)た　「経済的(けいざいてき)　人間(にんげん)」　と　は、　動物(どうぶつ)　の　世界(せかい)　で　は　異様(いよう)　な　もの　で　あり、　その　上(うえ)、　その　性向(せいこう)　の　日常(にちじょう)　の　世間(せけん)　一般的(いっぱんてき)　な　表れ方(あらわれかた)　から　判断(はんだん)　する　と、　その　肖像(しょうぞう)　は　真面目(まじめ)　に　描き込ま(えがきこま)れた　もの　で　は　ない。 
+"The economic man", whose lineaments were traced in outline by the classical economists and filled in by their caricaturists, is an anomaly in the animal world; and yet, to judge by everyday popular expressions of inclination, the portrait is not seriously overdrawn. 
 2190-36
 私たちの時代、ブルジョアジーの時代は、けれども、次のようなはっきりした特徴をもっています。それは階級対立を単純化したということです。社会は全体として益々、敵対する二大陣営に、互いに直接対抗する二大階級、ブルジョアジー【有産階級】とプロレタリアート【無産階級】に、分かれていくのです。 
 私(わたし)たち　の　時代(じだい)、　ブルジョアジー　の　時代(じだい)　は、　けれども、　次(つぎ)　の　よう　な　はっきり　した　特徴(とくちょう)　を　もって　います。　それ　は　階級(かいきゅう)　対立(たいりつ)　を　単純化(たんじゅんか)　した　という　こと　です。　社会(しゃかい)　は　全体(ぜんたい)　として　益々(ますます)、　敵対(てきたい)　する　二大(にだい)　陣営(じんえい)　に、　互いに(たがいに)　直接(ちょくせつ)　対抗(たいこう)　する　二大(にだい)　階級(かいきゅう)、　ブルジョアジー　【有産(ゆうさん)　階級(かいきゅう)】　と　プロレタリアート　【無産(むさん)　階級(かいきゅう)】　に、　分かれ(わかれ)て　いく　の　です。 
@@ -4390,7 +4381,6 @@ Our epoch, the epoch of the bourgeoisie, possesses, however, this distinctive fe
 修正(しゅうせい)　第五(だいご)　条(じょう)。　何人(なにびと)　も、　大陪審(だいばいしん)　の　告発(こくはつ)　または　起訴(きそ)　に　よる　の　で　なければ、　死刑(しけい)　または　自由刑(じゆうけい)　を　科せ(かせ)られる　犯罪(はんざい)　の　責(せき)　を　負わさ(おわさ)れる　こと　は　ない。　ただし、　陸海軍(りくかいぐん)　または　戦時(せんじ)　あるいは　公共(こうきょう)　の　危険(きけん)　に際し(にさいし)、　現役(げんえき)　の　民兵(みんぺい)　の　問(とい)　に　起こっ(おこっ)た　事件(じけん)　について　は、　この　限り(かぎり)　で　ない。　何人(なにびと)　も　同一(どういつ)　の　犯罪(はんざい)　について、　再度(さいど)　生命(せいめい)　身体(しんたい)　の　危険(きけん)　に　臨ま(のぞま)される　こと　は　ない。　また　何人(なにびと)　も　刑事(けいじ)　事件(じけん)　において、　自己(じこ)　に　不利(ふり)　な　供述(きょうじゅつ)　を　強制(きょうせい)　されない。　また　正当(せいとう)　な　法(ほう)　の　手続き(てつづき)　に　よらないで、　生命(せいめい)、　自由(じゆう)　または　財産(ざいさん)　を　奪わ(うばわ)れる　こと　は　ない。　また　正当(せいとう)　な　賠償(ばいしょう)　なし　に、　私有(しゆう)　財産(ざいさん)　を　公共(こうきょう)　の　用途(ようと)　の　ため　に　徴収(ちょうしゅう)　される　こと　は　ない。 
 Amendment V: No person shall be held to answer for a capital, or otherwise infamous crime, unless on a presentment or indictment of a grand jury, except in cases arising in the land or naval forces, or in the militia, when in actual service in time of war or public danger; nor shall any person be subject for the same offense to be twice put in jeopardy of life or limb; nor shall be compelled in any criminal case to be a witness against himself, nor be deprived of life, liberty or property, without due process of law; nor shall private property be taken for public use without just compensation. 
 「〜によらない」　{〜に依らない* 701} ["without (being based on) __"]. 
-2191-220 
 
 2191-1
 当然の懲罰。 
@@ -4679,10 +4669,8 @@ The battle swayed this way and that, and the arrows fell like rain.
 丸(まる)　で　日本(にほん)　が　砂漠(さばく)　で　あり、　何(なに)　も　食べ物(たべもの)　を　手(て)　に　入れ(いれ)られない　か　の　如く(ごとく)　食べ(たべ)た。 
 He helped himself as generously as if Japan were a desert, where nothing to eat was to be looked for. 
 2197-23
-魔法にでもかかったかの如く、
-「フォッグ株」がまた取引の対象となった。 
-魔法(まほう)　に　でも　かかった　か　の　如く(ごとく)、　
-「フォッグ　株(かぶ)」　が　また　取引(とりひき)　の　対象(たいしょう)　と　なった。 
+魔法にでもかかったかの如く、「フォッグ株」がまた取引の対象となった。 
+魔法(まほう)　に　でも　かかった　か　の　如く(ごとく)、　「フォッグ　株(かぶ)」　が　また　取引(とりひき)　の　対象(たいしょう)　と　なった。 
 As if by magic; the "Fogg bonds" again became negotiable. 
 2197-24
 丹羽官房長官はどんな批評も加納首相の利点に変えることができる如才のない代弁者である。 
@@ -4702,35 +4690,21 @@ You can imagine how pleased I was at such an extraordinary bit of good fortune.
 雪(ゆき)　の　如く(ごとく)　白く(しろく)、　風(かぜ)　の　如く(ごとく)　速く(はやく)、　その　戦車(せんしゃ)　は　金(きん)　と　銀(ぎん)　と　に　飾ら(かざら)れ、　その　武具(ぶぐ)　は　黄金色(こがねいろ)　を　して　おります。 
 Tall, white as snow, and swift as the wind, and his chariot is adorned with gold and silver, and golden is his armour. 
 2197-28
-イタケーは
-「海に浮かぶ盾のよう」と言われたが、そう聞くと、あたかも平らな国の如くに思われよう。 
-イタケー　は　
-「海(うみ)　に　浮かぶ(うかぶ)　盾(たて)　の　よう」　と　言わ(いわ)れた　が、　そう　聞く(きく)　と、　あたかも　平ら(たいら)　な　国(くに)　の　如く(ごとく)　に　思わ(おもわ)れよう。 
+イタケーは「海に浮かぶ盾のよう」と言われたが、そう聞くと、あたかも平らな国の如くに思われよう。 
+イタケー　は　「海(うみ)　に　浮かぶ(うかぶ)　盾(たて)　の　よう」　と　言わ(いわ)れた　が、　そう　聞く(きく)　と、　あたかも　平ら(たいら)　な　国(くに)　の　如く(ごとく)　に　思わ(おもわ)れよう。 
 People used to say that Ithaca "lay like a shield upon the sea", which sounds as if it were a flat country. 
 2197-29
 ああいう暗い目は、と彼は思った、如何に情熱、官能的な欲望に満ち溢れているだろう！ 
 ああ　いう　暗い(くらい)　目(め)　は、　と　彼(かれ)　は　思っ(おもっ)た、　如何に(いかに)　情熱(じょうねつ)、　官能的(かんのうてき)　な　欲望(よくぼう)　に　満ち溢れ(みちあふれ)て　いる　だろう！ 
 Those dark eyes, he thought, how full they are of passion, of voluptuous longing! 
 2197-30
-漢字で書いた
-「如何に」とは
-「どのように」を意味する。通常この言葉は平仮名を使って
-「いかに」と書く。 
-漢字(かんじ)　で　書い(かい)た　
-「如何(いか)　に」　と　は　
-「どの　よう　に」　を　意味(いみ)　する。　通常(つうじょう)　この　言葉(ことば)　は　平仮名(ひらがな)　を　使っ(つかっ)て　
-「いかに」　と　書く(かく)。 
+漢字で書いた「如何に」とは「どのように」を意味する。通常この言葉は平仮名を使って「いかに」と書く。 
+漢字(かんじ)　で　書い(かい)た　「如何(いか)　に」　と　は　「どの　よう　に」　を　意味(いみ)　する。　通常(つうじょう)　この　言葉(ことば)　は　平仮名(ひらがな)　を　使っ(つかっ)て　「いかに」　と　書く(かく)。 
 The kanji spelling of "how much"/"to what extent" denotes "to which manner". This word is usually written in hiragana. 
 「いかに〜」　{如何に〜** 2197; 815} ["how __"]: DJG v3 p135; Tobira ch14 #9. 
 2197-31
-漢字で書いた
-「如何」とは
-「どのよう」を意味する。通常この言葉は平仮名を使って
-「いかが」と書く。 
-漢字(かんじ)　で　書い(かい)た　
-「如何(いかが)」　と　は　
-「どの　よう」　を　意味(いみ)　する。　通常(つうじょう)　この　言葉(ことば)　は　平仮名(ひらがな)　を　使っ(つかっ)て　
-「いかが」　と　書く(かく)。 
+漢字で書いた「如何」とは「どのよう」を意味する。通常この言葉は平仮名を使って「いかが」と書く。 
+漢字(かんじ)　で　書い(かい)た　「如何(いかが)」　と　は　「どの　よう」　を　意味(いみ)　する。　通常(つうじょう)　この　言葉(ことば)　は　平仮名(ひらがな)　を　使っ(つかっ)て　「いかが」　と　書く(かく)。 
 The kanji spelling of "how" denotes "like what" or "in what manner". This word is usually written in hiragana. 
 「いかが」　{如何** 2197; 815} ["how"; "would you like __"]: DJG v1 p114. 
 2197-32
@@ -4812,17 +4786,16 @@ My daughter hates cleaning her room.
 うち　の　娘(むすめ)　は　縄跳び(なわとび)　が　大好き(だいすき)　です。 
 My daughter loves jumping rope. 
 2200-5
-息子か娘の娘は
-「孫娘」と言う。 
-息子(むすこ)　か　娘(むすめ)　の　娘(むすめ)　は　
-「孫娘(まごむすめ)」　と　言う(いう)。 
+息子か娘の娘は「孫娘」と言う。 
+息子(むすこ)　か　娘(むすめ)　の　娘(むすめ)　は　「孫娘(まごむすめ)」　と　言う(いう)。 
 The daughter of one's son or daughter is called one's "granddaughter". 
 2200-6
 両親は娘を自宅で教育している。 
 両親(りょうしん)　は　娘(むすめ)　を　自宅(じたく)　で　教育(きょういく)　して　いる。 
 The parents are home-schooling their daughter. 
 2200-7
-2歳の娘の健康診断をお願いします。 2歳(さい)　の　娘(むすめ)　の　健康(けんこう)　診断(しんだん)　を　お願い(おねがい)　します。 
+2歳の娘の健康診断をお願いします。 
+2歳(さい)　の　娘(むすめ)　の　健康(けんこう)　診断(しんだん)　を　お願い(おねがい)　します。 
 I'd like to get a medical examination for my two-year-old daughter. 
 2200-8
 そこには老婦人と孫娘が住んでいるのです。 
@@ -4908,7 +4881,6 @@ Apparently no one replaced him, for she never married, but grew stoutish, grayis
 診療所で待つ外来患者を診るため、足を急がせていた彼は、通りしな、はしこい眼で教会墓地を一目見て、そこで墓石の掃除をしている娘を見かけた。 
 診療所(しんりょうじょ)　で　待つ(まつ)　外来(がいらい)　患者(かんじゃ)　を　診る(みる)　ため、　足(あし)　を　急が(いそが)せて　いた　彼(かれ)　は、　通り(とおり)　しな、　はしこい　眼(め)　で　教会(きょうかい)　墓地(ぼち)　を　一目(ひとめ)　見(み)て、　そこで　墓石(はかいし)　の　掃除(そうじ)　を　して　いる　娘(むすめ)　を　見かけ(みかけ)た。 
 As he hurried now to attend to the outpatients in the surgery, glancing across the graveyard with his quick eye, he saw the girl at her task at the grave. 
-
 「〜しな」means “as ___”, “while ___ing”. 
 2200-29
 母親と娘の間に表立った共謀、表立った合意はなかったが、家で二人のことが噂になり始めたにも関わらず、ムーニー夫人は介入しなかった。 
@@ -4919,16 +4891,13 @@ There had been no open complicity between mother and daughter, no open understan
 ある　私(わたし)　の　他(ほか)　の　幼児(ようじ)　で、　小(ちい)さな　娘(むすめ)　で　あった　が、　ちょうど　1歳(さい)　に　なった　時(とき)　に　は、　そんなに　鋭い(するどい)　方(ほう)　で　は　なかった　から、　鏡(かがみ)　の　中(なか)　で　後ろ(うしろ)　から　近づい(ちかづい)て　くる　人影(ひとかげ)　を　見(み)て、　完全(かんぜん)　に　戸惑っ(とまどっ)て　いる　よう　だった。 
 Another of my infants, a little girl, when exactly a year old, was not nearly so acute, and seemed quite perplexed at the image of a person in a mirror approaching her from behind. 
 2200-31
-10日前、アポロの神官が野営地を訪れ、アキレスが小さな町を占領したときに、他の多くの捕虜と一緒に捕らえた美しい少女、その神官の娘を身請けしたいと申し出た。 10日(とおか)　前(まえ)、　アポロ　の　神官(しんかん)　が　野営地(やえいち)　を　訪れ(おとずれ)、　アキレス　が　小(ちい)さな　町(まち)　を　占領(せんりょう)　した　とき　に、　他(ほか)　の　多く(おおく)　の　捕虜(ほりょ)　と　一緒(いっしょ)　に　捕らえ(とらえ)た　美しい(うつくしい)　少女(しょうじょ)、　その　神官(しんかん)　の　娘(むすめ)　を　身請け(みうけ)　したい　と　申し出(もうしで)た。 
+10日前、アポロの神官が野営地を訪れ、アキレスが小さな町を占領したときに、他の多くの捕虜と一緒に捕らえた美しい少女、その神官の娘を身請けしたいと申し出た。 
+10日(とおか)　前(まえ)、　アポロ　の　神官(しんかん)　が　野営地(やえいち)　を　訪れ(おとずれ)、　アキレス　が　小(ちい)さな　町(まち)　を　占領(せんりょう)　した　とき　に、　他(ほか)　の　多く(おおく)　の　捕虜(ほりょ)　と　一緒(いっしょ)　に　捕らえ(とらえ)た　美しい(うつくしい)　少女(しょうじょ)、　その　神官(しんかん)　の　娘(むすめ)　を　身請け(みうけ)　したい　と　申し出(もうしで)た。 
 Ten days before, a priest of Apollo had come to the camp and offered ransom for his beautiful daughter, whom Achilles had taken prisoner with many others when he captured a small town. 
 2200-32
 ムーニー夫人は娘をタイピストにと穀物問屋の事務所にやったが、外聞の悪い執行官の手下が一日おきに来ては娘に一言言わせて欲しいと頼むので、彼女は娘を家へ戻し、家事をやらせた。 
 ムーニー　夫人(ふじん)　は　娘(むすめ)　を　タイピスト　に　と　穀物(こくもつ)　問屋(とんや)　の　事務所(じむしょ)　に　やった　が、　外聞(がいぶん)　の　悪い(わるい)　執行官(しっこうかん)　の　手下(てした)　が　一日(いちにち)　おき　に　来(き)て　は　娘(むすめ)　に　一言(ひとこと)　言わ(いわ)せて　欲しい(ほしい)　と　頼む(たのむ)　ので、　彼女(かのじょ)　は　娘(むすめ)　を　家(いえ)　へ　戻し(もどし)、　家事(かじ)　を　やらせた。 
-Mrs. Mooney had first sent her daughter to be a typist in a corn-factor's office but, as a disreputable sheriff's man used to come every other day to the office, asking to be allowed to say a word to his daughter, she had taken her daughter home again and set her to do housework. (15) ㊗ 　Congratulations!  ㊗ You have now attained the 23rd dan:
-ゲン 
-
-KANJEDI Let us know at the KLC user group on Facebook! Share on:　Reddit　Twitter　Facebook　LinkedIn 
-2201-221 
+Mrs. Mooney had first sent her daughter to be a typist in a corn-factor's office but, as a disreputable sheriff's man used to come every other day to the office, asking to be allowed to say a word to his daughter, she had taken her daughter home again and set her to do housework. 
 
 2201-1
 秘密の花嫁。 
@@ -5053,10 +5022,9 @@ The scouts built cairns to mark the way back.
 手塚(てづか)　博士(はかせ)　の　言葉(ことば)　は、　1983年(ねん)　当時(とうじ)　に　知ら(しら)れて　いた　情報(じょうほう)　から　すれば　性格(せいかく)　だった。 
 Dr. Tezuka’s words were true from what he knew in 1983. 
 2203-6
-手塚博士は、
-Manga！Manga！の序文に、日本の外で漫画の受容が遅いことについて、短い選び抜いた言葉で語った。 
-手塚(てづか)　博士(はかせ)　は、　
-Manga！Manga！　の　序文(じょぶん)　に、日本(にほん)　の　外(そと)　で　漫画(まんが)　の　受容(じゅよう)　が　遅い(おそい)　こと　について、　短(みじ)かい　選び抜い(えらびぬい)た　言葉(ことば)　で　語っ(かたっ)た。 Dr. Tezuka had a few choice words for the foreword of Manga! Manga!, speaking on the topic of the slow acceptance of manga outside Japan. 
+手塚博士は、Manga！Manga！の序文に、日本の外で漫画の受容が遅いことについて、短い選び抜いた言葉で語った。 
+手塚(てづか)　博士(はかせ)　は、　Manga！Manga！　の　序文(じょぶん)　に、日本(にほん)　の　外(そと)　で　漫画(まんが)　の　受容(じゅよう)　が　遅い(おそい)　こと　について、　短(みじ)かい　選び抜い(えらびぬい)た　言葉(ことば)　で　語っ(かたっ)た。 
+Dr. Tezuka had a few choice words for the foreword of Manga! Manga!, speaking on the topic of the slow acceptance of manga outside Japan. 
 2203-7
 塚の所に泉を囲むように頑丈な丸太小屋が建てられていて、緊急時には40人ほどは入りそうで、四方にマスケット銃を撃つ穴が開いていた。 
 塚(つか)　の　所(ところ)　に　泉(いずみ)　を　囲む(かこむ)　よう　に　頑丈(がんじょう)　な　丸太小屋(まるたごや)　が　建て(たて)られて　いて、　緊急(きんきゅう)　時(じ)　に　は　40人(にん)　ほど　は　入り(はいり)そう　で、　四方(しほう)　に　マスケット　銃(じゅう)　を　撃つ(うつ)　穴(あな)　が　開い(ひらい)て　いた。 
@@ -5153,8 +5121,8 @@ His valour made him so much admired in the sight of the soldiers and people that
 The Enlightenment-inspired thinking one would expect from an eighteenth century text. 
 2205-2
 「悟り」とは、精神的な啓蒙のありさまを言う。 
-「悟り(さとり)」　と　は、　精神的(せいしんてき)　な　啓蒙(けいもう)　の　ありさま　を　言う(いう)。 "
-Satori" refers to a state of spiritual enlightenment. 
+「悟り(さとり)」　と　は、　精神的(せいしんてき)　な　啓蒙(けいもう)　の　ありさま　を　言う(いう)。 
+"Satori" refers to a state of spiritual enlightenment. 
 2205-3
 ブリヤート族は蒙古北部とシベリア東部に住む民族である。 
 ブリヤート　族(ぞく)　は　蒙古(もうこ)　北部(ほくぶ)　と　シベリア　東部(とうぶ)　に　住む(すむ)　民族(みんぞく)　で　ある。 
@@ -5164,12 +5132,8 @@ The Buryats are a people inhabiting an area of northern Mongolia and eastern Sib
 今夜(こんや)　ラーメン　が　食べ(たべ)たい　わ。　あの　亀戸(かめいど)　の　蒙古(もうこ)タンメン　で　会お(あお)う。 
 I feel like ramen tonight. Let's meet at the Moko Tanmen in Kameido. 
 2205-5
-現代の日本語において、蒙古は大抵片仮名を使って
-「モンゴル」と書く。だが、新聞の見出しとかで、
-「蒙」と略す場合もある。 
-現代(げんだい)　の　日本語(にほんご)　において、　蒙古(もうこ)　は　大抵(たいてい)　片仮名(かたかな)　を　使っ(つかっ)て　
-「モンゴル」　と　書く(かく)。　だ　が、　新聞(しんぶん)　の　見出し(みだし)　とか　で、　
-「蒙(もう)」　と　略す(りゃくす)　場合(ばあい)　も　ある。 
+現代の日本語において、蒙古は大抵片仮名を使って「モンゴル」と書く。だが、新聞の見出しとかで、「蒙」と略す場合もある。 
+現代(げんだい)　の　日本語(にほんご)　において、　蒙古(もうこ)　は　大抵(たいてい)　片仮名(かたかな)　を　使っ(つかっ)て　「モンゴル」　と　書く(かく)。　だ　が、　新聞(しんぶん)　の　見出し(みだし)　とか　で、　「蒙(もう)」　と　略す(りゃくす)　場合(ばあい)　も　ある。 
 In contemporary Japanese, Mongolia is usually written "モンゴル" using katakana. But in newspaper headlines and such, it's sometimes abbreviated as "蒙". 
 
 2206-1
@@ -5190,17 +5154,12 @@ A "polder" is low-lying land (especially in the Netherlands) that has been recla
 The ideal proof of ownership is a chain of deeds and transfers extending back to when the land was originally homesteaded. 
 「そもそも(の)」　{抑** / 抑抑** 1137} ["to begin with", "originally"]: DJG v3 p550. 
 2206-5
-プロジェクトのホームページは、比較的空間的に組織された
-World 
-
-Wide Webの世界で
-「故郷」領土として宣言を行うことにより、可能なプログラムの空間の抽象的な開墾を具体化するものなんだ。 プロジェクト　の　ホームページ　は、　比較的(ひかくてき)　空間的(くうかんてき)　に　組織(そしき)　された　World Wide Web　の　世界(せかい)　で　
-「故郷(こきょう)」　領土(りょうど)　として　宣言(せんげん)　を　行う(おこなう)　こと　に　より、　可能(かのう)　な　プログラム　の　空間(くうかん)　の　抽象的(ちゅうしょうてき)　な　開墾(かいこん)　を　具体化(ぐたいか)　する　もの　なん　だ。 A project home page concretizes an abstract homesteading in the space of possible programs by expressing it as 'home' territory in the more spatially-organized realm of the World Wide Web. 
+プロジェクトのホームページは、比較的空間的に組織されたWorld Wide Webの世界で「故郷」領土として宣言を行うことにより、可能なプログラムの空間の抽象的な開墾を具体化するものなんだ。 
+プロジェクト　の　ホームページ　は、　比較的(ひかくてき)　空間的(くうかんてき)　に　組織(そしき)　された　World Wide Web　の　世界(せかい)　で　「故郷(こきょう)」　領土(りょうど)　として　宣言(せんげん)　を　行う(おこなう)　こと　に　より、　可能(かのう)　な　プログラム　の　空間(くうかん)　の　抽象的(ちゅうしょうてき)　な　開墾(かいこん)　を　具体化(ぐたいか)　する　もの　なん　だ。 
+A project home page concretizes an abstract homesteading in the space of possible programs by expressing it as 'home' territory in the more spatially-organized realm of the World Wide Web. 
 2206-6
-この収益は、プロジェクト開墾の努力や
-「所有権の連鎖」を記録したバージョン履歴を維持するコスト、そして捨て子になったプロジェクトを占拠するまでに公的な通達を出して暫く待つという時間コストよりもずっと大きなものでなくてはならない。 
-この　収益(しゅうえき)　は、　プロジェクト　開墾(かいこん)　の　努力(どりょく)　や　
-「所有権(しょゆうけん)　の　連鎖(れんさ)」　を　記録(きろく)　した　バージョン　履歴(りれき)　を　維持(いじ)　する　コスト、　そして　捨て子(すてご)　に　なった　プロジェクト　を　占拠(せんきょ)　する　まで　に　公的(こうてき)　な　通達(つうたつ)　を　出し(だし)て　暫く(しばらく)　待つ(まつ)　という　時間(じかん)　コスト　より　も　ずっと　大(おお)きな　もの　で　なくて　は　ならない。 
+この収益は、プロジェクト開墾の努力や「所有権の連鎖」を記録したバージョン履歴を維持するコスト、そして捨て子になったプロジェクトを占拠するまでに公的な通達を出して暫く待つという時間コストよりもずっと大きなものでなくてはならない。 
+この　収益(しゅうえき)　は、　プロジェクト　開墾(かいこん)　の　努力(どりょく)　や　「所有権(しょゆうけん)　の　連鎖(れんさ)」　を　記録(きろく)　した　バージョン　履歴(りれき)　を　維持(いじ)　する　コスト、　そして　捨て子(すてご)　に　なった　プロジェクト　を　占拠(せんきょ)　する　まで　に　公的(こうてき)　な　通達(つうたつ)　を　出し(だし)て　暫く(しばらく)　待つ(まつ)　という　時間(じかん)　コスト　より　も　ずっと　大(おお)きな　もの　で　なくて　は　ならない。 
 The return must be more significant than the effort of homesteading projects, the cost of maintaining version histories that document 'chain of title', and the time cost of making public notifications and waiting before taking adverse possession of an orphaned project. 
 
 2207-1
@@ -5480,10 +5439,8 @@ The Parties will endeavor in concert with other peace-loving countries to streng
 その　時(とき)　こそ　追跡(ついせき)　の　欲望(よくぼう)　が　不意(ふい)　に　彼(かれ)　を　襲い(おそい)、　彼(かれ)　の　目覚しい(めざましい)　推理(すいり)　能力(のうりょく)　が　直感(ちょっかん)　の　レベル　まで　高まり(たかまり)、　遂に(ついに)　は　彼(かれ)　の　方法(ほうほう)　を　よく　知ら(しら)ない　者(もの)　など　は　普通(ふつう)　の　人間(にんげん)　が　だれ　も　持ち得(もちえ)ない　知識(ちしき)　を　持つ(もつ)　人(ひと)　として　彼(かれ)　を　不審(ふしん)　の　目(め)　で　見る(みる)　こと　に　なる　の　だった。 
 It was at just such times that the lust of the chase would suddenly come upon him, and his brilliant reasoning power would rise to the level of intuition, until those who were unacquainted with his methods would look askance at him as on a man whose knowledge was not that of other mortals. 
 2210-35
-大統領はその職務の遂行を開始する前に、次のような宣誓あるいは確約をしなければならない。
-「私は合衆国大統領の職務を忠実に遂行し、全力を尽して合衆国憲法を維持、保護、擁護することを厳粛に誓う〚あるいは確約する〛」。 
-大統領(だいとうりょう)　は　その　職務(しょくむ)　の　遂行(すいこう)　を　開始(かいし)　する　前(まえ)　に、　次(つぎ)　の　よう　な　宣誓(せんせい)　あるいは　確約(かくやく)　を　しなければ　ならない。　
-「私(わたし)　は　合衆国(がっしゅうこく)　大統領(だいとうりょう)　の　職務(しょくむ)　を　忠実(ちゅうじつ)　に　遂行(すいこう)　し、　全力(ぜんりょく)　を　尽し(つくし)て　合衆国(がっしゅうこく)　憲法(けんぽう)　を　維持(いじ)、　保護(ほご)、　擁護(ようご)　する　こと　を　厳粛(げんしゅく)　に　誓う(ちかう)　〚あるいは　確約(かくやく)　する〛」。 
+大統領はその職務の遂行を開始する前に、次のような宣誓あるいは確約をしなければならない。「私は合衆国大統領の職務を忠実に遂行し、全力を尽して合衆国憲法を維持、保護、擁護することを厳粛に誓う〚あるいは確約する〛」。 
+大統領(だいとうりょう)　は　その　職務(しょくむ)　の　遂行(すいこう)　を　開始(かいし)　する　前(まえ)　に、　次(つぎ)　の　よう　な　宣誓(せんせい)　あるいは　確約(かくやく)　を　しなければ　ならない。　「私(わたし)　は　合衆国(がっしゅうこく)　大統領(だいとうりょう)　の　職務(しょくむ)　を　忠実(ちゅうじつ)　に　遂行(すいこう)　し、　全力(ぜんりょく)　を　尽し(つくし)て　合衆国(がっしゅうこく)　憲法(けんぽう)　を　維持(いじ)、　保護(ほご)、　擁護(ようご)　する　こと　を　厳粛(げんしゅく)　に　誓う(ちかう)　〚あるいは　確約(かくやく)　する〛」。 
 Before he enter on the execution of his office he shall take the following oath or affirmation: "I do solemnly swear (or affirm) that I will faithfully execute the office of President of the United States, and will to the best of my ability preserve, protect, and defend the Constitution of the United States". 
 2210-36
 この条約に別段の定めがある場合を除き、連合国は、連合国のすべての賠償請求権、戦争の遂行中に日本国及びその国民がとつた行動から生じた連合国及びその国民の他の請求権並びに占領の直接軍事費に関する連合国の請求権を放棄する。 
@@ -5493,7 +5450,6 @@ Except as otherwise provided in the present Treaty, the Allied Powers waive all 
 大統領が免職、死亡、辞任し、またはその権限および義務を遂行する能力を失った場合は、その職務権限は副大統領に帰属する。連邦議会は、大統領および副大統領が共に、免職、死亡、辞任あるいは能力喪失の場合について法律で規定し、その場合に大統領の職務を行なうべき公務員を定めることができる。この公務員は、これにより、右のような能力喪失の状態が除去されるか、あるいは大統領が選任されるまで、その職務を行う。 
 大統領(だいとうりょう)　が　免職(めんしょく)、　死亡(しぼう)、　辞任(じにん)　し、　または　その　権限(けんげん)　および　義務(ぎむ)　を　遂行(すいこう)　する　能力(のうりょく)　を　失っ(うしなっ)た　場合(ばあい)　は、　その　職務(しょくむ)　権限(けんげん)　は　副大統領(ふくだいとうりょう)　に　帰属(きぞく)　する。　連邦(れんぽう)　議会(ぎかい)　は、　大統領(だいとうりょう)　および　副大統領(ふくだいとうりょう)　が　共に(ともに)、　免職(めんしょく)、　死亡(しぼう)、　辞任(じにん)　あるいは　能力(のうりょく)　喪失(そうしつ)　の　場合(ばあい)　について　法律(ほうりつ)　で　規定(きてい)　し、　その　場合(ばあい)　に　大統領(だいとうりょう)　の　職務(しょくむ)　を　行なう(おこなう)　べき　公務員(こうむいん)　を　定める(さだめる)　こと　が　できる。　この　公務員(こうむいん)　は、　これ　に　より、　右(みぎ)　の　よう　な　能力(のうりょく)　喪失(そうしつ)　の　状態(じょうたい)　が　除去(じょきょ)　される　か、　あるいは　大統領(だいとうりょう)　が　選任(せんにん)　される　まで、　その　職務(しょくむ)　を　行う(おこなう)。 
 In case of the removal of the President from office, or of his death, resignation, or inability to discharge the powers and duties of the said office, the same shall devolve on the Vice-President, and the Congress may by law provide for the case of removal, death, resignation, or inability, both of the President and Vice-President, declaring what officer shall then act as President, and such officer shall act accordingly until the disability be removed or a President shall be elected. 
-2211-222 
 
 2211-1
 酒は高瀬さんの失墜であった。 
@@ -5515,7 +5471,6 @@ Accidental inhalation may also occur as a consequence of a fire in a depleted ur
 初めは、子供のすすり泣きのように、何かで包まれたような、切れ切れな叫び声であったが、それから急に高まって、まったく異様な、人間のものではない、一つの長い、高い、連続した金切声となり、――地獄に墜ちてもだえ苦しむ者と、地獄に墜して喜ぶ悪魔との咽喉から一緒になって、ただ地獄からだけ聞えてくるものと思われるような、半ば恐怖の、半ば勝利の、号泣――遠吠えするような悲鳴――となった。 
 初め(はじめ)　は、　子供(こども)　の　すすり泣き(すすりなき)　の　よう　に、　何(なに)　か　で　包ま(つつま)れた　よう　な、　切れ切れ(きれぎれ)　な　叫び声(さけびごえ)　で　あった　が、　それから　急(きゅう)　に　高まっ(たかまっ)て、　まったく　異様(いよう)　な、　人間(にんげん)　の　もの　で　は　ない、　一つ(ひとつ)　の　長い(ながい)、　高い(たかい)、　連続(れんぞく)　した　金切声(かなきりごえ)　と　なり、　――　地獄(じごく)　に　墜ち(おち)て　もだえ苦しむ(もだえくるしむ)　者(もの)　と、　地獄(じごく)　に　墜(おと)して　喜ぶ(よろこぶ)　悪魔(あくま)　と　の　咽喉(いんこう)　から　一緒(いっしょ)　に　なって、　ただ　地獄(じごく)　から　だけ　聞え(きこえ)て　くる　もの　と　思わ(おもわ)れる　よう　な、　半ば(なかば)　恐怖(きょうふ)　の、　半ば(なかば)　勝利(しょうり)　の、　号泣(ごうきゅう)　――　遠吠え(とおぼえ)　する　よう　な　悲鳴(ひめい)　――　と　なった。 
 By a cry, at first muffled and broken, like the sobbing of a child, and then quickly swelling into one long, loud, and continuous scream, utterly anomalous and inhuman - a howl - a wailing shriek, half of horror and half of triumph, such as might have arisen only out of hell, conjointly from the throats of the damned writhing in their agony and of the demons that exult in the damnation. 
-
 「もだえる」means “to writhe”. 
 
 2212-1
@@ -5633,14 +5588,15 @@ The explanation of each fact took a long time.
 Heart attacks are accompanied by destruction of heart tissue. 
 2213-16
 「失禁」とは、不随意の排尿若しくは排便のことを言う。 
-「失禁(しっきん)」　と　は、　不随意(ふずいい)　の　排尿(はいにょう)　若しくは(もしくは)　排便(はいべん)　の　こと　を　言う(いう)。 "
-Incontinence" refers to involuntary urination or defecation. 
+「失禁(しっきん)」　と　は、　不随意(ふずいい)　の　排尿(はいにょう)　若しくは(もしくは)　排便(はいべん)　の　こと　を　言う(いう)。 
+"Incontinence" refers to involuntary urination or defecation. 
 2213-17
 あらゆる政治家には追随する親衛隊がいるものだ。 
 あらゆる　政治家(せいじか)　に　は　追随(ついずい)　する　親衛隊(しんえいたい)　が　いる　もの　だ。 
 Every politician has a following of janissaries. 
 2213-18
-4219だなんて、日本語で随分と語呂が悪い番号だな。 4219だ　なんて、　日本語(にほんご)　で　随分(ずいぶん)　と　語呂(ごろ)　が　悪い(わるい)　番号(ばんごう)　だ　な。 4219 
+4219だなんて、日本語で随分と語呂が悪い番号だな。 
+4219だ　なんて、　日本語(にほんご)　で　随分(ずいぶん)　と　語呂(ごろ)　が　悪い(わるい)　番号(ばんごう)　だ　な。 4219 
 is an extremely inauspicious number in Japanese. 
 2213-19
 随意に、筆記帳でも控え帳でもお使いなすってよろしい。 
@@ -5689,8 +5645,9 @@ I can never bring you to realise the importance of sleeves, the suggestiveness o
 No money shall be drawn from the Treasury but in consequence of appropriations made by law; and a regular statement and account of the receipts and expenditures of all public money shall be published from time to time. 
 「いっさい〜ない」　{一切〜ない　2; 86} ["no __ whatsoever"]: DJG v3 p159. 
 2213-30
-
-CFOは組織内部では何の障害もないアニメへのアクセスを約束していたけれど、CFOネットワークへのアクセスを獲得するのは、普通考えるより随分難しいものとなった。 CFO　は　組織(そしき)　内部(ないぶ)　で　は　何(なん)　の　障害(しょうがい)　も　ない　アニメ　へ　の　アクセス　を　約束(やくそく)　して　いた　けれど、　CFO　ネットワーク　へ　の　アクセス　を　獲得(かくとく)　する　の　は、　普通(ふつう)　考える(かんがえる)　より　随分(ずいぶん)　難(むずか)しい　もの　と　なった。 Although The C/FO promised unfettered access to anime within its organization, access into C/FO’s networks proved more difficult that one might expect. 
+CFOは組織内部では何の障害もないアニメへのアクセスを約束していたけれど、CFOネットワークへのアクセスを獲得するのは、普通考えるより随分難しいものとなった。 
+CFO　は　組織(そしき)　内部(ないぶ)　で　は　何(なん)　の　障害(しょうがい)　も　ない　アニメ　へ　の　アクセス　を　約束(やくそく)　して　いた　けれど、　CFO　ネットワーク　へ　の　アクセス　を　獲得(かくとく)　する　の　は、　普通(ふつう)　考える(かんがえる)　より　随分(ずいぶん)　難(むずか)しい　もの　と　なった。 
+Although The C/FO promised unfettered access to anime within its organization, access into C/FO’s networks proved more difficult that one might expect. 
 2213-31
 締約国は、この条約の実施に関して随時協議し、また、日本国の安全又は極東に於ける国際の平和及び安全に対する脅威が生じたときはいつでも、いずれか一方の締約国の要請により協議する。 
 締約国(ていやくこく)　は、　この　条約(じょうやく)　の　実施(じっし)　に関して(にかんして)　随時(ずいじ)　協議(きょうぎ)　し、　また、　日本国(にほんこく)　の　安全(あんぜん)　又は(または)　極東(きょくとう)　に　於け(おけ)る　国際(こくさい)　の　平和(へいわ)　及び(および)　安全(あんぜん)　に対する(にたいする)　脅威(きょうい)　が　生じ(しょうじ)た　とき　は　いつ　でも、　いずれ　か　一方(いっぽう)　の　締約国(ていやくこく)　の　要請(ようせい)　に　より　協議(きょうぎ)　する。 
@@ -5847,10 +5804,8 @@ The 30 per cent to 100 per cent increase in wages which the workmen are able to 
 更に(さらに)　作業員(さぎょういん)　と　雇い主(やといぬし)　双方(そうほう)　を　悩ま(なやま)せる　最大(さいだい)　の　悪(あく)　は、　通常(つうじょう)　の　管理(かんり)　の　あらゆる　枠組み(わくぐみ)　に　共通(きょうつう)　する　もの　で、　そして　何(なに)　が　作業員(さぎょういん)　の　側(がわ)　の　利益(りえき)　を　最大限(さいだいげん)　に　増進(ぞうしん)　させる　かも　の　な　の　か　を　彼ら(かれら)　が　注意深く(ちゅういぶかく)　考え(かんがえ)た　結果(けっか)　が　もたらした、　組織的(そしきてき)　怠業(たいぎょう)　な　の　で　ある。 
 By far the greatest evil from which both workmen and employers are suffering is the systematic soldiering which is almost universal under all of the ordinary schemes of management and which results from a careful study on the part of the workmen of what will promote their best interests. 
 2216-18
-緩慢な作業や各種の
-「怠業」を止め、各作業員がそれぞれ最大限の実力を発揮し、管理者の個人的な協力や管理職から〚もともと受けるべき〛援助により出来る限り早く仕事をこなせるよう労使の関係を改善することで、各作業員及び各機械に対し平均して2倍近い成果が得られることが、後述の論文から明らかになるだろう。 
-緩慢(かんまん)　な　作業(さぎょう)　や　各種(かくしゅ)　の　
-「怠業(たいぎょう)」　を　止め(やめ)、　各(かく)　作業員(さぎょういん)　が　それぞれ　最大限(さいだいげん)　の　実力(じつりょく)　を　発揮(はっき)　し、　管理者(かんりしゃ)　の　個人的(こじんてき)　な　協力(きょうりょく)　や　管理職(かんりしょく)　から　〚もともと　受ける(うける)　べき〛　援助(えんじょ)　に　より　出来る(できる)　限り(かぎり)　早く(はやく)　仕事(しごと)　を　こなせる　よう　労使(ろうし)　の　関係(かんけい)　を　改善(かいぜん)　する　こと　で、　各(かく)　作業員(さぎょういん)　及び(および)　各(かく)　機械(きかい)　に対し(にたいし)　平均(へいきん)　して　2倍(ばい)　近い(ちかい)　成果(せいか)　が　得(え)られる　こと　が、　後述(こうじゅつ)　の　論文(ろんぶん)　から　明(あき)らか　に　なる　だろう。 
+緩慢な作業や各種の「怠業」を止め、各作業員がそれぞれ最大限の実力を発揮し、管理者の個人的な協力や管理職から〚もともと受けるべき〛援助により出来る限り早く仕事をこなせるよう労使の関係を改善することで、各作業員及び各機械に対し平均して2倍近い成果が得られることが、後述の論文から明らかになるだろう。 
+緩慢(かんまん)　な　作業(さぎょう)　や　各種(かくしゅ)　の　「怠業(たいぎょう)」　を　止め(やめ)、　各(かく)　作業員(さぎょういん)　が　それぞれ　最大限(さいだいげん)　の　実力(じつりょく)　を　発揮(はっき)　し、　管理者(かんりしゃ)　の　個人的(こじんてき)　な　協力(きょうりょく)　や　管理職(かんりしょく)　から　〚もともと　受ける(うける)　べき〛　援助(えんじょ)　に　より　出来る(できる)　限り(かぎり)　早く(はやく)　仕事(しごと)　を　こなせる　よう　労使(ろうし)　の　関係(かんけい)　を　改善(かいぜん)　する　こと　で、　各(かく)　作業員(さぎょういん)　及び(および)　各(かく)　機械(きかい)　に対し(にたいし)　平均(へいきん)　して　2倍(ばい)　近い(ちかい)　成果(せいか)　が　得(え)られる　こと　が、　後述(こうじゅつ)　の　論文(ろんぶん)　から　明(あき)らか　に　なる　だろう。 
 It will be shown later in this paper that doing away with slow working and "soldiering" in all its forms and so arranging the relations between employer and employs that each workman will work to his very best advantage and at his best speed, accompanied by the intimate cooperation with the management and the help (which the workman should receive) from the management, would result on the average in nearly doubling the output of each man and each machine. 
 
 2217-1
@@ -6030,12 +5985,9 @@ This conviction was of itself sufficient to prevent their entertaining any desir
 賢い(かしこい)　君主(くんしゅ)　は、　機会(きかい)　が　あれば、　策(さく)　を　弄(ろう)　して　自分(じぶん)　へ　の　反感(はんかん)　を　助長(じょちょう)　し、　そう　やって、　それ　を　粉砕(ふんさい)　する　こと　で　自分(じぶん)　の　名声(めいせい)　を　高める(たかめる)　の　だ　と、　多く(おおく)　の　人(ひと)たち　は　思っ(おもっ)て　いる　の　です。 
 Many consider that a wise prince, when he has the opportunity, ought with craft to foster some animosity against himself, so that, having crushed it, his renown may rise higher. 
 2220-7
-ネロは、貧しく育ち、運命に弄ばれ、読み書きも教えられず、誰にも顧みられませんでしたが、その見返りに、いや、災いだったかも知れませんが、
-「天才」と呼ばれる才能を授かっていました。 
-ネロ　は、　貧しく(まずしく)　育ち(そだち)、　運命(うんめい)　に　弄ば(もてあそば)れ、　読み書き(よみかき)　も　教え(おしえ)られず、　誰(だれ)　に　も　顧み(かえりみ)られません　でした　が、　その　見返り(みかえり)　に、　いや、　災い(わざわい)　だった　かも　知れ(しれ)ません　が、
-「天才(てんさい)」　と　呼ば(よば)れる　才能(さいのう)　を　授かっ(さずかっ)て　いました。 
+ネロは、貧しく育ち、運命に弄ばれ、読み書きも教えられず、誰にも顧みられませんでしたが、その見返りに、いや、災いだったかも知れませんが、「天才」と呼ばれる才能を授かっていました。 
+ネロ　は、　貧しく(まずしく)　育ち(そだち)、　運命(うんめい)　に　弄ば(もてあそば)れ、　読み書き(よみかき)　も　教え(おしえ)られず、　誰(だれ)　に　も　顧み(かえりみ)られません　でした　が、　その　見返り(みかえり)　に、　いや、　災い(わざわい)　だった　かも　知れ(しれ)ません　が、「天才(てんさい)」　と　呼ば(よば)れる　才能(さいのう)　を　授かっ(さずかっ)て　いました。 
 Nello, reared in poverty, and buffeted by fortune, and untaught in letters, and unheeded by men, had the compensation or the curse which is called genius. 
-2221-223 
 
 2221-1
 冷嘲的な非難。 
@@ -6071,8 +6023,8 @@ The Captain laughed with a little tremor and a sneer.
 There was a grain of derision, a shadow of treachery. 
 2221-9
 「すみません」と、彼女は嘲るように繰り返した。 
-「すみません」　と、　彼女(かのじょ)　は　嘲る(あざける)　よう　に　繰り返し(くりかえし)た。 ‘
-Sorry’, she repeated derisively. 
+「すみません」　と、　彼女(かのじょ)　は　嘲る(あざける)　よう　に　繰り返し(くりかえし)た。 
+‘Sorry’, she repeated derisively. 
 2221-10
 その名前は町中で嘲笑と汚名の物笑いの種であった。 
 その　名前(なまえ)　は　町中(まちじゅう)　で　嘲笑(ちょうしょう)　と　汚名(おめい)　の　物笑い(ものわらい)　の　種(たね)　で　あった。 
@@ -6174,10 +6126,8 @@ Our company will not disclose customer data to third parties.
 彼(かれ)　は　多く(おおく)　の　首都(しゅと)　の　悪弊(あくへい)　を　要約(ようやく)　し、　ベルリン　に　栄冠(えいかん)　を　与え(あたえ)たい　よう　に　見え(みえ)た。 
 He summarised the vices of many capitals and seemed inclined to award the palm to Berlin. 
 2223-5
-「カキの種」と言うお摘みは煎餅だから、
-「カキの種」という言い方には語弊がある。 
-「カキ　の　種(たね)」　と　言う(いう)　お摘み(おつまみ)　は　煎餅(せんべい)　だ　から、　
-「カキ　の　種(たね)」　という　言い方(いいかた)　に　は　語弊(ごへい)　が　ある。 
+「カキの種」と言うお摘みは煎餅だから、「カキの種」という言い方には語弊がある。 
+「カキ　の　種(たね)」　と　言う(いう)　お摘み(おつまみ)　は　煎餅(せんべい)　だ　から、　「カキ　の　種(たね)」　という　言い方(いいかた)　に　は　語弊(ごへい)　が　ある。 
 The snack called "Kaki no Tane" is really senbei, so it's misleading to call it "persimmon seeds". 
 2223-6
 万一お申し込みに覚えがない場合や記載内容に間違いがある場合はお手数をおかけしますが、弊社まで一度お問い合わせ下さい。 
@@ -6237,7 +6187,8 @@ Eventually, his gaze focused on the edge of the bill.
 神主(かんぬし)たち　は　杉(すぎ)　の　木(き)　に　縄(なわ)　を　巻い(まい)て　御幣(ごへい)　を　付け(つけ)た。 
 The Shinto priests wrapped a rope around the cedar tree and attached a paper offering. 
 2224-12
-10ドル紙幣を5枚、残りは1ドル紙幣でお願いします。 10ドル　紙幣(しへい)　を　5枚(まい)、　残り(のこり)　は　1ドル　紙幣(しへい)　で　お願い(おねがい)　します。 
+10ドル紙幣を5枚、残りは1ドル紙幣でお願いします。 
+10ドル　紙幣(しへい)　を　5枚(まい)、　残り(のこり)　は　1ドル　紙幣(しへい)　で　お願い(おねがい)　します。 
 Please give me five tens and the rest in ones. 
 2224-13
 貨幣を鋳造し、その価値および外国貨幣の価値を定め、また度量衡の標準を定めること。 
@@ -6266,8 +6217,8 @@ You will see it to be an open country without barriers and without any defence.
 The blue wall cracked when some officers refused to take part in the cover-up. 
 2225-4
 「マネーロンダリング」【資金洗浄】とは、不法に得た資金の出所の隠蔽を言う。 
-「マネー　ロンダリング」　【資金(しきん)　洗浄(せんじょう)】　と　は、　不法(ふほう)　に　得(え)た　資金(しきん)　の　出所(しゅっしょ)　の　隠蔽(いんぺい)　を　言う(いう)。 "
-Money laundering" is the concealing of the sources of illegally gotten money. 
+「マネー　ロンダリング」　【資金(しきん)　洗浄(せんじょう)】　と　は、　不法(ふほう)　に　得(え)た　資金(しきん)　の　出所(しゅっしょ)　の　隠蔽(いんぺい)　を　言う(いう)。 
+"Money laundering" is the concealing of the sources of illegally gotten money. 
 2225-5
 ホームズは、彼の水筒を持って、私の椅子の上に、蔽いかぶさるようにのしかかっていた。 
 ホームズ　は、　彼(かれ)　の　水筒(すいとう)　を　持っ(もっ)て、　私(わたし)　の　椅子(いす)　の　上(うえ)　に、　蔽い(おおい)かぶさる　よう　に　のしかかって　いた。 
@@ -6348,10 +6299,8 @@ Would you have any bookcases with deeper shelves?
 朋子(ともこ)さん　の　本(ほん)　は　棚(たな)　で　非系統的(ひけいとうてき)　に　並べ(ならべ)られた。 
 Tomoko's books were lined up unsystematically on the shelf. 
 2227-10
-英国では、炉棚は
-「チムニーピース」と呼ばれる。 
-英国(えいこく)　で　は、　炉棚(ろだな)　は　
-「チムニー　ピース」　と　呼ば(よば)れる。 
+英国では、炉棚は「チムニーピース」と呼ばれる。 
+英国(えいこく)　で　は、　炉棚(ろだな)　は　「チムニー　ピース」　と　呼ば(よば)れる。 
 In Britain they call a mantel a "chimneypiece". 
 2227-11
 皿をきれいに洗ったら食器棚に戻して下さい。 
@@ -6374,10 +6323,9 @@ She went to the cupboard and cut herself some bread, which she spread with butte
 空(そら)　は　澄ん(すん)で　高く(たかく)、　日没(にちぼつ)　方向(ほうこう)　に　水平(すいへい)　に　幾筋(いくすじ)　か　棚引く(たなびく)　雲(くも)　以外(いがい)　は　何(なに)　も　ありません。 
 The sky is clear, remote, and empty save for a few flat bars far down in the sunset. 
 2227-16
-「大陸棚」とは、大陸周辺の比較的浅い〚200
-m以下の〛海底のことを言う。 
-「大陸棚(たいりくだな)」　と　は、　大陸(たいりく)　周辺(しゅうへん)　の　比較的(ひかくてき)　浅い(あさい)　〚200
-m(メートル)　以下(いか)　の〛　海底(かいてい)　の　こと　を　言う(いう)。 The "continental shelf" is the relatively shallow (up to 200 meters) seabed surrounding a continent. 
+「大陸棚」とは、大陸周辺の比較的浅い〚200m以下の〛海底のことを言う。 
+「大陸棚(たいりくだな)」　と　は、　大陸(たいりく)　周辺(しゅうへん)　の　比較的(ひかくてき)　浅い(あさい)　〚200m(メートル)　以下(いか)　の〛　海底(かいてい)　の　こと　を　言う(いう)。 
+The "continental shelf" is the relatively shallow (up to 200 meters) seabed surrounding a continent. 
 2227-17
 書斎には、どこかの変哲な発明家から父が最近になって買い取った本棚があった。 
 書斎(しょさい)　に　は、　どこ　か　の　変哲(へんてつ)　な　発明家(はつめいか)　から　父(ちち)　が　最近(さいきん)　に　なって　買い取っ(かいとっ)た　本棚(ほんだな)　が　あった。 
@@ -6461,10 +6409,8 @@ There were neat fences at the sides of the road, painted a dainty blue color, an
 僕(ぼく)たち　の　いる　戸口(とぐち)　の　向かい側(むかいがわ)　の　ランプ　の　光(ひかり)　が　彼女(かのじょ)　の　首(くび)　の　白い(しろい)　曲線(きょくせん)　を　とらえ、　そこ　に　かかる　髪(かみ)　を　照らし(てらし)、　そして　下(した)　に　落ち(おち)て、　柵(さく)　の　上(うえ)　の　手(て)　を　照らし(てらし)た。 
 The light from the lamp opposite our door caught the white curve of her neck, lit up her hair that rested there and, falling, lit up the hand upon the railing. 
 2228-14
-ノウアスフィアから
-「サイバースペース」におりてきても、柵や吠える番犬の現実世界まではまだ距離があるけれど、でも抽象的な領土主張をもっと直感的な縄張り理解に結びつけてはくれる。 
-ノウアスフィア　から　
-「サイバースペース」　に　おりて　きて　も、　柵(さく)　や　吠える(ほえる)　番犬(ばんけん)　の　現実(げんじつ)　世界(せかい)　まで　は　まだ　距離(きょり)　が　ある　けれど、　でも　抽象的(ちゅうしょうてき)　な　領土(りょうど)　主張(しゅちょう)　を　もっと　直感的(ちょっかんてき)　な　縄張り(なわばり)　理解(りかい)　に　結びつけ(むすびつけ)て　は　くれる。 
+ノウアスフィアから「サイバースペース」におりてきても、柵や吠える番犬の現実世界まではまだ距離があるけれど、でも抽象的な領土主張をもっと直感的な縄張り理解に結びつけてはくれる。 
+ノウアスフィア　から　「サイバースペース」　に　おりて　きて　も、　柵(さく)　や　吠える(ほえる)　番犬(ばんけん)　の　現実(げんじつ)　世界(せかい)　まで　は　まだ　距離(きょり)　が　ある　けれど、　でも　抽象的(ちゅうしょうてき)　な　領土(りょうど)　主張(しゅちょう)　を　もっと　直感的(ちょっかんてき)　な　縄張り(なわばり)　理解(りかい)　に　結びつけ(むすびつけ)て　は　くれる。 
 Descending from the noosphere to 'cyberspace' doesn't get us all the way to the real world of fences and barking dogs yet, but it does hook the abstract property claim more securely to our instinctive wiring about territory. 
 
 2229-1
@@ -6480,7 +6426,8 @@ The girder was clinched into the wall.
 農場(のうじょう)　の　価格(かかく)　は、　桁外れ(けたはずれ)　に　上がっ(あがっ)た。 
 The prices of farms rose prodigiously. 
 2229-4
-100から999までは3桁の数である。 100　から　999　まで　は　3桁(けた)　の　数(かず)　で　ある。 100 
+100から999までは3桁の数である。 
+100　から　999　まで　は　3桁(けた)　の　数(かず)　で　ある。 100 
 through 999 are three-digit numbers. 
 2229-5
 内分泌科医は数値を小数点4桁まで計算した。 
@@ -6555,7 +6502,6 @@ Tomorrow they're starting the construction next door early in the morning. Let's
 二人がいくつかの曲がりくねった廊下を通り、暗い階段を上がり、奥まった部屋に着くと、幹事の一人が数人の紳士のためにコルク栓を抜いていた。 
 二人(ふたり)　が　いくつ　か　の　曲がりくねっ(まがりくねっ)た　廊下(ろうか)　を　通り(とおり)、　暗い(くらい)　階段(かいだん)　を　上がり(あがり)、　奥まっ(おくまっ)た　部屋(へや)　に　着く(つく)　と、　幹事(かんじ)　の　一人(ひとり)　が　数人(すうにん)　の　紳士(しんし)　の　ため　に　コルク栓(せん)　を　抜い(ぬい)て　いた。 
 The two men went along some tortuous passages and up a dark staircase and came to a secluded room where one of the stewards was uncorking bottles for a few gentlemen. 
-2231-224 
 
 2231-1
 詮索好きな顔つき。 
@@ -6664,10 +6610,8 @@ The storm was responsible for many blocked roads and bridges.
 党員(とういん)　は、　候補(こうほ)　の　発表(はっぴょう)　に　より　口(くち)　が　塞がら(ふさがら)なく　なった。 
 The partisans were struck dumb by the candidate's announcement. 
 2232-18
-要塞に対する直接的で猛烈な襲撃は
-「籠城」と言う。 
-要塞(ようさい)　に対する(にたいする)　直接的(ちょくせつてき)　で　猛烈(もうれつ)　な　襲撃(しゅうげき)　は　
-「籠城(ろうじょう)」　と　言う(いう)。 
+要塞に対する直接的で猛烈な襲撃は「籠城」と言う。 
+要塞(ようさい)　に対する(にたいする)　直接的(ちょくせつてき)　で　猛烈(もうれつ)　な　襲撃(しゅうげき)　は　「籠城(ろうじょう)」　と　言う(いう)。 
 A direct and violent assault on a stronghold is called a "siege". 
 2232-19
 血栓塞栓は血栓から剥がれた塞栓による閉塞である。 
@@ -6738,10 +6682,9 @@ Bypass surgery" is an open-heart surgery in which the rib cage is opened and a s
 君主(くんしゅ)　に　は、　その　国家(こっか)　を　より　安全(あんぜん)　に　保持(ほじ)　する　ため　に、　君主(くんしゅ)　に　反乱(はんらん)　を　企てる(くわだてる)　者(もの)　に対する(にたいする)　手綱(たづな)　の　役目(やくめ)　を　果たし(はたし)、　最初(さいしょ)　の　攻撃(こうげき)　から　の　非難(ひなん)　場所(ばしょ)　と　なる　よう、　要塞(ようさい)　を　築く(きずく)　という　慣例(かんれい)　が　ありました。 
 It has been a custom with princes, in order to hold their states more securely, to build fortresses that may rein in those who might design to work against them, and as a place of refuge from a first attack. 
 2232-36
-アニメファンダムでの実体験を元に、マセックは『超時空要塞マクロス』『超時空世紀オーガス』『超時空騎団サザンクロス』を編集して
-Robotechに仕立て、物凄い商業的な成功を実現したのだった。 
-アニメ　ファンダム　で　の　実体験(じつたいけん)　を　元(もと)　に、　マセック　は　『超時空(ちょうじくう)　要塞(ようさい)　マクロス』　『超時空(ちょうじくう)　世紀(せいき)　オーガス』　『超時空(ちょうじくう)　騎団(きだん)　サザン　クロス』　を　編集(へんしゅう)　して　
-Robotech　に　仕立て(したて)、　物凄い(ものすごい)　商業的(しょうぎょうてき)　な　成功(せいこう)　を　実現(じつげん)　した　の　だった。 Based on his experience with anime fandom, Macek edited Macross, Orguss, and Southern Cross into Robotech, which turned out to be a resounding commercial success. 
+アニメファンダムでの実体験を元に、マセックは『超時空要塞マクロス』『超時空世紀オーガス』『超時空騎団サザンクロス』を編集してRobotechに仕立て、物凄い商業的な成功を実現したのだった。 
+アニメ　ファンダム　で　の　実体験(じつたいけん)　を　元(もと)　に、　マセック　は　『超時空(ちょうじくう)　要塞(ようさい)　マクロス』　『超時空(ちょうじくう)　世紀(せいき)　オーガス』　『超時空(ちょうじくう)　騎団(きだん)　サザン　クロス』　を　編集(へんしゅう)　して　Robotech　に　仕立て(したて)、　物凄い(ものすごい)　商業的(しょうぎょうてき)　な　成功(せいこう)　を　実現(じつげん)　した　の　だった。 
+Based on his experience with anime fandom, Macek edited Macross, Orguss, and Southern Cross into Robotech, which turned out to be a resounding commercial success. 
 2232-37
 ある州が譲渡し、連邦議会が受諾することにより、合衆国政府の所在地となる地区〚ただし十マイル平方を超えてはならない〛に対して、いかなる事項に関しても、独占的な立法権を行使すること。要塞、武器庫、造兵しょう、造船所およびその他必要な建造物の建設のために、それが所在する州の議会の同意を得て購入した区域すべてに対し、同様の権限を行使すること。 
 ある　州(しゅう)　が　譲渡(じょうと)　し、　連邦(れんぽう)　議会(ぎかい)　が　受諾(じゅだく)　する　こと　に　より、　合衆国(がっしゅうこく)　政府(せいふ)　の　所在地(しょざいち)　と　なる　地区(ちく)　〚ただし　十(じゅう)マイル　平方(へいほう)　を　超え(こえ)て　は　ならない〛　に対して(にたいして)、　いかなる　事項(じこう)　に関して(にかんして)　も、　独占的(どくせんてき)　な　立法権(りっぽうけん)　を　行使(こうし)　する　こと。　要塞(ようさい)、　武器庫(ぶきこ)、　造兵(ぞうへい)しょう、　造船所(ぞうせんじょ)　および　その　他(た)　必要(ひつよう)　な　建造物(けんぞうぶつ)　の　建設(けんせつ)　の　ため　に、　それ　が　所在(しょざい)　する　州(しゅう)　の　議会(ぎかい)　の　同意(どうい)　を　得(え)て　購入(こうにゅう)　した　区域(くいき)　すべて　に対し(にたいし)、　同様(どうよう)　の　権限(けんげん)　を　行使(こうし)　する　こと。 
@@ -6798,10 +6741,8 @@ Tarugaki is made by sweeting astringent persimmons in a sake cask.
 秋(あき)　に　なる　と　母(はは)　が　吊るし柿(つるしかき)　を　ほぼ　毎日(まいにち)　食べる(たべる)。 
 When fall comes my mother eats dried persimmons almost every day. 
 2234-5
-「柿の種」と言うお摘みは煎餅だから、
-「柿の種」という言い方には語弊がある。 
-「柿(かき)　の　種(たね)」　と　言う(いう)　お摘み(おつまみ)　は　煎餅(せんべい)　だ　から、　
-「柿(かき)　の　種(たね)」　という　言い方(いいかた)　に　は　語弊(ごへい)　が　ある。 
+「柿の種」と言うお摘みは煎餅だから、「柿の種」という言い方には語弊がある。 
+「柿(かき)　の　種(たね)」　と　言う(いう)　お摘み(おつまみ)　は　煎餅(せんべい)　だ　から、　「柿(かき)　の　種(たね)」　という　言い方(いいかた)　に　は　語弊(ごへい)　が　ある。 
 The snack called "Kaki no Tane" is really senbei, so it's misleading to call it "persimmon seeds". 
 
 2235-1
@@ -6846,7 +6787,8 @@ Prices have gone sky-high.
 佐藤(さとう)　監督(かんとく)　の　怒り(いかり)　は　沸騰(ふっとう)　した。 
 Coach Sato's anger came to a boil. 
 2236-5
-1気圧で水は摂氏100度で沸騰する。 1気圧(きあつ)　で　水(みず)　は　摂氏(せっし)　100度(ど)　で　沸騰(ふっとう)　する。 
+1気圧で水は摂氏100度で沸騰する。 
+1気圧(きあつ)　で　水(みず)　は　摂氏(せっし)　100度(ど)　で　沸騰(ふっとう)　する。 
 Water boils at 100 degrees Celsius at 1 atmosphere. 
 2236-6
 加藤さんは薬缶を沸騰させたまま台所を出た。 
@@ -6890,12 +6832,8 @@ Professor Fujita mimeographed the syllabus.
 裁判書(さいばんしょ)　又は(または)　裁判(さいばん)　を　記載(きさい)　した　調書(ちょうしょ)　の　謄本(とうほん)　又は(または)　抄本(しょうほん)　は、　原本(げんぽん)　又は(または)　謄本(とうほん)　に　より　これ　を　作ら(つくら)なければ　ならない。 
 A copy or an extract of a written judicial decision or of a record containing a judicial decision shall be prepared based on the original or a copy thereof. 
 2237-7
-本条において
-「認証謄本」及び
-「認証抄本」とは、登録官が認証し、登録官の印章を押印した謄本及び抄本のことをいう。 
-本条(ほんじょう)　において　
-「認証(にんしょう)　謄本(とうほん)」　及び(および)　
-「認証(にんしょう)　抄本(しょうほん)」　と　は、　登録官(とうろくかん)　が　認証(にんしょう)　し、　登録官(とうろくかん)　の　印章(いんしょう)　を　押印(おういん)　した　謄本(とうほん)　及び(および)　抄本(しょうほん)　の　こと　を　いう。 
+本条において「認証謄本」及び「認証抄本」とは、登録官が認証し、登録官の印章を押印した謄本及び抄本のことをいう。 
+本条(ほんじょう)　において　「認証(にんしょう)　謄本(とうほん)」　及び(および)　「認証(にんしょう)　抄本(しょうほん)」　と　は、　登録官(とうろくかん)　が　認証(にんしょう)　し、　登録官(とうろくかん)　の　印章(いんしょう)　を　押印(おういん)　した　謄本(とうほん)　及び(および)　抄本(しょうほん)　の　こと　を　いう。 
 In this section, "certified copy" and "certified extract" mean a copy and extract certified by the Registrar and sealed with the seal of the Registrar. 
 2237-8
 訴訟記録の正本、謄本又は抄本には、正本、謄本又は抄本であることを記載し、裁判所書記官が記名押印しなければならない。 
@@ -6968,7 +6906,6 @@ Prime Minister Abe's cabinet began wrestling with the North Korea abduction issu
 野球選手の今江敏晃選手が二回も日本シリーズの最高殊勲選手に選ばれた。 
 野球(やきゅう)　選手(せんしゅ)　の　今江(いまえ)　敏晃(としあき)　選手(せんしゅ)　が　二回(にかい)　も　日本(にほん)　シリーズ　の　最高(さいこう)　殊勲(しゅくん)　選手(せんしゅ)　に　選ば(えらば)れた。 
 The baseball player Toshiaki Imae was twice selected as the MVP of the Japan Series. 
-2241-225 
 
 2241-1
 幌が畳めるクーペ。 
@@ -7076,7 +7013,8 @@ The smell of hot metal remained to assure us that the light was still there, rea
 The blooming lotus flowers in the pond were each pure white like jewels, and the place was filled with the indescribably wondrous fragrance continually emitted from each flower’s golden center. 
 
 2246-1
-5度の勾配。 5度(ど)　の　勾配(こうばい)。 
+5度の勾配。 
+5度(ど)　の　勾配(こうばい)。 
 A five-degree gradient. 
 2246-2
 緩勾配の屋根。 
@@ -7176,10 +7114,8 @@ Kondo-san's greeting was cold and inhospitable.
 毎朝(まいあさ)、　隣(となり)　近所(きんじょ)　の　人(ひと)　は　丁寧(ていねい)　な　挨拶(あいさつ)　を　交わし(かわし)た。 
 Every morning the neighbors exchanged polite hellos. 
 2248-14
-私があの外国の先生に
-「ハロー」と挨拶すると彼女は微笑んだ。 
-私(わたし)　が　あの　外国(がいこく)　の　先生(せんせい)　に　
-「ハロー」　と　挨拶(あいさつ)　する　と　彼女(かのじょ)　は　微笑ん(ほほえん)だ。 
+私があの外国の先生に「ハロー」と挨拶すると彼女は微笑んだ。 
+私(わたし)　が　あの　外国(がいこく)　の　先生(せんせい)　に　「ハロー」　と　挨拶(あいさつ)　する　と　彼女(かのじょ)　は　微笑ん(ほほえん)だ。 
 I said "hello" to that foreign teacher and she smiled. 
 2248-15
 小屋を覗き込むご婦人には、丁寧に帽子をとって挨拶したものです。 
@@ -7238,8 +7174,6 @@ The equivocal objects painted by surrealists.
 トレヴォ氏は僕たちに、鉱山へ行く途中、その男といっしょに船乗りをしていたのだと、曖昧なことを言ってから、僕たちを芝生に残したまま、家の中に這入っていってしまった。 
 トレヴォ　氏(し)　は　僕(ぼく)たち　に、　鉱山(こうざん)　へ　行く(いく)　途中(とちゅう)、　その　男(おとこ)　と　いっしょ　に　船乗り(ふなのり)　を　して　いた　の　だ　と、　曖昧(あいまい)　な　こと　を　言っ(いっ)て　から、　僕(ぼく)たち　を　芝生(しばふ)　に　残し(のこし)た　まま、　家(いえ)　の　中(なか)　に　這入っ(はいいっ)て　いって　しまった。 
 Mr. Trevor mumbled something to us about having been shipmate with the man when he was going back to the diggings, and then, leaving us on the lawn, he went indoors. 
-2251-226 [
-See next entry] 
 
 2252-1
 瑠璃は空色の青い半宝石である。 
@@ -7520,10 +7454,8 @@ The old gentleman in his wonderful white hat carefully stepped from stone to sto
 若者(わかもの)　は　士官(しかん)　の　前(まえ)　に、　痛ましい(いたましい)　幼(おさな)げ　な　口髭(くちひげ)　と、　暗く(くらく)　滑らか(なめらか)　な　額(ひたい)　に、　くっきり　と　奇麗(きれい)　な　眉(まゆ)　を　見せ(みせ)て、　立っ(たっ)て　いた。 
 The youth stood before the Officer, with pathetic young moustache, and fine eyebrows very distinct on his forehead of dark marble. 
 2258-19
-万軍の主は私の耳に誓って言われた、
-「必ずや多くの家は荒廃し、大きな麗しい家も住む者がないようになる」。 
-万軍(ばんぐん)　の　主(しゅ)　は　私(わたし)　の　耳(みみ)　に　誓っ(ちかっ)て　言わ(いわ)れた、　
-「必ずや(かならずや)　多く(おおく)　の　家(いえ)　は　荒廃(こうはい)　し、　大(おお)きな　麗しい(うるわしい)　家(いえ)　も　住む(すむ)　者(もの)　が　ない　よう　に　なる」。 
+万軍の主は私の耳に誓って言われた、「必ずや多くの家は荒廃し、大きな麗しい家も住む者がないようになる」。 
+万軍(ばんぐん)　の　主(しゅ)　は　私(わたし)　の　耳(みみ)　に　誓っ(ちかっ)て　言わ(いわ)れた、　「必ずや(かならずや)　多く(おおく)　の　家(いえ)　は　荒廃(こうはい)　し、　大(おお)きな　麗しい(うるわしい)　家(いえ)　も　住む(すむ)　者(もの)　が　ない　よう　に　なる」。 
 In mine ears said the Lord of hosts, "Truly many houses shall be desolate, even those great and fair shall be left without inhabitant". 
 2258-20
 この結婚は、このような荒れ果てた森の中では、こんな状況につきものの華麗な盛儀では祝えなかったが、かつてなく幸せな結婚日となった。 
@@ -7571,7 +7503,6 @@ Waseda tied Keio in yesterday's game.
 ロンドンにお帰りになったのは、全く御同慶の至りに堪えません。 
 ロンドン　に　お帰り(おかえり)　に　なった　の　は、　全く(まったく)　御同慶(ごどうけい)　の　至り(いたり)　に　堪え(こらえ)ません。 
 It's good to see you back in London, sir. 
-2261-227 
 
 2261-1
 パリスは兄弟の防具、兜、胸当て、盾、を着けた。 
@@ -7870,8 +7801,8 @@ I was very thirsty and I wanted to drink something cold.
 Larvae mine the leaves of birches, causing serious defoliation. 
 2267-13
 「多汗症」とは、過度の口渇〚例えば、糖尿病か腎臓機能障害による症例〛のことをいう。 
-「多汗症(たかんしょう)」　と　は、　過度(かど)　の　口渇(こうかつ)　〚例えば(たとえば)、　糖尿病(とうにょうびょう)　か　腎臓(じんぞう)　機能(きのう)　障害(しょうがい)　に　よる　症例(しょうれい)〛　の　こと　を　いう。 "
-Polydipsia" refers to an excessive thirst (as in cases of diabetes or kidney dysfunction). 
+「多汗症(たかんしょう)」　と　は、　過度(かど)　の　口渇(こうかつ)　〚例えば(たとえば)、　糖尿病(とうにょうびょう)　か　腎臓(じんぞう)　機能(きのう)　障害(しょうがい)　に　よる　症例(しょうれい)〛　の　こと　を　いう。 
+"Polydipsia" refers to an excessive thirst (as in cases of diabetes or kidney dysfunction). 
 2267-14
 そのうちに、彼の咽喉の渇きそれだけが、彼から離れ去り、一つの欲求のように独立の存在になった。 
 その　うち　に、　彼(かれ)　の　咽喉(いんこう)　の　渇き(かわき)　それ　だけ　が、　彼(かれ)　から　離れ去り(はなれさり)、　一つ(ひとつ)　の　欲求(よっきゅう)　の　よう　に　独立(どくりつ)　の　存在(そんざい)　に　なった。 
@@ -7999,7 +7930,6 @@ Great applause greeted Mary Jane as, blushing and rolling up her music nervously
 ゲイブリエルは歌が終わった時、他の皆と共に大きな拍手喝采を送り、また大きな喝采は見えない食卓からも聞こえてきた。 
 ゲイブリエル　は　歌(うた)　が　終わっ(おわっ)た　時(とき)、　他(ほか)　の　皆(みな)　と共に(とともに)　大(おお)きな　拍手(はくしゅ)　喝采(かっさい)　を　送り(おくり)、　また　大(おお)きな　喝采(かっさい)　は　見え(みえ)ない　食卓(しょくたく)　から　も　聞こえ(きこえ)て　きた。 
 Gabriel applauded loudly with all the others at the close of the song and loud applause was borne in from the invisible supper-table. 
-2271-228 
 
 2271-1
 教皇に謁見を賜る。 
@@ -8119,13 +8049,12 @@ Voluntary probation officers shall be appointed for commission by the Minister o
 すべて　の　人(ひと)　は、　この　宣言(せんげん)　に　掲げる(かかげる)　権利(けんり)　及び(および)　自由(じゆう)　が　完全(かんぜん)　に　実現(じつげん)　される　社会的(しゃかいてき)　及び(および)　国際的(こくさいてき)　秩序(ちつじょ)　に対する(にたいする)　権利(けんり)　を　有(ゆう)する。 
 Everyone is entitled to a social and international order in which the rights and freedoms set forth in this Declaration can be fully realized. 
 2272-26
-1に掲げる船舶が日本国の港に入る場合には、通常の状態に於いては、日本国の当局に適当な通告をしなければならない。 1に　掲げる(かかげる)　船舶(せんぱく)　が　日本国(にほんこく)　の　港(みなと)　に　入る(はいる)　場合(ばあい)　に　は、　通常(つうじょう)　の　状態(じょうたい)　に　於い(おい)て　は、　日本国(にほんこく)　の　当局(とうきょく)　に　適当(てきとう)　な　通告(つうこく)　を　しなければ　ならない。 
+1に掲げる船舶が日本国の港に入る場合には、通常の状態に於いては、日本国の当局に適当な通告をしなければならない。 
+1に　掲げる(かかげる)　船舶(せんぱく)　が　日本国(にほんこく)　の　港(みなと)　に　入る(はいる)　場合(ばあい)　に　は、　通常(つうじょう)　の　状態(じょうたい)　に　於い(おい)て　は、　日本国(にほんこく)　の　当局(とうきょく)　に　適当(てきとう)　な　通告(つうこく)　を　しなければ　ならない。 
 When the vessels mentioned in paragraph 1 enter Japanese ports, appropriate notification shall, under normal conditions, be made to the proper Japanese authorities. 
 2272-27
-ここまで極端な流通制約をかけたのはキヲツケテだけのようだが、でもあらゆるファンサブ集団は
-「非売品、レンタル禁止」の原則を掲げていた。 
-ここ　まで　極端(きょくたん)　な　流通(りゅうつう)　制約(せいやく)　を　かけた　の　は　キヲツケテ　だけ　の　よう　だ　が、　でも　あらゆる　ファンサブ　集団(しゅうだん)　は　
-「非売品(ひばいひん)、　レンタル　禁止(きんし)」　の　原則(げんそく)　を　掲げ(かかげ)て　いた。 
+ここまで極端な流通制約をかけたのはキヲツケテだけのようだが、でもあらゆるファンサブ集団は「非売品、レンタル禁止」の原則を掲げていた。 
+ここ　まで　極端(きょくたん)　な　流通(りゅうつう)　制約(せいやく)　を　かけた　の　は　キヲツケテ　だけ　の　よう　だ　が、　でも　あらゆる　ファンサブ　集団(しゅうだん)　は　「非売品(ひばいひん)、　レンタル　禁止(きんし)」　の　原則(げんそく)　を　掲げ(かかげ)て　いた。 
 Kiotsukete seems to be the only group that placed such extreme restrictions on distribution, but all known fansubbing groups upheld the basic principle of "Not for Sale or for Rent". 
 2272-28
 連合国としては、日本国が主権国として国際連合憲章第五十一条に掲げる個別的又は集団的自衛の固有の権利を有すること及び日本国が集団的安全保障取り極めを自発的に締結することができることを承認する。 
@@ -8317,7 +8246,6 @@ Repetitive, simple jobs are a waste of a good hacker, and will make your hacker 
 暫くの後茶店を出て来しなに、巻煙草を耳に挟んだ男は、〚その時はもう挟んでいなかったが〛トラックの側にいる良平に新聞紙に包んだ駄菓子をくれた。 
 暫く(しばらく)　の　後(のち)　茶店(ちゃみせ)　を　出(で)て　来しな(きしな)　に、　巻煙草(まきたばこ)　を　耳(みみ)　に　挟ん(はさん)だ　男(おとこ)　は、　〚その　時(とき)　は　もう　挟ん(はさん)で　いなかった　が〛　トラック　の　側(そば)　に　いる　良平(りょうへい)　に　新聞紙(しんぶんし)　に　包ん(つつん)だ　駄菓子(だがし)　を　くれた。 
 After a while the man with the cigarette behind his ear (though it was no longer there) came out, and gave some sweets wrapped in newspaper to Ryohei, who was still standing near the truck. 
-
 「〜しな」means “as ___”, “while ___ing”. 
 2275-34
 苦労してきたのは名誉を手に入れるためだけであったが、市民に無駄に時を送ったのではないことを知ってもらうため、百騎の騎兵と友人、家臣を引き連れて、故郷に錦を飾りたい。 
@@ -8411,10 +8339,8 @@ When they asserted themselves, many members balked, provoking a high volume of m
 海賊(かいぞく)たち　は　怒鳴っ(どなっ)たり　罵り(ののしり)ながら、　次(つぎ)　から　次(つぎ)　へ　と　穴(あな)　の　中(なか)　に　飛び込み(とびこみ)、　手(て)　で　掘り始め(ほりはじめ)た　の　だ。 
 The buccaneers, with oaths and cries, began to leap, one after another, into the pit and to dig with their fingers. 
 2278-11
-葛飾少佐は自分と意見を異にする人を
-「共産主義者」と言う罵り言葉を使用する。 
-葛飾(かつしか)　少佐(しょうさ)　は　自分(じぶん)　と　意見(いけん)　を　異に(ことに)　する　人(ひと)　を　
-「共産主義者(きょうさんしゅぎしゃ)」　と　言う(いう)　罵り(ののしり)　言葉(ことば)　を　使用(しよう)　する。 
+葛飾少佐は自分と意見を異にする人を「共産主義者」と言う罵り言葉を使用する。 
+葛飾(かつしか)　少佐(しょうさ)　は　自分(じぶん)　と　意見(いけん)　を　異に(ことに)　する　人(ひと)　を　「共産主義者(きょうさんしゅぎしゃ)」　と　言う(いう)　罵り(ののしり)　言葉(ことば)　を　使用(しよう)　する。 
 Major Katsushika uses the smear word 'communist' for everyone who disagrees with him. 
 2278-12
 どちらか選ばなければならないのなら、宗教への罵倒攻撃よりも、不信心への罵倒攻撃を阻止するほうがずっと必要なのです。 
@@ -8511,11 +8437,9 @@ Americans have a democratic scorn for bloated dukes and lord.
 こうして　彼ら(かれら)　は　イタリア　を　奴隷(どれい)　状態(じょうたい)　に　陥ら(おちいら)せ　軽蔑(けいべつ)　の　対象(たいしょう)　と　した　の　でした。 
 Thus they have brought Italy to slavery and contempt. 
 2279-18
-「慢性疲労症候群」は
-「主婦症候群」という軽蔑的な名前で知られていた。 
-「慢性(まんせい)　疲労(ひろう)　症候群(しょうこうぐん)」　は　
-「主婦(しゅふ)　症候群(しょうこうぐん)」　という　軽蔑的(けいべつてき)　な　名前(なまえ)　で　知ら(しら)れて　いた。 ‘
-Chronic fatigue syndrome' was known by the dismissive term 'housewife syndrome'. 
+「慢性疲労症候群」は「主婦症候群」という軽蔑的な名前で知られていた。 
+「慢性(まんせい)　疲労(ひろう)　症候群(しょうこうぐん)」　は　「主婦(しゅふ)　症候群(しょうこうぐん)」　という　軽蔑的(けいべつてき)　な　名前(なまえ)　で　知ら(しら)れて　いた。 
+‘Chronic fatigue syndrome' was known by the dismissive term 'housewife syndrome'. 
 2279-19
 髪を剃り落とされ、僅かな米だけあてがわれて、尚且つ軽蔑されるんです。 
 髪(かみ)　を　剃り落とさ(そりおとさ)れ、　僅か(わずか)　な　米(こめ)　だけ　あてがわれて、　尚且つ(なおかつ)　軽蔑(けいべつ)　される　ん　です。 
@@ -8565,7 +8489,6 @@ Kenshin fell right into Keiko's trap.
 彼は罠にはまったと知り、恐ろしそうに叫び声を上げた。 
 彼(かれ)　は　罠(わな)　に　はまった　と　知り(しり)、　恐ろし(おそろし)そう　に　叫び声(さけびごえ)　を　上げ(あげ)た。 
 Seeing himself trapped, he cried out direfully. 
-2281-229 
 
 2281-1
 篤子ちゃんの髪は烏の濡れ羽色だ。 
@@ -8576,10 +8499,8 @@ Atsuko's hair is glossy black.
 鳥居(とりい)　の　上(うえ)　に　いる　鳥(とり)　は　烏(からす)　です。 
 The bird on the torii is a crow. 
 2281-3
-真っ黒い岡山城は別名
-「烏城」と呼ばれる。 
-真っ黒い(まっくろい)　岡山城(おかやまじょう)　は　別名(べつめい)　
-「烏城(うじょう)」　と　呼ば(よば)れる。 
+真っ黒い岡山城は別名「烏城」と呼ばれる。 
+真っ黒い(まっくろい)　岡山城(おかやまじょう)　は　別名(べつめい)　「烏城(うじょう)」　と　呼ば(よば)れる。 
 Pitch-black Okayama Castle is also known by the alternative name "Raven Castle". 
 2281-4
 烏竜茶にはダイエット効果があると言われています。 
@@ -8904,10 +8825,9 @@ Two words are homonyms if they are pronounced or spelled the same way but have d
 私(わたし)　は　孫(まご)　の　卑劣(ひれつ)　に　綴ら(つづら)れた　教養(きょうよう)　の　ない　手紙(てがみ)　を　殆ど(ほとんど)　読み解く(よみとく)　こと　が　できない　の　だ。 
 I can hardly decipher my grandson's vilely spelled and illiterate letters. 
 2290-7
-同じ綴りでありながら語源、意味が異なる2語は同形異義語である〚例えば、
-fair〛。 
-同じ(おなじ)　綴り(つづり)　で　ありながら　語源(ごげん)、　意味(いみ)　が　異なる(ことなる)　2語(ご)　は　同形(どうけい)　異義語(いぎご)　で　ある　〚例えば(たとえば)、　
-fair〛。 Two words are homographs if they are spelled the same way but differ in meaning (e.g., “fair”). 
+同じ綴りでありながら語源、意味が異なる2語は同形異義語である〚例えば、fair〛。 
+同じ(おなじ)　綴り(つづり)　で　ありながら　語源(ごげん)、　意味(いみ)　が　異なる(ことなる)　2語(ご)　は　同形(どうけい)　異義語(いぎご)　で　ある　〚例えば(たとえば)、　fair〛。 
+Two words are homographs if they are spelled the same way but differ in meaning (e.g., “fair”). 
 2290-8
 右隅にはフォルダーに綴じてある分厚い原稿があり、結わえた紐の内側に、手紙が滑り込ませてある。 
 右隅(みぎすみ)　に　は　フォルダー　に　綴じ(とじ)て　ある　分厚い(ぶあつい)　原稿(げんこう)　が　あり、　結わえ(ゆわえ)た　紐(ひも)　の　内側(うちがわ)　に、　手紙(てがみ)　が　滑り込ま(すべりこま)せて　ある。 
@@ -8916,7 +8836,6 @@ In the right-hand corner lay a thick manuscript, bound in paper folders, and tie
 すると、二人の目が開け、自分たちの裸であることが分かったので、イチジクの葉を綴り合わせて、腰に巻いた。 
 すると、　二人(ふたり)　の　目(め)　が　開け(あけ)、　自分(じぶん)たち　の　裸(はだか)　で　ある　こと　が　分かっ(わかっ)た　ので、　イチジク　の　葉(は)　を　綴り(つづり)　合わせ(あわせ)て、　腰(こし)　に　巻い(まい)た。 
 And the eyes of them both were opened, and they knew that they were naked; and they sewed fig leaves together, and made themselves aprons. 
-2291-230 
 
 2291-1
 桑の木の薄い繊維状の樹皮。 
@@ -8936,15 +8855,13 @@ Please put the leaves you pick from the mulberry orchard into that brown basket.
 His mother had worked for him as a birthday present a waistcoat of purple tabinet, with little foxes' heads upon it, lined with brown satin and having round mulberry buttons. 
 
 2292-1
-蚕は別名
-「桑子」と呼ばれる。 
-蚕(かいこ)　は　別名(べつめい)　
-「桑子(くわこ)」　と　呼ば(よば)れる。 
+蚕は別名「桑子」と呼ばれる。 
+蚕(かいこ)　は　別名(べつめい)　「桑子(くわこ)」　と　呼ば(よば)れる。 
 Silkworms are also called "kuwako". 
 2292-2
 「養蚕業」とは、生糸を得るために蚕を育てることを言う。 
-「養蚕業(ようさんぎょう)」　と　は、　生糸(きいと)　を　得る(える)　ため　に　蚕(かいこ)　を　育てる(そだてる)　こと　を　言う(いう)。 "
-Sericulture" is the raising of silkworms to obtain raw silk. 
+「養蚕業(ようさんぎょう)」　と　は、　生糸(きいと)　を　得る(える)　ため　に　蚕(かいこ)　を　育てる(そだてる)　こと　を　言う(いう)。 
+"Sericulture" is the raising of silkworms to obtain raw silk. 
 
 2293-1
 蛋白質は2、3時間で消化する。 
@@ -9051,10 +8968,8 @@ Seen from the sky, the river looked like a huge snake.
 その　腫れ(はれ)　から　判断(はんだん)　する　と、　その　人(ひと)　は　きっと　蛇(へび)　に　噛ま(かま)れた　に　違い(ちがい)　ありません。 
 Judging by the swelling, the man must have been bitten by a snake. 
 2297-9
-蛇は女に言った、
-「貴方方は決して死ぬことはないでしょう」。 
-蛇(へび)　は　女(おんな)　に　言っ(いっ)た、　
-「貴方方(あなたがた)　は　決して(けっして)　死ぬ(しぬ)　こと　は　ない　でしょう」。 
+蛇は女に言った、「貴方方は決して死ぬことはないでしょう」。 
+蛇(へび)　は　女(おんな)　に　言っ(いっ)た、　「貴方方(あなたがた)　は　決して(けっして)　死ぬ(しぬ)　こと　は　ない　でしょう」。 
 And the serpent said unto the woman, "Surely ye shall not die". 
 2297-10
 パリスは、丘の小道で大きな蛇に出くわした人のように、向きを変えて逃げ出した。 
@@ -9065,28 +8980,20 @@ Paris turned and slunk away, like a man when he meets a great serpent on a narro
 翌日(よくじつ)　彼ら(かれら)　は　船出(ふなで)　した　が、　デーイダメイア　は、　巣(す)　を　蛇(へび)　に　見つけ(みつけ)られ　雛(ひな)　を　殺さ(ころさ)れた　燕(つばめ)　の　よう　に、　悲しみ(かなしみ)　の　内(うち)　に　取り残さ(とりのこさ)れた。 
 The next day they sailed, leaving Deidamia mournful, like a swallow whose nest a serpent has found, and has killed her young ones. 
 2297-12
-そこで主なる神は女に言われた、
-「貴方は、なんということをしたのです」。女は答えた、
-「蛇が私をだましたのです。それで私は食べました」。 
-そこで　主(しゅ)　なる　神(かみ)　は　女(おんな)　に　言わ(いわ)れた、　
-「貴方(あなた)　は、　なんと　いう　こと　を　した　の　です」。　女(おんな)　は　答え(こたえ)た、　
-「蛇(へび)　が　私(わたし)　を　だました　の　です。　それで　私(わたし)　は　食べ(たべ)ました」。 
+そこで主なる神は女に言われた、「貴方は、なんということをしたのです」。女は答えた、「蛇が私をだましたのです。それで私は食べました」。 
+そこで　主(しゅ)　なる　神(かみ)　は　女(おんな)　に　言わ(いわ)れた、　「貴方(あなた)　は、　なんと　いう　こと　を　した　の　です」。　女(おんな)　は　答え(こたえ)た、　「蛇(へび)　が　私(わたし)　を　だました　の　です。　それで　私(わたし)　は　食べ(たべ)ました」。 
 And the Lord God said unto the woman, "What is this that thou hast done"? And the woman said, "The serpent beguiled me, and I did eat". 
 2297-13
-主なる神は蛇に言われた、
-「お前は、この事をしたので、全ての家畜、野の全ての獣のうち、最も呪われる。お前は腹で這い歩き、一生、塵を食べるであろう」。 
-主(しゅ)　なる　神(かみ)　は　蛇(へび)　に　言わ(いわ)れた、　
-「お前(おまえ)　は、　この　事(こと)　を　した　ので、　全て(すべて)　の　家畜(かちく)、　野(の)　の　全て(すべて)　の　獣(けもの)　の　うち、　最も(もっとも)　呪わ(のろわ)れる。　お前(おまえ)　は　腹(はら)　で　這い歩き(はいあるき)、　一生(いっしょう)、　塵(ちり)　を　食べる(たべる)　で　あろう」。 
+主なる神は蛇に言われた、「お前は、この事をしたので、全ての家畜、野の全ての獣のうち、最も呪われる。お前は腹で這い歩き、一生、塵を食べるであろう」。 
+主(しゅ)　なる　神(かみ)　は　蛇(へび)　に　言わ(いわ)れた、　「お前(おまえ)　は、　この　事(こと)　を　した　ので、　全て(すべて)　の　家畜(かちく)、　野(の)　の　全て(すべて)　の　獣(けもの)　の　うち、　最も(もっとも)　呪わ(のろわ)れる。　お前(おまえ)　は　腹(はら)　で　這い歩き(はいあるき)、　一生(いっしょう)、　塵(ちり)　を　食べる(たべる)　で　あろう」。 
 And the Lord God said unto the serpent, "Because thou hast done this, thou art cursed above all cattle, and above every beast of the field; upon thy belly shalt thou go, and dust shalt thou eat all the days of thy life". 
 2297-14
 戦前や戦中期には多くのアニメが製作されたとはいえ、目先の変わった変なものという扱いが続いていたが、1958年にアニメスタジオの東映動画が『白蛇伝』を公開した。 
 戦前(せんぜん)　や　戦中期(せんちゅうき)　に　は　多く(おおく)　の　アニメ　が　製作(せいさく)　された　と　は　いえ、　目先(めさき)　の　変わっ(かわっ)た　変(へん)　な　もの　という　扱い(あつかい)　が　続い(つづい)て　いた　が、　1958年(ねん)　に　アニメ　スタジオ　の　東映動画(とうえいどうが)　が　『白蛇伝(しろへびでん)』　を　公開(こうかい)　した。 
 Various anime were produced throughout the prewar and wartime periods, but animation remained a curious oddity until 1958, when animation studio Toei Doga released Hakujaden (The Great White Snake). 
 2297-15
-さて主なる神が造られた野の生き物のうちで、蛇が最も巧妙であった。蛇は女に言った、
-「園にあるどの木からも取って食べるなと、本当に神が言われたではないでしょうか」。 
-さて　主(しゅ)　なる　神(かみ)　が　造ら(つくら)れた　野(の)　の　生き物(いきもの)　の　うち　で、　蛇(へび)　が　最も(もっとも)　巧妙(こうみょう)　で　あった。　蛇(へび)　は　女(おんな)　に　言っ(いっ)た、　
-「園(その)　に　ある　どの　木(き)　から　も　取っ(とっ)て　食べる(たべる)　な　と、　本当に(ほんとうに)　神(かみ)　が　言わ(いわ)れた　で　は　ない　でしょう　か」。 
+さて主なる神が造られた野の生き物のうちで、蛇が最も巧妙であった。蛇は女に言った、「園にあるどの木からも取って食べるなと、本当に神が言われたではないでしょうか」。 
+さて　主(しゅ)　なる　神(かみ)　が　造ら(つくら)れた　野(の)　の　生き物(いきもの)　の　うち　で、　蛇(へび)　が　最も(もっとも)　巧妙(こうみょう)　で　あった。　蛇(へび)　は　女(おんな)　に　言っ(いっ)た、　「園(その)　に　ある　どの　木(き)　から　も　取っ(とっ)て　食べる(たべる)　な　と、　本当に(ほんとうに)　神(かみ)　が　言わ(いわ)れた　で　は　ない　でしょう　か」。 
 Now the serpent was more subtle than any beast of the field which the Lord God had made. And he said unto the woman, "Yea, hath God said, Ye shall not eat of every tree of the garden"? 
 
 2298-1
@@ -9148,8 +9055,8 @@ The cat snatched at the butterflies.
 These butterflies are rare in our country. 
 2299-9
 『蝶々夫人』の舞台は長崎である。 
-『蝶々夫人(ちょうちょうふじん)』　の　舞台(ぶたい)　は　長崎(ながさき)　で　ある。 “
-Madame Butterfly” is set in Nagasaki. 
+『蝶々夫人(ちょうちょうふじん)』　の　舞台(ぶたい)　は　長崎(ながさき)　で　ある。 
+“Madame Butterfly” is set in Nagasaki. 
 2299-10
 蝶番から窓を捻り外す。 
 蝶番(ちょうつがい)　から　窓(まど)　を　捻り外す(ねじりはずす)。 
