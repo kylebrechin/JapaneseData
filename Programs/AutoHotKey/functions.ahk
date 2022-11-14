@@ -7,9 +7,14 @@
 
 
 
+Alt & WheelDown::
+	Send {PgDn}
+return
 
 
-
+Alt & WheelUp::
+	Send {PgUp}
+return
 
 
 
