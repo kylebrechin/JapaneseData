@@ -12,7 +12,14 @@ Send b
 return
 
 
+!f::
 
+InputBox, kanji, "Kanji Input", "[ kanji : xxx]", , 200, 125
+InputBox, furigana, "Furigana Input", "[ xxx : furigana]", , 200, 125
+text := "[" . kanji . ":" . furigana . "]"
+clipboard := text
+Send ^v
+return
 
 
 ; ******************
@@ -21,31 +28,31 @@ return
 
 
 
-; ONE LINE
-:*:--1::
-Send <sup>1</sup> `
-Return
-
-; TWO LINES
-:*:--2::
-Send <sup>1</sup> <br>
-Send {Control down}{Enter}
-Send {Control up}
-Send <sup>2</sup> `
-Send {Up}
-Return
-
-; THREE LINES
-:*:--3::
-Send <sup>1</sup> <br>
-Send {Control down}{Enter}
-Send {Control up}
-Send <sup>2</sup> <br>
-Send {Control down}{Enter}
-Send {Control up}
-Send <sup>3</sup> `
-Send {Up 2}
-Return
+;; ONE LINE
+;:*:--1::
+;Send <sup>1</sup> `
+;Return
+;
+;; TWO LINES
+;:*:--2::
+;Send <sup>1</sup> <br>
+;Send {Control down}{Enter}
+;Send {Control up}
+;Send <sup>2</sup> `
+;Send {Up}
+;Return
+;
+;; THREE LINES
+;:*:--3::
+;Send <sup>1</sup> <br>
+;Send {Control down}{Enter}
+;Send {Control up}
+;Send <sup>2</sup> <br>
+;Send {Control down}{Enter}
+;Send {Control up}
+;Send <sup>3</sup> `
+;Send {Up 2}
+;Return
 
 
 
