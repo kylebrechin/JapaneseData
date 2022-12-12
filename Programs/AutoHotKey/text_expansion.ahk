@@ -4,11 +4,18 @@ Escape::ExitApp
 
 ;ROW BELOW
 F4::
-Send {Alt} 
-Send s
-Send r
-Send b
-
+Click, Right
+Sleep, 100
+Send {Down}
+Sleep, 50
+Send {Down}
+Sleep, 50
+Send {Enter}
+Sleep, 300
+Send {Enter}
+Sleep, 250
+Send ^w
+Sleep, 50
 return
 
 
