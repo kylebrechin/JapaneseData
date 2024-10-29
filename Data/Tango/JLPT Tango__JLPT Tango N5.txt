@@ -1,0 +1,1920 @@
+[anki:play:q:0]	(Alternate: 私); (Pitch: 0); (POS: 代名詞); I I am Ann.
+わたし わたしはアンです。	(Alternate: 私); (Pitch: 0); (POS: 代名詞); I I am Ann.
+[anki:play:q:0]	(POS: 助動詞); Is My name is Smith.
+です わたしはスミスです。	(POS: 助動詞); Is My name is Smith.
+[anki:play:q:0]	(POS: 接尾辞); Mr. or Mrs. A. Are you Tom-san? -- B. Yes.
+さん A「トムさんですか。」 -- B　「はい。」	(POS: 接尾辞); Mr. or Mrs. A. Are you Tom-san? -- B. Yes.
+[anki:play:q:0]	(POS: 接尾辞); Chan (Endearment Honorific) She is Lara-chan.
+ちゃん （かのじょは）ララちゃんです。	(POS: 接尾辞); Chan (Endearment Honorific) She is Lara-chan.
+[anki:play:q:0]	(Alternate: 貴方); (Pitch: 2); (POS: 代名詞); You Are you Tom-san?
+あなた あなたはトムさんですか。	(Alternate: 貴方); (Pitch: 2); (POS: 代名詞); You Are you Tom-san?
+[anki:play:q:0]	(Alternate: 彼); (Pitch: 1); (POS: 代名詞); He, Male Lover He is Tom-san.
+かれ かれはトムさんです。	(Alternate: 彼); (Pitch: 1); (POS: 代名詞); He, Male Lover He is Tom-san.
+[anki:play:q:0]	(Alternate: 彼女); (Pitch: 1); (POS: 代名詞); She, Female Lover She is Hien-san.
+かのじょ かのじょはヒエンさんです。	(Alternate: 彼女); (Pitch: 1); (POS: 代名詞); She, Female Lover She is Hien-san.
+[anki:play:q:0]	(Alternate: 名前); (Pitch: 0); (POS: 名詞); Name A. What is your name? -- B. My name is Tom.
+おなまえ A「おなまえは？」 -- B「トムです。」	(Alternate: 名前); (Pitch: 0); (POS: 名詞); Name A. What is your name? -- B. My name is Tom.
+[anki:play:q:0]	(Pitch: 1); (POS: 感動詞); Yes A. Are you Yamada-san? -- B. Yes, I am.
+はい A「やまださんですか。」 -- B「はい。」	(Pitch: 1); (POS: 感動詞); Yes A. Are you Yamada-san? -- B. Yes, I am.
+[anki:play:q:0]	(Pitch: 1); (POS: 感動詞); Yes A. Are you Yamada-san? -- B. Yes, I am.
+ええ A「やまださんですか。」 -- B「ええ、そうです。」	(Pitch: 1); (POS: 感動詞); Yes A. Are you Yamada-san? -- B. Yes, I am.
+[anki:play:q:0]	(Pitch: 3); (POS: 感動詞); No A. Are you Yamada-san? -- B. No, I'm not.
+いいえ A「やまださんですか。」 -- C「いいえ。」	(Pitch: 3); (POS: 感動詞); No A. Are you Yamada-san? -- B. No, I'm not.
+[anki:play:q:0]	Yes, that's right A. Are you Yamada-san? -- B. Yes, I am.
+そうです A「やまださんですか。」 -- B「はい、そうです。」	Yes, that's right A. Are you Yamada-san? -- B. Yes, I am.
+[anki:play:q:0]	No, that's not correct A. Are you Yamada-san? -- B. No I'm not. I'm Tanaka.
+ちがいます A「やまださんですか。」 -- B「いいえ、ちがいます。たなかです。」	No, that's not correct A. Are you Yamada-san? -- B. No I'm not. I'm Tanaka.
+おはよう	(Alternate: 御早う); (Pitch: 0); (POS: 感動詞); Good Morning (Informal)
+おはようございます	Good Morning (Formal)
+こんにちは	(Alternate: 今日は); (Pitch: 5); (POS: 感動詞); Hello / Good Afternoon
+こんばんは	(Alternate: 今晩は); (Pitch: 5); (POS: 感動詞); Good Evening
+さようなら	(Pitch: 4,5); (POS: 感動詞); Goodbye
+じゃ、また	See you again
+おやすみなさい	Goodnight
+ありがとう	(Alternate: 有り難う); (Pitch: 2); (POS: 感動詞); Thank You (Informal)
+どういたしまして	You're Welcome
+ありがとうございます	Thank You (Formal)
+どうぞ	(Pitch: 1); (POS: 副詞); Go Ahead
+どうも	Thank You
+はじめまして	Hello, nice to meet you.
+どうぞよろしく	Glad to meet you.
+こちらこそ	Me too, same here
+[anki:play:q:0]	(Alternate: 家族); (Pitch: 1); (POS: 名詞); Family There are seven people in my family.
+かぞく かぞくは7にんです。	(Alternate: 家族); (Pitch: 1); (POS: 名詞); Family There are seven people in my family.
+父	(Pitch: 2,1); (POS: 名詞); Father
+りょうしん	Parents
+母	(Pitch: 1); (POS: 名詞); Mother
+あね	Older Sister
+あに	Older Brother
+おとうと	(Alternate: 御父); (Pitch: 2); (POS: 名詞); Younger Brother
+いもうと	(Alternate: 妹); (Pitch: 4); (POS: 名詞); Younger Sister
+きょうだい	(Alternate: 兄弟); (Pitch: 1); (POS: 名詞); Siblings
+いぬ	(Alternate: 犬); (Pitch: 2); (POS: 名詞); Dog
+ねこ	(Alternate: 猫); (Pitch: 1); (POS: 名詞); Cat
+[anki:play:q:0]	(Alternate: 居る); (Pitch: 0); (POS: 動詞); have, be ① Exists (for living, animate objects) ① I have a dog.
+いる ① いぬがいます。	(Alternate: 居る); (Pitch: 0); (POS: 動詞); have, be ① Exists (for living, animate objects) ① I have a dog.
+[anki:play:q:0]	have, be ② Someone related to that person exists - ② I have an older brother.
+いる ② あにがいます。	have, be ② Someone related to that person exists - ② I have an older brother.
+[anki:play:q:0]	(Alternate: 内); (Pitch: 0); (POS: 名詞); One's Household (when used as an pronoun) / House I own a cat.
+うち うちにねこがいます。	(Alternate: 内); (Pitch: 0); (POS: 名詞); One's Household (when used as an pronoun) / House I own a cat.
+おじいさん	Grandfather
+おばあさん	Grandmother
+お父さん	(Alternate: 御父); (Pitch: 2); (POS: 名詞); Father
+ごりょうしん	Parents (Formal)
+お母さん	(Alternate: 御母); (Pitch: 2); (POS: 名詞); Mother
+おねえさん	(Alternate: 御姉); (Pitch: 2); (POS: 名詞); Older Sister
+おにいさん	(Alternate: 御兄); (Pitch: 2); (POS: 名詞); Older Brother
+おとうとさん	(Alternate: 弟); (Pitch: 4); (POS: 名詞); Younger Brother
+いもうとさん	Younger Sister
+一人	(Pitch: 2); (POS: 名詞); One Person
+二人	(Pitch: 3,0); (POS: 名詞); Two People
+三人	Three People
+四人	Four People
+五人	Five People
+六人	Six People
+七人	Seven People
+八人	Eight People
+九人	Nine People
+十人	Ten People
+[anki:play:q:0]	How Many People? A. How many people are there? -- B. We have 3 people.
+なんにん A「なんにんですか。」 -- B「3にんです。」	How Many People? A. How many people are there? -- B. We have 3 people.
+おとな	(Alternate: 大人); (Pitch: 0); (POS: 名詞); Adult
+こども	(Alternate: 子供); (Pitch: 0); (POS: 名詞); Child
+おとこのひと	(Alternate: 男); (Pitch: 3); (POS: 名詞); Man
+おんなのひと	(Alternate: 女); (Pitch: 3); (POS: 名詞); Woman
+おとこのこ	(Alternate: 男の子); (Pitch: 3); (POS: 名詞); Boy
+おんなのこ	(Alternate: 女の子); (Pitch: 3); (POS: 名詞); Girl
+[anki:play:q:0]	(Alternate: 国); (Pitch: 0); (POS: 名詞); Country I am from Malaysia.
+くに （わたしの）くにはマレーシアです。	(Alternate: 国); (Pitch: 0); (POS: 名詞); Country I am from Malaysia.
+[anki:play:q:0]	(Alternate: 有る); (Pitch: 1); (POS: 動詞); Have / Exists There is a Disneyland in China.
+ある ちゅうごくにディズニーランドがあります。	(Alternate: 有る); (Pitch: 1); (POS: 動詞); Have / Exists There is a Disneyland in China.
+[anki:play:q:0]	(Alternate: 何方); (Pitch: 1); (POS: 代名詞); Which A. Which country are you from. -- B. I'm from Kenya.
+どちら A「（お）くにはどちらですか。」 -- B「ケニアです。」	(Alternate: 何方); (Pitch: 1); (POS: 代名詞); Which A. Which country are you from. -- B. I'm from Kenya.
+[anki:play:q:0]	Came from I came from the United States.
+～からきました （わたしは）アメリカからきました。	Came from I came from the United States.
+[anki:play:q:0]	(Alternate: 腎); (Pitch: 1); (POS: 名詞); Person from (Nationality) I am British.
+～じん わたしはイギリスじんです。	(Alternate: 腎); (Pitch: 1); (POS: 名詞); Person from (Nationality) I am British.
+[anki:play:q:0]	(Alternate: 地図); (Pitch: 1); (POS: 名詞); Map Do you have a map of Japan?
+ちず にほんのちずはありますか。	(Alternate: 地図); (Pitch: 1); (POS: 名詞); Map Do you have a map of Japan?
+[anki:play:q:0]	(Alternate: 世界); (Pitch: 1,2); (POS: 名詞); World Do you have a map of the world?
+せかい せかいのちずはありますか。	(Alternate: 世界); (Pitch: 1,2); (POS: 名詞); World Do you have a map of the world?
+にほん	(Alternate: 日本); (Pitch: 2); (POS: 名詞); Japan
+インド	(Alternate: インド-India); (Pitch: 1); (POS: 名詞); India
+インドネシア	(Alternate: インドネシア-Indonesia); (Pitch: 4); (POS: 名詞); Indonesia
+かんこく	(Alternate: 韓国); (Pitch: 1); (POS: 名詞); South Korea
+タイ	(Alternate: タイ-Thailand); (Pitch: 1); (POS: 名詞); Thailand
+たいわん	Taiwan
+ちゅうごく	(Alternate: 中国); (Pitch: 1); (POS: 名詞); China
+ネパール	(Alternate: ネパール-Nepal); (Pitch: 2); (POS: 名詞); Nepal
+フィリピン	(Alternate: フィリピン-Philippines); (Pitch: 1); (POS: 名詞); Philippines
+ベトナム	(Alternate: ベトナム-Viet Nam); (Pitch: 0); (POS: 名詞); Vietnam
+マレーシア	(Alternate: マレーシア-Malaysia); (Pitch: 2); (POS: 名詞); Malaysia
+ミャンマー	(Alternate: ミャンマー-Myanmar); (Pitch: 1); (POS: 名詞); Myanmar, Burma
+トルコ	(Alternate: トルコ-Turco); (Pitch: 1); (POS: 名詞); Turkey
+オーストラリア	(Alternate: オーストラリア-Australia); (Pitch: 5); (POS: 名詞); Australia
+ニュージーランド	(Alternate: ニュージーランド-New Zealand); (Pitch: 5); (POS: 名詞); New Zealand
+アメリカ	(Alternate: アメリカ-America); (Pitch: 0); (POS: 名詞); United States
+カナダ	(Alternate: カナダ-Canada); (Pitch: 1); (POS: 名詞); Canada
+メキシコ	(Alternate: メキシコ-Mexico); (Pitch: 0,2); (POS: 名詞); Mexico
+ブラジル	(Alternate: ブラジル-Brazil); (Pitch: 0); (POS: 名詞); Brazil
+ロシア	(Alternate: ロシア-Rossiya); (Pitch: 1); (POS: 名詞); Russia
+イギリス	(Alternate: イギリス-Inglez); (Pitch: 0); (POS: 名詞); Britain
+フランス	(Alternate: フランス-France); (Pitch: 0); (POS: 名詞); France
+ドイツ	(Alternate: ドイツ-Duits); (Pitch: 1); (POS: 名詞); Germany
+スイス	(Alternate: スイス-Suisse); (Pitch: 1); (POS: 名詞); Switzerland
+イタリア	(Alternate: イタリア-Italia); (Pitch: 0); (POS: 名詞); Italy
+スペイン	(Alternate: スペイン-Spain); (Pitch: 2); (POS: 名詞); Spain
+エジプト	(Alternate: エジプト-Egypt); (Pitch: 0); (POS: 名詞); Egypt
+ケニア	(Alternate: ケニア-Kenya); (Pitch: 1); (POS: 名詞); Kenya
+[anki:play:q:0]	(Pitch: 3); (POS: 名詞); Teacher Yamada-san is a Japanese teacher.
+先生 山田さんはにほんご学校の 先生です。	(Pitch: 3); (POS: 名詞); Teacher Yamada-san is a Japanese teacher.
+[anki:play:q:0]	(Pitch: 0); (POS: 名詞); Student My younger brother is a student.
+学生 おとうとは 学生です。	(Pitch: 0); (POS: 名詞); Student My younger brother is a student.
+[anki:play:q:0]	Foreign Student Hien-san is a foreign student from Vietnam.
+りゅうがくせい ヒエンさんはベトナムのりゅうがくせいです。	Foreign Student Hien-san is a foreign student from Vietnam.
+[anki:play:q:0]	(Pitch: 0); (POS: 名詞); School The school is in Japan.
+学校 学校は日本にあります。	(Pitch: 0); (POS: 名詞); School The school is in Japan.
+[anki:play:q:0]	(Alternate: 勉強); (Pitch: 0); (POS: 名詞); Study I study Japanese.
+べんきょう（する） にほんごをべんきょうします。	(Alternate: 勉強); (Pitch: 0); (POS: 名詞); Study I study Japanese.
+[anki:play:q:0]	Japanese School Hien-san is a student at the Japanese language school.
+にほんご学校 ヒエンさんはにほんご学校の学生です。	Japanese School Hien-san is a student at the Japanese language school.
+[anki:play:q:0]	Elementary School Ali-san is an elementary school teacher.
+小学校 アリさんは 小学校の先生です。	Elementary School Ali-san is an elementary school teacher.
+[anki:play:q:0]	Junior High School Tom is a junior high school teacher.
+中学校 トムさんは 中学校の先生です。	Junior High School Tom is a junior high school teacher.
+[anki:play:q:0]	(Pitch: 0); (POS: 名詞); High School I study at an American high school.
+高校 アメリカの 高校でべんきょうします。	(Pitch: 0); (POS: 名詞); High School I study at an American high school.
+[anki:play:q:0]	(Pitch: 0); (POS: 名詞); College / University Smith-san is a teacher at a university.
+大学 スミスさんは 大学の先生です。	(Pitch: 0); (POS: 名詞); College / University Smith-san is a teacher at a university.
+[anki:play:q:0]	(Alternate: 教室); (Pitch: 0); (POS: 名詞); Classroom The teacher is in the classroom.
+きょうしつ 先生はきょうしつにいます。	(Alternate: 教室); (Pitch: 0); (POS: 名詞); Classroom The teacher is in the classroom.
+[anki:play:q:0]	(Alternate: クラス-class); (Pitch: 1); (POS: 名詞); Class There are foreign students in the class.
+クラス クラスにりゅうがくせいがいます。	(Alternate: クラス-class); (Pitch: 1); (POS: 名詞); Class There are foreign students in the class.
+[anki:play:q:0]	(Pitch: 0); (POS: 動詞); to go I will go to school.
+行く 学校へ 行きます。	(Pitch: 0); (POS: 動詞); to go I will go to school.
+[anki:play:q:0]	(Pitch: 1); (POS: 動詞); to come The teacher is coming inside.
+来る 先生が内へ 来ます。	(Pitch: 1); (POS: 動詞); to come The teacher is coming inside.
+[anki:play:q:0]	(Alternate: 帰る); (Pitch: 1); (POS: 動詞); Leave, Go Home I will go home.
+帰る うちへ 帰ります。	(Alternate: 帰る); (Pitch: 1); (POS: 動詞); Leave, Go Home I will go home.
+ゼロ	(Alternate: ゼロ-zero); (Pitch: 1); (POS: 名詞); Zero
+いち	(Alternate: 一); (Pitch: 2); (POS: 名詞); One
+に	Two
+さん	Three
+し / よん	Four
+ご	(Alternate: ゴ); (Pitch: 1); (POS: 記号); Five
+ろく	(Alternate: 六); (Pitch: 2); (POS: 名詞); Six
+しち / なな	Seven
+はち	(Alternate: 八); (Pitch: 2); (POS: 名詞); Eight
+く / きゅう	Nine
+じゅう	(Alternate: 十); (Pitch: 1); (POS: 名詞); Ten
+じゅういち	(Pitch: 4); (POS: 名詞); Eleven
+じゅうに	Twelve
+１月	January
+２月	February
+３月	March
+４月	April
+５月	May
+６月	June
+７月	July
+８月	August
+９月	September
+１０月	October
+１１月	November
+１２月	December
+[anki:play:q:0]	What Month A. What month is it? -- B. It's May.
+何月 A「 何月ですか。」 -- B「５月です。」	What Month A. What month is it? -- B. It's May.
+よう日	(Alternate: 曜日); (Pitch: 0); (POS: 名詞); Day of the Week
+日よう日	(Alternate: 日曜); (Pitch: 0,3); (POS: 名詞); Sunday
+月よう日	(Alternate: 月曜); (Pitch: 3,0); (POS: 名詞); Monday
+火よう日	(Alternate: 火曜); (Pitch: 0,2); (POS: 名詞); Tuesday
+水よう日	(Alternate: 水曜); (Pitch: 3,0); (POS: 名詞); Wednesday
+木よう日	(Alternate: 木曜); (Pitch: 3,0); (POS: 名詞); Thursday
+金よう日	(Alternate: 金曜); (Pitch: 0,3); (POS: 名詞); Friday
+土よう日	(Alternate: 土曜); (Pitch: 0,2); (POS: 名詞); Saturday
+[anki:play:q:0]	What Day? A. What day is it tomorrow? -- B. It's Tuesday.
+何よう日 A「あしたは 何よう日ですか。」 -- B「火よう日です。」	What Day? A. What day is it tomorrow? -- B. It's Tuesday.
+[anki:play:q:0]	(Alternate: 今日); (Pitch: 1); (POS: 名詞); Today Today is Monday.
+きょう きょうは月よう日です。	(Alternate: 今日); (Pitch: 1); (POS: 名詞); Today Today is Monday.
+[anki:play:q:0]	(Alternate: 明日); (Pitch: 3,0); (POS: 名詞); Tomorrow Tomorrow, I will go to school.
+あした あした、学校へ行きます。	(Alternate: 明日); (Pitch: 3,0); (POS: 名詞); Tomorrow Tomorrow, I will go to school.
+[anki:play:q:0]	(Alternate: 昨日); (Pitch: 2,0); (POS: 名詞); Yesterday Yesterday, I went to the university.
+きのう きのう、大学へ行きました。	(Alternate: 昨日); (Pitch: 2,0); (POS: 名詞); Yesterday Yesterday, I went to the university.
+[anki:play:q:0]	(Alternate: 毎日); (Pitch: 1,0); (POS: 名詞); Every Day I study Japanese every day.
+まいにち まいにち、にほんごをべんきょうします。	(Alternate: 毎日); (Pitch: 1,0); (POS: 名詞); Every Day I study Japanese every day.
+[anki:play:q:0]	(Alternate: 週間); (Pitch: 0); (POS: 名詞); week(s) I went to America for two weeks.
+～しゅうかん アメリカへ２しゅうかん行きました。	(Alternate: 週間); (Pitch: 0); (POS: 名詞); week(s) I went to America for two weeks.
+[anki:play:q:0]	(Alternate: 箇月); (Pitch: 1); (POS: 名詞); month(s) I studied Japanese for a month.
+～か月 にほんごを１か月べんきょうしました。	(Alternate: 箇月); (Pitch: 1); (POS: 名詞); month(s) I studied Japanese for a month.
+[anki:play:q:0]	(Pitch: 1); (POS: 名詞); year(s) I was in South Korea for five years.
+～年 かんこくに５ 年いました。	(Pitch: 1); (POS: 名詞); year(s) I was in South Korea for five years.
+[anki:play:q:0]	(Alternate: 回); (Pitch: 0); (POS: 名詞); Times I go to the convenience store three times a week.
+～かい １しゅうかんに３かいコンビニへ行きます。	(Alternate: 回); (Pitch: 0); (POS: 名詞); Times I go to the convenience store three times a week.
+[anki:play:q:0]	Number of Times A. How many times do you go? -- B. I go twice a week.
+何かい A「１しゅうかんに 何かい行きますか。」 -- B「２かい行きます。」	Number of Times A. How many times do you go? -- B. I go twice a week.
+[anki:play:q:0]	(Alternate: アルバイト-Arbeit); (Pitch: 3); (POS: 名詞); Part-time Job I will go to my part-time job on Saturdays.
+アルバイト(する) 土よう日にアルバイトをします。	(Alternate: アルバイト-Arbeit); (Pitch: 3); (POS: 名詞); Part-time Job I will go to my part-time job on Saturdays.
+[anki:play:q:0]	Do I don't go to my part-time job on Sundays.
+する 日よう日はアルバイトをしません。	Do I don't go to my part-time job on Sundays.
+[anki:play:q:0]	(Alternate: 言葉); (Pitch: 3); (POS: 名詞); Word / Language I don't understand the Japanese language.
+ことば 日本のことばがわかりません。	(Alternate: 言葉); (Pitch: 3); (POS: 名詞); Word / Language I don't understand the Japanese language.
+[anki:play:q:0]	(Pitch: 1); (POS: 名詞); Character (From Alphabet) I studied Japanese letters in high school.
+字 高校で日本の 字をべんきょうしました。	(Pitch: 1); (POS: 名詞); Character (From Alphabet) I studied Japanese letters in high school.
+[anki:play:q:0]	Japanese I studied Japanese in Egypt.
+にほんご エジプトでにほんごをべんきょうしました。	Japanese I studied Japanese in Egypt.
+[anki:play:q:0]	Language Please speak in English.
+～ご えいごで話してください。	Language Please speak in English.
+[anki:play:q:0]	(Pitch: 2); (POS: 動詞); Talk, Speak I speak Japanese with the teacher.
+話す 先生とにほんごで 話します。	(Pitch: 2); (POS: 動詞); Talk, Speak I speak Japanese with the teacher.
+[anki:play:q:0]	(Pitch: 3); (POS: 副詞); Slowly The teacher speaks slowly.
+ゆっくり 先生はゆっくり話します。	(Pitch: 3); (POS: 副詞); Slowly The teacher speaks slowly.
+[anki:play:q:0]	(Pitch: 0); (POS: 動詞); Say Please repeat what you said slowly.
+言う ゆっくり 言ってください。	(Pitch: 0); (POS: 動詞); Say Please repeat what you said slowly.
+[anki:play:q:0]	Once More I will say it one more time.
+もういちど もういちど言います。	Once More I will say it one more time.
+[anki:play:q:0]	Please Please repeat it one more time.
+おねがいします もういちどおねがいします。	Please Please repeat it one more time.
+[anki:play:q:0]	(Alternate: 分かる); (Pitch: 2); (POS: 動詞); Understand, Know I know hiragana.
+わかります ひらがながわかります。	(Alternate: 分かる); (Pitch: 2); (POS: 動詞); Understand, Know I know hiragana.
+[anki:play:q:0]	(Pitch: 2); (POS: 副詞); A little I know a few kanji.
+少し かんじが 少しわかります。	(Pitch: 2); (POS: 副詞); A little I know a few kanji.
+[anki:play:q:0]	a little Please speak a little slower
+もう少し もう少しゆっくり話してください。	a little Please speak a little slower
+[anki:play:q:0]	(Alternate: 良く); (Pitch: 1); (POS: 副詞); Well I understand well.
+よく よくわかりました。	(Alternate: 良く); (Pitch: 1); (POS: 副詞); Well I understand well.
+[anki:play:q:0]	(Alternate: 大体); (Pitch: 0); (POS: 名詞); Roughly, About, Main Point, Gist I roughly understand.
+だいたい だいたいわかりました。	(Alternate: 大体); (Pitch: 0); (POS: 名詞); Roughly, About, Main Point, Gist I roughly understand.
+[anki:play:q:0]	(Alternate: 全然); (Pitch: 0); (POS: 副詞); Not at all A. Did you understand? -- B. No, I didn't understand it at all.
+ぜんぜん A「わかりましたか。」 -- B「いいえ。ぜんぜんわかりませんでした。」	(Alternate: 全然); (Pitch: 0); (POS: 副詞); Not at all A. Did you understand? -- B. No, I didn't understand it at all.
+ひらがな	(Alternate: 平仮名); (Pitch: 3); (POS: 名詞); Hiragana
+カタカナ	(Alternate: 片仮名); (Pitch: 3,2); (POS: 名詞); Katakana
+かんじ	(Alternate: 漢字); (Pitch: 0); (POS: 名詞); Kanji
+ローマ字	Romaji
+[anki:play:q:0]	(Pitch: 1); (POS: 動詞); Read I read a Japanese language book.
+読む にほんごの本を 読みます。	(Pitch: 1); (POS: 動詞); Read I read a Japanese language book.
+[anki:play:q:0]	(Pitch: 1); (POS: 名詞); Book I read a Chinese language book.
+本 ちゅうごくごの 本を読みました。	(Pitch: 1); (POS: 名詞); Book I read a Chinese language book.
+[anki:play:q:0]	(Pitch: 1); (POS: 動詞); Write I write kanji.
+書く かんじを 書きます。	(Pitch: 1); (POS: 動詞); Write I write kanji.
+[anki:play:q:0]	(Pitch: 0); (POS: 動詞); Hear I listened to the CD at home.
+聞く うちでシーディーを 聞きます。	(Pitch: 0); (POS: 動詞); Hear I listened to the CD at home.
+[anki:play:q:0]	CD I listened to the CD at school.
+シーディー 学校でシーディーを聞きました。	CD I listened to the CD at school.
+[anki:play:q:0]	(Alternate: 調べる); (Pitch: 3); (POS: 動詞); Look up I look up a word in the dictonary.
+しらべる じしょでことばをしらべます。	(Alternate: 調べる); (Pitch: 3); (POS: 動詞); Look up I look up a word in the dictonary.
+[anki:play:q:0]	(Pitch: 0); (POS: 動詞); Buy Yesterday, I bought a CD.
+買う きのう、シーディーを 買いました。	(Pitch: 0); (POS: 動詞); Buy Yesterday, I bought a CD.
+[anki:play:q:0]	Dictionary I bought a Japanese language dictionary.
+じしょ にほんごのじしょを買いました。	Dictionary I bought a Japanese language dictionary.
+[anki:play:q:0]	Electronic Dictionary I will check the meaning using the electronic dictionary.
+でんしじしょ でんしじしょでいみをしらべます。	Electronic Dictionary I will check the meaning using the electronic dictionary.
+[anki:play:q:0]	(Alternate: 意味); (Pitch: 1); (POS: 名詞); Meaning I don't understand the meaning in Japanese.
+いみ にほんごのいみがわかりません。	(Alternate: 意味); (Pitch: 1); (POS: 名詞); Meaning I don't understand the meaning in Japanese.
+[anki:play:q:0]	(Alternate: 頑張る); (Pitch: 3); (POS: 動詞); Do one's best Do your best.
+がんばる がんばってください。	(Alternate: 頑張る); (Pitch: 3); (POS: 動詞); Do one's best Do your best.
+[anki:play:q:0]	Homework Today, I have homework to do.
+しゅくだい きょうはしゅくだいがあります。	Homework Today, I have homework to do.
+[anki:play:q:0]	(Alternate: 日記); (Pitch: 1); (POS: 名詞); Diary I write in my diary every day.
+にっき まいにち、にっきを書きます。	(Alternate: 日記); (Pitch: 1); (POS: 名詞); Diary I write in my diary every day.
+[anki:play:q:0]	(Alternate: レポート-report); (Pitch: 2); (POS: 名詞); Report I wrote a report at school.
+レポート 学校でレポートを書きました。	(Alternate: レポート-report); (Pitch: 2); (POS: 名詞); Report I wrote a report at school.
+[anki:play:q:0]	Library I read a book at the library.
+としょかん としょかんで本を読みます。	Library I read a book at the library.
+[anki:play:q:0]	Bookstore I bought a dictionary at a the bookstore.
+ほんや ほんやでじしょを買いました。	Bookstore I bought a dictionary at a the bookstore.
+[anki:play:q:0]	(Alternate: 練習); (Pitch: 0); (POS: 名詞); Practice I practice kanji.
+れんしゅう(する) かんじをれんしゅうします。	(Alternate: 練習); (Pitch: 0); (POS: 名詞); Practice I practice kanji.
+[anki:play:q:0]	(Alternate: スピーチ-speech); (Pitch: 2); (POS: 名詞); Speech I gave a speech at school on Saturday.
+スピーチ 土よう日に学校でスピーチをしました。	(Alternate: スピーチ-speech); (Pitch: 2); (POS: 名詞); Speech I gave a speech at school on Saturday.
+[anki:play:q:0]	(Alternate: 覚える); (Pitch: 3); (POS: 動詞); Memorize I learn kanji every day.
+おぼえる まいにち、かんじをおぼえます。	(Alternate: 覚える); (Pitch: 3); (POS: 動詞); Memorize I learn kanji every day.
+[anki:play:q:0]	(Alternate: 忘れる); (Pitch: 0); (POS: 動詞); Forget I forgot my homework.
+わすれる しゅくだいをわすれました。	(Alternate: 忘れる); (Pitch: 0); (POS: 動詞); Forget I forgot my homework.
+[anki:play:q:0]	(Alternate: 問題); (Pitch: 0); (POS: 名詞); Problem / Question Please read the question.
+もんだい もんだいを読んでください。	(Alternate: 問題); (Pitch: 0); (POS: 名詞); Problem / Question Please read the question.
+[anki:play:q:0]	(Alternate: 例); (Pitch: 1); (POS: 名詞); Example Please look at the example.
+れい れいを見てください。	(Alternate: 例); (Pitch: 1); (POS: 名詞); Example Please look at the example.
+[anki:play:q:0]	(Alternate: 答え); (Pitch: 2,3); (POS: 名詞); Answer I don't know the answer.
+こたえ こたえがわかりません。	(Alternate: 答え); (Pitch: 2,3); (POS: 名詞); Answer I don't know the answer.
+[anki:play:q:0]	(Alternate: 質問); (Pitch: 0); (POS: 名詞); Question I have a question for the teacher.
+しつもん(する) 先生にしつもんします。	(Alternate: 質問); (Pitch: 0); (POS: 名詞); Question I have a question for the teacher.
+[anki:play:q:0]	Observation I went to observe the Japanese language school.
+けんがく(する) にほんご学校をけんがくしました。	Observation I went to observe the Japanese language school.
+[anki:play:q:0]	Company Toyota is a Japanese company.
+かいしゃ トヨタは日本のかいしゃです。	Company Toyota is a Japanese company.
+[anki:play:q:0]	(Alternate: 銀行); (Pitch: 0); (POS: 名詞); Bank My younger brother works at a bank.
+ぎんこう おとうとはぎんこうではたらいています。	(Alternate: 銀行); (Pitch: 0); (POS: 名詞); Bank My younger brother works at a bank.
+[anki:play:q:0]	(Alternate: 働く); (Pitch: 0); (POS: 動詞); Work I work every day.
+はたらく まいにち、はたらきます。	(Alternate: 働く); (Pitch: 0); (POS: 動詞); Work I work every day.
+[anki:play:q:0]	(Pitch: 2); (POS: 動詞); take a leave of absence, rest Yesterday, I took a leave of absence from work.
+休む きのう、かいしゃを 休みました。	(Pitch: 2); (POS: 動詞); take a leave of absence, rest Yesterday, I took a leave of absence from work.
+[anki:play:q:0]	(Pitch: 3); (POS: 名詞); Holiday, Day Off The days off are Saturdays and Sundays.
+休み 休みは土よう日と日よう日です。	(Pitch: 3); (POS: 名詞); Holiday, Day Off The days off are Saturdays and Sundays.
+[anki:play:q:0]	Lunch Break I do my homework during lunch break.
+ひる休み ひる休みにしゅくだいをします。	Lunch Break I do my homework during lunch break.
+[anki:play:q:0]	Not Busy, Free I am not busy tomorrow.
+ひまな あしたはひまです。	Not Busy, Free I am not busy tomorrow.
+[anki:play:q:0]	(Alternate: 忙しい); (Pitch: 4); (POS: 形容詞); Busy I am busy every day.
+いそがしい まいにち、いそがしいです。	(Alternate: 忙しい); (Pitch: 4); (POS: 形容詞); Busy I am busy every day.
+[anki:play:q:0]	Overtime Work Today I will work overtime.
+ざんぎょう(する) きょうはざんぎょうします。	Overtime Work Today I will work overtime.
+[anki:play:q:0]	(Alternate: 出張); (Pitch: 0); (POS: 名詞); Take a Business Trip I will take a business trip to France.
+しゅっちょう(する) フランスへしゅっちょうします。	(Alternate: 出張); (Pitch: 0); (POS: 名詞); Take a Business Trip I will take a business trip to France.
+[anki:play:q:0]	Office The office is in Taiwan.
+じむしょ じむしょはたいわんにあります。	Office The office is in Taiwan.
+[anki:play:q:0]	(Alternate: 工場); (Pitch: 3); (POS: 名詞); Factory There is a large factory in China.
+こうじょう ちゅうごくに大きいこうじょうがあります。	(Alternate: 工場); (Pitch: 3); (POS: 名詞); Factory There is a large factory in China.
+[anki:play:q:0]	Reception (Desk) Please ask at the reception desk.
+うけつけ うけつけで聞いてください。	Reception (Desk) Please ask at the reception desk.
+[anki:play:q:0]	(Alternate: 会議); (Pitch: 1,3); (POS: 名詞); Meeting There is a meeting today.
+かいぎ きょう、かいぎがあります。	(Alternate: 会議); (Pitch: 1,3); (POS: 名詞); Meeting There is a meeting today.
+[anki:play:q:0]	Meeting Room Yamada-san is in the meeting room.
+かいぎしつ 山田さんはかいぎしつにいます。	Meeting Room Yamada-san is in the meeting room.
+[anki:play:q:0]	(Pitch: 0); (POS: 名詞); Telephone There is no telephone in the meeting room.
+電話 かいぎしつに 電話がありません。	(Pitch: 0); (POS: 名詞); Telephone There is no telephone in the meeting room.
+[anki:play:q:0]	(Alternate: 掛ける); (Pitch: 0); (POS: 名詞); Make a Phone Call I will call the company.
+(電話を)かける かいしゃに電話をかけます。	(Alternate: 掛ける); (Pitch: 0); (POS: 名詞); Make a Phone Call I will call the company.
+[anki:play:q:0]	(Pitch: 1); (POS: 感動詞); Hello A, Hello, is this Yamada-san? -- B. Yes it is.
+もしもし A「もしもし、山田さんですか。」 -- B「はい、そうです。」	(Pitch: 1); (POS: 感動詞); Hello A, Hello, is this Yamada-san? -- B. Yes it is.
+[anki:play:q:0]	Phone Number A. Do you know Yamada-san's phone number?
+電話ばんごう A「山田さんの 電話ばんごうをしっていますか。」	Phone Number A. Do you know Yamada-san's phone number?
+[anki:play:q:0]	(Alternate: 知る); (Pitch: 1); (POS: 名詞); Know B. No, I don't know.
+しる B「いいえ、しりません。」	(Alternate: 知る); (Pitch: 1); (POS: 名詞); Know B. No, I don't know.
+[anki:play:q:0]	What Number What is the phone number?
+何ばん 電話ばんごうは 何ばんですか。	What Number What is the phone number?
+[anki:play:q:0]	(Alternate: 教える); (Pitch: 0); (POS: 動詞); Teach, Tell Please tell me the phone number.
+おしえる 電話ばんごうをおしえてください。	(Alternate: 教える); (Pitch: 0); (POS: 動詞); Teach, Tell Please tell me the phone number.
+[anki:play:q:0]	(Alternate: 手伝う); (Pitch: 3); (POS: 動詞); Help I help with my father's work.
+てつだう 父のしごとをてつだいます。	(Alternate: 手伝う); (Pitch: 3); (POS: 動詞); Help I help with my father's work.
+[anki:play:q:0]	(Alternate: 作る); (Pitch: 2); (POS: 動詞); Make This was made at a Japanese factory.
+つくる これは日本のこうじょうでつくりました。	(Alternate: 作る); (Pitch: 2); (POS: 動詞); Make This was made at a Japanese factory.
+[anki:play:q:0]	Helpful This will be helpful.
+やくにたつ これはやくにたちます。	Helpful This will be helpful.
+[anki:play:q:0]	(Alternate: 仕事); (Pitch: 0); (POS: 名詞); Work, Job A. What is your job? -- B. I am a teacher.
+しごと A「(お)しごとは？」 -- B「きょうしです。」	(Alternate: 仕事); (Pitch: 0); (POS: 名詞); Work, Job A. What is your job? -- B. I am a teacher.
+かいしゃいん	Office Worker
+ぎんこういん	Bank Worker
+いしゃ / おいしゃさん	Doctor
+かんごし / かんごしさん	Nurse
+かいごし / かいごしさん	Nurse / Care Worker
+けいさつかん / おまわりさん	Policeman / Policewoman
+えきいん / えきいんさん	Train Station Staff
+うんてんしゅ / うんてんしゅさん	Car Driver
+しゃちょう	Company President
+ぶちょう	Director / Senior Manager
+かちょう	(Alternate: 課長); (Pitch: 0); (POS: 名詞); Manager
+しゃいん	Worker
+[anki:play:q:0]	(Alternate: 此れ); (Pitch: 0); (POS: 代名詞); This (Close to you) This is a Japanese book.
+これ これはにほんごの本です。	(Alternate: 此れ); (Pitch: 0); (POS: 代名詞); This (Close to you) This is a Japanese book.
+[anki:play:q:0]	(Alternate: 其れ); (Pitch: 0); (POS: 代名詞); That (Far Away) That is a Chinese book.
+それ それはちゅうごくの本です。	(Alternate: 其れ); (Pitch: 0); (POS: 代名詞); That (Far Away) That is a Chinese book.
+[anki:play:q:0]	(Alternate: 彼れ); (Pitch: 0); (POS: 代名詞); That (Very Far Away) That is a personal computer.
+あれ あれはパソコンです。	(Alternate: 彼れ); (Pitch: 0); (POS: 代名詞); That (Very Far Away) That is a personal computer.
+[anki:play:q:0]	(Alternate: 何れ); (Pitch: 1); (POS: 代名詞); Which A. Which umbrella is yours, Yamada-san? -- B. This one.
+どれ A「山田さんのかさはどれですか。」 -- B「これです。」	(Alternate: 何れ); (Pitch: 1); (POS: 代名詞); Which A. Which umbrella is yours, Yamada-san? -- B. This one.
+[anki:play:q:0]	Which A. Which bag is the teacher's? -- B. That one.
+A「先生のかばんはどれですか。」 -- B「あれです」 A「先生のかばんはどれですか。」 -- B「あれです」	Which A. Which bag is the teacher's? -- B. That one.
+[anki:play:q:0]	(Alternate: 此の); (Pitch: 0); (POS: 連体詞); This Which book is Yamada-san's? Is it this book?
+この 山田さんの本はどれですか。この本ですか。	(Alternate: 此の); (Pitch: 0); (POS: 連体詞); This Which book is Yamada-san's? Is it this book?
+[anki:play:q:0]	(Alternate: 其の); (Pitch: 0); (POS: 連体詞); That Is it that book?
+その その本ですか。	(Alternate: 其の); (Pitch: 0); (POS: 連体詞); That Is it that book?
+[anki:play:q:0]	(Pitch: 0); (POS: 感動詞); That That book over there?
+あの あの本ですか。	(Pitch: 0); (POS: 感動詞); That That book over there?
+[anki:play:q:0]	(Alternate: 何の); (Pitch: 1); (POS: 連体詞); Which Which book is it?
+どの どの本ですか。	(Alternate: 何の); (Pitch: 1); (POS: 連体詞); Which Which book is it?
+[anki:play:q:0]	What A. What is this? -- B. It's a book.
+何 A「これは 何ですか。」 -- B「本です。」	What A. What is this? -- B. It's a book.
+めいし	(Alternate: 名刺); (Pitch: 0); (POS: 名詞); Name Card
+ケータイ	(Alternate: 携帯); (Pitch: 0); (POS: 名詞); Cell Phone
+スマホ	Smartphone
+でんち	Battery
+ノート	(Alternate: ノート-note); (Pitch: 1); (POS: 名詞); Notebook
+かみ (書く)	(Alternate: 紙); (Pitch: 1); (POS: 名詞); Paper
+てちょう	(Alternate: 手帳); (Pitch: 0); (POS: 名詞); Pocket Notebook
+ボールペン	Ball Point Pen
+シャープペンシル	Mechanical Pencil
+えんぴつ	(Alternate: 鉛筆); (Pitch: 0); (POS: 名詞); Pencil
+けしゴム	Eraser
+パンチ	(Alternate: パンチ-punch); (Pitch: 1); (POS: 名詞); Hole Puncher
+ホッチキス	(Alternate: ホチキス-Hotchkiss); (Pitch: 1); (POS: 名詞); More Notes: named after the inventor, Hotchkiss Stapler
+セロテープ	(Pitch: 3); (POS: 名詞); Cellophane Tape
+はさみ	(Alternate: 鋏); (Pitch: 2,3); (POS: 名詞); Scissors
+はこ	(Alternate: 箱); (Pitch: 0); (POS: 名詞); Box
+[anki:play:q:0]	(Alternate: コンピューター-computer); (Pitch: 3); (POS: 名詞); Computer I use the computer every day.
+コンピューター まいにち、コンピューターをつかいます。	(Alternate: コンピューター-computer); (Pitch: 3); (POS: 名詞); Computer I use the computer every day.
+[anki:play:q:0]	(Alternate: パソコン-personal computer); (Pitch: 0); (POS: 名詞); Personal Computer This is my older brother's personal computer.
+パソコン これはあにのパソコンです。	(Alternate: パソコン-personal computer); (Pitch: 0); (POS: 名詞); Personal Computer This is my older brother's personal computer.
+[anki:play:q:0]	(Alternate: インターネット-internet); (Pitch: 5); (POS: 名詞); Internet I will check the phone number on the internet.
+インターネット インターネットで電話ばんごうをしらべます。	(Alternate: インターネット-internet); (Pitch: 5); (POS: 名詞); Internet I will check the phone number on the internet.
+[anki:play:q:0]	(Alternate: 資料); (Pitch: 1); (POS: 名詞); More Notes: 資料 Materials These are the materials for the meeting.
+しりょう これはかいぎのしりょうです。	(Alternate: 資料); (Pitch: 1); (POS: 名詞); More Notes: 資料 Materials These are the materials for the meeting.
+[anki:play:q:0]	(Alternate: 切る); (Pitch: 1); (POS: 動詞); Cut I will cut the paper with a pair of scissors.
+きる はさみでかみをきります。	(Alternate: 切る); (Pitch: 1); (POS: 動詞); Cut I will cut the paper with a pair of scissors.
+[anki:play:q:0]	(Alternate: 使う); (Pitch: 0); (POS: 動詞); Use Please use this pair of scissors.
+つかう このはさみをつかってください。	(Alternate: 使う); (Pitch: 0); (POS: 動詞); Use Please use this pair of scissors.
+[anki:play:q:0]	How Many (Small Objects) A. How many erasers are there? -- B. There are 10 of them.
+何個 A「けしゴムが 何個ありますか。」 -- B「１０個です。」	How Many (Small Objects) A. How many erasers are there? -- B. There are 10 of them.
+一個	1 Small Object
+二個	2 Small Objects
+三個	3 Small Objects
+四個	4 Small Objects
+五個	5 Small Objects
+六個	6 Small Objects
+七個	7 Small Objects
+八個	8 Small Objects
+九個	9 Small Objects
+十個	10 Small Objects
+[anki:play:q:0]	How Many (Machines and Vehicles) A. How many computers are there? -- B. There are 2 of them.
+何台 A「パソコンが 何台ありますか。」 -- B「２台あります。」	How Many (Machines and Vehicles) A. How many computers are there? -- B. There are 2 of them.
+一台	1 Machine or Vehicle
+二台	2 Machines or Vehicles
+三台	3 Machines or Vehicles
+四台	4 Machines or Vehicles
+五台	5 Machines or Vehicles
+六台	6 Machines or Vehicles
+七台	7 Machines or Vehicles
+八台	8 Machines or Vehicles
+九台	9 Machines or Vehicles
+十台	10 Machines or Vehicles
+[anki:play:q:0]	What Time A. What time is it? -- B. It's 3 o'clock.
+何時 A「 何時ですか。」 -- B「３時です。」	What Time A. What time is it? -- B. It's 3 o'clock.
+[anki:play:q:0]	What Minute A. What time is it exactly? -- B. It's 6:20.
+何分 A「何時 何分ですか。」 -- B「６時２０分です。」	What Minute A. What time is it exactly? -- B. It's 6:20.
+１時	1 o'clock
+２時	2 o'clock
+３時	3 o'clock
+４時	4 o'clock
+５時	5 o'clock
+６時	6 o'clock
+７時	7 o'clock
+８時	8 o'clock
+９時	9 o'clock
+１０時	10 o'clock
+１１時	11 o'clock
+１２時	12 o'clock
+１分	1 minute
+２分	2 minutes
+３分	3 minutes
+４分	4 minutes
+５分	5 minutes
+６分	6 minutes
+７分	7 minutes
+８分	8 minutes
+９分	9 minutes
+１０分	10 minutes
+１１分	11 minutes
+１２分	12 minutes
+１５分	15 minutes
+２０分	20 minutes
+３０分	30 minutes
+４０分	40 minutes
+４５分	45 minutes
+５０分	50 minutes
+半	(Pitch: 1); (POS: 名詞); 30 minutes, half an hour
+[anki:play:q:0]	Around I go to school around 8:40AM.
+～ごろ ８時４０分ごろ学校へ行きます。	Around I go to school around 8:40AM.
+[anki:play:q:0]	(Alternate: 午前); (Pitch: 1); (POS: 名詞); A.M. It's 1:00A.M.
+ごぜん ごぜん１時です。	(Alternate: 午前); (Pitch: 1); (POS: 名詞); A.M. It's 1:00A.M.
+[anki:play:q:0]	(Alternate: 午後); (Pitch: 1); (POS: 名詞); P.M. It's 7:00P.M.
+ごご ごご７時です。	(Alternate: 午後); (Pitch: 1); (POS: 名詞); P.M. It's 7:00P.M.
+[anki:play:q:0]	(Alternate: 今); (Pitch: 1); (POS: 名詞); Now A. What time is it now? -- B. It's 2:30.
+いま A「いま、何時ですか。」 --B「２時半です。」	(Alternate: 今); (Pitch: 1); (POS: 名詞); Now A. What time is it now? -- B. It's 2:30.
+[anki:play:q:0]	(Alternate: くらい); (POS: 助詞); About Let's rest for about 30 minutes.
+～ぐらい ３０分ぐらい休みましょう。	(Alternate: くらい); (POS: 助詞); About Let's rest for about 30 minutes.
+[anki:play:q:0]	(Pitch: 0); (POS: 名詞); Hours I studied for an hour yesterday.
+～時間 きのう、１時間べんきょうしました。	(Pitch: 0); (POS: 名詞); Hours I studied for an hour yesterday.
+[anki:play:q:0]	How Many Hours? A. How many hours do you work every day? -- B. I work 8 hours.
+何時間 A「まいにち、 何時間はたらきますか。」 -- B「８時間はたらきます。」	How Many Hours? A. How many hours do you work every day? -- B. I work 8 hours.
+[anki:play:q:0]	From School is from 8 o'clock.
+～から 学校は８時からです。	From School is from 8 o'clock.
+[anki:play:q:0]	Up To / Until I work at the office from 9A.M. to 5P.M.
+～まで かいしゃは９時から５時までです。	Up To / Until I work at the office from 9A.M. to 5P.M.
+[anki:play:q:0]	(Alternate: 友達); (Pitch: 0); (POS: 名詞); Friend I will go to Yokohama with my friend.
+友だち 友だちと横浜へ行きます。	(Alternate: 友達); (Pitch: 0); (POS: 名詞); Friend I will go to Yokohama with my friend.
+[anki:play:q:0]	(Pitch: 1); (POS: 形状詞); What Kind Of A. What kind of person is Smith-san?
+どんな A「スミスさんはどんな人ですか。」	(Pitch: 1); (POS: 形状詞); What Kind Of A. What kind of person is Smith-san?
+[anki:play:q:0]	(Pitch: 0); (POS: 名詞); Person B. He/she is a kind person.
+人 B「しんせつな 人です。」	(Pitch: 0); (POS: 名詞); Person B. He/she is a kind person.
+[anki:play:q:0]	(Alternate: 親切); (Pitch: 1,0); (POS: 名詞); Kind Smith-san is kind.
+しんせつな スミスさんはしんせつです。	(Alternate: 親切); (Pitch: 1,0); (POS: 名詞); Kind Smith-san is kind.
+[anki:play:q:0]	(Alternate: 皆); (Pitch: 3,0); (POS: 名詞); Everyone All my friends are kind.
+みんな 友だちはみんなしんせつです。	(Alternate: 皆); (Pitch: 3,0); (POS: 名詞); Everyone All my friends are kind.
+[anki:play:q:0]	Energetic, Fine, Happy Smith-san's grandmother is doing fine.
+元気な スミスさんのおばあさんは 元気です。	Energetic, Fine, Happy Smith-san's grandmother is doing fine.
+[anki:play:q:0]	More Notes: Beautiful Beautiful, Clean 1. Hein-san is a beautiful person.
+きれいな ① ハインさんはきれいな人です。	More Notes: Beautiful Beautiful, Clean 1. Hein-san is a beautiful person.
+[anki:play:q:0]	More Notes: Clean, Orderly Beautiful, Clean 2. This school is clean.
+きれいな ② この学校はきれいです。	More Notes: Clean, Orderly Beautiful, Clean 2. This school is clean.
+[anki:play:q:0]	Handsome Huang-san is handsome.
+ハンサムな ホアンさんはハンサムです。	Handsome Huang-san is handsome.
+[anki:play:q:0]	(Alternate: 可愛い); (Pitch: 3); (POS: 形容詞); Cute Lara-chan is cute.
+かわいい ララちゃんはかわいいです。	(Alternate: 可愛い); (Pitch: 3); (POS: 形容詞); Cute Lara-chan is cute.
+[anki:play:q:0]	Cool John-san is cool.
+かっこいい ジョンさんはかっこいいです。	Cool John-san is cool.
+[anki:play:q:0]	Intelligent Yamada-san is intelligent.
+あたまがいい 山田さんはあたまがいいです。	Intelligent Yamada-san is intelligent.
+[anki:play:q:0]	(Alternate: 優しい); (Pitch: 0,3); (POS: 形容詞); Friendly Hein-san is friendly.
+やさしい ハインさんはやさしいです。	(Alternate: 優しい); (Pitch: 0,3); (POS: 形容詞); Friendly Hein-san is friendly.
+[anki:play:q:0]	(Alternate: ユーモア-humor); (Pitch: 1,0); (POS: 名詞); Humor Yamada-san is humorous.
+ユーモア 山田さんはユーモアがあります。	(Alternate: ユーモア-humor); (Pitch: 1,0); (POS: 名詞); Humor Yamada-san is humorous.
+[anki:play:q:0]	Stature / Height Huang-san is tall.
+せ ホアンさんはせが高いです。	Stature / Height Huang-san is tall.
+[anki:play:q:0]	(Pitch: 2); (POS: 形容詞); Tall Huang-san is taller than Yamada-san.
+高い ホアンさんは山田さんよりせが 高いです。	(Pitch: 2); (POS: 形容詞); Tall Huang-san is taller than Yamada-san.
+[anki:play:q:0]	(Alternate: 低い); (Pitch: 2); (POS: 形容詞); Short I am short.
+ひくい わたしはせがひくいです。	(Alternate: 低い); (Pitch: 2); (POS: 形容詞); Short I am short.
+[anki:play:q:0]	(Pitch: 1); (POS: 名詞); Eye Lara-chan has big eyes.
+目 ララちゃんは 目が大きいです。	(Pitch: 1); (POS: 名詞); Eye Lara-chan has big eyes.
+[anki:play:q:0]	(Pitch: 3); (POS: 形容詞); Big There is a big dog.
+大きい 大きい犬がいます。	(Pitch: 3); (POS: 形容詞); Big There is a big dog.
+[anki:play:q:0]	(Pitch: 3); (POS: 形容詞); Small My camera is small.
+小さい わたしのカメラは 小さいです。	(Pitch: 3); (POS: 形容詞); Small My camera is small.
+[anki:play:q:0]	Hair Yesterday, I cut my hair.
+かみ きのう、かみをきりました。	Hair Yesterday, I cut my hair.
+[anki:play:q:0]	(Pitch: 2); (POS: 形容詞); Long Hein-san's hair is long.
+長い ハインさんはかみが 長いです。	(Pitch: 2); (POS: 形容詞); Long Hein-san's hair is long.
+[anki:play:q:0]	(Alternate: 短い); (Pitch: 3); (POS: 形容詞); Short Lara-chan's hair is short.
+みじかい ララちゃんはかみがみじかいです。	(Alternate: 短い); (Pitch: 3); (POS: 形容詞); Short Lara-chan's hair is short.
+[anki:play:q:0]	(Alternate: 服); (Pitch: 2); (POS: 名詞); Clothes Yesterday, I bought some clothes.
+ふく きのう、ふくを買いました。	(Alternate: 服); (Pitch: 2); (POS: 名詞); Clothes Yesterday, I bought some clothes.
+[anki:play:q:0]	(Alternate: サイズ-size); (Pitch: 1); (POS: 名詞); Size There are no large sizes.
+サイズ 大きいサイズがありません。	(Alternate: サイズ-size); (Pitch: 1); (POS: 名詞); Size There are no large sizes.
+[anki:play:q:0]	(Alternate: 素敵); (Pitch: 0); (POS: 形状詞); Fancy, Nice That is a fancy shirt. It looks great.
+すてきな かっこいいシャツですね。すてきです。	(Alternate: 素敵); (Pitch: 0); (POS: 形状詞); Fancy, Nice That is a fancy shirt. It looks great.
+[anki:play:q:0]	(Alternate: デザイン-design); (Pitch: 2); (POS: 名詞); Design It's a great design.
+デザイン すてきなデザインですね。	(Alternate: デザイン-design); (Pitch: 2); (POS: 名詞); Design It's a great design.
+[anki:play:q:0]	Wear (Above the Waist) I will wear my overcoat.
+きる うわぎをきます。	Wear (Above the Waist) I will wear my overcoat.
+[anki:play:q:0]	(Alternate: 脱ぐ); (Pitch: 1); (POS: 動詞); Take Off 1. I will take off my coat.
+ぬぐ ①コートをぬぎます。	(Alternate: 脱ぐ); (Pitch: 1); (POS: 動詞); Take Off 1. I will take off my coat.
+[anki:play:q:0]	Take Off 2. I will take off my shoes.
+ぬぐ ②くつをぬぎます。	Take Off 2. I will take off my shoes.
+[anki:play:q:0]	(Alternate: 赤い); (Pitch: 0); (POS: 形容詞); Red I bought a red coat.
+あかい あかいコートを買いました。	(Alternate: 赤い); (Pitch: 0); (POS: 形容詞); Red I bought a red coat.
+[anki:play:q:0]	(Alternate: 青い); (Pitch: 0); (POS: 名詞); Blue I am wearing a blue shirt.
+あおい あおいシャツをきています。	(Alternate: 青い); (Pitch: 0); (POS: 名詞); Blue I am wearing a blue shirt.
+[anki:play:q:0]	(Alternate: 白い); (Pitch: 2); (POS: 形容詞); White I want to buy a white suit.
+しろい しろいスーツを買いたいです。	(Alternate: 白い); (Pitch: 2); (POS: 形容詞); White I want to buy a white suit.
+[anki:play:q:0]	(Alternate: 黒い); (Pitch: 2); (POS: 形容詞); Black I will wear a black sweater.
+くろい くろいセーターをきます。	(Alternate: 黒い); (Pitch: 2); (POS: 形容詞); Black I will wear a black sweater.
+[anki:play:q:0]	(Alternate: 黄色い); (Pitch: 0); (POS: 形容詞); Yellow I will buy yellow clothes.
+きいろい きいろいふくを買います。	(Alternate: 黄色い); (Pitch: 0); (POS: 形容詞); Yellow I will buy yellow clothes.
+[anki:play:q:0]	(Alternate: 色々); (Pitch: 0); (POS: 形状詞); Various I have various hats.
+いろいろな いろいろなぼうしをもっています。	(Alternate: 色々); (Pitch: 0); (POS: 形状詞); Various I have various hats.
+シャツ	(Alternate: シャツ-shirt); (Pitch: 1); (POS: 名詞); Shirt
+セーター	(Alternate: セーター-sweater); (Pitch: 1); (POS: 名詞); Sweater
+コート	(Alternate: コート-coat); (Pitch: 1); (POS: 名詞); Coat
+スーツ	(Alternate: スーツ-suit); (Pitch: 1); (POS: 名詞); Suit
+うわぎ	Jacket, Coat, Top
+したぎ	Underwear
+きもの	(Alternate: 着物); (Pitch: 0); (POS: 名詞); Kimono
+[anki:play:q:0]	(Alternate: 履く); (Pitch: 1); (POS: 名詞); Wear (Below the Waist) I wear a black skirt.
+はく くろいスカートをはきます。	(Alternate: 履く); (Pitch: 1); (POS: 名詞); Wear (Below the Waist) I wear a black skirt.
+ズボン	(Alternate: ズボン-jupon); (Pitch: 1,2); (POS: 名詞); Pants
+ジーンズ	(Alternate: ジーンズ-jeans); (Pitch: 1); (POS: 名詞); Jeans
+パンツ	(Alternate: パンツ-pants); (Pitch: 1,0); (POS: 名詞); Pants, panties
+スカート	(Alternate: スカート-skirt); (Pitch: 2); (POS: 名詞); Skirt
+くつ	(Alternate: 靴); (Pitch: 2); (POS: 名詞); Shoes
+くつした	Socks
+[anki:play:q:0]	(Alternate: 被る); (Pitch: 2); (POS: 動詞); Wear (Hats) I wear a black hat.
+かぶる くろいぼうしをかぶります。	(Alternate: 被る); (Pitch: 2); (POS: 動詞); Wear (Hats) I wear a black hat.
+ぼうし	(Alternate: 帽子); (Pitch: 0); (POS: 名詞); Hat
+[anki:play:q:0]	Wear (Glasses) I wear a pair of glasses.
+(めがねを)かける めがねをかけます。	Wear (Glasses) I wear a pair of glasses.
+めがね	(Alternate: 眼鏡); (Pitch: 1); (POS: 名詞); Glasses
+サングラス	(Alternate: サングラス-sunglasses); (Pitch: 3); (POS: 名詞); Sunglasses
+[anki:play:q:0]	Wear (Ring) I wear a beautiful ring.
+(ゆびわを)する きれいなゆびわをします。	Wear (Ring) I wear a beautiful ring.
+ネクタイ	(Alternate: ネクタイ-necktie); (Pitch: 1); (POS: 名詞); Necktie
+ゆびわ	(Alternate: 指輪); (Pitch: 0); (POS: 名詞); Ring
+とけい	(Alternate: 時計); (Pitch: 0); (POS: 名詞); Watch
+[anki:play:q:0]	(Pitch: 1); (POS: 名詞); Hold / Have A. Shall I hold the bag? -- B. Yes, thank you.
+もつ A「かばんをもちましょうか。」 -- -- B「はい、ありがとうございます。」	(Pitch: 1); (POS: 名詞); Hold / Have A. Shall I hold the bag? -- B. Yes, thank you.
+かばん	(Alternate: 鞄); (Pitch: 0); (POS: 名詞); Bag
+さいふ	(Alternate: 財布); (Pitch: 0); (POS: 名詞); Purse
+[anki:play:q:0]	(Alternate: 遊ぶ); (Pitch: 0); (POS: 動詞); Have Fun / Play 1. I played with the children on Sunday.
+あそぶ ①日よう日に子どもとあそびました。	(Alternate: 遊ぶ); (Pitch: 0); (POS: 動詞); Have Fun / Play 1. I played with the children on Sunday.
+[anki:play:q:0]	Have Fun / Play 2. I wil go have fun in Shinjuku.
+あそぶ ②新宿へあそびに行きます。	Have Fun / Play 2. I wil go have fun in Shinjuku.
+[anki:play:q:0]	(Alternate: 案内); (Pitch: 3); (POS: 名詞); Guide I will show you Kyoto.
+あんない(する) 京都をあんないします。	(Alternate: 案内); (Pitch: 3); (POS: 名詞); Guide I will show you Kyoto.
+[anki:play:q:0]	(Alternate: 迎える); (Pitch: 0); (POS: 動詞); Pick Up / Greet I will pick up my father at Narita.
+むかえる 成田へ父をむかえに行きます。	(Alternate: 迎える); (Pitch: 0); (POS: 動詞); Pick Up / Greet I will pick up my father at Narita.
+[anki:play:q:0]	Take I took the children to the zoo.
+つれていく 子どもをどうぶつえんへつれていきました。	Take I took the children to the zoo.
+[anki:play:q:0]	Bring Over My younger brother brought home his friend.
+つれてくる おとうとがうちへ友だちをつれてきました。	Bring Over My younger brother brought home his friend.
+[anki:play:q:0]	(Alternate: 動物); (Pitch: 0); (POS: 名詞); Animal I saw various animals.
+どうぶつ いろいろなどうぶつを見ました。	(Alternate: 動物); (Pitch: 0); (POS: 名詞); Animal I saw various animals.
+[anki:play:q:0]	Zoo I went to the zoo with the children.
+どうぶつえん 子どもとどうぶつえんへ行きました。	Zoo I went to the zoo with the children.
+[anki:play:q:0]	(Alternate: パンダ-panda); (Pitch: 1); (POS: 名詞); Panda There was a panda at the Ueno Zoo.
+パンダ 上野どうぶつえんにパンダがいました。	(Alternate: パンダ-panda); (Pitch: 1); (POS: 名詞); Panda There was a panda at the Ueno Zoo.
+[anki:play:q:0]	(Alternate: 象); (POS: 助詞); Elephant I saw an elephant in Thailand.
+ぞう タイでぞうを見ました。	(Alternate: 象); (POS: 助詞); Elephant I saw an elephant in Thailand.
+[anki:play:q:0]	(Alternate: 馬); (Pitch: 2); (POS: 名詞); Horse I want to see a horse.
+うま うまを見たいです。	(Alternate: 馬); (Pitch: 2); (POS: 名詞); Horse I want to see a horse.
+[anki:play:q:0]	(Alternate: 祭り); (Pitch: 0); (POS: 名詞); Festival There is a festival in Asakusa.
+[お]まつり 浅草でおまつりがあります。	(Alternate: 祭り); (Pitch: 0); (POS: 名詞); Festival There is a festival in Asakusa.
+[anki:play:q:0]	(Alternate: 寺); (Pitch: 2,0); (POS: 名詞); Temple There are temples in Kamakura.
+[お]てら 鎌倉におてらがあります。	(Alternate: 寺); (Pitch: 2,0); (POS: 名詞); Temple There are temples in Kamakura.
+[anki:play:q:0]	(Alternate: 神社); (Pitch: 1); (POS: 名詞); Shrine I went to a shrine in Kyoto.
+じんじゃ 京都でじんじゃへ行きました。	(Alternate: 神社); (Pitch: 1); (POS: 名詞); Shrine I went to a shrine in Kyoto.
+[anki:play:q:0]	(Alternate: 旅行); (Pitch: 0); (POS: 名詞); Travel I will travel during the holidays.
+りょこう 休みにりょこうをします。	(Alternate: 旅行); (Pitch: 0); (POS: 名詞); Travel I will travel during the holidays.
+[anki:play:q:0]	(Alternate: 準備); (Pitch: 1); (POS: 名詞); Preparation I will prepare for the trip.
+じゅんび(する) りょこうのじゅんびをします。	(Alternate: 準備); (Pitch: 1); (POS: 名詞); Preparation I will prepare for the trip.
+[anki:play:q:0]	Reservation I will reserve a hotel.
+よやくし ホテルをよやくします。	Reservation I will reserve a hotel.
+[anki:play:q:0]	(Alternate: ホテル-hotel); (Pitch: 1); (POS: 名詞); Hotel I will call the hotel.
+ホテル ホテルに電話をかけます。	(Alternate: ホテル-hotel); (Pitch: 1); (POS: 名詞); Hotel I will call the hotel.
+[anki:play:q:0]	(Alternate: 止まる); (Pitch: 0); (POS: 動詞); Stay Over I want to stay at a beautiful hotel.
+とまる きれいなホテルにとまりたいです。	(Alternate: 止まる); (Pitch: 0); (POS: 動詞); Stay Over I want to stay at a beautiful hotel.
+[anki:play:q:0]	(Alternate: ロビー-lobby); (Pitch: 1); (POS: 名詞); Lobby There is a phone in the lobby.
+ロビー ロビーに電話があります。	(Alternate: ロビー-lobby); (Pitch: 1); (POS: 名詞); Lobby There is a phone in the lobby.
+[anki:play:q:0]	(Alternate: 土産); (Pitch: 0); (POS: 名詞); Souvenir I bought souvenirs for the family.
+おみやげ かぞくにおみやげを買いました。	(Alternate: 土産); (Pitch: 0); (POS: 名詞); Souvenir I bought souvenirs for the family.
+[anki:play:q:0]	(Alternate: サービス-service); (Pitch: 1); (POS: 名詞); Service The hotel has good service.
+サービス ホテルはサービスがいいです。	(Alternate: サービス-service); (Pitch: 1); (POS: 名詞); Service The hotel has good service.
+[anki:play:q:0]	(Alternate: ホームステイ-homestay); (Pitch: 5); (POS: 名詞); Homestay I did a home stay in America.
+ホームステイ(する) アメリカでホームステイしました。	(Alternate: ホームステイ-homestay); (Pitch: 5); (POS: 名詞); Homestay I did a home stay in America.
+[anki:play:q:0]	(Pitch: 2); (POS: 名詞); Town / City Shibuya is a city in Tokyo.
+町 渋谷は東京の 町です。	(Pitch: 2); (POS: 名詞); Town / City Shibuya is a city in Tokyo.
+[anki:play:q:0]	(Pitch: 1); (POS: 名詞); Prefecture Disneyland is in Chiba Prefecture.
+県 ディズニーランドは千葉 県にあります。	(Pitch: 1); (POS: 名詞); Prefecture Disneyland is in Chiba Prefecture.
+東京	(Alternate: 東京); (Pitch: 0); (POS: 名詞); Tokyo
+成田	(Alternate: 成田); (Pitch: 1); (POS: 名詞); Narita
+上野	(Alternate: 上野); (Pitch: 0); (POS: 名詞); Ueno
+浅草	(Alternate: 浅草); (Pitch: 0); (POS: 名詞); Asakusa
+新宿	(Alternate: 新宿); (Pitch: 0); (POS: 名詞); Shinjuku
+秋葉原	(Alternate: 秋葉原); (Pitch: 3); (POS: 名詞); Akihabara
+渋谷	(Alternate: 渋谷); (Pitch: 0); (POS: 名詞); Shibuya
+銀座	(Alternate: 銀座); (Pitch: 0); (POS: 名詞); Ginza
+羽田	(Alternate: 羽田); (Pitch: 0); (POS: 名詞); Haneda
+鎌倉	(Alternate: 鎌倉); (Pitch: 0); (POS: 名詞); Kamakura
+横浜	(Alternate: 横浜); (Pitch: 0); (POS: 名詞); Yokohama
+北海道	(Alternate: 北海道); (Pitch: 3); (POS: 名詞); Hokkaido
+札幌	(Alternate: 札幌); (Pitch: 0); (POS: 名詞); Sapporo
+仙台	(Alternate: 仙台); (Pitch: 1); (POS: 名詞); Sendai
+日光	(Pitch: 1); (POS: 名詞); Nikko
+富士山	Mt. Fuji
+金沢	(Alternate: 金沢); (Pitch: 2); (POS: 名詞); Kanazawa
+名古屋	(Alternate: 名古屋); (Pitch: 1); (POS: 名詞); Nagoya
+京都	(Alternate: 京都); (Pitch: 1); (POS: 名詞); Kyoto
+奈良	(Alternate: 奈良); (Pitch: 1); (POS: 名詞); Nara
+大阪	(Alternate: 大阪); (Pitch: 0); (POS: 名詞); Osaka
+神戸	(Alternate: 神戸); (Pitch: 1); (POS: 名詞); Kobe
+広島	(Alternate: 広島); (Pitch: 0); (POS: 名詞); Hiroshima
+福岡	(Alternate: 福岡); (Pitch: 2); (POS: 名詞); Fukuoka
+長崎	(Alternate: 長崎); (Pitch: 2); (POS: 名詞); Nagasaki
+沖縄	(Alternate: 沖縄); (Pitch: 0); (POS: 名詞); Okinawa
+[anki:play:q:0]	(Alternate: 朝); (Pitch: 1); (POS: 名詞); Morning I wake up at 6A.M. in the morning.
+あさ あさ、６時におきます。	(Alternate: 朝); (Pitch: 1); (POS: 名詞); Morning I wake up at 6A.M. in the morning.
+[anki:play:q:0]	(Alternate: 昼); (Pitch: 1); (POS: 名詞); Noon / Daytime I work during the day.
+ひる ひる、しごとをします。	(Alternate: 昼); (Pitch: 1); (POS: 名詞); Noon / Daytime I work during the day.
+[anki:play:q:0]	(Alternate: 夜); (Pitch: 0); (POS: 動詞); Evening I read in the evening.
+よる よる、本を読みます。	(Alternate: 夜); (Pitch: 0); (POS: 動詞); Evening I read in the evening.
+[anki:play:q:0]	Every Morning I listen to the CD every morning.
+まいあさ まいあさ、CDを聞きます。	Every Morning I listen to the CD every morning.
+[anki:play:q:0]	(Alternate: 毎晩); (Pitch: 0,1); (POS: 名詞); Every Night I study every night.
+まいばん まいばん、べんきょうをしています。	(Alternate: 毎晩); (Pitch: 0,1); (POS: 名詞); Every Night I study every night.
+[anki:play:q:0]	(Alternate: 今朝); (Pitch: 1); (POS: 名詞); This Morning I called my friend this morning.
+けさ けさ、友だちに電話をかけました。	(Alternate: 今朝); (Pitch: 1); (POS: 名詞); This Morning I called my friend this morning.
+[anki:play:q:0]	(Alternate: 今晩); (Pitch: 1); (POS: 名詞); This Evening / Tonight I will stay in a hotel tonight.
+こんばん こんばん、ホテルにとまります。	(Alternate: 今晩); (Pitch: 1); (POS: 名詞); This Evening / Tonight I will stay in a hotel tonight.
+[anki:play:q:0]	(Alternate: 起きる); (Pitch: 2); (POS: 動詞); Wake Up I wake up at 7A.M. every morning.
+おきる まいあさ、７時におきます。	(Alternate: 起きる); (Pitch: 2); (POS: 動詞); Wake Up I wake up at 7A.M. every morning.
+[anki:play:q:0]	(Alternate: 寝る); (Pitch: 0); (POS: 動詞); Sleep I sleep around 11P.M. every night.
+ねる まいばん、１１時 ごろねます。	(Alternate: 寝る); (Pitch: 0); (POS: 動詞); Sleep I sleep around 11P.M. every night.
+[anki:play:q:0]	(Pitch: 1); (POS: 動詞); Watch I never watch televison.
+見る テレビをぜんぜん 見ません。	(Pitch: 1); (POS: 動詞); Watch I never watch televison.
+[anki:play:q:0]	(Alternate: ニュース-news); (Pitch: 1); (POS: 名詞); News Yesterday, I watched the news.
+ニュース きのう、ニュースを見ました。	(Alternate: ニュース-news); (Pitch: 1); (POS: 名詞); News Yesterday, I watched the news.
+[anki:play:q:0]	(Alternate: ラジオ-radio); (Pitch: 1); (POS: 名詞); Radio I listen to the radio in the evening.
+ラジオ よる、ラジオのニュースを聞きます。	(Alternate: ラジオ-radio); (Pitch: 1); (POS: 名詞); Radio I listen to the radio in the evening.
+[anki:play:q:0]	(Alternate: テレビ-television); (Pitch: 1); (POS: 名詞); Television I don't have a television at home.
+テレビ うちにテレビはありません。	(Alternate: テレビ-television); (Pitch: 1); (POS: 名詞); Television I don't have a television at home.
+[anki:play:q:0]	(Alternate: 早い); (Pitch: 2); (POS: 形容詞); Early A. I woke up at 5A.M. this morning. -- B. That's early, isn't it?
+はやい A「けさ、５時におきました。」 -- B「はやいですね。」	(Alternate: 早い); (Pitch: 2); (POS: 形容詞); Early A. I woke up at 5A.M. this morning. -- B. That's early, isn't it?
+[anki:play:q:0]	Fast A. It takes two and a half hours from Tokyo to Osaka. -- B. That's fast, isn't it?
+はやい A「東京から大阪まで２時間半です。」 -- B「はやいですね。」	Fast A. It takes two and a half hours from Tokyo to Osaka. -- B. That's fast, isn't it?
+[anki:play:q:0]	(Alternate: 遅い); (Pitch: 0,2); (POS: 形容詞); Late A. I go to sleep around 1A.M. every night. -- B. That's late isn't it.
+おそい A「まいばん、１時ごろねます。 -- B「おそいですね。」	(Alternate: 遅い); (Pitch: 0,2); (POS: 形容詞); Late A. I go to sleep around 1A.M. every night. -- B. That's late isn't it.
+[anki:play:q:0]	(Alternate: 鏡); (Pitch: 3); (POS: 名詞); Mirror I see my face in the mirror.
+かがみ かがみでかおを見ます。	(Alternate: 鏡); (Pitch: 3); (POS: 名詞); Mirror I see my face in the mirror.
+[anki:play:q:0]	(Alternate: 顔); (Pitch: 0); (POS: 名詞); Face I wash my face in the morning.
+かお あさ、かおをあらいます。	(Alternate: 顔); (Pitch: 0); (POS: 名詞); Face I wash my face in the morning.
+[anki:play:q:0]	Wash I wash my face in the morning.
+あらう あさ、かおをあらいます。	Wash I wash my face in the morning.
+[anki:play:q:0]	(Alternate: 風呂); (Pitch: 2,1); (POS: 名詞); Bath I take a bath.
+(お)ふろ おふろに入ります。	(Alternate: 風呂); (Pitch: 2,1); (POS: 名詞); Bath I take a bath.
+[anki:play:q:0]	(Pitch: 1); (POS: 動詞); Take I take a bath.
+入る おふろに入ります。	(Pitch: 1); (POS: 動詞); Take I take a bath.
+[anki:play:q:0]	(Alternate: シャワー-shower); (Pitch: 1); (POS: 名詞); Shower I take a shower.
+シャワー シャワーをあびます。	(Alternate: シャワー-shower); (Pitch: 1); (POS: 名詞); Shower I take a shower.
+[anki:play:q:0]	(Alternate: 浴びる); (Pitch: 0); (POS: 名詞); Take I take a shower.
+あびる シャワーをあびます。	(Alternate: 浴びる); (Pitch: 0); (POS: 名詞); Take I take a shower.
+[anki:play:q:0]	(POS: 助詞); Teeth I brush my teeth.
+は はをみがきます。	(POS: 助詞); Teeth I brush my teeth.
+[anki:play:q:0]	(Alternate: 磨く); (Pitch: 0); (POS: 動詞); Brush I brush my teeth.
+みがく はをみがきます。	(Alternate: 磨く); (Pitch: 0); (POS: 動詞); Brush I brush my teeth.
+[anki:play:q:0]	(Pitch: 2); (POS: 動詞); Eat I eat lunch at school.
+食べる 学校でひるごはんを 食べます。	(Pitch: 2); (POS: 動詞); Eat I eat lunch at school.
+[anki:play:q:0]	(Pitch: 2,3); (POS: 名詞); Food This is Vietnamese food.
+食べ物 これはベトナムの 食べ物です。	(Pitch: 2,3); (POS: 名詞); Food This is Vietnamese food.
+[anki:play:q:0]	(Alternate: 朝御飯); (Pitch: 3); (POS: 名詞); Breakfast I eat breakfast at 7A.M.
+あさごはん ７時にあさごはんを食べます。	(Alternate: 朝御飯); (Pitch: 3); (POS: 名詞); Breakfast I eat breakfast at 7A.M.
+[anki:play:q:0]	Lunch I eat lunch at 12P.M.
+ひるごはん １２時にひるごはんを食べます。	Lunch I eat lunch at 12P.M.
+[anki:play:q:0]	Dinner I ate dinner with my friends.
+ばんごはん 友だちとばんごはんを食べました。	Dinner I ate dinner with my friends.
+[anki:play:q:0]	(Alternate: 沢山); (Pitch: 3); (POS: 形状詞); A lot I ate a lot of bread.
+たくさん パンをたくさん食べました。	(Alternate: 沢山); (Pitch: 3); (POS: 形状詞); A lot I ate a lot of bread.
+[anki:play:q:0]	(Alternate: スーパー-super); (Pitch: 1); (POS: 名詞); Supermarket I buy meat at the supermarket.
+スーパー スーパーで肉を買います。	(Alternate: スーパー-super); (Pitch: 1); (POS: 名詞); Supermarket I buy meat at the supermarket.
+肉	(Pitch: 2); (POS: 名詞); Meat
+ぎゅう肉	Beef
+ぶた肉	(Alternate: 豚肉); (Pitch: 0); (POS: 名詞); Pork
+とり肉	(Alternate: 鳥肉); (Pitch: 0); (POS: 名詞); Chicken
+魚	(Pitch: 0); (POS: 名詞); Fish
+たまご	(Alternate: 卵); (Pitch: 0,2); (POS: 名詞); Egg
+やさい	(Alternate: 野菜); (Pitch: 0); (POS: 名詞); Vegetable
+くだもの	(Alternate: 果物); (Pitch: 2); (POS: 名詞); Fruit
+バナナ	(Alternate: バナナ-banana); (Pitch: 1); (POS: 名詞); Banana
+りんご	(Alternate: 林檎); (Pitch: 0); (POS: 名詞); Apple
+レモン	(Alternate: レモン-lemon); (Pitch: 1,0); (POS: 名詞); Lemon
+みかん	(Alternate: 蜜柑); (Pitch: 1); (POS: 名詞); Mandarin Orange
+パン	(Alternate: パン-pan); (Pitch: 1); (POS: 名詞); Bread
+(お)かし	(POS: 助詞); Snacks
+チョコレート	(Alternate: チョコレート-chocolate); (Pitch: 3); (POS: 名詞); Chocolate
+[anki:play:q:0]	(Pitch: 1); (POS: 動詞); Drink I drink water.
+飲む 水を 飲みます。	(Pitch: 1); (POS: 動詞); Drink I drink water.
+[anki:play:q:0]	(Pitch: 2,3); (POS: 名詞); Drinks A. What would you like to drink? -- B. Coffee please.
+飲み物 A「 飲み物は何がいいですか。」 -- B「コーヒーをおねがいします。」	(Pitch: 2,3); (POS: 名詞); Drinks A. What would you like to drink? -- B. Coffee please.
+[anki:play:q:0]	(Pitch: 0); (POS: 名詞); Water I want to drink cold water.
+水 つめたい水が飲みたいです。	(Pitch: 0); (POS: 名詞); Water I want to drink cold water.
+[anki:play:q:0]	Hot Water I will pour hot water in the cup.
+おゆ カップにおゆを入れます。	Hot Water I will pour hot water in the cup.
+[anki:play:q:0]	Cold I want to drink cold juice.
+つめたい つめたい ジュースが飲みたいです。	Cold I want to drink cold juice.
+[anki:play:q:0]	Want / Better A. Which would you like, coffee or black tea? -- B. I would like black tea.
+～がいい A「コーヒーと紅茶とどちらがいいですか。」 -- B「紅茶がいいです。」	Want / Better A. Which would you like, coffee or black tea? -- B. I would like black tea.
+[anki:play:q:0]	(Pitch: 0); (POS: 動詞); Put in I put milk in my tea.
+入れる 紅茶にミルクを 入れます。	(Pitch: 0); (POS: 動詞); Put in I put milk in my tea.
+[anki:play:q:0]	Put in I put the book in the bag.
+入れる かばんに本を 入れます。	Put in I put the book in the bag.
+[anki:play:q:0]	(Alternate: ミルク-milk); (Pitch: 1); (POS: 名詞); Milk I put milk in coffee.
+ミルク コーヒーにミルクを入れます。	(Alternate: ミルク-milk); (Pitch: 1); (POS: 名詞); Milk I put milk in coffee.
+[anki:play:q:0]	Vending Machine I buy drinks at the vending machine.
+じどうはんばいき じどうはんばいきで飲み物を買います。	Vending Machine I buy drinks at the vending machine.
+ぎゅうにゅう	(Alternate: 牛乳); (Pitch: 0); (POS: 名詞); Milk
+ジュース	(Alternate: ジュース-juice); (Pitch: 1); (POS: 名詞); Juice
+コーヒー	(Alternate: コーヒー-coffee); (Pitch: 3); (POS: 名詞); Coffee
+紅茶	(Pitch: 0); (POS: 名詞); Black Tea
+お茶	Green Tea
+(お)さけ	(Alternate: 酒); (Pitch: 1); (POS: 名詞); Sake (Japanese Rice Wine)
+ビール	(Alternate: ビール-beer); (Pitch: 1); (POS: 名詞); Beer
+ワイン	(Alternate: ワイン-wine); (Pitch: 1); (POS: 名詞); Wine
+カップ	(Alternate: カップ-cup); (Pitch: 1); (POS: 名詞); Coffee Cup
+コップ	(Alternate: コップ-kop); (Pitch: 0); (POS: 名詞); Cup
+[anki:play:q:0]	(Alternate: 料理); (Pitch: 1); (POS: 名詞); Cooking / Cuisine This is Japanese food.
+りょうり これは日本りょうりです。	(Alternate: 料理); (Pitch: 1); (POS: 名詞); Cooking / Cuisine This is Japanese food.
+ごはん	Rice
+サンドイッチ	(Alternate: サンドイッチ-sandwich); (Pitch: 4); (POS: 名詞); Sandwich
+おにぎり	(Alternate: 御握り); (Pitch: 2); (POS: 名詞); Rice Ball
+(お)べんとう	(Alternate: 弁当); (Pitch: 3); (POS: 名詞); Box Lunch
+ラーメン	(Alternate: ラーメン-Rahmen); (Pitch: 1); (POS: 名詞); Ramen
+パスタ	(Alternate: パスタ-pasta); (Pitch: 1); (POS: 名詞); Pasta
+うどん	(Alternate: 饂飩); (Pitch: 0); (POS: 名詞); Udon
+そば	(Alternate: 蕎麦); (Pitch: 1); (POS: 名詞); Soba
+てんぷら	(Alternate: 天ぷら); (Pitch: 0); (POS: 名詞); Tempura
+すきやき	(Alternate: すき焼き); (Pitch: 0); (POS: 名詞); Sukiyaki (Japanese Beef Hot Pot)
+さしみ	(Alternate: 刺し身); (Pitch: 3); (POS: 名詞); Sashimi (Sliced Raw Fish)
+カレーライス	Curry Rice
+牛丼	(Pitch: 0); (POS: 名詞); Beef Rice Bowl
+(お)すし	(Alternate: 寿司); (Pitch: 1,2); (POS: 名詞); Sushi
+ケーキ	(Alternate: ケーキ-cake); (Pitch: 1); (POS: 名詞); Cake
+アイスクリーム	Ice Cream
+[anki:play:q:0]	(Alternate: 取る); (POS: 助動詞); Get Please pass me the sugar.
+とる さとうをとってください。	(Alternate: 取る); (POS: 助動詞); Get Please pass me the sugar.
+さとう	(Alternate: 砂糖); (Pitch: 2); (POS: 名詞); Sugar
+しお	(Alternate: 塩); (Pitch: 2); (POS: 名詞); Salt
+しょうゆ	(Alternate: 醤油); (Pitch: 0); (POS: 名詞); Soy Sauce
+ニョクマム	(Pitch: 1); (POS: 名詞); Nuoc Mam (Vietnamese Fish Sauce)
+ナンプラー	(Alternate: ナンプラー-namplaa); (Pitch: 1); (POS: 名詞); Nam Pla (Thai Fish Sauce)
+[anki:play:q:0]	What A. What did you eat at the restaurant? -- B. I had pasta.
+何 A「レストランで 何を食べましたか。」 -- B「パスタを食べました。」	What A. What did you eat at the restaurant? -- B. I had pasta.
+[anki:play:q:0]	Something A. Did you eat something this morning? -- B. No, I had nothing.
+何か A「あさ、 何か食べましたか。」 -- B「いいえ、何も食べませんでした。」	Something A. Did you eat something this morning? -- B. No, I had nothing.
+[anki:play:q:0]	(Alternate: 食事); (Pitch: 0); (POS: 名詞); Meal I had a meal with my friend at the cafeteria.
+しょくじ(する) しょくどうで友だちとしょくじしました。	(Alternate: 食事); (Pitch: 0); (POS: 名詞); Meal I had a meal with my friend at the cafeteria.
+[anki:play:q:0]	(Alternate: 有名); (Pitch: 0); (POS: 形状詞); Famous Sushi is a famous Japanese dish.
+ゆうめいな すしは日本のゆうめいなりょうりです。	(Alternate: 有名); (Pitch: 0); (POS: 形状詞); Famous Sushi is a famous Japanese dish.
+[anki:play:q:0]	More Notes: 1. Enter inside something Enter 1. I will enter the restaurant.
+入る ① レストランに 入ります。	More Notes: 1. Enter inside something Enter 1. I will enter the restaurant.
+[anki:play:q:0]	More Notes: 2. Enroll in a school Enter 2. I will enroll in a university.
+入る ②大学に 入ります。	More Notes: 2. Enroll in a school Enter 2. I will enroll in a university.
+[anki:play:q:0]	(Alternate: レストラン-restaurant); (Pitch: 1); (POS: 名詞); Restaurant I went to the restaurant with my friend.
+レストラン 友だちとレストランに行きました。	(Alternate: レストラン-restaurant); (Pitch: 1); (POS: 名詞); Restaurant I went to the restaurant with my friend.
+[anki:play:q:0]	Cafeteria The cafeteria is open from 11A.M. to 7P.M.
+しょくどう しょくどうは１１時から７時までです。	Cafeteria The cafeteria is open from 11A.M. to 7P.M.
+[anki:play:q:0]	Set Meal I eat the set meal at the cafeteria.
+ていしょく しょくどうでていしょくを食べます。	Set Meal I eat the set meal at the cafeteria.
+[anki:play:q:0]	(Alternate: 喫茶店); (Pitch: 0,1); (POS: 名詞); Coffee Shop I ate sandwiches at the coffee shop.
+喫茶店 喫茶店でサンドイッチを食べました。	(Alternate: 喫茶店); (Pitch: 0,1); (POS: 名詞); Coffee Shop I ate sandwiches at the coffee shop.
+[anki:play:q:0]	With I eat curry rice with a spoon.
+～で スプーンでカレーライスを食べます。	With I eat curry rice with a spoon.
+(お)はし	(Alternate: 箸); (Pitch: 1); (POS: 名詞); Chopsticks
+スプーン	(Alternate: スプーン-spoon); (Pitch: 2); (POS: 名詞); Spoon
+フォーク	(Alternate: フォーク-fork); (Pitch: 1); (POS: 名詞); Fork
+ナイフ	(Alternate: ナイフ-knife); (Pitch: 1); (POS: 名詞); Knife
+(お)さら	(Alternate: 皿); (Pitch: 0); (POS: 名詞); Plate
+(お)ちゃわん	(Alternate: 茶碗); (Pitch: 0); (POS: 名詞); Bowl
+いらっしゃいませ。	Welcome
+[anki:play:q:0]	What would you like to order? A. What would you like to order? -- B. One sandwich please.
+ごちゅうもんは？ A 「ごちゅうもんは？」 -- B「サンドイッチをおねがいします。」	What would you like to order? A. What would you like to order? -- B. One sandwich please.
+[anki:play:q:0]	Please A. This one, please. -- B. Okay.
+これでおねがいします A 「これでおねがいします。」 -- B「はい。」	Please A. This one, please. -- B. Okay.
+[anki:play:q:0]	(Alternate: 他); (Pitch: 0); (POS: 名詞); Anything Else A. Would you like anything else? -- B. Coffee, please.
+ほかに A「ほかにごちゅうもんは？」 -- B「コーヒーをおねがいします。」	(Alternate: 他); (Pitch: 0); (POS: 名詞); Anything Else A. Would you like anything else? -- B. Coffee, please.
+[anki:play:q:0]	(Alternate: 別々); (Pitch: 0); (POS: 形状詞); Separately Separately, please.
+べつべつに べつべつにおねがいします。	(Alternate: 別々); (Pitch: 0); (POS: 形状詞); Separately Separately, please.
+[anki:play:q:0]	How A. How do you find Japanese food? -- B. It's good.
+どう A「日本の食べ物はどうですか。」 -- B「おいしいです。」	How A. How do you find Japanese food? -- B. It's good.
+[anki:play:q:0]	(Alternate: 甘い); (Pitch: 0); (POS: 形容詞); Sweet This cake is sweet, isn't it?
+あまい このケーキはあまいですね。	(Alternate: 甘い); (Pitch: 0); (POS: 形容詞); Sweet This cake is sweet, isn't it?
+[anki:play:q:0]	(Alternate: 辛い); (Pitch: 2); (POS: 形容詞); Hot / Spicy I eat hot/spicy food often.
+からい からいりょうりをよく食べます。	(Alternate: 辛い); (Pitch: 2); (POS: 形容詞); Hot / Spicy I eat hot/spicy food often.
+[anki:play:q:0]	(Alternate: 美味しい); (Pitch: 0,3); (POS: 形容詞); Tasty The fruit is tasty.
+おいしい くだものはおいしいです。	(Alternate: 美味しい); (Pitch: 0,3); (POS: 形容詞); Tasty The fruit is tasty.
+[anki:play:q:0]	(Alternate: 全部); (Pitch: 1); (POS: 名詞); All I ate all that was in the box lunch.
+ぜんぶ (お)べんとうをぜんぶ食べました。	(Alternate: 全部); (Pitch: 1); (POS: 名詞); All I ate all that was in the box lunch.
+[anki:play:q:0]	(Alternate: 自分); (Pitch: 0); (POS: 名詞); By oneself A. This food is good. Did you cook it yourself? -- B. Yes.
+じぶんで A 「おいしいりょうりですね。ぜんぶじぶんでつくりましたか。」 -- B 「はい。」	(Alternate: 自分); (Pitch: 0); (POS: 名詞); By oneself A. This food is good. Did you cook it yourself? -- B. Yes.
+[anki:play:q:0]	Become Hungry I'm becoming hungry. Shall we eat something?
+おなかがすく おなかがすきましたね。何か食べませんか。	Become Hungry I'm becoming hungry. Shall we eat something?
+[anki:play:q:0]	Become Thirsty I'm getting thirsty. Shall we drink something?
+のどがかわく のどがかわきましたね。何か飲みませんか。	Become Thirsty I'm getting thirsty. Shall we drink something?
+[anki:play:q:0]	Full I am full.
+いっぱいな おなかがいっぱいです。	Full I am full.
+[anki:play:q:0]	Would You Like Would you like some wine?
+いかがですか ワインはいかがですか。	Would You Like Would you like some wine?
+[anki:play:q:0]	One More Serving A. How about another serving?
+もういっぱい A「もういっぱいいかがですか。」	One More Serving A. How about another serving?
+[anki:play:q:0]	(Alternate: 結構); (Pitch: 1); (POS: 形状詞); No Thank You B. No, thank you.
+けっこうです B「いいえ、けっこうです。」	(Alternate: 結構); (Pitch: 1); (POS: 形状詞); No Thank You B. No, thank you.
+[anki:play:q:0]	Cheers! Cheers!
+かんぱい！ かんぱい！	Cheers! Cheers!
+いただきます。	Let's Eat!
+ごちそうさまでした。	I'm full! The food was great!
+[anki:play:q:0]	(Alternate: 趣味); (Pitch: 1); (POS: 名詞); Hobby My hobby is karaoke.
+しゅみ しゅみはカラオケです。	(Alternate: 趣味); (Pitch: 1); (POS: 名詞); Hobby My hobby is karaoke.
+[anki:play:q:0]	Day I read books on holidays.
+日 休みの 日に本を読みます。	Day I read books on holidays.
+[anki:play:q:0]	(Alternate: 楽しい); (Pitch: 3); (POS: 形容詞); Fun Tennis is fun.
+たのしい テニスはたのしいです。	(Alternate: 楽しい); (Pitch: 3); (POS: 形容詞); Fun Tennis is fun.
+[anki:play:q:0]	(Alternate: 好き); (Pitch: 2); (POS: 形状詞); Like I like sports.
+好きな スポーツが 好きです。	(Alternate: 好き); (Pitch: 2); (POS: 形状詞); Like I like sports.
+[anki:play:q:0]	(Alternate: 嫌い); (Pitch: 0); (POS: 名詞); Dislike / Hate I don't like manga.
+きらいな まんががきらいです。	(Alternate: 嫌い); (Pitch: 0); (POS: 名詞); Dislike / Hate I don't like manga.
+[anki:play:q:0]	(Alternate: 余り); (Pitch: 0); (POS: 副詞); Not Really I don't really like sports.
+あまり スポーツはあまり好きじゃありません。	(Alternate: 余り); (Pitch: 0); (POS: 副詞); Not Really I don't really like sports.
+[anki:play:q:0]	Which A. Which do you like, soccer or baseball? -- B. I like soccer more.
+どちら A 「サッカーとやきゅうとどちらが好きですか。」 -- B 「サッカーのほうが好きです。」	Which A. Which do you like, soccer or baseball? -- B. I like soccer more.
+[anki:play:q:0]	Both I like both.
+どちらも どちらも好きです。	Both I like both.
+[anki:play:q:0]	(Alternate: 何方); (Pitch: 1); (POS: 代名詞); Which A. Which do you like, soccer or baseball? -- B. I like soccer more.
+どっち A 「サッカーとやきゅうとどっちが好き？」 -- B 「サッカーのほうが好き	(Alternate: 何方); (Pitch: 1); (POS: 代名詞); Which A. Which do you like, soccer or baseball? -- B. I like soccer more.
+[anki:play:q:0]	(Alternate: 上手); (Pitch: 3); (POS: 形状詞); Good Smith-san is good at drawing.
+じょうずな スミスさんはえがじょうずです。	(Alternate: 上手); (Pitch: 3); (POS: 形状詞); Good Smith-san is good at drawing.
+[anki:play:q:0]	(Alternate: 下手); (Pitch: 2); (POS: 名詞); Poor, Bad At I sing poorly.
+へたな わたしはうたがへたです。	(Alternate: 下手); (Pitch: 2); (POS: 名詞); Poor, Bad At I sing poorly.
+[anki:play:q:0]	(Alternate: 未だ未だ); (Pitch: 1); (POS: 副詞); Not Nearly Enough A. You speak good Japanese. -- B. No, it's not nearly good enough.
+まだまだです A 「日本語がじょうずですね。」 -- B 「いいえ、まだまだです。」	(Alternate: 未だ未だ); (Pitch: 1); (POS: 副詞); Not Nearly Enough A. You speak good Japanese. -- B. No, it's not nearly good enough.
+[anki:play:q:0]	Learn (From Someone) I learned ikebana.
+ならう いけばなをならいました。	Learn (From Someone) I learned ikebana.
+いけばな	(Alternate: 生け花); (Pitch: 2); (POS: 名詞); ikebana (flower arrangement)
+さどう	Tea Ceremony
+[anki:play:q:0]	Simple I paint a simple painting.
+かんたんな かんたんなえをかきます。	Simple I paint a simple painting.
+[anki:play:q:0]	Easy A. Is the tea ceremony easy? -- B. No, it's difficult.
+やさしい A 「さどうはやさしいですか。」 -- B 「いいえ。むずかしいです。」	Easy A. Is the tea ceremony easy? -- B. No, it's difficult.
+[anki:play:q:0]	(Alternate: 難しい); (Pitch: 0,4); (POS: 形容詞); Difficult Tea ceremony is difficult.
+むずかしい さどうはむずかしいです。	(Alternate: 難しい); (Pitch: 0,4); (POS: 形容詞); Difficult Tea ceremony is difficult.
+[anki:play:q:0]	(Alternate: 写真); (Pitch: 0); (POS: 名詞); Photograph This is a photograph of my family.
+しゃしん これはかぞくのしゃしんです。	(Alternate: 写真); (Pitch: 0); (POS: 名詞); Photograph This is a photograph of my family.
+[anki:play:q:0]	Take I wil take a photo using my smartphone.
+とる スマホでしゃしんをとります。	Take I wil take a photo using my smartphone.
+[anki:play:q:0]	(Alternate: カメラ-camera); (Pitch: 1); (POS: 名詞); Camera This is my father's camera.
+カメラ これは父のカメラです。	(Alternate: カメラ-camera); (Pitch: 1); (POS: 名詞); Camera This is my father's camera.
+[anki:play:q:0]	Picture / Drawing It's a beautiful drawing.
+え すてきなえですね。	Picture / Drawing It's a beautiful drawing.
+[anki:play:q:0]	(Alternate: 描く); (Pitch: 1); (POS: 副詞); Draw I drew a panda.
+かく パンダのえをかきました。	(Alternate: 描く); (Pitch: 1); (POS: 副詞); Draw I drew a panda.
+[anki:play:q:0]	Museum I look at drawings at the museum.
+びじゅつかん びじゅつかんでえを見ます。	Museum I look at drawings at the museum.
+[anki:play:q:0]	(Alternate: 音楽); (Pitch: 1,0); (POS: 名詞); Music I like Japanese music.
+おんがく 日本のおんがくが好きです。	(Alternate: 音楽); (Pitch: 1,0); (POS: 名詞); Music I like Japanese music.
+[anki:play:q:0]	(Pitch: 0); (POS: 名詞); Karaoke I like karaoke.
+カラオケ カラオケが好きです。	(Pitch: 0); (POS: 名詞); Karaoke I like karaoke.
+[anki:play:q:0]	(Alternate: 一緒); (Pitch: 0); (POS: 名詞); Together Why don't we go to karaoke together?
+いっしょに いっしょにカラオケに行きませんか。	(Alternate: 一緒); (Pitch: 0); (POS: 名詞); Together Why don't we go to karaoke together?
+[anki:play:q:0]	With Everyone I went to karaoke with everyone in the class.
+みんなで クラスのみんなでカラオケに行きました。	With Everyone I went to karaoke with everyone in the class.
+[anki:play:q:0]	(Alternate: 歌); (Pitch: 2); (POS: 名詞); Song Yamada-san sings well.
+うた 山田さんはうたがじょうずです。	(Alternate: 歌); (Pitch: 2); (POS: 名詞); Song Yamada-san sings well.
+[anki:play:q:0]	(Alternate: 歌う); (Pitch: 0); (POS: 動詞); Sing We all sing a Japanese song.
+うたう みんなで日本のうたをうたいます。	(Alternate: 歌う); (Pitch: 0); (POS: 動詞); Sing We all sing a Japanese song.
+[anki:play:q:0]	(Alternate: コンサート-concert); (Pitch: 1,3); (POS: 名詞); Concert I went to the concert.
+コンサート コンサートに行きました。	(Alternate: コンサート-concert); (Pitch: 1,3); (POS: 名詞); Concert I went to the concert.
+[anki:play:q:0]	(Alternate: クラシック-classic); (Pitch: 2,3); (POS: 名詞); Classic A. Which do you like classical music or jazz? -- B. I like both.
+クラシック A 「クラシックとジャズとどちらが好きですか。」 -- B 「どちらも好きです。」	(Alternate: クラシック-classic); (Pitch: 2,3); (POS: 名詞); Classic A. Which do you like classical music or jazz? -- B. I like both.
+[anki:play:q:0]	(Alternate: ジャズ-jazz); (Pitch: 1); (POS: 名詞); Jazz I listen to Jazz CDs often.
+ジャズ ジャズのCDをよく聞きます。	(Alternate: ジャズ-jazz); (Pitch: 1); (POS: 名詞); Jazz I listen to Jazz CDs often.
+[anki:play:q:0]	(Alternate: ポップ-pop); (Pitch: 1); (POS: 名詞); Pop I like popular music.
+ポップス ポップスが好きです。	(Alternate: ポップ-pop); (Pitch: 1); (POS: 名詞); Pop I like popular music.
+[anki:play:q:0]	(Alternate: ロック-rock（音楽）); (Pitch: 1); (POS: 名詞); Rock I don't listen to rock very much.
+ロック ロックはあまり聞きません。	(Alternate: ロック-rock（音楽）); (Pitch: 1); (POS: 名詞); Rock I don't listen to rock very much.
+[anki:play:q:0]	(Alternate: ピアノ-piano); (Pitch: 0); (POS: 名詞); Piano I play the piano.
+ピアノ ピアノをひきます。	(Alternate: ピアノ-piano); (Pitch: 0); (POS: 名詞); Piano I play the piano.
+[anki:play:q:0]	(Alternate: ギター-guitar); (Pitch: 1,0); (POS: 名詞); Guitar This is my elder brother's guitar.
+ギター これはあにのギターです。	(Alternate: ギター-guitar); (Pitch: 1,0); (POS: 名詞); Guitar This is my elder brother's guitar.
+[anki:play:q:0]	(Alternate: 弾く); (Pitch: 0); (POS: 記号); Play (Instrument) A. Can I play the piano? -- B. Yes, please.
+ひく A 「ピアノをひいてもいいですか。」 -- B 「はい、どうぞ。」	(Alternate: 弾く); (Pitch: 0); (POS: 記号); Play (Instrument) A. Can I play the piano? -- B. Yes, please.
+[anki:play:q:0]	(Alternate: 映画); (Pitch: 0,1); (POS: 名詞); Movie I saw a French movie.
+えいが フランスのえいがを見ました。	(Alternate: 映画); (Pitch: 0,1); (POS: 名詞); Movie I saw a French movie.
+[anki:play:q:0]	Movie Theater I will watch a movie at the movie theater.
+えいがかん えいがかんでえいがを見ます。	Movie Theater I will watch a movie at the movie theater.
+[anki:play:q:0]	(Alternate: 始まる); (Pitch: 0); (POS: 動詞); Start The movie starts at 10 o'clock.
+はじまる えいがは１０時にはじまります。	(Alternate: 始まる); (Pitch: 0); (POS: 動詞); Start The movie starts at 10 o'clock.
+[anki:play:q:0]	(Alternate: 終わる); (Pitch: 0); (POS: 動詞); End The concert ends at 7 o'clock.
+おわる コンサートは７時におわります。	(Alternate: 終わる); (Pitch: 0); (POS: 動詞); End The concert ends at 7 o'clock.
+[anki:play:q:0]	(Alternate: 漫画); (Pitch: 0); (POS: 名詞); Comic I don't like manga comics very much.
+まんが まんがはあまり好きじゃありません。	(Alternate: 漫画); (Pitch: 0); (POS: 名詞); Comic I don't like manga comics very much.
+[anki:play:q:0]	(Alternate: アニメ-animation); (Pitch: 1,0); (POS: 名詞); Animation I like Japanese animation.
+アニメ 日本のアニメが好きです。	(Alternate: アニメ-animation); (Pitch: 1,0); (POS: 名詞); Animation I like Japanese animation.
+[anki:play:q:0]	(Alternate: ゲーム-game); (Pitch: 1); (POS: 名詞); Game, Match Japanese games are fun.
+ゲーム 日本のゲームはおもしろいです。	(Alternate: ゲーム-game); (Pitch: 1); (POS: 名詞); Game, Match Japanese games are fun.
+[anki:play:q:0]	(Alternate: ソフト-soft); (Pitch: 1); (POS: 名詞); Software I bought a video game.
+ソフト ゲームのソフトを買いました。	(Alternate: ソフト-soft); (Pitch: 1); (POS: 名詞); Software I bought a video game.
+[anki:play:q:0]	(Alternate: 面白い); (Pitch: 4); (POS: 形容詞); Interesting Yesterday, I saw an interesting anime.
+おもしろい きのう、おもしろいアニメを見ました。	(Alternate: 面白い); (Pitch: 4); (POS: 形容詞); Interesting Yesterday, I saw an interesting anime.
+[anki:play:q:0]	(Alternate: ジョギング-jogging); (Pitch: 0); (POS: 名詞); Jogging I go jogging every day.
+ジョギング まいにち、ジョギングをしています。	(Alternate: ジョギング-jogging); (Pitch: 0); (POS: 名詞); Jogging I go jogging every day.
+[anki:play:q:0]	(Alternate: スキー-ski); (Pitch: 2,1); (POS: 名詞); Skiing I go skiing in Hokkaido.
+スキー 北海道でスキーをします。	(Alternate: スキー-ski); (Pitch: 2,1); (POS: 名詞); Skiing I go skiing in Hokkaido.
+[anki:play:q:0]	(Alternate: ダンス-dance); (Pitch: 1); (POS: 名詞); Dance Maria-san dances well.
+ダンス マリアさんはダンスがじょうずです。	(Alternate: ダンス-dance); (Pitch: 1); (POS: 名詞); Dance Maria-san dances well.
+[anki:play:q:0]	(Alternate: 泳ぐ); (Pitch: 2); (POS: 動詞); Swim I swam in the ocean of Okinawa.
+およぐ 沖縄のうみでおよぎました。	(Alternate: 泳ぐ); (Pitch: 2); (POS: 動詞); Swim I swam in the ocean of Okinawa.
+[anki:play:q:0]	(Alternate: 海); (Pitch: 1); (POS: 名詞); Ocean, Sea I like the mountains more than the ocean.
+うみ うみより山のほうが好きです	(Alternate: 海); (Pitch: 1); (POS: 名詞); Ocean, Sea I like the mountains more than the ocean.
+[anki:play:q:0]	(Alternate: プール-pool); (Pitch: 1); (POS: 名詞); Pool Yesterday I swam in the pool.
+プール きのう、プールでおよぎました。	(Alternate: プール-pool); (Pitch: 1); (POS: 名詞); Pool Yesterday I swam in the pool.
+[anki:play:q:0]	(Pitch: 2); (POS: 名詞); River Please do not swim in this river.
+川 この 川でおよがないでください。	(Pitch: 2); (POS: 名詞); River Please do not swim in this river.
+[anki:play:q:0]	(Alternate: 釣り); (Pitch: 0); (POS: 名詞); Fishing I fish in the river.
+つり 川でつりをします。	(Alternate: 釣り); (Pitch: 0); (POS: 名詞); Fishing I fish in the river.
+[anki:play:q:0]	(Alternate: 登る); (Pitch: 0); (POS: 名詞); Climb I will climb Mt. Fuji in July.
+のぼる ７月に富士山にのぼります。	(Alternate: 登る); (Pitch: 0); (POS: 名詞); Climb I will climb Mt. Fuji in July.
+[anki:play:q:0]	Mountain Mt. Fuji is a beautiful mountain.
+山 富士山はきれいな 山です。	Mountain Mt. Fuji is a beautiful mountain.
+[anki:play:q:0]	(Alternate: 試合); (Pitch: 0); (POS: 名詞); Game There is a soccer game.
+しあい サッカーのしあいがあります。	(Alternate: 試合); (Pitch: 0); (POS: 名詞); Game There is a soccer game.
+[anki:play:q:0]	(Alternate: 勝つ); (Pitch: 1); (POS: 接続詞); Win Brazil won.
+かつ ブラジルがかちました。	(Alternate: 勝つ); (Pitch: 1); (POS: 接続詞); Win Brazil won.
+[anki:play:q:0]	Lose Yamada-san lost to Huang-san.
+まける 山田さんはホアンさんにまけました。	Lose Yamada-san lost to Huang-san.
+[anki:play:q:0]	(Pitch: 1); (POS: 感動詞); Hmm... Let's see... A. Which side do you think will win? -- B. Hmm... I don't know.
+さあ..... A ： どちらがかつでしょうか。 -- B ： さあ.....わかりません。	(Pitch: 1); (POS: 感動詞); Hmm... Let's see... A. Which side do you think will win? -- B. Hmm... I don't know.
+つよい	(Alternate: 強い); (Pitch: 2); (POS: 形容詞); Strong
+よわい	(Alternate: 弱い); (Pitch: 2); (POS: 形容詞); Weak
+サッカー	(Alternate: サッカー-soccer); (Pitch: 1); (POS: 名詞); Soccer
+やきゅう	(Alternate: 野球); (Pitch: 0); (POS: 名詞); Baseball
+すもう	(Alternate: 相撲); (Pitch: 0); (POS: 名詞); Sumo Wrestling
+じゅうどう	Judo
+テニス	(Alternate: テニス-tennis); (Pitch: 1); (POS: 名詞); Tennis
+ゴルフ	(Alternate: ゴルフ-golf); (Pitch: 1); (POS: 名詞); Golf
+[anki:play:q:0]	(Alternate: 天気); (Pitch: 1); (POS: 名詞); Weather How's the weather today?
+てんき きょうのてんきはどうですか。	(Alternate: 天気); (Pitch: 1); (POS: 名詞); Weather How's the weather today?
+[anki:play:q:0]	More Notes: 1. Good weather Good 1. The weather's good.
+いい ①てんきがいいです。	More Notes: 1. Good weather Good 1. The weather's good.
+[anki:play:q:0]	More Notes: 2. Good Good 2. He/She is a good person.
+いい ②あの人はいい人です。	More Notes: 2. Good Good 2. He/She is a good person.
+[anki:play:q:0]	(Alternate: 悪い); (Pitch: 2); (POS: 形容詞); More Notes: 1. Bad weather Bad 1. The weather is bad.
+わるい ①てんきがわるいです。	(Alternate: 悪い); (Pitch: 2); (POS: 形容詞); More Notes: 1. Bad weather Bad 1. The weather is bad.
+[anki:play:q:0]	More Notes: 2. Bad Bad 2. He/She is a bad person.
+わるい ②あの人はわるい人です。	More Notes: 2. Bad Bad 2. He/She is a bad person.
+[anki:play:q:0]	The weather is nice A. Good morning. The weather is nice, isn't it? -- B. Yes, it sure is.
+いい(お)てんきですね A 「おはようございます。いいおてんきですね。」 -- B 「そうですね。」	The weather is nice A. Good morning. The weather is nice, isn't it? -- B. Yes, it sure is.
+[anki:play:q:0]	(Pitch: 1); (POS: 名詞); Rain It is raining today.
+雨 きょうは 雨です。	(Pitch: 1); (POS: 名詞); Rain It is raining today.
+[anki:play:q:0]	(Pitch: 1); (POS: 名詞); Snow It snowed yesterday.
+ゆき きのうはゆきでした。	(Pitch: 1); (POS: 名詞); Snow It snowed yesterday.
+[anki:play:q:0]	(Alternate: 降る); (Pitch: 0); (POS: 動詞); Fall Today, it will rain.
+ふる きょう、雨がふります。	(Alternate: 降る); (Pitch: 0); (POS: 動詞); Fall Today, it will rain.
+あつい	(Alternate: アツイ); (Pitch: 2); (POS: 記号); Hot
+すずしい	(Alternate: 涼しい); (Pitch: 3); (POS: 形容詞); Cool
+さむい	(Alternate: 寒い); (Pitch: 2); (POS: 形容詞); Cold
+あたたかい	(Alternate: 温かい); (Pitch: 4); (POS: 形容詞); Warm
+[anki:play:q:0]	(Pitch: 1,2); (POS: 形容詞); A lot It rains a lot in June.
+多い ６月は雨が 多いです。	(Pitch: 1,2); (POS: 形容詞); A lot It rains a lot in June.
+[anki:play:q:0]	(Pitch: 3); (POS: 形容詞); Little / Fewer in Quantity There is little rain in January.
+少ない １月は雨が 少ないです。	(Pitch: 3); (POS: 形容詞); Little / Fewer in Quantity There is little rain in January.
+[anki:play:q:0]	Think I think it will be hot tomorrow.
+おもう あしたはあついとおもいます。	Think I think it will be hot tomorrow.
+[anki:play:q:0]	(Alternate: 多分); (Pitch: 1); (POS: 副詞); Maybe I think it might rain tomorrow.
+たぶん あしたはたぶん雨だとおもいます。	(Alternate: 多分); (Pitch: 1); (POS: 副詞); Maybe I think it might rain tomorrow.
+[anki:play:q:0]	(Alternate: 急度); (Pitch: 1); (POS: 副詞); Probably (Most Likely) It will probably snow.
+きっと きっとゆきがふるでしょう。	(Alternate: 急度); (Pitch: 1); (POS: 副詞); Probably (Most Likely) It will probably snow.
+[anki:play:q:0]	Umbrella My umbrella is missing.
+かさ わたしのかさがありません。	Umbrella My umbrella is missing.
+[anki:play:q:0]	Bring I brought an umbrella to school.
+もってくる 学校へかさをもってきました。	Bring I brought an umbrella to school.
+[anki:play:q:0]	Take I took an umbrella to work today.
+もっていく 会社へかさをもっていきます。	Take I took an umbrella to work today.
+[anki:play:q:0]	Program I watch the weather forecast program every day.
+ばんぐみ まいにち、てんきのばんぐみを見ます。	Program I watch the weather forecast program every day.
+[anki:play:q:0]	(Alternate: 何時); (Pitch: 1); (POS: 代名詞); When A. When are you returning to your country? -- B. I will return next year.
+いつ A 「いつ、くにへ帰りますか。」 -- B 「らいねん、帰ります。」	(Alternate: 何時); (Pitch: 1); (POS: 代名詞); When A. When are you returning to your country? -- B. I will return next year.
+[anki:play:q:0]	(Alternate: 去年); (Pitch: 1); (POS: 名詞); Last Year I came to Japan last year.
+きょねん きょねん、日本へ来ました。	(Alternate: 去年); (Pitch: 1); (POS: 名詞); Last Year I came to Japan last year.
+[anki:play:q:0]	(Alternate: 今年); (Pitch: 0); (POS: 名詞); This Year I wil study in Britain this year.
+ことし ことし、イギリスへりゅうがくします。	(Alternate: 今年); (Pitch: 0); (POS: 名詞); This Year I wil study in Britain this year.
+[anki:play:q:0]	Next Year I will return to my country next year.
+らいねん らいねん、くにへ帰ります。	Next Year I will return to my country next year.
+[anki:play:q:0]	(Alternate: 季節); (Pitch: 1,2); (POS: 名詞); Season There are four seasons in Japan.
+きせつ 日本のきせつは四つあります。	(Alternate: 季節); (Pitch: 1,2); (POS: 名詞); Season There are four seasons in Japan.
+[anki:play:q:0]	(Pitch: 0,2); (POS: 副詞); Best, Top I like summer the best.
+一番 なつが 一番好きです。	(Pitch: 0,2); (POS: 副詞); Best, Top I like summer the best.
+[anki:play:q:0]	(Alternate: 成る); (Pitch: 1); (POS: 動詞); More Notes: 1. To reach a particualar time or season Become 1. It's winter now. It's getting cold.
+なる ①ふゆになりました。さむくなりました。	(Alternate: 成る); (Pitch: 1); (POS: 動詞); More Notes: 1. To reach a particualar time or season Become 1. It's winter now. It's getting cold.
+[anki:play:q:0]	More Notes: 2. To engage in a particular position or occupation Become 2. I want to become a company president someday.
+なる ② いつかしゃちょうになりたいです。	More Notes: 2. To engage in a particular position or occupation Become 2. I want to become a company president someday.
+はる	(Alternate: 春); (Pitch: 1); (POS: 名詞); Spring
+なつ	(Alternate: 夏); (Pitch: 1); (POS: 名詞); Summer
+あき	(Alternate: 秋); (Pitch: 1); (POS: 名詞); Autumn, Fall
+ふゆ	(Alternate: 冬); (Pitch: 2); (POS: 名詞); Winter
+[anki:play:q:0]	(Pitch: 2); (POS: 名詞); Flower My mother likes flowers.
+花 母は 花が好きです。	(Pitch: 2); (POS: 名詞); Flower My mother likes flowers.
+[anki:play:q:0]	(Pitch: 2); (POS: 名詞); Moon The moon is beautiful.
+月 月がきれいです。	(Pitch: 2); (POS: 名詞); Moon The moon is beautiful.
+[anki:play:q:0]	(Pitch: 3); (POS: 名詞); Flower Viewing The Japanese love flower viewing.
+(お)花見 日本人は 花見が好きです。	(Pitch: 3); (POS: 名詞); Flower Viewing The Japanese love flower viewing.
+[anki:play:q:0]	(Alternate: 桜); (Pitch: 0); (POS: 名詞); Cherry Blossom The cherry blossom is a beautiful flower.
+さくら さくらはきれいな花です。	(Alternate: 桜); (Pitch: 0); (POS: 名詞); Cherry Blossom The cherry blossom is a beautiful flower.
+[anki:play:q:0]	(Pitch: 1); (POS: 名詞); Fireworks I saw fireworks in the summer.
+花火 なつに 花火を見ました。	(Pitch: 1); (POS: 名詞); Fireworks I saw fireworks in the summer.
+[anki:play:q:0]	(Alternate: 紅葉); (Pitch: 1); (POS: 名詞); More Notes: 紅葉 Japanese Maple I saw the maple leaves in the mountains.
+もみじ 山でもみじを見ました。	(Alternate: 紅葉); (Pitch: 1); (POS: 名詞); More Notes: 紅葉 Japanese Maple I saw the maple leaves in the mountains.
+[anki:play:q:0]	(Alternate: 初めて); (Pitch: 2); (POS: 副詞); First Time I saw the cherry blossoms for the first time.
+はじめて はじめてさくらを見ました。	(Alternate: 初めて); (Pitch: 2); (POS: 副詞); First Time I saw the cherry blossoms for the first time.
+[anki:play:q:0]	Once I went to flower viewing once before.
+いちど いちど、花見をしたことがあります。	Once I went to flower viewing once before.
+[anki:play:q:0]	Many Times I went to Hokkaido many times.
+何かいも 何かいも北海道へ行きました。	Many Times I went to Hokkaido many times.
+[anki:play:q:0]	Never I have never been to Kyoto.
+いちども いちども京都へ行ったことがありません。	Never I have never been to Kyoto.
+[anki:play:q:0]	(Alternate: 公園); (Pitch: 0); (POS: 名詞); Park I will go flower viewing in the park.
+こうえん こうえんで花見をします。	(Alternate: 公園); (Pitch: 0); (POS: 名詞); Park I will go flower viewing in the park.
+[anki:play:q:0]	(Alternate: 散歩); (Pitch: 0); (POS: 名詞); Walk I will take a walk in the park with my dog.
+さんぽ(する) 犬とこうえんをさんぽします。	(Alternate: 散歩); (Pitch: 0); (POS: 名詞); Walk I will take a walk in the park with my dog.
+[anki:play:q:0]	(Alternate: 迚も); (Pitch: 0); (POS: 副詞); Very A. The cherry blossoms are very beautiful.
+とても A「さくらがとてもきれいですね。」	(Alternate: 迚も); (Pitch: 0); (POS: 副詞); Very A. The cherry blossoms are very beautiful.
+[anki:play:q:0]	(Alternate: 本当); (Pitch: 0); (POS: 名詞); Honestly, Really Yes, they really are.
+本当に B 「 本当にそうですね。」	(Alternate: 本当); (Pitch: 0); (POS: 名詞); Honestly, Really Yes, they really are.
+[anki:play:q:0]	(Alternate: 是非); (Pitch: 1); (POS: 副詞); Definitely Please definitely come to my house.
+ぜひ ぜひわたしのうちに来てください。	(Alternate: 是非); (Pitch: 1); (POS: 副詞); Definitely Please definitely come to my house.
+[anki:play:q:0]	(Alternate: 勿論); (Pitch: 2); (POS: 副詞); Of Course A. Will you go flower viewing on Saturday? -- B. Yes, of course.
+もちろん A 「土よう日のお花見に行きますか。」 -- B 「はい、もちろんです。」	(Alternate: 勿論); (Pitch: 2); (POS: 副詞); Of Course A. Will you go flower viewing on Saturday? -- B. Yes, of course.
+[anki:play:q:0]	(Pitch: 0); (POS: 名詞); Shopping I will go shopping at the supermarket.
+買い物 スーパーで 買い物をします。	(Pitch: 0); (POS: 名詞); Shopping I will go shopping at the supermarket.
+[anki:play:q:0]	Give Me Please give me this.
+～をください これをください。	Give Me Please give me this.
+[anki:play:q:0]	And I bought milk and bread.
+と ぎゅうにゅうとパンを買いました。	And I bought milk and bread.
+[anki:play:q:0]	(Pitch: 1); (POS: 形状詞); And I will buy juice and ice cream.
+～や～（など） ジュースやアイスクリームを買います。	(Pitch: 1); (POS: 形状詞); And I will buy juice and ice cream.
+[anki:play:q:0]	(Alternate: 幾ら); (Pitch: 1,0); (POS: 副詞); How Much A. How much is this computer?
+いくら A 「このパソコンはいくらですか。」	(Alternate: 幾ら); (Pitch: 1,0); (POS: 副詞); How Much A. How much is this computer?
+[anki:play:q:0]	(Pitch: 1); (POS: 名詞); Yen It's 90,000 yen.
+円 B「９万 円です。」	(Pitch: 1); (POS: 名詞); Yen It's 90,000 yen.
+[anki:play:q:0]	Expensive This camera is expensive.
+高い このカメラは 高いですね。	Expensive This camera is expensive.
+[anki:play:q:0]	(Pitch: 2); (POS: 形容詞); Cheap I want a cheap camera.
+安い 安いカメラが買いたいです。	(Pitch: 2); (POS: 形容詞); Cheap I want a cheap camera.
+百	(Pitch: 2); (POS: 名詞); Hundred
+千	(Alternate: 千); (Pitch: 1); (POS: 名詞); Thousand
+万	(Pitch: 1); (POS: 名詞); Ten Thousand
+おく	(Alternate: 億); (Pitch: 0); (POS: 動詞); Hundred Million
+一円	One Yen
+十円	Ten Yen
+百円	One Hundred Yen
+千円	One Thousand Yen
+一万円	Ten Thousand Yen
+一 おく円	One Hundred Million Yen
+[anki:play:q:0]	(Alternate: 一寸); (Pitch: 1,0,3); (POS: 副詞); Little A. This is a little expensive.
+ちょっと A 「これはちょっと高いですね。」	(Alternate: 一寸); (Pitch: 1,0,3); (POS: 副詞); Little A. This is a little expensive.
+[anki:play:q:0]	Then B. Then how about this one? It's 60,000 yen.
+では B 「では、こちらはいかがですか。６万円です。」	Then B. Then how about this one? It's 60,000 yen.
+[anki:play:q:0]	Well, Okay Okay, then I'll have that one.
+じゃ A 「じゃ、それをください。」	Well, Okay Okay, then I'll have that one.
+[anki:play:q:0]	(Alternate: 金); (Pitch: 1); (POS: 名詞); Money The Japanese currency is yen.
+(お)金 日本のお金は円です。	(Alternate: 金); (Pitch: 1); (POS: 名詞); Money The Japanese currency is yen.
+[anki:play:q:0]	(Alternate: 払う); (Pitch: 2); (POS: 動詞); Pay I pay the money.
+はらう お金をはらいます。	(Alternate: 払う); (Pitch: 2); (POS: 動詞); Pay I pay the money.
+[anki:play:q:0]	Change The change is 850 yen.
+おつり おつりは８５０円です。	Change The change is 850 yen.
+[anki:play:q:0]	(Alternate: 細かい); (Pitch: 3); (POS: 形容詞); More Notes: 細かいお金 Pocket Change I don't have any pocket change.
+こまかいお金 こまかいお金がありません。	(Alternate: 細かい); (Pitch: 3); (POS: 形容詞); More Notes: 細かいお金 Pocket Change I don't have any pocket change.
+[anki:play:q:0]	(Alternate: 足りる); (Pitch: 0); (POS: 動詞); Enough I don't have enough money.
+たりる お金がたりません。	(Alternate: 足りる); (Pitch: 0); (POS: 動詞); Enough I don't have enough money.
+[anki:play:q:0]	(Alternate: 生活); (Pitch: 0); (POS: 名詞); Life Living in Tokyo is fun.
+せいかつ 東京のせいかつはたのしいです。	(Alternate: 生活); (Pitch: 0); (POS: 名詞); Life Living in Tokyo is fun.
+[anki:play:q:0]	Cost of Living The cost of living in Tokyo is high.
+ぶっか 東京はぶっかが高いです。	Cost of Living The cost of living in Tokyo is high.
+[anki:play:q:0]	How Many A. How many apples did you buy? -- B. I bought five.
+いくつ A 「りんごをいくつ買いましたか。」 -- B 「五つ買いました。」	How Many A. How many apples did you buy? -- B. I bought five.
+[anki:play:q:0]	In Total A. Please give me 5 apples. -- B. Here you go. It's 500 yen in all.
+ぜんぶで A 「りんごを五つください。」 -- B 「はい。ぜんぶで５００円 です。」	In Total A. Please give me 5 apples. -- B. Here you go. It's 500 yen in all.
+一つ	1 (General Counting)
+二つ	2 (General Counting)
+三つ	3 (General Counting)
+四つ	4 (General Counting)
+五つ	5 (General Counting)
+六つ	6 (General Counting)
+七つ	7 (General Counting)
+八つ	8 (General Counting)
+九つ	9 (General Counting)
+十	10 (General Counting)
+[anki:play:q:0]	Shop There are different kinds of shops.
+みせ いろいろなみせがあります。	Shop There are different kinds of shops.
+[anki:play:q:0]	~shop I will buy bread at the bakery.
+～や パンやでパンを買います。	~shop I will buy bread at the bakery.
+[anki:play:q:0]	(Alternate: デパート-department); (Pitch: 2); (POS: 名詞); Department Store I went shopping at the department store on Sunday.
+デパート 日よう日にデパートで買い物しました。	(Alternate: デパート-department); (Pitch: 2); (POS: 名詞); Department Store I went shopping at the department store on Sunday.
+[anki:play:q:0]	(Alternate: コンビニ-convenience); (Pitch: 0); (POS: 名詞); Convenience Store I will buy a box lunch at the convenience store.
+コンビニ コンビニでおべんとうを買います。	(Alternate: コンビニ-convenience); (Pitch: 0); (POS: 名詞); Convenience Store I will buy a box lunch at the convenience store.
+[anki:play:q:0]	Sell The convenience store sells rice balls.
+うる コンビニでおにぎりをうっています。	Sell The convenience store sells rice balls.
+[anki:play:q:0]	Counter, Booth A. Where is the counter that sells vegetables? -- B. It's over there.
+うりば A 「やさいのうりばはどこですか。」 -- B 「あそこです。」	Counter, Booth A. Where is the counter that sells vegetables? -- B. It's over there.
+[anki:play:q:0]	(Alternate: コーナー-corner); (Pitch: 1); (POS: 名詞); Area, Counter Nuoc mam is in the area where the soy sauce is.
+コーナー ニョクマムはしょうゆのコーナーにあります。	(Alternate: コーナー-corner); (Pitch: 1); (POS: 名詞); Area, Counter Nuoc mam is in the area where the soy sauce is.
+[anki:play:q:0]	(Alternate: タナ); (Pitch: 1); (POS: 記号); More Notes: 棚 Shelf The drinks are on that shelf.
+たな 飲み物はそのたなです。	(Alternate: タナ); (Pitch: 1); (POS: 記号); More Notes: 棚 Shelf The drinks are on that shelf.
+[anki:play:q:0]	(Alternate: コピー-copy); (Pitch: 1); (POS: 名詞); Copy I will make a copy at the convenience store.
+コピー(する) コンビニでコピーします。	(Alternate: コピー-copy); (Pitch: 1); (POS: 名詞); Copy I will make a copy at the convenience store.
+[anki:play:q:0]	(Alternate: チケット-ticket); (Pitch: 1,2); (POS: 名詞); Ticket I will buy a ticket to the concert.
+チケット コンサートのチケットを買います。	(Alternate: チケット-ticket); (Pitch: 1,2); (POS: 名詞); Ticket I will buy a ticket to the concert.
+[anki:play:q:0]	(Alternate: カタログ-catalog); (Pitch: 0); (POS: 名詞); Catalog I will look at the computer catalog.
+カタログ パソコンのカタログを見ます。	(Alternate: カタログ-catalog); (Pitch: 0); (POS: 名詞); Catalog I will look at the computer catalog.
+[anki:play:q:0]	(Alternate: 雑誌); (Pitch: 0); (POS: 名詞); Magazine I read a magazine at the coffee shop.
+ざっし 喫茶店でざっしを読みました。	(Alternate: 雑誌); (Pitch: 0); (POS: 名詞); Magazine I read a magazine at the coffee shop.
+[anki:play:q:0]	(Alternate: 新聞); (Pitch: 0); (POS: 名詞); Newspaper I bought a newspaper at the convenience store.
+しんぶん コンビニでしんぶんを買います。	(Alternate: 新聞); (Pitch: 0); (POS: 名詞); Newspaper I bought a newspaper at the convenience store.
+[anki:play:q:0]	(Alternate: 欲しい); (Pitch: 2); (POS: 形容詞); Want I want a small computer.
+ほしい 小さいパソコンがほしいです。	(Alternate: 欲しい); (Pitch: 2); (POS: 形容詞); Want I want a small computer.
+[anki:play:q:0]	(Alternate: 出来る); (Pitch: 2); (POS: 動詞); More Notes: 1. A possible situation Can (A Possible Situation / Having the Ability to do Something) 1. You can make reservations for the ticket at the convenience store.
+できる ①コンビニでチケットのよやくができます。	(Alternate: 出来る); (Pitch: 2); (POS: 動詞); More Notes: 1. A possible situation Can (A Possible Situation / Having the Ability to do Something) 1. You can make reservations for the ticket at the convenience store.
+[anki:play:q:0]	More Notes: 2. Having the ability to do something. Can (A Possible Situation / Having the Ability to do Something) 2. I can dance.
+できる ②ダンスができます。	More Notes: 2. Having the ability to do something. Can (A Possible Situation / Having the Ability to do Something) 2. I can dance.
+[anki:play:q:0]	Is (Item Cost) Customer: How much is it? -- Clerk: It's 3500 yen.
+～でございます きゃく 「いくらですか。」 -- てんいん 「３５００円でございます。」	Is (Item Cost) Customer: How much is it? -- Clerk: It's 3500 yen.
+[anki:play:q:0]	Are you looking for something? A: What kind of camera are you looking for? -- B: Please show me that camera. -- A: Very well. Please wait a little bit.
+おさがしですか。 A「どんなカメラをおさがしですか。」 --B「あのカメラを見せてください。」 -- A「かしこまりました。しょうしょうおまちください。」	Are you looking for something? A: What kind of camera are you looking for? -- B: Please show me that camera. -- A: Very well. Please wait a little bit.
+[anki:play:q:0]	(Pitch: 2); (POS: 動詞); Show A: What kind of camera are you looking for? -- B: Please show me that camera. -- A: Very well. Please wait a little bit.
+見せる A「どんなカメラをおさがしですか。」 -- B「このカメラを見せてください。」 -- A「かしこまりました。しょうしょうおまちください。」	(Pitch: 2); (POS: 動詞); Show A: What kind of camera are you looking for? -- B: Please show me that camera. -- A: Very well. Please wait a little bit.
+[anki:play:q:0]	(Alternate: 畏まる); (Pitch: 4); (POS: 動詞); Very well. A: What kind of camera are you looking for? -- B: Please show me that camera. -- A: Very well. Please wait a little bit.
+かしこまりました。 A「どんなカメラをおさがしですか。」 --B「このカメラを見せてください。」 -- A「かしこまりました。しょうしょうおまちください。」	(Alternate: 畏まる); (Pitch: 4); (POS: 動詞); Very well. A: What kind of camera are you looking for? -- B: Please show me that camera. -- A: Very well. Please wait a little bit.
+[anki:play:q:0]	Please wait a while. A: What kind of camera are you looking for? -- B: Please show me that camera. -- A: Very well. Please wait a little bit.
+しょうしょうおまちください。 A「どんなカメラをおさがしですか。」 --B「このカメラを見せてください。」 -- A「かしこまりました。しょうしょうおまちください。」	Please wait a while. A: What kind of camera are you looking for? -- B: Please show me that camera. -- A: Very well. Please wait a little bit.
+[anki:play:q:0]	(Pitch: 1); (POS: 名詞); Way to ~ A: I don't know how to use the ATM. -- B: Are you here for a withdrawel? -- A: Yes. -- B: Then come this way please.
+～方 A「ATMの使い方がわかりません。」 -- B「おひきだしですか。」 -- A「はい。」 -- B「では、こちらへどうぞ。」	(Pitch: 1); (POS: 名詞); Way to ~ A: I don't know how to use the ATM. -- B: Are you here for a withdrawel? -- A: Yes. -- B: Then come this way please.
+[anki:play:q:0]	Are you here for a withdrawal? A: I don't know how to use the ATM. -- B: Are you here for a withdrawel? -- A: Yes. -- B: Then come this way please.
+おひきだしですか。 A「ATMの使い方がわかりません。」 -- B「おひきだしですか。」 -- A「はい。」 -- B「では、こちらへどうぞ。」	Are you here for a withdrawal? A: I don't know how to use the ATM. -- B: Are you here for a withdrawel? -- A: Yes. -- B: Then come this way please.
+[anki:play:q:0]	(Alternate: 現金); (Pitch: 3); (POS: 形状詞); Cash I don't have any cash.
+げんきん げんきんがありません。	(Alternate: 現金); (Pitch: 3); (POS: 形状詞); Cash I don't have any cash.
+[anki:play:q:0]	Automatic Teller Machine There is an ATM here.
+ATM こちらに ATMがあります。	Automatic Teller Machine There is an ATM here.
+[anki:play:q:0]	(Alternate: 下ろす); (Pitch: 3,1); (POS: 名詞); Withdraw I will withdraw cash from the ATM.
+おろす ATMでお金をおろします。	(Alternate: 下ろす); (Pitch: 3,1); (POS: 名詞); Withdraw I will withdraw cash from the ATM.
+[anki:play:q:0]	(Alternate: 先ず); (Pitch: 1); (POS: 副詞); First First, please insert your cash card.
+まず まずキャッシュカードを入れてください。	(Alternate: 先ず); (Pitch: 1); (POS: 副詞); First First, please insert your cash card.
+[anki:play:q:0]	Cash Card First, please insert your cash card.
+キャッシュカード まずキャッシュカードを入れてください。	Cash Card First, please insert your cash card.
+[anki:play:q:0]	Next Then, enter your PIN.
+つぎに つぎにあんしょうばんごうをおしてください。	Next Then, enter your PIN.
+[anki:play:q:0]	More Notes: 暗証番号 PIN Code Then, enter your PIN.
+あんしょうばんごう つぎにあんしょうばんごうをおしてください。	More Notes: 暗証番号 PIN Code Then, enter your PIN.
+[anki:play:q:0]	Push Then, enter your PIN.
+おす つぎにあんしょうばんごうをおしてください。	Push Then, enter your PIN.
+[anki:play:q:0]	Then Then, enter the amount of cash you would like.
+それから それからきんがくをおしてください。	Then Then, enter the amount of cash you would like.
+[anki:play:q:0]	More Notes: 金額 - 金銭の額。かねだか。 Amount Then, enter the amount of cash you would like.
+きんがく それからきんがくをおしてください。	More Notes: 金額 - 金銭の額。かねだか。 Amount Then, enter the amount of cash you would like.
+[anki:play:q:0]	(Alternate: 確認); (Pitch: 0); (POS: 名詞); Confirm Press the confirmation button.
+かくにん(する) かくにんボタンをおしてください。	(Alternate: 確認); (Pitch: 0); (POS: 名詞); Confirm Press the confirmation button.
+[anki:play:q:0]	(Alternate: ボタン-button); (Pitch: 0); (POS: 名詞); Button Press the confirmation button.
+ボタン かくにんボタンをおしてください。	(Alternate: ボタン-button); (Pitch: 0); (POS: 名詞); Button Press the confirmation button.
+[anki:play:q:0]	(Pitch: 1); (POS: 動詞); Come Out The money will come out from here.
+出る ここからお金が 出ます。	(Pitch: 1); (POS: 動詞); Come Out The money will come out from here.
+[anki:play:q:0]	(Alternate: 換え); (Pitch: 0); (POS: 名詞); Exchange I will exchange yen to dollars.
+かえる 円をドルにかえます。	(Alternate: 換え); (Pitch: 0); (POS: 名詞); Exchange I will exchange yen to dollars.
+[anki:play:q:0]	(Alternate: 郵便局); (Pitch: 0); (POS: 名詞); Post Office I will go to the post office tomorrow.
+ゆうびんきょく あした、ゆうびんきょくへ行きます。	(Alternate: 郵便局); (Pitch: 0); (POS: 名詞); Post Office I will go to the post office tomorrow.
+[anki:play:q:0]	(Alternate: ポスト-post（郵便）); (Pitch: 1); (POS: 名詞); Mailbox I will put the postcard in the mail box.
+ポスト はがきをポストに入れます。	(Alternate: ポスト-post（郵便）); (Pitch: 1); (POS: 名詞); Mailbox I will put the postcard in the mail box.
+[anki:play:q:0]	(Alternate: 手紙); (Pitch: 0); (POS: 名詞); Letter I will write a letter.
+てがみ てがみを書きます。	(Alternate: 手紙); (Pitch: 0); (POS: 名詞); Letter I will write a letter.
+[anki:play:q:0]	(Alternate: 葉書); (Pitch: 0); (POS: 名詞); Postcard Can I have three postcards, please?
+はがき はがきを３枚おねがいします。	(Alternate: 葉書); (Pitch: 0); (POS: 名詞); Postcard Can I have three postcards, please?
+[anki:play:q:0]	New Year's Card I will send a New Year's card to my teacher.
+ねんがじょう 先生にねんがじょうを出します。	New Year's Card I will send a New Year's card to my teacher.
+[anki:play:q:0]	(Pitch: 1); (POS: 動詞); 出す- Send I will send a letter by airmail.
+出す こうくうびんでてがみを 出します。	(Pitch: 1); (POS: 動詞); 出す- Send I will send a letter by airmail.
+[anki:play:q:0]	(Alternate: メール-mail); (Pitch: 1,0); (POS: 名詞); Mail I will send you mail.
+メール メールをおくります。	(Alternate: メール-mail); (Pitch: 1,0); (POS: 名詞); Mail I will send you mail.
+[anki:play:q:0]	(Alternate: 送る); (Pitch: 0); (POS: 動詞); Send I will send a package to the family.
+おくる かぞくににもつをおくります。	(Alternate: 送る); (Pitch: 0); (POS: 動詞); Send I will send a package to the family.
+[anki:play:q:0]	Stamp I will buy stamps.
+きって きってを買います。	Stamp I will buy stamps.
+[anki:play:q:0]	(Alternate: 集める); (Pitch: 3); (POS: 動詞); Collect I collect stamps.
+あつめる きってをあつめています。	(Alternate: 集める); (Pitch: 3); (POS: 動詞); Collect I collect stamps.
+[anki:play:q:0]	(Alternate: 封筒); (Pitch: 0); (POS: 名詞); Envelope I will put the letter in the envelope.
+ふうとう ふうとうにてがみを入れます。	(Alternate: 封筒); (Pitch: 0); (POS: 名詞); Envelope I will put the letter in the envelope.
+[anki:play:q:0]	(Alternate: 外国); (Pitch: 0); (POS: 名詞); Foreign Country I will send a letter to a foreign country.
+がいこく がいこくにてがみを出します。	(Alternate: 外国); (Pitch: 0); (POS: 名詞); Foreign Country I will send a letter to a foreign country.
+[anki:play:q:0]	Airmail Please send this to Britain by airmail.
+エアメール イギリスまでエアメールでおねがいします。	Airmail Please send this to Britain by airmail.
+[anki:play:q:0]	(Alternate: 航空便); (Pitch: 0); (POS: 名詞); Airmail I will send it by airmail.
+こうくうびん こうくうびんでおくります。	(Alternate: 航空便); (Pitch: 0); (POS: 名詞); Airmail I will send it by airmail.
+[anki:play:q:0]	Surface Mail (ふねで) I will send it by surface mail.
+ふなびん ふなびんでおくります。	Surface Mail (ふねで) I will send it by surface mail.
+[anki:play:q:0]	(Alternate: 荷物); (Pitch: 1); (POS: 名詞); Package I will send the package at the post office.
+にもつ ゆうびんきょくでにもつをおくります。	(Alternate: 荷物); (Pitch: 1); (POS: 名詞); Package I will send the package at the post office.
+[anki:play:q:0]	(Alternate: 重い); (Pitch: 0); (POS: 形容詞); Heavy This package is heavy.
+おもい このにもつはおもいですね。	(Alternate: 重い); (Pitch: 0); (POS: 形容詞); Heavy This package is heavy.
+[anki:play:q:0]	(Alternate: 軽い); (Pitch: 0); (POS: 形容詞); Light This package is light.
+かるい このにもつはかるいですね。	(Alternate: 軽い); (Pitch: 0); (POS: 形容詞); Light This package is light.
+[anki:play:q:0]	(Alternate: 上げる); (Pitch: 0); (POS: 動詞); Give I will give a present to my friend.
+あげる 友だちにプレゼントをあげます。	(Alternate: 上げる); (Pitch: 0); (POS: 動詞); Give I will give a present to my friend.
+[anki:play:q:0]	(Alternate: 貰う); (Pitch: 0); (POS: 動詞); Receive I received a dictionary from my father.
+もらう 父にじしょをもらいました。	(Alternate: 貰う); (Pitch: 0); (POS: 動詞); Receive I received a dictionary from my father.
+[anki:play:q:0]	(Alternate: 呉れる); (Pitch: 0); (POS: 動詞); Give My friend gave me a souvenir.
+くれる 友だちがおみやげをくれました。	(Alternate: 呉れる); (Pitch: 0); (POS: 動詞); Give My friend gave me a souvenir.
+[anki:play:q:0]	(Alternate: プレゼント-present); (Pitch: 2); (POS: 名詞); Present I gave a present to my younger brother.
+プレゼント おとうとにプレゼントをあげました。	(Alternate: プレゼント-present); (Pitch: 2); (POS: 名詞); Present I gave a present to my younger brother.
+[anki:play:q:0]	(Pitch: 2,0); (POS: 名詞); Thing I received many things.
+物 いろいろな 物をもらいました。	(Pitch: 2,0); (POS: 名詞); Thing I received many things.
+[anki:play:q:0]	(Alternate: パーティー-party); (Pitch: 1); (POS: 名詞); Party I will have a party with my friends.
+パーティー 友だちとパーティーをします。	(Alternate: パーティー-party); (Pitch: 1); (POS: 名詞); Party I will have a party with my friends.
+[anki:play:q:0]	Start The party will start at 6:00PM.
+はじめる ６時にパーティーをはじめます。	Start The party will start at 6:00PM.
+[anki:play:q:0]	(Alternate: 誰); (Pitch: 1); (POS: 代名詞); Who A. Who is that person? -- B. It's Huang-san.
+だれ A 「あの人はだれですか。」 -- B 「ホアンさんですよ。」	(Alternate: 誰); (Pitch: 1); (POS: 代名詞); Who A. Who is that person? -- B. It's Huang-san.
+[anki:play:q:0]	(Alternate: 何方); (Pitch: 1); (POS: 代名詞); Who A. Who is that person?
+どなた A 「あのかたはどなたですか。」	(Alternate: 何方); (Pitch: 1); (POS: 代名詞); Who A. Who is that person?
+[anki:play:q:0]	That Person B. That's Professor Smith from the university.
+あのかた B 「あのかたは大学のスミス先生です。」	That Person B. That's Professor Smith from the university.
+[anki:play:q:0]	(Alternate: クリスマス-Christmas); (Pitch: 3); (POS: 名詞); Christmas I will hold a party on Christmas.
+クリスマス クリスマスにパーティーをします。	(Alternate: クリスマス-Christmas); (Pitch: 3); (POS: 名詞); Christmas I will hold a party on Christmas.
+[anki:play:q:0]	Birthday A. When is your birthday? -- B. It's May 5th.
+(お)たんじょうび A 「たんじょうびはいつですか。」 -- B 「５月５日です。」	Birthday A. When is your birthday? -- B. It's May 5th.
+[anki:play:q:0]	(Pitch: 0); (POS: 動詞); Born My friend had a baby.
+生まれる 友だちに子どもが 生まれました。	(Pitch: 0); (POS: 動詞); Born My friend had a baby.
+[anki:play:q:0]	Congratulations A. Happy Birthday. -- B. Thank you.
+おめでとう(ございます) A 「おたんじょうびおめでとうございます。」 -- B 「ありがとうございます。」	Congratulations A. Happy Birthday. -- B. Thank you.
+[anki:play:q:0]	(Pitch: 1); (POS: 感動詞); Oh A. This is a present. -- B. Oh, thank you very much.
+わあ A 「これ、プレゼントです。」 -- B 「わあ、ありがとうございます。」	(Pitch: 1); (POS: 感動詞); Oh A. This is a present. -- B. Oh, thank you very much.
+[anki:play:q:0]	How Old A. How old are you Huang-san? -- B. I'm 21 years old.
+何さい A 「ホアンさんは 何さいですか。」 -- B 「２１さいです。」	How Old A. How old are you Huang-san? -- B. I'm 21 years old.
+[anki:play:q:0]	How Old A. How old is your younger brother? -- B. He is 15 years old.
+(お)いくつ A 「おとうとさんはおいくつですか。」 -- B 「１５さいです。」	How Old A. How old is your younger brother? -- B. He is 15 years old.
+一さい	1 Year Old
+二さい	Two Years Old
+三さい	Three Years Old
+四さい	Four Years Old
+五さい	Five Years Old
+六さい	Six Years Old
+七さい	Seven Years Old
+八さい	Eight Years Old
+九さい	Nine Years Old
+十さい	Ten Years Old
+はたち	(Alternate: 二十歳); (Pitch: 1); (POS: 名詞); Twenty Years Old
+[anki:play:q:0]	What Date A. What is today's date? -- B. It's the 5th.
+何日 A 「きょうは 何日ですか。」 -- B 「５日です。」	What Date A. What is today's date? -- B. It's the 5th.
+１日	First Day of the Month
+２日	Second Day of the Month
+３日	Third Day of the Month
+４日	Fourth Day of the Month
+５日	Fifth Day of the Month
+６日	Sixth Day of the Month
+７日	Seventh Day of the Month
+８日	Eighth Day of the Month
+９日	Ninth Day of the Month
+１０日	Tenth Day of the Month
+１１日	Eleventh Day of the Month
+１２日	Twelfth Day of the Month
+１３日	Thirteenth Day of the Month
+１４日	Fourteenth Day of the Month
+１５日	Fifteenth Day of the Month
+１６日	Sixteenth Day of the Month
+１７日	Seventeenth Day of the Month
+１８日	Eighteenth Day of the Month
+１９日	Nineteenth Day of the Month
+２０日	Twentieth Day of the Month
+２１日	Twenty-First Day of the Month
+２２日	Twenty-Second Day of the Month
+２３日	Twenty-Third Day of the Month
+２４日	Twenty-Fourth Day of the Month
+２５日	Twenty-Fifth Day of the Month
+２６日	Twenty-Sixth Day of the Month
+２７日	Twenty-Seventh Day of the Month
+２８日	Twenty-Eighth Day of the Month
+２９日	Twenty-Ninth Day of the Month
+３０日	Thirtieth Day of the Month
+３１日	Thirty-First Day of the Month
+[anki:play:q:0]	(Pitch: 1); (POS: 名詞); Station Tokyo Station / Osaka Station / Hiroshima Station
+駅 東京 駅、大阪 駅、広島 駅	(Pitch: 1); (POS: 名詞); Station Tokyo Station / Osaka Station / Hiroshima Station
+[anki:play:q:0]	(Pitch: 0,1); (POS: 名詞); Train I get on the train at the station.
+電車 駅で 電車にのります。	(Pitch: 0,1); (POS: 名詞); Train I get on the train at the station.
+[anki:play:q:0]	(Alternate: 乗る); (Pitch: 0); (POS: 動詞); Get On I will get on the express train.
+のる きゅうこうにのります。	(Alternate: 乗る); (Pitch: 0); (POS: 動詞); Get On I will get on the express train.
+[anki:play:q:0]	(Alternate: 降りる); (Pitch: 2); (POS: 動詞); Get Off I will get off the train at Shibuya.
+おりる 渋谷で電車をおります。	(Alternate: 降りる); (Pitch: 2); (POS: 動詞); Get Off I will get off the train at Shibuya.
+[anki:play:q:0]	(Alternate: 切符); (Pitch: 0); (POS: 名詞); Ticket I will buy the ticket at the station.
+きっぷ 駅できっぷを買います。	(Alternate: 切符); (Pitch: 0); (POS: 名詞); Ticket I will buy the ticket at the station.
+[anki:play:q:0]	Next The next station is Shinjuku.
+つぎの つぎの駅は新宿です。	Next The next station is Shinjuku.
+[anki:play:q:0]	(Alternate: 乗り換える); (Pitch: 3,4); (POS: 動詞); Change / Transfer I change trains/buses at Tokyo Station.
+のりかえる 東京駅でのりかえます。	(Alternate: 乗り換える); (Pitch: 3,4); (POS: 動詞); Change / Transfer I change trains/buses at Tokyo Station.
+各駅	(Pitch: 1,0); (POS: 名詞); Local Train / Bus (Stops at Every Station)
+急行	(Pitch: 0); (POS: 名詞); Express Train (Bypasses Many Stations)
+特急	(Pitch: 0); (POS: 名詞); Limited Express Train / Bus (Faster than Express)
+[anki:play:q:0]	(Pitch: 3); (POS: 名詞); Bullet Train I will go to Kyoto using the Shinkansen.
+新幹線 新幹線で京都へ行きます。	(Pitch: 3); (POS: 名詞); Bullet Train I will go to Kyoto using the Shinkansen.
+[anki:play:q:0]	Subway I will take the subway from Kyoto Station.
+ちかてつ 京都駅でちかてつにのります。	Subway I will take the subway from Kyoto Station.
+[anki:play:q:0]	Track Number I will take the express from track number 8.
+～ばんせん ８ばんせんで急行にのります。	Track Number I will take the express from track number 8.
+[anki:play:q:0]	What Track A. Which track number is the Shinkansen at? -- B. It's track number 14.
+何ばんせん A 「新幹線は 何ばんせんですか。」 -- B「１４ばんせんです。」	What Track A. Which track number is the Shinkansen at? -- B. It's track number 14.
+[anki:play:q:0]	Automobile Toyota is an automobile company.
+じどうしゃ トヨタはじどうしゃのかいしゃです。	Automobile Toyota is an automobile company.
+[anki:play:q:0]	(Pitch: 0); (POS: 名詞); Car This is a car magazine.
+車 これは車のざっしです。	(Pitch: 0); (POS: 名詞); Car This is a car magazine.
+[anki:play:q:0]	Drive I drive a car.
+うんてん(する) 車をうんてんします。	Drive I drive a car.
+[anki:play:q:0]	Send / Escort A. Shall I drive you to the train station? -- B. Thank you very much.
+おくる A 「車で駅までおくりましょうか。」 -- B 「ありがとうございます。」	Send / Escort A. Shall I drive you to the train station? -- B. Thank you very much.
+[anki:play:q:0]	Parking Lot There is no parking lot. (は for negative response to a yes or no question only)
+ちゅうしゃじょう ちゅうしゃじょうはありません。	Parking Lot There is no parking lot. (は for negative response to a yes or no question only)
+[anki:play:q:0]	"(Alternate: 駐める); (Pitch: 0); (POS: 動詞); Park (Vehicle) A: ""I will park the car in the parking lot."" B: ""Please park here."""
+とめる A:「ちゅうしゃじょうに車をとめます。」　B: 「ここでとめてください。」	"(Alternate: 駐める); (Pitch: 0); (POS: 動詞); Park (Vehicle) A: ""I will park the car in the parking lot."" B: ""Please park here."""
+[anki:play:q:0]	Bicycle I will go to the station by bicycle.
+じてんしゃ じてんしゃで駅まで行きます。	Bicycle I will go to the station by bicycle.
+[anki:play:q:0]	(Alternate: バイク-bike); (Pitch: 1); (POS: 名詞); Motorcycle I came to the office by motorcycle.
+バイク バイクでかいしゃへ来ました。	(Alternate: バイク-bike); (Pitch: 1); (POS: 名詞); Motorcycle I came to the office by motorcycle.
+[anki:play:q:0]	(Alternate: バス-bus); (Pitch: 1); (POS: 名詞); Bus I went to Nagoya by bus.
+バス バスで名古屋に行きました。	(Alternate: バス-bus); (Pitch: 1); (POS: 名詞); Bus I went to Nagoya by bus.
+[anki:play:q:0]	(Alternate: タクシー-taxi); (Pitch: 1); (POS: 名詞); Taxi Let's take a taxi.
+タクシー タクシーにのりましょう。	(Alternate: タクシー-taxi); (Pitch: 1); (POS: 名詞); Taxi Let's take a taxi.
+[anki:play:q:0]	Airplane It takes about 3 hours by airplane.
+ひこうき ひこうきで３時間ぐらいです。	Airplane It takes about 3 hours by airplane.
+[anki:play:q:0]	(Alternate: 船); (Pitch: 1); (POS: 名詞); Boat I will take a boat to Yokohama.
+ふね 横浜でふねにのります。	(Alternate: 船); (Pitch: 1); (POS: 名詞); Boat I will take a boat to Yokohama.
+[anki:play:q:0]	(Alternate: 乗り場); (Pitch: 0); (POS: 名詞); Bus / Taxi Stand Where is the bus stand?
+のりば バスのりばはどこですか。	(Alternate: 乗り場); (Pitch: 0); (POS: 名詞); Bus / Taxi Stand Where is the bus stand?
+[anki:play:q:0]	Airport The airport is in Narita.
+くうこう くうこうは成田にあります。	Airport The airport is in Narita.
+[anki:play:q:0]	(Alternate: 時刻表); (Pitch: 1); (POS: 名詞); Time Table There is a time table at the station.
+じこくひょう 駅にじこくひょうがあります。	(Alternate: 時刻表); (Pitch: 1); (POS: 名詞); Time Table There is a time table at the station.
+[anki:play:q:0]	Time There is time. There is no time.
+時間 時間があります。 時間がありません。	Time There is time. There is no time.
+[anki:play:q:0]	Time There is time. There is no time.
+時間 時間がありません。	Time There is time. There is no time.
+[anki:play:q:0]	(Alternate: 急ぐ); (Pitch: 2); (POS: 動詞); Hurry Let's Hurry!
+いそぐ いそぎましょう。	(Alternate: 急ぐ); (Pitch: 2); (POS: 動詞); Hurry Let's Hurry!
+[anki:play:q:0]	How Long (Time) How long will it take to get to the university?
+どのくらい / ぐらい 大学までどのくらいかかりますか。	How Long (Time) How long will it take to get to the university?
+[anki:play:q:0]	(Alternate: 掛かる); (Pitch: 2); (POS: 動詞); Take (Time) It takes about 10 minutes by bicycle.
+かかる じてんしゃで１０分ぐらいかかります。	(Alternate: 掛かる); (Pitch: 2); (POS: 動詞); Take (Time) It takes about 10 minutes by bicycle.
+[anki:play:q:0]	(Alternate: 近い); (Pitch: 2); (POS: 形容詞); Near The university is near the station.
+ちかい 大学は駅からちかいです。	(Alternate: 近い); (Pitch: 2); (POS: 形容詞); Near The university is near the station.
+[anki:play:q:0]	(Alternate: 遠い); (Pitch: 0); (POS: 形容詞); Far The library is far from home.
+とおい としょかんはうちからとおいです。	(Alternate: 遠い); (Pitch: 0); (POS: 形容詞); Far The library is far from home.
+[anki:play:q:0]	(Pitch: 0); (POS: 副詞); Much The limited express train is much faster than the express train.
+ずっと 特急のほうが急行よりずっとはやいです。	(Pitch: 0); (POS: 副詞); Much The limited express train is much faster than the express train.
+[anki:play:q:0]	Always I always go to Osaka by airplane.
+いつも いつもひこうきで大阪へ行きます。	Always I always go to Osaka by airplane.
+[anki:play:q:0]	(Alternate: 大抵); (Pitch: 0); (POS: 副詞); Mostly I mostly take the bus to go home.
+たいてい たいていバスで帰ります。	(Alternate: 大抵); (Pitch: 0); (POS: 副詞); Mostly I mostly take the bus to go home.
+[anki:play:q:0]	Often I often take a walk in the park.
+よく よくこうえんをさんぽします。	Often I often take a walk in the park.
+[anki:play:q:0]	(Alternate: 時々); (Pitch: 2,0); (POS: 名詞); Sometimes I sometimes take a taxi.
+ときどき ときどきタクシーにのります。	(Alternate: 時々); (Pitch: 2,0); (POS: 名詞); Sometimes I sometimes take a taxi.
+[anki:play:q:0]	(POS: 助詞); Only I've only taken an airplane once.
+だけ １ かいだけひこうきにのったことがあります。	(POS: 助詞); Only I've only taken an airplane once.
+[anki:play:q:0]	How A. How do I get to the airport? -- B. You can take the bus from Shinjuku.
+どうやって A 「くうこうまでどうやって行きますか。」 -- B 「新宿からバスで行きます。」	How A. How do I get to the airport? -- B. You can take the bus from Shinjuku.
+[anki:play:q:0]	(Alternate: 歩く); (Pitch: 2); (POS: 動詞); Walk I will walk to the supermarket.
+あるく あるいてスーパーに行きます。	(Alternate: 歩く); (Pitch: 2); (POS: 動詞); Walk I will walk to the supermarket.
+[anki:play:q:0]	(Alternate: 道); (Pitch: 0); (POS: 名詞); Road I know this road.
+みち このみちをしっています。	(Alternate: 道); (Pitch: 0); (POS: 名詞); Road I know this road.
+[anki:play:q:0]	(Alternate: 真っ直ぐ); (Pitch: 3); (POS: 副詞); Straight Please go straight on this road.
+まっすぐ このみちをまっすぐ行ってください。	(Alternate: 真っ直ぐ); (Pitch: 3); (POS: 副詞); Straight Please go straight on this road.
+[anki:play:q:0]	(Alternate: 曲がる); (Pitch: 0); (POS: 動詞); Bend / Turn I will take a left at the signal.
+まがる しんごうを左にまがります。	(Alternate: 曲がる); (Pitch: 0); (POS: 動詞); Bend / Turn I will take a left at the signal.
+[anki:play:q:0]	(Alternate: 渡る); (Pitch: 0); (POS: 名詞); Cross I will cross this bridge.
+わたり このはしをわたります。	(Alternate: 渡る); (Pitch: 0); (POS: 名詞); Cross I will cross this bridge.
+[anki:play:q:0]	(Alternate: 説明); (Pitch: 0); (POS: 名詞); Explanation Please explain the directions to me.
+せつめい(する) 行きかたをせつめいしてください。	(Alternate: 説明); (Pitch: 0); (POS: 名詞); Explanation Please explain the directions to me.
+かど	Corner
+こうさてん	Intersection
+しんごう	(Alternate: 信号); (Pitch: 0); (POS: 名詞); Signal
+左	(Pitch: 0); (POS: 名詞); Left
+右	(Pitch: 0,1); (POS: 名詞); Right
+はし	Bridge
+東	(Pitch: 0,3); (POS: 名詞); East
+西	(Pitch: 0); (POS: 名詞); West
+南	(Pitch: 0); (POS: 名詞); South
+北	(Pitch: 0,2); (POS: 名詞); North
+[anki:play:q:0]	how many, which A. I want to go to the bank. Which intersection is it on? -- B. It's on the third one.
+いくつ目 A 「ぎんこうへ行きたいです。いくつ目のこうさてんですか。」 -- B 「３つ目ですよ。」	how many, which A. I want to go to the bank. Which intersection is it on? -- B. It's on the third one.
+１つ目	First
+２つ目	Second
+３つ目	Third
+[anki:play:q:0]	How Many Meters A. How many meters do I need to walk?
+何メートル A 「 何メートルぐらいあるきますか。」	How Many Meters A. How many meters do I need to walk?
+[anki:play:q:0]	# Meters B. You need to walk about 500 meters.
+～メートル B 「５００メートルぐらいあるきます。」	# Meters B. You need to walk about 500 meters.
+となり	(Alternate: 隣り); (Pitch: 0); (POS: 名詞); Neighbor / Next To
+間	(Pitch: 0); (POS: 名詞); Between
+ちかく	Near
+上	(Pitch: 0,2); (POS: 名詞); On, Over, Above
+下	(Pitch: 0); (POS: 名詞); Under, Below
+前	(Pitch: 1); (POS: 名詞); Front
+後ろ	(Pitch: 0); (POS: 名詞); Behind
+中	(Pitch: 1); (POS: 名詞); Inside
+外	(Pitch: 1); (POS: 名詞); Outside
+あそこ	(Alternate: 彼処); (Pitch: 0); (POS: 代名詞); There (Far)
+そこ	(Alternate: 其処); (Pitch: 0); (POS: 代名詞); There (Close By)
+ここ	(Alternate: 此処); (Pitch: 0); (POS: 代名詞); Here
+[anki:play:q:0]	(Alternate: 何処); (Pitch: 1); (POS: 代名詞); More Notes: {こちら、そちら、あちら、どちら (Formal) / こっち、そっち、あっち、どっち (Informal)} Where A. Where is the bank? -- B. It's next to the post office.
+どこ A 「ぎんこうはどこですか。」 -- B 「ゆうびんきょくのとなりです。」	(Alternate: 何処); (Pitch: 1); (POS: 代名詞); More Notes: {こちら、そちら、あちら、どちら (Formal) / こっち、そっち、あっち、どっち (Informal)} Where A. Where is the bank? -- B. It's next to the post office.
+[anki:play:q:0]	(Alternate: 出掛ける); (Pitch: 0); (POS: 動詞); Go Out I go out frequently on Sundays.
+出かける 日よう日によく 出かけます。	(Alternate: 出掛ける); (Pitch: 0); (POS: 動詞); Go Out I go out frequently on Sundays.
+[anki:play:q:0]	More Notes: 1. Go outside Leave (Go Outside, Graduate) 1. I leave the house at 8A.M.
+出る ①８時にうちを 出ます。	More Notes: 1. Go outside Leave (Go Outside, Graduate) 1. I leave the house at 8A.M.
+[anki:play:q:0]	More Notes: 2. Graduate Leave (Go Outside, Graduate) 2. I graduated from high school last year.
+出る ② きょねん、高校を 出ました。	More Notes: 2. Graduate Leave (Go Outside, Graduate) 2. I graduated from high school last year.
+[anki:play:q:0]	(Pitch: 1,2); (POS: 動詞); Arrive I arrive at the office at 10A.M.
+着く １０時にかいしゃに 着きます。	(Pitch: 1,2); (POS: 動詞); Arrive I arrive at the office at 10A.M.
+[anki:play:q:0]	(Pitch: 1); (POS: 動詞); Meet I will meet my friend at the station.
+会う 駅で友達に 会います。	(Pitch: 1); (POS: 動詞); Meet I will meet my friend at the station.
+[anki:play:q:0]	(Pitch: 1); (POS: 動詞); Wait I waited for my friend for an hour.
+待つ １時間友達を 待ちました。	(Pitch: 1); (POS: 動詞); Wait I waited for my friend for an hour.
+[anki:play:q:0]	(Alternate: デート-date); (Pitch: 1); (POS: 名詞); Date (Romanic) I will go on a date with her tomorrow.
+デート(する) あした、かのじょとデートします。	(Alternate: デート-date); (Pitch: 1); (POS: 名詞); Date (Romanic) I will go on a date with her tomorrow.
+[anki:play:q:0]	(Alternate: 約束); (Pitch: 0); (POS: 名詞); Promise, Engagement I have an appointment with my friend.
+やくそく(する) 友達とやくそくがあります。	(Alternate: 約束); (Pitch: 0); (POS: 名詞); Promise, Engagement I have an appointment with my friend.
+[anki:play:q:0]	(Alternate: 用事); (Pitch: 1); (POS: 名詞); Errand I have an errand to run today.
+ようじ きょうはようじがあります。	(Alternate: 用事); (Pitch: 1); (POS: 名詞); Errand I have an errand to run today.
+[anki:play:q:0]	Convenient Today is convenient for me.
+つごうがいい きょうはつごうがいいです。	Convenient Today is convenient for me.
+[anki:play:q:0]	Inconvenient Tomorrow is inconvenient for me.
+つごうがわるい あしたはつごうがわるいです。	Inconvenient Tomorrow is inconvenient for me.
+[anki:play:q:0]	Not Good A. Are things going poorly today? -- B. Yes. Today is not going very well.
+だめです A 「きょうはだめですか。」 -- B 「はい。きょうはちょっと。」	Not Good A. Are things going poorly today? -- B. Yes. Today is not going very well.
+[anki:play:q:0]	(Alternate: 変える); (Pitch: 0); (POS: 名詞); Change I will change the time of the appointment.
+かえる やくそくの時間をかえます。	(Alternate: 変える); (Pitch: 0); (POS: 名詞); Change I will change the time of the appointment.
+[anki:play:q:0]	Go On An Outing A. Are you going out?
+お出かけですか A 「お出かけですか。」	Go On An Outing A. Are you going out?
+[anki:play:q:0]	Just to B. Yes, just to Shinjuku.
+ちょっと～まで B「はい、ちょっと新宿まで。」	Just to B. Yes, just to Shinjuku.
+[anki:play:q:0]	If it's alright with you... A. Why don't you come with me to Hiroshima? -- B. Yes, I would love to.
+よかったら A 「よかったらいっしょに広島へ行きませんか。」 -- B 「はい、ぜひ。」	If it's alright with you... A. Why don't you come with me to Hiroshima? -- B. Yes, I would love to.
+[anki:play:q:0]	More Notes: 1. Used when apologizing Excuse Me / Sorry 1. Sorry, I have something to do today.
+すみません ① すみません。きょうはようじがあります。	More Notes: 1. Used when apologizing Excuse Me / Sorry 1. Sorry, I have something to do today.
+[anki:play:q:0]	More Notes: 2. Used to get someone's attention Excuse Me / Sorry 2. Excuse me, how much is it to Ginza?
+すみません ②すみません。銀座までいくらですか。	More Notes: 2. Used to get someone's attention Excuse Me / Sorry 2. Excuse me, how much is it to Ginza?
+[anki:play:q:0]	Would you ~ or Something A. How about some tea?
+～でも～ませんか A 「お茶でも飲みませんか。」	Would you ~ or Something A. How about some tea?
+[anki:play:q:0]	Not so Good B. Sorry, today is not so good.
+～はちょっと B 「すみません。きょうはちょっと。」	Not so Good B. Sorry, today is not so good.
+[anki:play:q:0]	(Alternate: 残念); (Pitch: 3); (POS: 形状詞); Unfortunately A. How about going to the movies tomorrow? -- B. Unfortunately, tomorrow isn't good for me.
+ざんねんですが A 「あした、えいがを見ませんか。」 -- B 「ざんねんですが、あしたはちょっと。」	(Alternate: 残念); (Pitch: 3); (POS: 形状詞); Unfortunately A. How about going to the movies tomorrow? -- B. Unfortunately, tomorrow isn't good for me.
+[anki:play:q:0]	Next Time Please B. Next Time Please
+またこんどおねがいします B 「またこんどおねがいします。」	Next Time Please B. Next Time Please
+[anki:play:q:0]	(Alternate: チャンス-chance); (Pitch: 1); (POS: 名詞); Chance If there's a chance, I would like to go to Hokkaido.
+チャンス チャンスがあったら、北海道へ行きたいです。	(Alternate: チャンス-chance); (Pitch: 1); (POS: 名詞); Chance If there's a chance, I would like to go to Hokkaido.
+いってきます	Good Bye (I'm Off)
+いってらっしゃい	Have a Good Day!
+ただいま	(Alternate: 只今); (Pitch: 2,4,0); (POS: 名詞); Hello (I'm Back)
+おかえりなさい	Welcome Home.
+[anki:play:q:0]	(Pitch: 2); (POS: 名詞); Home My house is in Fukuoka.
+家 私の 家は福岡にあります。	(Pitch: 2); (POS: 名詞); Home My house is in Fukuoka.
+[anki:play:q:0]	(Alternate: 部屋); (Pitch: 2); (POS: 名詞); Room The room has a kitchen.
+へや へやにキッチンがあります。	(Alternate: 部屋); (Pitch: 2); (POS: 名詞); Room The room has a kitchen.
+[anki:play:q:0]	(Alternate: 窓); (Pitch: 1); (POS: 名詞); Window I open the window.
+まど まどをあけます。	(Alternate: 窓); (Pitch: 1); (POS: 名詞); Window I open the window.
+[anki:play:q:0]	(Alternate: ドア-door); (Pitch: 1); (POS: 名詞); Door I close the door.
+ドア ドアをしめます。	(Alternate: ドア-door); (Pitch: 1); (POS: 名詞); Door I close the door.
+[anki:play:q:0]	(Alternate: 開ける); (Pitch: 0); (POS: 動詞); Open Please don't open the door.
+あける ドアをあけないでください。	(Alternate: 開ける); (Pitch: 0); (POS: 動詞); Open Please don't open the door.
+[anki:play:q:0]	(POS: 助動詞); Close Can I close the window?
+しめる まどをしめてもいいですか。	(POS: 助動詞); Close Can I close the window?
+[anki:play:q:0]	(Alternate: 鍵); (Pitch: 2); (POS: 名詞); Key This is the key to the apartment.
+かぎ これはアパートのかぎです。	(Alternate: 鍵); (Pitch: 2); (POS: 名詞); Key This is the key to the apartment.
+[anki:play:q:0]	(Alternate: ベッド-bed); (Pitch: 1); (POS: 名詞); Bed There is a bed in the room.
+ベッド へやにベッドがあります。	(Alternate: ベッド-bed); (Pitch: 1); (POS: 名詞); Bed There is a bed in the room.
+ダイニングキッチン	(Alternate: ダイニング-dining); (Pitch: 1,3); (POS: 名詞); Dining-Kitchen
+わしつ	Japanese Room
+トイレ	(Alternate: トイレ-toilet); (Pitch: 1); (POS: 名詞); Toilet, Bathroom
+お手洗い	Toilet, Bathroom
+ふとん	(Alternate: 布団); (Pitch: 0); (POS: 名詞); Futon / Mattress
+[anki:play:q:0]	(Alternate: テーブル-table); (Pitch: 0); (POS: 名詞); Table There is a table in the dining room.
+テーブル ダイニングキッチンにテーブルがあります。	(Alternate: テーブル-table); (Pitch: 0); (POS: 名詞); Table There is a table in the dining room.
+[anki:play:q:0]	(Alternate: 机); (Pitch: 0); (POS: 名詞); Desk The dictionary is on the desk.
+つくえ じしょはつくえの上です。	(Alternate: 机); (Pitch: 0); (POS: 名詞); Desk The dictionary is on the desk.
+[anki:play:q:0]	(Alternate: 椅子); (Pitch: 0); (POS: 名詞); Chair I will sit on the chair.
+いす いすにすわります。	(Alternate: 椅子); (Pitch: 0); (POS: 名詞); Chair I will sit on the chair.
+[anki:play:q:0]	(Alternate: 座る); (Pitch: 0); (POS: 動詞); Sit Please sit down.
+すわる どうぞすわってください。	(Alternate: 座る); (Pitch: 0); (POS: 動詞); Sit Please sit down.
+[anki:play:q:0]	(Pitch: 1); (POS: 動詞); Stand Lara-chan is standing in front of the house.
+立つ ララちゃんは家の前に 立っています。	(Pitch: 1); (POS: 動詞); Stand Lara-chan is standing in front of the house.
+[anki:play:q:0]	(Alternate: 洗濯); (Pitch: 0); (POS: 名詞); Laundry I do the laundry once a week.
+せんたく(する) 1週間に１回、せんたくします。	(Alternate: 洗濯); (Pitch: 0); (POS: 名詞); Laundry I do the laundry once a week.
+[anki:play:q:0]	(Alternate: 掃除); (Pitch: 0); (POS: 名詞); Clean I clean everyday.
+そうじ(する) まいにち、そうじします。	(Alternate: 掃除); (Pitch: 0); (POS: 名詞); Clean I clean everyday.
+[anki:play:q:0]	(Alternate: 塵); (Pitch: 2); (POS: 名詞); Garbage The day to dispose of garbage is Thursday.
+ごみ ごみの日は木よう日です。	(Alternate: 塵); (Pitch: 2); (POS: 名詞); Garbage The day to dispose of garbage is Thursday.
+[anki:play:q:0]	Throw Away I will throw away garbage on Thursday.
+すてる 木よう日にごみをすてます。	Throw Away I will throw away garbage on Thursday.
+[anki:play:q:0]	Put Please put the luggage here.
+おく ここににもつをおいてください。	Put Please put the luggage here.
+[anki:play:q:0]	Live My family lives in Thailand.
+すむ かぞくはタイにすんでいます。	Live My family lives in Thailand.
+[anki:play:q:0]	Address Please write your address here.
+じゅうしょ ここにじゅうしょを書いてください。	Address Please write your address here.
+れいぞうこ	(Alternate: 冷蔵庫); (Pitch: 0); (POS: 名詞); Refrigerator
+せんたくき	Washing Machine
+そうじき	Vacuum Cleaner
+[anki:play:q:0]	(Alternate: 建物); (Pitch: 2,3); (POS: 名詞); Building A. Which building is the department store? -- B. It's that building over there.
+たてもの A 「デパートはどのたてものですか。」 -- B 「あのたてものです。」	(Alternate: 建物); (Pitch: 2,3); (POS: 名詞); Building A. Which building is the department store? -- B. It's that building over there.
+[anki:play:q:0]	(Alternate: アパート-apartment); (Pitch: 2); (POS: 名詞); Apartment I live on the second floor of the apartment building.
+アパート アパートの２回にすんでいます。	(Alternate: アパート-apartment); (Pitch: 2); (POS: 名詞); Apartment I live on the second floor of the apartment building.
+[anki:play:q:0]	(Alternate: 寮); (Pitch: 1); (POS: 名詞); Dormitory Huang-san lives in the dormitory.
+りょう ホアンさんはりょうにすんでいます。	(Alternate: 寮); (Pitch: 1); (POS: 名詞); Dormitory Huang-san lives in the dormitory.
+[anki:play:q:0]	(Alternate: ビル-building); (Pitch: 1); (POS: 名詞); Building The office is in that building.
+ビル かいしゃはあのビルです。	(Alternate: ビル-building); (Pitch: 1); (POS: 名詞); Building The office is in that building.
+[anki:play:q:0]	(Alternate: 階段); (Pitch: 0); (POS: 名詞); Stairs The stairs are over there.
+かいだん かいだんはあそこです。	(Alternate: 階段); (Pitch: 0); (POS: 名詞); Stairs The stairs are over there.
+[anki:play:q:0]	(Alternate: エスカレーター-escalator); (Pitch: 4); (POS: 名詞); Escalator Go to the 5th floor using the escalator.
+エスカレーター エスカレーターで５階に行きます。	(Alternate: エスカレーター-escalator); (Pitch: 4); (POS: 名詞); Escalator Go to the 5th floor using the escalator.
+[anki:play:q:0]	(Alternate: エレベーター-elevator); (Pitch: 3); (POS: 名詞); Elevator Let's take the elevator.
+エレベーター エレベーターにのりましょう。	(Alternate: エレベーター-elevator); (Pitch: 3); (POS: 名詞); Elevator Let's take the elevator.
+[anki:play:q:0]	Which Floor A. Which floor is Huang-san's room on? -- B. It's on the second floor.
+何階 A 「ホアンさんのへやは 何階ですか。」 -- B 「２階です。」	Which Floor A. Which floor is Huang-san's room on? -- B. It's on the second floor.
+十階	10th Floor
+九階	9th Floor
+八階	8th Floor
+七階	7th Floor
+六階	6th Floor
+五階	5th Floor
+四階	4th Floor
+三階	3rd Floor(がい)
+二階	2nd Floor
+一階	1st Floor
+ちか	Basement
+[anki:play:q:0]	Moving When are you moving?
+ひっこし ひっこしはいつですか。	Moving When are you moving?
+[anki:play:q:0]	Transfer I will be stationed in Osaka next month.
+てんきん(する) らいげつ、大阪へてんきんします。	Transfer I will be stationed in Osaka next month.
+[anki:play:q:0]	Rent The rent here is expensive.
+やちん ここはやちんが高いです。	Rent The rent here is expensive.
+[anki:play:q:0]	(Alternate: 所); (Pitch: 3,0); (POS: 名詞); Place A. What kind of place do you want to live in? -- B. I want to live someplace convenient.
+ところ A 「どんなところにすみたいですか。」 -- B 「べんりなところにすみたいです。」	(Alternate: 所); (Pitch: 3,0); (POS: 名詞); Place A. What kind of place do you want to live in? -- B. I want to live someplace convenient.
+[anki:play:q:0]	(Alternate: 田舎); (Pitch: 0); (POS: 名詞); Countryside I like the countryside.
+いなか いなかが好きです。	(Alternate: 田舎); (Pitch: 0); (POS: 名詞); Countryside I like the countryside.
+[anki:play:q:0]	(Alternate: 静か); (Pitch: 1); (POS: 形状詞); Quiet I like quiet places.
+しずかな しずかなところが好きです。	(Alternate: 静か); (Pitch: 1); (POS: 形状詞); Quiet I like quiet places.
+[anki:play:q:0]	Lively I want to live in a lively place.
+にぎやかな にぎやかなところにすみたいです。	Lively I want to live in a lively place.
+[anki:play:q:0]	(Alternate: 便利); (Pitch: 1); (POS: 名詞); Convenient The supermarket is nearby. That's convenient.
+べんりな スーパーがちかいです。べんりです。	(Alternate: 便利); (Pitch: 1); (POS: 名詞); Convenient The supermarket is nearby. That's convenient.
+[anki:play:q:0]	(Alternate: 不便); (Pitch: 1); (POS: 名詞); Inconvenient This apartment is far from the station. That's inconvenient.
+ふべんな このアパートは駅からとおいです。ふべんです。	(Alternate: 不便); (Pitch: 1); (POS: 名詞); Inconvenient This apartment is far from the station. That's inconvenient.
+[anki:play:q:0]	Traffic It's not easy to get around here.
+こうつう ここはこうつうがふべんです。	Traffic It's not easy to get around here.
+[anki:play:q:0]	(Alternate: 庭); (Pitch: 0); (POS: 名詞); Garden / Yard There is a dog in the yard.
+にわ にわに犬がいます。	(Alternate: 庭); (Pitch: 0); (POS: 名詞); Garden / Yard There is a dog in the yard.
+[anki:play:q:0]	(Pitch: 1); (POS: 名詞); Tree There is a tree in the yard.
+木 にわに木があります。	(Pitch: 1); (POS: 名詞); Tree There is a tree in the yard.
+[anki:play:q:0]	(Alternate: 緑); (Pitch: 1); (POS: 名詞); Greenery There is a lot of greenery in Kamakura.
+みどり 鎌倉はみどりが多いです。	(Alternate: 緑); (Pitch: 1); (POS: 名詞); Greenery There is a lot of greenery in Kamakura.
+[anki:play:q:0]	(Alternate: 若い); (Pitch: 2); (POS: 形容詞); Young There are many young people in this town.
+わかい この町はわかい人が多いです。	(Alternate: 若い); (Pitch: 2); (POS: 形容詞); Young There are many young people in this town.
+[anki:play:q:0]	(Alternate: 年を取る); (Pitch: 2); (POS: 名詞); Get Old I am 80 years old. I have grown old.
+年をとる ８０歳です。 年をとりました。	(Alternate: 年を取る); (Pitch: 2); (POS: 名詞); Get Old I am 80 years old. I have grown old.
+[anki:play:q:0]	More Notes: 市役所 City Hall The city hall is near the station.
+しやくしょ しやくしょは駅のちかくです。	More Notes: 市役所 City Hall The city hall is near the station.
+ひろい	(Alternate: 広い); (Pitch: 2); (POS: 形容詞); Spacious
+せまい	(Alternate: 狭い); (Pitch: 2); (POS: 形容詞); Small, Cramped
+新しい	(Pitch: 4); (POS: 形容詞); New
+古い	(Pitch: 2); (POS: 形容詞); Old
+いらっしゃい。	Welcome.
+どうぞおあがりください。	More Notes: 上がる - 2. to enter (esp. from outdoors); to come in; to go in​ Please come in.
+しつれいします。	Excuse me.
+そろそろしつれいします。	I will excuse myself.
+またいらっしゃってください。	Please come again.
+[anki:play:q:0]	(Pitch: 1); (POS: 感動詞); Husband My elder sister's husband is an office worker.
+おっと あねのおっとは会社員です。	(Pitch: 1); (POS: 感動詞); Husband My elder sister's husband is an office worker.
+[anki:play:q:0]	(Alternate: 妻); (Pitch: 2); (POS: 名詞); Wife My elder brother's wife is Japanese.
+つま あにのつまは日本人です。	(Alternate: 妻); (Pitch: 2); (POS: 名詞); Wife My elder brother's wife is Japanese.
+[anki:play:q:0]	(Alternate: 御主人); (Pitch: 1); (POS: 名詞); The Husband The husband of Mrs. Tanaka is a company president.
+ごしゅじん 田中さんのごしゅじんはしゃちょうです。	(Alternate: 御主人); (Pitch: 1); (POS: 名詞); The Husband The husband of Mrs. Tanaka is a company president.
+[anki:play:q:0]	(Alternate: 御奥さん); (Pitch: 1); (POS: 名詞); The Wife The wife of Mr. Yamada is good at cooking.
+おくさん 山田さんのおくさんはりょうりがじょうずです。	(Alternate: 御奥さん); (Pitch: 1); (POS: 名詞); The Wife The wife of Mr. Yamada is good at cooking.
+[anki:play:q:0]	(Alternate: 紹介); (Pitch: 0); (POS: 名詞); Introduce I will introuce my friend to the teacher.
+しょうかい(する) 先生に友達をしょうかいします。	(Alternate: 紹介); (Pitch: 0); (POS: 名詞); Introduce I will introuce my friend to the teacher.
+[anki:play:q:0]	This is Mr. / Mrs. A. This is Ali-san.
+こちらは～さんです A 「こちらはアリさんです。」	This is Mr. / Mrs. A. This is Ali-san.
+[anki:play:q:0]	Thank you for taking care of me on this occasion. B. Nice to meet you. I am Ali. Thank you for taking care of me on this occasion.
+これからおせわになります B 「はじめまして、アリです。これからおせわになります。」	Thank you for taking care of me on this occasion. B. Nice to meet you. I am Ali. Thank you for taking care of me on this occasion.
+[anki:play:q:0]	Is Here / There A. Where are your parents? -- B. They are in Turkey.
+いらっしゃいます A 「ごりょうしんはどちらにいらっしゃいますか。」 -- B 「トルコにいます。」	Is Here / There A. Where are your parents? -- B. They are in Turkey.
+[anki:play:q:0]	Single My brother is single.
+どくしん あにはどくしんです。	Single My brother is single.
+[anki:play:q:0]	(Alternate: 結婚); (Pitch: 0); (POS: 名詞); Married I will get married next month.
+けっこん(する) らいげつ、けっこんします。	(Alternate: 結婚); (Pitch: 0); (POS: 名詞); Married I will get married next month.
+[anki:play:q:0]	(Alternate: 僕); (Pitch: 1,0); (POS: 代名詞); I (Male) A. What do you want to drink? -- B. I will have juice.
+ぼく A 「何を飲む？」 -- B 「ぼくはジュース。」	(Alternate: 僕); (Pitch: 1,0); (POS: 代名詞); I (Male) A. What do you want to drink? -- B. I will have juice.
+[anki:play:q:0]	Thank You Thank you for everything today.
+ありがとうございました きょうはありがとうございました。	Thank You Thank you for everything today.
+[anki:play:q:0]	(Alternate: 色々); (Pitch: 0); (POS: 副詞); For Everything Thank you very much for everything.
+いろいろ(と) いろいろありがとうございました。	(Alternate: 色々); (Pitch: 0); (POS: 副詞); For Everything Thank you very much for everything.
+[anki:play:q:0]	Take Care / Be Careful Please take care.
+(お)気をつけて (お)気をつけて。	Take Care / Be Careful Please take care.
+[anki:play:q:0]	Thank you for taking care of me. A. Thank you for taking care of me. -- B. Not at all, and I thank you the same.
+おせわになりました A 「おせわになりました。」 -- B 「いいえ、こちらこそ。」	Thank you for taking care of me. A. Thank you for taking care of me. -- B. Not at all, and I thank you the same.
+[anki:play:q:0]	(Alternate: 危ない); (Pitch: 0,3); (POS: 形容詞); Watch Out A. Watch out. Please be careful. -- B. Yes.
+あぶない A 「あぶないです。気をつけてください。」 -- B 「はい。」	(Alternate: 危ない); (Pitch: 0,3); (POS: 形容詞); Watch Out A. Watch out. Please be careful. -- B. Yes.
+[anki:play:q:0]	Weekend I will go on a date this weekend.
+しゅうまつ しゅうまつ、デートをします。	Weekend I will go on a date this weekend.
+[anki:play:q:0]	(Alternate: 始め); (Pitch: 0); (POS: 名詞); Beginning I came to Japan at the beginning of last year.
+はじめ きょねんのはじめに日本へ来ました。	(Alternate: 始め); (Pitch: 0); (POS: 名詞); Beginning I came to Japan at the beginning of last year.
+[anki:play:q:0]	(Alternate: 終わり); (Pitch: 0); (POS: 名詞); End I will return to my country this month.
+おわり こんげつのおわりにくにへ帰ります。	(Alternate: 終わり); (Pitch: 0); (POS: 名詞); End I will return to my country this month.
+おととい	(Alternate: 一昨日); (Pitch: 3,0); (POS: 名詞); The Day Before Yesterday
+あさって	(Alternate: 明後日); (Pitch: 2); (POS: 名詞); The Day After Tomorrow
+せんしゅう	(Alternate: 先週); (Pitch: 0); (POS: 名詞); Last Week
+こんしゅう	This Week
+らいしゅう	(Alternate: 来週); (Pitch: 0); (POS: 名詞); Next Week
+せんげつ	(Alternate: 先月); (Pitch: 1); (POS: 名詞); Last Month
+こんげつ	This Month
+らいげつ	Next Month
+[anki:play:q:0]	(Pitch: 1); (POS: 名詞); Electricity, Power, Light Please turn on the lights.
+電気 電気をつけてください。	(Pitch: 1); (POS: 名詞); Electricity, Power, Light Please turn on the lights.
+[anki:play:q:0]	Turn On I will turn on the air conditioner.
+つける エアコンをつけます。	Turn On I will turn on the air conditioner.
+[anki:play:q:0]	(Alternate: 消す); (Pitch: 0); (POS: 動詞); Turn Off I will turn off the lights.
+けす 電気をけします。	(Alternate: 消す); (Pitch: 0); (POS: 動詞); Turn Off I will turn off the lights.
+[anki:play:q:0]	(Pitch: 0,3); (POS: 形容詞); Bright It gets bright when the lights are turned on.
+明るい 電気をつけると、 明るくなります。	(Pitch: 0,3); (POS: 形容詞); Bright It gets bright when the lights are turned on.
+[anki:play:q:0]	(Pitch: 0,2); (POS: 形容詞); Dark The room is dark.
+暗い へやが 暗いです。	(Pitch: 0,2); (POS: 形容詞); Dark The room is dark.
+[anki:play:q:0]	(Alternate: エアコン-air conditioner); (Pitch: 0); (POS: 名詞); Air Conditioner The room has an air conditioner.
+エアコン へやにエアコンがあります。	(Alternate: エアコン-air conditioner); (Pitch: 0); (POS: 名詞); Air Conditioner The room has an air conditioner.
+[anki:play:q:0]	(Alternate: ビデオ-video); (Pitch: 1); (POS: 名詞); Video I will watch the video over the weekend.
+ビデオ しゅうまつ、ビデオを見ます。	(Alternate: ビデオ-video); (Pitch: 1); (POS: 名詞); Video I will watch the video over the weekend.
+[anki:play:q:0]	(Alternate: スイッチ-switch); (Pitch: 1,2); (POS: 名詞); Switch The switch is on the right side of the door.
+スイッチ スイッチはドアの右です。	(Alternate: スイッチ-switch); (Pitch: 1,2); (POS: 名詞); Switch The switch is on the right side of the door.
+[anki:play:q:0]	(Alternate: 回す); (Pitch: 0); (POS: 動詞); Turn, Revolve Warm water comes out when you turn this to the left.
+まわす これを左にまわすと、おゆが出ます。	(Alternate: 回す); (Pitch: 0); (POS: 動詞); Turn, Revolve Warm water comes out when you turn this to the left.
+[anki:play:q:0]	Pull Water comes out when you pull this.
+ひく これをひくと、水が出ます。	Pull Water comes out when you pull this.
+[anki:play:q:0]	(Alternate: 動く); (Pitch: 2); (POS: 動詞); Move It moves when you push the switch.
+うごく スイッチをおすと、うごきます。	(Alternate: 動く); (Pitch: 2); (POS: 動詞); Move It moves when you push the switch.
+[anki:play:q:0]	(Pitch: 2); (POS: 名詞); Sound The sound of the radio is weak.
+音 ラジオの 音が小さいです。	(Pitch: 2); (POS: 名詞); Sound The sound of the radio is weak.
+[anki:play:q:0]	(Alternate: 若し); (Pitch: 1); (POS: 副詞); If ... then If it breaks, I will fix it.
+もし (～たら) もしこしょうしたら、しゅうりします。	(Alternate: 若し); (Pitch: 1); (POS: 副詞); If ... then If it breaks, I will fix it.
+[anki:play:q:0]	(Alternate: 故障); (Pitch: 2); (POS: 名詞); Broken The air conditioner is broken.
+こしょう(する) エアコンがこしょうしました。	(Alternate: 故障); (Pitch: 2); (POS: 名詞); Broken The air conditioner is broken.
+[anki:play:q:0]	Repair Please fix the air conditioner.
+しゅうり(する) エアコンをしゅうりしてください。	Repair Please fix the air conditioner.
+[anki:play:q:0]	(Alternate: 呼ぶ); (Pitch: 0); (POS: 動詞); Call I will call the electrician.
+よぶ 電気やをよびます。	(Alternate: 呼ぶ); (Pitch: 0); (POS: 動詞); Call I will call the electrician.
+[anki:play:q:0]	(Alternate: 直す); (Pitch: 2); (POS: 動詞); More Notes: 1. To repair Fix / Correct 1. I will fix my brother's computer.
+なおす ① おとうとのパソコンをなおします。	(Alternate: 直す); (Pitch: 2); (POS: 動詞); More Notes: 1. To repair Fix / Correct 1. I will fix my brother's computer.
+[anki:play:q:0]	More Notes: 2. To correct Fix / Correct 2. I will correct my brother's report.
+なおす ② おとうとのレポートをなおします。	More Notes: 2. To correct Fix / Correct 2. I will correct my brother's report.
+[anki:play:q:0]	(Alternate: 製品); (Pitch: 0); (POS: 名詞); More Notes: 製品 Product I bought electrical products in Akihabara.
+せいひん 電気せいひんを秋葉原で買いました。	(Alternate: 製品); (Pitch: 0); (POS: 名詞); More Notes: 製品 Product I bought electrical products in Akihabara.
+[anki:play:q:0]	(Alternate: 病気); (Pitch: 0); (POS: 名詞); Sick I got sick.
+びょうき びょうきになりました。	(Alternate: 病気); (Pitch: 0); (POS: 名詞); Sick I got sick.
+[anki:play:q:0]	(Alternate: 病院); (Pitch: 0); (POS: 名詞); Hospital I will go to the hospital.
+びょういん びょういんへ行きます。	(Alternate: 病院); (Pitch: 0); (POS: 名詞); Hospital I will go to the hospital.
+[anki:play:q:0]	What's Wrong? / What's the Matter? Doctor: What's the matter?
+どうしましたか いしゃ 「どうしましたか。」	What's Wrong? / What's the Matter? Doctor: What's the matter?
+[anki:play:q:0]	(Alternate: 熱); (Pitch: 2); (POS: 名詞); Fever A. I have been running a fever since yesterday.
+ねつ A「きのうからねつがあります。」	(Alternate: 熱); (Pitch: 2); (POS: 名詞); Fever A. I have been running a fever since yesterday.
+[anki:play:q:0]	(Alternate: 風邪); (Pitch: 0); (POS: 名詞); Cold Doctor: You have a cold.
+かぜ いしゃ 「かぜですね。」	(Alternate: 風邪); (Pitch: 0); (POS: 名詞); Cold Doctor: You have a cold.
+[anki:play:q:0]	(Alternate: インフルエンザ-influenza); (Pitch: 5); (POS: 名詞); Flu Doctor: You have the flu. Do not take a bath.
+インフルエンザ いしゃ 「インフルエンザです。おふろに入らないでください。」	(Alternate: インフルエンザ-influenza); (Pitch: 5); (POS: 名詞); Flu Doctor: You have the flu. Do not take a bath.
+[anki:play:q:0]	(Pitch: 2); (POS: 副詞); More Notes: Use 飲む for medicine Medicine Medicine (Use 飲む) -- Take this medicine 3 times a day.
+くすり 一日に３回くすりを飲んでください。	(Pitch: 2); (POS: 副詞); More Notes: Use 飲む for medicine Medicine Medicine (Use 飲む) -- Take this medicine 3 times a day.
+はな	(Alternate: 鼻); (Pitch: 1); (POS: 名詞); Nose
+耳	(Pitch: 2); (POS: 名詞); Ears
+口	(Pitch: 0); (POS: 名詞); Mouth
+のど	Throat
+あたま	Head
+おなか	Stomach
+手	(Pitch: 1); (POS: 名詞); Hand
+足	(Pitch: 2); (POS: 名詞); Foot
+[anki:play:q:0]	(Alternate: 大事); (Pitch: 0,3); (POS: 形状詞); Take Care Nurse: Please take care.
+おだいじに かんごし 「おだいじに。」	(Alternate: 大事); (Pitch: 0,3); (POS: 形状詞); Take Care Nurse: Please take care.
+[anki:play:q:0]	Two, Three Days I will take two or three days off from work.
+２、３日 ２、３日かいしゃを休みます。	Two, Three Days I will take two or three days off from work.
+[anki:play:q:0]	Hurts My tooth hurts.
+～がいたい はがいたいです。	Hurts My tooth hurts.
+[anki:play:q:0]	Dentist I went to the dentist yesterday.
+はいしゃ(さん) きのう、はいしゃへ行きました。	Dentist I went to the dentist yesterday.
+[anki:play:q:0]	Alone I will go to the hospital alone.
+一人で 一人でびょういんへ行きます。	Alone I will go to the hospital alone.
+[anki:play:q:0]	(Alternate: 健康); (Pitch: 1); (POS: 名詞); Health I am mindful of my health.
+けんこう けんこうに気をつけています。	(Alternate: 健康); (Pitch: 1); (POS: 名詞); Health I am mindful of my health.
+[anki:play:q:0]	(Alternate: 保険証); (Pitch: 0); (POS: 名詞); More Notes: 健康保険証 Health Insurance Card I will bring my health insurance card to the hospital.
+(けんこう)ほけんしょう びょういんにけんこうほけんしょうをもっていきます。	(Alternate: 保険証); (Pitch: 0); (POS: 名詞); More Notes: 健康保険証 Health Insurance Card I will bring my health insurance card to the hospital.
+[anki:play:q:0]	(Pitch: 0); (POS: 名詞); Body My sister is sickly.
+体 いもうとは 体がよわいです。	(Pitch: 0); (POS: 名詞); Body My sister is sickly.
+[anki:play:q:0]	Good for one's health Jogging is good for your health.
+体にいい ジョギングは 体にいいです。	Good for one's health Jogging is good for your health.
+[anki:play:q:0]	(Alternate: 調子); (Pitch: 0); (POS: 名詞); Condition My condition is not good.
+ちょうし 体のちょうしがよくないです。	(Alternate: 調子); (Pitch: 0); (POS: 名詞); Condition My condition is not good.
+[anki:play:q:0]	(Alternate: 疲れる); (Pitch: 3); (POS: 動詞); Tired A. I'm tired. Let's rest a little. -- B. Okay.
+つかれる A 「つかれましたね。少し休みましょう。」 -- B 「はい。」	(Alternate: 疲れる); (Pitch: 3); (POS: 動詞); Tired A. I'm tired. Let's rest a little. -- B. Okay.
+[anki:play:q:0]	(Alternate: 眠い); (Pitch: 0,2); (POS: 形容詞); Sleepy A. I woke up at 5A.M. this morning. I'm sleepy.
+ねむい A「けさ、５時におきました。ねむいです。」	(Alternate: 眠い); (Pitch: 0,2); (POS: 形容詞); Sleepy A. I woke up at 5A.M. this morning. I'm sleepy.
+[anki:play:q:0]	Early B. You should go to sleep early.
+はやく B 「はやくねたほうがいいですよ。」	Early B. You should go to sleep early.
+[anki:play:q:0]	(Alternate: 大変); (Pitch: 0); (POS: 形状詞); Terrible A. I work overtime every day. -- B. That is terrible.
+たいへんな A 「まいにち、ざんぎょうします。」 -- B 「たいへんですね。」	(Alternate: 大変); (Pitch: 0); (POS: 形状詞); Terrible A. I work overtime every day. -- B. That is terrible.
+[anki:play:q:0]	(Alternate: 最近); (Pitch: 0); (POS: 名詞); Recently Recently, I have been busy at work.
+さいきん さいきん、仕事がいそがしいです。	(Alternate: 最近); (Pitch: 0); (POS: 名詞); Recently Recently, I have been busy at work.
+[anki:play:q:0]	(Alternate: 心配); (Pitch: 0); (POS: 名詞); Worry My mother is worried.
+しんぱい(する) 母がしんぱいしています。	(Alternate: 心配); (Pitch: 0); (POS: 名詞); Worry My mother is worried.
+[anki:play:q:0]	(Alternate: タバコ-tabaco); (Pitch: 0); (POS: 名詞); Cigarettes I bought cigarettes at the vending machine.
+たばこ じどうはんばいきでたばこを買います。	(Alternate: タバコ-tabaco); (Pitch: 0); (POS: 名詞); Cigarettes I bought cigarettes at the vending machine.
+[anki:play:q:0]	(Pitch: 0); (POS: 副詞); Smoke Please don't smoke here.
+すう ここでたばこをすわないでください。	(Pitch: 0); (POS: 副詞); Smoke Please don't smoke here.
+[anki:play:q:0]	No Smoking No smoking at the station.
+きんえん 駅はきんえんです。	No Smoking No smoking at the station.
+[anki:play:q:0]	(Alternate: 大丈夫); (Pitch: 3); (POS: 形状詞); Okay A. Are you ok on your own? -- B. Yes.
+だいじょうぶ A 「一人でだいじょうぶですか。」 -- B 「はい。」	(Alternate: 大丈夫); (Pitch: 3); (POS: 形状詞); Okay A. Are you ok on your own? -- B. Yes.
+[anki:play:q:0]	Unreasonable An unreasonable diet isn't good.
+むりな むりなダイエットはよくないです。	Unreasonable An unreasonable diet isn't good.
+[anki:play:q:0]	(Alternate: ダイエット-diet); (Pitch: 1); (POS: 名詞); Diet I am on a diet.
+ダイエット ダイエットをしています。	(Alternate: ダイエット-diet); (Pitch: 1); (POS: 名詞); Diet I am on a diet.
+[anki:play:q:0]	(Alternate: 思い出す); (Pitch: 4,0,2); (POS: 動詞); Remember I sometimes remember my family.
+おもいだす ときどき、かぞくをおもいだします。	(Alternate: 思い出す); (Pitch: 4,0,2); (POS: 動詞); Remember I sometimes remember my family.
+[anki:play:q:0]	(Pitch: 3); (POS: 形容詞); Lonely My friend returned to his / her home country. I feel lonely.
+寂しい 友達がくにへ帰りました。 寂しいです。	(Pitch: 3); (POS: 形容詞); Lonely My friend returned to his / her home country. I feel lonely.
+[anki:play:q:0]	"Long Time No See Suzuki: ""Huang-san, long time no see!"" -- Huang: ""Oh, Suzuki-sensei. Long time no see!"""
+(お)ひさしぶりです(ね) すずき「ホワンさん、ひさしぶりですね。」　ー　ホワン「あっ、すずき先生。おひさしぶりです。」	"Long Time No See Suzuki: ""Huang-san, long time no see!"" -- Huang: ""Oh, Suzuki-sensei. Long time no see!"""
+[anki:play:q:0]	"(Pitch: 1); (POS: 感動詞); Oh Suzuki: ""Huang-san, long time no see!"" -- Huang: ""Oh, Suzuki-sensei. Long time no see!"""
+あっ すずき「ホワンさん、ひさしぶりですね。」　ー　ホワン「あっ、すずき先生。おひさしぶりです。」	"(Pitch: 1); (POS: 感動詞); Oh Suzuki: ""Huang-san, long time no see!"" -- Huang: ""Oh, Suzuki-sensei. Long time no see!"""
+[anki:play:q:0]	"Are you doing well? Suzuki: ""Are you doing ok?"" -- Huang: ""Yes, thanks to everyone."""
+(お)元気ですか すずき「お元気ですか。」　ー　ホワン「はい。おかげさまで。」	"Are you doing well? Suzuki: ""Are you doing ok?"" -- Huang: ""Yes, thanks to everyone."""
+[anki:play:q:0]	"Thanks to You Suzuki: ""How are you feeling?"" -- Huang: ""I have recovered, thanks to everyone."""
+おかげさまで すずき「からだの　ちょうしは　どうですか。」　ー　ホワン「おかげさまで　よく　なおりました。」	"Thanks to You Suzuki: ""How are you feeling?"" -- Huang: ""I have recovered, thanks to everyone."""
+[anki:play:q:0]	(Alternate: パスポート-passport); (Pitch: 3); (POS: 名詞); Passport I always carry my passport.
+パスポート いつもパスポートをもっています。	(Alternate: パスポート-passport); (Pitch: 3); (POS: 名詞); Passport I always carry my passport.
+[anki:play:q:0]	(Alternate: ビザ-visa); (Pitch: 1); (POS: 名詞); Visa I will receive my visa at the embassy.
+ビザ たいしかんでビザをもらいます。	(Alternate: ビザ-visa); (Pitch: 1); (POS: 名詞); Visa I will receive my visa at the embassy.
+[anki:play:q:0]	Embassy The embassy is in Tokyo.
+たいしかん たいしかんは東京にあります。	Embassy The embassy is in Tokyo.
+[anki:play:q:0]	(Alternate: 大切); (Pitch: 0); (POS: 形状詞); Important The passcode number is important.
+たいせつな あんしょうばんごうはたいせつです。	(Alternate: 大切); (Pitch: 0); (POS: 形状詞); Important The passcode number is important.
+[anki:play:q:0]	(Alternate: 無くす); (Pitch: 0); (POS: 動詞); Lose I lost my house key.
+なくす うちのかぎをなくしました。	(Alternate: 無くす); (Pitch: 0); (POS: 動詞); Lose I lost my house key.
+[anki:play:q:0]	(Alternate: 貸す); (Pitch: 1); (POS: 名詞); Lend Please, lend me some money.
+かす お金をかしてください。	(Alternate: 貸す); (Pitch: 1); (POS: 名詞); Lend Please, lend me some money.
+[anki:play:q:0]	(Alternate: 借りる); (Pitch: 0); (POS: 動詞); Borrow 1. I will borrow money from a friend.
+かりる ①友達にお金をかります。	(Alternate: 借りる); (Pitch: 0); (POS: 動詞); Borrow 1. I will borrow money from a friend.
+[anki:play:q:0]	Borrow 2. I will borrow books from the library.
+かりる ② としょかんで本をかります。	Borrow 2. I will borrow books from the library.
+[anki:play:q:0]	(Alternate: 返す); (Pitch: 1); (POS: 動詞); Return I will return the book from the library.
+かえす としょかんに本をかえします。	(Alternate: 返す); (Pitch: 1); (POS: 動詞); Return I will return the book from the library.
+[anki:play:q:0]	Wasteful I don't do wasteful shopping.
+むだな むだな買い物はしません。	Wasteful I don't do wasteful shopping.
+[anki:play:q:0]	Need I need a visa to study abroad.
+いる りゅうがくするとき、ビザがいります。	Need I need a visa to study abroad.
+[anki:play:q:0]	(Pitch: 1); (POS: 感動詞); Really? A. This camera is 500,000 yen. -- B. Really?
+えっ A 「このカメラは５００,０００円です。」 -- B 「えっ？」	(Pitch: 1); (POS: 感動詞); Really? A. This camera is 500,000 yen. -- B. Really?
+[anki:play:q:0]	(Alternate: 本当); (Pitch: 0); (POS: 名詞); Really, True Is that true?
+ほんとう B 「ほんとうですか。」	(Alternate: 本当); (Pitch: 0); (POS: 名詞); Really, True Is that true?
+[anki:play:q:0]	(Alternate: 嘘); (Pitch: 1); (POS: 名詞); Lie It's not a lie. It's true.
+うそ うそじゃありません。ほんとうです。	(Alternate: 嘘); (Pitch: 1); (POS: 名詞); Lie It's not a lie. It's true.
+[anki:play:q:0]	(Alternate: 事); (Pitch: 2); (POS: 名詞); About I researched about Japan on the internet.
+こと インターネットで日本のことをしらべました。	(Alternate: 事); (Pitch: 2); (POS: 名詞); About I researched about Japan on the internet.
+[anki:play:q:0]	Pray I pray every day.
+おいのり まいにち、おいのりをします。	Pray I pray every day.
+[anki:play:q:0]	(Alternate: 触る); (Pitch: 0); (POS: 動詞); Touch Please do not touch the picture.
+さわる このえにさわらないでください。	(Alternate: 触る); (Pitch: 0); (POS: 動詞); Touch Please do not touch the picture.
+[anki:play:q:0]	(Alternate: 将来); (Pitch: 1,0); (POS: 名詞); Future I want to become a scholar in the future.
+しょうらい しょうらい、けんきゅうしゃになりたいです。	(Alternate: 将来); (Pitch: 1,0); (POS: 名詞); Future I want to become a scholar in the future.
+[anki:play:q:0]	(Alternate: 夢); (Pitch: 2); (POS: 名詞); Dream I have a big dream.
+ゆめ 大きいゆめがあります。	(Alternate: 夢); (Pitch: 2); (POS: 名詞); Dream I have a big dream.
+[anki:play:q:0]	Study Overseas I will study in the United States.
+りゅうがく(する) アメリカへりゅうがくします。	Study Overseas I will study in the United States.
+[anki:play:q:0]	(Alternate: 研究); (Pitch: 0); (POS: 名詞); Research I have been researching economics for about ten years.
+けんきゅう(する) １０年ぐらい、けいざいをけんきゅうしています。	(Alternate: 研究); (Pitch: 0); (POS: 名詞); Research I have been researching economics for about ten years.
+[anki:play:q:0]	Scholar My father is a scholar of economics.
+けんきゅうしゃ 父はけいざいのけんきゅうしゃです。	Scholar My father is a scholar of economics.
+[anki:play:q:0]	Graduate School My brother is a graduate school student.
+大学いん あには 大学いんの学生です。	Graduate School My brother is a graduate school student.
+[anki:play:q:0]	(Alternate: 専門); (Pitch: 0); (POS: 名詞); Expert Yamada-san's expertise is economics.
+せんもん 山田さんのせんもんはけいざいです。	(Alternate: 専門); (Pitch: 0); (POS: 名詞); Expert Yamada-san's expertise is economics.
+[anki:play:q:0]	(Alternate: 経済); (Pitch: 1); (POS: 名詞); Economics I am studying economics in college.
+けいざい 大学でけいざいをべんきょうしています。	(Alternate: 経済); (Pitch: 1); (POS: 名詞); Economics I am studying economics in college.
+[anki:play:q:0]	Art My expertise is art.
+びじゅつ せんもんはびじゅつです。	Art My expertise is art.
+[anki:play:q:0]	(Alternate: 地球); (Pitch: 0); (POS: 名詞); Earth I am researching about the Earth.
+ちきゅう ちきゅうのことをけんきゅうしています。	(Alternate: 地球); (Pitch: 0); (POS: 名詞); Earth I am researching about the Earth.
+[anki:play:q:0]	About, Regarding, Concerning I am researching about the Japanese economy.
+～について 日本のけいざいについてしらべています。	About, Regarding, Concerning I am researching about the Japanese economy.
+[anki:play:q:0]	(Alternate: 辞める); (Pitch: 0); (POS: 動詞); Quit I will quit the company next year.
+やめる らいねん、かいしゃをやめます。	(Alternate: 辞める); (Pitch: 0); (POS: 動詞); Quit I will quit the company next year.
+[anki:play:q:0]	(Alternate: 考える); (Pitch: 3,4); (POS: 動詞); Think I am thinking about the future.
+かんがえる しょうらいのことをかんがえています。	(Alternate: 考える); (Pitch: 3,4); (POS: 動詞); Think I am thinking about the future.
+[anki:play:q:0]	Already A. Did you already think about your future?
+もう A 「もうしょうらいのことをかんがえましたか。」	Already A. Did you already think about your future?
+[anki:play:q:0]	(Alternate: 未だ); (Pitch: 1); (POS: 副詞); Not Yet B. No, not yet.
+まだ B 「いいえ、まだです。」	(Alternate: 未だ); (Pitch: 1); (POS: 副詞); Not Yet B. No, not yet.
+[anki:play:q:0]	From Now B. I will think about it from now.
+これから B 「これからかんがえます。」	From Now B. I will think about it from now.
+[anki:play:q:0]	(Pitch: 0); (POS: 接続詞); And / And Then This robot understands words. And it can also dance.
+そして このロボットはことばがわかります。そして、ダンスもできます。	(Pitch: 0); (POS: 接続詞); And / And Then This robot understands words. And it can also dance.
+[anki:play:q:0]	Before I will shop before the party.
+まえ パーティーのまえに買い物をします。	Before I will shop before the party.
+[anki:play:q:0]	(Alternate: 後); (Pitch: 1); (POS: 名詞); After I will cook after shopping.
+あと 買い物のあと、りょうりをします。	(Alternate: 後); (Pitch: 1); (POS: 名詞); After I will cook after shopping.
+[anki:play:q:0]	Soon The party will start soon.
+もうすぐ A 「もうすぐパーティーがはじまりますよ。」	Soon The party will start soon.
+[anki:play:q:0]	Immediately B. Okay. I will be there immediately.
+すぐ B 「わかりました。すぐ行きます。」	Immediately B. Okay. I will be there immediately.
+[anki:play:q:0]	Later C. I am writing a report now. I will go later.
+あとで C 「いま、レポートを書いています。あとで行きます。」	Later C. I am writing a report now. I will go later.
+[anki:play:q:0]	Again I will call again later.
+また またあとで電話をかけます。	Again I will call again later.
+[anki:play:q:0]	By I will write up the report by tomorrow.
+までに レポートはあしたまでに書きます。	By I will write up the report by tomorrow.
+[anki:play:q:0]	So / Therefore So, I won't go anywhere today.
+ですから ですから、きょうはどこにも行きません。	So / Therefore So, I won't go anywhere today.
+[anki:play:q:0]	So Much A. Are you busy every day? -- B. No, not so much.
+そんなに A 「まいにちいそがしいですか。」 -- B 「そんなにいそがしくないです。」	So Much A. Are you busy every day? -- B. No, not so much.
+[anki:play:q:0]	(Alternate: 段々); (Pitch: 0,3); (POS: 副詞); Gradually It gradually becomes difficult.
+だんだん だんだんむずかしくなります。	(Alternate: 段々); (Pitch: 0,3); (POS: 副詞); Gradually It gradually becomes difficult.
+[anki:play:q:0]	"Everyone A:""Everyone, today we will discuss about robots."""
+みなさん A「みなさん、きょうは　ロボットに　ついて　話します。」	"Everyone A:""Everyone, today we will discuss about robots."""
+[anki:play:q:0]	"(Alternate: ロボット-robot); (Pitch: 1,2); (POS: 名詞); Robot A:""Everyone, today we will discuss about robots."""
+ロボット A「みなさん、きょうは　ロボットに　ついて　話します。」	"(Alternate: ロボット-robot); (Pitch: 1,2); (POS: 名詞); Robot A:""Everyone, today we will discuss about robots."""
+[anki:play:q:0]	"(Pitch: 0,1); (POS: 感動詞); Wow A:""Robots can do many things."" -- B:""Wow, that's amazing."""
+へえ A「この　ロボとは　いろいろな　ことが　できます。」　－　B「へえ、それは　すごいですね。」	"(Pitch: 0,1); (POS: 感動詞); Wow A:""Robots can do many things."" -- B:""Wow, that's amazing."""
+[anki:play:q:0]	"(Alternate: 凄い); (Pitch: 2); (POS: 形容詞); Amazing A:""Robots can do many things."" -- B:""Wow, that's amazing."""
+すごい A「この　ロボとは　いろいろな　ことが　できます。」　－　B「へえ、それは　すごいですね。」	"(Alternate: 凄い); (Pitch: 2); (POS: 形容詞); Amazing A:""Robots can do many things."" -- B:""Wow, that's amazing."""
+[anki:play:q:0]	(Alternate: 特に); (Pitch: 1); (POS: 副詞); Especially Kanji are especially difficult.
+とくに とくに漢字がむずかしいです。	(Alternate: 特に); (Pitch: 1); (POS: 副詞); Especially Kanji are especially difficult.
+[anki:play:q:0]	(Alternate: 中々); (Pitch: 0); (POS: 副詞); Quite It's difficult. I don't quite know the answer.
+なかなか むずかしいです。なかなかこたえがわかりません。	(Alternate: 中々); (Pitch: 0); (POS: 副詞); Quite It's difficult. I don't quite know the answer.
+[anki:play:q:0]	(Pitch: 0); (POS: 接続詞); But 1. I thought about it, but I didn't understand.
+～が ① かんがえましたが、わかりませんでした。	(Pitch: 0); (POS: 接続詞); But 1. I thought about it, but I didn't understand.
+[anki:play:q:0]	But 2. The research is difficult but interesting.
+～が ② けんきゅうはむずかしいですが、おもしろいです。	But 2. The research is difficult but interesting.
+[anki:play:q:0]	(Alternate: けれど); (Pitch: 1); (POS: 接続詞); But 1. I thought about it, but I didn't understand.
+～けど ① かんがえたけど、わからなかった。	(Alternate: けれど); (Pitch: 1); (POS: 接続詞); But 1. I thought about it, but I didn't understand.
+[anki:play:q:0]	But 2. The research is difficult but interesting.
+～けど ② けんきゅうはむずかしいけど、おもしろい。	But 2. The research is difficult but interesting.
+[anki:play:q:0]	Let's See A. How is your work? -- B. Let's see. I'm busy, but it's interesting.
+そうですね A 「しごとはどうですか。」 -- B 「そうですね。いそがしいですが、おもしろいです。」	Let's See A. How is your work? -- B. Let's see. I'm busy, but it's interesting.
+[anki:play:q:0]	Excuse Me, But A. Excuse me, but what is your name? -- B. I'm Yamada.
+しつれいですが A 「しつれいですが、おなまえは？」 -- B 「山田です。」	Excuse Me, But A. Excuse me, but what is your name? -- B. I'm Yamada.
+[anki:play:q:0]	(Alternate: 聞く); (Pitch: 2,0); (POS: 名詞); Ask I will ask Huang-san for his address.
+きく ホアンさんにじゅうしょをききます。	(Alternate: 聞く); (Pitch: 2,0); (POS: 名詞); Ask I will ask Huang-san for his address.
+[anki:play:q:0]	"(Alternate: あの); (Pitch: 0); (POS: 感動詞); Excuse Me A:""Excuse me, where is the post office?"" -- B:""Um..., it's there. But it's closed today."""
+あのー A「あのー、ゆうびんきょくは　どこですか。」　B「えーっと、あそこですよ。でも、きょうは　やすみですよ。」	"(Alternate: あの); (Pitch: 0); (POS: 感動詞); Excuse Me A:""Excuse me, where is the post office?"" -- B:""Um..., it's there. But it's closed today."""
+[anki:play:q:0]	"(Alternate: えーと); (Pitch: 0); (POS: 感動詞); Umm... A:""Excuse me, where is the post office?"" -- B:""Um..., it's there. But it's closed today."""
+えーっと A「あのー、ゆうびんきょくは　どこですか。」　B「えーっと、あそこですよ。でも、きょうは　やすみですよ。」	"(Alternate: えーと); (Pitch: 0); (POS: 感動詞); Umm... A:""Excuse me, where is the post office?"" -- B:""Um..., it's there. But it's closed today."""
+[anki:play:q:0]	"But A:""Excuse me, where is the post office?"" -- B:""Um..., it's there. But it's closed today."""
+でも A「あのー、ゆうびんきょくは　どこですか。」　B「えーっと、あそこですよ。でも、きょうは　やすみですよ。」	"But A:""Excuse me, where is the post office?"" -- B:""Um..., it's there. But it's closed today."""
+[anki:play:q:0]	"Why A:""Why is that?"" -- B:""Because it's Saturday."" -- A:""Okay, I understand. Thank you."""
+どうして A「どうしてですか。」　B「土曜日ですから。」　A「そうですか。わかりました。ありがとうごさいます。」	"Why A:""Why is that?"" -- B:""Because it's Saturday."" -- A:""Okay, I understand. Thank you."""
+[anki:play:q:0]	"Because A:""Why is that?"" -- B:""Because it's Saturday."" -- A:""Okay, I understand. Thank you."""
+～から A「どうしてですか。」　B「土曜日ですから。」　A「そうですか。わかりました。ありがとうごさいます。」	"Because A:""Why is that?"" -- B:""Because it's Saturday."" -- A:""Okay, I understand. Thank you."""
+[anki:play:q:0]	"Is that so? A:""Why is that?"" -- B:""Because it's Saturday."" -- A:""Okay, I understand. Thank you."""
+そうですか A「どうしてですか。」　B「土曜日ですから。」　A「そうですか。わかりました。ありがとうごさいます。」	"Is that so? A:""Why is that?"" -- B:""Because it's Saturday."" -- A:""Okay, I understand. Thank you."""
+[anki:play:q:0]	"Understand A:""Why is that?"" -- B:""Because it's Saturday."" -- A:""Okay, I understand. Thank you."""
+わかりました A「どうしてですか。」　B「土曜日ですから。」　A「そうですか。わかりました。ありがとうごさいます。」	"Understand A:""Why is that?"" -- B:""Because it's Saturday."" -- A:""Okay, I understand. Thank you."""
