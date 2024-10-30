@@ -1,58 +1,79 @@
 from xml.etree import ElementTree as ET
 
-
-tree = ET.parse("/Users/HELLHEIM/Downloads/TEST_jmDict.xml")
+tree = ET.parse("/Users/kyle/GitHub/JapaneseData/Data/JMDict/TEST_jmDict.xml")
 root = tree.getroot()
 
 
-
-
-print(root.tag)
-
 def FindReadingElements():
-    r_el = entry.findall('r_ele')
-    print(r_el)
+    reading_elements = entry.findall('r_ele')       # get all reading elements
+
+    for reading in reading_elements:
+        # find everything based on tag
+        for child in reading:
+            if child.tag == 'reb':
+                print('reb: ' + child.text)
+            if child.tag == 're_nokanji':
+                print('re_nokanji')
+            if child.tag == 're_restr':
+                print('re_restr: ' + child.text)
+            if child.tag == 're_inf':
+                print('re_inf: ' + child.text)
+            if child.tag == 'r_ele':
+                print("still in r_ele")
+
+
 
 def FindKanjiElements():
-    k_el = entry.findall('k_ele')
-    if k_el:    # for empty check code: if not k_el
-        print(k_el)
+    kanji_elements = entry.findall('k_ele')       # get all kanji elements
+
+    for kanji in kanji_elements:
+        for child in kanji:
+            if child.tag == 'keb':
+                print('keb: ' + child.text)
+            if child.tag == 'ke_pri':
+                print('ke_pri: ' + child.text)
+            if child.tag == 'ke_inf':
+                print('ke_inf: ' + child.text)
+            if child.tag == 'k_ele':
+                print("still in kanji element")
+
 
 def FindSenseElements():
-    sense_el = entry.findall('sense')
-    print(sense_el)
-    
-    
-    
-    
-    
-for entry in root[:10]:
-    #find all reading_elements
-    FindReadingElements()
-    FindKanjiElements()from xml.etree import ElementTree as ET
+    sense_elements = entry.findall('sense')   # get all sense elements
 
+    for sense in sense_elements:
+        # find everything based on tag
+        for child in sense:
+            if child.tag == 'pos':
+                print('pos: ' + child.text)
+            if child.tag == 'gloss':
+                print('gloss: ' + child.text)
+            if child.tag == 'misc':
+                print('misc: ' + child.text)
+            if child.tag == 'lsource':
+                print('lsource: ' + child.text)
+            if child.tag == 's_inf':
+                print('s_inf: ' + child.text)
+            if child.tag == 'xref':
+                print('xref: ' + child.text)
+            if child.tag == 'field':
+                print('field: ' + child.text)
+            if child.tag == 'reb':
+                print('reb: ' + child.text)
+            if child.tag == 're_pri':
+                print('re_pri: ' + child.text)
+            if child.tag == 'ant':
+                print('ant: ' + child.text)
+            if child.tag == 'dial':
+                print('dial: ' + child.text)
+            if child.tag == 'stagk':
+                print('stagk: ' + child.text)
+            if child.tag == 'stagr':
+                print('stagr: ' + child.text)
+            if child.tag == 'sense':
+                print("still in sense")
 
-tree = ET.parse("/Users/HELLHEIM/Downloads/TEST_jmDict.xml")
-root = tree.getroot()
-
-
-
-
-print(root.tag)
-
-def FindReadingElements():
-    r_el = entry.findall('r_ele')
-    print(r_el)
-
-def FindKanjiElements():
-    k_el = entry.findall('k_ele')
-    if k_el:    # for empty check code: if not k_el
-        print(k_el)
-
-def FindSenseElements():
-    sense_el = entry.findall('sense')
-    print(sense_el)
-
+        print('\t-----')
 
 
 
@@ -62,48 +83,35 @@ for entry in root[:10]:
     FindReadingElements()
     FindKanjiElements()
     FindSenseElements()
-    print('\n\n')
+    print('--------------------------------------------')
 
 
+# ALL AVAILABLE TAGS
+
+# r_ele
+    # reb
+    # re_nokanji
+    # re_restr
+    # re_inf
+
+# k_ele
+    # keb
+    # ke_pri
+    # ke_inf
+
+# sense
+    # pos
+    # gloss
+    # misc
+    # lsource
+    # s_inf
+    # xref
+    # field
+    # reb
+    # re_pri
+    # ant
+    # dial
+    # stagk
+    # stagr
 
 
-
-elemList = []
-
-for elem in tree.iter():
-    elemList.append(elem.tag)
-
-# now I remove duplicities - by convertion to set and back to list
-elemList = list(set(elemList))
-
-# Just printing out the result
-print(elemList)
-
-
-
-#   'lsource', 'ant', 'JMdict', 'r_ele', 'entry', 're_inf', 'stagr', 're_pri',
-#   're_restr', 'dial', 'field', 'ke_inf', 'k_ele', 're_nokanji', 'gloss',
-#   'pos', 'misc', 's_inf', 'ke_pri', 'xref', 'reb', 'keb', 'stagk', 'sense'
-    FindSenseElements()
-    print('\n\n')
-    
-    
-    
-    
-
-elemList = []
-
-for elem in tree.iter():
-    elemList.append(elem.tag)
-
-# now I remove duplicities - by convertion to set and back to list
-elemList = list(set(elemList))
-
-# Just printing out the result
-print(elemList)
-
-
-
-#   'lsource', 'ant', 'JMdict', 'r_ele', 'entry', 're_inf', 'stagr', 're_pri', 
-#   're_restr', 'dial', 'field', 'ke_inf', 'k_ele', 're_nokanji', 'gloss', 
-#   'pos', 'misc', 's_inf', 'ke_pri', 'xref', 'reb', 'keb', 'stagk', 'sense'
