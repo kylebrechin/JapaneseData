@@ -4,8 +4,8 @@ import platform
 if platform.system() == 'Darwin':
     tree = ET.parse("/Users/kyle/GitHub/JapaneseData/Data/JMDict/TEST_jmDict.xml")
 if platform.system() == 'Windows':
-    tree = ET.parse()
-    
+    tree = ET.parse("/Users/HELLHEIM/Documents/JapaneseData/Data/JMDict/TEST_jmDict.xml")
+
 root = tree.getroot()
 
 # highest R_ELE and K_ELE are both 9
