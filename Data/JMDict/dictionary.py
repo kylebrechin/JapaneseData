@@ -1,6 +1,11 @@
 from xml.etree import ElementTree as ET
+import platform
 
-tree = ET.parse("/Users/kyle/GitHub/JapaneseData/Data/JMDict/TEST_jmDict.xml")
+if platform.system() == 'Darwin':
+    tree = ET.parse("/Users/kyle/GitHub/JapaneseData/Data/JMDict/TEST_jmDict.xml")
+if platform.system() == 'Windows':
+    tree = ET.parse()
+    
 root = tree.getroot()
 
 # highest R_ELE and K_ELE are both 9
@@ -12,7 +17,9 @@ def FindReadingElements():
     for count, reading in enumerate(reading_elements, start=1):
         # find everything based on tag
         for child in reading:
+            ele_name = ''
             if child.tag == 'reb':
+
                 print(f'reb {count}: ' + child.text)
             if child.tag == 're_nokanji':
                 print('re_nokanji')
@@ -22,6 +29,7 @@ def FindReadingElements():
                 print(f're_inf {count}: ' + child.text)
             if child.tag == 'r_ele':
                 print("still in r_ele")
+            print(ele_name)
 
 
 
@@ -96,6 +104,8 @@ for entry in root[5:10]:
     for count, reading in enumerate(reading_elements, start=1):
         # find everything based on tag
         for child in reading:
+            ele_name = ''
+            ele_name = child.tag + ' ' + str(count)
             if child.tag == 'reb':
                 r_el.append(child.text)
                 print(f'reb {count}: ' + child.text)
@@ -107,6 +117,7 @@ for entry in root[5:10]:
                 print(f're_inf {count}: ' + child.text)
             if child.tag == 'r_ele':
                 print("still in r_ele")
+            print("*** " + ele_name)
     # end READING elements
 
     # FIND KANJI
@@ -132,6 +143,8 @@ for entry in root[5:10]:
         # find everything based on tag
         g_str = ""
         for child in sense:
+            ele_name = ''
+            ele_name = child.tag + ' ' + str(count)
             if child.tag == 'pos':
                 pos_el.append(child.text)
                 print(f'pos {count}: ' + child.text)
@@ -160,34 +173,36 @@ for entry in root[5:10]:
                 print(f'stagr {count}: ' + child.text)
             if child.tag == 'sense':
                 print("still in sense")
-
+            print("*** " + ele_name)
         g_el.append(g_str.rstrip('; '))
         print('\t-----')
         # end SENSE elements
 
-    print(f'readings {len(r_el)}')
-    for count, r in enumerate(r_el, start=1):
-        print(f'{count} {r}')
 
-    print(f'kanji {len(k_el)}')
-    for count, k in enumerate(k_el, start=1):
-        print(f'{count} {k}')
-
-    print(f'pos {len(pos_el)}')
-    for count, pos in enumerate(pos_el, start=1):
-        print(f'{count} {pos}')
-
-    print(f'gloss {len(g_el)}')
-    for count, g in enumerate(g_el, start=1):
-        print(f'{count} {g}')
-
-    print(f'xref {len(xref_el)}')
-    for count, x in enumerate(xref_el, start=1):
-        print(f'{count} {x}')
-
-    print(f's_inf_el {len(s_inf_el)}')
-    for count, s_inf in enumerate(s_inf_el, start=1):
-        print(f'{count} {s_inf}')
+    # PRINTOUT
+    # print(f'readings {len(r_el)}')
+    # for count, r in enumerate(r_el, start=1):
+    #     print(f'{count} {r}')
+    #
+    # print(f'kanji {len(k_el)}')
+    # for count, k in enumerate(k_el, start=1):
+    #     print(f'{count} {k}')
+    #
+    # print(f'pos {len(pos_el)}')
+    # for count, pos in enumerate(pos_el, start=1):
+    #     print(f'{count} {pos}')
+    #
+    # print(f'gloss {len(g_el)}')
+    # for count, g in enumerate(g_el, start=1):
+    #     print(f'{count} {g}')
+    #
+    # print(f'xref {len(xref_el)}')
+    # for count, x in enumerate(xref_el, start=1):
+    #     print(f'{count} {x}')
+    #
+    # print(f's_inf_el {len(s_inf_el)}')
+    # for count, s_inf in enumerate(s_inf_el, start=1):
+    #     print(f'{count} {s_inf}')
 
     print('\n--------------------------------------------')
 
