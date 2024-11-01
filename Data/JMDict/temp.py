@@ -1,6 +1,11 @@
 from xml.etree import ElementTree as ET
+import platform
 
-tree = ET.parse("/Users/kyle/GitHub/JapaneseData/Data/JMDict/TEST_jmDict.xml")
+if platform.system() == 'Darwin':
+    tree = ET.parse("/Users/kyle/GitHub/JapaneseData/Data/JMDict/TEST_jmDict.xml")
+if platform.system() == 'Windows':
+    tree = ET.parse("/Users/HELLHEIM/Documents/JapaneseData/Data/JMDict/TEST_jmDict.xml")
+
 root = tree.getroot()
 
 # highest R_ELE and K_ELE are both 9
@@ -42,14 +47,17 @@ def FindKanjiElements():
 
 
 def FindSenseElements():
+    g_el = []
     sense_elements = entry.findall('sense')   # get all sense elements
 
     for count, sense in enumerate(sense_elements, start=1):
         # find everything based on tag
+        g_str = ""
         for child in sense:
             if child.tag == 'pos':
                 print(f'pos {count}: ' + child.text)
             if child.tag == 'gloss':
+                g_str += child.text + '; '
                 print(f'gloss {count}: ' + child.text)
             if child.tag == 'misc':
                 print(f'misc {count}: ' + child.text)
@@ -78,6 +86,8 @@ def FindSenseElements():
             if child.tag == 're_pri':
                 print(f're_pri {count}: ' + child.text)
             # ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! !
+        g_el.append(g_str.rstrip('; '))
+        print(g_el)
         print('\t-----')
 
 
