@@ -3,15 +3,15 @@ import os
 import platform
 
 class bcolors:
-    HEADER = '\033[95m'         # pink/purple
-    OKBLUE = '\033[94m'
-    OKCYAN = '\033[96m'
-    OKGREEN = '\033[92m'
-    WARNING = '\033[93m'
-    FAIL = '\033[91m'
-    ENDC = '\033[0m'
-    BOLD = '\033[1m'
-    UNDERLINE = '\033[4m'
+    HEADER = '\033[95m'         # pink
+    OKBLUE = '\033[94m'         # blue
+    OKCYAN = '\033[96m'         # cyan
+    OKGREEN = '\033[92m'        # green
+    WARNING = '\033[93m'        # yellow
+    FAIL = '\033[91m'           # red
+    ENDC = '\033[0m'            # end color
+    BOLD = '\033[1m'            # bold
+    UNDERLINE = '\033[4m'       # underline
 
 if platform.system() == 'Darwin':
     tree = ET.parse("/Users/kyle/GitHub/JapaneseData/Data/JMDict/TEST_jmDict.xml")
@@ -23,14 +23,13 @@ root = tree.getroot()
 
 
 # highest R_ELE and K_ELE are both 9
-
-DICT_DEBUG_PRINT = True
-JISHO_DEBUG = False
-
-
+#                   True False
+DICT_DEBUG_PRINT    = False
+JISHO_DEBUG         = False
 
 
-for entry in root[7:9]:
+
+for entry in root[:10]:
     r_el = []
     k_el = []
     g_el = []
@@ -40,23 +39,38 @@ for entry in root[7:9]:
 
     # special dictionary creation method
 
-    # FIND READING
+    #  READING variables
     ent_list = []
-
     reb_dict = {}
     re_nokanji_dict = {}
     re_restr_dict = {}
     re_inf_dict = {}
+    # KANJI variables
+    keb_dict = {}
+    ke_pri_dict = {}
+    ke_inf_dict = {}
+    # SENSE variables
+    gloss_dict = {}
+    xref_dict = {}
+    pos_dict = {}
+    s_inf_dict = {}
+    misc_dict = {}
+    lsource_dict = {}
+    field_dict = {}
+    ant_dict = {}
+    dial_dict = {}
+    stagk_dict = {}
+    stagr_dict = {}
 
-
-
+    # Get all the elements to search through in each entry
     reading_elements = entry.findall('r_ele')  # get all reading elements
+    kanji_elements = entry.findall('k_ele')  # get all kanji elements
+    sense_elements = entry.findall('sense')  # get all sense elements
 
+
+    # search through all the R_ELE elements in this entry
     for count, reading in enumerate(reading_elements, start=1):
-
-
-
-
+        print(f'#{count} {reading}')
         # find everything based on tag
         for child in reading:
             if child.tag == 'reb':
@@ -73,13 +87,13 @@ for entry in root[7:9]:
                 re_inf_dict[child.tag + ' ' + str(count)] = child.text
                 # print(f're_inf {count}: ' + child.text)
 
+        input(f'{bcolors.OKGREEN}Continue >>>{bcolors.ENDC}')
+
     # end READING elements
     # FIND KANJI
-    keb_dict = {}
-    ke_pri_dict = {}
-    ke_inf_dict = {}
 
-    kanji_elements = entry.findall('k_ele')  # get all kanji elements
+
+
 
     for count, kanji in enumerate(kanji_elements, start=1):
         for child in kanji:
@@ -97,18 +111,8 @@ for entry in root[7:9]:
     # end KANJI elements
 
     # FIND SENSE
-    gloss_dict = {}
-    xref_dict = {}
-    pos_dict = {}
-    s_inf_dict = {}
-    misc_dict = {}
-    lsource_dict = {}
-    field_dict = {}
-    ant_dict = {}
-    dial_dict = {}
-    stagk_dict = {}
-    stagr_dict = {}
-    sense_elements = entry.findall('sense')  # get all sense elements
+
+
 
     for count, sense in enumerate(sense_elements, start=1):
         # find everything based on tag
@@ -160,41 +164,41 @@ for entry in root[7:9]:
     # working !!
     if DICT_DEBUG_PRINT:
         if len(reb_dict):
-            print(f'[{len(reb_dict)}] reb_dict: ' + str(reb_dict))
+            print(f'{bcolors.HEADER}[{len(reb_dict)}]{bcolors.ENDC} {bcolors.OKCYAN}reb_dict:{bcolors.ENDC} ' + str(reb_dict))
         if len(keb_dict):
-            print(f'[{len(keb_dict)}] kab_dict: ' + str(keb_dict))
+            print(f'{bcolors.HEADER}[{len(keb_dict)}]{bcolors.ENDC} {bcolors.OKCYAN}kab_dict:{bcolors.ENDC} ' + str(keb_dict))
         if len(gloss_dict):
-            print(f'[{len(gloss_dict)}] gloss_dict: ' + str(gloss_dict))
+            print(f'{bcolors.HEADER}[{len(gloss_dict)}]{bcolors.ENDC} {bcolors.OKCYAN}gloss_dict:{bcolors.ENDC} ' + str(gloss_dict))
         if len(xref_dict):
-            print(f'[{len(xref_dict)}] xref_dict: ' + str(xref_dict))
+            print(f'{bcolors.HEADER}[{len(xref_dict)}]{bcolors.ENDC} {bcolors.OKCYAN}xref_dict:{bcolors.ENDC} ' + str(xref_dict))
         if len(pos_dict):
-            print(f'[{len(pos_dict)}] pos_dict: ' + str(pos_dict))
+            print(f'{bcolors.HEADER}[{len(pos_dict)}]{bcolors.ENDC} {bcolors.OKCYAN}pos_dict:{bcolors.ENDC} ' + str(pos_dict))
         if len(re_nokanji_dict):
-            print(f'[{len(re_nokanji_dict)}] re_nokanji_dict: ' + str(re_nokanji_dict))
+            print(f'{bcolors.HEADER}[{len(re_nokanji_dict)}]{bcolors.ENDC} {bcolors.OKCYAN}re_nokanji_dict:{bcolors.ENDC} ' + str(re_nokanji_dict))
         if len(re_restr_dict):
-            print(f'[{len(re_restr_dict)}] re_restr_dict: ' + str(re_restr_dict))
+            print(f'{bcolors.HEADER}[{len(re_restr_dict)}]{bcolors.ENDC} {bcolors.OKCYAN}re_restr_dict:{bcolors.ENDC} ' + str(re_restr_dict))
         if len(re_inf_dict):
-            print(f'[{len(re_inf_dict)}] re_inf_dict: ' + str(re_inf_dict))
+            print(f'{bcolors.HEADER}[{len(re_inf_dict)}]{bcolors.ENDC} {bcolors.OKCYAN}re_inf_dict:{bcolors.ENDC} ' + str(re_inf_dict))
         if len(ke_pri_dict):
-            print(f'[{len(ke_pri_dict)}] ke_pri_dict: ' + str(ke_pri_dict))
+            print(f'{bcolors.HEADER}[{len(ke_pri_dict)}]{bcolors.ENDC} {bcolors.OKCYAN}ke_pri_dict:{bcolors.ENDC} ' + str(ke_pri_dict))
         if len(ke_inf_dict):
-            print(f'[{len(ke_inf_dict)}] ke_inf_dict: ' + str(ke_inf_dict))
+            print(f'{bcolors.HEADER}[{len(ke_inf_dict)}]{bcolors.ENDC} {bcolors.OKCYAN}ke_inf_dict:{bcolors.ENDC} ' + str(ke_inf_dict))
         if len(s_inf_dict):
-            print(f'[{len(s_inf_dict)}] s_inf_dict: ' + str(s_inf_dict))
+            print(f'{bcolors.HEADER}[{len(s_inf_dict)}]{bcolors.ENDC} {bcolors.OKCYAN}s_inf_dict:{bcolors.ENDC} ' + str(s_inf_dict))
         if len(misc_dict):
-            print(f'[{len(misc_dict)}] misc_dict: ' + str(misc_dict))
+            print(f'{bcolors.HEADER}[{len(misc_dict)}]{bcolors.ENDC} {bcolors.OKCYAN}misc_dict:{bcolors.ENDC} ' + str(misc_dict))
         if len(lsource_dict):
-            print(f'[{len(lsource_dict)}] lsource_dict: ' + str(lsource_dict))
+            print(f'{bcolors.HEADER}[{len(lsource_dict)}]{bcolors.ENDC} {bcolors.OKCYAN}lsource_dict:{bcolors.ENDC} ' + str(lsource_dict))
         if len(field_dict):
-            print(f'[{len(field_dict)}] field_dict: ' + str(field_dict))
+            print(f'{bcolors.HEADER}[{len(field_dict)}]{bcolors.ENDC} {bcolors.OKCYAN}field_dict:{bcolors.ENDC} ' + str(field_dict))
         if len(ant_dict):
-            print(f'[{len(ant_dict)}] ant_dict: ' + str(ant_dict))
+            print(f'{bcolors.HEADER}[{len(ant_dict)}]{bcolors.ENDC} {bcolors.OKCYAN}ant_dict:{bcolors.ENDC} ' + str(ant_dict))
         if len(dial_dict):
-            print(f'[{len(dial_dict)}] dial_dict: ' + str(dial_dict))
+            print(f'{bcolors.HEADER}[{len(dial_dict)}]{bcolors.ENDC} {bcolors.OKCYAN}dial_dict:{bcolors.ENDC} ' + str(dial_dict))
         if len(stagk_dict):
-            print(f'[{len(stagk_dict)}] stagk_dict: ' + str(stagk_dict))
+            print(f'{bcolors.HEADER}[{len(stagk_dict)}]{bcolors.ENDC} {bcolors.OKCYAN}stagk_dict:{bcolors.ENDC} ' + str(stagk_dict))
         if len(stagr_dict):
-            print(f'[{len(stagr_dict)}] stagr_dict: ' + str(stagr_dict))
+            print(f'{bcolors.HEADER}[{len(stagr_dict)}]{bcolors.ENDC} {bcolors.OKCYAN}stagr_dict:{bcolors.ENDC} ' + str(stagr_dict))
 
     # -----------------------------
     # pos
@@ -241,7 +245,13 @@ for entry in root[7:9]:
 
     # print('^^^^^^^^^^^^^^ PRINTOUTS ^^^^^^^^^^^^^^\n\n')
 
-    input("Press any key to continue...")
+
+
+    #input(f'{bcolors.OKGREEN}Continue >>>{bcolors.ENDC}')
+
+
+
+
 
     # print out information
 
