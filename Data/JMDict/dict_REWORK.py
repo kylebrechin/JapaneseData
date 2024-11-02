@@ -13,7 +13,7 @@ root = tree.getroot()
 
 
 
-for entry in root[:10]:
+for entry in root[7:8]:
     r_el = []
     k_el = []
     g_el = []
@@ -35,22 +35,21 @@ for entry in root[:10]:
     reading_elements = entry.findall('r_ele')  # get all reading elements
 
     for count, reading in enumerate(reading_elements, start=1):
-        print(count)
         # find everything based on tag
         for child in reading:
             if child.tag == 'reb':
                 r_el.append(child.text)
                 reb_dict[child.tag + ' ' + str(count)] = child.text
-                print(f'reb {count}: ' + child.text)
+                #print(f'reb {count}: ' + child.text)
             if child.tag == 're_nokanji':
                 re_nokanji_dict[child.tag + ' ' + str(count)] = child.text
-                print('re_nokanji')
+                #print('re_nokanji')
             if child.tag == 're_restr':
                 re_restr_dict[child.tag + ' ' + str(count)] = child.text
-                print(f're_restr {count}: ' + child.text)
+                #print(f're_restr {count}: ' + child.text)
             if child.tag == 're_inf':
                 re_inf_dict[child.tag + ' ' + str(count)] = child.text
-                print(f're_inf {count}: ' + child.text)
+                #print(f're_inf {count}: ' + child.text)
 
 
     # end READING elements
@@ -67,13 +66,13 @@ for entry in root[:10]:
             if child.tag == 'keb':
                 k_el.append(child.text)
                 keb_dict[child.tag + ' ' + str(count)] = child.text
-                print(f'keb {count}: ' + child.text)
+                #print(f'keb {count}: ' + child.text)
             if child.tag == 'ke_pri':
                 ke_pri_dict[child.tag + ' ' + str(count)] = child.text
-                print(f'ke_pri {count}: ' + child.text)
+                #print(f'ke_pri {count}: ' + child.text)
             if child.tag == 'ke_inf':
                 ke_inf_dict[child.tag + ' ' + str(count)] = child.text
-                print(f'ke_inf {count}: ' + child.text)
+                #print(f'ke_inf {count}: ' + child.text)
 
     # end KANJI elements
 
@@ -97,48 +96,46 @@ for entry in root[:10]:
         for child in sense:
             if child.tag == 'gloss':
                 g_str += child.text + '; '
-                print(f'gloss {count}: ' + child.text)
+                #print(f'gloss {count}: ' + child.text)
             if child.tag == 'pos':
                 pos_dict[child.tag + ' ' + str(count)] = child.text
                 pos_el.append(child.text)
-                print(f'pos {count}: ' + child.text)
+                #print(f'pos {count}: ' + child.text)
             if child.tag == 'misc':
                 misc_dict[child.tag + ' ' + str(count)] = child.text
-                print(f'misc {count}: ' + child.text)
+                #print(f'misc {count}: ' + child.text)
             if child.tag == 'lsource':
                 lsource_dict[child.tag + ' ' + str(count)] = child.text
-                print(f'lsource {count}: ' + child.text)
+                #print(f'lsource {count}: ' + child.text)
             if child.tag == 's_inf':
                 s_inf_dict[child.tag + ' ' + str(count)] = child.text
                 s_inf_el.append(child.text)
-                print(f's_inf {count}: ' + child.text)
+                #print(f's_inf {count}: ' + child.text)
             if child.tag == 'xref':
                 xref_dict[child.tag + ' ' + str(count)] = child.text
                 xref_el.append(child.text)
-                print(f'xref {count}: ' + child.text)
+                #print(f'xref {count}: ' + child.text)
             if child.tag == 'field':
                 field_dict[child.tag + ' ' + str(count)] = child.text
-                print(f'field {count}: ' + child.text)
+                #print(f'field {count}: ' + child.text)
             if child.tag == 'ant':
                 ant_dict[child.tag + ' ' + str(count)] = child.text
-                print(f'ant {count}: ' + child.text)
+                #print(f'ant {count}: ' + child.text)
             if child.tag == 'dial':
                 dial_dict[child.tag + ' ' + str(count)] = child.text
-                print(f'dial {count}: ' + child.text)
+                #print(f'dial {count}: ' + child.text)
             if child.tag == 'stagk':
                 stagk_dict[child.tag + ' ' + str(count)] = child.text
-                print(f'stagk {count}: ' + child.text)
+                #print(f'stagk {count}: ' + child.text)
             if child.tag == 'stagr':
                 stagr_dict[child.tag + ' ' + str(count)] = child.text
-                print(f'stagr {count}: ' + child.text)
-            if child.tag == 'sense':
-                print("still in sense")
+                #print(f'stagr {count}: ' + child.text)
+
 
         # clean gloss, add to dictionary, and clear it
-        g_el.append(g_str.rstrip('; '))
-        gloss_dict['gloss ' + str(count)] = g_el
+        gloss_dict['gloss ' + str(count)] = g_str.rstrip('; ')
         g_el = []
-        print('\t-----')
+
     # end SENSE elements
 
     # working !!
@@ -162,6 +159,23 @@ for entry in root[:10]:
     print(f'[{len(stagk_dict)}] stagk_dict: ' + str(stagk_dict))
     print(f'[{len(stagr_dict)}] stagr_dict: ' + str(stagr_dict))
 
+
+    # -----------------------------
+    # pos
+    # gloss
+    # xref
+    # s_inf
+    
+    # PRINT OUT EVERYTHING LIKE ON JISHO       
+    
+    for idx, item in enumerate(gloss_dict):
+        print("pos: " + pos_dict['pos ' + str(idx+1)])
+        print("gloss: " + str(gloss_dict['gloss ' + str(idx+1)]) )
+        if 'xref ' + str(idx+1) in xref_dict:
+            print("xref: " + xref_dict['xref ' + str(idx+1)])
+        if 's_inf ' + str(idx+1) in s_inf_dict:
+            print("s_inf: " + s_inf_dict['s_inf ' + str(idx+1)])
+        print('\n')
 
 
 
