@@ -3,6 +3,12 @@ import os
 import platform
 import sqlite3 as sql
 
+# TO DO
+# concat POS like gloss, may have multiple per entry
+
+
+
+#region Setup Initializations
 class bcolors:
     HEADER = '\033[95m'         # pink/purple
     OKBLUE = '\033[94m'
@@ -19,45 +25,31 @@ if platform.system() == 'Darwin':
 if platform.system() == 'Windows':
     tree = ET.parse("/Users/HELLHEIM/Documents/JapaneseData/Data/JMDict/TEST_jmDict.xml")
 root = tree.getroot()
-
-
-
-
-main_con = sql.connect("jp_test.db")
-sentence_con = sql.connect("jp_sentence_test.db")
-
-main_cursor = main_con.cursor()
-sentence_cursor = sentence_con.cursor()
-
-print("Creating Tables")
-main_cursor.execute('''CREATE TABLE IF NOT EXISTS JP_Test (id integer primary key, reb1 text, reb2 text, keb1 text, keb2 text)''')
-sentence_cursor.execute('''CREATE TABLE IF NOT EXISTS JP_Sentence_Test (id integer primary key, for integer, pos1 text, gloss1 text, xref1 text, s_inf1 text)''')
-
-main_con.commit()
-sentence_con.commit()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#endregion
 
 JISHO_DEBUG = False
-DICT_DEBUG_PRINT = False
+DICT_DEBUG_PRINT = True
+DATABASE_ENABLE = False
 
-for entry in root[7:9]:
+#region Database Initialization
+if DATABASE_ENABLE:
+    main_con = sql.connect("jp_test.db")
+    sentence_con = sql.connect("jp_sentence_test.db")
+
+    main_cursor = main_con.cursor()
+    sentence_cursor = sentence_con.cursor()
+
+    print("Creating Tables")
+    main_cursor.execute('''CREATE TABLE IF NOT EXISTS JP_Test (id integer primary key, reb1 text, reb2 text, keb1 text, keb2 text)''')
+    sentence_cursor.execute('''CREATE TABLE IF NOT EXISTS JP_Sentence_Test (id integer primary key, for integer, pos1 text, gloss1 text, xref1 text, s_inf1 text)''')
+
+    main_con.commit()
+    sentence_con.commit()
+#endregion
+
+
+for entry in root[:10]:
+    #region Variables Required
     r_el = []
     k_el = []
     g_el = []
@@ -65,8 +57,10 @@ for entry in root[7:9]:
     xref_el = []
     s_inf_el = []
 
-    # special dictionary creation method
+    #endregion
 
+
+    #region FINDxxxDATA
     # FIND READING
     ent_list = []
 
@@ -75,15 +69,9 @@ for entry in root[7:9]:
     re_restr_dict = {}
     re_inf_dict = {}
 
-
-
     reading_elements = entry.findall('r_ele')  # get all reading elements
 
     for count, reading in enumerate(reading_elements, start=1):
-
-
-
-
         # find everything based on tag
         for child in reading:
             if child.tag == 'reb':
@@ -183,6 +171,9 @@ for entry in root[7:9]:
         g_el = []
 
     # end SENSE elements
+    #endregion
+
+
 
     # working !!
     if DICT_DEBUG_PRINT:
@@ -222,6 +213,7 @@ for entry in root[7:9]:
             print(f'[{len(stagk_dict)}] stagk_dict: ' + str(stagk_dict))
         if len(stagr_dict):
             print(f'[{len(stagr_dict)}] stagr_dict: ' + str(stagr_dict))
+        print('-------------------------------------------------')
 
     # -----------------------------
     # pos
@@ -241,24 +233,25 @@ for entry in root[7:9]:
                 print("\ts_inf: " + s_inf_dict['s_inf ' + str(idx + 1)])
 
 
-    # --------------------------
-    #   STARTING DATABASE IMPLEMENTATION
-    # --------------------------
-    print("Put data into JP_Test")
-    thing_set = main_cursor.execute(" INSERT INTO \
-    JP_test (reb1, reb2, keb1, keb2)\
-    values (?, ?, ?, ?)", (reb_dict['reb 1'], 'NULL', keb_dict['keb 1'], 'NULL') )
-    print(f'last row ID: {thing_set.lastrowid}')
-    main_con.commit()
+        # --------------------------
+        #   STARTING DATABASE IMPLEMENTATION
+        # --------------------------
+    if DATABASE_ENABLE:
+        print("Put data into JP_Test")
+        thing_set = main_cursor.execute(" INSERT INTO \
+        JP_test (reb1, reb2, keb1, keb2)\
+        values (?, ?, ?, ?)", (reb_dict['reb 1'], 'NULL', keb_dict['keb 1'], 'NULL') )
+        print(f'last row ID: {thing_set.lastrowid}')
+        main_con.commit()
 
-    #JP_Sentence_Test(id    integer    primary    key,    for integer, pos1 text, gloss1 text, xref1 text, s_inf1 text)''')
-    print("Put data into JP_Sentence")
-    sentence_cursor.execute("INSERT INTO \
-    JP_Sentence_Test (for, pos1, gloss1, xref1, s_inf1)\
-    values(?, ?, ?, ?, ?)", (thing_set.lastrowid, pos_dict['pos 1'], gloss_dict['gloss 1'], 'NULL', 'NULL') )
-    sentence_con.commit()
+        #JP_Sentence_Test(id    integer    primary    key,    for integer, pos1 text, gloss1 text, xref1 text, s_inf1 text)''')
+        print("Put data into JP_Sentence")
+        sentence_cursor.execute("INSERT INTO \
+        JP_Sentence_Test (for, pos1, gloss1, xref1, s_inf1)\
+        values(?, ?, ?, ?, ?)", (thing_set.lastrowid, pos_dict['pos 1'], gloss_dict['gloss 1'], 'NULL', 'NULL') )
+        sentence_con.commit()
 
-    # --------------------------
+        # --------------------------
 
 
 
@@ -292,8 +285,9 @@ for entry in root[7:9]:
     # print('^^^^^^^^^^^^^^ PRINTOUTS ^^^^^^^^^^^^^^\n\n')
 
     #input("Press any key to continue...")
-sentence_con.close()
-main_con.close()
+if DATABASE_ENABLE:
+    sentence_con.close()
+    main_con.close()
 
 
 

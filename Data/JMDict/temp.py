@@ -10,10 +10,11 @@ if platform.system() == 'Windows':
 root = tree.getroot()
 
 # highest R_ELE and K_ELE are both 9
+highest_gloss = 0
 
-
-
-for entry in root[:10]:
+counter = 0
+for entry in root:
+    counter += 1
     r_el = []
     k_el = []
     g_el = []
@@ -35,7 +36,6 @@ for entry in root[:10]:
     reading_elements = entry.findall('r_ele')  # get all reading elements
 
     for count, reading in enumerate(reading_elements, start=1):
-        print(count)
         # find everything based on tag
         for child in reading:
             if child.tag == 'reb':
@@ -59,6 +59,7 @@ for entry in root[:10]:
     keb_dict = {}
     ke_pri_dict = {}
     ke_inf_dict = {}
+
 
     kanji_elements = entry.findall('k_ele')  # get all kanji elements
 
@@ -91,6 +92,7 @@ for entry in root[:10]:
     stagr_dict = {}
     sense_elements = entry.findall('sense')  # get all sense elements
 
+
     for count, sense in enumerate(sense_elements, start=1):
         # find everything based on tag
         g_str = ""
@@ -107,7 +109,8 @@ for entry in root[:10]:
                 print(f'misc {count}: ' + child.text)
             if child.tag == 'lsource':
                 lsource_dict[child.tag + ' ' + str(count)] = child.text
-                print(f'lsource {count}: ' + child.text)
+                print(child.text)
+                print(f'lsource {count}: ' + child.attrib['lang'])
             if child.tag == 's_inf':
                 s_inf_dict[child.tag + ' ' + str(count)] = child.text
                 s_inf_el.append(child.text)
@@ -133,7 +136,6 @@ for entry in root[:10]:
                 print(f'stagr {count}: ' + child.text)
             if child.tag == 'sense':
                 print("still in sense")
-
         # clean gloss, add to dictionary, and clear it
         g_el.append(g_str.rstrip('; '))
         gloss_dict['gloss ' + str(count)] = g_el
@@ -142,25 +144,28 @@ for entry in root[:10]:
     # end SENSE elements
 
     # working !!
-
-    print(f'[{len(reb_dict)}] reb_dict: ' + str(reb_dict))
-    print(f'[{len(keb_dict)}] kab_dict: ' + str(keb_dict))
-    print(f'[{len(gloss_dict)}] gloss_dict: ' + str(gloss_dict))
-    print(f'[{len(xref_dict)}] xref_dict: ' + str(xref_dict))
-    print(f'[{len(pos_dict)}] pos_dict: ' + str(pos_dict))
-    print(f'[{len(re_nokanji_dict)}] re_nokanji_dict: ' + str(re_nokanji_dict))
-    print(f'[{len(re_restr_dict)}] re_restr_dict: ' + str(re_restr_dict))
-    print(f'[{len(re_inf_dict)}] re_inf_dict: ' + str(re_inf_dict))
-    print(f'[{len(ke_pri_dict)}] ke_pri_dict: ' + str(ke_pri_dict))
-    print(f'[{len(ke_inf_dict)}] ke_inf_dict: ' + str(ke_inf_dict))
-    print(f'[{len(s_inf_dict)}] s_inf_dict: ' + str(s_inf_dict))
-    print(f'[{len(misc_dict)}] misc_dict: ' + str(misc_dict))
-    print(f'[{len(lsource_dict)}] lsource_dict: ' + str(lsource_dict))
-    print(f'[{len(field_dict)}] field_dict: ' + str(field_dict))
-    print(f'[{len(ant_dict)}] ant_dict: ' + str(ant_dict))
-    print(f'[{len(dial_dict)}] dial_dict: ' + str(dial_dict))
-    print(f'[{len(stagk_dict)}] stagk_dict: ' + str(stagk_dict))
-    print(f'[{len(stagr_dict)}] stagr_dict: ' + str(stagr_dict))
+    if len(gloss_dict) > highest_gloss:
+        highest_gloss = len(gloss_dict)
+    print(f'gloss #: {highest_gloss}')
+    print('====================')
+    # print(f'[{len(reb_dict)}] reb_dict: ' + str(reb_dict))
+    # print(f'[{len(keb_dict)}] kab_dict: ' + str(keb_dict))
+    # print(f'[{len(gloss_dict)}] gloss_dict: ' + str(gloss_dict))
+    # print(f'[{len(xref_dict)}] xref_dict: ' + str(xref_dict))
+    # print(f'[{len(pos_dict)}] pos_dict: ' + str(pos_dict))
+    # print(f'[{len(re_nokanji_dict)}] re_nokanji_dict: ' + str(re_nokanji_dict))
+    # print(f'[{len(re_restr_dict)}] re_restr_dict: ' + str(re_restr_dict))
+    # print(f'[{len(re_inf_dict)}] re_inf_dict: ' + str(re_inf_dict))
+    # print(f'[{len(ke_pri_dict)}] ke_pri_dict: ' + str(ke_pri_dict))
+    # print(f'[{len(ke_inf_dict)}] ke_inf_dict: ' + str(ke_inf_dict))
+    # print(f'[{len(s_inf_dict)}] s_inf_dict: ' + str(s_inf_dict))
+    # print(f'[{len(misc_dict)}] misc_dict: ' + str(misc_dict))
+    # print(f'[{len(lsource_dict)}] lsource_dict: ' + str(lsource_dict))
+    # print(f'[{len(field_dict)}] field_dict: ' + str(field_dict))
+    # print(f'[{len(ant_dict)}] ant_dict: ' + str(ant_dict))
+    # print(f'[{len(dial_dict)}] dial_dict: ' + str(dial_dict))
+    # print(f'[{len(stagk_dict)}] stagk_dict: ' + str(stagk_dict))
+    # print(f'[{len(stagr_dict)}] stagr_dict: ' + str(stagr_dict))
 
 
 
@@ -194,8 +199,9 @@ for entry in root[:10]:
     #     print(f'\t\t\t{count} {s_inf}')
 
     # print('^^^^^^^^^^^^^^ PRINTOUTS ^^^^^^^^^^^^^^\n\n')
-
-    input("Press any key to continue...")
+    if counter % 20 == 0:
+        counter = 0
+        input("Press any key to continue...")
 
     # print out information
 
