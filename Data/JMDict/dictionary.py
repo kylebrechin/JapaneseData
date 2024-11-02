@@ -13,24 +13,24 @@ class bcolors:
     BOLD = '\033[1m'
     UNDERLINE = '\033[4m'
 
-# if platform.system() == 'Darwin':
-    #tree = ET.parse("/Users/kyle/GitHub/JapaneseData/Data/JMDict/TEST_jmDict.xml")
-# if platform.system() == 'Windows':
-    #ree = ET.parse("/Users/HELLHEIM/Documents/JapaneseData/Data/JMDict/TEST_jmDict.xml")
-tree = ET.parse("/Users/kyle/Downloads/JMdict_e")
+if platform.system() == 'Darwin':
+    tree = ET.parse("/Users/kyle/GitHub/JapaneseData/Data/JMDict/TEST_jmDict.xml")
+if platform.system() == 'Windows':
+    tree = ET.parse("/Users/HELLHEIM/Documents/JapaneseData/Data/JMDict/TEST_jmDict.xml")
+
 root = tree.getroot()
+
+
 
 # highest R_ELE and K_ELE are both 9
 
-
+DICT_DEBUG_PRINT = True
 JISHO_DEBUG = False
-DICT_DEBUG_PRINT = False
 
 
-reb_count = 0
 
 
-for entry in root:
+for entry in root[7:9]:
     r_el = []
     k_el = []
     g_el = []
