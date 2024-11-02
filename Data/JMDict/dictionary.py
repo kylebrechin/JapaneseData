@@ -70,11 +70,13 @@ for entry in root[:10]:
 
     # search through all the R_ELE elements in this entry
     for count, reading in enumerate(reading_elements, start=1):
-        print(f'#{count} {reading}')
+
         # find everything based on tag
         for child in reading:
+            print(f'{reading.tag} => {child.tag}')
             if child.tag == 'reb':
                 r_el.append(child.text)
+                reb_dict['reb ' + str(count)] = child.text
                 reb_dict[child.tag + ' ' + str(count)] = child.text
                 # print(f'reb {count}: ' + child.text)
             if child.tag == 're_nokanji':
@@ -87,7 +89,7 @@ for entry in root[:10]:
                 re_inf_dict[child.tag + ' ' + str(count)] = child.text
                 # print(f're_inf {count}: ' + child.text)
 
-        input(f'{bcolors.OKGREEN}Continue >>>{bcolors.ENDC}')
+        #input(f'{bcolors.OKGREEN}Continue >>>{bcolors.ENDC}')
 
     # end READING elements
     # FIND KANJI
@@ -99,7 +101,7 @@ for entry in root[:10]:
         for child in kanji:
             if child.tag == 'keb':
                 k_el.append(child.text)
-                keb_dict[child.tag + ' ' + str(count)] = child.text
+
                 # print(f'keb {count}: ' + child.text)
             if child.tag == 'ke_pri':
                 ke_pri_dict[child.tag + ' ' + str(count)] = child.text
@@ -107,7 +109,7 @@ for entry in root[:10]:
             if child.tag == 'ke_inf':
                 ke_inf_dict[child.tag + ' ' + str(count)] = child.text
                 # print(f'ke_inf {count}: ' + child.text)
-
+        keb_dict[child.tag + ' ' + str(count)] = child.text
     # end KANJI elements
 
     # FIND SENSE
@@ -161,7 +163,17 @@ for entry in root[:10]:
 
     # end SENSE elements
 
-    # working !!
+
+
+    print(reb_dict)
+    print(gloss_dict)
+    print("Next Entry ===>")
+
+
+
+    # ***************************
+    # All Data Retrieved from the <ENTRY>
+    # ***************************
     if DICT_DEBUG_PRINT:
         if len(reb_dict):
             print(f'{bcolors.HEADER}[{len(reb_dict)}]{bcolors.ENDC} {bcolors.OKCYAN}reb_dict:{bcolors.ENDC} ' + str(reb_dict))
