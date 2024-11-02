@@ -144,7 +144,7 @@ for entry in root[5:10]:
 
 # ALL AVAILABLE TAGS
 
-# r_ele
+# r_ele         - 'reb', 're_nokanji', 're_pri', 're_inf', 're_restr'
     # reb
     # re_nokanji
     # re_restr
@@ -155,7 +155,7 @@ for entry in root[5:10]:
     # ke_pri
     # ke_inf
 
-# sense
+# sense         - 'ant', 'pos', 'lsource', 'field', 'gloss', 'dial', 'stagk', 'misc', 's_inf', 'stagr', 'xref'
     # pos
     # gloss
     # misc
