@@ -43,15 +43,25 @@ for entry in root[:5]:
                 r_el.append(child.text)
                 reb_dict[child.tag + ' ' + str(count)] = child.text
                 print(f'reb {count}: ' + child.text)
+            else:
+                print('no reb')
             if child.tag == 're_nokanji':
                 re_nokanji_dict[child.tag + ' ' + str(count)] = child.text
                 print('re_nokanji')
+            else:
+                print('no re_nokanji')
             if child.tag == 're_restr':
                 re_restr_dict[child.tag + ' ' + str(count)] = child.text
                 print(f're_restr {count}: ' + child.text)
+            else:
+                print('no re_restr')
             if child.tag == 're_inf':
                 re_inf_dict[child.tag + ' ' + str(count)] = child.text
                 print(f're_inf {count}: ' + child.text)
+            else:
+                print('no re_inf')
+
+            input("Press any key to continue >>>")
 
 
 
