@@ -16,18 +16,26 @@ def Stuff():
     if reb_dict.get('reb 1'):
         print(f"reb 1: {reb_dict['reb 1']}")
     if reb_dict.get('reb 2'):
-        print(f"reb 2: {reb_dict['reb 2']}")
+        if reb_dict.get('re_nokanji 2'):
+            print(f"reb 2: {reb_dict['reb 2']}")
+        else:
+            reb_dict['other_forms'] = reb_dict['reb 2'] + '; '
+            reb_dict.pop('re_nokanji 2', None)
+            print(f"other forms: {reb_dict['other_forms'].rstrip('; ')}")
     else:
         print("reb 2: None")
+    # ^^^ this is fucked up and broken as shit for kani too
+
+
     # keb
-    if keb_dict.get('keb 1'):
-        print(f"keb 1: {keb_dict['keb 1']}")
-    else:
-        print("keb 1: None")
-    if keb_dict.get('keb 2'):
-        print(f"keb 2: {keb_dict['keb 2']}")
-    else:
-        print("keb 2: None")
+    # if keb_dict.get('keb 1'):
+    #     print(f"keb 1: {keb_dict['keb 1']}")
+    # else:
+    #     print("keb 1: None")
+    # if keb_dict.get('keb 2'):
+    #     print(f"keb 2: {keb_dict['keb 2']}")
+    # else:
+    #     print("keb 2: None")
 
     # pos
 

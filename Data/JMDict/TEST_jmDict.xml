@@ -558,7 +558,6 @@ various information fields.
 		</entry>
 		<entry>
 				<k_ele>
-<<<<<<< HEAD
 						<keb>あうんの呼吸</keb>
 				</k_ele>
 				<k_ele>
@@ -578,8 +577,7 @@ various information fields.
 		</entry>
 		<entry>
 				<k_ele>
-=======
->>>>>>> 1c16e37338e4bb7084a8b036a949983427897d68
+
 						<keb>〃</keb>
 				</k_ele>
 				<r_ele>
@@ -1357,3 +1355,4 @@ various information fields.
 						<gloss>(in spite of) being old enough to know better</gloss>
 				</sense>
 		</entry>
+</JMdict>
