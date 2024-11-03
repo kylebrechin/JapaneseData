@@ -10,6 +10,38 @@ if platform.system() == 'Windows':
 
 root = tree.getroot()
 
+#   reb_dict.get('')
+def Stuff():
+    # reb
+    if reb_dict.get('reb 1'):
+        print(f"reb 1: {reb_dict['reb 1']}")
+    if reb_dict.get('reb 2'):
+        print(f"reb 2: {reb_dict['reb 2']}")
+    else:
+        print("reb 2: None")
+    # keb
+    if keb_dict.get('keb 1'):
+        print(f"keb 1: {keb_dict['keb 1']}")
+    else:
+        print("keb 1: None")
+    if keb_dict.get('keb 2'):
+        print(f"keb 2: {keb_dict['keb 2']}")
+    else:
+        print("keb 2: None")
+
+    # pos
+
+    # gloss
+
+    # xref
+
+
+    # this loop will only print items in the checked tag
+    # for item in tags:
+    #     for i in range(0,5):
+    #         if reb_dict.get(item + str(i+1)):
+    #             print(f'{item}{i+1}: {reb_dict[item + str(i + 1)]}')
+
 for entry in root[:10]:
     reb_dict = {}
     keb_dict = {}
@@ -44,6 +76,7 @@ for entry in root[:10]:
             else:
                 print('ERROR' + child.tag + ' not found')
 
+
     sense_elements = entry.findall('sense')  # get all sense elements
     for count, sense in enumerate(sense_elements, start=1):
         g_str = ""
@@ -77,7 +110,7 @@ for entry in root[:10]:
                 print('ERROR' + child.tag + ' not found')
         sense_dict['gloss ' + str(count)] = g_str.rstrip('; ')
 
-
+    # restructure data to be used
 
 
 
@@ -88,3 +121,6 @@ for entry in root[:10]:
     print(keb_dict)
     print(sense_dict)
     print('----------')
+    Stuff()
+    print('----------')
+
