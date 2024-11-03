@@ -73,7 +73,6 @@ for entry in root[:10]:
 
         # find everything based on tag
         for child in reading:
-            print(f'{reading.tag} => {child.tag}')
             if child.tag == 'reb':
                 r_el.append(child.text)
                 reb_dict['reb ' + str(count)] = child.text
@@ -166,6 +165,7 @@ for entry in root[:10]:
 
 
     print(reb_dict)
+    print(pos_dict)
     print(gloss_dict)
     print("Next Entry ===>")
 
