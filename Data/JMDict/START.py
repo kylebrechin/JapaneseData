@@ -1,54 +1,13 @@
 from xml.etree import ElementTree as ET
 import platform
 
-tags = ['reb ', 're_restr ', 're_pri ', 'keb ', 'k_pri ']
 
 if platform.system() == 'Darwin':
-    tree = ET.parse("/Users/kyle/GitHub/JapaneseData/Data/JMDict/TEST_jmDict.xml")
+    tree = ET.parse("/Users/kyle/Downloads/JMdict_e.xml")
 if platform.system() == 'Windows':
     tree = ET.parse("/Users/HELLHEIM/Documents/JapaneseData/Data/JMDict/TEST_jmDict.xml")
 
 root = tree.getroot()
-
-#   reb_dict.get('')
-def Stuff():
-    # reb
-    if reb_dict.get('reb 1'):
-        print(f"reb 1: {reb_dict['reb 1']}")
-    if reb_dict.get('reb 2'):
-        if reb_dict.get('re_nokanji 2'):
-            print(f"reb 2: {reb_dict['reb 2']}")
-        else:
-            reb_dict['other_forms'] = reb_dict['reb 2'] + '; '
-            reb_dict.pop('re_nokanji 2', None)
-            print(f"other forms: {reb_dict['other_forms'].rstrip('; ')}")
-    else:
-        print("reb 2: None")
-    # ^^^ this is fucked up and broken as shit for kani too
-
-
-    # keb
-    # if keb_dict.get('keb 1'):
-    #     print(f"keb 1: {keb_dict['keb 1']}")
-    # else:
-    #     print("keb 1: None")
-    # if keb_dict.get('keb 2'):
-    #     print(f"keb 2: {keb_dict['keb 2']}")
-    # else:
-    #     print("keb 2: None")
-
-    # pos
-
-    # gloss
-
-    # xref
-
-
-    # this loop will only print items in the checked tag
-    # for item in tags:
-    #     for i in range(0,5):
-    #         if reb_dict.get(item + str(i+1)):
-    #             print(f'{item}{i+1}: {reb_dict[item + str(i + 1)]}')
 
 for entry in root[:10]:
     reb_dict = {}
@@ -57,33 +16,19 @@ for entry in root[:10]:
 
     reading_elements = entry.findall('r_ele')  # get all reading elements
     for count, reading in enumerate(reading_elements, start=1):
+        if count > 2:
+            break
         for child in reading:
             if child.tag == 'reb':
                 reb_dict[str(child.tag) + ' ' + str(count)] = child.text
-            elif child.tag == 're_nokanji':
-                reb_dict[str(child.tag) + ' ' + str(count)] = child.text
-            elif child.tag == 're_restr':
-                reb_dict[str(child.tag) + ' ' + str(count)] = child.text
-            elif child.tag == 're_inf':
-                reb_dict[str(child.tag) + ' ' + str(count)] = child.text
-            elif child.tag == 're_pri':
-                reb_dict[str(child.tag) + ' ' + str(count)] = child.text
-            else:
-                print('ERROR' + child.tag + ' not found')
-
 
     kanji_elements = entry.findall('k_ele')  # get all kanji elements
     for count, kanji in enumerate(kanji_elements, start=1):
+        if count > 2:
+            break
         for child in kanji:
             if child.tag == 'keb':
                 keb_dict[str(child.tag) + ' ' + str(count)] = child.text
-            elif child.tag == 'ke_pri':
-                keb_dict[str(child.tag) + ' ' + str(count)] = child.text
-            elif child.tag == 'ke_inf':
-                keb_dict[str(child.tag) + ' ' + str(count)] = child.text
-            else:
-                print('ERROR' + child.tag + ' not found')
-
 
     sense_elements = entry.findall('sense')  # get all sense elements
     for count, sense in enumerate(sense_elements, start=1):
@@ -96,8 +41,6 @@ for entry in root[:10]:
                 #pos_el.append(child.text)
             elif child.tag == 'misc':
                 sense_dict[str(child.tag) + ' ' + str(count)] = child.text
-            elif child.tag == 'lsource':
-                sense_dict[str(child.tag) + ' ' + str(count)] = child.text
             elif child.tag == 's_inf':
                 sense_dict[child.tag + ' ' + str(count)] = child.text
                 #s_inf_el.append(child.text)
@@ -106,16 +49,8 @@ for entry in root[:10]:
                 #xref_el.append(child.text)
             elif child.tag == 'field':
                 sense_dict[str(child.tag) + ' ' + str(count)] = child.text
-            elif child.tag == 'ant':
-                sense_dict[str(child.tag) + ' ' + str(count)] = child.text
-            elif child.tag == 'dial':
-                sense_dict[str(child.tag) + ' ' + str(count)] = child.text
-            elif child.tag == 'stagk':
-                sense_dict[str(child.tag) + ' ' + str(count)] = child.text
-            elif child.tag == 'stagr':
-                sense_dict[str(child.tag) + ' ' + str(count)] = child.text
             else:
-                print('ERROR' + child.tag + ' not found')
+                print('ERROR ' + child.tag + ' not found')
         sense_dict['gloss ' + str(count)] = g_str.rstrip('; ')
 
     # restructure data to be used
@@ -125,10 +60,11 @@ for entry in root[:10]:
 
 
 
-    print(reb_dict)
-    print(keb_dict)
-    print(sense_dict)
-    print('----------')
-    Stuff()
-    print('----------')
+    # print(reb_dict)
+    # print(keb_dict)
+    # print(sense_dict)
+    # for key, value in sense_dict.items():
+    #     print(f'{key}: {value}')
+    # print('----------')
+
 
