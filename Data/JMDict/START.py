@@ -1,15 +1,28 @@
 from xml.etree import ElementTree as ET
 import platform
 
+class bcolors:
+    HEADER = '\033[95m'         # pink
+    OKBLUE = '\033[94m'         # blue
+    OKCYAN = '\033[96m'         # cyan
+    OKGREEN = '\033[92m'        # green
+    WARNING = '\033[93m'        # yellow
+    FAIL = '\033[91m'           # red
+    ENDC = '\033[0m'            # end color
+    BOLD = '\033[1m'            # bold
+    UNDERLINE = '\033[4m'       # underline
+
 
 if platform.system() == 'Darwin':
-    tree = ET.parse("/Users/kyle/Downloads/JMdict_e.xml")
+    tree = ET.parse("/Users/kyle/GitHub/JapaneseData/Data/JMDict/JMdict_e.xml")
 if platform.system() == 'Windows':
     tree = ET.parse("/Users/HELLHEIM/Documents/JapaneseData/Data/JMDict/TEST_jmDict.xml")
 
+
+
 root = tree.getroot()
 
-for entry in root[:10]:
+for entry in root[:10000]:
     reb_dict = {}
     keb_dict = {}
     sense_dict = {}
@@ -33,6 +46,7 @@ for entry in root[:10]:
     sense_elements = entry.findall('sense')  # get all sense elements
     for count, sense in enumerate(sense_elements, start=1):
         g_str = ""
+        l_str = ""
         for child in sense:
             if child.tag == 'gloss':
                 g_str += child.text + '; '
@@ -49,8 +63,15 @@ for entry in root[:10]:
                 #xref_el.append(child.text)
             elif child.tag == 'field':
                 sense_dict[str(child.tag) + ' ' + str(count)] = child.text
-            else:
-                print('ERROR ' + child.tag + ' not found')
+            elif child.tag == 'lsource':
+                for name, value in child.attrib.items():
+                    l_str += f'{name}="{value}"; '
+                sense_dict['lsource ' + str(count)] = l_str.rstrip('; ')
+            elif child.tag == 'dial':
+                sense_dict[str(child.tag) + ' ' + str(count)] = child.text
+            # else:
+            #     print('ERROR ' + child.tag + ' not found')
+
         sense_dict['gloss ' + str(count)] = g_str.rstrip('; ')
 
     # restructure data to be used
@@ -62,7 +83,7 @@ for entry in root[:10]:
 
     # print(reb_dict)
     # print(keb_dict)
-    # print(sense_dict)
+    print(sense_dict)
     # for key, value in sense_dict.items():
     #     print(f'{key}: {value}')
     # print('----------')
